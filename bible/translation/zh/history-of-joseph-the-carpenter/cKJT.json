@@ -1,0 +1,22 @@
+{
+  "book_id": "history-of-joseph-the-carpenter",
+  "unit_id": "cKJT",
+  "source_sha256": "b3662adc1a5ca5b42a84352bd8d48c8a9f6733c713dc2804680a4ba27bbc5cbb",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "木匠约瑟的历史"
+    },
+    {
+      "id": "p0002",
+      "zh": "这部作品很可能写于六或七世纪，以耶稣在橄榄山上追述父亲约瑟一生的形式写成，其中保存了多项古代教会传统。本书特别记载，约瑟活到一百一十一岁。"
+    }
+  ],
+  "references": [
+    "基督教典外文献（共10册）_手机版.txt，木匠约瑟的历史导言，46478—46482行；年代与内容依英文卷首。"
+  ],
+  "notes": [
+    "卷首Mount of Oives依同书明确的Mount of Olives修正，译橄榄山。"
+  ]
+}

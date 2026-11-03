@@ -1,0 +1,18 @@
+{
+  "book_id": "apostolic-church-order",
+  "unit_id": "cG98",
+  "source_sha256": "0e87cb584cd7852cc0f19173b82cdabbb4f869b4bcaefd0ba93aa115f3fb92f2",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "奉主耶稣基督的名，向众儿女问安。约翰、马太、彼得、安得烈、腓力、西门、雅各、拿但业、多马、矶法、巴多罗买，以及雅各的犹大。"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》与reference-map，未找到本书对应中文全文；依英文底本逐块翻译，与新约及十二使徒遗训相近处仅借鉴通行中文措辞。"
+  ],
+  "notes": [
+    "英文仅作Judas of James，未明写父子或兄弟关系，此处照留。名单同时列彼得与矶法，未合并。"
+  ]
+}

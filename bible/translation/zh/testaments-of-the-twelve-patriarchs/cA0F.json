@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cA0F",
+  "source_sha256": "3665b5c1d6252f8b89c7bbefc4a8b5df906abad81ba2832149899111f9aa5928",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与利亚的第三子利未的遗训"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：18945—19007（利未遗训1—10）；参考措辞，内容及分节依英文。"
+  ],
+  "notes": []
+}

@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cAET",
+  "source_sha256": "d8b3bae3ec7cf82b3d1bc9eba631b640acdde31810a3da7e99effad7c199c495",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与辟拉的第七个儿子但的遗训"
+    }
+  ],
+  "references": [
+    "基督教典外文献（共10册）_手机版.txt，19395—19505行，但遗训；英文控制内容、分节及双方括号标记。"
+  ],
+  "notes": []
+}

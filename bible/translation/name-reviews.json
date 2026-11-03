@@ -1,0 +1,94 @@
+{
+  "the-sibylline-oracles:cRFU:p0359:Kronos": {
+    "sha256": "8b549726904635b25ae8d8e642b0217e7484a164c76a4108e17f09d1a61ba560",
+    "reason": "克罗诺斯已按中文语序前移至相邻p0358，p0358—p0360合读完整对应英文，无漏名。"
+  },
+  "the-sibylline-oracles:cSCS:p0149:Kronos": {
+    "sha256": "d4db7cc79fefd76a01f71c71094e4ddf712adfecf1ab24a22578c3b580826a20",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cSCS:p0160:Kronos": {
+    "sha256": "432c205616ed990c8dcaa057c99e0b068f584f9521c1c0431791000757651d5f",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cSCS:p0166:Titan": {
+    "sha256": "e2c64abd825152f4ab67a5b4a5593ff4261e5490e7b5d75958bf9708b8fcaeca",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cSCS:p0174:Pluto": {
+    "sha256": "534503e19e45159238c1f3b3e15dbb967373568deac73de0c7c00e60f8d9eb37",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cSCS:p0180:Kronos": {
+    "sha256": "c5a16f0c1c5e463fa8ae7112d2de83673e3ee13d3332e17e594873c35d5b9d0c",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cSCS:p0181:Rhea": {
+    "sha256": "1e46c7096eb8dc903d2024faa725a1c4928e8992a64d29765b5d7fc23bb6af7b",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cSCS:p0498:Ares": {
+    "sha256": "60b1279eb7ce5610fe7028081530e20245c261bb1637db8ee6486553809adcd5",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cSCS:p0508:Poseidon": {
+    "sha256": "5347f6bbc874c09cae7be426fe6eedb9a4651edbd9fda056121621cd023dcecf",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cTN5:p0654:Acheron": {
+    "sha256": "2be547ec506d255265c8e3eb46e4ff5657ff27b0cf764babafa40d79696a5ba2",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cV96:p0139:Ares": {
+    "sha256": "c53df9baae6242267f4638f29a81af8323c1bff0164a2f243405dd9fce41d4eb",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cV96:p0253:Ares": {
+    "sha256": "a8a3562c45de4a951c58e85dad22da9a83ed9d06d424009064ec238ae489a6ce",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cV96:p0295:Ares": {
+    "sha256": "f4986e89926bfab858583de317ce190c025b873ce48b8b229535bc388f4b22f5",
+    "reason": "已逐行并合读相邻行对照原文，此名称随中文语序移至前后相邻诗行，未遗漏。"
+  },
+  "the-sibylline-oracles:cVPU:p0208:Ares": {
+    "radius": 1,
+    "sha256": "fd6044b5c5586d2be8c7f664e17a0e287d9bb7218ce6349380efb3ee5a24ac75",
+    "reason": "已对照英文合读相邻诗行，名称随中文语序移至邻行，原义和姓名均完整保留。"
+  },
+  "the-sibylline-oracles:cVPU:p0239:Ares": {
+    "radius": 1,
+    "sha256": "49937f7f20de1d95b81bb531a02aabe0961368eeb2f055a806321a22dad654f0",
+    "reason": "已对照英文合读相邻诗行，名称随中文语序移至邻行，原义和姓名均完整保留。"
+  },
+  "the-sibylline-oracles:cVPU:p0294:Ares": {
+    "radius": 1,
+    "sha256": "6e797048b048ec174da94c9c3dcd40ca762cd2da8e92ac02310b2373a3dd87f5",
+    "reason": "已对照英文合读相邻诗行，名称随中文语序移至邻行，原义和姓名均完整保留。"
+  },
+  "the-sibylline-oracles:cW2Z:p0027:Ares": {
+    "radius": 2,
+    "sha256": "57d197eb379e5f34fe28202a1e18d95a9af41ec41b7a56df1537158a21ff284b",
+    "reason": "已对照英文合读相邻诗行，名称随中文语序移至邻行，原义和姓名均完整保留。"
+  },
+  "the-sibylline-oracles:cW2Z:p0051:Ares": {
+    "radius": 1,
+    "sha256": "dee4a7b6064ec80c54f1ee82be10896e86c9bea3032ba99411d2ea333b4052f9",
+    "reason": "已对照英文合读相邻诗行，名称随中文语序移至邻行，原义和姓名均完整保留。"
+  },
+  "the-sibylline-oracles:cW2Z:p0081:Ares": {
+    "radius": 1,
+    "sha256": "aac4b3da10a1c1e5065fbe6c35b36af9ef888715190197abdb95a874f43787c2",
+    "reason": "已对照英文合读相邻诗行，名称随中文语序移至邻行，原义和姓名均完整保留。"
+  },
+  "the-sibylline-oracles:cW2Z:p0141:Ares": {
+    "radius": 1,
+    "sha256": "b6d783dd2a25a49dffd854ef47f97aee0e759f2fd9ea2c7e954f08583895448b",
+    "reason": "已对照英文合读相邻诗行，名称随中文语序移至邻行，原义和姓名均完整保留。"
+  },
+  "the-sibylline-oracles:cW2Z:p0180:Pyramus": {
+    "radius": 1,
+    "sha256": "c05cc9e313b08b88ae801d3b6ca81de37a4086b759e8055aaae97e612eef388a",
+    "reason": "已对照英文合读相邻诗行，名称随中文语序移至邻行，原义和姓名均完整保留。"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cAMK",
+  "source_sha256": "4362629eb81db7ccbb6d3f3845329d6d87ee78f1278b9fe7a784f8f398a72013",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各和悉帕的第十个儿子亚设的遗训"
+    }
+  ],
+  "references": [
+    "中文参考《基督教典外文献（共10册）_手机版.txt》，《十二族长遗训》亚设遗训，19606—19635行附近；逐段对照，保留英文本数字、人称和异文括注内的全部内容。"
+  ],
+  "notes": []
+}

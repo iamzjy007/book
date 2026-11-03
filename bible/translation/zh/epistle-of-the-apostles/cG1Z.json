@@ -1,0 +1,20 @@
+{
+  "book_id": "epistle-of-the-apostles",
+  "unit_id": "cG1Z",
+  "source_sha256": "62fd7982fa95114f759cbdfaded67aa38596ca37fb4119344829fe92ec20dfca",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第二十二章"
+    },
+    {
+      "id": "p0002",
+      "zh": "祂这样说了，我们就问祂：“主啊，肉身真的要与魂和灵一同受审判吗？是否有一部分在天上安息，另一部分却仍然活着，永远受刑呢？”祂对我们说：“你们还要追问、疑惑到几时呢？”"
+    }
+  ],
+  "references": [
+    "已检索《基督教典外文献（共10册）_手机版.txt》的使徒书信、使徒们的书信、使徒的书信、Epistula及Cerinthus等名称，未找到对应正文；本单元依据英文EPUB独立翻译。"
+  ],
+  "notes": []
+}

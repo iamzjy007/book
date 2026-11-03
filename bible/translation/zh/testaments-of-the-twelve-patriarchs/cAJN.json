@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cAJN",
+  "source_sha256": "0eb6346a0bc781bcd1e86ec92304bf66c8413fdfa0c4f08844183be093b74833",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各和悉帕的第九个儿子迦得的遗训"
+    }
+  ],
+  "references": [
+    "中文参考《基督教典外文献（共10册）_手机版.txt》，《十二族长遗训》迦得遗训，19583—19604行附近；逐段对照，保留英文本数字、人称和异文括注内的全部内容。"
+  ],
+  "notes": []
+}

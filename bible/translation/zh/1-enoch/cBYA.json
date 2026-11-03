@@ -1,0 +1,16 @@
+{
+  "book_id": "1-enoch",
+  "unit_id": "cBYA",
+  "source_sha256": "60dcbacffc9e4e598c79f95f6870a2e65a6a8ed4609a1b24de96fa94174b401f",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第五部分：以诺书信"
+    }
+  ],
+  "references": [
+    "英文EPUB分部标题；中文参考本第8章以诺一书91—107对应此部分，未增添参考标题。"
+  ],
+  "notes": []
+}

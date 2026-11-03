@@ -1,0 +1,20 @@
+{
+  "book_id": "revelation-of-stephen",
+  "unit_id": "cR6F",
+  "source_sha256": "bd5cb43ac0c316126ccb24ac376b3e554269ea8a812cfea38dfc6a4721fe07fd",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "司提反启示录"
+    },
+    {
+      "id": "p0002",
+      "zh": "《司提反启示录》扩写了圣经中殉道者司提反受死的记载，写成于六世纪以前。最后关于彼拉多的一段，可能是后来增添的。"
+    }
+  ],
+  "references": [
+    "检索中文参考《基督教典外文献（共10册）_手机版.txt》，未找到《司提反启示录》对应正文；本卷完整依英文底本翻译。"
+  ],
+  "notes": []
+}

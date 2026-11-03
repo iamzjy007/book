@@ -1,0 +1,16 @@
+{
+  "book_id": "1-enoch",
+  "unit_id": "cBWC",
+  "source_sha256": "4fcac2b2b837f2590fc2688e3e4ff0ec6820902842e7ad9da0d207dc3e65f11b",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第四部：梦中异象之书"
+    }
+  ],
+  "references": [
+    "基督教典外文献（共10册）_手机版.txt，674—731行，以诺一书83—88章；依英文保留版本差异、异象细节与补文标记。"
+  ],
+  "notes": []
+}

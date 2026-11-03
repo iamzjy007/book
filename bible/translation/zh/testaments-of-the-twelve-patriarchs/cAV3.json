@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cAV3",
+  "source_sha256": "a2d43b01ca9486d632f43f5e63de1ce618b74f97ebffd5ff89690dddab589516",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与拉结的第十二子便雅悯的遗训"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：19761—19789（便雅悯遗训1—10）；参考措辞，内容及分节依英文。"
+  ],
+  "notes": []
+}

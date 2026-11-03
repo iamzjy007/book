@@ -1,0 +1,24 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cA08",
+  "source_sha256": "6cd4e981e97330478e9fa4f04005ce9e2de7b2585c505e2ddaf8b6c807b73d28",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第九章"
+    },
+    {
+      "id": "p0002",
+      "zh": "西缅的儿子们为父亲哀哭。"
+    },
+    {
+      "id": "p0003",
+      "zh": "他们住在埃及，直到借摩西的手离开的那日。"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：18883—18943（西缅遗训）；参考措辞，内容及分节依英文。"
+  ],
+  "notes": []
+}

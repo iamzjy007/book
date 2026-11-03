@@ -1,0 +1,24 @@
+{
+  "book_id": "apostolic-church-order",
+  "unit_id": "cGBF",
+  "source_sha256": "6d8702103e9e27e5f8362f3fc26adb0c3994a3d27ea79971bc676185944d504c",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第九章"
+    },
+    {
+      "id": "p0002",
+      "zh": "西门说：“我儿，不可口出污言，也不可眼目高傲，"
+    },
+    {
+      "id": "p0003",
+      "zh": "因为奸淫从这些事而生。”"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》与reference-map，未找到本书对应中文全文；依英文底本逐块翻译，与新约及十二使徒遗训相近处仅借鉴通行中文措辞。"
+  ],
+  "notes": []
+}

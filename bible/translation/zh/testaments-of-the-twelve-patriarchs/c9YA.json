@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "c9YA",
+  "source_sha256": "c6ce88d6be9a8606c741326052b30c68fb8ac0260b7a4367feaa93facc905678",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与利亚的次子西缅的遗训"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：18883—18943（西缅遗训）；参考措辞，内容及分节依英文。"
+  ],
+  "notes": []
+}

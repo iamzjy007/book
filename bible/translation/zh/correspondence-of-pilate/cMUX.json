@@ -1,0 +1,16 @@
+{
+  "book_id": "correspondence-of-pilate",
+  "unit_id": "cMUX",
+  "source_sha256": "8138542f85cfa9349365a5fd56eead4a213464f49fc4f32c42b84141aee05a39",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "希律致彼拉多书"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt，第238、243章，49018—49033、49204—49228行；两封往来信参考本仅为摘要，按英文全文翻译。"
+  ],
+  "notes": []
+}

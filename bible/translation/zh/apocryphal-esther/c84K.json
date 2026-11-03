@@ -1,0 +1,18 @@
+{
+  "book_id": "apocryphal-esther",
+  "unit_id": "c84K",
+  "source_sha256": "32295eede6cd5d0f885ad6ad2bc10a8de9cdd020ed609601e5ec32ddfaf60de1",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "以斯帖补篇"
+    },
+    {
+      "id": "p0002",
+      "zh": "《以斯帖记》的七十士译本（LXX）包含若干希伯来文本所没有的段落，即第十一至十六章。这些希腊文章节在多种信仰传统中被列为正典。"
+    }
+  ],
+  "references": [],
+  "notes": []
+}

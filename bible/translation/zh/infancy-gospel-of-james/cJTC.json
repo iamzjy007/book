@@ -1,0 +1,18 @@
+{
+  "book_id": "infancy-gospel-of-james",
+  "unit_id": "cJTC",
+  "source_sha256": "743f8ac942ea495bf036e4c48e14f407a80419d409a56571e9326e4733658ffd",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各婴孩福音"
+    },
+    {
+      "id": "p0002",
+      "zh": "本书托名耶稣的兄弟雅各所作，两人并非同出双亲；这部文本很可能属于伪托作品，大约写于公元二世纪初或中叶，可能是最早写成的婴孩福音。"
+    }
+  ],
+  "references": [],
+  "notes": []
+}

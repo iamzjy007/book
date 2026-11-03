@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cAAP",
+  "source_sha256": "174186870d4b4631bf57a317c21ac2169f0ef3e2bf387e0eca4910a74e585d63",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与利亚的第五个儿子以萨迦的遗训"
+    }
+  ],
+  "references": [
+    "基督教典外文献（共10册）_手机版.txt，19249—19355行，以萨迦遗训；逐章核对，参考本第一章额外段落不带入。"
+  ],
+  "notes": []
+}

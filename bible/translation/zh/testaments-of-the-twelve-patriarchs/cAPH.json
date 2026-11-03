@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cAPH",
+  "source_sha256": "2bc7199401e97ec99877ad54996b78925350878ba228a55ba76f22563e7c01ba",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各和拉结的第十一个儿子约瑟的遗训"
+    }
+  ],
+  "references": [
+    "中文参考《基督教典外文献（共10册）_手机版.txt》，《十二族长遗训》约瑟遗训第一至二章，19637—19699行附近；逐段对照，保留英文本数字、人称和异文括注内的全部内容。"
+  ],
+  "notes": []
+}

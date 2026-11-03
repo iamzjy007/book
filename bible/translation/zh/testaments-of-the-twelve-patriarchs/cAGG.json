@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cAGG",
+  "source_sha256": "4be216b435c65917f70bfd87eec079d0160cdd4f1d18a3a726c0cfeee3bcb27e",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与辟拉的第八个儿子拿弗他利的遗训"
+    }
+  ],
+  "references": [
+    "基督教典外文献（共10册）_手机版.txt，19507行，拿弗他利遗训标题。"
+  ],
+  "notes": []
+}

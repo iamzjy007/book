@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "c9WK",
+  "source_sha256": "f2ab93f4bc4c9c78037fe3ee6e76a8157789ec9154259b4cd7e7e8bd8c92125d",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与利亚的长子流便的遗训"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：18845—18881（流便遗训）；参考措辞，内容及分节依英文。"
+  ],
+  "notes": []
+}

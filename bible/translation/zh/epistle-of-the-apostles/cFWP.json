@@ -1,0 +1,20 @@
+{
+  "book_id": "epistle-of-the-apostles",
+  "unit_id": "cFWP",
+  "source_sha256": "8873d2da0563d21a60bac7fd09222f81b3abaab200c7d8ae7c0995a0f05c0b2e",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "使徒书信"
+    },
+    {
+      "id": "p0002",
+      "zh": "《使徒书信》（Epistula Apostolorum）以余下十一位使徒联名书信的形式，记述耶稣一生中的事件、对话和预言。本书普遍被视为托名作品，可能写于公元二世纪早期或中期。"
+    }
+  ],
+  "references": [
+    "已检索《基督教典外文献（共10册）_手机版.txt》的使徒书信、使徒们的书信、使徒的书信、Epistula及Cerinthus等名称，未找到对应正文；本单元依据英文EPUB独立翻译。"
+  ],
+  "notes": []
+}

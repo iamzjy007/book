@@ -1,0 +1,16 @@
+{
+  "book_id": "gospel-of-the-twelve-holy-apostles",
+  "unit_id": "cM9F",
+  "source_sha256": "a559bc74e1a45f5a2af6830b100f3a69d4547d5665683c77cee0793b75979d11",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "十二圣使徒福音，并各使徒所得的启示；由希伯来文译为希腊文，再由希腊文译为叙利亚文。"
+    }
+  ],
+  "references": [
+    "已检索基督教典外文献（共10册）_手机版.txt，未找到本叙利亚文十二圣使徒福音及其相连启示录的对应译文；本单元直接依英文逐段翻译。"
+  ],
+  "notes": []
+}

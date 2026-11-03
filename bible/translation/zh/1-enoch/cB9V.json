@@ -1,0 +1,16 @@
+{
+  "book_id": "1-enoch",
+  "unit_id": "cB9V",
+  "source_sha256": "7981f5bdaaa91b484828012bb02c4148ef1994b02a9c9ea502993bb264ffe56a",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第一部：守望者之书"
+    }
+  ],
+  "references": [
+    "中文参考《基督教典外文献（共10册）_手机版.txt》，《以诺一书》第一部标题。；逐段核对，保留英文内容、编号与版本细节。"
+  ],
+  "notes": []
+}

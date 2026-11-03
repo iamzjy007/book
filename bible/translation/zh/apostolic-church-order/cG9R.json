@@ -1,0 +1,24 @@
+{
+  "book_id": "apostolic-church-order",
+  "unit_id": "cG9R",
+  "source_sha256": "bb3f56d9ee95aed51654d9162aed52e218930ad581d503f7adf13fcdc0d6d284",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第二章"
+    },
+    {
+      "id": "p0002",
+      "zh": "因此，我们认为，为提醒众弟兄，警戒各人，"
+    },
+    {
+      "id": "p0003",
+      "zh": "应当记念这话，将它吩咐你们，正如主照神的旨意，借圣灵所启示的。"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》与reference-map，未找到本书对应中文全文；依英文底本逐块翻译，与新约及十二使徒遗训相近处仅借鉴通行中文措辞。"
+  ],
+  "notes": []
+}

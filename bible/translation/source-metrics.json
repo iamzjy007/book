@@ -1,0 +1,9641 @@
+[
+  {
+    "book_id": "apocryphal-esther",
+    "words": 2630,
+    "units": [
+      {
+        "id": "c84K",
+        "label": "APOCRYPHAL ESTHER",
+        "words": 33
+      },
+      {
+        "id": "c84Y",
+        "label": "CHAPTER 11",
+        "words": 293
+      },
+      {
+        "id": "c855",
+        "label": "CHAPTER 12",
+        "words": 152
+      },
+      {
+        "id": "c85C",
+        "label": "CHAPTER 13",
+        "words": 520
+      },
+      {
+        "id": "c85K",
+        "label": "CHAPTER 14",
+        "words": 526
+      },
+      {
+        "id": "c85U",
+        "label": "CHAPTER 15",
+        "words": 418
+      },
+      {
+        "id": "c861",
+        "label": "CHAPTER 16",
+        "words": 688
+      }
+    ]
+  },
+  {
+    "book_id": "apocryphal-psalms",
+    "words": 2275,
+    "units": [
+      {
+        "id": "c869",
+        "label": "APOCRYPHAL PSALMS",
+        "words": 130
+      },
+      {
+        "id": "c86J",
+        "label": "PSALM 160",
+        "words": 2145
+      }
+    ]
+  },
+  {
+    "book_id": "apocryphal-daniel",
+    "words": 4026,
+    "units": [
+      {
+        "id": "c87P",
+        "label": "APOCRYPHAL DANIEL",
+        "words": 229
+      },
+      {
+        "id": "c881",
+        "label": "SECTION 1: THE PRAYER OF AZARIAH AND SONG OF THE THREE HOLY CHILDREN",
+        "words": 12
+      },
+      {
+        "id": "c888",
+        "label": "CHAPTER 3B",
+        "words": 1318
+      },
+      {
+        "id": "c88F",
+        "label": "SECTION 2: SUSANNA AND THE ELDERS",
+        "words": 5
+      },
+      {
+        "id": "c88N",
+        "label": "CHAPTER 13",
+        "words": 1421
+      },
+      {
+        "id": "c88W",
+        "label": "SECTION 3: BEL AND THE DRAGON",
+        "words": 5
+      },
+      {
+        "id": "c892",
+        "label": "CHAPTER 14",
+        "words": 1036
+      }
+    ]
+  },
+  {
+    "book_id": "acts-29",
+    "words": 1194,
+    "units": [
+      {
+        "id": "c899",
+        "label": "ACTS 29",
+        "words": 212
+      },
+      {
+        "id": "c89K",
+        "label": "CHAPTER 29",
+        "words": 982
+      }
+    ]
+  },
+  {
+    "book_id": "tobit",
+    "words": 6893,
+    "units": [
+      {
+        "id": "c89V",
+        "label": "TOBIT",
+        "words": 76
+      },
+      {
+        "id": "c8A5",
+        "label": "CHAPTER 1",
+        "words": 660
+      },
+      {
+        "id": "c8AC",
+        "label": "CHAPTER 2",
+        "words": 407
+      },
+      {
+        "id": "c8AK",
+        "label": "CHAPTER 3",
+        "words": 616
+      },
+      {
+        "id": "c8AU",
+        "label": "CHAPTER 4",
+        "words": 683
+      },
+      {
+        "id": "c8B1",
+        "label": "CHAPTER 5",
+        "words": 572
+      },
+      {
+        "id": "c8B8",
+        "label": "CHAPTER 6",
+        "words": 613
+      },
+      {
+        "id": "c8BF",
+        "label": "CHAPTER 7",
+        "words": 443
+      },
+      {
+        "id": "c8BP",
+        "label": "CHAPTER 8",
+        "words": 453
+      },
+      {
+        "id": "c8BX",
+        "label": "CHAPTER 9",
+        "words": 112
+      },
+      {
+        "id": "c8C4",
+        "label": "CHAPTER 10",
+        "words": 336
+      },
+      {
+        "id": "c8CB",
+        "label": "CHAPTER 11",
+        "words": 402
+      },
+      {
+        "id": "c8CJ",
+        "label": "CHAPTER 12",
+        "words": 512
+      },
+      {
+        "id": "c8CT",
+        "label": "CHAPTER 13",
+        "words": 488
+      },
+      {
+        "id": "c8D0",
+        "label": "CHAPTER 14",
+        "words": 520
+      }
+    ]
+  },
+  {
+    "book_id": "judith",
+    "words": 11144,
+    "units": [
+      {
+        "id": "c8D7",
+        "label": "JUDITH",
+        "words": 134
+      },
+      {
+        "id": "c8DG",
+        "label": "CHAPTER 1",
+        "words": 547
+      },
+      {
+        "id": "c8DR",
+        "label": "CHAPTER 2",
+        "words": 784
+      },
+      {
+        "id": "c8DY",
+        "label": "CHAPTER 3",
+        "words": 237
+      },
+      {
+        "id": "c8E5",
+        "label": "CHAPTER 4",
+        "words": 470
+      },
+      {
+        "id": "c8EC",
+        "label": "CHAPTER 5",
+        "words": 755
+      },
+      {
+        "id": "c8EK",
+        "label": "CHAPTER 6",
+        "words": 682
+      },
+      {
+        "id": "c8EU",
+        "label": "CHAPTER 7",
+        "words": 1075
+      },
+      {
+        "id": "c8F1",
+        "label": "CHAPTER 8",
+        "words": 1118
+      },
+      {
+        "id": "c8F8",
+        "label": "CHAPTER 9",
+        "words": 560
+      },
+      {
+        "id": "c8FF",
+        "label": "CHAPTER 10",
+        "words": 777
+      },
+      {
+        "id": "c8FP",
+        "label": "CHAPTER 11",
+        "words": 840
+      },
+      {
+        "id": "c8FX",
+        "label": "CHAPTER 12",
+        "words": 626
+      },
+      {
+        "id": "c8G4",
+        "label": "CHAPTER 13",
+        "words": 699
+      },
+      {
+        "id": "c8GB",
+        "label": "CHAPTER 14",
+        "words": 638
+      },
+      {
+        "id": "c8GJ",
+        "label": "CHAPTER 15",
+        "words": 499
+      },
+      {
+        "id": "c8GT",
+        "label": "CHAPTER 16",
+        "words": 703
+      }
+    ]
+  },
+  {
+    "book_id": "wisdom",
+    "words": 10477,
+    "units": [
+      {
+        "id": "c8H2",
+        "label": "WISDOM",
+        "words": 85
+      },
+      {
+        "id": "c8HH",
+        "label": "CHAPTER 1",
+        "words": 374
+      },
+      {
+        "id": "c8HU",
+        "label": "CHAPTER 2",
+        "words": 555
+      },
+      {
+        "id": "c8J2",
+        "label": "CHAPTER 3",
+        "words": 360
+      },
+      {
+        "id": "c8JA",
+        "label": "CHAPTER 4",
+        "words": 449
+      },
+      {
+        "id": "c8JJ",
+        "label": "CHAPTER 5",
+        "words": 561
+      },
+      {
+        "id": "c8JU",
+        "label": "CHAPTER 6",
+        "words": 489
+      },
+      {
+        "id": "c8K2",
+        "label": "CHAPTER 7",
+        "words": 629
+      },
+      {
+        "id": "c8KA",
+        "label": "CHAPTER 8",
+        "words": 485
+      },
+      {
+        "id": "c8KJ",
+        "label": "CHAPTER 9",
+        "words": 419
+      },
+      {
+        "id": "c8KU",
+        "label": "CHAPTER 10",
+        "words": 529
+      },
+      {
+        "id": "c8M2",
+        "label": "CHAPTER 11",
+        "words": 536
+      },
+      {
+        "id": "c8MA",
+        "label": "CHAPTER 12",
+        "words": 667
+      },
+      {
+        "id": "c8MJ",
+        "label": "CHAPTER 13",
+        "words": 524
+      },
+      {
+        "id": "c8MU",
+        "label": "CHAPTER 14",
+        "words": 751
+      },
+      {
+        "id": "c8N2",
+        "label": "CHAPTER 15",
+        "words": 541
+      },
+      {
+        "id": "c8NA",
+        "label": "CHAPTER 16",
+        "words": 741
+      },
+      {
+        "id": "c8NJ",
+        "label": "CHAPTER 17",
+        "words": 526
+      },
+      {
+        "id": "c8NU",
+        "label": "CHAPTER 18",
+        "words": 662
+      },
+      {
+        "id": "c8P2",
+        "label": "CHAPTER 19",
+        "words": 594
+      }
+    ]
+  },
+  {
+    "book_id": "sirach",
+    "words": 28204,
+    "units": [
+      {
+        "id": "c8PB",
+        "label": "SIRACH",
+        "words": 116
+      },
+      {
+        "id": "c8PR",
+        "label": "CHAPTER 1",
+        "words": 482
+      },
+      {
+        "id": "c8PZ",
+        "label": "CHAPTER 2",
+        "words": 329
+      },
+      {
+        "id": "c8R7",
+        "label": "CHAPTER 3",
+        "words": 543
+      },
+      {
+        "id": "c8RF",
+        "label": "CHAPTER 4",
+        "words": 542
+      },
+      {
+        "id": "c8RR",
+        "label": "CHAPTER 5",
+        "words": 277
+      },
+      {
+        "id": "c8RZ",
+        "label": "CHAPTER 6",
+        "words": 675
+      },
+      {
+        "id": "c8S7",
+        "label": "CHAPTER 7",
+        "words": 627
+      },
+      {
+        "id": "c8SF",
+        "label": "CHAPTER 8",
+        "words": 386
+      },
+      {
+        "id": "c8SR",
+        "label": "CHAPTER 9",
+        "words": 409
+      },
+      {
+        "id": "c8SZ",
+        "label": "CHAPTER 10",
+        "words": 571
+      },
+      {
+        "id": "c8T7",
+        "label": "CHAPTER 11",
+        "words": 643
+      },
+      {
+        "id": "c8TF",
+        "label": "CHAPTER 12",
+        "words": 390
+      },
+      {
+        "id": "c8TR",
+        "label": "CHAPTER 13",
+        "words": 545
+      },
+      {
+        "id": "c8TZ",
+        "label": "CHAPTER 14",
+        "words": 442
+      },
+      {
+        "id": "c8U7",
+        "label": "CHAPTER 15",
+        "words": 325
+      },
+      {
+        "id": "c8UF",
+        "label": "CHAPTER 16",
+        "words": 552
+      },
+      {
+        "id": "c8UR",
+        "label": "CHAPTER 17",
+        "words": 565
+      },
+      {
+        "id": "c8UZ",
+        "label": "CHAPTER 18",
+        "words": 572
+      },
+      {
+        "id": "c8V7",
+        "label": "CHAPTER 19",
+        "words": 560
+      },
+      {
+        "id": "c8VF",
+        "label": "CHAPTER 20",
+        "words": 585
+      },
+      {
+        "id": "c8VR",
+        "label": "CHAPTER 21",
+        "words": 542
+      },
+      {
+        "id": "c8VZ",
+        "label": "CHAPTER 22",
+        "words": 613
+      },
+      {
+        "id": "c8W7",
+        "label": "CHAPTER 23",
+        "words": 660
+      },
+      {
+        "id": "c8WF",
+        "label": "CHAPTER 24",
+        "words": 663
+      },
+      {
+        "id": "c8WR",
+        "label": "CHAPTER 25",
+        "words": 556
+      },
+      {
+        "id": "c8WZ",
+        "label": "CHAPTER 26",
+        "words": 635
+      },
+      {
+        "id": "c8X7",
+        "label": "CHAPTER 27",
+        "words": 567
+      },
+      {
+        "id": "c8XF",
+        "label": "CHAPTER 28",
+        "words": 529
+      },
+      {
+        "id": "c8XR",
+        "label": "CHAPTER 29",
+        "words": 569
+      },
+      {
+        "id": "c8XZ",
+        "label": "CHAPTER 30",
+        "words": 469
+      },
+      {
+        "id": "c8Y7",
+        "label": "CHAPTER 31",
+        "words": 619
+      },
+      {
+        "id": "c8YH",
+        "label": "CHAPTER 32",
+        "words": 438
+      },
+      {
+        "id": "c8YT",
+        "label": "CHAPTER 33",
+        "words": 629
+      },
+      {
+        "id": "c8Z1",
+        "label": "CHAPTER 34",
+        "words": 512
+      },
+      {
+        "id": "c8Z9",
+        "label": "CHAPTER 35",
+        "words": 444
+      },
+      {
+        "id": "c8ZH",
+        "label": "CHAPTER 36",
+        "words": 455
+      },
+      {
+        "id": "c8ZT",
+        "label": "CHAPTER 37",
+        "words": 651
+      },
+      {
+        "id": "c901",
+        "label": "CHAPTER 38",
+        "words": 824
+      },
+      {
+        "id": "c909",
+        "label": "CHAPTER 39",
+        "words": 770
+      },
+      {
+        "id": "c90H",
+        "label": "CHAPTER 40",
+        "words": 613
+      },
+      {
+        "id": "c90T",
+        "label": "CHAPTER 41",
+        "words": 549
+      },
+      {
+        "id": "c911",
+        "label": "CHAPTER 42",
+        "words": 562
+      },
+      {
+        "id": "c919",
+        "label": "CHAPTER 43",
+        "words": 671
+      },
+      {
+        "id": "c91H",
+        "label": "CHAPTER 44",
+        "words": 459
+      },
+      {
+        "id": "c91T",
+        "label": "CHAPTER 45",
+        "words": 750
+      },
+      {
+        "id": "c921",
+        "label": "CHAPTER 46",
+        "words": 518
+      },
+      {
+        "id": "c929",
+        "label": "CHAPTER 47",
+        "words": 581
+      },
+      {
+        "id": "c92H",
+        "label": "CHAPTER 48",
+        "words": 530
+      },
+      {
+        "id": "c92T",
+        "label": "CHAPTER 49",
+        "words": 360
+      },
+      {
+        "id": "c931",
+        "label": "CHAPTER 50",
+        "words": 676
+      },
+      {
+        "id": "c939",
+        "label": "CHAPTER 51",
+        "words": 654
+      }
+    ]
+  },
+  {
+    "book_id": "1-baruch",
+    "words": 5276,
+    "units": [
+      {
+        "id": "c93H",
+        "label": "1 BARUCH",
+        "words": 128
+      },
+      {
+        "id": "c93V",
+        "label": "CHAPTER 1",
+        "words": 690
+      },
+      {
+        "id": "c943",
+        "label": "CHAPTER 2",
+        "words": 953
+      },
+      {
+        "id": "c94B",
+        "label": "CHAPTER 3",
+        "words": 760
+      },
+      {
+        "id": "c94K",
+        "label": "CHAPTER 4",
+        "words": 793
+      },
+      {
+        "id": "c94V",
+        "label": "EPISTLE OF JEREMIAH",
+        "words": 1952
+      }
+    ]
+  },
+  {
+    "book_id": "1-maccabees",
+    "words": 23641,
+    "units": [
+      {
+        "id": "c956",
+        "label": "1 MACCABEES",
+        "words": 180
+      },
+      {
+        "id": "c95G",
+        "label": "CHAPTER 1",
+        "words": 1398
+      },
+      {
+        "id": "c95S",
+        "label": "CHAPTER 2",
+        "words": 1431
+      },
+      {
+        "id": "c960",
+        "label": "CHAPTER 3",
+        "words": 1516
+      },
+      {
+        "id": "c968",
+        "label": "CHAPTER 4",
+        "words": 1421
+      },
+      {
+        "id": "c96G",
+        "label": "CHAPTER 5",
+        "words": 1814
+      },
+      {
+        "id": "c96S",
+        "label": "CHAPTER 6",
+        "words": 1659
+      },
+      {
+        "id": "c970",
+        "label": "CHAPTER 7",
+        "words": 1238
+      },
+      {
+        "id": "c978",
+        "label": "CHAPTER 8",
+        "words": 956
+      },
+      {
+        "id": "c97G",
+        "label": "CHAPTER 9",
+        "words": 1821
+      },
+      {
+        "id": "c97S",
+        "label": "CHAPTER 10",
+        "words": 2298
+      },
+      {
+        "id": "c980",
+        "label": "CHAPTER 11",
+        "words": 1964
+      },
+      {
+        "id": "c988",
+        "label": "CHAPTER 12",
+        "words": 1382
+      },
+      {
+        "id": "c98G",
+        "label": "CHAPTER 13",
+        "words": 1368
+      },
+      {
+        "id": "c98S",
+        "label": "CHAPTER 14",
+        "words": 1385
+      },
+      {
+        "id": "c990",
+        "label": "CHAPTER 15",
+        "words": 1118
+      },
+      {
+        "id": "c998",
+        "label": "CHAPTER 16",
+        "words": 692
+      }
+    ]
+  },
+  {
+    "book_id": "2-maccabees",
+    "words": 17378,
+    "units": [
+      {
+        "id": "c99F",
+        "label": "2 MACCABEES",
+        "words": 109
+      },
+      {
+        "id": "c99T",
+        "label": "CHAPTER 1",
+        "words": 1012
+      },
+      {
+        "id": "c9A1",
+        "label": "CHAPTER 2",
+        "words": 934
+      },
+      {
+        "id": "c9A9",
+        "label": "CHAPTER 3",
+        "words": 1220
+      },
+      {
+        "id": "c9AH",
+        "label": "CHAPTER 4",
+        "words": 1567
+      },
+      {
+        "id": "c9AT",
+        "label": "CHAPTER 5",
+        "words": 939
+      },
+      {
+        "id": "c9B1",
+        "label": "CHAPTER 6",
+        "words": 1022
+      },
+      {
+        "id": "c9B9",
+        "label": "CHAPTER 7",
+        "words": 1291
+      },
+      {
+        "id": "c9BH",
+        "label": "CHAPTER 8",
+        "words": 1233
+      },
+      {
+        "id": "c9BT",
+        "label": "CHAPTER 9",
+        "words": 999
+      },
+      {
+        "id": "c9C1",
+        "label": "CHAPTER 10",
+        "words": 1157
+      },
+      {
+        "id": "c9C9",
+        "label": "CHAPTER 11",
+        "words": 960
+      },
+      {
+        "id": "c9CH",
+        "label": "CHAPTER 12",
+        "words": 1505
+      },
+      {
+        "id": "c9CT",
+        "label": "CHAPTER 13",
+        "words": 791
+      },
+      {
+        "id": "c9D1",
+        "label": "CHAPTER 14",
+        "words": 1400
+      },
+      {
+        "id": "c9D9",
+        "label": "CHAPTER 15",
+        "words": 1239
+      }
+    ]
+  },
+  {
+    "book_id": "1-esdras",
+    "words": 11877,
+    "units": [
+      {
+        "id": "c9DH",
+        "label": "1 ESDRAS",
+        "words": 101
+      },
+      {
+        "id": "c9DX",
+        "label": "CHAPTER 1",
+        "words": 1577
+      },
+      {
+        "id": "c9E5",
+        "label": "CHAPTER 2",
+        "words": 887
+      },
+      {
+        "id": "c9ED",
+        "label": "CHAPTER 3",
+        "words": 555
+      },
+      {
+        "id": "c9EN",
+        "label": "CHAPTER 4",
+        "words": 1588
+      },
+      {
+        "id": "c9EX",
+        "label": "CHAPTER 5",
+        "words": 1985
+      },
+      {
+        "id": "c9F5",
+        "label": "CHAPTER 6",
+        "words": 1077
+      },
+      {
+        "id": "c9FD",
+        "label": "CHAPTER 7",
+        "words": 363
+      },
+      {
+        "id": "c9FN",
+        "label": "CHAPTER 8",
+        "words": 2582
+      },
+      {
+        "id": "c9FX",
+        "label": "CHAPTER 9",
+        "words": 1162
+      }
+    ]
+  },
+  {
+    "book_id": "2-esdras",
+    "words": 23200,
+    "units": [
+      {
+        "id": "c9G5",
+        "label": "2 ESDRAS",
+        "words": 95
+      },
+      {
+        "id": "c9GH",
+        "label": "CHAPTER 1",
+        "words": 995
+      },
+      {
+        "id": "c9GT",
+        "label": "CHAPTER 2",
+        "words": 1155
+      },
+      {
+        "id": "c9H1",
+        "label": "CHAPTER 3",
+        "words": 891
+      },
+      {
+        "id": "c9H9",
+        "label": "CHAPTER 4",
+        "words": 1470
+      },
+      {
+        "id": "c9HH",
+        "label": "CHAPTER 5",
+        "words": 1552
+      },
+      {
+        "id": "c9HT",
+        "label": "CHAPTER 6",
+        "words": 1480
+      },
+      {
+        "id": "c9J1",
+        "label": "CHAPTER 7",
+        "words": 3563
+      },
+      {
+        "id": "c9J9",
+        "label": "CHAPTER 8",
+        "words": 1494
+      },
+      {
+        "id": "c9JH",
+        "label": "CHAPTER 9",
+        "words": 1151
+      },
+      {
+        "id": "c9JT",
+        "label": "CHAPTER 10",
+        "words": 1444
+      },
+      {
+        "id": "c9K1",
+        "label": "CHAPTER 11",
+        "words": 1035
+      },
+      {
+        "id": "c9K9",
+        "label": "CHAPTER 12",
+        "words": 1229
+      },
+      {
+        "id": "c9KH",
+        "label": "CHAPTER 13",
+        "words": 1421
+      },
+      {
+        "id": "c9KT",
+        "label": "CHAPTER 14",
+        "words": 1087
+      },
+      {
+        "id": "c9M1",
+        "label": "CHAPTER 15",
+        "words": 1489
+      },
+      {
+        "id": "c9M9",
+        "label": "CHAPTER 16",
+        "words": 1649
+      }
+    ]
+  },
+  {
+    "book_id": "3-maccabees",
+    "words": 6814,
+    "units": [
+      {
+        "id": "c9MH",
+        "label": "3 MACCABEES",
+        "words": 142
+      },
+      {
+        "id": "c9MV",
+        "label": "CHAPTER 1",
+        "words": 869
+      },
+      {
+        "id": "c9N3",
+        "label": "CHAPTER 2",
+        "words": 912
+      },
+      {
+        "id": "c9NB",
+        "label": "CHAPTER 3",
+        "words": 954
+      },
+      {
+        "id": "c9NK",
+        "label": "CHAPTER 4",
+        "words": 729
+      },
+      {
+        "id": "c9NV",
+        "label": "CHAPTER 5",
+        "words": 1349
+      },
+      {
+        "id": "c9P3",
+        "label": "CHAPTER 6",
+        "words": 1175
+      },
+      {
+        "id": "c9PB",
+        "label": "CHAPTER 7",
+        "words": 684
+      }
+    ]
+  },
+  {
+    "book_id": "4-maccabees",
+    "words": 10512,
+    "units": [
+      {
+        "id": "c9PK",
+        "label": "4 MACCABEES",
+        "words": 128
+      },
+      {
+        "id": "c9PX",
+        "label": "CHAPTER 1",
+        "words": 820
+      },
+      {
+        "id": "c9R5",
+        "label": "CHAPTER 2",
+        "words": 557
+      },
+      {
+        "id": "c9RD",
+        "label": "CHAPTER 3",
+        "words": 452
+      },
+      {
+        "id": "c9RN",
+        "label": "CHAPTER 4",
+        "words": 655
+      },
+      {
+        "id": "c9RX",
+        "label": "CHAPTER 5",
+        "words": 800
+      },
+      {
+        "id": "c9S5",
+        "label": "CHAPTER 6",
+        "words": 639
+      },
+      {
+        "id": "c9SD",
+        "label": "CHAPTER 7",
+        "words": 519
+      },
+      {
+        "id": "c9SN",
+        "label": "CHAPTER 8",
+        "words": 663
+      },
+      {
+        "id": "c9SX",
+        "label": "CHAPTER 9",
+        "words": 675
+      },
+      {
+        "id": "c9T5",
+        "label": "CHAPTER 10",
+        "words": 406
+      },
+      {
+        "id": "c9TD",
+        "label": "CHAPTER 11",
+        "words": 474
+      },
+      {
+        "id": "c9TN",
+        "label": "CHAPTER 12",
+        "words": 357
+      },
+      {
+        "id": "c9TX",
+        "label": "CHAPTER 13",
+        "words": 587
+      },
+      {
+        "id": "c9U5",
+        "label": "CHAPTER 14",
+        "words": 422
+      },
+      {
+        "id": "c9UD",
+        "label": "CHAPTER 15",
+        "words": 720
+      },
+      {
+        "id": "c9UN",
+        "label": "CHAPTER 16",
+        "words": 587
+      },
+      {
+        "id": "c9UX",
+        "label": "CHAPTER 17",
+        "words": 506
+      },
+      {
+        "id": "c9V5",
+        "label": "CHAPTER 18",
+        "words": 545
+      }
+    ]
+  },
+  {
+    "book_id": "prayer-of-manasseh",
+    "words": 494,
+    "units": [
+      {
+        "id": "c9VD",
+        "label": "PRAYER OF MANASSEH",
+        "words": 65
+      },
+      {
+        "id": "c9VR",
+        "label": "CHAPTER 1",
+        "words": 429
+      }
+    ]
+  },
+  {
+    "book_id": "testaments-of-the-twelve-patriarchs",
+    "words": 27137,
+    "units": [
+      {
+        "id": "c9VZ",
+        "label": "TESTAMENTS OF THE TWELVE PATRIARCHS",
+        "words": 84
+      },
+      {
+        "id": "c9WK",
+        "label": "THE TESTAMENT OF REUBEN, THE FIRSTBORN SON OF JACOB AND LEAH",
+        "words": 11
+      },
+      {
+        "id": "c9WT",
+        "label": "CHAPTER 1",
+        "words": 305
+      },
+      {
+        "id": "c9X0",
+        "label": "CHAPTER 2",
+        "words": 214
+      },
+      {
+        "id": "c9X7",
+        "label": "CHAPTER 3",
+        "words": 370
+      },
+      {
+        "id": "c9XE",
+        "label": "CHAPTER 4",
+        "words": 317
+      },
+      {
+        "id": "c9XN",
+        "label": "CHAPTER 5",
+        "words": 235
+      },
+      {
+        "id": "c9XW",
+        "label": "CHAPTER 6",
+        "words": 288
+      },
+      {
+        "id": "c9Y3",
+        "label": "CHAPTER 7",
+        "words": 37
+      },
+      {
+        "id": "c9YA",
+        "label": "THE TESTAMENT OF SIMEON, THE SECOND SON OF JACOB AND LEAH",
+        "words": 11
+      },
+      {
+        "id": "c9YG",
+        "label": "CHAPTER 1",
+        "words": 59
+      },
+      {
+        "id": "c9YR",
+        "label": "CHAPTER 2",
+        "words": 353
+      },
+      {
+        "id": "c9YY",
+        "label": "CHAPTER 3",
+        "words": 140
+      },
+      {
+        "id": "c9Z5",
+        "label": "CHAPTER 4",
+        "words": 306
+      },
+      {
+        "id": "c9ZC",
+        "label": "CHAPTER 5",
+        "words": 161
+      },
+      {
+        "id": "c9ZK",
+        "label": "CHAPTER 6",
+        "words": 204
+      },
+      {
+        "id": "c9ZU",
+        "label": "CHAPTER 7",
+        "words": 87
+      },
+      {
+        "id": "cA01",
+        "label": "CHAPTER 8",
+        "words": 110
+      },
+      {
+        "id": "cA08",
+        "label": "CHAPTER 9",
+        "words": 25
+      },
+      {
+        "id": "cA0F",
+        "label": "THE TESTAMENT OF LEVI, THE THIRD SON OF JACOB AND LEAH",
+        "words": 11
+      },
+      {
+        "id": "cA0N",
+        "label": "CHAPTER 1",
+        "words": 66
+      },
+      {
+        "id": "cA0W",
+        "label": "CHAPTER 2",
+        "words": 271
+      },
+      {
+        "id": "cA13",
+        "label": "CHAPTER 3",
+        "words": 241
+      },
+      {
+        "id": "cA1A",
+        "label": "CHAPTER 4",
+        "words": 186
+      },
+      {
+        "id": "cA1H",
+        "label": "CHAPTER 5",
+        "words": 188
+      },
+      {
+        "id": "cA1S",
+        "label": "CHAPTER 6",
+        "words": 257
+      },
+      {
+        "id": "cA1Z",
+        "label": "CHAPTER 7",
+        "words": 72
+      },
+      {
+        "id": "cA26",
+        "label": "CHAPTER 8",
+        "words": 394
+      },
+      {
+        "id": "cA2D",
+        "label": "CHAPTER 9",
+        "words": 275
+      },
+      {
+        "id": "cA2M",
+        "label": "CHAPTER 10",
+        "words": 142
+      },
+      {
+        "id": "cA2V",
+        "label": "CHAPTER 11",
+        "words": 154
+      },
+      {
+        "id": "cA32",
+        "label": "CHAPTER 12",
+        "words": 120
+      },
+      {
+        "id": "cA39",
+        "label": "CHAPTER 13",
+        "words": 246
+      },
+      {
+        "id": "cA3G",
+        "label": "CHAPTER 14",
+        "words": 263
+      },
+      {
+        "id": "cA3R",
+        "label": "CHAPTER 15",
+        "words": 82
+      },
+      {
+        "id": "cA3Y",
+        "label": "CHAPTER 16",
+        "words": 154
+      },
+      {
+        "id": "cA45",
+        "label": "CHAPTER 17",
+        "words": 240
+      },
+      {
+        "id": "cA4C",
+        "label": "CHAPTER 18",
+        "words": 383
+      },
+      {
+        "id": "cA4K",
+        "label": "CHAPTER 19",
+        "words": 137
+      },
+      {
+        "id": "cA4U",
+        "label": "THE TESTAMENT OF JUDAH, THE FOURTH SON OF JACOB AND LEAH",
+        "words": 11
+      },
+      {
+        "id": "cA50",
+        "label": "CHAPTER 1",
+        "words": 119
+      },
+      {
+        "id": "cA57",
+        "label": "CHAPTER 2",
+        "words": 169
+      },
+      {
+        "id": "cA5E",
+        "label": "CHAPTER 3",
+        "words": 239
+      },
+      {
+        "id": "cA5N",
+        "label": "CHAPTER 4",
+        "words": 63
+      },
+      {
+        "id": "cA5W",
+        "label": "CHAPTER 5",
+        "words": 159
+      },
+      {
+        "id": "cA63",
+        "label": "CHAPTER 6",
+        "words": 135
+      },
+      {
+        "id": "cA6A",
+        "label": "CHAPTER 7",
+        "words": 209
+      },
+      {
+        "id": "cA6H",
+        "label": "CHAPTER 8",
+        "words": 77
+      },
+      {
+        "id": "cA6S",
+        "label": "CHAPTER 9",
+        "words": 219
+      },
+      {
+        "id": "cA6Z",
+        "label": "CHAPTER 10",
+        "words": 172
+      },
+      {
+        "id": "cA76",
+        "label": "CHAPTER 11",
+        "words": 90
+      },
+      {
+        "id": "cA7D",
+        "label": "CHAPTER 12",
+        "words": 294
+      },
+      {
+        "id": "cA7M",
+        "label": "CHAPTER 13",
+        "words": 255
+      },
+      {
+        "id": "cA7V",
+        "label": "CHAPTER 14",
+        "words": 260
+      },
+      {
+        "id": "cA82",
+        "label": "CHAPTER 15",
+        "words": 148
+      },
+      {
+        "id": "cA89",
+        "label": "CHAPTER 16",
+        "words": 143
+      },
+      {
+        "id": "cA8G",
+        "label": "CHAPTER 17",
+        "words": 133
+      },
+      {
+        "id": "cA8R",
+        "label": "CHAPTER 18",
+        "words": 147
+      },
+      {
+        "id": "cA8Y",
+        "label": "CHAPTER 19",
+        "words": 115
+      },
+      {
+        "id": "cA95",
+        "label": "CHAPTER 20",
+        "words": 122
+      },
+      {
+        "id": "cA9C",
+        "label": "CHAPTER 21",
+        "words": 274
+      },
+      {
+        "id": "cA9K",
+        "label": "CHAPTER 22",
+        "words": 90
+      },
+      {
+        "id": "cA9U",
+        "label": "CHAPTER 23",
+        "words": 147
+      },
+      {
+        "id": "cAA1",
+        "label": "CHAPTER 24",
+        "words": 149
+      },
+      {
+        "id": "cAA8",
+        "label": "CHAPTER 25",
+        "words": 190
+      },
+      {
+        "id": "cAAF",
+        "label": "CHAPTER 26",
+        "words": 103
+      },
+      {
+        "id": "cAAP",
+        "label": "THE TESTAMENT OF ISSACHAR, THE FIFTH SON OF JACOB AND LEAH",
+        "words": 11
+      },
+      {
+        "id": "cAAW",
+        "label": "CHAPTER 1",
+        "words": 244
+      },
+      {
+        "id": "cAB3",
+        "label": "CHAPTER 2",
+        "words": 148
+      },
+      {
+        "id": "cABA",
+        "label": "CHAPTER 3",
+        "words": 192
+      },
+      {
+        "id": "cABH",
+        "label": "CHAPTER 4",
+        "words": 164
+      },
+      {
+        "id": "cABS",
+        "label": "CHAPTER 5",
+        "words": 185
+      },
+      {
+        "id": "cABZ",
+        "label": "CHAPTER 6",
+        "words": 102
+      },
+      {
+        "id": "cAC6",
+        "label": "CHAPTER 7",
+        "words": 227
+      },
+      {
+        "id": "cACD",
+        "label": "THE TESTAMENT OF ZEBULUN, THE SIXTH SON OF JACOB AND LEAH",
+        "words": 11
+      },
+      {
+        "id": "cACK",
+        "label": "CHAPTER 1",
+        "words": 192
+      },
+      {
+        "id": "cACU",
+        "label": "CHAPTER 2",
+        "words": 222
+      },
+      {
+        "id": "cAD1",
+        "label": "CHAPTER 3",
+        "words": 218
+      },
+      {
+        "id": "cAD8",
+        "label": "CHAPTER 4",
+        "words": 306
+      },
+      {
+        "id": "cADF",
+        "label": "CHAPTER 5",
+        "words": 157
+      },
+      {
+        "id": "cADP",
+        "label": "CHAPTER 6",
+        "words": 181
+      },
+      {
+        "id": "cADX",
+        "label": "CHAPTER 7",
+        "words": 126
+      },
+      {
+        "id": "cAE4",
+        "label": "CHAPTER 8",
+        "words": 135
+      },
+      {
+        "id": "cAEB",
+        "label": "CHAPTER 9",
+        "words": 280
+      },
+      {
+        "id": "cAEJ",
+        "label": "CHAPTER 10",
+        "words": 155
+      },
+      {
+        "id": "cAET",
+        "label": "THE TESTAMENT OF DAN, THE SEVENTH SON OF JACOB AND BILHAH",
+        "words": 11
+      },
+      {
+        "id": "cAEZ",
+        "label": "CHAPTER 1",
+        "words": 230
+      },
+      {
+        "id": "cAF6",
+        "label": "CHAPTER 2",
+        "words": 159
+      },
+      {
+        "id": "cAFD",
+        "label": "CHAPTER 3",
+        "words": 166
+      },
+      {
+        "id": "cAFM",
+        "label": "CHAPTER 4",
+        "words": 200
+      },
+      {
+        "id": "cAFV",
+        "label": "CHAPTER 5",
+        "words": 434
+      },
+      {
+        "id": "cAG2",
+        "label": "CHAPTER 6",
+        "words": 250
+      },
+      {
+        "id": "cAG9",
+        "label": "CHAPTER 7",
+        "words": 75
+      },
+      {
+        "id": "cAGG",
+        "label": "THE TESTAMENT OF NAPHTALI, THE EIGHTH SON OF JACOB AND BILHAH",
+        "words": 11
+      },
+      {
+        "id": "cAGP",
+        "label": "CHAPTER 1",
+        "words": 320
+      },
+      {
+        "id": "cAGX",
+        "label": "CHAPTER 2",
+        "words": 416
+      },
+      {
+        "id": "cAH4",
+        "label": "CHAPTER 3",
+        "words": 167
+      },
+      {
+        "id": "cAHB",
+        "label": "CHAPTER 4",
+        "words": 177
+      },
+      {
+        "id": "cAHJ",
+        "label": "CHAPTER 5",
+        "words": 212
+      },
+      {
+        "id": "cAHT",
+        "label": "CHAPTER 6",
+        "words": 190
+      },
+      {
+        "id": "cAJ0",
+        "label": "CHAPTER 7",
+        "words": 105
+      },
+      {
+        "id": "cAJ7",
+        "label": "CHAPTER 8",
+        "words": 302
+      },
+      {
+        "id": "cAJE",
+        "label": "CHAPTER 9",
+        "words": 62
+      },
+      {
+        "id": "cAJN",
+        "label": "THE TESTAMENT OF GAD, THE NINTH SON OF JACOB AND ZILPAH",
+        "words": 11
+      },
+      {
+        "id": "cAJV",
+        "label": "CHAPTER 1",
+        "words": 280
+      },
+      {
+        "id": "cAK2",
+        "label": "CHAPTER 2",
+        "words": 111
+      },
+      {
+        "id": "cAK9",
+        "label": "CHAPTER 3",
+        "words": 112
+      },
+      {
+        "id": "cAKG",
+        "label": "CHAPTER 4",
+        "words": 199
+      },
+      {
+        "id": "cAKR",
+        "label": "CHAPTER 5",
+        "words": 291
+      },
+      {
+        "id": "cAKY",
+        "label": "CHAPTER 6",
+        "words": 249
+      },
+      {
+        "id": "cAM5",
+        "label": "CHAPTER 7",
+        "words": 179
+      },
+      {
+        "id": "cAMC",
+        "label": "CHAPTER 8",
+        "words": 103
+      },
+      {
+        "id": "cAMK",
+        "label": "THE TESTAMENT OF ASHER, THE TENTH SON OF JACOB AND ZILPAH",
+        "words": 11
+      },
+      {
+        "id": "cAMT",
+        "label": "CHAPTER 1",
+        "words": 234
+      },
+      {
+        "id": "cAN0",
+        "label": "CHAPTER 2",
+        "words": 283
+      },
+      {
+        "id": "cAN7",
+        "label": "CHAPTER 3",
+        "words": 69
+      },
+      {
+        "id": "cANE",
+        "label": "CHAPTER 4",
+        "words": 187
+      },
+      {
+        "id": "cANN",
+        "label": "CHAPTER 5",
+        "words": 148
+      },
+      {
+        "id": "cANW",
+        "label": "CHAPTER 6",
+        "words": 169
+      },
+      {
+        "id": "cAP3",
+        "label": "CHAPTER 7",
+        "words": 210
+      },
+      {
+        "id": "cAPA",
+        "label": "CHAPTER 8",
+        "words": 51
+      },
+      {
+        "id": "cAPH",
+        "label": "THE TESTAMENT OF JOSEPH, THE ELEVENTH SON OF JACOB AND RACHEL",
+        "words": 11
+      },
+      {
+        "id": "cAPR",
+        "label": "CHAPTER 1",
+        "words": 198
+      },
+      {
+        "id": "cAPY",
+        "label": "CHAPTER 2",
+        "words": 172
+      },
+      {
+        "id": "cAR5",
+        "label": "CHAPTER 3",
+        "words": 286
+      },
+      {
+        "id": "cARC",
+        "label": "CHAPTER 4",
+        "words": 227
+      },
+      {
+        "id": "cARK",
+        "label": "CHAPTER 5",
+        "words": 101
+      },
+      {
+        "id": "cARU",
+        "label": "CHAPTER 6",
+        "words": 240
+      },
+      {
+        "id": "cAS1",
+        "label": "CHAPTER 7",
+        "words": 262
+      },
+      {
+        "id": "cAS8",
+        "label": "CHAPTER 8",
+        "words": 176
+      },
+      {
+        "id": "cASF",
+        "label": "CHAPTER 9",
+        "words": 171
+      },
+      {
+        "id": "cASP",
+        "label": "CHAPTER 10",
+        "words": 191
+      },
+      {
+        "id": "cASX",
+        "label": "CHAPTER 11",
+        "words": 188
+      },
+      {
+        "id": "cAT4",
+        "label": "CHAPTER 12",
+        "words": 91
+      },
+      {
+        "id": "cATB",
+        "label": "CHAPTER 13",
+        "words": 210
+      },
+      {
+        "id": "cATJ",
+        "label": "CHAPTER 14",
+        "words": 172
+      },
+      {
+        "id": "cATT",
+        "label": "CHAPTER 15",
+        "words": 194
+      },
+      {
+        "id": "cAU0",
+        "label": "CHAPTER 16",
+        "words": 147
+      },
+      {
+        "id": "cAU7",
+        "label": "CHAPTER 17",
+        "words": 195
+      },
+      {
+        "id": "cAUE",
+        "label": "CHAPTER 18",
+        "words": 136
+      },
+      {
+        "id": "cAUN",
+        "label": "CHAPTER 19",
+        "words": 333
+      },
+      {
+        "id": "cAUW",
+        "label": "CHAPTER 20",
+        "words": 151
+      },
+      {
+        "id": "cAV3",
+        "label": "THE TESTAMENT OF BENJAMIN, THE TWELFTH SON OF JACOB AND RACHEL",
+        "words": 11
+      },
+      {
+        "id": "cAV9",
+        "label": "CHAPTER 1",
+        "words": 125
+      },
+      {
+        "id": "cAVG",
+        "label": "CHAPTER 2",
+        "words": 173
+      },
+      {
+        "id": "cAVR",
+        "label": "CHAPTER 3",
+        "words": 279
+      },
+      {
+        "id": "cAVY",
+        "label": "CHAPTER 4",
+        "words": 177
+      },
+      {
+        "id": "cAW5",
+        "label": "CHAPTER 5",
+        "words": 147
+      },
+      {
+        "id": "cAWC",
+        "label": "CHAPTER 6",
+        "words": 236
+      },
+      {
+        "id": "cAWK",
+        "label": "CHAPTER 7",
+        "words": 137
+      },
+      {
+        "id": "cAWU",
+        "label": "CHAPTER 8",
+        "words": 98
+      },
+      {
+        "id": "cAX1",
+        "label": "CHAPTER 9",
+        "words": 190
+      },
+      {
+        "id": "cAX8",
+        "label": "CHAPTER 10",
+        "words": 349
+      },
+      {
+        "id": "cAXF",
+        "label": "CHAPTER 11",
+        "words": 176
+      },
+      {
+        "id": "cAXP",
+        "label": "CHAPTER 12",
+        "words": 116
+      }
+    ]
+  },
+  {
+    "book_id": "jubilees",
+    "words": 51693,
+    "units": [
+      {
+        "id": "cAXX",
+        "label": "JUBILEES",
+        "words": 224
+      },
+      {
+        "id": "cAY9",
+        "label": "CHAPTER 1",
+        "words": 1449
+      },
+      {
+        "id": "cAYG",
+        "label": "CHAPTER 2",
+        "words": 1536
+      },
+      {
+        "id": "cAYR",
+        "label": "CHAPTER 3",
+        "words": 1365
+      },
+      {
+        "id": "cAYY",
+        "label": "CHAPTER 4",
+        "words": 1495
+      },
+      {
+        "id": "cAZ5",
+        "label": "CHAPTER 5",
+        "words": 1153
+      },
+      {
+        "id": "cAZC",
+        "label": "CHAPTER 6",
+        "words": 1577
+      },
+      {
+        "id": "cAZK",
+        "label": "CHAPTER 7",
+        "words": 1510
+      },
+      {
+        "id": "cAZU",
+        "label": "CHAPTER 8",
+        "words": 1452
+      },
+      {
+        "id": "cB01",
+        "label": "CHAPTER 9",
+        "words": 622
+      },
+      {
+        "id": "cB08",
+        "label": "CHAPTER 10",
+        "words": 1388
+      },
+      {
+        "id": "cB0F",
+        "label": "CHAPTER 11",
+        "words": 1045
+      },
+      {
+        "id": "cB0P",
+        "label": "CHAPTER 12",
+        "words": 1186
+      },
+      {
+        "id": "cB0X",
+        "label": "CHAPTER 13",
+        "words": 1009
+      },
+      {
+        "id": "cB14",
+        "label": "CHAPTER 14",
+        "words": 744
+      },
+      {
+        "id": "cB1B",
+        "label": "CHAPTER 15",
+        "words": 1227
+      },
+      {
+        "id": "cB1J",
+        "label": "CHAPTER 16",
+        "words": 1123
+      },
+      {
+        "id": "cB1T",
+        "label": "CHAPTER 17",
+        "words": 712
+      },
+      {
+        "id": "cB20",
+        "label": "CHAPTER 18",
+        "words": 685
+      },
+      {
+        "id": "cB27",
+        "label": "CHAPTER 19",
+        "words": 1010
+      },
+      {
+        "id": "cB2E",
+        "label": "CHAPTER 20",
+        "words": 558
+      },
+      {
+        "id": "cB2N",
+        "label": "CHAPTER 21",
+        "words": 1064
+      },
+      {
+        "id": "cB2W",
+        "label": "CHAPTER 22",
+        "words": 1300
+      },
+      {
+        "id": "cB33",
+        "label": "CHAPTER 23",
+        "words": 1357
+      },
+      {
+        "id": "cB3A",
+        "label": "CHAPTER 24",
+        "words": 1199
+      },
+      {
+        "id": "cB3H",
+        "label": "CHAPTER 25",
+        "words": 894
+      },
+      {
+        "id": "cB3S",
+        "label": "CHAPTER 26",
+        "words": 1238
+      },
+      {
+        "id": "cB3Z",
+        "label": "CHAPTER 27",
+        "words": 1035
+      },
+      {
+        "id": "cB46",
+        "label": "CHAPTER 28",
+        "words": 1162
+      },
+      {
+        "id": "cB4D",
+        "label": "CHAPTER 29",
+        "words": 747
+      },
+      {
+        "id": "cB4M",
+        "label": "CHAPTER 30",
+        "words": 1179
+      },
+      {
+        "id": "cB4V",
+        "label": "CHAPTER 31",
+        "words": 1360
+      },
+      {
+        "id": "cB52",
+        "label": "CHAPTER 32",
+        "words": 1300
+      },
+      {
+        "id": "cB59",
+        "label": "CHAPTER 33",
+        "words": 879
+      },
+      {
+        "id": "cB5G",
+        "label": "CHAPTER 34",
+        "words": 873
+      },
+      {
+        "id": "cB5R",
+        "label": "CHAPTER 35",
+        "words": 1217
+      },
+      {
+        "id": "cB5Y",
+        "label": "CHAPTER 36",
+        "words": 982
+      },
+      {
+        "id": "cB65",
+        "label": "CHAPTER 37",
+        "words": 1028
+      },
+      {
+        "id": "cB6C",
+        "label": "CHAPTER 38",
+        "words": 670
+      },
+      {
+        "id": "cB6K",
+        "label": "CHAPTER 39",
+        "words": 636
+      },
+      {
+        "id": "cB6U",
+        "label": "CHAPTER 40",
+        "words": 565
+      },
+      {
+        "id": "cB71",
+        "label": "CHAPTER 41",
+        "words": 950
+      },
+      {
+        "id": "cB78",
+        "label": "CHAPTER 42",
+        "words": 878
+      },
+      {
+        "id": "cB7F",
+        "label": "CHAPTER 43",
+        "words": 902
+      },
+      {
+        "id": "cB7P",
+        "label": "CHAPTER 44",
+        "words": 896
+      },
+      {
+        "id": "cB7X",
+        "label": "CHAPTER 45",
+        "words": 622
+      },
+      {
+        "id": "cB84",
+        "label": "CHAPTER 46",
+        "words": 605
+      },
+      {
+        "id": "cB8B",
+        "label": "CHAPTER 47",
+        "words": 414
+      },
+      {
+        "id": "cB8J",
+        "label": "CHAPTER 48",
+        "words": 767
+      },
+      {
+        "id": "cB8T",
+        "label": "CHAPTER 49",
+        "words": 1206
+      },
+      {
+        "id": "cB90",
+        "label": "CHAPTER 50",
+        "words": 698
+      }
+    ]
+  },
+  {
+    "book_id": "1-enoch",
+    "words": 36282,
+    "units": [
+      {
+        "id": "cB98",
+        "label": "1 ENOCH",
+        "words": 124
+      },
+      {
+        "id": "cB9V",
+        "label": "SECTION 1: THE BOOK OF THE WATCHERS",
+        "words": 6
+      },
+      {
+        "id": "cBA1",
+        "label": "CHAPTER 1",
+        "words": 329
+      },
+      {
+        "id": "cBA8",
+        "label": "CHAPTER 2",
+        "words": 106
+      },
+      {
+        "id": "cBAF",
+        "label": "CHAPTER 3",
+        "words": 45
+      },
+      {
+        "id": "cBAP",
+        "label": "CHAPTER 4",
+        "words": 57
+      },
+      {
+        "id": "cBAX",
+        "label": "CHAPTER 5",
+        "words": 379
+      },
+      {
+        "id": "cBB4",
+        "label": "CHAPTER 6",
+        "words": 212
+      },
+      {
+        "id": "cBBB",
+        "label": "CHAPTER 7",
+        "words": 120
+      },
+      {
+        "id": "cBBJ",
+        "label": "CHAPTER 8",
+        "words": 130
+      },
+      {
+        "id": "cBBT",
+        "label": "CHAPTER 9",
+        "words": 327
+      },
+      {
+        "id": "cBC0",
+        "label": "CHAPTER 10",
+        "words": 723
+      },
+      {
+        "id": "cBC7",
+        "label": "CHAPTER 11",
+        "words": 59
+      },
+      {
+        "id": "cBCE",
+        "label": "CHAPTER 12",
+        "words": 177
+      },
+      {
+        "id": "cBCN",
+        "label": "CHAPTER 13",
+        "words": 299
+      },
+      {
+        "id": "cBCW",
+        "label": "CHAPTER 14",
+        "words": 726
+      },
+      {
+        "id": "cBD3",
+        "label": "CHAPTER 15",
+        "words": 366
+      },
+      {
+        "id": "cBDA",
+        "label": "CHAPTER 16",
+        "words": 141
+      },
+      {
+        "id": "cBDH",
+        "label": "CHAPTER 17",
+        "words": 201
+      },
+      {
+        "id": "cBDS",
+        "label": "CHAPTER 18",
+        "words": 411
+      },
+      {
+        "id": "cBDZ",
+        "label": "CHAPTER 19",
+        "words": 96
+      },
+      {
+        "id": "cBE6",
+        "label": "CHAPTER 20",
+        "words": 120
+      },
+      {
+        "id": "cBED",
+        "label": "CHAPTER 21",
+        "words": 274
+      },
+      {
+        "id": "cBEM",
+        "label": "CHAPTER 22",
+        "words": 448
+      },
+      {
+        "id": "cBEV",
+        "label": "CHAPTER 23",
+        "words": 90
+      },
+      {
+        "id": "cBF2",
+        "label": "CHAPTER 24",
+        "words": 214
+      },
+      {
+        "id": "cBF9",
+        "label": "CHAPTER 25",
+        "words": 240
+      },
+      {
+        "id": "cBFG",
+        "label": "CHAPTER 26",
+        "words": 156
+      },
+      {
+        "id": "cBFR",
+        "label": "CHAPTER 27",
+        "words": 159
+      },
+      {
+        "id": "cBFY",
+        "label": "CHAPTER 28",
+        "words": 58
+      },
+      {
+        "id": "cBG5",
+        "label": "CHAPTER 29",
+        "words": 43
+      },
+      {
+        "id": "cBGC",
+        "label": "CHAPTER 30",
+        "words": 54
+      },
+      {
+        "id": "cBGK",
+        "label": "CHAPTER 31",
+        "words": 69
+      },
+      {
+        "id": "cBGU",
+        "label": "CHAPTER 32",
+        "words": 215
+      },
+      {
+        "id": "cBH1",
+        "label": "CHAPTER 33",
+        "words": 152
+      },
+      {
+        "id": "cBH8",
+        "label": "CHAPTER 34",
+        "words": 94
+      },
+      {
+        "id": "cBHF",
+        "label": "CHAPTER 35",
+        "words": 42
+      },
+      {
+        "id": "cBHP",
+        "label": "CHAPTER 36",
+        "words": 164
+      },
+      {
+        "id": "cBHX",
+        "label": "SECTION 2: THE BOOK OF ALLEGORIES OF ENOCH",
+        "words": 7
+      },
+      {
+        "id": "cBJ3",
+        "label": "CHAPTER 37",
+        "words": 187
+      },
+      {
+        "id": "cBJA",
+        "label": "CHAPTER 38",
+        "words": 218
+      },
+      {
+        "id": "cBJH",
+        "label": "CHAPTER 39",
+        "words": 444
+      },
+      {
+        "id": "cBJS",
+        "label": "CHAPTER 40",
+        "words": 303
+      },
+      {
+        "id": "cBJZ",
+        "label": "CHAPTER 41",
+        "words": 438
+      },
+      {
+        "id": "cBK6",
+        "label": "CHAPTER 42",
+        "words": 76
+      },
+      {
+        "id": "cBKD",
+        "label": "CHAPTER 43",
+        "words": 142
+      },
+      {
+        "id": "cBKM",
+        "label": "CHAPTER 44",
+        "words": 27
+      },
+      {
+        "id": "cBKV",
+        "label": "CHAPTER 45",
+        "words": 216
+      },
+      {
+        "id": "cBM2",
+        "label": "CHAPTER 46",
+        "words": 336
+      },
+      {
+        "id": "cBM9",
+        "label": "CHAPTER 47",
+        "words": 193
+      },
+      {
+        "id": "cBMG",
+        "label": "CHAPTER 48",
+        "words": 405
+      },
+      {
+        "id": "cBMR",
+        "label": "CHAPTER 49",
+        "words": 128
+      },
+      {
+        "id": "cBMY",
+        "label": "CHAPTER 50",
+        "words": 166
+      },
+      {
+        "id": "cBN5",
+        "label": "CHAPTER 51",
+        "words": 163
+      },
+      {
+        "id": "cBNC",
+        "label": "CHAPTER 52",
+        "words": 315
+      },
+      {
+        "id": "cBNK",
+        "label": "CHAPTER 53",
+        "words": 214
+      },
+      {
+        "id": "cBNU",
+        "label": "CHAPTER 54",
+        "words": 277
+      },
+      {
+        "id": "cBP1",
+        "label": "CHAPTER 55",
+        "words": 170
+      },
+      {
+        "id": "cBP8",
+        "label": "CHAPTER 56",
+        "words": 294
+      },
+      {
+        "id": "cBPF",
+        "label": "CHAPTER 57",
+        "words": 105
+      },
+      {
+        "id": "cBPP",
+        "label": "CHAPTER 58",
+        "words": 173
+      },
+      {
+        "id": "cBPX",
+        "label": "CHAPTER 59",
+        "words": 114
+      },
+      {
+        "id": "cBR4",
+        "label": "CHAPTER 60",
+        "words": 1013
+      },
+      {
+        "id": "cBRB",
+        "label": "CHAPTER 61",
+        "words": 585
+      },
+      {
+        "id": "cBRJ",
+        "label": "CHAPTER 62",
+        "words": 537
+      },
+      {
+        "id": "cBRT",
+        "label": "CHAPTER 63",
+        "words": 404
+      },
+      {
+        "id": "cBS0",
+        "label": "CHAPTER 64",
+        "words": 46
+      },
+      {
+        "id": "cBS7",
+        "label": "CHAPTER 65",
+        "words": 437
+      },
+      {
+        "id": "cBSE",
+        "label": "CHAPTER 66",
+        "words": 95
+      },
+      {
+        "id": "cBSN",
+        "label": "CHAPTER 67",
+        "words": 507
+      },
+      {
+        "id": "cBSW",
+        "label": "CHAPTER 68",
+        "words": 220
+      },
+      {
+        "id": "cBT3",
+        "label": "CHAPTER 69",
+        "words": 994
+      },
+      {
+        "id": "cBTA",
+        "label": "CHAPTER 70",
+        "words": 114
+      },
+      {
+        "id": "cBTH",
+        "label": "CHAPTER 71",
+        "words": 529
+      },
+      {
+        "id": "cBTS",
+        "label": "SECTION 3: THE ASTRONOMICAL BOOK",
+        "words": 4
+      },
+      {
+        "id": "cBTY",
+        "label": "CHAPTER 72",
+        "words": 1215
+      },
+      {
+        "id": "cBU6",
+        "label": "CHAPTER 73",
+        "words": 283
+      },
+      {
+        "id": "cBUD",
+        "label": "CHAPTER 74",
+        "words": 550
+      },
+      {
+        "id": "cBUM",
+        "label": "CHAPTER 75",
+        "words": 397
+      },
+      {
+        "id": "cBUV",
+        "label": "CHAPTER 76",
+        "words": 428
+      },
+      {
+        "id": "cBV2",
+        "label": "CHAPTER 77",
+        "words": 242
+      },
+      {
+        "id": "cBV9",
+        "label": "CHAPTER 78",
+        "words": 575
+      },
+      {
+        "id": "cBVG",
+        "label": "CHAPTER 79",
+        "words": 174
+      },
+      {
+        "id": "cBVR",
+        "label": "CHAPTER 80",
+        "words": 280
+      },
+      {
+        "id": "cBVY",
+        "label": "CHAPTER 81",
+        "words": 328
+      },
+      {
+        "id": "cBW5",
+        "label": "CHAPTER 82",
+        "words": 849
+      },
+      {
+        "id": "cBWC",
+        "label": "SECTION 4: THE BOOK OF DREAM VISIONS",
+        "words": 6
+      },
+      {
+        "id": "cBWJ",
+        "label": "CHAPTER 83",
+        "words": 428
+      },
+      {
+        "id": "cBWT",
+        "label": "CHAPTER 84",
+        "words": 291
+      },
+      {
+        "id": "cBX0",
+        "label": "CHAPTER 85",
+        "words": 274
+      },
+      {
+        "id": "cBX7",
+        "label": "CHAPTER 86",
+        "words": 196
+      },
+      {
+        "id": "cBXE",
+        "label": "CHAPTER 87",
+        "words": 138
+      },
+      {
+        "id": "cBXN",
+        "label": "CHAPTER 88",
+        "words": 131
+      },
+      {
+        "id": "cBXW",
+        "label": "CHAPTER 89",
+        "words": 2818
+      },
+      {
+        "id": "cBY3",
+        "label": "CHAPTER 90",
+        "words": 1514
+      },
+      {
+        "id": "cBYA",
+        "label": "SECTION 5: THE EPISTLE OF ENOCH",
+        "words": 5
+      },
+      {
+        "id": "cBYG",
+        "label": "CHAPTER 91",
+        "words": 660
+      },
+      {
+        "id": "cBYR",
+        "label": "CHAPTER 92",
+        "words": 152
+      },
+      {
+        "id": "cBYY",
+        "label": "CHAPTER 93",
+        "words": 508
+      },
+      {
+        "id": "cBZ5",
+        "label": "CHAPTER 94",
+        "words": 341
+      },
+      {
+        "id": "cBZC",
+        "label": "CHAPTER 95",
+        "words": 163
+      },
+      {
+        "id": "cBZK",
+        "label": "CHAPTER 96",
+        "words": 259
+      },
+      {
+        "id": "cBZU",
+        "label": "CHAPTER 97",
+        "words": 269
+      },
+      {
+        "id": "cC01",
+        "label": "CHAPTER 98",
+        "words": 549
+      },
+      {
+        "id": "cC08",
+        "label": "CHAPTER 99",
+        "words": 486
+      },
+      {
+        "id": "cC0F",
+        "label": "CHAPTER 100",
+        "words": 457
+      },
+      {
+        "id": "cC0P",
+        "label": "CHAPTER 101",
+        "words": 267
+      },
+      {
+        "id": "cC0X",
+        "label": "CHAPTER 102",
+        "words": 311
+      },
+      {
+        "id": "cC14",
+        "label": "CHAPTER 103",
+        "words": 551
+      },
+      {
+        "id": "cC1B",
+        "label": "CHAPTER 104",
+        "words": 441
+      },
+      {
+        "id": "cC1J",
+        "label": "CHAPTER 105",
+        "words": 66
+      },
+      {
+        "id": "cC1T",
+        "label": "CHAPTER 106",
+        "words": 757
+      },
+      {
+        "id": "cC20",
+        "label": "CHAPTER 107",
+        "words": 113
+      },
+      {
+        "id": "cC27",
+        "label": "CHAPTER 108",
+        "words": 588
+      }
+    ]
+  },
+  {
+    "book_id": "2-enoch",
+    "words": 11382,
+    "units": [
+      {
+        "id": "cC2F",
+        "label": "2 ENOCH",
+        "words": 39
+      },
+      {
+        "id": "cC2S",
+        "label": "CHAPTER 1",
+        "words": 421
+      },
+      {
+        "id": "cC2Z",
+        "label": "CHAPTER 2",
+        "words": 84
+      },
+      {
+        "id": "cC36",
+        "label": "CHAPTER 3",
+        "words": 70
+      },
+      {
+        "id": "cC3D",
+        "label": "CHAPTER 4",
+        "words": 42
+      },
+      {
+        "id": "cC3M",
+        "label": "CHAPTER 5",
+        "words": 34
+      },
+      {
+        "id": "cC3V",
+        "label": "CHAPTER 6",
+        "words": 46
+      },
+      {
+        "id": "cC42",
+        "label": "CHAPTER 7",
+        "words": 160
+      },
+      {
+        "id": "cC49",
+        "label": "CHAPTER 8",
+        "words": 260
+      },
+      {
+        "id": "cC4G",
+        "label": "CHAPTER 9",
+        "words": 78
+      },
+      {
+        "id": "cC4R",
+        "label": "CHAPTER 10",
+        "words": 241
+      },
+      {
+        "id": "cC4Y",
+        "label": "CHAPTER 11",
+        "words": 166
+      },
+      {
+        "id": "cC55",
+        "label": "CHAPTER 12",
+        "words": 102
+      },
+      {
+        "id": "cC5C",
+        "label": "CHAPTER 13",
+        "words": 129
+      },
+      {
+        "id": "cC5K",
+        "label": "CHAPTER 14",
+        "words": 141
+      },
+      {
+        "id": "cC5U",
+        "label": "CHAPTER 15",
+        "words": 134
+      },
+      {
+        "id": "cC61",
+        "label": "CHAPTER 16",
+        "words": 312
+      },
+      {
+        "id": "cC68",
+        "label": "CHAPTER 17",
+        "words": 60
+      },
+      {
+        "id": "cC6F",
+        "label": "CHAPTER 18",
+        "words": 354
+      },
+      {
+        "id": "cC6P",
+        "label": "CHAPTER 19",
+        "words": 221
+      },
+      {
+        "id": "cC6X",
+        "label": "CHAPTER 20",
+        "words": 170
+      },
+      {
+        "id": "cC74",
+        "label": "CHAPTER 21",
+        "words": 298
+      },
+      {
+        "id": "cC7B",
+        "label": "CHAPTER 22",
+        "words": 373
+      },
+      {
+        "id": "cC7J",
+        "label": "CHAPTER 23",
+        "words": 166
+      },
+      {
+        "id": "cC7T",
+        "label": "CHAPTER 24",
+        "words": 165
+      },
+      {
+        "id": "cC80",
+        "label": "CHAPTER 25",
+        "words": 158
+      },
+      {
+        "id": "cC87",
+        "label": "CHAPTER 26",
+        "words": 120
+      },
+      {
+        "id": "cC8E",
+        "label": "CHAPTER 27",
+        "words": 184
+      },
+      {
+        "id": "cC8N",
+        "label": "CHAPTER 28",
+        "words": 125
+      },
+      {
+        "id": "cC8W",
+        "label": "CHAPTER 29",
+        "words": 194
+      },
+      {
+        "id": "cC93",
+        "label": "CHAPTER 30",
+        "words": 590
+      },
+      {
+        "id": "cC9A",
+        "label": "CHAPTER 31",
+        "words": 191
+      },
+      {
+        "id": "cC9H",
+        "label": "CHAPTER 32",
+        "words": 83
+      },
+      {
+        "id": "cC9S",
+        "label": "CHAPTER 33",
+        "words": 358
+      },
+      {
+        "id": "cC9Z",
+        "label": "CHAPTER 34",
+        "words": 91
+      },
+      {
+        "id": "cCA6",
+        "label": "CHAPTER 35",
+        "words": 85
+      },
+      {
+        "id": "cCAD",
+        "label": "CHAPTER 36",
+        "words": 95
+      },
+      {
+        "id": "cCAM",
+        "label": "CHAPTER 37",
+        "words": 94
+      },
+      {
+        "id": "cCAV",
+        "label": "CHAPTER 38",
+        "words": 77
+      },
+      {
+        "id": "cCB2",
+        "label": "CHAPTER 39",
+        "words": 291
+      },
+      {
+        "id": "cCB9",
+        "label": "CHAPTER 40",
+        "words": 402
+      },
+      {
+        "id": "cCBG",
+        "label": "CHAPTER 41",
+        "words": 86
+      },
+      {
+        "id": "cCBR",
+        "label": "CHAPTER 42",
+        "words": 64
+      },
+      {
+        "id": "cCBY",
+        "label": "CHAPTER 43",
+        "words": 103
+      },
+      {
+        "id": "cCC5",
+        "label": "CHAPTER 44",
+        "words": 162
+      },
+      {
+        "id": "cCCC",
+        "label": "CHAPTER 45",
+        "words": 89
+      },
+      {
+        "id": "cCCK",
+        "label": "CHAPTER 46",
+        "words": 125
+      },
+      {
+        "id": "cCCU",
+        "label": "CHAPTER 47",
+        "words": 201
+      },
+      {
+        "id": "cCD1",
+        "label": "CHAPTER 48",
+        "words": 268
+      },
+      {
+        "id": "cCD8",
+        "label": "CHAPTER 49",
+        "words": 135
+      },
+      {
+        "id": "cCDF",
+        "label": "CHAPTER 50",
+        "words": 135
+      },
+      {
+        "id": "cCDP",
+        "label": "CHAPTER 51",
+        "words": 103
+      },
+      {
+        "id": "cCDX",
+        "label": "CHAPTER 52",
+        "words": 224
+      },
+      {
+        "id": "cCE4",
+        "label": "CHAPTER 53",
+        "words": 111
+      },
+      {
+        "id": "cCEB",
+        "label": "CHAPTER 54",
+        "words": 44
+      },
+      {
+        "id": "cCEJ",
+        "label": "CHAPTER 55",
+        "words": 76
+      },
+      {
+        "id": "cCET",
+        "label": "CHAPTER 56",
+        "words": 97
+      },
+      {
+        "id": "cCF0",
+        "label": "CHAPTER 57",
+        "words": 65
+      },
+      {
+        "id": "cCF7",
+        "label": "CHAPTER 58",
+        "words": 201
+      },
+      {
+        "id": "cCFE",
+        "label": "CHAPTER 59",
+        "words": 107
+      },
+      {
+        "id": "cCFN",
+        "label": "CHAPTER 60",
+        "words": 92
+      },
+      {
+        "id": "cCFW",
+        "label": "CHAPTER 61",
+        "words": 169
+      },
+      {
+        "id": "cCG3",
+        "label": "CHAPTER 62",
+        "words": 83
+      },
+      {
+        "id": "cCGA",
+        "label": "CHAPTER 63",
+        "words": 128
+      },
+      {
+        "id": "cCGH",
+        "label": "CHAPTER 64",
+        "words": 151
+      },
+      {
+        "id": "cCGS",
+        "label": "CHAPTER 65",
+        "words": 340
+      },
+      {
+        "id": "cCGZ",
+        "label": "CHAPTER 66",
+        "words": 263
+      },
+      {
+        "id": "cCH6",
+        "label": "CHAPTER 67",
+        "words": 101
+      },
+      {
+        "id": "cCHD",
+        "label": "CHAPTER 68",
+        "words": 255
+      }
+    ]
+  },
+  {
+    "book_id": "3-enoch",
+    "words": 18691,
+    "units": [
+      {
+        "id": "cCHM",
+        "label": "3 ENOCH",
+        "words": 71
+      },
+      {
+        "id": "cCHX",
+        "label": "CHAPTER 1",
+        "words": 482
+      },
+      {
+        "id": "cCJ4",
+        "label": "CHAPTER 2",
+        "words": 147
+      },
+      {
+        "id": "cCJB",
+        "label": "CHAPTER 3",
+        "words": 56
+      },
+      {
+        "id": "cCJJ",
+        "label": "CHAPTER 4",
+        "words": 461
+      },
+      {
+        "id": "cCJT",
+        "label": "CHAPTER 5",
+        "words": 640
+      },
+      {
+        "id": "cCK0",
+        "label": "CHAPTER 6",
+        "words": 267
+      },
+      {
+        "id": "cCK7",
+        "label": "CHAPTER 7",
+        "words": 110
+      },
+      {
+        "id": "cCKE",
+        "label": "CHAPTER 8",
+        "words": 177
+      },
+      {
+        "id": "cCKN",
+        "label": "CHAPTER 9",
+        "words": 116
+      },
+      {
+        "id": "cCKW",
+        "label": "CHAPTER 10",
+        "words": 261
+      },
+      {
+        "id": "cCM3",
+        "label": "CHAPTER 11",
+        "words": 120
+      },
+      {
+        "id": "cCMA",
+        "label": "CHAPTER 12",
+        "words": 159
+      },
+      {
+        "id": "cCMH",
+        "label": "CHAPTER 13",
+        "words": 162
+      },
+      {
+        "id": "cCMS",
+        "label": "CHAPTER 14",
+        "words": 399
+      },
+      {
+        "id": "cCMZ",
+        "label": "CHAPTER 15",
+        "words": 145
+      },
+      {
+        "id": "cCN6",
+        "label": "CHAPTER 16",
+        "words": 265
+      },
+      {
+        "id": "cCND",
+        "label": "CHAPTER 17",
+        "words": 543
+      },
+      {
+        "id": "cCNM",
+        "label": "CHAPTER 18",
+        "words": 2135
+      },
+      {
+        "id": "cCNV",
+        "label": "CHAPTER 19",
+        "words": 325
+      },
+      {
+        "id": "cCP2",
+        "label": "CHAPTER 20",
+        "words": 121
+      },
+      {
+        "id": "cCP9",
+        "label": "CHAPTER 21",
+        "words": 168
+      },
+      {
+        "id": "cCPG",
+        "label": "CHAPTER 22 (A)",
+        "words": 759
+      },
+      {
+        "id": "cCPR",
+        "label": "CHAPTER 22 (B)",
+        "words": 424
+      },
+      {
+        "id": "cCPY",
+        "label": "CHAPTER 23",
+        "words": 739
+      },
+      {
+        "id": "cCR5",
+        "label": "CHAPTER 24",
+        "words": 639
+      },
+      {
+        "id": "cCRC",
+        "label": "CHAPTER 25",
+        "words": 372
+      },
+      {
+        "id": "cCRK",
+        "label": "CHAPTER 26",
+        "words": 710
+      },
+      {
+        "id": "cCRU",
+        "label": "CHAPTER 27",
+        "words": 194
+      },
+      {
+        "id": "cCS1",
+        "label": "CHAPTER 28",
+        "words": 611
+      },
+      {
+        "id": "cCS8",
+        "label": "CHAPTER 29",
+        "words": 133
+      },
+      {
+        "id": "cCSF",
+        "label": "CHAPTER 30",
+        "words": 126
+      },
+      {
+        "id": "cCSP",
+        "label": "CHAPTER 31",
+        "words": 117
+      },
+      {
+        "id": "cCSX",
+        "label": "CHAPTER 32",
+        "words": 156
+      },
+      {
+        "id": "cCT4",
+        "label": "CHAPTER 33",
+        "words": 283
+      },
+      {
+        "id": "cCTB",
+        "label": "CHAPTER 34",
+        "words": 222
+      },
+      {
+        "id": "cCTJ",
+        "label": "CHAPTER 35",
+        "words": 379
+      },
+      {
+        "id": "cCTT",
+        "label": "CHAPTER 36",
+        "words": 134
+      },
+      {
+        "id": "cCU0",
+        "label": "CHAPTER 37",
+        "words": 141
+      },
+      {
+        "id": "cCU7",
+        "label": "CHAPTER 38",
+        "words": 218
+      },
+      {
+        "id": "cCUE",
+        "label": "CHAPTER 39",
+        "words": 149
+      },
+      {
+        "id": "cCUN",
+        "label": "CHAPTER 40",
+        "words": 262
+      },
+      {
+        "id": "cCUW",
+        "label": "CHAPTER 41",
+        "words": 196
+      },
+      {
+        "id": "cCV3",
+        "label": "CHAPTER 42",
+        "words": 384
+      },
+      {
+        "id": "cCVA",
+        "label": "CHAPTER 43",
+        "words": 191
+      },
+      {
+        "id": "cCVH",
+        "label": "CHAPTER 44",
+        "words": 596
+      },
+      {
+        "id": "cCVS",
+        "label": "CHAPTER 45",
+        "words": 870
+      },
+      {
+        "id": "cCVZ",
+        "label": "CHAPTER 46",
+        "words": 260
+      },
+      {
+        "id": "cCW6",
+        "label": "CHAPTER 47",
+        "words": 274
+      },
+      {
+        "id": "cCWD",
+        "label": "CHAPTER 48 (A)",
+        "words": 804
+      },
+      {
+        "id": "cCWN",
+        "label": "CHAPTER 48 (B)",
+        "words": 1018
+      }
+    ]
+  },
+  {
+    "book_id": "book-of-giants",
+    "words": 1376,
+    "units": [
+      {
+        "id": "cCWW",
+        "label": "BOOK OF GIANTS",
+        "words": 101
+      },
+      {
+        "id": "cCX5",
+        "label": "CHAPTER 1",
+        "words": 37
+      },
+      {
+        "id": "cCXF",
+        "label": "CHAPTER 2",
+        "words": 64
+      },
+      {
+        "id": "cCXR",
+        "label": "CHAPTER 3",
+        "words": 50
+      },
+      {
+        "id": "cCXZ",
+        "label": "CHAPTER 4",
+        "words": 57
+      },
+      {
+        "id": "cCY7",
+        "label": "CHAPTER 5",
+        "words": 50
+      },
+      {
+        "id": "cCYE",
+        "label": "CHAPTER 6",
+        "words": 65
+      },
+      {
+        "id": "cCYP",
+        "label": "CHAPTER 7",
+        "words": 188
+      },
+      {
+        "id": "cCYX",
+        "label": "CHAPTER 8",
+        "words": 132
+      },
+      {
+        "id": "cCZ5",
+        "label": "CHAPTER 9",
+        "words": 51
+      },
+      {
+        "id": "cCZD",
+        "label": "CHAPTER 10",
+        "words": 61
+      },
+      {
+        "id": "cCZN",
+        "label": "CHAPTER 11",
+        "words": 107
+      },
+      {
+        "id": "cCZX",
+        "label": "CHAPTER 12",
+        "words": 130
+      },
+      {
+        "id": "cD05",
+        "label": "CHAPTER 13",
+        "words": 90
+      },
+      {
+        "id": "cD0C",
+        "label": "CHAPTER 14",
+        "words": 165
+      },
+      {
+        "id": "cD0M",
+        "label": "CHAPTER 15",
+        "words": 28
+      }
+    ]
+  },
+  {
+    "book_id": "life-of-adam-and-eve",
+    "words": 5358,
+    "units": [
+      {
+        "id": "cD0V",
+        "label": "LIFE OF ADAM AND EVE",
+        "words": 117
+      },
+      {
+        "id": "cD14",
+        "label": "CHAPTER 1",
+        "words": 54
+      },
+      {
+        "id": "cD1B",
+        "label": "CHAPTER 2",
+        "words": 122
+      },
+      {
+        "id": "cD1J",
+        "label": "CHAPTER 3",
+        "words": 100
+      },
+      {
+        "id": "cD1T",
+        "label": "CHAPTER 4",
+        "words": 42
+      },
+      {
+        "id": "cD20",
+        "label": "CHAPTER 5",
+        "words": 89
+      },
+      {
+        "id": "cD27",
+        "label": "CHAPTER 6",
+        "words": 118
+      },
+      {
+        "id": "cD2E",
+        "label": "CHAPTER 7",
+        "words": 114
+      },
+      {
+        "id": "cD2N",
+        "label": "CHAPTER 8",
+        "words": 94
+      },
+      {
+        "id": "cD2W",
+        "label": "CHAPTER 9",
+        "words": 133
+      },
+      {
+        "id": "cD33",
+        "label": "CHAPTER 10",
+        "words": 112
+      },
+      {
+        "id": "cD3A",
+        "label": "CHAPTER 11",
+        "words": 69
+      },
+      {
+        "id": "cD3H",
+        "label": "CHAPTER 12",
+        "words": 47
+      },
+      {
+        "id": "cD3S",
+        "label": "CHAPTER 13",
+        "words": 190
+      },
+      {
+        "id": "cD41",
+        "label": "CHAPTER 14",
+        "words": 70
+      },
+      {
+        "id": "cD48",
+        "label": "CHAPTER 15",
+        "words": 85
+      },
+      {
+        "id": "cD4F",
+        "label": "CHAPTER 16",
+        "words": 125
+      },
+      {
+        "id": "cD4P",
+        "label": "CHAPTER 17",
+        "words": 151
+      },
+      {
+        "id": "cD4X",
+        "label": "CHAPTER 18",
+        "words": 145
+      },
+      {
+        "id": "cD54",
+        "label": "CHAPTER 19",
+        "words": 134
+      },
+      {
+        "id": "cD5B",
+        "label": "CHAPTER 20",
+        "words": 144
+      },
+      {
+        "id": "cD5J",
+        "label": "CHAPTER 21",
+        "words": 182
+      },
+      {
+        "id": "cD5T",
+        "label": "CHAPTER 22",
+        "words": 94
+      },
+      {
+        "id": "cD60",
+        "label": "CHAPTER 23",
+        "words": 121
+      },
+      {
+        "id": "cD67",
+        "label": "CHAPTER 24",
+        "words": 135
+      },
+      {
+        "id": "cD6E",
+        "label": "CHAPTER 25",
+        "words": 107
+      },
+      {
+        "id": "cD6N",
+        "label": "CHAPTER 26",
+        "words": 129
+      },
+      {
+        "id": "cD6W",
+        "label": "CHAPTER 27",
+        "words": 136
+      },
+      {
+        "id": "cD73",
+        "label": "CHAPTER 28",
+        "words": 141
+      },
+      {
+        "id": "cD7A",
+        "label": "CHAPTER 29",
+        "words": 170
+      },
+      {
+        "id": "cD7H",
+        "label": "CHAPTER 30",
+        "words": 26
+      },
+      {
+        "id": "cD7S",
+        "label": "CHAPTER 31",
+        "words": 178
+      },
+      {
+        "id": "cD7Z",
+        "label": "CHAPTER 32",
+        "words": 119
+      },
+      {
+        "id": "cD86",
+        "label": "CHAPTER 33",
+        "words": 153
+      },
+      {
+        "id": "cD8D",
+        "label": "CHAPTER 34",
+        "words": 58
+      },
+      {
+        "id": "cD8M",
+        "label": "CHAPTER 35",
+        "words": 114
+      },
+      {
+        "id": "cD8V",
+        "label": "CHAPTER 36",
+        "words": 79
+      },
+      {
+        "id": "cD92",
+        "label": "CHAPTER 37",
+        "words": 103
+      },
+      {
+        "id": "cD99",
+        "label": "CHAPTER 38",
+        "words": 110
+      },
+      {
+        "id": "cD9G",
+        "label": "CHAPTER 39",
+        "words": 74
+      },
+      {
+        "id": "cD9R",
+        "label": "CHAPTER 40",
+        "words": 137
+      },
+      {
+        "id": "cD9Y",
+        "label": "CHAPTER 41",
+        "words": 233
+      },
+      {
+        "id": "cDA5",
+        "label": "CHAPTER 42",
+        "words": 62
+      },
+      {
+        "id": "cDAC",
+        "label": "CHAPTER 43",
+        "words": 255
+      },
+      {
+        "id": "cDAK",
+        "label": "CHAPTER 44",
+        "words": 187
+      }
+    ]
+  },
+  {
+    "book_id": "book-of-creation",
+    "words": 3006,
+    "units": [
+      {
+        "id": "cDAU",
+        "label": "BOOK OF CREATION",
+        "words": 91
+      },
+      {
+        "id": "cDB5",
+        "label": "CHAPTER 1",
+        "words": 639
+      },
+      {
+        "id": "cDBC",
+        "label": "CHAPTER 2",
+        "words": 302
+      },
+      {
+        "id": "cDBK",
+        "label": "CHAPTER 3",
+        "words": 403
+      },
+      {
+        "id": "cDBU",
+        "label": "CHAPTER 4",
+        "words": 571
+      },
+      {
+        "id": "cDC1",
+        "label": "CHAPTER 5",
+        "words": 571
+      },
+      {
+        "id": "cDC8",
+        "label": "CHAPTER 6",
+        "words": 429
+      }
+    ]
+  },
+  {
+    "book_id": "testament-of-abraham",
+    "words": 7891,
+    "units": [
+      {
+        "id": "cDCF",
+        "label": "TESTAMENT OF ABRAHAM",
+        "words": 98
+      },
+      {
+        "id": "cDCS",
+        "label": "CHAPTER 1",
+        "words": 225
+      },
+      {
+        "id": "cDCZ",
+        "label": "CHAPTER 2",
+        "words": 344
+      },
+      {
+        "id": "cDD6",
+        "label": "CHAPTER 3",
+        "words": 321
+      },
+      {
+        "id": "cDDD",
+        "label": "CHAPTER 4",
+        "words": 498
+      },
+      {
+        "id": "cDDM",
+        "label": "CHAPTER 5",
+        "words": 377
+      },
+      {
+        "id": "cDDV",
+        "label": "CHAPTER 6",
+        "words": 264
+      },
+      {
+        "id": "cDE2",
+        "label": "CHAPTER 7",
+        "words": 406
+      },
+      {
+        "id": "cDE9",
+        "label": "CHAPTER 8",
+        "words": 414
+      },
+      {
+        "id": "cDEG",
+        "label": "CHAPTER 9",
+        "words": 329
+      },
+      {
+        "id": "cDER",
+        "label": "CHAPTER 10",
+        "words": 405
+      },
+      {
+        "id": "cDEY",
+        "label": "CHAPTER 11",
+        "words": 401
+      },
+      {
+        "id": "cDF5",
+        "label": "CHAPTER 12",
+        "words": 366
+      },
+      {
+        "id": "cDFC",
+        "label": "CHAPTER 13",
+        "words": 438
+      },
+      {
+        "id": "cDFK",
+        "label": "CHAPTER 14",
+        "words": 406
+      },
+      {
+        "id": "cDFU",
+        "label": "CHAPTER 15",
+        "words": 418
+      },
+      {
+        "id": "cDG1",
+        "label": "CHAPTER 16",
+        "words": 474
+      },
+      {
+        "id": "cDG8",
+        "label": "CHAPTER 17",
+        "words": 477
+      },
+      {
+        "id": "cDGF",
+        "label": "CHAPTER 18",
+        "words": 274
+      },
+      {
+        "id": "cDGP",
+        "label": "CHAPTER 19",
+        "words": 484
+      },
+      {
+        "id": "cDGX",
+        "label": "CHAPTER 20",
+        "words": 472
+      }
+    ]
+  },
+  {
+    "book_id": "testament-of-isaac",
+    "words": 4286,
+    "units": [
+      {
+        "id": "cDH4",
+        "label": "TESTAMENT OF ISAAC",
+        "words": 84
+      },
+      {
+        "id": "cDHE",
+        "label": "CHAPTER 1",
+        "words": 157
+      },
+      {
+        "id": "cDHN",
+        "label": "CHAPTER 2",
+        "words": 362
+      },
+      {
+        "id": "cDHW",
+        "label": "CHAPTER 3",
+        "words": 317
+      },
+      {
+        "id": "cDJ3",
+        "label": "CHAPTER 4",
+        "words": 564
+      },
+      {
+        "id": "cDJA",
+        "label": "CHAPTER 5",
+        "words": 135
+      },
+      {
+        "id": "cDJH",
+        "label": "CHAPTER 6",
+        "words": 506
+      },
+      {
+        "id": "cDJS",
+        "label": "CHAPTER 7",
+        "words": 300
+      },
+      {
+        "id": "cDJZ",
+        "label": "CHAPTER 8",
+        "words": 359
+      },
+      {
+        "id": "cDK6",
+        "label": "CHAPTER 9",
+        "words": 259
+      },
+      {
+        "id": "cDKD",
+        "label": "CHAPTER 10",
+        "words": 616
+      },
+      {
+        "id": "cDKM",
+        "label": "CHAPTER 11",
+        "words": 162
+      },
+      {
+        "id": "cDKV",
+        "label": "CHAPTER 12",
+        "words": 242
+      },
+      {
+        "id": "cDM2",
+        "label": "CHAPTER 13",
+        "words": 223
+      }
+    ]
+  },
+  {
+    "book_id": "testament-of-jacob",
+    "words": 3370,
+    "units": [
+      {
+        "id": "cDM9",
+        "label": "TESTAMENT OF JACOB",
+        "words": 77
+      },
+      {
+        "id": "cDMJ",
+        "label": "CHAPTER 1",
+        "words": 382
+      },
+      {
+        "id": "cDMT",
+        "label": "CHAPTER 2",
+        "words": 648
+      },
+      {
+        "id": "cDN0",
+        "label": "CHAPTER 3",
+        "words": 232
+      },
+      {
+        "id": "cDN7",
+        "label": "CHAPTER 4",
+        "words": 382
+      },
+      {
+        "id": "cDNE",
+        "label": "CHAPTER 5",
+        "words": 223
+      },
+      {
+        "id": "cDNN",
+        "label": "CHAPTER 6",
+        "words": 345
+      },
+      {
+        "id": "cDNW",
+        "label": "CHAPTER 7",
+        "words": 805
+      },
+      {
+        "id": "cDP3",
+        "label": "CHAPTER 8",
+        "words": 276
+      }
+    ]
+  },
+  {
+    "book_id": "ladder-of-jacob",
+    "words": 1875,
+    "units": [
+      {
+        "id": "cDPA",
+        "label": "LADDER OF JACOB",
+        "words": 66
+      },
+      {
+        "id": "cDPK",
+        "label": "CHAPTER 1",
+        "words": 261
+      },
+      {
+        "id": "cDPU",
+        "label": "CHAPTER 2",
+        "words": 386
+      },
+      {
+        "id": "cDR1",
+        "label": "CHAPTER 3",
+        "words": 178
+      },
+      {
+        "id": "cDR8",
+        "label": "CHAPTER 4",
+        "words": 144
+      },
+      {
+        "id": "cDRF",
+        "label": "CHAPTER 5",
+        "words": 128
+      },
+      {
+        "id": "cDRP",
+        "label": "CHAPTER 6",
+        "words": 164
+      },
+      {
+        "id": "cDRX",
+        "label": "CHAPTER 7",
+        "words": 223
+      },
+      {
+        "id": "cDS4",
+        "label": "CHAPTER 8",
+        "words": 325
+      }
+    ]
+  },
+  {
+    "book_id": "joseph-and-asenath",
+    "words": 13547,
+    "units": [
+      {
+        "id": "cDSB",
+        "label": "JOSEPH AND ASENATH",
+        "words": 105
+      },
+      {
+        "id": "cDSM",
+        "label": "CHAPTER 1",
+        "words": 360
+      },
+      {
+        "id": "cDSV",
+        "label": "CHAPTER 2",
+        "words": 454
+      },
+      {
+        "id": "cDT2",
+        "label": "CHAPTER 3",
+        "words": 321
+      },
+      {
+        "id": "cDT9",
+        "label": "CHAPTER 4",
+        "words": 499
+      },
+      {
+        "id": "cDTG",
+        "label": "CHAPTER 5",
+        "words": 274
+      },
+      {
+        "id": "cDTR",
+        "label": "CHAPTER 6",
+        "words": 285
+      },
+      {
+        "id": "cDTY",
+        "label": "CHAPTER 7",
+        "words": 355
+      },
+      {
+        "id": "cDU5",
+        "label": "CHAPTER 8",
+        "words": 439
+      },
+      {
+        "id": "cDUC",
+        "label": "CHAPTER 9",
+        "words": 188
+      },
+      {
+        "id": "cDUK",
+        "label": "CHAPTER 10",
+        "words": 667
+      },
+      {
+        "id": "cDUU",
+        "label": "CHAPTER 11",
+        "words": 604
+      },
+      {
+        "id": "cDV1",
+        "label": "CHAPTER 12",
+        "words": 687
+      },
+      {
+        "id": "cDV8",
+        "label": "CHAPTER 13",
+        "words": 529
+      },
+      {
+        "id": "cDVF",
+        "label": "CHAPTER 14",
+        "words": 554
+      },
+      {
+        "id": "cDVP",
+        "label": "CHAPTER 15",
+        "words": 722
+      },
+      {
+        "id": "cDVX",
+        "label": "CHAPTER 16",
+        "words": 812
+      },
+      {
+        "id": "cDW4",
+        "label": "CHAPTER 17",
+        "words": 360
+      },
+      {
+        "id": "cDWB",
+        "label": "CHAPTER 18",
+        "words": 535
+      },
+      {
+        "id": "cDWJ",
+        "label": "CHAPTER 19",
+        "words": 398
+      },
+      {
+        "id": "cDWT",
+        "label": "CHAPTER 20",
+        "words": 323
+      },
+      {
+        "id": "cDX0",
+        "label": "CHAPTER 21",
+        "words": 359
+      },
+      {
+        "id": "cDX7",
+        "label": "CHAPTER 22",
+        "words": 451
+      },
+      {
+        "id": "cDXE",
+        "label": "CHAPTER 23",
+        "words": 641
+      },
+      {
+        "id": "cDXN",
+        "label": "CHAPTER 24",
+        "words": 862
+      },
+      {
+        "id": "cDXW",
+        "label": "CHAPTER 25",
+        "words": 272
+      },
+      {
+        "id": "cDY3",
+        "label": "CHAPTER 26",
+        "words": 277
+      },
+      {
+        "id": "cDYA",
+        "label": "CHAPTER 27",
+        "words": 338
+      },
+      {
+        "id": "cDYH",
+        "label": "CHAPTER 28",
+        "words": 552
+      },
+      {
+        "id": "cDYS",
+        "label": "CHAPTER 29",
+        "words": 324
+      }
+    ]
+  },
+  {
+    "book_id": "testament-of-job",
+    "words": 8715,
+    "units": [
+      {
+        "id": "cDYZ",
+        "label": "TESTAMENT OF JOB",
+        "words": 75
+      },
+      {
+        "id": "cDZ8",
+        "label": "CHAPTER 1",
+        "words": 648
+      },
+      {
+        "id": "cDZF",
+        "label": "CHAPTER 2",
+        "words": 445
+      },
+      {
+        "id": "cDZP",
+        "label": "CHAPTER 3",
+        "words": 913
+      },
+      {
+        "id": "cDZX",
+        "label": "CHAPTER 4",
+        "words": 660
+      },
+      {
+        "id": "cE04",
+        "label": "CHAPTER 5",
+        "words": 615
+      },
+      {
+        "id": "cE0B",
+        "label": "CHAPTER 6",
+        "words": 887
+      },
+      {
+        "id": "cE0J",
+        "label": "CHAPTER 7",
+        "words": 1011
+      },
+      {
+        "id": "cE0T",
+        "label": "CHAPTER 8",
+        "words": 794
+      },
+      {
+        "id": "cE10",
+        "label": "CHAPTER 9",
+        "words": 590
+      },
+      {
+        "id": "cE17",
+        "label": "CHAPTER 10",
+        "words": 692
+      },
+      {
+        "id": "cE1E",
+        "label": "CHAPTER 11",
+        "words": 867
+      },
+      {
+        "id": "cE1N",
+        "label": "CHAPTER 12",
+        "words": 518
+      }
+    ]
+  },
+  {
+    "book_id": "testament-of-moses",
+    "words": 3343,
+    "units": [
+      {
+        "id": "cE1W",
+        "label": "TESTAMENT OF MOSES",
+        "words": 107
+      },
+      {
+        "id": "cE26",
+        "label": "CHAPTER 1",
+        "words": 344
+      },
+      {
+        "id": "cE2D",
+        "label": "CHAPTER 2",
+        "words": 233
+      },
+      {
+        "id": "cE2M",
+        "label": "CHAPTER 3",
+        "words": 351
+      },
+      {
+        "id": "cE2V",
+        "label": "CHAPTER 4",
+        "words": 232
+      },
+      {
+        "id": "cE32",
+        "label": "CHAPTER 5",
+        "words": 164
+      },
+      {
+        "id": "cE39",
+        "label": "CHAPTER 6",
+        "words": 188
+      },
+      {
+        "id": "cE3G",
+        "label": "CHAPTER 7",
+        "words": 178
+      },
+      {
+        "id": "cE3R",
+        "label": "CHAPTER 8",
+        "words": 184
+      },
+      {
+        "id": "cE3Y",
+        "label": "CHAPTER 9",
+        "words": 181
+      },
+      {
+        "id": "cE45",
+        "label": "CHAPTER 10",
+        "words": 352
+      },
+      {
+        "id": "cE4C",
+        "label": "CHAPTER 11",
+        "words": 525
+      },
+      {
+        "id": "cE4K",
+        "label": "CHAPTER 12",
+        "words": 304
+      }
+    ]
+  },
+  {
+    "book_id": "testament-of-solomon",
+    "words": 12687,
+    "units": [
+      {
+        "id": "cE4U",
+        "label": "TESTAMENT OF SOLOMON",
+        "words": 178
+      },
+      {
+        "id": "cE54",
+        "label": "CHAPTER 1",
+        "words": 221
+      },
+      {
+        "id": "cE5B",
+        "label": "CHAPTER 2",
+        "words": 242
+      },
+      {
+        "id": "cE5J",
+        "label": "CHAPTER 3",
+        "words": 198
+      },
+      {
+        "id": "cE5T",
+        "label": "CHAPTER 4",
+        "words": 177
+      },
+      {
+        "id": "cE60",
+        "label": "CHAPTER 5",
+        "words": 118
+      },
+      {
+        "id": "cE67",
+        "label": "CHAPTER 6",
+        "words": 92
+      },
+      {
+        "id": "cE6E",
+        "label": "CHAPTER 7",
+        "words": 213
+      },
+      {
+        "id": "cE6N",
+        "label": "CHAPTER 8",
+        "words": 385
+      },
+      {
+        "id": "cE6W",
+        "label": "CHAPTER 9",
+        "words": 660
+      },
+      {
+        "id": "cE73",
+        "label": "CHAPTER 10",
+        "words": 544
+      },
+      {
+        "id": "cE7A",
+        "label": "CHAPTER 11",
+        "words": 419
+      },
+      {
+        "id": "cE7H",
+        "label": "CHAPTER 12",
+        "words": 566
+      },
+      {
+        "id": "cE7S",
+        "label": "CHAPTER 13",
+        "words": 481
+      },
+      {
+        "id": "cE7Z",
+        "label": "CHAPTER 14",
+        "words": 425
+      },
+      {
+        "id": "cE86",
+        "label": "CHAPTER 15",
+        "words": 325
+      },
+      {
+        "id": "cE8D",
+        "label": "CHAPTER 16",
+        "words": 290
+      },
+      {
+        "id": "cE8M",
+        "label": "CHAPTER 17",
+        "words": 522
+      },
+      {
+        "id": "cE8V",
+        "label": "CHAPTER 18",
+        "words": 381
+      },
+      {
+        "id": "cE92",
+        "label": "CHAPTER 19",
+        "words": 599
+      },
+      {
+        "id": "cE99",
+        "label": "CHAPTER 20",
+        "words": 411
+      },
+      {
+        "id": "cE9G",
+        "label": "CHAPTER 21",
+        "words": 255
+      },
+      {
+        "id": "cE9R",
+        "label": "CHAPTER 22",
+        "words": 1622
+      },
+      {
+        "id": "cE9Y",
+        "label": "CHAPTER 23",
+        "words": 322
+      },
+      {
+        "id": "cEA5",
+        "label": "CHAPTER 24",
+        "words": 819
+      },
+      {
+        "id": "cEAC",
+        "label": "CHAPTER 25",
+        "words": 152
+      },
+      {
+        "id": "cEAK",
+        "label": "CHAPTER 26",
+        "words": 1372
+      },
+      {
+        "id": "cEAU",
+        "label": "CHAPTER 27",
+        "words": 338
+      },
+      {
+        "id": "cEB1",
+        "label": "CHAPTER 28",
+        "words": 360
+      }
+    ]
+  },
+  {
+    "book_id": "psalms-of-solomon",
+    "words": 6612,
+    "units": [
+      {
+        "id": "cEB8",
+        "label": "PSALMS OF SOLOMON",
+        "words": 39
+      },
+      {
+        "id": "cEBH",
+        "label": "PSALM 18",
+        "words": 6573
+      }
+    ]
+  },
+  {
+    "book_id": "lives-of-the-prophets",
+    "words": 3860,
+    "units": [
+      {
+        "id": "cECU",
+        "label": "LIVES OF THE PROPHETS",
+        "words": 105
+      },
+      {
+        "id": "cED4",
+        "label": "Elisha",
+        "words": 3755
+      }
+    ]
+  },
+  {
+    "book_id": "words-of-gad-the-seer",
+    "words": 9432,
+    "units": [
+      {
+        "id": "cEER",
+        "label": "WORDS OF GAD THE SEER",
+        "words": 156
+      },
+      {
+        "id": "cEF1",
+        "label": "CHAPTER 1",
+        "words": 1471
+      },
+      {
+        "id": "cEF9",
+        "label": "CHAPTER 2",
+        "words": 644
+      },
+      {
+        "id": "cEFH",
+        "label": "CHAPTER 3",
+        "words": 424
+      },
+      {
+        "id": "cEFT",
+        "label": "CHAPTER 4",
+        "words": 441
+      },
+      {
+        "id": "cEG1",
+        "label": "CHAPTER 5",
+        "words": 242
+      },
+      {
+        "id": "cEG9",
+        "label": "CHAPTER 6",
+        "words": 170
+      },
+      {
+        "id": "cEGH",
+        "label": "CHAPTER 7",
+        "words": 1365
+      },
+      {
+        "id": "cEGT",
+        "label": "CHAPTER 8",
+        "words": 557
+      },
+      {
+        "id": "cEH1",
+        "label": "CHAPTER 9",
+        "words": 788
+      },
+      {
+        "id": "cEH9",
+        "label": "CHAPTER 10",
+        "words": 354
+      },
+      {
+        "id": "cEHH",
+        "label": "CHAPTER 11",
+        "words": 333
+      },
+      {
+        "id": "cEHT",
+        "label": "CHAPTER 12",
+        "words": 382
+      },
+      {
+        "id": "cEJ1",
+        "label": "CHAPTER 13",
+        "words": 1561
+      },
+      {
+        "id": "cEJ9",
+        "label": "CHAPTER 14",
+        "words": 544
+      }
+    ]
+  },
+  {
+    "book_id": "ascension-of-isaiah",
+    "words": 8514,
+    "units": [
+      {
+        "id": "cEJJ",
+        "label": "ASCENSION OF ISAIAH",
+        "words": 81
+      },
+      {
+        "id": "cEJV",
+        "label": "CHAPTER 1",
+        "words": 457
+      },
+      {
+        "id": "cEK2",
+        "label": "CHAPTER 2",
+        "words": 560
+      },
+      {
+        "id": "cEK9",
+        "label": "CHAPTER 3",
+        "words": 895
+      },
+      {
+        "id": "cEKG",
+        "label": "CHAPTER 4",
+        "words": 810
+      },
+      {
+        "id": "cEKR",
+        "label": "CHAPTER 5",
+        "words": 374
+      },
+      {
+        "id": "cEKY",
+        "label": "CHAPTER 6",
+        "words": 562
+      },
+      {
+        "id": "cEM5",
+        "label": "CHAPTER 7",
+        "words": 1215
+      },
+      {
+        "id": "cEMC",
+        "label": "CHAPTER 8",
+        "words": 670
+      },
+      {
+        "id": "cEMK",
+        "label": "CHAPTER 9",
+        "words": 1046
+      },
+      {
+        "id": "cEMU",
+        "label": "CHAPTER 10",
+        "words": 860
+      },
+      {
+        "id": "cEN1",
+        "label": "CHAPTER 11",
+        "words": 984
+      }
+    ]
+  },
+  {
+    "book_id": "2-baruch",
+    "words": 18384,
+    "units": [
+      {
+        "id": "cEN8",
+        "label": "2 BARUCH",
+        "words": 68
+      },
+      {
+        "id": "cENH",
+        "label": "CHAPTER 1",
+        "words": 157
+      },
+      {
+        "id": "cENS",
+        "label": "CHAPTER 2",
+        "words": 44
+      },
+      {
+        "id": "cENZ",
+        "label": "CHAPTER 3",
+        "words": 190
+      },
+      {
+        "id": "cEP6",
+        "label": "CHAPTER 4",
+        "words": 170
+      },
+      {
+        "id": "cEPD",
+        "label": "CHAPTER 5",
+        "words": 196
+      },
+      {
+        "id": "cEPM",
+        "label": "CHAPTER 6",
+        "words": 296
+      },
+      {
+        "id": "cEPV",
+        "label": "CHAPTER 7",
+        "words": 62
+      },
+      {
+        "id": "cER2",
+        "label": "CHAPTER 8",
+        "words": 107
+      },
+      {
+        "id": "cER9",
+        "label": "CHAPTER 9",
+        "words": 38
+      },
+      {
+        "id": "cERG",
+        "label": "CHAPTER 10",
+        "words": 476
+      },
+      {
+        "id": "cERR",
+        "label": "CHAPTER 11",
+        "words": 151
+      },
+      {
+        "id": "cERY",
+        "label": "CHAPTER 12",
+        "words": 79
+      },
+      {
+        "id": "cES5",
+        "label": "CHAPTER 13",
+        "words": 240
+      },
+      {
+        "id": "cESC",
+        "label": "CHAPTER 14",
+        "words": 513
+      },
+      {
+        "id": "cESK",
+        "label": "CHAPTER 15",
+        "words": 180
+      },
+      {
+        "id": "cESU",
+        "label": "CHAPTER 16",
+        "words": 33
+      },
+      {
+        "id": "cET1",
+        "label": "CHAPTER 17",
+        "words": 113
+      },
+      {
+        "id": "cET8",
+        "label": "CHAPTER 18",
+        "words": 47
+      },
+      {
+        "id": "cETF",
+        "label": "CHAPTER 19",
+        "words": 235
+      },
+      {
+        "id": "cETP",
+        "label": "CHAPTER 20",
+        "words": 153
+      },
+      {
+        "id": "cETX",
+        "label": "CHAPTER 21",
+        "words": 684
+      },
+      {
+        "id": "cEU4",
+        "label": "CHAPTER 22",
+        "words": 178
+      },
+      {
+        "id": "cEUB",
+        "label": "CHAPTER 23",
+        "words": 174
+      },
+      {
+        "id": "cEUJ",
+        "label": "CHAPTER 24",
+        "words": 151
+      },
+      {
+        "id": "cEUT",
+        "label": "CHAPTER 25",
+        "words": 110
+      },
+      {
+        "id": "cEV0",
+        "label": "CHAPTER 26",
+        "words": 25
+      },
+      {
+        "id": "cEV7",
+        "label": "CHAPTER 27",
+        "words": 221
+      },
+      {
+        "id": "cEVE",
+        "label": "CHAPTER 28",
+        "words": 153
+      },
+      {
+        "id": "cEVN",
+        "label": "CHAPTER 29",
+        "words": 246
+      },
+      {
+        "id": "cEVW",
+        "label": "CHAPTER 30",
+        "words": 151
+      },
+      {
+        "id": "cEW3",
+        "label": "CHAPTER 31",
+        "words": 105
+      },
+      {
+        "id": "cEWA",
+        "label": "CHAPTER 32",
+        "words": 216
+      },
+      {
+        "id": "cEWH",
+        "label": "CHAPTER 33",
+        "words": 72
+      },
+      {
+        "id": "cEWS",
+        "label": "CHAPTER 34",
+        "words": 61
+      },
+      {
+        "id": "cEWZ",
+        "label": "CHAPTER 35",
+        "words": 88
+      },
+      {
+        "id": "cEX6",
+        "label": "CHAPTER 36",
+        "words": 378
+      },
+      {
+        "id": "cEXD",
+        "label": "CHAPTER 37",
+        "words": 31
+      },
+      {
+        "id": "cEXM",
+        "label": "CHAPTER 38",
+        "words": 63
+      },
+      {
+        "id": "cEXV",
+        "label": "CHAPTER 39",
+        "words": 257
+      },
+      {
+        "id": "cEY2",
+        "label": "CHAPTER 40",
+        "words": 118
+      },
+      {
+        "id": "cEY9",
+        "label": "CHAPTER 41",
+        "words": 125
+      },
+      {
+        "id": "cEYG",
+        "label": "CHAPTER 42",
+        "words": 241
+      },
+      {
+        "id": "cEYR",
+        "label": "CHAPTER 43",
+        "words": 98
+      },
+      {
+        "id": "cEYY",
+        "label": "CHAPTER 44",
+        "words": 388
+      },
+      {
+        "id": "cEZ5",
+        "label": "CHAPTER 45",
+        "words": 25
+      },
+      {
+        "id": "cEZC",
+        "label": "CHAPTER 46",
+        "words": 195
+      },
+      {
+        "id": "cEZK",
+        "label": "CHAPTER 47",
+        "words": 52
+      },
+      {
+        "id": "cEZU",
+        "label": "CHAPTER 48",
+        "words": 1172
+      },
+      {
+        "id": "cF01",
+        "label": "CHAPTER 49",
+        "words": 88
+      },
+      {
+        "id": "cF08",
+        "label": "CHAPTER 50",
+        "words": 132
+      },
+      {
+        "id": "cF0F",
+        "label": "CHAPTER 51",
+        "words": 555
+      },
+      {
+        "id": "cF0P",
+        "label": "CHAPTER 52",
+        "words": 129
+      },
+      {
+        "id": "cF0X",
+        "label": "CHAPTER 53",
+        "words": 336
+      },
+      {
+        "id": "cF14",
+        "label": "CHAPTER 54",
+        "words": 632
+      },
+      {
+        "id": "cF1B",
+        "label": "CHAPTER 55",
+        "words": 256
+      },
+      {
+        "id": "cF1J",
+        "label": "CHAPTER 56",
+        "words": 384
+      },
+      {
+        "id": "cF1T",
+        "label": "CHAPTER 57",
+        "words": 97
+      },
+      {
+        "id": "cF20",
+        "label": "CHAPTER 58",
+        "words": 58
+      },
+      {
+        "id": "cF27",
+        "label": "CHAPTER 59",
+        "words": 340
+      },
+      {
+        "id": "cF2E",
+        "label": "CHAPTER 60",
+        "words": 65
+      },
+      {
+        "id": "cF2N",
+        "label": "CHAPTER 61",
+        "words": 168
+      },
+      {
+        "id": "cF2W",
+        "label": "CHAPTER 62",
+        "words": 138
+      },
+      {
+        "id": "cF33",
+        "label": "CHAPTER 63",
+        "words": 301
+      },
+      {
+        "id": "cF3A",
+        "label": "CHAPTER 64",
+        "words": 278
+      },
+      {
+        "id": "cF3H",
+        "label": "CHAPTER 65",
+        "words": 31
+      },
+      {
+        "id": "cF3S",
+        "label": "CHAPTER 66",
+        "words": 300
+      },
+      {
+        "id": "cF3Z",
+        "label": "CHAPTER 67",
+        "words": 236
+      },
+      {
+        "id": "cF46",
+        "label": "CHAPTER 68",
+        "words": 133
+      },
+      {
+        "id": "cF4D",
+        "label": "CHAPTER 69",
+        "words": 121
+      },
+      {
+        "id": "cF4M",
+        "label": "CHAPTER 70",
+        "words": 334
+      },
+      {
+        "id": "cF4V",
+        "label": "CHAPTER 71",
+        "words": 52
+      },
+      {
+        "id": "cF52",
+        "label": "CHAPTER 72",
+        "words": 136
+      },
+      {
+        "id": "cF59",
+        "label": "CHAPTER 73",
+        "words": 196
+      },
+      {
+        "id": "cF5G",
+        "label": "CHAPTER 74",
+        "words": 98
+      },
+      {
+        "id": "cF5R",
+        "label": "CHAPTER 75",
+        "words": 196
+      },
+      {
+        "id": "cF5Y",
+        "label": "CHAPTER 76",
+        "words": 180
+      },
+      {
+        "id": "cF65",
+        "label": "CHAPTER 77",
+        "words": 728
+      },
+      {
+        "id": "cF6C",
+        "label": "THE EPISTLE OF BARUCH, THE SON OF NERIAH, WHICH HE WROTE TO THE NINE AND A HALF TRIBES",
+        "words": 18
+      },
+      {
+        "id": "cF6J",
+        "label": "CHAPTER 78",
+        "words": 292
+      },
+      {
+        "id": "cF6T",
+        "label": "CHAPTER 79",
+        "words": 64
+      },
+      {
+        "id": "cF70",
+        "label": "CHAPTER 80",
+        "words": 203
+      },
+      {
+        "id": "cF77",
+        "label": "CHAPTER 81",
+        "words": 108
+      },
+      {
+        "id": "cF7E",
+        "label": "CHAPTER 82",
+        "words": 247
+      },
+      {
+        "id": "cF7N",
+        "label": "CHAPTER 83",
+        "words": 478
+      },
+      {
+        "id": "cF7W",
+        "label": "CHAPTER 84",
+        "words": 344
+      },
+      {
+        "id": "cF83",
+        "label": "CHAPTER 85",
+        "words": 502
+      },
+      {
+        "id": "cF8A",
+        "label": "CHAPTER 86",
+        "words": 48
+      },
+      {
+        "id": "cF8H",
+        "label": "CHAPTER 87",
+        "words": 56
+      }
+    ]
+  },
+  {
+    "book_id": "3-baruch",
+    "words": 4104,
+    "units": [
+      {
+        "id": "cF8S",
+        "label": "3 BARUCH",
+        "words": 162
+      },
+      {
+        "id": "cF92",
+        "label": "CHAPTER 1",
+        "words": 255
+      },
+      {
+        "id": "cF99",
+        "label": "CHAPTER 2",
+        "words": 267
+      },
+      {
+        "id": "cF9G",
+        "label": "CHAPTER 3",
+        "words": 232
+      },
+      {
+        "id": "cF9R",
+        "label": "CHAPTER 4",
+        "words": 692
+      },
+      {
+        "id": "cF9Y",
+        "label": "CHAPTER 5",
+        "words": 76
+      },
+      {
+        "id": "cFA5",
+        "label": "CHAPTER 6",
+        "words": 433
+      },
+      {
+        "id": "cFAC",
+        "label": "CHAPTER 7",
+        "words": 182
+      },
+      {
+        "id": "cFAK",
+        "label": "CHAPTER 8",
+        "words": 246
+      },
+      {
+        "id": "cFAU",
+        "label": "CHAPTER 9",
+        "words": 281
+      },
+      {
+        "id": "cFB1",
+        "label": "CHAPTER 10",
+        "words": 250
+      },
+      {
+        "id": "cFB8",
+        "label": "CHAPTER 11",
+        "words": 292
+      },
+      {
+        "id": "cFBF",
+        "label": "CHAPTER 12",
+        "words": 147
+      },
+      {
+        "id": "cFBP",
+        "label": "CHAPTER 13",
+        "words": 190
+      },
+      {
+        "id": "cFBX",
+        "label": "CHAPTER 14",
+        "words": 45
+      },
+      {
+        "id": "cFC4",
+        "label": "CHAPTER 15",
+        "words": 142
+      },
+      {
+        "id": "cFCB",
+        "label": "CHAPTER 16",
+        "words": 135
+      },
+      {
+        "id": "cFCJ",
+        "label": "CHAPTER 17",
+        "words": 77
+      }
+    ]
+  },
+  {
+    "book_id": "4-baruch",
+    "words": 5102,
+    "units": [
+      {
+        "id": "cFCT",
+        "label": "4 BARUCH",
+        "words": 55
+      },
+      {
+        "id": "cFD2",
+        "label": "CHAPTER 1",
+        "words": 248
+      },
+      {
+        "id": "cFD9",
+        "label": "CHAPTER 2",
+        "words": 240
+      },
+      {
+        "id": "cFDG",
+        "label": "CHAPTER 3",
+        "words": 503
+      },
+      {
+        "id": "cFDR",
+        "label": "CHAPTER 4",
+        "words": 304
+      },
+      {
+        "id": "cFDY",
+        "label": "CHAPTER 5",
+        "words": 896
+      },
+      {
+        "id": "cFE5",
+        "label": "CHAPTER 6",
+        "words": 696
+      },
+      {
+        "id": "cFEC",
+        "label": "CHAPTER 7",
+        "words": 1039
+      },
+      {
+        "id": "cFEK",
+        "label": "CHAPTER 8",
+        "words": 320
+      },
+      {
+        "id": "cFEU",
+        "label": "CHAPTER 9",
+        "words": 801
+      }
+    ]
+  },
+  {
+    "book_id": "apocryphon-of-jannes-and-jambres",
+    "words": 1018,
+    "units": [
+      {
+        "id": "cFF1",
+        "label": "APOCRYPHON OF JANNES AND JAMBRES",
+        "words": 55
+      },
+      {
+        "id": "cFFB",
+        "label": "FRAGMENT 3",
+        "words": 963
+      }
+    ]
+  },
+  {
+    "book_id": "apocryphon-of-ezekiel",
+    "words": 1643,
+    "units": [
+      {
+        "id": "cFFR",
+        "label": "APOCRYPHON OF EZEKIEL",
+        "words": 118
+      },
+      {
+        "id": "cFG0",
+        "label": "FRAGMENT 6",
+        "words": 1525
+      }
+    ]
+  },
+  {
+    "book_id": "epistle-of-aristeas",
+    "words": 19520,
+    "units": [
+      {
+        "id": "cFGH",
+        "label": "EPISTLE OF ARISTEAS",
+        "words": 149
+      },
+      {
+        "id": "cFGW",
+        "label": "CHAPTER 1",
+        "words": 555
+      },
+      {
+        "id": "cFH3",
+        "label": "CHAPTER 2",
+        "words": 236
+      },
+      {
+        "id": "cFHA",
+        "label": "CHAPTER 3",
+        "words": 869
+      },
+      {
+        "id": "cFHH",
+        "label": "CHAPTER 4",
+        "words": 426
+      },
+      {
+        "id": "cFHS",
+        "label": "CHAPTER 5",
+        "words": 256
+      },
+      {
+        "id": "cFHZ",
+        "label": "CHAPTER 6",
+        "words": 285
+      },
+      {
+        "id": "cFJ6",
+        "label": "CHAPTER 7",
+        "words": 605
+      },
+      {
+        "id": "cFJD",
+        "label": "CHAPTER 8",
+        "words": 344
+      },
+      {
+        "id": "cFJM",
+        "label": "CHAPTER 9",
+        "words": 147
+      },
+      {
+        "id": "cFJV",
+        "label": "CHAPTER 10",
+        "words": 365
+      },
+      {
+        "id": "cFK2",
+        "label": "CHAPTER 11",
+        "words": 863
+      },
+      {
+        "id": "cFK9",
+        "label": "CHAPTER 12",
+        "words": 596
+      },
+      {
+        "id": "cFKG",
+        "label": "CHAPTER 13",
+        "words": 542
+      },
+      {
+        "id": "cFKR",
+        "label": "CHAPTER 14",
+        "words": 292
+      },
+      {
+        "id": "cFKY",
+        "label": "CHAPTER 15",
+        "words": 273
+      },
+      {
+        "id": "cFM5",
+        "label": "CHAPTER 16",
+        "words": 298
+      },
+      {
+        "id": "cFMC",
+        "label": "CHAPTER 17",
+        "words": 898
+      },
+      {
+        "id": "cFMK",
+        "label": "CHAPTER 18",
+        "words": 461
+      },
+      {
+        "id": "cFMU",
+        "label": "CHAPTER 19",
+        "words": 553
+      },
+      {
+        "id": "cFN1",
+        "label": "CHAPTER 20",
+        "words": 1517
+      },
+      {
+        "id": "cFN8",
+        "label": "CHAPTER 21",
+        "words": 136
+      },
+      {
+        "id": "cFNF",
+        "label": "CHAPTER 22",
+        "words": 924
+      },
+      {
+        "id": "cFNP",
+        "label": "CHAPTER 23",
+        "words": 953
+      },
+      {
+        "id": "cFNX",
+        "label": "CHAPTER 24",
+        "words": 1081
+      },
+      {
+        "id": "cFP4",
+        "label": "CHAPTER 25",
+        "words": 886
+      },
+      {
+        "id": "cFPB",
+        "label": "CHAPTER 26",
+        "words": 691
+      },
+      {
+        "id": "cFPJ",
+        "label": "CHAPTER 27",
+        "words": 938
+      },
+      {
+        "id": "cFPT",
+        "label": "CHAPTER 28",
+        "words": 796
+      },
+      {
+        "id": "cFR0",
+        "label": "CHAPTER 29",
+        "words": 1163
+      },
+      {
+        "id": "cFR7",
+        "label": "CHAPTER 30",
+        "words": 302
+      },
+      {
+        "id": "cFRE",
+        "label": "CHAPTER 31",
+        "words": 279
+      },
+      {
+        "id": "cFRN",
+        "label": "CHAPTER 32",
+        "words": 841
+      }
+    ]
+  },
+  {
+    "book_id": "didache",
+    "words": 2947,
+    "units": [
+      {
+        "id": "cFRW",
+        "label": "DIDACHE",
+        "words": 56
+      },
+      {
+        "id": "cFS6",
+        "label": "CHAPTER 1",
+        "words": 313
+      },
+      {
+        "id": "cFSD",
+        "label": "CHAPTER 2",
+        "words": 157
+      },
+      {
+        "id": "cFSM",
+        "label": "CHAPTER 3",
+        "words": 224
+      },
+      {
+        "id": "cFSV",
+        "label": "CHAPTER 4",
+        "words": 353
+      },
+      {
+        "id": "cFT2",
+        "label": "CHAPTER 5",
+        "words": 145
+      },
+      {
+        "id": "cFT9",
+        "label": "CHAPTER 6",
+        "words": 69
+      },
+      {
+        "id": "cFTG",
+        "label": "CHAPTER 7",
+        "words": 110
+      },
+      {
+        "id": "cFTR",
+        "label": "CHAPTER 8",
+        "words": 113
+      },
+      {
+        "id": "cFTY",
+        "label": "CHAPTER 9",
+        "words": 160
+      },
+      {
+        "id": "cFU5",
+        "label": "CHAPTER 10",
+        "words": 210
+      },
+      {
+        "id": "cFUC",
+        "label": "CHAPTER 11",
+        "words": 326
+      },
+      {
+        "id": "cFUK",
+        "label": "CHAPTER 12",
+        "words": 124
+      },
+      {
+        "id": "cFUU",
+        "label": "CHAPTER 13",
+        "words": 133
+      },
+      {
+        "id": "cFV1",
+        "label": "CHAPTER 14",
+        "words": 83
+      },
+      {
+        "id": "cFV8",
+        "label": "CHAPTER 15",
+        "words": 116
+      },
+      {
+        "id": "cFVF",
+        "label": "CHAPTER 16",
+        "words": 255
+      }
+    ]
+  },
+  {
+    "book_id": "epistles-of-king-abgar-and-jesus",
+    "words": 428,
+    "units": [
+      {
+        "id": "cFVP",
+        "label": "EPISTLES OF KING ABGAR AND JESUS",
+        "words": 106
+      },
+      {
+        "id": "cFVZ",
+        "label": "Continuation",
+        "words": 24
+      },
+      {
+        "id": "cFW6",
+        "label": "CHAPTER 1",
+        "words": 186
+      },
+      {
+        "id": "cFWF",
+        "label": "CHAPTER 2",
+        "words": 112
+      }
+    ]
+  },
+  {
+    "book_id": "epistle-of-the-apostles",
+    "words": 9157,
+    "units": [
+      {
+        "id": "cFWP",
+        "label": "EPISTLE OF THE APOSTLES",
+        "words": 49
+      },
+      {
+        "id": "cFWZ",
+        "label": "CHAPTER 1",
+        "words": 149
+      },
+      {
+        "id": "cFX6",
+        "label": "CHAPTER 2",
+        "words": 77
+      },
+      {
+        "id": "cFXD",
+        "label": "CHAPTER 3",
+        "words": 303
+      },
+      {
+        "id": "cFXM",
+        "label": "CHAPTER 4",
+        "words": 68
+      },
+      {
+        "id": "cFXV",
+        "label": "CHAPTER 5",
+        "words": 434
+      },
+      {
+        "id": "cFY3",
+        "label": "CHAPTER 6",
+        "words": 74
+      },
+      {
+        "id": "cFYA",
+        "label": "CHAPTER 7",
+        "words": 67
+      },
+      {
+        "id": "cFYH",
+        "label": "CHAPTER 8",
+        "words": 31
+      },
+      {
+        "id": "cFYV",
+        "label": "CHAPTER 9",
+        "words": 117
+      },
+      {
+        "id": "cFZ2",
+        "label": "CHAPTER 10",
+        "words": 154
+      },
+      {
+        "id": "cFZ9",
+        "label": "CHAPTER 11",
+        "words": 185
+      },
+      {
+        "id": "cFZG",
+        "label": "CHAPTER 12",
+        "words": 93
+      },
+      {
+        "id": "cFZR",
+        "label": "CHAPTER 13",
+        "words": 220
+      },
+      {
+        "id": "cFZY",
+        "label": "CHAPTER 14",
+        "words": 140
+      },
+      {
+        "id": "cG05",
+        "label": "CHAPTER 15",
+        "words": 196
+      },
+      {
+        "id": "cG0D",
+        "label": "CHAPTER 16",
+        "words": 105
+      },
+      {
+        "id": "cG0M",
+        "label": "CHAPTER 17",
+        "words": 194
+      },
+      {
+        "id": "cG0W",
+        "label": "CHAPTER 18",
+        "words": 124
+      },
+      {
+        "id": "cG13",
+        "label": "CHAPTER 19",
+        "words": 687
+      },
+      {
+        "id": "cG1G",
+        "label": "CHAPTER 20",
+        "words": 79
+      },
+      {
+        "id": "cG1R",
+        "label": "CHAPTER 21",
+        "words": 289
+      },
+      {
+        "id": "cG1Z",
+        "label": "CHAPTER 22",
+        "words": 57
+      },
+      {
+        "id": "cG26",
+        "label": "CHAPTER 23",
+        "words": 54
+      },
+      {
+        "id": "cG2D",
+        "label": "CHAPTER 24",
+        "words": 174
+      },
+      {
+        "id": "cG2M",
+        "label": "CHAPTER 25",
+        "words": 209
+      },
+      {
+        "id": "cG2V",
+        "label": "CHAPTER 26",
+        "words": 178
+      },
+      {
+        "id": "cG32",
+        "label": "CHAPTER 27",
+        "words": 118
+      },
+      {
+        "id": "cG39",
+        "label": "CHAPTER 28",
+        "words": 164
+      },
+      {
+        "id": "cG3G",
+        "label": "CHAPTER 29",
+        "words": 236
+      },
+      {
+        "id": "cG3T",
+        "label": "CHAPTER 30",
+        "words": 159
+      },
+      {
+        "id": "cG40",
+        "label": "CHAPTER 31",
+        "words": 322
+      },
+      {
+        "id": "cG48",
+        "label": "CHAPTER 32",
+        "words": 134
+      },
+      {
+        "id": "cG4F",
+        "label": "CHAPTER 33",
+        "words": 198
+      },
+      {
+        "id": "cG4P",
+        "label": "CHAPTER 34",
+        "words": 342
+      },
+      {
+        "id": "cG4Y",
+        "label": "CHAPTER 35",
+        "words": 184
+      },
+      {
+        "id": "cG56",
+        "label": "CHAPTER 36",
+        "words": 273
+      },
+      {
+        "id": "cG5E",
+        "label": "CHAPTER 37",
+        "words": 130
+      },
+      {
+        "id": "cG5N",
+        "label": "CHAPTER 38",
+        "words": 183
+      },
+      {
+        "id": "cG5X",
+        "label": "CHAPTER 39",
+        "words": 327
+      },
+      {
+        "id": "cG65",
+        "label": "CHAPTER 40",
+        "words": 123
+      },
+      {
+        "id": "cG6D",
+        "label": "CHAPTER 41",
+        "words": 140
+      },
+      {
+        "id": "cG6M",
+        "label": "CHAPTER 42",
+        "words": 215
+      },
+      {
+        "id": "cG6W",
+        "label": "CHAPTER 43",
+        "words": 332
+      },
+      {
+        "id": "cG75",
+        "label": "CHAPTER 44",
+        "words": 79
+      },
+      {
+        "id": "cG7C",
+        "label": "CHAPTER 45",
+        "words": 150
+      },
+      {
+        "id": "cG7K",
+        "label": "CHAPTER 46",
+        "words": 82
+      },
+      {
+        "id": "cG7U",
+        "label": "CHAPTER 47",
+        "words": 161
+      },
+      {
+        "id": "cG81",
+        "label": "CHAPTER 48",
+        "words": 61
+      },
+      {
+        "id": "cG88",
+        "label": "CHAPTER 49",
+        "words": 158
+      },
+      {
+        "id": "cG8G",
+        "label": "CHAPTER 50",
+        "words": 266
+      },
+      {
+        "id": "cG8S",
+        "label": "CHAPTER 51",
+        "words": 113
+      }
+    ]
+  },
+  {
+    "book_id": "apostolic-church-order",
+    "words": 1299,
+    "units": [
+      {
+        "id": "cG8Z",
+        "label": "APOSTOLIC CHURCH ORDER",
+        "words": 57
+      },
+      {
+        "id": "cG98",
+        "label": "Continuation",
+        "words": 37
+      },
+      {
+        "id": "cG9F",
+        "label": "CHAPTER 1",
+        "words": 115
+      },
+      {
+        "id": "cG9R",
+        "label": "CHAPTER 2",
+        "words": 41
+      },
+      {
+        "id": "cG9Z",
+        "label": "CHAPTER 3",
+        "words": 49
+      },
+      {
+        "id": "cGA7",
+        "label": "CHAPTER 4",
+        "words": 81
+      },
+      {
+        "id": "cGAF",
+        "label": "CHAPTER 5",
+        "words": 28
+      },
+      {
+        "id": "cGAR",
+        "label": "CHAPTER 6",
+        "words": 153
+      },
+      {
+        "id": "cGAZ",
+        "label": "CHAPTER 7",
+        "words": 47
+      },
+      {
+        "id": "cGB7",
+        "label": "CHAPTER 8",
+        "words": 159
+      },
+      {
+        "id": "cGBF",
+        "label": "CHAPTER 9",
+        "words": 16
+      },
+      {
+        "id": "cGBR",
+        "label": "CHAPTER 10",
+        "words": 40
+      },
+      {
+        "id": "cGBZ",
+        "label": "CHAPTER 11",
+        "words": 132
+      },
+      {
+        "id": "cGC7",
+        "label": "CHAPTER 12",
+        "words": 178
+      },
+      {
+        "id": "cGCF",
+        "label": "CHAPTER 13",
+        "words": 166
+      }
+    ]
+  },
+  {
+    "book_id": "epistle-of-barnabas",
+    "words": 9246,
+    "units": [
+      {
+        "id": "cGCR",
+        "label": "EPISTLE OF BARNABAS",
+        "words": 62
+      },
+      {
+        "id": "cGD0",
+        "label": "CHAPTER 1",
+        "words": 336
+      },
+      {
+        "id": "cGD7",
+        "label": "CHAPTER 2",
+        "words": 356
+      },
+      {
+        "id": "cGDE",
+        "label": "CHAPTER 3",
+        "words": 280
+      },
+      {
+        "id": "cGDN",
+        "label": "CHAPTER 4",
+        "words": 691
+      },
+      {
+        "id": "cGDW",
+        "label": "CHAPTER 5",
+        "words": 534
+      },
+      {
+        "id": "cGE3",
+        "label": "CHAPTER 6",
+        "words": 824
+      },
+      {
+        "id": "cGEA",
+        "label": "CHAPTER 7",
+        "words": 581
+      },
+      {
+        "id": "cGEH",
+        "label": "CHAPTER 8",
+        "words": 293
+      },
+      {
+        "id": "cGES",
+        "label": "CHAPTER 9",
+        "words": 440
+      },
+      {
+        "id": "cGEZ",
+        "label": "CHAPTER 10",
+        "words": 739
+      },
+      {
+        "id": "cGF6",
+        "label": "CHAPTER 11",
+        "words": 509
+      },
+      {
+        "id": "cGFD",
+        "label": "CHAPTER 12",
+        "words": 621
+      },
+      {
+        "id": "cGFM",
+        "label": "CHAPTER 13",
+        "words": 340
+      },
+      {
+        "id": "cGFV",
+        "label": "CHAPTER 14",
+        "words": 477
+      },
+      {
+        "id": "cGG2",
+        "label": "CHAPTER 15",
+        "words": 414
+      },
+      {
+        "id": "cGG9",
+        "label": "CHAPTER 16",
+        "words": 520
+      },
+      {
+        "id": "cGGG",
+        "label": "CHAPTER 17",
+        "words": 61
+      },
+      {
+        "id": "cGGR",
+        "label": "CHAPTER 18",
+        "words": 75
+      },
+      {
+        "id": "cGGY",
+        "label": "CHAPTER 19",
+        "words": 632
+      },
+      {
+        "id": "cGH5",
+        "label": "CHAPTER 20",
+        "words": 175
+      },
+      {
+        "id": "cGHC",
+        "label": "CHAPTER 21",
+        "words": 286
+      }
+    ]
+  },
+  {
+    "book_id": "epistle-to-the-laodiceans",
+    "words": 456,
+    "units": [
+      {
+        "id": "cGHK",
+        "label": "EPISTLE TO THE LAODICEANS",
+        "words": 91
+      },
+      {
+        "id": "cGHW",
+        "label": "CHAPTER 1",
+        "words": 365
+      }
+    ]
+  },
+  {
+    "book_id": "correspondence-of-paul-and-seneca",
+    "words": 2173,
+    "units": [
+      {
+        "id": "cGJ3",
+        "label": "CORRESPONDENCE OF PAUL AND SENECA",
+        "words": 173
+      },
+      {
+        "id": "cGJC",
+        "label": "SIXTH EPISTLE OF PAUL TO SENECA",
+        "words": 2000
+      }
+    ]
+  },
+  {
+    "book_id": "traditions-of-matthias",
+    "words": 149,
+    "units": [
+      {
+        "id": "cGKE",
+        "label": "TRADITIONS OF MATTHIAS",
+        "words": 50
+      },
+      {
+        "id": "cGKR",
+        "label": "FRAGMENT 4",
+        "words": 99
+      }
+    ]
+  },
+  {
+    "book_id": "epistle-of-lentulus",
+    "words": 315,
+    "units": [
+      {
+        "id": "cGM5",
+        "label": "EPISTLE OF LENTULUS",
+        "words": 81
+      },
+      {
+        "id": "cGME",
+        "label": "CHAPTER 1",
+        "words": 234
+      }
+    ]
+  },
+  {
+    "book_id": "the-shepherd-of-hermas",
+    "words": 37150,
+    "units": [
+      {
+        "id": "cJDH",
+        "label": "THE SHEPHERD OF HERMAS",
+        "words": 209
+      },
+      {
+        "id": "cJDW",
+        "label": "VISION 5",
+        "words": 8157
+      },
+      {
+        "id": "cJEC",
+        "label": "COMMANDMENT 12",
+        "words": 8210
+      },
+      {
+        "id": "cJFA",
+        "label": "SIMILITUDE 10",
+        "words": 20574
+      }
+    ]
+  },
+  {
+    "book_id": "odes-of-peace",
+    "words": 9140,
+    "units": [
+      {
+        "id": "cJG4",
+        "label": "ODES OF PEACE",
+        "words": 105
+      },
+      {
+        "id": "cJGE",
+        "label": "ODE 42",
+        "words": 9035
+      }
+    ]
+  },
+  {
+    "book_id": "infancy-gospel-of-james",
+    "words": 5411,
+    "units": [
+      {
+        "id": "cJTC",
+        "label": "INFANCY GOSPEL OF JAMES",
+        "words": 34
+      },
+      {
+        "id": "cJTN",
+        "label": "CHAPTER 1",
+        "words": 235
+      },
+      {
+        "id": "cJTX",
+        "label": "CHAPTER 2",
+        "words": 242
+      },
+      {
+        "id": "cJU4",
+        "label": "CHAPTER 3",
+        "words": 172
+      },
+      {
+        "id": "cJUB",
+        "label": "CHAPTER 4",
+        "words": 241
+      },
+      {
+        "id": "cJUJ",
+        "label": "CHAPTER 5",
+        "words": 165
+      },
+      {
+        "id": "cJUT",
+        "label": "CHAPTER 6",
+        "words": 336
+      },
+      {
+        "id": "cJV0",
+        "label": "CHAPTER 7",
+        "words": 224
+      },
+      {
+        "id": "cJV7",
+        "label": "CHAPTER 8",
+        "words": 216
+      },
+      {
+        "id": "cJVE",
+        "label": "CHAPTER 9",
+        "words": 244
+      },
+      {
+        "id": "cJVN",
+        "label": "CHAPTER 10",
+        "words": 168
+      },
+      {
+        "id": "cJVW",
+        "label": "CHAPTER 11",
+        "words": 215
+      },
+      {
+        "id": "cJW3",
+        "label": "CHAPTER 12",
+        "words": 189
+      },
+      {
+        "id": "cJWA",
+        "label": "CHAPTER 13",
+        "words": 258
+      },
+      {
+        "id": "cJWH",
+        "label": "CHAPTER 14",
+        "words": 171
+      },
+      {
+        "id": "cJWS",
+        "label": "CHAPTER 15",
+        "words": 303
+      },
+      {
+        "id": "cJWZ",
+        "label": "CHAPTER 16",
+        "words": 150
+      },
+      {
+        "id": "cJX6",
+        "label": "CHAPTER 17",
+        "words": 236
+      },
+      {
+        "id": "cJXD",
+        "label": "CHAPTER 18",
+        "words": 195
+      },
+      {
+        "id": "cJXM",
+        "label": "CHAPTER 19",
+        "words": 328
+      },
+      {
+        "id": "cJXV",
+        "label": "CHAPTER 20",
+        "words": 223
+      },
+      {
+        "id": "cJY2",
+        "label": "CHAPTER 21",
+        "words": 275
+      },
+      {
+        "id": "cJY9",
+        "label": "CHAPTER 22",
+        "words": 131
+      },
+      {
+        "id": "cJYG",
+        "label": "CHAPTER 23",
+        "words": 154
+      },
+      {
+        "id": "cJYR",
+        "label": "CHAPTER 24",
+        "words": 306
+      }
+    ]
+  },
+  {
+    "book_id": "infancy-gospel-of-thomas",
+    "words": 2935,
+    "units": [
+      {
+        "id": "cJYY",
+        "label": "INFANCY GOSPEL OF THOMAS",
+        "words": 51
+      },
+      {
+        "id": "cJZ7",
+        "label": "CHAPTER 1",
+        "words": 45
+      },
+      {
+        "id": "cJZE",
+        "label": "CHAPTER 2",
+        "words": 195
+      },
+      {
+        "id": "cJZN",
+        "label": "CHAPTER 3",
+        "words": 131
+      },
+      {
+        "id": "cJZW",
+        "label": "CHAPTER 4",
+        "words": 116
+      },
+      {
+        "id": "cK03",
+        "label": "CHAPTER 5",
+        "words": 160
+      },
+      {
+        "id": "cK0A",
+        "label": "CHAPTER 6",
+        "words": 264
+      },
+      {
+        "id": "cK0H",
+        "label": "CHAPTER 7",
+        "words": 293
+      },
+      {
+        "id": "cK0S",
+        "label": "CHAPTER 8",
+        "words": 95
+      },
+      {
+        "id": "cK0Z",
+        "label": "CHAPTER 9",
+        "words": 149
+      },
+      {
+        "id": "cK16",
+        "label": "CHAPTER 10",
+        "words": 108
+      },
+      {
+        "id": "cK1D",
+        "label": "CHAPTER 11",
+        "words": 82
+      },
+      {
+        "id": "cK1M",
+        "label": "CHAPTER 12",
+        "words": 84
+      },
+      {
+        "id": "cK1V",
+        "label": "CHAPTER 13",
+        "words": 128
+      },
+      {
+        "id": "cK22",
+        "label": "CHAPTER 14",
+        "words": 198
+      },
+      {
+        "id": "cK29",
+        "label": "CHAPTER 15",
+        "words": 255
+      },
+      {
+        "id": "cK2G",
+        "label": "CHAPTER 16",
+        "words": 71
+      },
+      {
+        "id": "cK2R",
+        "label": "CHAPTER 17",
+        "words": 125
+      },
+      {
+        "id": "cK2Y",
+        "label": "CHAPTER 18",
+        "words": 90
+      },
+      {
+        "id": "cK35",
+        "label": "CHAPTER 19",
+        "words": 295
+      }
+    ]
+  },
+  {
+    "book_id": "arabic-infancy-gospel",
+    "words": 10532,
+    "units": [
+      {
+        "id": "cK3C",
+        "label": "ARABIC INFANCY GOSPEL",
+        "words": 43
+      },
+      {
+        "id": "cK3N",
+        "label": "Continuation",
+        "words": 57
+      },
+      {
+        "id": "cK3Y",
+        "label": "CHAPTER 1",
+        "words": 79
+      },
+      {
+        "id": "cK45",
+        "label": "CHAPTER 2",
+        "words": 149
+      },
+      {
+        "id": "cK4C",
+        "label": "CHAPTER 3",
+        "words": 195
+      },
+      {
+        "id": "cK4K",
+        "label": "CHAPTER 4",
+        "words": 109
+      },
+      {
+        "id": "cK4U",
+        "label": "CHAPTER 5",
+        "words": 189
+      },
+      {
+        "id": "cK51",
+        "label": "CHAPTER 6",
+        "words": 127
+      },
+      {
+        "id": "cK58",
+        "label": "CHAPTER 7",
+        "words": 131
+      },
+      {
+        "id": "cK5F",
+        "label": "CHAPTER 8",
+        "words": 162
+      },
+      {
+        "id": "cK5P",
+        "label": "CHAPTER 9",
+        "words": 93
+      },
+      {
+        "id": "cK5X",
+        "label": "CHAPTER 10",
+        "words": 274
+      },
+      {
+        "id": "cK64",
+        "label": "CHAPTER 11",
+        "words": 247
+      },
+      {
+        "id": "cK6B",
+        "label": "CHAPTER 12",
+        "words": 90
+      },
+      {
+        "id": "cK6J",
+        "label": "CHAPTER 13",
+        "words": 132
+      },
+      {
+        "id": "cK6T",
+        "label": "CHAPTER 14",
+        "words": 196
+      },
+      {
+        "id": "cK70",
+        "label": "CHAPTER 15",
+        "words": 165
+      },
+      {
+        "id": "cK77",
+        "label": "CHAPTER 16",
+        "words": 192
+      },
+      {
+        "id": "cK7E",
+        "label": "CHAPTER 17",
+        "words": 120
+      },
+      {
+        "id": "cK7N",
+        "label": "CHAPTER 18",
+        "words": 535
+      },
+      {
+        "id": "cK7W",
+        "label": "CHAPTER 19",
+        "words": 78
+      },
+      {
+        "id": "cK83",
+        "label": "CHAPTER 20",
+        "words": 372
+      },
+      {
+        "id": "cK8A",
+        "label": "CHAPTER 21",
+        "words": 338
+      },
+      {
+        "id": "cK8H",
+        "label": "CHAPTER 22",
+        "words": 183
+      },
+      {
+        "id": "cK8S",
+        "label": "CHAPTER 23",
+        "words": 267
+      },
+      {
+        "id": "cK8Z",
+        "label": "CHAPTER 24",
+        "words": 50
+      },
+      {
+        "id": "cK96",
+        "label": "CHAPTER 25",
+        "words": 42
+      },
+      {
+        "id": "cK9D",
+        "label": "CHAPTER 26",
+        "words": 95
+      },
+      {
+        "id": "cK9M",
+        "label": "CHAPTER 27",
+        "words": 176
+      },
+      {
+        "id": "cK9V",
+        "label": "CHAPTER 28",
+        "words": 169
+      },
+      {
+        "id": "cKA2",
+        "label": "CHAPTER 29",
+        "words": 476
+      },
+      {
+        "id": "cKA9",
+        "label": "CHAPTER 30",
+        "words": 262
+      },
+      {
+        "id": "cKAG",
+        "label": "CHAPTER 31",
+        "words": 147
+      },
+      {
+        "id": "cKAR",
+        "label": "CHAPTER 32",
+        "words": 423
+      },
+      {
+        "id": "cKAY",
+        "label": "CHAPTER 33",
+        "words": 433
+      },
+      {
+        "id": "cKB5",
+        "label": "CHAPTER 34",
+        "words": 258
+      },
+      {
+        "id": "cKBC",
+        "label": "CHAPTER 35",
+        "words": 225
+      },
+      {
+        "id": "cKBK",
+        "label": "CHAPTER 36",
+        "words": 201
+      },
+      {
+        "id": "cKBU",
+        "label": "CHAPTER 37",
+        "words": 189
+      },
+      {
+        "id": "cKC1",
+        "label": "CHAPTER 38",
+        "words": 112
+      },
+      {
+        "id": "cKC8",
+        "label": "CHAPTER 39",
+        "words": 248
+      },
+      {
+        "id": "cKCF",
+        "label": "CHAPTER 40",
+        "words": 267
+      },
+      {
+        "id": "cKCP",
+        "label": "CHAPTER 41",
+        "words": 84
+      },
+      {
+        "id": "cKCX",
+        "label": "CHAPTER 42",
+        "words": 421
+      },
+      {
+        "id": "cKD4",
+        "label": "CHAPTER 43",
+        "words": 89
+      },
+      {
+        "id": "cKDB",
+        "label": "CHAPTER 44",
+        "words": 211
+      },
+      {
+        "id": "cKDJ",
+        "label": "CHAPTER 45",
+        "words": 76
+      },
+      {
+        "id": "cKDT",
+        "label": "CHAPTER 46",
+        "words": 158
+      },
+      {
+        "id": "cKE0",
+        "label": "CHAPTER 47",
+        "words": 63
+      },
+      {
+        "id": "cKE7",
+        "label": "CHAPTER 48",
+        "words": 268
+      },
+      {
+        "id": "cKEE",
+        "label": "CHAPTER 49",
+        "words": 103
+      },
+      {
+        "id": "cKEN",
+        "label": "CHAPTER 50",
+        "words": 202
+      },
+      {
+        "id": "cKEW",
+        "label": "CHAPTER 51",
+        "words": 69
+      },
+      {
+        "id": "cKF3",
+        "label": "CHAPTER 52",
+        "words": 149
+      },
+      {
+        "id": "cKFA",
+        "label": "CHAPTER 53",
+        "words": 174
+      },
+      {
+        "id": "cKFH",
+        "label": "CHAPTER 54",
+        "words": 68
+      },
+      {
+        "id": "cKFS",
+        "label": "CHAPTER 55",
+        "words": 101
+      }
+    ]
+  },
+  {
+    "book_id": "gospel-of-the-nativity-of-mary",
+    "words": 2983,
+    "units": [
+      {
+        "id": "cKG0",
+        "label": "GOSPEL OF THE NATIVITY OF MARY",
+        "words": 41
+      },
+      {
+        "id": "cKG9",
+        "label": "CHAPTER 1",
+        "words": 181
+      },
+      {
+        "id": "cKGH",
+        "label": "CHAPTER 2",
+        "words": 188
+      },
+      {
+        "id": "cKGT",
+        "label": "CHAPTER 3",
+        "words": 464
+      },
+      {
+        "id": "cKH1",
+        "label": "CHAPTER 4",
+        "words": 232
+      },
+      {
+        "id": "cKH9",
+        "label": "CHAPTER 5",
+        "words": 103
+      },
+      {
+        "id": "cKHH",
+        "label": "CHAPTER 6",
+        "words": 215
+      },
+      {
+        "id": "cKHT",
+        "label": "CHAPTER 7",
+        "words": 497
+      },
+      {
+        "id": "cKJ1",
+        "label": "CHAPTER 8",
+        "words": 178
+      },
+      {
+        "id": "cKJ9",
+        "label": "CHAPTER 9",
+        "words": 524
+      },
+      {
+        "id": "cKJH",
+        "label": "CHAPTER 10",
+        "words": 360
+      }
+    ]
+  },
+  {
+    "book_id": "history-of-joseph-the-carpenter",
+    "words": 5915,
+    "units": [
+      {
+        "id": "cKJT",
+        "label": "HISTORY OF JOSEPH THE CARPENTER",
+        "words": 56
+      },
+      {
+        "id": "cKK2",
+        "label": "Continuation",
+        "words": 129
+      },
+      {
+        "id": "cKKB",
+        "label": "CHAPTER 1",
+        "words": 392
+      },
+      {
+        "id": "cKKJ",
+        "label": "CHAPTER 2",
+        "words": 154
+      },
+      {
+        "id": "cKKT",
+        "label": "CHAPTER 3",
+        "words": 118
+      },
+      {
+        "id": "cKM0",
+        "label": "CHAPTER 4",
+        "words": 157
+      },
+      {
+        "id": "cKM7",
+        "label": "CHAPTER 5",
+        "words": 99
+      },
+      {
+        "id": "cKME",
+        "label": "CHAPTER 6",
+        "words": 109
+      },
+      {
+        "id": "cKMN",
+        "label": "CHAPTER 7",
+        "words": 110
+      },
+      {
+        "id": "cKMW",
+        "label": "CHAPTER 8",
+        "words": 105
+      },
+      {
+        "id": "cKN3",
+        "label": "CHAPTER 9",
+        "words": 94
+      },
+      {
+        "id": "cKNA",
+        "label": "CHAPTER 10",
+        "words": 92
+      },
+      {
+        "id": "cKNH",
+        "label": "CHAPTER 11",
+        "words": 143
+      },
+      {
+        "id": "cKNS",
+        "label": "CHAPTER 12",
+        "words": 99
+      },
+      {
+        "id": "cKNZ",
+        "label": "CHAPTER 13",
+        "words": 395
+      },
+      {
+        "id": "cKP6",
+        "label": "CHAPTER 14",
+        "words": 185
+      },
+      {
+        "id": "cKPD",
+        "label": "CHAPTER 15",
+        "words": 151
+      },
+      {
+        "id": "cKPM",
+        "label": "CHAPTER 16",
+        "words": 301
+      },
+      {
+        "id": "cKPV",
+        "label": "CHAPTER 17",
+        "words": 433
+      },
+      {
+        "id": "cKR2",
+        "label": "CHAPTER 18",
+        "words": 163
+      },
+      {
+        "id": "cKR9",
+        "label": "CHAPTER 19",
+        "words": 125
+      },
+      {
+        "id": "cKRG",
+        "label": "CHAPTER 20",
+        "words": 133
+      },
+      {
+        "id": "cKRR",
+        "label": "CHAPTER 21",
+        "words": 97
+      },
+      {
+        "id": "cKRY",
+        "label": "CHAPTER 22",
+        "words": 112
+      },
+      {
+        "id": "cKS5",
+        "label": "CHAPTER 23",
+        "words": 85
+      },
+      {
+        "id": "cKSC",
+        "label": "CHAPTER 24",
+        "words": 135
+      },
+      {
+        "id": "cKSK",
+        "label": "CHAPTER 25",
+        "words": 131
+      },
+      {
+        "id": "cKSU",
+        "label": "CHAPTER 26",
+        "words": 372
+      },
+      {
+        "id": "cKT1",
+        "label": "CHAPTER 27",
+        "words": 182
+      },
+      {
+        "id": "cKT8",
+        "label": "CHAPTER 28",
+        "words": 338
+      },
+      {
+        "id": "cKTF",
+        "label": "CHAPTER 29",
+        "words": 104
+      },
+      {
+        "id": "cKTP",
+        "label": "CHAPTER 30",
+        "words": 198
+      },
+      {
+        "id": "cKTX",
+        "label": "CHAPTER 31",
+        "words": 312
+      },
+      {
+        "id": "cKU4",
+        "label": "CHAPTER 32",
+        "words": 106
+      }
+    ]
+  },
+  {
+    "book_id": "life-of-john-the-baptist",
+    "words": 7672,
+    "units": [
+      {
+        "id": "cKUB",
+        "label": "LIFE OF JOHN THE BAPTIST",
+        "words": 60
+      },
+      {
+        "id": "cKUM",
+        "label": "Continuation",
+        "words": 47
+      },
+      {
+        "id": "cKUU",
+        "label": "CHAPTER 1",
+        "words": 530
+      },
+      {
+        "id": "cKV1",
+        "label": "CHAPTER 2",
+        "words": 540
+      },
+      {
+        "id": "cKV8",
+        "label": "CHAPTER 3",
+        "words": 558
+      },
+      {
+        "id": "cKVF",
+        "label": "CHAPTER 4",
+        "words": 237
+      },
+      {
+        "id": "cKVP",
+        "label": "CHAPTER 5",
+        "words": 379
+      },
+      {
+        "id": "cKVX",
+        "label": "CHAPTER 6",
+        "words": 188
+      },
+      {
+        "id": "cKW4",
+        "label": "CHAPTER 7",
+        "words": 1017
+      },
+      {
+        "id": "cKWB",
+        "label": "CHAPTER 8",
+        "words": 428
+      },
+      {
+        "id": "cKWJ",
+        "label": "CHAPTER 9",
+        "words": 351
+      },
+      {
+        "id": "cKWT",
+        "label": "CHAPTER 10",
+        "words": 903
+      },
+      {
+        "id": "cKX0",
+        "label": "CHAPTER 11",
+        "words": 450
+      },
+      {
+        "id": "cKX7",
+        "label": "CHAPTER 12",
+        "words": 180
+      },
+      {
+        "id": "cKXE",
+        "label": "CHAPTER 13",
+        "words": 561
+      },
+      {
+        "id": "cKXN",
+        "label": "CHAPTER 14",
+        "words": 470
+      },
+      {
+        "id": "cKXW",
+        "label": "CHAPTER 15",
+        "words": 773
+      }
+    ]
+  },
+  {
+    "book_id": "gospel-of-peter",
+    "words": 1652,
+    "units": [
+      {
+        "id": "cKY3",
+        "label": "GOSPEL OF PETER",
+        "words": 37
+      },
+      {
+        "id": "cKYC",
+        "label": "CHAPTER 1",
+        "words": 52
+      },
+      {
+        "id": "cKYK",
+        "label": "CHAPTER 2",
+        "words": 93
+      },
+      {
+        "id": "cKYU",
+        "label": "CHAPTER 3",
+        "words": 116
+      },
+      {
+        "id": "cKZ1",
+        "label": "CHAPTER 4",
+        "words": 115
+      },
+      {
+        "id": "cKZ8",
+        "label": "CHAPTER 5",
+        "words": 134
+      },
+      {
+        "id": "cKZF",
+        "label": "CHAPTER 6",
+        "words": 94
+      },
+      {
+        "id": "cKZP",
+        "label": "CHAPTER 7",
+        "words": 90
+      },
+      {
+        "id": "cKZX",
+        "label": "CHAPTER 8",
+        "words": 187
+      },
+      {
+        "id": "cM04",
+        "label": "CHAPTER 9",
+        "words": 82
+      },
+      {
+        "id": "cM0B",
+        "label": "CHAPTER 10",
+        "words": 100
+      },
+      {
+        "id": "cM0J",
+        "label": "CHAPTER 11",
+        "words": 182
+      },
+      {
+        "id": "cM0T",
+        "label": "CHAPTER 12",
+        "words": 187
+      },
+      {
+        "id": "cM10",
+        "label": "CHAPTER 13",
+        "words": 101
+      },
+      {
+        "id": "cM17",
+        "label": "CHAPTER 14",
+        "words": 82
+      }
+    ]
+  },
+  {
+    "book_id": "gospel-of-thomas",
+    "words": 5204,
+    "units": [
+      {
+        "id": "cM1F",
+        "label": "GOSPEL OF THOMAS",
+        "words": 147
+      },
+      {
+        "id": "cM1S",
+        "label": "SAYING 114",
+        "words": 5057
+      }
+    ]
+  },
+  {
+    "book_id": "gospel-of-the-twelve-holy-apostles",
+    "words": 6406,
+    "units": [
+      {
+        "id": "cM93",
+        "label": "GOSPEL OF THE TWELVE HOLY APOSTLES",
+        "words": 97
+      },
+      {
+        "id": "cM9F",
+        "label": "Continuation",
+        "words": 26
+      },
+      {
+        "id": "cM9R",
+        "label": "CHAPTER 1",
+        "words": 433
+      },
+      {
+        "id": "cM9Z",
+        "label": "CHAPTER 2",
+        "words": 331
+      },
+      {
+        "id": "cMA7",
+        "label": "CHAPTER 3",
+        "words": 793
+      },
+      {
+        "id": "cMAF",
+        "label": "REVELATION OF SIMEON KEPHA",
+        "words": 1042
+      },
+      {
+        "id": "cMAT",
+        "label": "REVELATION OF JAMES THE APOSTLE",
+        "words": 1024
+      },
+      {
+        "id": "cMB2",
+        "label": "REVELATION OF JOHN THE LITTLE",
+        "words": 598
+      },
+      {
+        "id": "cMBD",
+        "label": "CHAPTER 1",
+        "words": 2062
+      }
+    ]
+  },
+  {
+    "book_id": "fragmentary-gospels",
+    "words": 1907,
+    "units": [
+      {
+        "id": "cMBN",
+        "label": "FRAGMENTARY GOSPELS",
+        "words": 206
+      },
+      {
+        "id": "cMCB",
+        "label": "THE UNKNOWN GOSPEL",
+        "words": 1701
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-pilate",
+    "words": 15342,
+    "units": [
+      {
+        "id": "cME7",
+        "label": "ACTS OF PILATE",
+        "words": 101
+      },
+      {
+        "id": "cMEJ",
+        "label": "THE PASSION AND RESURRECTION",
+        "words": 279
+      },
+      {
+        "id": "cMEW",
+        "label": "CHAPTER 1",
+        "words": 986
+      },
+      {
+        "id": "cMFE",
+        "label": "CHAPTER 2",
+        "words": 680
+      },
+      {
+        "id": "cMG0",
+        "label": "CHAPTER 3",
+        "words": 287
+      },
+      {
+        "id": "cMGA",
+        "label": "CHAPTER 4",
+        "words": 478
+      },
+      {
+        "id": "cMGU",
+        "label": "CHAPTER 5",
+        "words": 292
+      },
+      {
+        "id": "cMH4",
+        "label": "CHAPTER 6",
+        "words": 261
+      },
+      {
+        "id": "cMHG",
+        "label": "CHAPTER 7",
+        "words": 57
+      },
+      {
+        "id": "cMHS",
+        "label": "CHAPTER 8",
+        "words": 93
+      },
+      {
+        "id": "cMJ0",
+        "label": "CHAPTER 9",
+        "words": 563
+      },
+      {
+        "id": "cMJG",
+        "label": "CHAPTER 10",
+        "words": 266
+      },
+      {
+        "id": "cMJY",
+        "label": "CHAPTER 11",
+        "words": 251
+      },
+      {
+        "id": "cMKA",
+        "label": "CHAPTER 12",
+        "words": 540
+      },
+      {
+        "id": "cMKP",
+        "label": "CHAPTER 13",
+        "words": 487
+      },
+      {
+        "id": "cMM2",
+        "label": "CHAPTER 14",
+        "words": 619
+      },
+      {
+        "id": "cMME",
+        "label": "CHAPTER 15",
+        "words": 1513
+      },
+      {
+        "id": "cMN0",
+        "label": "THE DESCENT INTO HADES",
+        "words": 1516
+      },
+      {
+        "id": "cMNR",
+        "label": "CHAPTER 1",
+        "words": 406
+      },
+      {
+        "id": "cMP0",
+        "label": "CHAPTER 2",
+        "words": 516
+      },
+      {
+        "id": "cMP9",
+        "label": "CHAPTER 3",
+        "words": 334
+      },
+      {
+        "id": "cMPG",
+        "label": "CHAPTER 4",
+        "words": 599
+      },
+      {
+        "id": "cMPT",
+        "label": "CHAPTER 5",
+        "words": 526
+      },
+      {
+        "id": "cMR2",
+        "label": "CHAPTER 6",
+        "words": 388
+      },
+      {
+        "id": "cMRA",
+        "label": "CHAPTER 7",
+        "words": 409
+      },
+      {
+        "id": "cMRH",
+        "label": "CHAPTER 8",
+        "words": 627
+      },
+      {
+        "id": "cMRU",
+        "label": "CHAPTER 9",
+        "words": 167
+      },
+      {
+        "id": "cMS1",
+        "label": "CHAPTER 10",
+        "words": 377
+      },
+      {
+        "id": "cMS9",
+        "label": "CHAPTER 11",
+        "words": 509
+      },
+      {
+        "id": "cMSM",
+        "label": "EPISTLE OF PILATE TO CLAUDIUS",
+        "words": 907
+      },
+      {
+        "id": "cMSY",
+        "label": "CHAPTER 1",
+        "words": 308
+      }
+    ]
+  },
+  {
+    "book_id": "narrative-of-joseph-of-arimathea",
+    "words": 2826,
+    "units": [
+      {
+        "id": "cMT6",
+        "label": "NARRATIVE OF JOSEPH OF ARIMATHEA",
+        "words": 51
+      },
+      {
+        "id": "cMTF",
+        "label": "CHAPTER 1",
+        "words": 575
+      },
+      {
+        "id": "cMTP",
+        "label": "CHAPTER 2",
+        "words": 534
+      },
+      {
+        "id": "cMTX",
+        "label": "CHAPTER 3",
+        "words": 796
+      },
+      {
+        "id": "cMU4",
+        "label": "CHAPTER 4",
+        "words": 465
+      },
+      {
+        "id": "cMUB",
+        "label": "CHAPTER 5",
+        "words": 405
+      }
+    ]
+  },
+  {
+    "book_id": "correspondence-of-pilate",
+    "words": 1638,
+    "units": [
+      {
+        "id": "cMUJ",
+        "label": "CORRESPONDENCE OF PILATE",
+        "words": 76
+      },
+      {
+        "id": "cMUX",
+        "label": "EPISTLE OF HEROD TO PILATE",
+        "words": 5
+      },
+      {
+        "id": "cMV4",
+        "label": "EPISTLE OF PILATE TO HEROD",
+        "words": 558
+      },
+      {
+        "id": "cMVD",
+        "label": "ANAPHORA PILATI",
+        "words": 782
+      },
+      {
+        "id": "cMVP",
+        "label": "CHAPTER 1",
+        "words": 217
+      }
+    ]
+  },
+  {
+    "book_id": "paradosis-pilati",
+    "words": 1103,
+    "units": [
+      {
+        "id": "cMVY",
+        "label": "PARADOSIS PILATI",
+        "words": 42
+      },
+      {
+        "id": "cMW7",
+        "label": "CHAPTER 1",
+        "words": 1061
+      }
+    ]
+  },
+  {
+    "book_id": "vindicta-salvatoris",
+    "words": 4085,
+    "units": [
+      {
+        "id": "cMWE",
+        "label": "VINDICTA SALVATORIS",
+        "words": 156
+      },
+      {
+        "id": "cMWR",
+        "label": "CHAPTER 1",
+        "words": 1177
+      },
+      {
+        "id": "cMWY",
+        "label": "CHAPTER 2",
+        "words": 580
+      },
+      {
+        "id": "cMX5",
+        "label": "CHAPTER 3",
+        "words": 2172
+      }
+    ]
+  },
+  {
+    "book_id": "mors-pilati",
+    "words": 1209,
+    "units": [
+      {
+        "id": "cMXC",
+        "label": "MORS PILATI",
+        "words": 36
+      },
+      {
+        "id": "cMXN",
+        "label": "CHAPTER 1",
+        "words": 1173
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-paul",
+    "words": 10841,
+    "units": [
+      {
+        "id": "cMXW",
+        "label": "ACTS OF PAUL",
+        "words": 143
+      },
+      {
+        "id": "cMY7",
+        "label": "THE SEVENTH ACT(3 CORINTHIANS)",
+        "words": 7522
+      },
+      {
+        "id": "cN11",
+        "label": "CHAPTER 1",
+        "words": 249
+      },
+      {
+        "id": "cN18",
+        "label": "CHAPTER 2",
+        "words": 108
+      },
+      {
+        "id": "cN1F",
+        "label": "THE MARTYRDOM OF PAUL",
+        "words": 2819
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-peter",
+    "words": 17436,
+    "units": [
+      {
+        "id": "cN25",
+        "label": "ACTS OF PETER",
+        "words": 131
+      },
+      {
+        "id": "cN2F",
+        "label": "CHAPTER 1",
+        "words": 364
+      },
+      {
+        "id": "cN2P",
+        "label": "CHAPTER 2",
+        "words": 652
+      },
+      {
+        "id": "cN2X",
+        "label": "CHAPTER 3",
+        "words": 236
+      },
+      {
+        "id": "cN34",
+        "label": "CHAPTER 4",
+        "words": 437
+      },
+      {
+        "id": "cN3B",
+        "label": "CHAPTER 5",
+        "words": 770
+      },
+      {
+        "id": "cN3J",
+        "label": "CHAPTER 6",
+        "words": 842
+      },
+      {
+        "id": "cN3T",
+        "label": "CHAPTER 7",
+        "words": 606
+      },
+      {
+        "id": "cN40",
+        "label": "CHAPTER 8",
+        "words": 671
+      },
+      {
+        "id": "cN47",
+        "label": "CHAPTER 9",
+        "words": 377
+      },
+      {
+        "id": "cN4E",
+        "label": "CHAPTER 10",
+        "words": 547
+      },
+      {
+        "id": "cN4N",
+        "label": "CHAPTER 11",
+        "words": 497
+      },
+      {
+        "id": "cN4W",
+        "label": "CHAPTER 12",
+        "words": 354
+      },
+      {
+        "id": "cN53",
+        "label": "CHAPTER 13",
+        "words": 238
+      },
+      {
+        "id": "cN5A",
+        "label": "CHAPTER 14",
+        "words": 241
+      },
+      {
+        "id": "cN5H",
+        "label": "CHAPTER 15",
+        "words": 350
+      },
+      {
+        "id": "cN5S",
+        "label": "CHAPTER 16",
+        "words": 171
+      },
+      {
+        "id": "cN5Z",
+        "label": "CHAPTER 17",
+        "words": 1251
+      },
+      {
+        "id": "cN66",
+        "label": "CHAPTER 18",
+        "words": 150
+      },
+      {
+        "id": "cN6D",
+        "label": "CHAPTER 19",
+        "words": 232
+      },
+      {
+        "id": "cN6M",
+        "label": "CHAPTER 20",
+        "words": 669
+      },
+      {
+        "id": "cN6V",
+        "label": "CHAPTER 21",
+        "words": 416
+      },
+      {
+        "id": "cN72",
+        "label": "CHAPTER 22",
+        "words": 509
+      },
+      {
+        "id": "cN79",
+        "label": "CHAPTER 23",
+        "words": 455
+      },
+      {
+        "id": "cN7G",
+        "label": "CHAPTER 24",
+        "words": 306
+      },
+      {
+        "id": "cN7R",
+        "label": "CHAPTER 25",
+        "words": 386
+      },
+      {
+        "id": "cN7Y",
+        "label": "CHAPTER 26",
+        "words": 219
+      },
+      {
+        "id": "cN85",
+        "label": "CHAPTER 27",
+        "words": 222
+      },
+      {
+        "id": "cN8C",
+        "label": "CHAPTER 28",
+        "words": 1488
+      },
+      {
+        "id": "cN8K",
+        "label": "CHAPTER 29",
+        "words": 228
+      },
+      {
+        "id": "cN8U",
+        "label": "CHAPTER 30",
+        "words": 309
+      },
+      {
+        "id": "cN91",
+        "label": "CHAPTER 31",
+        "words": 326
+      },
+      {
+        "id": "cN98",
+        "label": "THE MARTYRDOM OF PETER",
+        "words": 482
+      },
+      {
+        "id": "cN9G",
+        "label": "CHAPTER 33",
+        "words": 184
+      },
+      {
+        "id": "cN9R",
+        "label": "CHAPTER 34",
+        "words": 212
+      },
+      {
+        "id": "cN9Y",
+        "label": "CHAPTER 35",
+        "words": 203
+      },
+      {
+        "id": "cNA5",
+        "label": "CHAPTER 36",
+        "words": 344
+      },
+      {
+        "id": "cNAC",
+        "label": "CHAPTER 37",
+        "words": 283
+      },
+      {
+        "id": "cNAK",
+        "label": "CHAPTER 38",
+        "words": 365
+      },
+      {
+        "id": "cNAU",
+        "label": "CHAPTER 39",
+        "words": 322
+      },
+      {
+        "id": "cNB1",
+        "label": "CHAPTER 40",
+        "words": 211
+      },
+      {
+        "id": "cNB8",
+        "label": "CHAPTER 41",
+        "words": 180
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-john",
+    "words": 15793,
+    "units": [
+      {
+        "id": "cNBF",
+        "label": "ACTS OF JOHN",
+        "words": 93
+      },
+      {
+        "id": "cNBT",
+        "label": "CHAPTER 18",
+        "words": 150
+      },
+      {
+        "id": "cNC0",
+        "label": "CHAPTER 19",
+        "words": 221
+      },
+      {
+        "id": "cNC7",
+        "label": "CHAPTER 20",
+        "words": 258
+      },
+      {
+        "id": "cNCE",
+        "label": "CHAPTER 21",
+        "words": 289
+      },
+      {
+        "id": "cNCN",
+        "label": "CHAPTER 22",
+        "words": 242
+      },
+      {
+        "id": "cNCW",
+        "label": "CHAPTER 23",
+        "words": 219
+      },
+      {
+        "id": "cND3",
+        "label": "CHAPTER 24",
+        "words": 246
+      },
+      {
+        "id": "cNDA",
+        "label": "CHAPTER 25",
+        "words": 120
+      },
+      {
+        "id": "cNDH",
+        "label": "CHAPTER 26",
+        "words": 154
+      },
+      {
+        "id": "cNDS",
+        "label": "CHAPTER 27",
+        "words": 244
+      },
+      {
+        "id": "cNDZ",
+        "label": "CHAPTER 28",
+        "words": 141
+      },
+      {
+        "id": "cNE6",
+        "label": "CHAPTER 29",
+        "words": 197
+      },
+      {
+        "id": "cNED",
+        "label": "CHAPTER 30",
+        "words": 186
+      },
+      {
+        "id": "cNEM",
+        "label": "CHAPTER 31",
+        "words": 139
+      },
+      {
+        "id": "cNEV",
+        "label": "CHAPTER 32",
+        "words": 64
+      },
+      {
+        "id": "cNF2",
+        "label": "CHAPTER 33",
+        "words": 161
+      },
+      {
+        "id": "cNF9",
+        "label": "CHAPTER 34",
+        "words": 153
+      },
+      {
+        "id": "cNFG",
+        "label": "CHAPTER 35",
+        "words": 143
+      },
+      {
+        "id": "cNFR",
+        "label": "CHAPTER 36",
+        "words": 143
+      },
+      {
+        "id": "cNFY",
+        "label": "CHAPTER 37",
+        "words": 98
+      },
+      {
+        "id": "cNG5",
+        "label": "CHAPTER 38",
+        "words": 73
+      },
+      {
+        "id": "cNGC",
+        "label": "CHAPTER 39",
+        "words": 189
+      },
+      {
+        "id": "cNGK",
+        "label": "CHAPTER 40",
+        "words": 108
+      },
+      {
+        "id": "cNGU",
+        "label": "CHAPTER 41",
+        "words": 107
+      },
+      {
+        "id": "cNH1",
+        "label": "CHAPTER 42",
+        "words": 147
+      },
+      {
+        "id": "cNH8",
+        "label": "CHAPTER 43",
+        "words": 129
+      },
+      {
+        "id": "cNHF",
+        "label": "CHAPTER 44",
+        "words": 142
+      },
+      {
+        "id": "cNHP",
+        "label": "CHAPTER 45",
+        "words": 121
+      },
+      {
+        "id": "cNHX",
+        "label": "CHAPTER 46",
+        "words": 244
+      },
+      {
+        "id": "cNJ4",
+        "label": "CHAPTER 47",
+        "words": 179
+      },
+      {
+        "id": "cNJB",
+        "label": "CHAPTER 48",
+        "words": 112
+      },
+      {
+        "id": "cNJJ",
+        "label": "CHAPTER 49",
+        "words": 193
+      },
+      {
+        "id": "cNJT",
+        "label": "CHAPTER 50",
+        "words": 95
+      },
+      {
+        "id": "cNK0",
+        "label": "CHAPTER 51",
+        "words": 147
+      },
+      {
+        "id": "cNK7",
+        "label": "CHAPTER 52",
+        "words": 162
+      },
+      {
+        "id": "cNKE",
+        "label": "CHAPTER 53",
+        "words": 80
+      },
+      {
+        "id": "cNKN",
+        "label": "CHAPTER 54",
+        "words": 166
+      },
+      {
+        "id": "cNKW",
+        "label": "CHAPTER 55",
+        "words": 331
+      },
+      {
+        "id": "cNM4",
+        "label": "CHAPTER 58",
+        "words": 137
+      },
+      {
+        "id": "cNMB",
+        "label": "CHAPTER 59",
+        "words": 98
+      },
+      {
+        "id": "cNMJ",
+        "label": "CHAPTER 60",
+        "words": 168
+      },
+      {
+        "id": "cNMT",
+        "label": "CHAPTER 61",
+        "words": 175
+      },
+      {
+        "id": "cNN0",
+        "label": "CHAPTER 62",
+        "words": 69
+      },
+      {
+        "id": "cNN7",
+        "label": "CHAPTER 63",
+        "words": 176
+      },
+      {
+        "id": "cNNE",
+        "label": "CHAPTER 64",
+        "words": 168
+      },
+      {
+        "id": "cNNN",
+        "label": "CHAPTER 65",
+        "words": 77
+      },
+      {
+        "id": "cNNW",
+        "label": "CHAPTER 66",
+        "words": 64
+      },
+      {
+        "id": "cNP3",
+        "label": "CHAPTER 67",
+        "words": 136
+      },
+      {
+        "id": "cNPA",
+        "label": "CHAPTER 68",
+        "words": 156
+      },
+      {
+        "id": "cNPH",
+        "label": "CHAPTER 69",
+        "words": 278
+      },
+      {
+        "id": "cNPS",
+        "label": "CHAPTER 70",
+        "words": 182
+      },
+      {
+        "id": "cNPZ",
+        "label": "CHAPTER 71",
+        "words": 76
+      },
+      {
+        "id": "cNR6",
+        "label": "CHAPTER 72",
+        "words": 102
+      },
+      {
+        "id": "cNRD",
+        "label": "CHAPTER 73",
+        "words": 189
+      },
+      {
+        "id": "cNRM",
+        "label": "CHAPTER 74",
+        "words": 221
+      },
+      {
+        "id": "cNRV",
+        "label": "CHAPTER 75",
+        "words": 107
+      },
+      {
+        "id": "cNS2",
+        "label": "CHAPTER 76",
+        "words": 401
+      },
+      {
+        "id": "cNS9",
+        "label": "CHAPTER 77",
+        "words": 154
+      },
+      {
+        "id": "cNSG",
+        "label": "CHAPTER 78",
+        "words": 65
+      },
+      {
+        "id": "cNSR",
+        "label": "CHAPTER 79",
+        "words": 202
+      },
+      {
+        "id": "cNSY",
+        "label": "CHAPTER 80",
+        "words": 66
+      },
+      {
+        "id": "cNT5",
+        "label": "CHAPTER 81",
+        "words": 254
+      },
+      {
+        "id": "cNTC",
+        "label": "CHAPTER 82",
+        "words": 171
+      },
+      {
+        "id": "cNTK",
+        "label": "CHAPTER 83",
+        "words": 95
+      },
+      {
+        "id": "cNTU",
+        "label": "CHAPTER 84",
+        "words": 225
+      },
+      {
+        "id": "cNU1",
+        "label": "CHAPTER 85",
+        "words": 150
+      },
+      {
+        "id": "cNU8",
+        "label": "CHAPTER 86",
+        "words": 120
+      },
+      {
+        "id": "cNUF",
+        "label": "CHAPTER 87",
+        "words": 61
+      },
+      {
+        "id": "cNUP",
+        "label": "CHAPTER 88",
+        "words": 240
+      },
+      {
+        "id": "cNUX",
+        "label": "CHAPTER 89",
+        "words": 217
+      },
+      {
+        "id": "cNV4",
+        "label": "CHAPTER 90",
+        "words": 284
+      },
+      {
+        "id": "cNVB",
+        "label": "CHAPTER 91",
+        "words": 94
+      },
+      {
+        "id": "cNVJ",
+        "label": "CHAPTER 92",
+        "words": 84
+      },
+      {
+        "id": "cNVT",
+        "label": "CHAPTER 93",
+        "words": 215
+      },
+      {
+        "id": "cNW0",
+        "label": "CHAPTER 94",
+        "words": 150
+      },
+      {
+        "id": "cNW7",
+        "label": "CHAPTER 95",
+        "words": 227
+      },
+      {
+        "id": "cNWE",
+        "label": "CHAPTER 96",
+        "words": 250
+      },
+      {
+        "id": "cNWN",
+        "label": "CHAPTER 97",
+        "words": 163
+      },
+      {
+        "id": "cNWW",
+        "label": "CHAPTER 98",
+        "words": 230
+      },
+      {
+        "id": "cNX3",
+        "label": "CHAPTER 99",
+        "words": 129
+      },
+      {
+        "id": "cNXA",
+        "label": "CHAPTER 100",
+        "words": 180
+      },
+      {
+        "id": "cNXH",
+        "label": "CHAPTER 101",
+        "words": 267
+      },
+      {
+        "id": "cNXS",
+        "label": "CHAPTER 102",
+        "words": 86
+      },
+      {
+        "id": "cNXZ",
+        "label": "CHAPTER 103",
+        "words": 177
+      },
+      {
+        "id": "cNY6",
+        "label": "CHAPTER 104",
+        "words": 66
+      },
+      {
+        "id": "cNYD",
+        "label": "THE DEATH OF JOHN",
+        "words": 53
+      },
+      {
+        "id": "cNYN",
+        "label": "CHAPTER 106",
+        "words": 194
+      },
+      {
+        "id": "cNYW",
+        "label": "CHAPTER 107",
+        "words": 228
+      },
+      {
+        "id": "cNZ3",
+        "label": "CHAPTER 108",
+        "words": 145
+      },
+      {
+        "id": "cNZA",
+        "label": "CHAPTER 109",
+        "words": 185
+      },
+      {
+        "id": "cNZH",
+        "label": "CHAPTER 110",
+        "words": 61
+      },
+      {
+        "id": "cNZS",
+        "label": "CHAPTER 111",
+        "words": 194
+      },
+      {
+        "id": "cNZZ",
+        "label": "CHAPTER 112",
+        "words": 253
+      },
+      {
+        "id": "cP06",
+        "label": "CHAPTER 113",
+        "words": 306
+      },
+      {
+        "id": "cP0D",
+        "label": "CHAPTER 114",
+        "words": 136
+      },
+      {
+        "id": "cP0M",
+        "label": "CHAPTER 115",
+        "words": 50
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-andrew",
+    "words": 6016,
+    "units": [
+      {
+        "id": "cP0V",
+        "label": "ACTS OF ANDREW",
+        "words": 86
+      },
+      {
+        "id": "cP14",
+        "label": "CHAPTER 1",
+        "words": 274
+      },
+      {
+        "id": "cP1B",
+        "label": "CHAPTER 2",
+        "words": 126
+      },
+      {
+        "id": "cP1J",
+        "label": "CHAPTER 3",
+        "words": 76
+      },
+      {
+        "id": "cP1T",
+        "label": "CHAPTER 4",
+        "words": 184
+      },
+      {
+        "id": "cP20",
+        "label": "CHAPTER 5",
+        "words": 330
+      },
+      {
+        "id": "cP27",
+        "label": "CHAPTER 6",
+        "words": 250
+      },
+      {
+        "id": "cP2E",
+        "label": "CHAPTER 7",
+        "words": 140
+      },
+      {
+        "id": "cP2N",
+        "label": "CHAPTER 8",
+        "words": 209
+      },
+      {
+        "id": "cP2W",
+        "label": "CHAPTER 9",
+        "words": 132
+      },
+      {
+        "id": "cP33",
+        "label": "CHAPTER 10",
+        "words": 332
+      },
+      {
+        "id": "cP3A",
+        "label": "CHAPTER 11",
+        "words": 60
+      },
+      {
+        "id": "cP3H",
+        "label": "CHAPTER 12",
+        "words": 182
+      },
+      {
+        "id": "cP3S",
+        "label": "CHAPTER 13",
+        "words": 92
+      },
+      {
+        "id": "cP3Z",
+        "label": "CHAPTER 14",
+        "words": 162
+      },
+      {
+        "id": "cP46",
+        "label": "CHAPTER 15",
+        "words": 147
+      },
+      {
+        "id": "cP4D",
+        "label": "CHAPTER 16",
+        "words": 143
+      },
+      {
+        "id": "cP4M",
+        "label": "CHAPTER 17",
+        "words": 262
+      },
+      {
+        "id": "cP4V",
+        "label": "THE MARTYRDOM OF ANDREW",
+        "words": 2829
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-thomas",
+    "words": 37498,
+    "units": [
+      {
+        "id": "cP5W",
+        "label": "ACTS OF THOMAS",
+        "words": 149
+      },
+      {
+        "id": "cP65",
+        "label": "THE MARTYRDOM OF THOMAS",
+        "words": 37349
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-peter-and-the-twelve-apostles",
+    "words": 2260,
+    "units": [
+      {
+        "id": "cPCG",
+        "label": "ACTS OF PETER AND THE TWELVE APOSTLES",
+        "words": 80
+      },
+      {
+        "id": "cPCT",
+        "label": "CHAPTER 1",
+        "words": 517
+      },
+      {
+        "id": "cPD0",
+        "label": "CHAPTER 2",
+        "words": 592
+      },
+      {
+        "id": "cPD7",
+        "label": "CHAPTER 3",
+        "words": 1071
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-peter-and-paul",
+    "words": 8648,
+    "units": [
+      {
+        "id": "cPDE",
+        "label": "ACTS OF PETER AND PAUL",
+        "words": 79
+      },
+      {
+        "id": "cPDR",
+        "label": "CHAPTER 1",
+        "words": 281
+      },
+      {
+        "id": "cPDY",
+        "label": "CHAPTER 2",
+        "words": 293
+      },
+      {
+        "id": "cPE5",
+        "label": "CHAPTER 3",
+        "words": 304
+      },
+      {
+        "id": "cPEC",
+        "label": "CHAPTER 4",
+        "words": 240
+      },
+      {
+        "id": "cPEK",
+        "label": "CHAPTER 5",
+        "words": 312
+      },
+      {
+        "id": "cPEU",
+        "label": "CHAPTER 6",
+        "words": 405
+      },
+      {
+        "id": "cPF1",
+        "label": "CHAPTER 7",
+        "words": 755
+      },
+      {
+        "id": "cPF8",
+        "label": "CHAPTER 8",
+        "words": 3984
+      },
+      {
+        "id": "cPFF",
+        "label": "CHAPTER 9",
+        "words": 1074
+      },
+      {
+        "id": "cPFP",
+        "label": "CHAPTER 10",
+        "words": 297
+      },
+      {
+        "id": "cPFX",
+        "label": "CHAPTER 11",
+        "words": 624
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-andrew-and-matthias",
+    "words": 2603,
+    "units": [
+      {
+        "id": "cPG4",
+        "label": "ACTS OF ANDREW AND MATTHIAS",
+        "words": 54
+      },
+      {
+        "id": "cPGD",
+        "label": "CHAPTER 1",
+        "words": 206
+      },
+      {
+        "id": "cPGM",
+        "label": "CHAPTER 2",
+        "words": 862
+      },
+      {
+        "id": "cPGV",
+        "label": "CHAPTER 3",
+        "words": 362
+      },
+      {
+        "id": "cPH2",
+        "label": "CHAPTER 4",
+        "words": 1119
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-peter-and-andrew",
+    "words": 1862,
+    "units": [
+      {
+        "id": "cPH9",
+        "label": "ACTS OF PETER AND ANDREW",
+        "words": 61
+      },
+      {
+        "id": "cPHJ",
+        "label": "CHAPTER 1",
+        "words": 298
+      },
+      {
+        "id": "cPHT",
+        "label": "CHAPTER 2",
+        "words": 511
+      },
+      {
+        "id": "cPJ0",
+        "label": "CHAPTER 3",
+        "words": 992
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-barnabas",
+    "words": 2820,
+    "units": [
+      {
+        "id": "cPJ7",
+        "label": "ACTS OF BARNABAS",
+        "words": 46
+      },
+      {
+        "id": "cPJG",
+        "label": "CHAPTER 1",
+        "words": 331
+      },
+      {
+        "id": "cPJR",
+        "label": "CHAPTER 2",
+        "words": 270
+      },
+      {
+        "id": "cPJY",
+        "label": "CHAPTER 3",
+        "words": 507
+      },
+      {
+        "id": "cPK5",
+        "label": "CHAPTER 4",
+        "words": 534
+      },
+      {
+        "id": "cPKC",
+        "label": "CHAPTER 5",
+        "words": 362
+      },
+      {
+        "id": "cPKK",
+        "label": "CHAPTER 6",
+        "words": 240
+      },
+      {
+        "id": "cPKU",
+        "label": "CHAPTER 7",
+        "words": 530
+      }
+    ]
+  },
+  {
+    "book_id": "acts-of-xanthippe-polyxena-and-rebecca",
+    "words": 11604,
+    "units": [
+      {
+        "id": "cPM2",
+        "label": "ACTS OF XANTHIPPE, POLYXENA, AND REBECCA",
+        "words": 112
+      },
+      {
+        "id": "cPMB",
+        "label": "ACT OF REBECCA",
+        "words": 11492
+      }
+    ]
+  },
+  {
+    "book_id": "revelation-of-abraham",
+    "words": 8045,
+    "units": [
+      {
+        "id": "cPS5",
+        "label": "REVELATION OF ABRAHAM",
+        "words": 122
+      },
+      {
+        "id": "cPSF",
+        "label": "CHAPTER 1",
+        "words": 273
+      },
+      {
+        "id": "cPSP",
+        "label": "CHAPTER 2",
+        "words": 223
+      },
+      {
+        "id": "cPSX",
+        "label": "CHAPTER 3",
+        "words": 225
+      },
+      {
+        "id": "cPT4",
+        "label": "CHAPTER 4",
+        "words": 168
+      },
+      {
+        "id": "cPTB",
+        "label": "CHAPTER 5",
+        "words": 378
+      },
+      {
+        "id": "cPTJ",
+        "label": "CHAPTER 6",
+        "words": 375
+      },
+      {
+        "id": "cPTT",
+        "label": "CHAPTER 7",
+        "words": 263
+      },
+      {
+        "id": "cPU0",
+        "label": "CHAPTER 8",
+        "words": 149
+      },
+      {
+        "id": "cPU7",
+        "label": "CHAPTER 9",
+        "words": 242
+      },
+      {
+        "id": "cPUE",
+        "label": "CHAPTER 10",
+        "words": 437
+      },
+      {
+        "id": "cPUN",
+        "label": "CHAPTER 11",
+        "words": 135
+      },
+      {
+        "id": "cPUW",
+        "label": "CHAPTER 12",
+        "words": 261
+      },
+      {
+        "id": "cPV3",
+        "label": "CHAPTER 13",
+        "words": 331
+      },
+      {
+        "id": "cPVA",
+        "label": "CHAPTER 14",
+        "words": 258
+      },
+      {
+        "id": "cPVH",
+        "label": "CHAPTER 15",
+        "words": 166
+      },
+      {
+        "id": "cPVS",
+        "label": "CHAPTER 16",
+        "words": 91
+      },
+      {
+        "id": "cPVZ",
+        "label": "CHAPTER 17",
+        "words": 336
+      },
+      {
+        "id": "cPW6",
+        "label": "CHAPTER 18",
+        "words": 332
+      },
+      {
+        "id": "cPWD",
+        "label": "CHAPTER 19",
+        "words": 239
+      },
+      {
+        "id": "cPWM",
+        "label": "CHAPTER 20",
+        "words": 140
+      },
+      {
+        "id": "cPWV",
+        "label": "CHAPTER 21",
+        "words": 233
+      },
+      {
+        "id": "cPX2",
+        "label": "CHAPTER 22",
+        "words": 193
+      },
+      {
+        "id": "cPX9",
+        "label": "CHAPTER 23",
+        "words": 389
+      },
+      {
+        "id": "cPXG",
+        "label": "CHAPTER 24",
+        "words": 220
+      },
+      {
+        "id": "cPXR",
+        "label": "CHAPTER 25",
+        "words": 225
+      },
+      {
+        "id": "cPXY",
+        "label": "CHAPTER 26",
+        "words": 165
+      },
+      {
+        "id": "cPY5",
+        "label": "CHAPTER 27",
+        "words": 283
+      },
+      {
+        "id": "cPYC",
+        "label": "CHAPTER 28",
+        "words": 142
+      },
+      {
+        "id": "cPYK",
+        "label": "CHAPTER 29",
+        "words": 586
+      },
+      {
+        "id": "cPYU",
+        "label": "CHAPTER 30",
+        "words": 194
+      },
+      {
+        "id": "cPZ1",
+        "label": "CHAPTER 31",
+        "words": 219
+      },
+      {
+        "id": "cPZ8",
+        "label": "CHAPTER 32",
+        "words": 52
+      }
+    ]
+  },
+  {
+    "book_id": "revelation-of-elijah",
+    "words": 3998,
+    "units": [
+      {
+        "id": "cPZF",
+        "label": "REVELATION OF ELIJAH",
+        "words": 100
+      },
+      {
+        "id": "cPZS",
+        "label": "CHAPTER 1",
+        "words": 684
+      },
+      {
+        "id": "cPZZ",
+        "label": "CHAPTER 2",
+        "words": 1085
+      },
+      {
+        "id": "cR06",
+        "label": "CHAPTER 3",
+        "words": 369
+      },
+      {
+        "id": "cR0D",
+        "label": "CHAPTER 4",
+        "words": 805
+      },
+      {
+        "id": "cR0M",
+        "label": "CHAPTER 5",
+        "words": 955
+      }
+    ]
+  },
+  {
+    "book_id": "revelation-of-zephaniah",
+    "words": 2637,
+    "units": [
+      {
+        "id": "cR0V",
+        "label": "REVELATION OF ZEPHANIAH",
+        "words": 80
+      },
+      {
+        "id": "cR15",
+        "label": "FRAGMENT 3",
+        "words": 259
+      },
+      {
+        "id": "cR1G",
+        "label": "CHAPTER 1",
+        "words": 30
+      },
+      {
+        "id": "cR1R",
+        "label": "CHAPTER 2",
+        "words": 197
+      },
+      {
+        "id": "cR1Y",
+        "label": "CHAPTER 3",
+        "words": 218
+      },
+      {
+        "id": "cR25",
+        "label": "CHAPTER 4",
+        "words": 215
+      },
+      {
+        "id": "cR2C",
+        "label": "CHAPTER 5",
+        "words": 118
+      },
+      {
+        "id": "cR2K",
+        "label": "CHAPTER 6",
+        "words": 467
+      },
+      {
+        "id": "cR2U",
+        "label": "CHAPTER 7",
+        "words": 281
+      },
+      {
+        "id": "cR31",
+        "label": "CHAPTER 8",
+        "words": 75
+      },
+      {
+        "id": "cR38",
+        "label": "CHAPTER 9",
+        "words": 123
+      },
+      {
+        "id": "cR3F",
+        "label": "CHAPTER 10",
+        "words": 264
+      },
+      {
+        "id": "cR3P",
+        "label": "CHAPTER 11",
+        "words": 132
+      },
+      {
+        "id": "cR3X",
+        "label": "CHAPTER 12",
+        "words": 178
+      }
+    ]
+  },
+  {
+    "book_id": "revelation-of-peter",
+    "words": 4211,
+    "units": [
+      {
+        "id": "cR44",
+        "label": "REVELATION OF PETER",
+        "words": 80
+      },
+      {
+        "id": "cR4E",
+        "label": "CHAPTER 1",
+        "words": 1804
+      },
+      {
+        "id": "cR4N",
+        "label": "CHAPTER 2",
+        "words": 964
+      },
+      {
+        "id": "cR4W",
+        "label": "CHAPTER 3",
+        "words": 760
+      },
+      {
+        "id": "cR53",
+        "label": "CHAPTER 4",
+        "words": 603
+      }
+    ]
+  },
+  {
+    "book_id": "revelation-of-thomas",
+    "words": 1275,
+    "units": [
+      {
+        "id": "cR5A",
+        "label": "REVELATION OF THOMAS",
+        "words": 38
+      },
+      {
+        "id": "cR5K",
+        "label": "CHAPTER 1",
+        "words": 177
+      },
+      {
+        "id": "cR5U",
+        "label": "CHAPTER 2",
+        "words": 525
+      },
+      {
+        "id": "cR61",
+        "label": "CHAPTER 3",
+        "words": 344
+      },
+      {
+        "id": "cR68",
+        "label": "CHAPTER 4",
+        "words": 191
+      }
+    ]
+  },
+  {
+    "book_id": "revelation-of-stephen",
+    "words": 1469,
+    "units": [
+      {
+        "id": "cR6F",
+        "label": "REVELATION OF STEPHEN",
+        "words": 40
+      },
+      {
+        "id": "cR6S",
+        "label": "CHAPTER 1",
+        "words": 194
+      },
+      {
+        "id": "cR6Z",
+        "label": "CHAPTER 2",
+        "words": 91
+      },
+      {
+        "id": "cR76",
+        "label": "CHAPTER 3",
+        "words": 303
+      },
+      {
+        "id": "cR7D",
+        "label": "CHAPTER 4",
+        "words": 631
+      },
+      {
+        "id": "cR7M",
+        "label": "CHAPTER 5",
+        "words": 210
+      }
+    ]
+  },
+  {
+    "book_id": "revelation-of-the-virgin",
+    "words": 4411,
+    "units": [
+      {
+        "id": "cR7W",
+        "label": "REVELATION OF THE VIRGIN",
+        "words": 59
+      },
+      {
+        "id": "cR85",
+        "label": "CHAPTER 1",
+        "words": 230
+      },
+      {
+        "id": "cR8C",
+        "label": "CHAPTER 2",
+        "words": 95
+      },
+      {
+        "id": "cR8K",
+        "label": "CHAPTER 3",
+        "words": 88
+      },
+      {
+        "id": "cR8U",
+        "label": "CHAPTER 4",
+        "words": 487
+      },
+      {
+        "id": "cR91",
+        "label": "CHAPTER 5",
+        "words": 153
+      },
+      {
+        "id": "cR98",
+        "label": "CHAPTER 6",
+        "words": 43
+      },
+      {
+        "id": "cR9F",
+        "label": "CHAPTER 7",
+        "words": 117
+      },
+      {
+        "id": "cR9P",
+        "label": "CHAPTER 8",
+        "words": 81
+      },
+      {
+        "id": "cR9X",
+        "label": "CHAPTER 9",
+        "words": 54
+      },
+      {
+        "id": "cRA4",
+        "label": "CHAPTER 10",
+        "words": 75
+      },
+      {
+        "id": "cRAB",
+        "label": "CHAPTER 11",
+        "words": 99
+      },
+      {
+        "id": "cRAJ",
+        "label": "CHAPTER 12",
+        "words": 100
+      },
+      {
+        "id": "cRAT",
+        "label": "CHAPTER 13",
+        "words": 72
+      },
+      {
+        "id": "cRB0",
+        "label": "CHAPTER 14",
+        "words": 109
+      },
+      {
+        "id": "cRB7",
+        "label": "CHAPTER 15",
+        "words": 170
+      },
+      {
+        "id": "cRBE",
+        "label": "CHAPTER 16",
+        "words": 122
+      },
+      {
+        "id": "cRBN",
+        "label": "CHAPTER 17",
+        "words": 94
+      },
+      {
+        "id": "cRBW",
+        "label": "CHAPTER 18",
+        "words": 132
+      },
+      {
+        "id": "cRC3",
+        "label": "CHAPTER 19",
+        "words": 112
+      },
+      {
+        "id": "cRCA",
+        "label": "CHAPTER 20",
+        "words": 61
+      },
+      {
+        "id": "cRCH",
+        "label": "CHAPTER 21",
+        "words": 58
+      },
+      {
+        "id": "cRCS",
+        "label": "CHAPTER 22",
+        "words": 95
+      },
+      {
+        "id": "cRCZ",
+        "label": "CHAPTER 23",
+        "words": 474
+      },
+      {
+        "id": "cRD6",
+        "label": "CHAPTER 24",
+        "words": 94
+      },
+      {
+        "id": "cRDD",
+        "label": "CHAPTER 25",
+        "words": 122
+      },
+      {
+        "id": "cRDM",
+        "label": "CHAPTER 26",
+        "words": 237
+      },
+      {
+        "id": "cRDV",
+        "label": "CHAPTER 27",
+        "words": 169
+      },
+      {
+        "id": "cRE2",
+        "label": "CHAPTER 28",
+        "words": 239
+      },
+      {
+        "id": "cRE9",
+        "label": "CHAPTER 29",
+        "words": 255
+      },
+      {
+        "id": "cREG",
+        "label": "CHAPTER 30",
+        "words": 115
+      }
+    ]
+  },
+  {
+    "book_id": "the-sibylline-oracles",
+    "words": 44531,
+    "units": [
+      {
+        "id": "cRER",
+        "label": "THE SIBYLLINE ORACLES",
+        "words": 273
+      },
+      {
+        "id": "cRF0",
+        "label": "PREFACE",
+        "words": 1333
+      },
+      {
+        "id": "cRFU",
+        "label": "BOOK I",
+        "words": 3785
+      },
+      {
+        "id": "cRZ6",
+        "label": "BOOK II",
+        "words": 3275
+      },
+      {
+        "id": "cSCS",
+        "label": "BOOK III",
+        "words": 8248
+      },
+      {
+        "id": "cTD6",
+        "label": "BOOK IV",
+        "words": 1932
+      },
+      {
+        "id": "cTN5",
+        "label": "BOOK V",
+        "words": 5556
+      },
+      {
+        "id": "cUBK",
+        "label": "BOOK VI",
+        "words": 322
+      },
+      {
+        "id": "cUCY",
+        "label": "BOOK VII",
+        "words": 1760
+      },
+      {
+        "id": "cUM2",
+        "label": "BOOK VIII",
+        "words": 5268
+      },
+      {
+        "id": "cV96",
+        "label": "BOOK XI",
+        "words": 3342
+      },
+      {
+        "id": "cVPU",
+        "label": "BOOK XII",
+        "words": 2974
+      },
+      {
+        "id": "cW2Z",
+        "label": "BOOK XIII",
+        "words": 1772
+      },
+      {
+        "id": "cWAE",
+        "label": "BOOK XIV",
+        "words": 3722
+      },
+      {
+        "id": "cWT9",
+        "label": "FRAGMENT 7",
+        "words": 969
+      }
+    ]
+  },
+  {
+    "book_id": "jasher",
+    "words": 149883,
+    "units": [
+      {
+        "id": "c196K",
+        "label": "JASHER",
+        "words": 141
+      },
+      {
+        "id": "c196X",
+        "label": "CHAPTER 1",
+        "words": 1394
+      },
+      {
+        "id": "c1974",
+        "label": "CHAPTER 2",
+        "words": 1298
+      },
+      {
+        "id": "c197B",
+        "label": "CHAPTER 3",
+        "words": 1691
+      },
+      {
+        "id": "c197J",
+        "label": "CHAPTER 4",
+        "words": 761
+      },
+      {
+        "id": "c197T",
+        "label": "CHAPTER 5",
+        "words": 1114
+      },
+      {
+        "id": "c1980",
+        "label": "CHAPTER 6",
+        "words": 1518
+      },
+      {
+        "id": "c1987",
+        "label": "CHAPTER 7",
+        "words": 1576
+      },
+      {
+        "id": "c198E",
+        "label": "CHAPTER 8",
+        "words": 1508
+      },
+      {
+        "id": "c198N",
+        "label": "CHAPTER 9",
+        "words": 1673
+      },
+      {
+        "id": "c198W",
+        "label": "CHAPTER 10",
+        "words": 1296
+      },
+      {
+        "id": "c1993",
+        "label": "CHAPTER 11",
+        "words": 2405
+      },
+      {
+        "id": "c199A",
+        "label": "CHAPTER 12",
+        "words": 2845
+      },
+      {
+        "id": "c199H",
+        "label": "CHAPTER 13",
+        "words": 1402
+      },
+      {
+        "id": "c199S",
+        "label": "CHAPTER 14",
+        "words": 1254
+      },
+      {
+        "id": "c199Z",
+        "label": "CHAPTER 15",
+        "words": 1776
+      },
+      {
+        "id": "c19A6",
+        "label": "CHAPTER 16",
+        "words": 1455
+      },
+      {
+        "id": "c19AD",
+        "label": "CHAPTER 17",
+        "words": 771
+      },
+      {
+        "id": "c19AM",
+        "label": "CHAPTER 18",
+        "words": 1845
+      },
+      {
+        "id": "c19AV",
+        "label": "CHAPTER 19",
+        "words": 2293
+      },
+      {
+        "id": "c19B2",
+        "label": "CHAPTER 20",
+        "words": 1064
+      },
+      {
+        "id": "c19B9",
+        "label": "CHAPTER 21",
+        "words": 1670
+      },
+      {
+        "id": "c19BG",
+        "label": "CHAPTER 22",
+        "words": 1817
+      },
+      {
+        "id": "c19BR",
+        "label": "CHAPTER 23",
+        "words": 3434
+      },
+      {
+        "id": "c19BY",
+        "label": "CHAPTER 24",
+        "words": 1747
+      },
+      {
+        "id": "c19C5",
+        "label": "CHAPTER 25",
+        "words": 881
+      },
+      {
+        "id": "c19CC",
+        "label": "CHAPTER 26",
+        "words": 1571
+      },
+      {
+        "id": "c19CK",
+        "label": "CHAPTER 27",
+        "words": 680
+      },
+      {
+        "id": "c19CU",
+        "label": "CHAPTER 28",
+        "words": 1105
+      },
+      {
+        "id": "c19D1",
+        "label": "CHAPTER 29",
+        "words": 2103
+      },
+      {
+        "id": "c19D8",
+        "label": "CHAPTER 30",
+        "words": 1102
+      },
+      {
+        "id": "c19DF",
+        "label": "CHAPTER 31",
+        "words": 2782
+      },
+      {
+        "id": "c19DP",
+        "label": "CHAPTER 32",
+        "words": 2856
+      },
+      {
+        "id": "c19DX",
+        "label": "CHAPTER 33",
+        "words": 2114
+      },
+      {
+        "id": "c19E4",
+        "label": "CHAPTER 34",
+        "words": 2857
+      },
+      {
+        "id": "c19EB",
+        "label": "CHAPTER 35",
+        "words": 1005
+      },
+      {
+        "id": "c19EJ",
+        "label": "CHAPTER 36",
+        "words": 1359
+      },
+      {
+        "id": "c19ET",
+        "label": "CHAPTER 37",
+        "words": 1934
+      },
+      {
+        "id": "c19F0",
+        "label": "CHAPTER 38",
+        "words": 2291
+      },
+      {
+        "id": "c19F7",
+        "label": "CHAPTER 39",
+        "words": 3056
+      },
+      {
+        "id": "c19FE",
+        "label": "CHAPTER 40",
+        "words": 2334
+      },
+      {
+        "id": "c19FN",
+        "label": "CHAPTER 41",
+        "words": 1556
+      },
+      {
+        "id": "c19FW",
+        "label": "CHAPTER 42",
+        "words": 2434
+      },
+      {
+        "id": "c19G3",
+        "label": "CHAPTER 43",
+        "words": 2095
+      },
+      {
+        "id": "c19GA",
+        "label": "CHAPTER 44",
+        "words": 3773
+      },
+      {
+        "id": "c19GH",
+        "label": "CHAPTER 45",
+        "words": 1205
+      },
+      {
+        "id": "c19GS",
+        "label": "CHAPTER 46",
+        "words": 827
+      },
+      {
+        "id": "c19GZ",
+        "label": "CHAPTER 47",
+        "words": 1326
+      },
+      {
+        "id": "c19H6",
+        "label": "CHAPTER 48",
+        "words": 2902
+      },
+      {
+        "id": "c19HD",
+        "label": "CHAPTER 49",
+        "words": 1922
+      },
+      {
+        "id": "c19HM",
+        "label": "CHAPTER 50",
+        "words": 1519
+      },
+      {
+        "id": "c19HV",
+        "label": "CHAPTER 51",
+        "words": 2481
+      },
+      {
+        "id": "c19J2",
+        "label": "CHAPTER 52",
+        "words": 1994
+      },
+      {
+        "id": "c19J9",
+        "label": "CHAPTER 53",
+        "words": 1438
+      },
+      {
+        "id": "c19JG",
+        "label": "CHAPTER 54",
+        "words": 4628
+      },
+      {
+        "id": "c19JR",
+        "label": "CHAPTER 55",
+        "words": 1555
+      },
+      {
+        "id": "c19JY",
+        "label": "CHAPTER 56",
+        "words": 2670
+      },
+      {
+        "id": "c19K5",
+        "label": "CHAPTER 57",
+        "words": 2073
+      },
+      {
+        "id": "c19KC",
+        "label": "CHAPTER 58",
+        "words": 1402
+      },
+      {
+        "id": "c19KK",
+        "label": "CHAPTER 59",
+        "words": 690
+      },
+      {
+        "id": "c19KU",
+        "label": "CHAPTER 60",
+        "words": 1328
+      },
+      {
+        "id": "c19M1",
+        "label": "CHAPTER 61",
+        "words": 1246
+      },
+      {
+        "id": "c19M8",
+        "label": "CHAPTER 62",
+        "words": 1236
+      },
+      {
+        "id": "c19MF",
+        "label": "CHAPTER 63",
+        "words": 1456
+      },
+      {
+        "id": "c19MP",
+        "label": "CHAPTER 64",
+        "words": 1845
+      },
+      {
+        "id": "c19MX",
+        "label": "CHAPTER 65",
+        "words": 1422
+      },
+      {
+        "id": "c19N4",
+        "label": "CHAPTER 66",
+        "words": 1077
+      },
+      {
+        "id": "c19NB",
+        "label": "CHAPTER 67",
+        "words": 2115
+      },
+      {
+        "id": "c19NJ",
+        "label": "CHAPTER 68",
+        "words": 977
+      },
+      {
+        "id": "c19NT",
+        "label": "CHAPTER 69",
+        "words": 310
+      },
+      {
+        "id": "c19P0",
+        "label": "CHAPTER 70",
+        "words": 1656
+      },
+      {
+        "id": "c19P7",
+        "label": "CHAPTER 71",
+        "words": 568
+      },
+      {
+        "id": "c19PE",
+        "label": "CHAPTER 72",
+        "words": 1322
+      },
+      {
+        "id": "c19PN",
+        "label": "CHAPTER 73",
+        "words": 1445
+      },
+      {
+        "id": "c19PW",
+        "label": "CHAPTER 74",
+        "words": 690
+      },
+      {
+        "id": "c19R3",
+        "label": "CHAPTER 75",
+        "words": 702
+      },
+      {
+        "id": "c19RA",
+        "label": "CHAPTER 76",
+        "words": 1854
+      },
+      {
+        "id": "c19RH",
+        "label": "CHAPTER 77",
+        "words": 1495
+      },
+      {
+        "id": "c19RS",
+        "label": "CHAPTER 78",
+        "words": 479
+      },
+      {
+        "id": "c19RZ",
+        "label": "CHAPTER 79",
+        "words": 1928
+      },
+      {
+        "id": "c19S6",
+        "label": "CHAPTER 80",
+        "words": 1915
+      },
+      {
+        "id": "c19SD",
+        "label": "CHAPTER 81",
+        "words": 1927
+      },
+      {
+        "id": "c19SM",
+        "label": "CHAPTER 82",
+        "words": 1142
+      },
+      {
+        "id": "c19SV",
+        "label": "CHAPTER 83",
+        "words": 1230
+      },
+      {
+        "id": "c19T2",
+        "label": "CHAPTER 84",
+        "words": 1073
+      },
+      {
+        "id": "c19T9",
+        "label": "CHAPTER 85",
+        "words": 2286
+      },
+      {
+        "id": "c19TG",
+        "label": "CHAPTER 86",
+        "words": 327
+      },
+      {
+        "id": "c19TR",
+        "label": "CHAPTER 87",
+        "words": 380
+      },
+      {
+        "id": "c19TY",
+        "label": "CHAPTER 88",
+        "words": 2300
+      },
+      {
+        "id": "c19U5",
+        "label": "CHAPTER 89",
+        "words": 1615
+      },
+      {
+        "id": "c19UC",
+        "label": "CHAPTER 90",
+        "words": 1701
+      },
+      {
+        "id": "c19UK",
+        "label": "CHAPTER 91",
+        "words": 568
+      }
+    ]
+  }
+]

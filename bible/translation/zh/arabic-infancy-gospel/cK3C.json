@@ -1,0 +1,18 @@
+{
+  "book_id": "arabic-infancy-gospel",
+  "unit_id": "cK3C",
+  "source_sha256": "31ff5a70d28d0f0a88b7c2c7e4c92b44115dc12c2c1f2e78733e5fe3524a8323",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "阿拉伯婴孩福音"
+    },
+    {
+      "id": "p0002",
+      "zh": "《阿拉伯婴孩福音》源于一部更早以叙利亚文写成、题为《童女史》的作品，可能早在六世纪就由叙利亚文译出。它大量取材于《多马婴孩福音》。"
+    }
+  ],
+  "references": [],
+  "notes": []
+}

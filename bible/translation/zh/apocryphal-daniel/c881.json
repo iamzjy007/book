@@ -1,0 +1,16 @@
+{
+  "book_id": "apocryphal-daniel",
+  "unit_id": "c881",
+  "source_sha256": "32d0caebed72078843943d6e6b91636b30bc38a17d06da7716274431524cbc3a",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第一部分：亚撒利雅祷告与三圣童之歌"
+    }
+  ],
+  "references": [
+    "参考TXT行32126，标题近似；按英文保留“三圣童”。"
+  ],
+  "notes": []
+}

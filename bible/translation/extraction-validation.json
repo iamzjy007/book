@@ -1,0 +1,6 @@
+{
+  "source_sha256": "160da969e03e36ee4358982e1ae3ea6710f17941b540c1c21155f6330bdce9c6",
+  "units_checked": 1821,
+  "mismatches": [],
+  "method": "Compare all original body text to extracted blocks after removing numeric chapter navigation and normalizing whitespace."
+}

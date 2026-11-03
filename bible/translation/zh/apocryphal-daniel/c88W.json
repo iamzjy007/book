@@ -1,0 +1,16 @@
+{
+  "book_id": "apocryphal-daniel",
+  "unit_id": "c88W",
+  "source_sha256": "924f80794e4eefbc9fdd9fa687792d1ff657f4c6075d93fab11a2610def6d987",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第三部分：彼勒与大龙"
+    }
+  ],
+  "references": [
+    "参考TXT行32460同名作品。"
+  ],
+  "notes": []
+}

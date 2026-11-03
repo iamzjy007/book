@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cACD",
+  "source_sha256": "fedbebdb191e539258120ad6576ffa3886114a4e0d7d90778ccc8295576bb5fc",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与利亚的第六个儿子西布伦的遗训"
+    }
+  ],
+  "references": [
+    "基督教典外文献（共10册）_手机版.txt，19357—19393行，西布伦遗训；按英文独立分节，保留双方括号编辑标记。"
+  ],
+  "notes": []
+}

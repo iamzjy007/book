@@ -1,0 +1,16 @@
+{
+  "book_id": "1-enoch",
+  "unit_id": "cBHX",
+  "source_sha256": "5f30f393bd5e947c79f2073de1674f8e317acf9d5e1c8c5d510559c97bdcdaa5",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第二部：以诺比喻书"
+    }
+  ],
+  "references": [
+    "英文版分部标题；对应中文参考第5章【旧1】以诺一书（37—71）。"
+  ],
+  "notes": []
+}

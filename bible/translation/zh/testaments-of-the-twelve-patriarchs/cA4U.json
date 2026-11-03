@@ -1,0 +1,16 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "cA4U",
+  "source_sha256": "380710b302815274bb448351a25fab9ed8501c277df9dee01ac92a67ba52e4c2",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "雅各与利亚的第四子犹大遗训"
+    }
+  ],
+  "references": [
+    "基督教典外文献（共10册）_手机版.txt：十二族长遗训，犹大遗训卷首（19147行）。参考专名、训诲用语；内容及双括注按英文底本。"
+  ],
+  "notes": []
+}

@@ -1,0 +1,24 @@
+{
+  "book_id": "testaments-of-the-twelve-patriarchs",
+  "unit_id": "c9Y3",
+  "source_sha256": "d1f20a578e52fade0e6aa0fb265a5069ad8fb0c0e32e7a69cb39f00fd765524d",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第七章"
+    },
+    {
+      "id": "p0002",
+      "zh": "流便将这些话吩咐儿子们以后，就死了。"
+    },
+    {
+      "id": "p0003",
+      "zh": "他们将他安放在棺木里，后来从埃及把他抬上去，葬在希伯仑，就是埋葬他父亲的洞中。"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：18845—18881（流便遗训）；参考措辞，内容及分节依英文。"
+  ],
+  "notes": []
+}

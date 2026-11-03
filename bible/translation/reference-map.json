@@ -1,0 +1,37 @@
+{
+  "source_priority": "English EPUB controls content and numbering; Chinese references inform wording, never override variants.",
+  "files": [
+    {
+      "name": "基督教典外文献（共10册）_手机版.txt",
+      "sha256": "4d45e6cc4308e9314e599c8f67ec21a071715205112cd8595abb0e83910176a3"
+    },
+    {
+      "name": "18黑马牧人书.txt",
+      "sha256": "11c4ce60d65e6a84dc3a8adb392a2726092903df1a66d426ae0343f32819be9f"
+    }
+  ],
+  "mappings": [
+    {
+      "book_id": "apocryphal-esther",
+      "reference": "基督教典外文献（共10册）_手机版.txt",
+      "location": "第152章【旧5】卷3 以斯帖补篇；行22317—22553",
+      "status": "matched_and_used",
+      "notes": [
+        "参考本将补篇插入正典情节；本次只翻译英文版十一至十六章，不加入参考本中的正典段落。",
+        "英文十一1位于卷首，参考本放在篇末。",
+        "英文十五1—19与参考十五1—16有错位，前三节劝告另见参考四8。",
+        "英文十六10的孤立 I 疑为重大笔误，已按说话者上下文修正并说明。",
+        "参考本有眶珥、未底改、十三月等录入或版本问题，不机械照抄。"
+      ]
+    },
+    {
+      "book_id": "the-shepherd-of-hermas",
+      "reference": "18黑马牧人书.txt",
+      "location": "独立全文",
+      "status": "candidate_not_aligned",
+      "notes": [
+        "已查看开头，待翻译到此卷时逐章对照；不能因同名就当作全篇已匹配。"
+      ]
+    }
+  ]
+}

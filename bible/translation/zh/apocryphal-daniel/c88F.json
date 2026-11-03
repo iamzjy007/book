@@ -1,0 +1,16 @@
+{
+  "book_id": "apocryphal-daniel",
+  "unit_id": "c88F",
+  "source_sha256": "48b53cad26ec0ac6ce54780f47edeedbf12e14a2d734468912a09a1787312d59",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第二部分：苏珊娜与长老"
+    }
+  ],
+  "references": [
+    "参考TXT行32404标题“苏珊娜传”；按本版标题完整译出。"
+  ],
+  "notes": []
+}

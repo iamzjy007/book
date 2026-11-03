@@ -1,0 +1,24 @@
+{
+  "book_id": "apostolic-church-order",
+  "unit_id": "cGAF",
+  "source_sha256": "494a802ba31a3f31569f789c4ebd9f5ee4951be71fdbb5b8f8141d81c301fb0e",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第五章"
+    },
+    {
+      "id": "p0002",
+      "zh": "马太说：“凡你不愿别人向你所行的，也不可向别人行。"
+    },
+    {
+      "id": "p0003",
+      "zh": "彼得弟兄，请你传讲这些话的教训。”"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》与reference-map，未找到本书对应中文全文；依英文底本逐块翻译，与新约及十二使徒遗训相近处仅借鉴通行中文措辞。"
+  ],
+  "notes": []
+}

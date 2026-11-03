@@ -1,0 +1,20 @@
+{
+  "book_id": "epistle-of-the-apostles",
+  "unit_id": "cG26",
+  "source_sha256": "efc6c576f2d1c60b67bac41f5eb767002cf5125d95b7fe5d7f7f608aed653fc9",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第二十三章"
+    },
+    {
+      "id": "p0002",
+      "zh": "我们又对祂说：“主啊，我们必须向祢求问，因为祢吩咐我们传道。我们要亲自从祢那里确实学会，好作于人有益的传道者，使受我们教导的人可以信祢。因此，我们实在必须向祢求问。”"
+    }
+  ],
+  "references": [
+    "已检索《基督教典外文献（共10册）_手机版.txt》的使徒书信、使徒们的书信、使徒的书信、Epistula及Cerinthus等名称，未找到对应正文；本单元依据英文EPUB独立翻译。"
+  ],
+  "notes": []
+}
