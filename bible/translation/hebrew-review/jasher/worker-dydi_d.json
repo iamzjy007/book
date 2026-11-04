@@ -1,0 +1,55 @@
+{
+  "worker": "dydi_d",
+  "assigned_chapters": [
+    70,
+    91
+  ],
+  "completed": [
+    43,
+    44,
+    45,
+    46,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91
+  ],
+  "current_chapter": null,
+  "status": "completed",
+  "last_completed_evidence": {
+    "1987": [
+      165,
+      166,
+      167
+    ],
+    "1625": [
+      177,
+      178,
+      179
+    ]
+  },
+  "additional_assignment": [
+    43,
+    44,
+    45,
+    46
+  ]
+}

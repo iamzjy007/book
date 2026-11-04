@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "path": "bible/原文/雅煞珥书/1987年耶路撒冷版希伯来文.pdf",
+      "sha256": "35aa3d48ea2560a710fb089640be6d45403bf35fe1069067e293d1f58bac378a",
+      "pages": 296,
+      "role": "working_base"
+    },
+    {
+      "path": "bible/原文/雅煞珥书/1625年威尼斯版希伯来文.pdf",
+      "sha256": "983e91a32421036a86f8528e57c0fc6654ebdef9eabebe1661abad16dc9f1856",
+      "pages": 314,
+      "role": "collation"
+    }
+  ],
+  "comparison_path": "bible/原文/雅煞珥书/比较.txt",
+  "comparison_sha256": "c782f15ed148d2ab4559484263c2d37e57d42f33aff1303359575436f4e00296",
+  "style_path": "style-guide.md",
+  "style_sha256": "5ee40eded60dac05a02a7b10000c102c6dd8192da8014d2889414f8468e6d2fe",
+  "chinese_reference_url": "https://saphiredotblog.wordpress.com/2020/02/09/%E3%80%8A%E9%9B%85%E7%85%9E%E5%B0%94%E4%B9%A6-the-book-of-jasher%E3%80%8B%E7%AC%AC1-91%E7%AB%A0%E5%85%A8%E6%96%87/",
+  "reference_policy": "中文仅对读与措辞借鉴；不以参考替代希伯来图像，不将下载缓存入Git。",
+  "user_authorization": "全书重审完成后推送主分支；原暂缓历史教父54项全部译完后另行推送。"
+}
