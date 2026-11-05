@@ -26,6 +26,7 @@ def check():
    vs=d['verses'];assert vs and all(re.search('[\u4e00-\u9fff]',x['zh']) for x in vs),'missing Chinese'
    assert len(vs)==expected[str(n)],'incomplete chapter verse index'
    assert [x['verse'] for x in vs]==list(range(1,len(vs)+1)),'verse sequence'
+   assert not any(re.search(r'货耶和华|耶和华意|耶和华人|耶和华母|公耶和华',x['zh']) for x in vs),'suspected mechanical divine-name replacement'
    assert isinstance(d['notes'],list),'notes missing'
    assert isinstance(d['marginalia'],list),'marginalia assessment missing'
    for year,lo,hi in [('1987',15,291),('1625',16,311)]:
