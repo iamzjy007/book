@@ -1,0 +1,16 @@
+{
+  "book_id": "pontianus-3rd-century",
+  "unit_id": "c1H6G",
+  "source_sha256": "1c4d1ae86cb36c7ee816eab1580756abe9a5c43c5abc53f740b6635433003683",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "蓬提阿努斯（第三世纪）"
+    }
+  ],
+  "notes": [],
+  "references": [
+    "检索中文典外文献总集，未见本单元对应全文；依英文 EPUB 完整翻译、逐块复审，源 XHTML 无图像或表格资产。"
+  ]
+}

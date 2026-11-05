@@ -1,0 +1,20 @@
+{
+  "book_id": "fabian-3rd-century",
+  "unit_id": "c1FDA",
+  "source_sha256": "80a33429183768fc2f7642ef4e5ae5b293c6f629d9033c354ac2c6e6c79a9f05",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第三章"
+    },
+    {
+      "id": "p0002",
+      "zh": "被传讯的人，应当在对自己有审判权的法官面前申辩；若面对的不是自己正当的审判者，他若愿意，可以拒绝发言。被传讯的人每次提出上诉，都应获准宽限（induciae）。"
+    }
+  ],
+  "references": [
+    "完整读取原 EPUB XHTML，无图像资产；完成逐句对照与中文表达两轮复核。"
+  ],
+  "notes": []
+}

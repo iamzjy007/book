@@ -1,0 +1,16 @@
+{
+  "book_id": "gelasian-decree",
+  "unit_id": "cYWT",
+  "source_sha256": "5fd8c36b66874777b54ac18a4b12ca2066e1a21db2745d2174fb84c2aed0708a",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "以下为教宗达玛苏主持的罗马会议《论阐明信仰》。"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》未定位到本敕令对应全文；按英文 EPUB 翻译并核对原 XHTML 结构。列表逐项保留，不据别本增删。"
+  ],
+  "notes": []
+}

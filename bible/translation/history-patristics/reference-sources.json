@@ -1,0 +1,12 @@
+{
+  "josephus-gutenberg-2848": {
+    "url": "https://www.gutenberg.org/cache/epub/2848/pg2848.txt",
+    "retrieved": "2026-11-04",
+    "sha256": "bb2e32da8ba3adc109b7694e6a8f2f11570462af2bedd55798da70b754c6e440",
+    "purpose": "只对照约瑟夫英译疑词、疑似录入差错；本项目底本仍是用户EPUB，不能批量以参考文本替换。实际采用或确认的差异须逐处说明。",
+    "confirmed_queries": [
+      "卷六13章末abstained from the men：此公开英译也如此，不能仅因语义不顺便断言本EPUB漏了not。",
+      "卷三8章献银者about twenty years old, but under fifty：此公开英译同样如此，保留年龄描述的近似性。"
+    ]
+  }
+}

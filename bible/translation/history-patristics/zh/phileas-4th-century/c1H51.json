@@ -1,0 +1,16 @@
+{
+  "book_id": "phileas-4th-century",
+  "unit_id": "c1H51",
+  "source_sha256": "f3bc97aa059bd9a562030ba2b464b024376eb6c49612b2190b34f2af2ef367d4",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "菲勒阿斯致图穆伊斯会众的书信"
+    }
+  ],
+  "notes": [],
+  "references": [
+    "检索中文典外文献总集，未见本单元对应全文；依英文 EPUB 完整翻译、逐块复审，源 XHTML 无图像或表格资产。"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "book_id": "malchion-3rd-century",
+  "unit_id": "c1GZZ",
+  "source_sha256": "a4d14faecec2373febf128ab719bacba7d61b8101c1f1016b3f6b097c68836d7",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "马尔基翁（第三世纪）"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1GZZ.xhtml",
+      "use": "逐块完整翻译并双轮核对；已检查原始 XHTML，无图表。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索马尔基翁、玛尔基翁、马尔基安、撒摩撒他、撒摩萨他",
+      "use": "无命中，未借用不对应的中文段落。"
+    }
+  ],
+  "notes": []
+}

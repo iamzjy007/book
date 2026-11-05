@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c134Y",
+  "source_sha256": "f3b3958eaa08abe39e8133f8e5e5d7ed4daf3c00ce943f6854f9e6baae51987e",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第二十卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述二十二年间的事。从总督法杜，直到弗罗鲁。"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》发现对约瑟夫及《犹太古史》的零散引述，未见本单元相应完整段落；据英文 EPUB 翻译，核对原 XHTML 的标题、编号、长段落和无图像资产。"
+  ],
+  "notes": []
+}

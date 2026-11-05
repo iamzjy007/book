@@ -1,0 +1,16 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c14DY",
+  "source_sha256": "e94871e88600d181916ad0e5ce8c5614ceda5979ffadfb669dc1ded9a5b80296",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "希腊编年史"
+    }
+  ],
+  "references": [
+    "按用户EPUB逐块翻译王表与说明，不用现代重建年代替代。"
+  ],
+  "notes": []
+}

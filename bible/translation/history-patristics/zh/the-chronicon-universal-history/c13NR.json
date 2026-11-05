@@ -1,0 +1,14 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c13NR",
+  "source_sha256": "962e97fb666a4ab43262e42008801a82b9006bfdea148afafbf0273dc731f0c7",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "吕底亚编年史"
+    }
+  ],
+  "references": [],
+  "notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c1138",
+  "source_sha256": "fa4f9ac68a52c81e045a9c437394c2bb62b315858381eff26b64f59416cb52c3",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第七卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述四十年间的事，从扫罗之死到大卫之死。"
+    }
+  ],
+  "references": [
+    "已逐段核对英文原XHTML及资产；依本书英文独立翻译，未用《出埃及记》或《雅煞珥书》的不同叙事替换约瑟夫本文。"
+  ],
+  "notes": []
+}

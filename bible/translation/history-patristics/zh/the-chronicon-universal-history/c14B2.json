@@ -1,0 +1,20 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c14B2",
+  "source_sha256": "cdf5cf6bc9914752466a186313d4e02f8c2b2f57bde556345afba49a5d50e548",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第二十八章"
+    },
+    {
+      "id": "p0002",
+      "zh": "第二十八王朝：塞伊斯的阿米尔泰乌斯，六年。"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索优西比编年史、普世史、埃及编年、曼涅托及阿非利加努斯，未找到本批对应正文；18黑马牧人书.txt为另一独立作品，不对应本批。依英文独立翻译。"
+  ],
+  "notes": []
+}

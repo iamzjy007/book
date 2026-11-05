@@ -1,0 +1,16 @@
+{
+  "book_id": "origen-3rd-century",
+  "unit_id": "c1H0R",
+  "source_sha256": "091c13238a06bad217ab669ec04826ec4556e94687da4903a6ed7d7dc7c1fe52",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "阿非利加努斯致俄利根书：论苏撒拿的故事"
+    }
+  ],
+  "references": [
+    "已逐块核对原 EPUB XHTML；本单元无图像资产。"
+  ],
+  "notes": []
+}

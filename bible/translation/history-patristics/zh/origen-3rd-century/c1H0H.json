@@ -1,0 +1,16 @@
+{
+  "book_id": "origen-3rd-century",
+  "unit_id": "c1H0H",
+  "source_sha256": "7d178a653c3bdb49b67f079eb933b00f6faa20e57c0d2880f5dc0878c3dafcf4",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "俄利根（第三世纪）"
+    }
+  ],
+  "references": [
+    "已逐块核对原 EPUB XHTML；本单元无图像资产。"
+  ],
+  "notes": []
+}

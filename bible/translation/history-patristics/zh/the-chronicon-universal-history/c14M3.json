@@ -1,0 +1,20 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c14M3",
+  "source_sha256": "517b8afb0864b211fb2b7177ce0a2774754244da1fdfb470bbfd63ab1df8f2a7",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "希腊奥林匹亚纪年"
+    },
+    {
+      "id": "p0002",
+      "zh": "从第一届奥林匹亚赛会开始，就是伊利斯人科罗伊布斯赢得斯塔迪昂短跑的那一届，希腊年代似乎已有准确记录。在这以前，年代却按各作者自己的见解提供。"
+    }
+  ],
+  "references": [
+    "按用户EPUB逐块完整翻译，保留王表、谱系、年数和作者引文。"
+  ],
+  "notes": []
+}

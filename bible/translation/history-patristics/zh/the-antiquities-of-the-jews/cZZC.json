@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "cZZC",
+  "source_sha256": "61484bbd2c2d9854757da0fc9f179c47418d7b05dc76783137dec5e08089fa63",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第一卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述自创造世界至以撒去世，共三千八百三十三年的历史。"
+    }
+  ],
+  "references": [
+    "依据所提供EPUB独立翻译，已核全部提取段落及XHTML结构，无图表资产。"
+  ],
+  "notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c10D0",
+  "source_sha256": "2ed6d6e18f9f85bf7646166dd9041d187651aa91684c801503a7f22b86436b21",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第三卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述两年间的事：从出埃及，直到那一代人被弃绝。"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》发现对约瑟夫及《犹太古史》的零散引述，未见本单元相应完整段落；据英文 EPUB 翻译，核对原 XHTML 的标题、编号、长段落和无图像资产。"
+  ],
+  "notes": []
+}

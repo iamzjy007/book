@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c1314",
+  "source_sha256": "3481574229623ac52d94f6087cde29a774e63008e7a459cafe8a9fe24aa14b82",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第十九卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述三年半间的事，从离开巴比伦到罗马总督法杜斯时期。"
+    }
+  ],
+  "references": [
+    "已逐段核对英文原XHTML及资产；依本书英文独立翻译，未用《出埃及记》或《雅煞珥书》的不同叙事替换约瑟夫本文。"
+  ],
+  "notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c12X5",
+  "source_sha256": "ae627053fa7089371e00389cb0ba274ac51a90a697ae3d66fe5362f42f83acc6",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第十八卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "本卷记述三十二年间的事：从亚基老被放逐，到离开巴比伦。"
+    }
+  ],
+  "references": [
+    "据用户EPUB逐段完整翻译，保留作者转述、梦境言语及作者自述的层次。"
+  ],
+  "notes": []
+}

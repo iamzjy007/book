@@ -1,0 +1,22 @@
+{
+  "book_id": "key-extrabiblical-references",
+  "unit_id": "cZK5",
+  "source_sha256": "d84f4e25c8abf112afe6fe8595db1d9828c18856b17a220ffe8a7c5a30f6e7c6",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "饥荒碑"
+    },
+    {
+      "id": "p0002",
+      "zh": "荷鲁斯名奈切里赫特在位第十八年；上下埃及之王：奈切里赫特；两女神名：奈切里赫特；金荷鲁斯名：左塞尔。当时，伯爵、王子、南方领地总督、耶布努比亚人的首领梅西尔，接到这道王命。告知你如下："
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：全文检索伊普维、伊普威、饥荒碑、Famine Stele、Ipuwer，未见对应文本，据英文独立译。"
+  ],
+  "notes": [
+    "《饥荒碑》卷首Horns依埃及王衔及后文Horus判断为Horus之误，译“荷鲁斯”；“两女神名”“金荷鲁斯名”为埃及王衔，不改作普通叙述。"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "apology-to-autolycus/cYNB/p0004": {
+    "source_sha256": "81041bfaaabfbc5321b4c15f477f331f71e57d39c145b4b2e3d5b1c6c8dc88d0",
+    "expected_marker": "30",
+    "action": "join_previous",
+    "reason": "原XHTML把430年的30误标成节号；译文上一块保留完整四百三十，此块从年继续，汇编时连接，不另输出假节号。"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c14WS",
+  "source_sha256": "ae83b73ec9c8b7ea32633353b688fcf05dc3112aeec288b68cdf79f8652ce195",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "哥林多人、斯巴达人、海上、马其顿人及帖撒利人的诸王"
+    }
+  ],
+  "references": [
+    "逐块核对英文原XHTML，无图像资产；复核竞技会249条逐届记录及各王名单，保留底本日期、数值差异、缺文和编辑补注。"
+  ],
+  "notes": []
+}

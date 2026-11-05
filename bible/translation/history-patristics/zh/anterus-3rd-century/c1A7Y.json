@@ -1,0 +1,16 @@
+{
+  "book_id": "anterus-3rd-century",
+  "unit_id": "c1A7Y",
+  "source_sha256": "82b3497f546f9cfa4aeda06df8e8a0e45716bef55af88c1eacd4f6e8be895691",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "安特鲁斯（第三世纪）"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》未找到本单元对应全文；据英文 EPUB 逐段翻译，核对 XHTML 结构及无图像资产。"
+  ],
+  "notes": []
+}

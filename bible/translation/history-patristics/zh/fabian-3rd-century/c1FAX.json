@@ -1,0 +1,17 @@
+{
+  "book_id": "fabian-3rd-century",
+  "unit_id": "c1FAX",
+  "source_sha256": "dfc1c71116dcea01de5ff224b5e43febe7fe83c2d17ff1457716cb6f161eb3d4",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "法比亚努斯（第三世纪）"
+    }
+  ],
+  "references": [
+    "中文总集检索法比、法维、法毕等未见本信对应正文；依所给英文独立翻译，常名沿项目词表。",
+    "已核原XHTML，未见额外图像表格旁注资产。"
+  ],
+  "notes": []
+}

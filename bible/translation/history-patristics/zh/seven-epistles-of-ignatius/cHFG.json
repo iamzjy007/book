@@ -1,0 +1,20 @@
+{
+  "book_id": "seven-epistles-of-ignatius",
+  "unit_id": "cHFG",
+  "source_sha256": "25f0eb34c0a7ac8a554bd1e0ffbbfa7e5900d7a3d3b19aa2a8b4f7a85a5bdef3",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第四章"
+    },
+    {
+      "id": "p0002",
+      "zh": "所以，我们不但要称为基督徒，也要实实在在作基督徒。有些人口里提着监督的名，凡事却撇开他自行其是。在我看来，这些人没有持守良善的良心，因为他们不照命令，按规矩聚集。"
+    }
+  ],
+  "references": [
+    "已检索基督教典外文献（共10册）_手机版.txt，仅见伊格那丢的提及，未见七书信对应全文；18黑马牧人书.txt为不同作品。直接依英文底本翻译。"
+  ],
+  "notes": []
+}

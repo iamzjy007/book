@@ -1,0 +1,18 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c10RP",
+  "source_sha256": "1adc5ba7d9462cb19e6bc516b827fe536ebcb3e156c48a8fb9623c1b3aefc7dd",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第五卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述摩西去世至以利去世，前后四百七十六年间的事。"
+    }
+  ],
+  "references": [],
+  "notes": []
+}

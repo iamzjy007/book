@@ -1,0 +1,20 @@
+{
+  "book_id": "pseudo-clement-3rd-century",
+  "unit_id": "c1H7N",
+  "source_sha256": "4dc429d31e35c7dfee0f2933786619dc4544ea88d99f315de8917153f1f84092",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "伪革利免第一书"
+    },
+    {
+      "id": "p0002",
+      "zh": "使徒彼得的门徒、有福的革利免所写的第一封信。"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》未见此组致守贞者书信的对应中文；依所给英文逐段独立翻译。"
+  ],
+  "notes": []
+}

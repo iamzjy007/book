@@ -1,0 +1,16 @@
+{
+  "book_id": "julius-africanus-3rd-century",
+  "unit_id": "c1GYD",
+  "source_sha256": "b05de193edfcdd11ccb3bc525d30ab259134ce0ae4121042fcaa5d74b8fdcb28",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "致阿里斯提德书"
+    }
+  ],
+  "references": [
+    "已逐块核对原 EPUB XHTML；本单元无图像资产。"
+  ],
+  "notes": []
+}

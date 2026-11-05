@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c11MC",
+  "source_sha256": "9dfa65d9eff8ab1e094e9c02d3c7997d97228ed8fcc0e5e58b409fe90cae3f64",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第十卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述一百八十二年半间的事，从十个支派被掳，到古列元年。"
+    }
+  ],
+  "references": [
+    "已检索《基督教典外文献（共10册）_手机版.txt》有关约瑟夫与《犹太古史》的条目（约47180行起），该处为晚期人物记述与导论，无当前章节的完整对应；本单元独立据英文翻译。已核原XHTML的段落、编号与资产，正文无图像。"
+  ],
+  "notes": []
+}

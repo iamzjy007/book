@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c12KP",
+  "source_sha256": "4400948adcfb2919f6b8c0a904092a00003837e357b39d74945a0008171fb226",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第十六卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述十二年间的事，从希律完成圣殿，到亚历山大和亚里斯多布之死。"
+    }
+  ],
+  "references": [
+    "已逐段核对英文原XHTML及资产；依本书英文独立翻译，未用《出埃及记》或《雅煞珥书》的不同叙事替换约瑟夫本文。"
+  ],
+  "notes": []
+}

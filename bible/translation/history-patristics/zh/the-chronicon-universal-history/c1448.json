@@ -1,0 +1,24 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c1448",
+  "source_sha256": "5f7c559a7df113e5d2791f78f3d8c6390b4d707bc8dc54baedf684ac9c573b19",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第八章"
+    },
+    {
+      "id": "p0002",
+      "zh": "第八王朝：来自孟斐斯的五位王。"
+    },
+    {
+      "id": "p0003",
+      "zh": "1. 这些王合共在位一百年。"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索优西比编年史、普世史、埃及编年、曼涅托及阿非利加努斯，未找到本批对应正文；18黑马牧人书.txt为另一独立作品，不对应本批。依英文独立翻译。"
+  ],
+  "notes": []
+}

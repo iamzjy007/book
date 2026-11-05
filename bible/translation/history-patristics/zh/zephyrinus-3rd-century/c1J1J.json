@@ -1,0 +1,16 @@
+{
+  "book_id": "zephyrinus-3rd-century",
+  "unit_id": "c1J1J",
+  "source_sha256": "6c3fccec67f8a6eeee248b1e2bb8313b40fd5ab03b322eb8890fa3fd5eb8de17",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "泽菲里努斯（第三世纪）"
+    }
+  ],
+  "references": [
+    "中文总集检索泽菲、则斐、Zephyrinus未见对应正文；依英文独立翻译，作者名沿项目《教会史》泽菲里努斯。"
+  ],
+  "notes": []
+}

@@ -1,0 +1,16 @@
+{
+  "book_id": "the-ecclesiastical-history",
+  "unit_id": "c15C2",
+  "source_sha256": "11b7cdb72fd5cf2a47d100b7524fa3682dfcd44ae65d9457e8b109095b00e022",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第一卷"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索优西比乌及教会历史1:2、1:3；第43155—43308、44071—44113行为其他作品引述，未找到卷一1—3章对应完整参考。沿用优西比乌常名，正文依英文独立翻译。"
+  ],
+  "notes": []
+}

@@ -1,0 +1,16 @@
+{
+  "book_id": "cyprian-3rd-century",
+  "unit_id": "c1EM2",
+  "source_sha256": "fc99c5bc608301473b8c7c96d6028b0a3805489a442a216319cb4338d3d96b4c",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "居普良（第三世纪）"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》未找到本单元对应全文；据英文 EPUB 逐段翻译，核对 XHTML 结构及无图像资产。"
+  ],
+  "notes": []
+}

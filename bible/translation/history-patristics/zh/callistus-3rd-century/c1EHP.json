@@ -1,0 +1,16 @@
+{
+  "book_id": "callistus-3rd-century",
+  "unit_id": "c1EHP",
+  "source_sha256": "0fe4398d281947e04aa0c911f01e7e3c2a03aa572d32c081286b190ae5b3f7e9",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "卡利斯图斯（三世纪）"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》未找到对应书信；依所给英文独立翻译。"
+  ],
+  "notes": []
+}

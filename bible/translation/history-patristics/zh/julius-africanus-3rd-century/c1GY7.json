@@ -1,0 +1,16 @@
+{
+  "book_id": "julius-africanus-3rd-century",
+  "unit_id": "c1GY7",
+  "source_sha256": "9fd20768b5a44fba430e78ad62d387e20c5cb714f5fae4acbd068465aa793e05",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "尤利乌斯·阿非利加努斯（第三世纪）"
+    }
+  ],
+  "references": [
+    "已逐块核对原 EPUB XHTML；本单元无图像资产。"
+  ],
+  "notes": []
+}

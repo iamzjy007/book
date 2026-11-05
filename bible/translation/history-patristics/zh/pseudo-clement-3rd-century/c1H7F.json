@@ -1,0 +1,16 @@
+{
+  "book_id": "pseudo-clement-3rd-century",
+  "unit_id": "c1H7F",
+  "source_sha256": "d9a2763f458e54934243261018c7e5d619e6e3ca516e722118ea387b83b1d1d6",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "伪革利免（三世纪）"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》未见此组致守贞者书信的对应中文；依所给英文逐段独立翻译。"
+  ],
+  "notes": []
+}

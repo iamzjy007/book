@@ -1,0 +1,21 @@
+{
+  "book_id": "fabian-3rd-century",
+  "unit_id": "c1FB3",
+  "source_sha256": "aefff9e641c3447e66dbc178f64a5eb04516fc65b3dfe44de82d00b06a67ca80",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第一封书信：致大公教会一切服事者"
+    },
+    {
+      "id": "p0002",
+      "zh": "法比亚努斯在主里向各地大公教会中同尽职事的亲爱弟兄们问安。"
+    }
+  ],
+  "references": [
+    "中文总集检索法比、法维、法毕等未见本信对应正文；依所给英文独立翻译，常名沿项目词表。",
+    "已核原XHTML，未见额外图像表格旁注资产。"
+  ],
+  "notes": []
+}

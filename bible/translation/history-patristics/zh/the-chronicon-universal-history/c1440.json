@@ -1,0 +1,24 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c1440",
+  "source_sha256": "6aa3232c854a357ce1b7d1350aded501801ebcbda7f3f1b6d30f40eb59a31d3b",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第七章"
+    },
+    {
+      "id": "p0002",
+      "zh": "第七王朝：来自孟斐斯的五位王。"
+    },
+    {
+      "id": "p0003",
+      "zh": "1. 这些王合共在位七十五年。"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索优西比编年史、普世史、埃及编年、曼涅托及阿非利加努斯，未找到本批对应正文；18黑马牧人书.txt为另一独立作品，不对应本批。依英文独立翻译。"
+  ],
+  "notes": []
+}

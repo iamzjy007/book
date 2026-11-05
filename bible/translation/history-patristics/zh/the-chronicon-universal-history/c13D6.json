@@ -1,0 +1,20 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c13D6",
+  "source_sha256": "dbc1e28c7aea7fcd52de6bd4bd5d3f6c19aa569ccece334eac97c08f3e046376",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "迦勒底编年史"
+    },
+    {
+      "id": "p0002",
+      "zh": "迦勒底人怎样编录〔自己的过去〕：取自亚历山大·波利希斯托，论他们的著作及最初的王国。"
+    }
+  ],
+  "references": [
+    "逐块核对所分配英文原XHTML，无图像资产；独立翻译并复核原文数字、不同史家的异名、引文及方括号补文，未以圣经或现代年代取代底本叙述。"
+  ],
+  "notes": []
+}

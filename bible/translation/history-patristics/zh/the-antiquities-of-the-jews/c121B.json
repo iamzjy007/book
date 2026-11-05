@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c121B",
+  "source_sha256": "200a749fe0da9f19a1dda0f16e93b02189ba7d200cf93cd79df47808618dd0bf",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第十三卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述八十二年间的事。从犹大·马加比去世，直到亚历山德拉女王去世。"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》发现对约瑟夫及《犹太古史》的零散引述，未见本单元相应完整段落；据英文 EPUB 翻译，核对原 XHTML 的标题、编号、长段落和无图像资产。"
+  ],
+  "notes": []
+}

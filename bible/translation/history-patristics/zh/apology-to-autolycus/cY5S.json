@@ -1,0 +1,16 @@
+{
+  "book_id": "apology-to-autolycus",
+  "unit_id": "cY5S",
+  "source_sha256": "464fe500f2ee2f7838ee4f10ff27f4b25bc4323af50c7e97aba70673bcf3a924",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第二卷"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索奥托吕、奥托利、提阿非罗、Theophilus、Autolycus；仅见他篇人名及第51686行对安提阿提阿非罗的间接提及，未见本书对应正文。依英文独立翻译。"
+  ],
+  "notes": []
+}

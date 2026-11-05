@@ -1,0 +1,29 @@
+{
+  "book_id": "serapion-of-antioch-2nd-to-3rd-centuries",
+  "unit_id": "c1HWD",
+  "source_sha256": "4d4b1b55009a68ad1f56e887dd509fac76b30b4c04012477ddf27b8c711cb165",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "摘自致卡里库斯和庞提库斯的书信"
+    },
+    {
+      "id": "p0002",
+      "zh": "为使你们也看见，这个被称为“新预言”的说谎团伙，其行径为普天下全体弟兄所憎恶，我将那极蒙福、曾被立为亚细亚希拉波立监督的革老丢·阿波利纳里乌斯的书信，寄给你们。"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1HWD.xhtml",
+      "use": "核原始 XHTML，无图表；全文翻译双审。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索塞拉皮翁、撒拉皮翁、撒拉比翁、撒拉皮安",
+      "use": "无命中，未套用其他文献。"
+    }
+  ],
+  "notes": []
+}

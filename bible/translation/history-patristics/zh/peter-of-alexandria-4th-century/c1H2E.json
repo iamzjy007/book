@@ -1,0 +1,16 @@
+{
+  "book_id": "peter-of-alexandria-4th-century",
+  "unit_id": "c1H2E",
+  "source_sha256": "40df943e919c373e11ab496a485b7c26d063de0a6b61f1d8f4b67e3bd8795f9c",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "亚历山大的彼得（第四世纪）"
+    }
+  ],
+  "references": [
+    "已逐块核对原 EPUB XHTML；本单元无图像资产。"
+  ],
+  "notes": []
+}

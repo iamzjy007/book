@@ -1,0 +1,16 @@
+{
+  "book_id": "discourses-of-melito",
+  "unit_id": "cXN8",
+  "source_sha256": "bfa8e8e197f6b7b3541fe56ca8044ff99761d13110b84cc673e73d7a7280cc96",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "选自《论灵魂与身体》。"
+    }
+  ],
+  "references": [
+    "检索《基督教典外文献（共10册）_手机版.txt》的 Melito 及常见中文音译，未定位到本作对应译文；据英文 EPUB 本单元逐段翻译，并核对 XHTML 段落结构。"
+  ],
+  "notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c145N",
+  "source_sha256": "c3e8a305c44565f439aebe9147d48e3f33a8d005fba3add512b43a866fadc2da",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第十三章"
+    },
+    {
+      "id": "p0002",
+      "zh": "第十三王朝：狄奥斯波利斯的六十位王，统治四百五十三年。"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索优西比编年史、普世史、埃及编年、曼涅托及阿非利加努斯，未找到本批对应正文；18黑马牧人书.txt为另一独立作品，不对应本批。依英文独立翻译。"
+  ],
+  "notes": []
+}

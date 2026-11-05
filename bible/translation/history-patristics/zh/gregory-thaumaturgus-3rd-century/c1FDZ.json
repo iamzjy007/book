@@ -1,0 +1,25 @@
+{
+  "book_id": "gregory-thaumaturgus-3rd-century",
+  "unit_id": "c1FDZ",
+  "source_sha256": "02ac2bf4e4ad860250d15553410ddad9d21eb81a825bac9cf943589d59f24921",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "行奇事者格列高利（第三世纪）"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1FDZ.xhtml",
+      "use": "完整逐块翻译、两轮复审，核对原 XHTML 无图像图表。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索格列高利、贵格利、额我略、教规书信；49902—49966行",
+      "use": "命中为图尔的贵格利所述安德烈行传，并非本作者或本书，未用作对应译本。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c140U",
+  "source_sha256": "887a527efb56c1644c3e7da142bf803e8fd12a71db49979ba918014ab0cec28b",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "埃及编年史"
+    },
+    {
+      "id": "p0002",
+      "zh": "埃及人如何记述他们的过去，以及埃及编年怎样包括古实人和托勒密诸王在埃及及亚历山大城的统治。"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索优西比编年史、普世史、埃及编年、曼涅托及阿非利加努斯，未找到本批对应正文；18黑马牧人书.txt为另一独立作品，不对应本批。依英文独立翻译。"
+  ],
+  "notes": []
+}

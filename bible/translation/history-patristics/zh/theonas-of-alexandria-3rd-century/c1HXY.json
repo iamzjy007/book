@@ -1,0 +1,29 @@
+{
+  "book_id": "theonas-of-alexandria-3rd-century",
+  "unit_id": "c1HXY",
+  "source_sha256": "9d066eac33dd594a9337c0701515bc4d252a1ab95a1f9f44e347123a59f7e23a",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第五章"
+    },
+    {
+      "id": "p0002",
+      "zh": "负责保管御衣和皇室饰物的仆人，也不可少有殷勤和谨慎。他应把一切物件编入极为精确的目录，记下它们是什么、属什么种类、存放何处、何时收到、从谁手中收到，以及是否沾污。他要勤勉地保管这一切，经常重新检查、逐件过目，使自己更容易辨认。所有物件都应当随手可取，预备妥当；君王或上级无论询问什么，他都应当提供最清楚的说明。同时，做这一切，都要谦卑、甘心忍耐，使基督的名即使在小事上，也得着赞美。"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1HXY.xhtml",
+      "use": "逐块全文翻译与双轮复核；核原始 XHTML 无图表。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索提奥纳斯、提阿那、提奥那、Theonas",
+      "use": "无命中，未借用其他中文篇章。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,16 @@
+{
+  "book_id": "ambrose-of-milan-4th-century",
+  "unit_id": "c19VG",
+  "source_sha256": "4d3904ab2f63115f80cf3da861994cee95f713a54e65a476e28b1adf3f15d5d2",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "米兰的安布罗斯（第四世纪）"
+    }
+  ],
+  "references": [
+    "核对英文 EPUB 标题及 XHTML 结构；本单元无图像资产。"
+  ],
+  "notes": []
+}

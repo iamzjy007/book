@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c11FD",
+  "source_sha256": "193988cc233f03a18d98e7552f1b532a527e73398390bfcef6cb8cb493e383f1",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第九卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "本卷涵盖一百五十七年，自亚哈之死至十支派被掳。"
+    }
+  ],
+  "references": [
+    "核查OEBPS/c11FD.xhtml仅卷题及年代范围两块，已完整翻译，无图片或脚注。"
+  ],
+  "notes": []
+}

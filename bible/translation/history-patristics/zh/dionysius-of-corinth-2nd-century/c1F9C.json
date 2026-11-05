@@ -1,0 +1,17 @@
+{
+  "book_id": "dionysius-of-corinth-2nd-century",
+  "unit_id": "c1F9C",
+  "source_sha256": "71d6e014c30aaf77a55d046de68c5461a56a9fe49a0388934752dab9eb6297bf",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "哥林多的狄奥尼修斯（第二世纪）"
+    }
+  ],
+  "references": [
+    "中文总集检索狄奥尼修、丢尼修、哥林多，未检得对应书信正文；实际核对本项目教会史 c16UA p0012—p0014、c15YP p0010 对应引文，借鉴索特、革利免及相关措辞；具体内容以本单元英文为准。",
+    "核对原XHTML，未见额外图像表格或旁注资产。"
+  ],
+  "notes": []
+}

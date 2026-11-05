@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c1193",
+  "source_sha256": "3204581ffc6d6069ad2ba2f1c3c864e4090a918e49f31885dddfdef0be0e4044",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第八卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "本卷涵盖一百六十三年，自大卫之死至亚哈之死。"
+    }
+  ],
+  "references": [
+    "核查OEBPS/c1193.xhtml，仅含卷题和年代范围两块，均已完整翻译，无图像或脚注。"
+  ],
+  "notes": []
+}

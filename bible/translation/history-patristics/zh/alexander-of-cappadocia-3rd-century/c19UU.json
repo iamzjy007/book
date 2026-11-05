@@ -1,0 +1,16 @@
+{
+  "book_id": "alexander-of-cappadocia-3rd-century",
+  "unit_id": "c19UU",
+  "source_sha256": "8edc592de89d6776621b8a5f3815b7b552d8eceab1beaad0968d689e7017d8c5",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "加帕多家的亚历山大［第三世纪］"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索加帕多家亚历山大及相关监督，未找到本组完整书信参考。项目《教会史》c17FC、c17JE对应引文仅用于核对常名，全文仍依本组英文；c17FC年龄116与本组110不同，按各自底本保留。"
+  ],
+  "notes": []
+}

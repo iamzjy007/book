@@ -1,0 +1,25 @@
+{
+  "book_id": "serapion-of-antioch-2nd-to-3rd-centuries",
+  "unit_id": "c1HW7",
+  "source_sha256": "9ff9a0bde5bc803ca8fcef98f90b624c4399af03d0498eaa5384bf6c4dcb601f",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "安提阿的塞拉皮翁（第二至第三世纪）"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1HW7.xhtml",
+      "use": "核原始 XHTML，无图表；全文翻译双审。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索塞拉皮翁、撒拉皮翁、撒拉比翁、撒拉皮安",
+      "use": "无命中，未套用其他文献。"
+    }
+  ],
+  "notes": []
+}

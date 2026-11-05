@@ -1,0 +1,16 @@
+{
+  "book_id": "dionysius-of-alexandria-3rd-century",
+  "unit_id": "c1F6Y",
+  "source_sha256": "2f8fc3dbc1143269689d8cee38208ee22740d945a9d6eed20bb65ed64d2575c1",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "亚历山大的狄奥尼修斯（第三世纪）"
+    }
+  ],
+  "references": [
+    "已读取原 EPUB XHTML，全单元仅含作品标题，无图像资产；完成原文对应与中文两轮复核。"
+  ],
+  "notes": []
+}

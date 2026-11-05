@@ -1,0 +1,16 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c154N",
+  "source_sha256": "ff627b2823304718be908da174a740a99a936c18a4081404ca60e0c92da33b83",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "亚细亚和叙利亚诸王"
+    }
+  ],
+  "references": [
+    "已检索所供中文总集“编年史”“年代记”“普世史”及优西比乌相关词，未发现本单元对应译文；独立据用户英文EPUB译出，涉及圣经年代亦保留本书版本比较的具体数字。已核原XHTML与资产，无图像或表格。"
+  ],
+  "notes": []
+}

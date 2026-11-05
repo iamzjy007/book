@@ -1,0 +1,29 @@
+{
+  "book_id": "theonas-of-alexandria-3rd-century",
+  "unit_id": "c1HXG",
+  "source_sha256": "6a08826068e9cd248a400f76a0967d4617c1c40190d90b3f21cd05fd06fb2b68",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第三章"
+    },
+    {
+      "id": "p0002",
+      "zh": "据我所知，你们各有不同职务；卢基亚努斯，你被称为他们众人的主管，又能借基督所赐的恩典，在不同范围内指引、安排他们。因此，我相信，若我就这些职务，将自己的几点看法具体而简要地提请你留意，你不会不悦。我听说，你们中有一人管理皇帝的私财，一人管理御衣和饰物，一人管理贵重器皿，一人管理书籍——据我所知，这人尚未加入信徒之中——其余人则分管不同的宫廷物品。照我看来，这些职责当怎样履行，以下我就略说几句。"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1HXG.xhtml",
+      "use": "逐块全文翻译与双轮复核；核原始 XHTML 无图表。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索提奥纳斯、提阿那、提奥那、Theonas",
+      "use": "无命中，未借用其他中文篇章。"
+    }
+  ],
+  "notes": []
+}

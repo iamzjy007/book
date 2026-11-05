@@ -1,0 +1,31 @@
+{
+  "book_id": "theonas-of-alexandria-3rd-century",
+  "unit_id": "c1HY5",
+  "source_sha256": "42e13c1ee12dda666c860ea417ca53e6e0fd333c8d4d189eb19eab4e90d79962",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第六章"
+    },
+    {
+      "id": "p0002",
+      "zh": "凭忠信受托保管金、银、水晶或穆拉石所制饮食器皿的人，也当这样行。他应当将一切妥善安置，为每件物品留下记录，并殷勤清点其中镶嵌多少宝石、各属什么种类。他应当极其谨慎地检查所有器皿，在适当的地方和场合取出使用；又要格外小心，记明把器皿交给谁、何时交出、从谁那里收回，免得发生差错，招来有害的猜疑，或使贵重物品遭受重大损失。"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1HY5.xhtml",
+      "use": "逐块全文翻译与双轮复核；核原始 XHTML 无图表。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索提奥纳斯、提阿那、提奥那、Theonas",
+      "use": "无命中，未借用其他中文篇章。"
+    }
+  ],
+  "notes": [
+    "p0002 murra 指古代贵重器皿所用的一种材料，具体材质有争议，保留音译“穆拉石”，不擅定为玛瑙或萤石。"
+  ]
+}

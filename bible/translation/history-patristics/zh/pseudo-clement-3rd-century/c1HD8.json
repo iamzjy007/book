@@ -1,0 +1,29 @@
+{
+  "book_id": "pseudo-clement-3rd-century",
+  "unit_id": "c1HD8",
+  "source_sha256": "cd8e1a5db2df12e8c2de2d654833d0eda4ec1aa085639d60549389c3db3c74d6",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第十二章：所罗门因女子而迷失"
+    },
+    {
+      "id": "p0002",
+      "zh": "你们没有读过大卫的儿子所罗门的历史吗？神赐给他智慧、知识、宽广的心，以及财富和极大的荣耀，超过众人。然而，就是这个人，因女子而败坏，离弃了主。"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1HD8.xhtml",
+      "use": "完整逐块翻译、双轮复核，检查原始 XHTML 无图表。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索革利免、克莱门、克里门等；命中 44071—44395、46630 等行",
+      "use": "相关命中为亚历山大革利免引用的诗歌残篇等，并非本书对应段落，未借用其内容。"
+    }
+  ],
+  "notes": []
+}

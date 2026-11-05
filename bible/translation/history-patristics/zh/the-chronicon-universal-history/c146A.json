@@ -1,0 +1,20 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c146A",
+  "source_sha256": "26ef9493e0d47fb2bb5658635d92bf215116b8fd84d705cab944abca7f92d435",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第十六章"
+    },
+    {
+      "id": "p0002",
+      "zh": "第十六王朝：底比斯的五位王，统治一百九十年。"
+    }
+  ],
+  "references": [
+    "bible/基督教典外文献（共10册）_手机版.txt：检索优西比编年史、普世史、埃及编年、曼涅托及阿非利加努斯，未找到本批对应正文；18黑马牧人书.txt为另一独立作品，不对应本批。依英文独立翻译。"
+  ],
+  "notes": []
+}

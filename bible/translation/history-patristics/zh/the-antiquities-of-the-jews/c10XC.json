@@ -1,0 +1,20 @@
+{
+  "book_id": "the-antiquities-of-the-jews",
+  "unit_id": "c10XC",
+  "source_sha256": "0a14f69c8cbb7c860d16d4ba4a1bec0bba1d61a77172701f6afd8e2a251665ef",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第六卷"
+    },
+    {
+      "id": "p0002",
+      "zh": "记述三十二年间的事，从以利之死到扫罗之死。"
+    }
+  ],
+  "references": [
+    "已逐段核对英文原XHTML及资产；依本书英文独立翻译，未用《出埃及记》或《雅煞珥书》的不同叙事替换约瑟夫本文。"
+  ],
+  "notes": []
+}

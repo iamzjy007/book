@@ -1,0 +1,25 @@
+{
+  "book_id": "theonas-of-alexandria-3rd-century",
+  "unit_id": "c1HWU",
+  "source_sha256": "b6d693092350caab8fe971b2ddfa41b5b5f2cbf1edc476c66d45ec4e1fd06d86",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "提奥纳斯书信"
+    }
+  ],
+  "references": [
+    {
+      "source": "The Ultimate Ethiopian Bible in English.epub",
+      "location": "OEBPS/c1HWU.xhtml",
+      "use": "逐块全文翻译与双轮复核；核原始 XHTML 无图表。"
+    },
+    {
+      "source": "基督教典外文献（共10册）_手机版.txt",
+      "location": "检索提奥纳斯、提阿那、提奥那、Theonas",
+      "use": "无命中，未借用其他中文篇章。"
+    }
+  ],
+  "notes": []
+}

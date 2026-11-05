@@ -1,0 +1,16 @@
+{
+  "book_id": "jerome-4th-to-5th-centuries",
+  "unit_id": "c1FF1",
+  "source_sha256": "3bc7b6c2840c55d8badd315fa05e26a2f134144331639e63958a8b9c6732eb9a",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "耶柔米（第四至第五世纪）"
+    }
+  ],
+  "references": [
+    "沿项目既定教父名耶柔米；已核原XHTML，仅卷首标题，无其他资产。"
+  ],
+  "notes": []
+}

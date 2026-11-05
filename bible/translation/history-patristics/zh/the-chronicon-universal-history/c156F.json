@@ -1,0 +1,16 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c156F",
+  "source_sha256": "6ac745fc6f425be8345b15990998fd5be4c76ee946d993f1336a7fd657e85b38",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "罗马人"
+    }
+  ],
+  "references": [
+    "已检索所供中文总集“编年史”“年代记”“普世史”及优西比乌相关词，未发现本单元对应译文；独立据用户英文EPUB译出，涉及圣经年代亦保留本书版本比较的具体数字。已核原XHTML与资产，无图像或表格。"
+  ],
+  "notes": []
+}

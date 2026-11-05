@@ -1,0 +1,16 @@
+{
+  "book_id": "the-ecclesiastical-history",
+  "unit_id": "c15ZE",
+  "source_sha256": "363b6212334a152b72f6cc4d152aa4e94eea518e7f63bb722d34915f12e900ed",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第三卷"
+    }
+  ],
+  "references": [
+    "按用户EPUB逐段全译；圣经人物采用通行中文名，引文不据后世清单改写。"
+  ],
+  "notes": []
+}

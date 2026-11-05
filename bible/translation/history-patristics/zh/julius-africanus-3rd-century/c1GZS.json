@@ -1,0 +1,20 @@
+{
+  "book_id": "julius-africanus-3rd-century",
+  "unit_id": "c1GZS",
+  "source_sha256": "e468c3afacd7f14733a63a9d390b7350e6e493eead818de7d89b78597a87990b",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第六章"
+    },
+    {
+      "id": "p0002",
+      "zh": "出于所罗门的马但生雅各。马但死后，出于拿单的麦基娶了同一位妻子，生希里。因此，希里和雅各是同母兄弟。希里死而无子，雅各便为他立后，生了约瑟；按血缘，约瑟是雅各自己的儿子，按律法却是希里的儿子。这样，约瑟就是两人的儿子。"
+    }
+  ],
+  "references": [
+    "已逐块核对原 EPUB XHTML；本单元无图像资产。"
+  ],
+  "notes": []
+}

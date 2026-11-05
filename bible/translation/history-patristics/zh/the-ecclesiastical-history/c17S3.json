@@ -1,0 +1,22 @@
+{
+  "book_id": "the-ecclesiastical-history",
+  "unit_id": "c17S3",
+  "source_sha256": "b4dc313c81ff8e9fe170b2629305a712846acdb1efa78a05b353e109501f6425",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第三十五章"
+    },
+    {
+      "id": "p0002",
+      "zh": "狄奥尼修斯接替赫拉克拉斯任监督。"
+    },
+    {
+      "id": "p0003",
+      "zh": "这皇帝在位第三年，赫拉克拉斯去世，任职十六年；狄奥尼修斯承接了亚历山大里亚众教会的监督职任。"
+    }
+  ],
+  "references": [],
+  "notes": []
+}

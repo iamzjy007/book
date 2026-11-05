@@ -1,0 +1,16 @@
+{
+  "book_id": "the-ecclesiastical-history",
+  "unit_id": "c16G1",
+  "source_sha256": "33b2567919542d802b242521746de15b701d80f689739fbd412cbb7ffb70e4ad",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "第四卷"
+    }
+  ],
+  "references": [
+    "已检索所供中文总集“教会史”“斐洛”等相关词，未发现本章完整对应译文；独立据用户英文EPUB逐块译出，圣经引文可借通行措辞而保留作者实际引用的内容与叙事视角。已核原XHTML与资产，无图像或表格。"
+  ],
+  "notes": []
+}

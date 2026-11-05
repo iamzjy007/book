@@ -1,0 +1,16 @@
+{
+  "book_id": "basil-of-caesarea-4th-century",
+  "unit_id": "c1DD7",
+  "source_sha256": "61510863c3d081decd20692572c1b6c279d233119baea43eb7278a7257c3e815",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "凯撒利亚的巴西流（第四世纪）"
+    }
+  ],
+  "references": [
+    "沿项目词表通行教父名Basil巴西流；检索中文典外文献总集未见对应篇目。"
+  ],
+  "notes": []
+}

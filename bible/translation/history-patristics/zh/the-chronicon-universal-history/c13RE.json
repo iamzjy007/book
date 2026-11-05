@@ -1,0 +1,14 @@
+{
+  "book_id": "the-chronicon-universal-history",
+  "unit_id": "c13RE",
+  "source_sha256": "eb350b9427f1f2325b9e815d7da9ba5984c0d2747a050fc09500cda904ada0a2",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "希伯来编年史"
+    }
+  ],
+  "references": [],
+  "notes": []
+}

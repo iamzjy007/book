@@ -1,0 +1,16 @@
+{
+  "book_id": "polycrates-of-ephesus-2nd-century",
+  "unit_id": "c1H61",
+  "source_sha256": "6acd5de8cdca93aacec35983825e54625aa41ea78f3df30b0a22f1f5176b0650",
+  "reviewed": true,
+  "blocks": [
+    {
+      "id": "p0001",
+      "zh": "以弗所的波利克拉底（第二世纪）"
+    }
+  ],
+  "notes": [],
+  "references": [
+    "检索中文典外文献总集，未见本单元对应全文；依英文 EPUB 完整翻译、逐块复审，源 XHTML 无图像或表格资产。"
+  ]
+}

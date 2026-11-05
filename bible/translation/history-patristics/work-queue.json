@@ -1,0 +1,4658 @@
+{
+  "schema": 1,
+  "tasks": [
+    {
+      "book_id": "1-clement",
+      "units": [
+        "cGMP",
+        "cGN0",
+        "cGN7",
+        "cGNE",
+        "cGNN",
+        "cGNW",
+        "cGP3",
+        "cGPA",
+        "cGPH",
+        "cGPS",
+        "cGPZ",
+        "cGR6",
+        "cGRD",
+        "cGRM",
+        "cGRV",
+        "cGS2",
+        "cGS9",
+        "cGSG",
+        "cGSR",
+        "cGSY",
+        "cGT5",
+        "cGTC",
+        "cGTK",
+        "cGTU",
+        "cGU1"
+      ],
+      "words": 5321,
+      "id": "h0001",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:23:42.383972+00:00"
+    },
+    {
+      "book_id": "1-clement",
+      "units": [
+        "cGU8",
+        "cGUF",
+        "cGUP",
+        "cGUX",
+        "cGV4",
+        "cGVB",
+        "cGVJ",
+        "cGVT",
+        "cGW0",
+        "cGW7",
+        "cGWE",
+        "cGWN",
+        "cGWW",
+        "cGX3",
+        "cGXA",
+        "cGXH",
+        "cGXS",
+        "cGXZ",
+        "cGY6",
+        "cGYD",
+        "cGYM",
+        "cGYV",
+        "cGZ2",
+        "cGZ9",
+        "cGZG",
+        "cGZR",
+        "cGZY",
+        "cH05"
+      ],
+      "words": 5440,
+      "id": "h0002",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T10:23:49.633926+00:00"
+    },
+    {
+      "book_id": "1-clement",
+      "units": [
+        "cH0C",
+        "cH0K",
+        "cH0U",
+        "cH11",
+        "cH18",
+        "cH1F",
+        "cH1P",
+        "cH1X",
+        "cH24",
+        "cH2B",
+        "cH2J",
+        "cH2T",
+        "cH30"
+      ],
+      "words": 2621,
+      "id": "h0003",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:29:33.102334+00:00"
+    },
+    {
+      "book_id": "2-clement",
+      "units": [
+        "cH37",
+        "cH3G",
+        "cH3S",
+        "cH40",
+        "cH48",
+        "cH4G",
+        "cH4S",
+        "cH50",
+        "cH58",
+        "cH5G",
+        "cH5S",
+        "cH60",
+        "cH68",
+        "cH6G",
+        "cH6S",
+        "cH70",
+        "cH78",
+        "cH7G",
+        "cH7S",
+        "cH80",
+        "cH88"
+      ],
+      "words": 4266,
+      "id": "h0004",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T10:29:47.912732+00:00"
+    },
+    {
+      "book_id": "seven-epistles-of-ignatius",
+      "units": [
+        "cH8G",
+        "cH8Z",
+        "cH98",
+        "cH9G",
+        "cH9S",
+        "cHA0",
+        "cHA8",
+        "cHAG",
+        "cHAS",
+        "cHB0",
+        "cHB8",
+        "cHBG",
+        "cHBS",
+        "cHC0",
+        "cHC8",
+        "cHCG",
+        "cHCS",
+        "cHD0",
+        "cHD8",
+        "cHDG",
+        "cHDS",
+        "cHE0",
+        "cHE8",
+        "cHEG",
+        "cHES",
+        "cHF0",
+        "cHF8",
+        "cHFG",
+        "cHFS",
+        "cHG0",
+        "cHG8",
+        "cHGG",
+        "cHGS",
+        "cHH0",
+        "cHH8",
+        "cHHG",
+        "cHHS",
+        "cHJ0",
+        "cHJ8",
+        "cHJG",
+        "cHJS",
+        "cHK1",
+        "cHK9",
+        "cHKH",
+        "cHKT",
+        "cHM1",
+        "cHM9",
+        "cHMH",
+        "cHMT",
+        "cHN1"
+      ],
+      "words": 5428,
+      "id": "h0005",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:32:16.640083+00:00"
+    },
+    {
+      "book_id": "seven-epistles-of-ignatius",
+      "units": [
+        "cHN9",
+        "cHNH",
+        "cHNT",
+        "cHP1",
+        "cHPA",
+        "cHPJ",
+        "cHPU",
+        "cHR2",
+        "cHRA",
+        "cHRJ",
+        "cHRU",
+        "cHS2",
+        "cHSA",
+        "cHSJ",
+        "cHSU",
+        "cHT2",
+        "cHTA",
+        "cHTJ",
+        "cHTU",
+        "cHU2",
+        "cHUA",
+        "cHUJ",
+        "cHUU",
+        "cHV2",
+        "cHVA",
+        "cHVJ",
+        "cHVU",
+        "cHW2",
+        "cHWA",
+        "cHWJ",
+        "cHWU",
+        "cHX2",
+        "cHXA",
+        "cHXJ",
+        "cHXU",
+        "cHY2",
+        "cHYA",
+        "cHYJ",
+        "cHYU",
+        "cHZ2",
+        "cHZA",
+        "cHZJ",
+        "cHZU"
+      ],
+      "words": 5491,
+      "id": "h0006",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T10:34:15.768414+00:00"
+    },
+    {
+      "book_id": "seven-epistles-of-ignatius",
+      "units": [
+        "cJ02",
+        "cJ0A",
+        "cJ0J",
+        "cJ0U",
+        "cJ12",
+        "cJ1A"
+      ],
+      "words": 850,
+      "id": "h0007",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:37:56.387176+00:00"
+    },
+    {
+      "book_id": "epistle-of-polycarp-to-the-philippians",
+      "units": [
+        "cJ1J",
+        "cJ1W",
+        "cJ23",
+        "cJ2A",
+        "cJ2H",
+        "cJ2S",
+        "cJ2Z",
+        "cJ36",
+        "cJ3D",
+        "cJ3M",
+        "cJ3V",
+        "cJ42",
+        "cJ49",
+        "cJ4G",
+        "cJ4P",
+        "cJ4X"
+      ],
+      "words": 2202,
+      "id": "h0008",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:39:04.553768+00:00"
+    },
+    {
+      "book_id": "martyrdom-of-polycarp",
+      "units": [
+        "cJ54",
+        "cJ5E",
+        "cJ5N",
+        "cJ5W",
+        "cJ63",
+        "cJ6A",
+        "cJ6H",
+        "cJ6S",
+        "cJ6Z",
+        "cJ76",
+        "cJ7D",
+        "cJ7M",
+        "cJ7V",
+        "cJ82",
+        "cJ89",
+        "cJ8G",
+        "cJ8R",
+        "cJ8Y",
+        "cJ95",
+        "cJ9C",
+        "cJ9K",
+        "cJ9U",
+        "cJA1"
+      ],
+      "words": 3413,
+      "id": "h0009",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T10:40:32.199035+00:00"
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "units": [
+        "cJA8",
+        "cJAH",
+        "cJAT",
+        "cJB1",
+        "cJB9",
+        "cJBH",
+        "cJBT",
+        "cJC1",
+        "cJC9",
+        "cJCH",
+        "cJCT",
+        "cJD1",
+        "cJD9"
+      ],
+      "words": 3944,
+      "id": "h0010",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:41:27.950627+00:00"
+    },
+    {
+      "book_id": "exposition-of-the-oracles-of-the-lord",
+      "units": [
+        "cJK5",
+        "cJKE"
+      ],
+      "words": 1048,
+      "id": "h0011",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T10:44:11.512874+00:00"
+    },
+    {
+      "book_id": "apology-of-aristides",
+      "units": [
+        "cJM8",
+        "cJMK",
+        "cJMV",
+        "cJN3",
+        "cJNB",
+        "cJNK",
+        "cJNV",
+        "cJP3",
+        "cJPB",
+        "cJPK",
+        "cJPV",
+        "cJR3",
+        "cJRB"
+      ],
+      "words": 4845,
+      "id": "h0012",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T10:45:21.656736+00:00"
+    },
+    {
+      "book_id": "apology-of-aristides",
+      "units": [
+        "cJRK",
+        "cJRV",
+        "cJS3",
+        "cJSB",
+        "cJSK"
+      ],
+      "words": 2314,
+      "id": "h0013",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:46:30.493735+00:00"
+    },
+    {
+      "book_id": "apology-for-christianity",
+      "units": [
+        "cJSV",
+        "cJT4"
+      ],
+      "words": 109,
+      "id": "h0014",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T10:46:49.718578+00:00"
+    },
+    {
+      "book_id": "acts-of-perpetua-and-felicitas",
+      "units": [
+        "cPNX",
+        "cPP6",
+        "cPPD",
+        "cPPP",
+        "cPR0",
+        "cPR8",
+        "cPRH"
+      ],
+      "words": 4398,
+      "id": "h0015",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T10:48:24.510063+00:00"
+    },
+    {
+      "book_id": "acts-of-perpetua-and-felicitas",
+      "units": [
+        "cPRV"
+      ],
+      "words": 1245,
+      "id": "h0016",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:48:41.966458+00:00"
+    },
+    {
+      "book_id": "first-apology",
+      "units": [
+        "cWXH",
+        "cWXU",
+        "cWY1",
+        "cWY8",
+        "cWYF",
+        "cWYP",
+        "cWYX",
+        "cWZ4",
+        "cWZB",
+        "cWZJ",
+        "cWZT",
+        "cX00",
+        "cX07",
+        "cX0E",
+        "cX0N",
+        "cX0W",
+        "cX13",
+        "cX1A",
+        "cX1H"
+      ],
+      "words": 5358,
+      "id": "h0017",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T10:49:52.712731+00:00"
+    },
+    {
+      "book_id": "first-apology",
+      "units": [
+        "cX1S",
+        "cX1Z",
+        "cX26",
+        "cX2D",
+        "cX2M",
+        "cX2V",
+        "cX32",
+        "cX39",
+        "cX3G",
+        "cX3R",
+        "cX3Y",
+        "cX45",
+        "cX4C",
+        "cX4K",
+        "cX4U",
+        "cX51",
+        "cX58",
+        "cX5F",
+        "cX5P",
+        "cX5X"
+      ],
+      "words": 5410,
+      "id": "h0018",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:50:25.928163+00:00"
+    },
+    {
+      "book_id": "first-apology",
+      "units": [
+        "cX64",
+        "cX6B",
+        "cX6J",
+        "cX6T",
+        "cX70",
+        "cX77",
+        "cX7E",
+        "cX7N",
+        "cX7W",
+        "cX83",
+        "cX8A",
+        "cX8H",
+        "cX8S",
+        "cX8Z",
+        "cX96",
+        "cX9D"
+      ],
+      "words": 5284,
+      "id": "h0019",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T10:56:29.366538+00:00"
+    },
+    {
+      "book_id": "first-apology",
+      "units": [
+        "cX9M",
+        "cX9V",
+        "cXA2",
+        "cXA9",
+        "cXAG",
+        "cXAR",
+        "cXAY",
+        "cXB5",
+        "cXBC",
+        "cXBK",
+        "cXBU",
+        "cXC1",
+        "cXC8",
+        "cXCF"
+      ],
+      "words": 4108,
+      "id": "h0020",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T10:56:40.239222+00:00"
+    },
+    {
+      "book_id": "second-apology",
+      "units": [
+        "cXCP",
+        "cXCZ",
+        "cXD6",
+        "cXDD",
+        "cXDM",
+        "cXDV",
+        "cXE2",
+        "cXE9",
+        "cXEG",
+        "cXER",
+        "cXEY",
+        "cXF5",
+        "cXFC",
+        "cXFK",
+        "cXFU",
+        "cXG1"
+      ],
+      "words": 4634,
+      "id": "h0021",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T10:56:45.053994+00:00"
+    },
+    {
+      "book_id": "apology-to-marcus-aurelius",
+      "units": [
+        "cXG8",
+        "cXGK",
+        "cXGU",
+        "cXH1",
+        "cXH8",
+        "cXHF",
+        "cXHP",
+        "cXHX",
+        "cXJ4",
+        "cXJB",
+        "cXJJ",
+        "cXJT",
+        "cXK0",
+        "cXK7",
+        "cXKE",
+        "cXKN",
+        "cXKW",
+        "cXM3",
+        "cXMA",
+        "cXMH"
+      ],
+      "words": 5145,
+      "id": "h0022",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:00:25.083496+00:00"
+    },
+    {
+      "book_id": "discourses-of-melito",
+      "units": [
+        "cXMZ",
+        "cXN8",
+        "cXNE",
+        "cXNP",
+        "cXNY",
+        "cXP5",
+        "cXPC",
+        "cXPM",
+        "cXPW",
+        "cXR4",
+        "cXRC",
+        "cXRK"
+      ],
+      "words": 3803,
+      "id": "h0023",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:02:20.122939+00:00"
+    },
+    {
+      "book_id": "a-plea-for-the-christians",
+      "units": [
+        "cXT2",
+        "cXTC",
+        "cXTN",
+        "cXTW",
+        "cXU3",
+        "cXUA",
+        "cXUK",
+        "cXUV",
+        "cXV2",
+        "cXV9",
+        "cXVG",
+        "cXVR",
+        "cXVY",
+        "cXW5",
+        "cXWD"
+      ],
+      "words": 5394,
+      "id": "h0024",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:04:25.561462+00:00"
+    },
+    {
+      "book_id": "a-plea-for-the-christians",
+      "units": [
+        "cXWN",
+        "cXWW",
+        "cXX3",
+        "cXXA",
+        "cXXK",
+        "cXXU",
+        "cXY1",
+        "cXYD",
+        "cXYP"
+      ],
+      "words": 5206,
+      "id": "h0025",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:06:33.566941+00:00"
+    },
+    {
+      "book_id": "a-plea-for-the-christians",
+      "units": [
+        "cXYX",
+        "cXZ4",
+        "cXZD",
+        "cXZN",
+        "cXZW",
+        "cY04",
+        "cY0C",
+        "cY0M",
+        "cY0V",
+        "cY12",
+        "cY19",
+        "cY1G",
+        "cY1R"
+      ],
+      "words": 5395,
+      "id": "h0026",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:07:05.659237+00:00"
+    },
+    {
+      "book_id": "a-plea-for-the-christians",
+      "units": [
+        "cY1Y"
+      ],
+      "words": 128,
+      "id": "h0027",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:07:22.026431+00:00"
+    },
+    {
+      "book_id": "apology-to-autolycus",
+      "units": [
+        "cY25",
+        "cY2G",
+        "cY2P",
+        "cY2X",
+        "cY34",
+        "cY3B",
+        "cY3J",
+        "cY3T",
+        "cY40",
+        "cY47",
+        "cY4E",
+        "cY4N",
+        "cY4W",
+        "cY53",
+        "cY5A",
+        "cY5H",
+        "cY5S",
+        "cY5Y",
+        "cY65",
+        "cY6C",
+        "cY6S"
+      ],
+      "words": 5310,
+      "id": "h0028",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:07:52.983864+00:00"
+    },
+    {
+      "book_id": "apology-to-autolycus",
+      "units": [
+        "cY6Z",
+        "cY76",
+        "cY7D",
+        "cY7M",
+        "cY7V",
+        "cY82",
+        "cY89",
+        "cY8G",
+        "cY8R",
+        "cY8Y",
+        "cY95",
+        "cY9C",
+        "cY9K"
+      ],
+      "words": 5484,
+      "id": "h0029",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:10:02.962848+00:00"
+    },
+    {
+      "book_id": "apology-to-autolycus",
+      "units": [
+        "cY9U",
+        "cYA1",
+        "cYA8",
+        "cYAF",
+        "cYAP",
+        "cYAX",
+        "cYB4",
+        "cYBB",
+        "cYBJ",
+        "cYBT",
+        "cYC0",
+        "cYC7",
+        "cYCE",
+        "cYCN",
+        "cYDF",
+        "cYDP"
+      ],
+      "words": 5464,
+      "id": "h0030",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:13:25.263356+00:00"
+    },
+    {
+      "book_id": "apology-to-autolycus",
+      "units": [
+        "cYDX",
+        "cYE4",
+        "cYEB",
+        "cYJS",
+        "cYJZ",
+        "cYK6",
+        "cYKC",
+        "cYKK",
+        "cYKU",
+        "cYM1",
+        "cYM8",
+        "cYMF",
+        "cYMP",
+        "cYMX",
+        "cYN4",
+        "cYNB"
+      ],
+      "words": 5239,
+      "id": "h0031",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:14:25.651351+00:00"
+    },
+    {
+      "book_id": "apology-to-autolycus",
+      "units": [
+        "cYNJ",
+        "cYNT",
+        "cYP0",
+        "cYP7",
+        "cYPE",
+        "cYPN",
+        "cYPW",
+        "cYR3",
+        "cYRA",
+        "cYRH",
+        "cYRS",
+        "cYRZ",
+        "cYS6",
+        "cYSD",
+        "cYSM",
+        "cYSV",
+        "cYT2",
+        "cYT9"
+      ],
+      "words": 5467,
+      "id": "h0032",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:15:09.988965+00:00"
+    },
+    {
+      "book_id": "apology-to-autolycus",
+      "units": [
+        "cYTG",
+        "cYTR"
+      ],
+      "words": 753,
+      "id": "h0033",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:15:31.714306+00:00"
+    },
+    {
+      "book_id": "discourse-concerning-hades",
+      "units": [
+        "cYTY",
+        "cYU7",
+        "cYUE",
+        "cYUN",
+        "cYUW",
+        "cYV3",
+        "cYVA",
+        "cYVH",
+        "cYVS"
+      ],
+      "words": 2063,
+      "id": "h0034",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:16:24.128127+00:00"
+    },
+    {
+      "book_id": "the-muratorian-canon",
+      "units": [
+        "cYVZ",
+        "cYW8"
+      ],
+      "words": 891,
+      "id": "h0035",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:18:17.499858+00:00"
+    },
+    {
+      "book_id": "gelasian-decree",
+      "units": [
+        "cYWG",
+        "cYWT",
+        "cYWZ",
+        "cYXF",
+        "cZ29",
+        "cZ2T",
+        "cZ4X"
+      ],
+      "words": 3027,
+      "id": "h0036",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:19:08.917890+00:00"
+    },
+    {
+      "book_id": "the-earliest-creeds",
+      "units": [
+        "cZ97"
+      ],
+      "words": 210,
+      "id": "h0037",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:19:17.935515+00:00"
+    },
+    {
+      "book_id": "the-earliest-creeds",
+      "units": [
+        "cZ9G"
+      ],
+      "words": 10670,
+      "id": "h0038",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:19:41.196402+00:00"
+    },
+    {
+      "book_id": "key-extrabiblical-references",
+      "units": [
+        "cZJ6",
+        "cZK5",
+        "cZKC",
+        "cZKK",
+        "cZKV",
+        "cZM3",
+        "cZMJ",
+        "cZN6",
+        "cZNM",
+        "cZP5",
+        "cZPP",
+        "cZRA",
+        "cZS5",
+        "cZSY",
+        "cZTH"
+      ],
+      "words": 5409,
+      "id": "h0039",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:20:26.766131+00:00"
+    },
+    {
+      "book_id": "key-extrabiblical-references",
+      "units": [
+        "cZU1",
+        "cZUG",
+        "cZUS",
+        "cZV5",
+        "cZVE",
+        "cZVN",
+        "cZVW"
+      ],
+      "words": 4007,
+      "id": "h0040",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:21:48.320213+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "cZY5",
+        "cZZ2",
+        "cZZC",
+        "cZZK",
+        "cZZY"
+      ],
+      "words": 4386,
+      "id": "h0041",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T11:21:49.483751+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1008",
+        "c100S",
+        "c1012",
+        "c101A"
+      ],
+      "words": 4985,
+      "id": "h0042",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T11:23:57.967433+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c101P",
+        "c101Z",
+        "c1029",
+        "c102H",
+        "c102X",
+        "c1039"
+      ],
+      "words": 4472,
+      "id": "h0043",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:24:39.961676+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c103M",
+        "c103Z",
+        "c1047",
+        "c104F",
+        "c104T",
+        "c1051"
+      ],
+      "words": 3890,
+      "id": "h0044",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T11:24:49.950444+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c105G",
+        "c1061",
+        "c106B",
+        "c106N",
+        "c106X",
+        "c1074"
+      ],
+      "words": 5033,
+      "id": "h0045",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:26:37.160894+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c107D",
+        "c107S",
+        "c1083"
+      ],
+      "words": 3753,
+      "id": "h0046",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:29:12.643276+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c108F"
+      ],
+      "words": 1950,
+      "id": "h0047",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:29:21.349228+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c108X"
+      ],
+      "words": 5190,
+      "id": "h0048",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T11:29:36.307292+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c109D",
+        "c109V",
+        "c10A4"
+      ],
+      "words": 4480,
+      "id": "h0049",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T11:29:59.892932+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10AJ",
+        "c10AV",
+        "c10B4",
+        "c10BF",
+        "c10BU"
+      ],
+      "words": 5292,
+      "id": "h0050",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:30:02.258719+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10C7",
+        "c10CK",
+        "c10D0",
+        "c10D7"
+      ],
+      "words": 4978,
+      "id": "h0051",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:31:16.419291+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10DN",
+        "c10E1",
+        "c10E9",
+        "c10EJ"
+      ],
+      "words": 4236,
+      "id": "h0052",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:31:36.216256+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10F1",
+        "c10FG"
+      ],
+      "words": 5205,
+      "id": "h0053",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:32:51.809722+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10FY",
+        "c10GF",
+        "c10GU"
+      ],
+      "words": 4557,
+      "id": "h0054",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T11:33:23.158665+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10H8",
+        "c10HN",
+        "c10J2",
+        "c10JA",
+        "c10JN",
+        "c10JZ",
+        "c10K6"
+      ],
+      "words": 5255,
+      "id": "h0055",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T11:34:07.121063+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10KG",
+        "c10KV",
+        "c10M6"
+      ],
+      "words": 5273,
+      "id": "h0056",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T11:34:10.746403+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10MM",
+        "c10MY"
+      ],
+      "words": 5152,
+      "id": "h0057",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:35:28.116741+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10NJ"
+      ],
+      "words": 1182,
+      "id": "h0058",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:36:06.389723+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10NY"
+      ],
+      "words": 10721,
+      "id": "h0059",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:36:22.664521+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10RP"
+      ],
+      "words": 22,
+      "id": "h0060",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:37:18.960280+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10RX"
+      ],
+      "words": 7975,
+      "id": "h0061",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:37:31.509720+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10T1",
+        "c10TM",
+        "c10TY"
+      ],
+      "words": 5026,
+      "id": "h0062",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:37:33.155474+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10U8",
+        "c10UK",
+        "c10V1"
+      ],
+      "words": 4963,
+      "id": "h0063",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T11:38:59.728562+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10VR",
+        "c10WA",
+        "c10WN"
+      ],
+      "words": 5018,
+      "id": "h0064",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T11:38:59.903414+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10X0",
+        "c10XC",
+        "c10XK",
+        "c10XY",
+        "c10Y8"
+      ],
+      "words": 4467,
+      "id": "h0065",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:40:17.737192+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10YN",
+        "c10Z2"
+      ],
+      "words": 3784,
+      "id": "h0066",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:41:45.486520+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c10ZF",
+        "c10ZW",
+        "c1108"
+      ],
+      "words": 5417,
+      "id": "h0067",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T11:43:17.789819+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c110H",
+        "c110X"
+      ],
+      "words": 2550,
+      "id": "h0068",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:45:01.576790+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1117",
+        "c111S"
+      ],
+      "words": 5127,
+      "id": "h0069",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:45:13.911944+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1127"
+      ],
+      "words": 4139,
+      "id": "h0070",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T11:45:48.116826+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c112S",
+        "c1138"
+      ],
+      "words": 4061,
+      "id": "h0071",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:46:02.512857+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c113F",
+        "c113W",
+        "c1145"
+      ],
+      "words": 5199,
+      "id": "h0072",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T11:46:03.254539+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c114F",
+        "c114U",
+        "c1156"
+      ],
+      "words": 4290,
+      "id": "h0073",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:46:21.708308+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c115G",
+        "c115W"
+      ],
+      "words": 4724,
+      "id": "h0074",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:47:43.542822+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1168",
+        "c116R"
+      ],
+      "words": 4646,
+      "id": "h0075",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T11:47:57.002590+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1173",
+        "c117J"
+      ],
+      "words": 4378,
+      "id": "h0076",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:49:17.284769+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c117X",
+        "c1188",
+        "c118T",
+        "c1193"
+      ],
+      "words": 5440,
+      "id": "h0077",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T11:49:52.459669+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c119A",
+        "c119P"
+      ],
+      "words": 4178,
+      "id": "h0078",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:49:52.512033+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11AB",
+        "c11AV"
+      ],
+      "words": 5104,
+      "id": "h0079",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:51:47.056208+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11B8",
+        "c11BJ"
+      ],
+      "words": 3260,
+      "id": "h0080",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:52:50.998449+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11BZ",
+        "c11CE",
+        "c11CU"
+      ],
+      "words": 5277,
+      "id": "h0081",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:53:03.625264+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11D2",
+        "c11DD",
+        "c11DS"
+      ],
+      "words": 4944,
+      "id": "h0082",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T11:53:06.962193+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11E5"
+      ],
+      "words": 3467,
+      "id": "h0083",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:54:10.452264+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11EM",
+        "c11F0",
+        "c11FD",
+        "c11FM"
+      ],
+      "words": 5259,
+      "id": "h0084",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T11:54:10.627754+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11FZ",
+        "c11G8",
+        "c11GH"
+      ],
+      "words": 5465,
+      "id": "h0085",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T11:55:59.021867+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11GY",
+        "c11H8",
+        "c11HN"
+      ],
+      "words": 4257,
+      "id": "h0086",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:56:32.053861+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11J1",
+        "c11JF",
+        "c11JT",
+        "c11K4"
+      ],
+      "words": 5468,
+      "id": "h0087",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T11:57:19.738346+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11KE",
+        "c11KS",
+        "c11M2",
+        "c11MC",
+        "c11MK"
+      ],
+      "words": 4872,
+      "id": "h0088",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T11:57:27.832430+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11MZ",
+        "c11N8",
+        "c11NH",
+        "c11NX",
+        "c11P6"
+      ],
+      "words": 4661,
+      "id": "h0089",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T11:58:18.945753+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11PG",
+        "c11PX"
+      ],
+      "words": 3690,
+      "id": "h0090",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T11:59:02.998746+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11RB",
+        "c11RT"
+      ],
+      "words": 4393,
+      "id": "h0091",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T11:59:54.048374+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11S6",
+        "c11SM",
+        "c11SV"
+      ],
+      "words": 5098,
+      "id": "h0092",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:00:24.103034+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11T8",
+        "c11TH"
+      ],
+      "words": 3444,
+      "id": "h0093",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:01:16.046762+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11U2"
+      ],
+      "words": 2655,
+      "id": "h0094",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:02:02.021589+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11UJ"
+      ],
+      "words": 3758,
+      "id": "h0095",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:02:02.502663+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11V1"
+      ],
+      "words": 6679,
+      "id": "h0096",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:02:03.480971+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11VN",
+        "c11VY",
+        "c11WC",
+        "c11WK"
+      ],
+      "words": 3485,
+      "id": "h0097",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:03:54.847731+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11WV"
+      ],
+      "words": 6511,
+      "id": "h0098",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:04:26.256358+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11XH"
+      ],
+      "words": 2048,
+      "id": "h0099",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:04:36.038121+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11Y1"
+      ],
+      "words": 4677,
+      "id": "h0100",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T12:04:40.724704+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11YN",
+        "c11Z1",
+        "c11ZC"
+      ],
+      "words": 5324,
+      "id": "h0101",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:04:59.594268+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c11ZU",
+        "c1207"
+      ],
+      "words": 3610,
+      "id": "h0102",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:05:19.769561+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c120N",
+        "c1212",
+        "c121B",
+        "c121J"
+      ],
+      "words": 4446,
+      "id": "h0103",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:06:20.293784+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c121Z",
+        "c122A"
+      ],
+      "words": 2738,
+      "id": "h0104",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:07:34.221856+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c122N"
+      ],
+      "words": 2945,
+      "id": "h0105",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:08:59.732410+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1235"
+      ],
+      "words": 3431,
+      "id": "h0106",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:09:59.736834+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c123R",
+        "c1245",
+        "c124G",
+        "c124V"
+      ],
+      "words": 5197,
+      "id": "h0107",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:10:29.965258+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1255",
+        "c125K",
+        "c125X"
+      ],
+      "words": 4668,
+      "id": "h0108",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T12:10:44.051516+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c126A",
+        "c126P",
+        "c1270",
+        "c127C",
+        "c127T"
+      ],
+      "words": 5445,
+      "id": "h0109",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:10:56.910456+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1280",
+        "c128B",
+        "c128N",
+        "c1290",
+        "c129C"
+      ],
+      "words": 5497,
+      "id": "h0110",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:11:28.556448+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c129R",
+        "c12A2",
+        "c12AD"
+      ],
+      "words": 3749,
+      "id": "h0111",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:12:24.782221+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12AT"
+      ],
+      "words": 1963,
+      "id": "h0112",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:12:55.800945+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12B5"
+      ],
+      "words": 4868,
+      "id": "h0113",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:14:12.544742+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12C6",
+        "c12CM"
+      ],
+      "words": 3287,
+      "id": "h0114",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:15:32.286572+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12D1",
+        "c12DJ"
+      ],
+      "words": 4464,
+      "id": "h0115",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:16:50.751788+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12DZ"
+      ],
+      "words": 4410,
+      "id": "h0116",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T12:16:57.078525+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12EM",
+        "c12EZ",
+        "c12F6",
+        "c12FF"
+      ],
+      "words": 3742,
+      "id": "h0117",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:17:21.301895+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12FX",
+        "c12GD"
+      ],
+      "words": 4446,
+      "id": "h0118",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:17:51.464987+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12GS"
+      ],
+      "words": 3393,
+      "id": "h0119",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:18:59.535582+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12H4"
+      ],
+      "words": 2640,
+      "id": "h0120",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:19:12.428739+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12HJ"
+      ],
+      "words": 4248,
+      "id": "h0121",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:20:31.473899+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12J3",
+        "c12JF"
+      ],
+      "words": 5075,
+      "id": "h0122",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:21:02.833491+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12JW",
+        "c12K8",
+        "c12KP"
+      ],
+      "words": 5237,
+      "id": "h0123",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:21:30.378381+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12KX",
+        "c12M6",
+        "c12MH"
+      ],
+      "words": 5283,
+      "id": "h0124",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:21:46.335223+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12MV",
+        "c12N8"
+      ],
+      "words": 4323,
+      "id": "h0125",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:21:58.586979+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12NK",
+        "c12P2"
+      ],
+      "words": 4014,
+      "id": "h0126",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:22:14.281859+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12PF",
+        "c12PW"
+      ],
+      "words": 4323,
+      "id": "h0127",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T12:23:05.154698+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12R7"
+      ],
+      "words": 3224,
+      "id": "h0128",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:24:36.454953+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12RR",
+        "c12S6",
+        "c12SD"
+      ],
+      "words": 4384,
+      "id": "h0129",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:25:46.956553+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12SR",
+        "c12T2",
+        "c12TC"
+      ],
+      "words": 3937,
+      "id": "h0130",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:26:03.070305+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12TP"
+      ],
+      "words": 4230,
+      "id": "h0131",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:26:29.317126+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12U5",
+        "c12UJ",
+        "c12UU"
+      ],
+      "words": 4158,
+      "id": "h0132",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:26:30.474848+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12V5"
+      ],
+      "words": 3222,
+      "id": "h0133",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:27:01.710974+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12VK",
+        "c12W4"
+      ],
+      "words": 4907,
+      "id": "h0134",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:27:59.566712+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12WG",
+        "c12WT",
+        "c12X5",
+        "c12XC",
+        "c12XT"
+      ],
+      "words": 5405,
+      "id": "h0135",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T12:29:16.969526+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12Y5",
+        "c12YH"
+      ],
+      "words": 3655,
+      "id": "h0136",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:29:59.914664+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12YY"
+      ],
+      "words": 1997,
+      "id": "h0137",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:30:06.426806+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12Z9"
+      ],
+      "words": 6301,
+      "id": "h0138",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:30:44.393172+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c12ZV",
+        "c1304"
+      ],
+      "words": 4622,
+      "id": "h0139",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:30:52.575163+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c130M",
+        "c1314"
+      ],
+      "words": 4574,
+      "id": "h0140",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:30:54.113160+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c131B"
+      ],
+      "words": 9597,
+      "id": "h0141",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:32:08.283550+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1326",
+        "c132J"
+      ],
+      "words": 4639,
+      "id": "h0142",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:33:04.532762+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c132X",
+        "c133A",
+        "c133M"
+      ],
+      "words": 4543,
+      "id": "h0143",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:34:01.455754+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c133Z",
+        "c134B",
+        "c134N",
+        "c134Y",
+        "c1355"
+      ],
+      "words": 3945,
+      "id": "h0144",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:34:48.759509+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c135F",
+        "c135V",
+        "c1366",
+        "c136G"
+      ],
+      "words": 5422,
+      "id": "h0145",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T12:36:12.506397+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c136V",
+        "c1375",
+        "c137F"
+      ],
+      "words": 4383,
+      "id": "h0146",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:36:38.850566+00:00"
+    },
+    {
+      "book_id": "the-antiquities-of-the-jews",
+      "units": [
+        "c1381",
+        "c138F",
+        "c138R"
+      ],
+      "words": 3917,
+      "id": "h0147",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:37:52.320520+00:00"
+    },
+    {
+      "book_id": "against-apion",
+      "units": [
+        "c1391"
+      ],
+      "words": 9,
+      "id": "h0148",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:38:17.364034+00:00"
+    },
+    {
+      "book_id": "against-apion",
+      "units": [
+        "c1399"
+      ],
+      "words": 18480,
+      "id": "h0149",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:38:24.674768+00:00"
+    },
+    {
+      "book_id": "against-apion",
+      "units": [
+        "c13AJ"
+      ],
+      "words": 18292,
+      "id": "h0150",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:38:34.164343+00:00"
+    },
+    {
+      "book_id": "the-chronicon-universal-history",
+      "units": [
+        "c13C2",
+        "c13CR",
+        "c13D6",
+        "c13DD",
+        "c13E2",
+        "c13EG",
+        "c13EW",
+        "c13F8",
+        "c13FR",
+        "c13FZ",
+        "c13G8"
+      ],
+      "words": 5406,
+      "id": "h0151",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:39:44.106247+00:00"
+    },
+    {
+      "book_id": "the-chronicon-universal-history",
+      "units": [
+        "c13GK",
+        "c13H1",
+        "c13HM",
+        "c13HU",
+        "c13J3",
+        "c13JD",
+        "c13JS",
+        "c13K5",
+        "c13N0",
+        "c13N6",
+        "c13NR",
+        "c13NX",
+        "c13PF",
+        "c13PN",
+        "c13RE",
+        "c13RM"
+      ],
+      "words": 5330,
+      "id": "h0152",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:40:34.482957+00:00"
+    },
+    {
+      "book_id": "the-chronicon-universal-history",
+      "units": [
+        "c13S7",
+        "c13SS",
+        "c13TA",
+        "c13TY",
+        "c13UF",
+        "c13V0",
+        "c13VT",
+        "c13W4",
+        "c13X9"
+      ],
+      "words": 4989,
+      "id": "h0153",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:40:59.395644+00:00"
+    },
+    {
+      "book_id": "the-chronicon-universal-history",
+      "units": [
+        "c13YE",
+        "c13YW",
+        "c140U",
+        "c1411",
+        "c141C",
+        "c141T",
+        "c142C",
+        "c142U",
+        "c1435",
+        "c143E",
+        "c143R",
+        "c1440",
+        "c1448",
+        "c144G",
+        "c144S",
+        "c144Z",
+        "c1458",
+        "c145N",
+        "c145W",
+        "c1463",
+        "c146A",
+        "c146H",
+        "c146Y",
+        "c147M",
+        "c1482",
+        "c148A",
+        "c148T",
+        "c1494",
+        "c149F",
+        "c149P",
+        "c14A1",
+        "c14AJ",
+        "c14B2",
+        "c14B9",
+        "c14BP",
+        "c14C1"
+      ],
+      "words": 5299,
+      "id": "h0154",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:42:26.659398+00:00"
+    },
+    {
+      "book_id": "the-chronicon-universal-history",
+      "units": [
+        "c14CD",
+        "c14DA",
+        "c14DY",
+        "c14E4",
+        "c14EM",
+        "c14F0",
+        "c14G1",
+        "c14GH",
+        "c14GU",
+        "c14HU",
+        "c14J3",
+        "c14JV",
+        "c14KU",
+        "c14M3",
+        "c14MA"
+      ],
+      "words": 4527,
+      "id": "h0155",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T12:44:48.074585+00:00"
+    },
+    {
+      "book_id": "the-chronicon-universal-history",
+      "units": [
+        "c14MP",
+        "c14WS",
+        "c14WY",
+        "c14XK",
+        "c14Y7",
+        "c14YZ",
+        "c14ZG",
+        "c14ZY",
+        "c150S",
+        "c1513"
+      ],
+      "words": 4100,
+      "id": "h0156",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:45:50.296569+00:00"
+    },
+    {
+      "book_id": "the-chronicon-universal-history",
+      "units": [
+        "c1522",
+        "c152S",
+        "c153J",
+        "c153X",
+        "c154N",
+        "c154V",
+        "c155M",
+        "c156F",
+        "c156N",
+        "c1576"
+      ],
+      "words": 5077,
+      "id": "h0157",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:46:07.011825+00:00"
+    },
+    {
+      "book_id": "the-chronicon-universal-history",
+      "units": [
+        "c157F",
+        "c157W",
+        "c158E",
+        "c1591",
+        "c159H",
+        "c15A8",
+        "c15AS",
+        "c15B6"
+      ],
+      "words": 4692,
+      "id": "h0158",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:47:23.056974+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c15BG",
+        "c15C2",
+        "c15C8",
+        "c15CS",
+        "c15DU"
+      ],
+      "words": 4756,
+      "id": "h0159",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:49:28.164873+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c15EP",
+        "c15FC",
+        "c15FT",
+        "c15GB",
+        "c15H2",
+        "c15HU"
+      ],
+      "words": 5132,
+      "id": "h0160",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:50:24.664645+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c15J4",
+        "c15JG",
+        "c15K0",
+        "c15KB",
+        "c15M6",
+        "c15MF",
+        "c15N3",
+        "c15NG",
+        "c15NV"
+      ],
+      "words": 5095,
+      "id": "h0161",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:51:55.197685+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c15P4",
+        "c15PJ",
+        "c15R1",
+        "c15R9",
+        "c15RJ",
+        "c15RX",
+        "c15SE",
+        "c15SS",
+        "c15T2",
+        "c15TH",
+        "c15TY",
+        "c15U7"
+      ],
+      "words": 3946,
+      "id": "h0162",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:52:10.895091+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c15UG",
+        "c15VF",
+        "c15VZ",
+        "c15W8",
+        "c15WN",
+        "c15WZ",
+        "c15XE",
+        "c15YE"
+      ],
+      "words": 5121,
+      "id": "h0163",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:52:51.098182+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c15YP",
+        "c15Z5",
+        "c15ZE",
+        "c15ZM",
+        "c15ZX",
+        "c1605",
+        "c160K",
+        "c1616",
+        "c161M",
+        "c162V"
+      ],
+      "words": 5192,
+      "id": "h0164",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T12:52:55.431922+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c163C",
+        "c163Y",
+        "c164A",
+        "c164W",
+        "c1655",
+        "c165D",
+        "c165N",
+        "c165X",
+        "c1665",
+        "c166D",
+        "c166N",
+        "c1671",
+        "c1679",
+        "c167U",
+        "c1684",
+        "c168C",
+        "c1696"
+      ],
+      "words": 5294,
+      "id": "h0165",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T12:55:37.915332+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c169Z",
+        "c16AD",
+        "c16AS",
+        "c16B5",
+        "c16BJ",
+        "c16BX",
+        "c16C6",
+        "c16CK",
+        "c16D2",
+        "c16DD",
+        "c16DN",
+        "c16DX",
+        "c16EK",
+        "c16EY"
+      ],
+      "words": 5102,
+      "id": "h0166",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T12:55:49.213210+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c16FA",
+        "c16G1",
+        "c16G7",
+        "c16GG",
+        "c16GW",
+        "c16H6",
+        "c16HE",
+        "c16HU",
+        "c16J5",
+        "c16JV",
+        "c16KA",
+        "c16KM",
+        "c16KW",
+        "c16ME"
+      ],
+      "words": 5139,
+      "id": "h0167",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T12:56:23.220086+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c16MP",
+        "c16N5",
+        "c16NP",
+        "c16RD",
+        "c16RX"
+      ],
+      "words": 5200,
+      "id": "h0168",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T12:57:19.488742+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c16SJ",
+        "c16T3",
+        "c16TB",
+        "c16TK",
+        "c16TV",
+        "c16UA",
+        "c16UX",
+        "c16V7",
+        "c16VF",
+        "c16W4",
+        "c16WC",
+        "c16WM",
+        "c16X2",
+        "c16XC"
+      ],
+      "words": 4543,
+      "id": "h0169",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T12:57:28.514315+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c16XR",
+        "c16ZX",
+        "c170C",
+        "c170R"
+      ],
+      "words": 5205,
+      "id": "h0170",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T12:57:58.218001+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c1711",
+        "c171H",
+        "c171X",
+        "c172A",
+        "c1730",
+        "c1738",
+        "c173K",
+        "c173Z",
+        "c1748",
+        "c174S",
+        "c1750",
+        "c1758",
+        "c1765"
+      ],
+      "words": 5236,
+      "id": "h0171",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T13:00:39.869523+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c176H",
+        "c1775",
+        "c177G",
+        "c177Z",
+        "c178A",
+        "c178J",
+        "c178W",
+        "c179N",
+        "c179Y",
+        "c17A6",
+        "c17AE",
+        "c17B8",
+        "c17BE"
+      ],
+      "words": 5247,
+      "id": "h0172",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T13:01:29.730364+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c17BP",
+        "c17CB",
+        "c17CZ",
+        "c17D9",
+        "c17DR",
+        "c17DZ",
+        "c17E7",
+        "c17EN",
+        "c17F4",
+        "c17FC",
+        "c17FT",
+        "c17G6",
+        "c17GP",
+        "c17H8"
+      ],
+      "words": 5319,
+      "id": "h0173",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T13:02:34.670263+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c17HG",
+        "c17HV",
+        "c17J3",
+        "c17JE",
+        "c17K8",
+        "c17KJ",
+        "c17KX",
+        "c17M6",
+        "c17MH",
+        "c17MV",
+        "c17NG",
+        "c17NS",
+        "c17P0",
+        "c17P8",
+        "c17PM",
+        "c17PW",
+        "c17R6",
+        "c17RG",
+        "c17RV",
+        "c17S3",
+        "c17SB",
+        "c17SP",
+        "c17SY"
+      ],
+      "words": 5324,
+      "id": "h0174",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:02:54.032714+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c17T6",
+        "c17TJ",
+        "c17U2",
+        "c17UZ",
+        "c17VC",
+        "c17W9",
+        "c17WP",
+        "c17WZ",
+        "c17XB",
+        "c17XK",
+        "c17XV"
+      ],
+      "words": 5460,
+      "id": "h0175",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T13:02:54.886239+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c17Y3",
+        "c17YB",
+        "c17YK",
+        "c17Z0",
+        "c17Z8",
+        "c17ZN",
+        "c17ZX",
+        "c180A",
+        "c180V",
+        "c181W",
+        "c1824",
+        "c182E",
+        "c182P",
+        "c1832",
+        "c183A",
+        "c183J",
+        "c183X",
+        "c1845"
+      ],
+      "words": 5430,
+      "id": "h0176",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:03:56.317750+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c184E",
+        "c184Z",
+        "c185J",
+        "c185X",
+        "c186D",
+        "c187F",
+        "c187T",
+        "c1882",
+        "c188D"
+      ],
+      "words": 4666,
+      "id": "h0177",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:06:32.903441+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c188P",
+        "c189M",
+        "c189X",
+        "c18B4",
+        "c18BC",
+        "c18BW"
+      ],
+      "words": 5233,
+      "id": "h0178",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T13:06:40.720571+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c18C8",
+        "c18CK",
+        "c18CZ",
+        "c18D8",
+        "c18DT",
+        "c18E6",
+        "c18EF",
+        "c18EY",
+        "c18FH",
+        "c18FU"
+      ],
+      "words": 4678,
+      "id": "h0179",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T13:07:16.311579+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c18GC",
+        "c18H2",
+        "c18HV",
+        "c18J4",
+        "c18JG",
+        "c18K9",
+        "c18KH",
+        "c18KW",
+        "c18M7"
+      ],
+      "words": 5209,
+      "id": "h0180",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:08:50.751870+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c18MM",
+        "c18N9",
+        "c18NJ",
+        "c18NZ",
+        "c18PD",
+        "c18R0",
+        "c18RJ"
+      ],
+      "words": 4789,
+      "id": "h0181",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T13:10:24.564241+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c18RU",
+        "c18SZ",
+        "c18T6",
+        "c18TV",
+        "c18U1",
+        "c18UK",
+        "c18UW",
+        "c18V4",
+        "c18VE",
+        "c18VR"
+      ],
+      "words": 5468,
+      "id": "h0182",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:10:28.457893+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c18W2",
+        "c18WT",
+        "c18XF",
+        "c18YG"
+      ],
+      "words": 5282,
+      "id": "h0183",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:11:30.650542+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c18Z7",
+        "c18ZR",
+        "c18ZX",
+        "c190C",
+        "c190N"
+      ],
+      "words": 1618,
+      "id": "h0184",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T13:11:38.815415+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c1910"
+      ],
+      "words": 6635,
+      "id": "h0185",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T13:12:29.781968+00:00"
+    },
+    {
+      "book_id": "the-ecclesiastical-history",
+      "units": [
+        "c193H",
+        "c194M",
+        "c194Z",
+        "c1958",
+        "c1962"
+      ],
+      "words": 4545,
+      "id": "h0186",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T13:12:58.827271+00:00"
+    },
+    {
+      "book_id": "alexander-of-cappadocia-3rd-century",
+      "units": [
+        "c19UU",
+        "c19V1"
+      ],
+      "words": 435,
+      "id": "h0187",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T13:15:47.729631+00:00"
+    },
+    {
+      "book_id": "ambrose-of-milan-4th-century",
+      "units": [
+        "c19VG"
+      ],
+      "words": 4,
+      "id": "h0188",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:16:51.482523+00:00"
+    },
+    {
+      "book_id": "ambrose-of-milan-4th-century",
+      "units": [
+        "c19VP"
+      ],
+      "words": 20012,
+      "id": "h0189",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T13:17:23.066823+00:00"
+    },
+    {
+      "book_id": "ambrose-of-milan-4th-century",
+      "units": [
+        "c1A1G"
+      ],
+      "words": 23162,
+      "id": "h0190",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T13:17:23.129568+00:00"
+    },
+    {
+      "book_id": "anterus-3rd-century",
+      "units": [
+        "c1A7Y",
+        "c1A84"
+      ],
+      "words": 3342,
+      "id": "h0191",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:17:27.979179+00:00"
+    },
+    {
+      "book_id": "athanasius-4th-century",
+      "units": [
+        "c1A8H",
+        "c1A8S",
+        "c1A9F",
+        "c1A9R",
+        "c1A9Z",
+        "c1AA7",
+        "c1AAE"
+      ],
+      "words": 4984,
+      "id": "h0192",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:18:10.820993+00:00"
+    },
+    {
+      "book_id": "athanasius-4th-century",
+      "units": [
+        "c1AAP"
+      ],
+      "words": 1100,
+      "id": "h0193",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T13:18:35.187876+00:00"
+    },
+    {
+      "book_id": "athanasius-4th-century",
+      "units": [
+        "c1AB2"
+      ],
+      "words": 5096,
+      "id": "h0194",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:18:52.304685+00:00"
+    },
+    {
+      "book_id": "athanasius-4th-century",
+      "units": [
+        "c1ABW"
+      ],
+      "words": 40879,
+      "id": "h0195",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T13:20:10.094031+00:00"
+    },
+    {
+      "book_id": "athanasius-4th-century",
+      "units": [
+        "c1AJA"
+      ],
+      "words": 11049,
+      "id": "h0196",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:21:06.174672+00:00"
+    },
+    {
+      "book_id": "athanasius-4th-century",
+      "units": [
+        "c1AMM"
+      ],
+      "words": 24366,
+      "id": "h0197",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T13:21:12.719972+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1AT5",
+        "c1ATB",
+        "c1AUG"
+      ],
+      "words": 4940,
+      "id": "h0198",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:23:51.085083+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1AUT"
+      ],
+      "words": 1124,
+      "id": "h0199",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:25:21.378680+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1AV2"
+      ],
+      "words": 12634,
+      "id": "h0200",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:26:46.379839+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1AXX"
+      ],
+      "words": 1636,
+      "id": "h0201",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:31:26.892874+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1AY9"
+      ],
+      "words": 9814,
+      "id": "h0202",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:32:39.518214+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1AZU",
+        "c1B01",
+        "c1B08"
+      ],
+      "words": 1811,
+      "id": "h0203",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:33:13.638066+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1B0H"
+      ],
+      "words": 11410,
+      "id": "h0204",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:35:08.197345+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1B2K",
+        "c1B2V",
+        "c1B33",
+        "c1B3B",
+        "c1B3P",
+        "c1B3Y",
+        "c1B47"
+      ],
+      "words": 4899,
+      "id": "h0205",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:39:21.936855+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1B4F",
+        "c1B52",
+        "c1B59",
+        "c1B5K",
+        "c1B5U",
+        "c1B61",
+        "c1B68",
+        "c1B6J"
+      ],
+      "words": 5233,
+      "id": "h0206",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:42:10.593943+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1B74",
+        "c1B7C",
+        "c1B7N",
+        "c1B82",
+        "c1B89"
+      ],
+      "words": 4877,
+      "id": "h0207",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:44:03.908381+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1B8J",
+        "c1B8U",
+        "c1B92",
+        "c1B9C",
+        "c1B9S",
+        "c1BA0"
+      ],
+      "words": 5080,
+      "id": "h0208",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T13:44:04.549762+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BA8",
+        "c1BAG",
+        "c1BAT"
+      ],
+      "words": 2704,
+      "id": "h0209",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:46:23.661606+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BB2"
+      ],
+      "words": 7511,
+      "id": "h0210",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:46:51.331828+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BCV",
+        "c1BD4",
+        "c1BDC",
+        "c1BDP",
+        "c1BDX",
+        "c1BE5",
+        "c1BEC",
+        "c1BEK",
+        "c1BEV",
+        "c1BF3"
+      ],
+      "words": 5001,
+      "id": "h0211",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T13:47:59.906859+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BFE",
+        "c1BFP",
+        "c1BFX",
+        "c1BG5",
+        "c1BGD",
+        "c1BGN",
+        "c1BGX",
+        "c1BH5",
+        "c1BHD"
+      ],
+      "words": 5142,
+      "id": "h0212",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T13:48:21.021408+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BHN",
+        "c1BHX",
+        "c1BJ5",
+        "c1BJC",
+        "c1BJK",
+        "c1BJY",
+        "c1BK5",
+        "c1BKD"
+      ],
+      "words": 5098,
+      "id": "h0213",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:48:52.268761+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BKN",
+        "c1BKX",
+        "c1BM4"
+      ],
+      "words": 1275,
+      "id": "h0214",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:49:10.142250+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BMC"
+      ],
+      "words": 7437,
+      "id": "h0215",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T13:50:16.709664+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BP0",
+        "c1BP7",
+        "c1BPX",
+        "c1BR5",
+        "c1BRD",
+        "c1BRM",
+        "c1BRY",
+        "c1BS6",
+        "c1BSH"
+      ],
+      "words": 5144,
+      "id": "h0216",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:51:01.634871+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BSV",
+        "c1BT3",
+        "c1BTC",
+        "c1BTX",
+        "c1BU5"
+      ],
+      "words": 4815,
+      "id": "h0217",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:53:35.526815+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BUC"
+      ],
+      "words": 3189,
+      "id": "h0218",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T13:53:46.856370+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BUW",
+        "c1BV9",
+        "c1BVG"
+      ],
+      "words": 4303,
+      "id": "h0219",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:54:01.115632+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BVV"
+      ],
+      "words": 7697,
+      "id": "h0220",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T13:54:28.074155+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BX5"
+      ],
+      "words": 6462,
+      "id": "h0221",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T13:57:18.212101+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BXY",
+        "c1BYB"
+      ],
+      "words": 3184,
+      "id": "h0222",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T13:57:19.978455+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1BYN"
+      ],
+      "words": 19639,
+      "id": "h0223",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T13:57:44.602678+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1C1N",
+        "c1C1Y",
+        "c1C29"
+      ],
+      "words": 3917,
+      "id": "h0224",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T13:57:56.948456+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1C2J",
+        "c1C2W",
+        "c1C36",
+        "c1C3E"
+      ],
+      "words": 4516,
+      "id": "h0225",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T13:58:00.676199+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1C3P",
+        "c1C40"
+      ],
+      "words": 3588,
+      "id": "h0226",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T14:00:38.497584+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1C4D",
+        "c1C4Y",
+        "c1C58"
+      ],
+      "words": 5134,
+      "id": "h0227",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T14:01:30.019549+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1C5F"
+      ],
+      "words": 25184,
+      "id": "h0228",
+      "status": "complete",
+      "worker": "root",
+      "claimed_at": "2026-11-04T14:02:27.180960+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1C93",
+        "c1C9D",
+        "c1C9P"
+      ],
+      "words": 4043,
+      "id": "h0229",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T14:02:51.421487+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CA0"
+      ],
+      "words": 6580,
+      "id": "h0230",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T14:03:42.571371+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CB3",
+        "c1CBG"
+      ],
+      "words": 4719,
+      "id": "h0231",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T14:06:12.119303+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CBV"
+      ],
+      "words": 3164,
+      "id": "h0232",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T14:07:44.710690+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CCB"
+      ],
+      "words": 3370,
+      "id": "h0233",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T14:08:37.527520+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CCU"
+      ],
+      "words": 9285,
+      "id": "h0234",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T14:10:30.793569+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CEB",
+        "c1CEK",
+        "c1CEX",
+        "c1CF5",
+        "c1CFC",
+        "c1CFM",
+        "c1CFX",
+        "c1CG4",
+        "c1CGD"
+      ],
+      "words": 5226,
+      "id": "h0235",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T14:10:37.088309+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CGM",
+        "c1CGW",
+        "c1CH3",
+        "c1CHB",
+        "c1CHJ",
+        "c1CHV"
+      ],
+      "words": 3026,
+      "id": "h0236",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T14:11:13.634432+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CJ2",
+        "c1CK5"
+      ],
+      "words": 5339,
+      "id": "h0237",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T14:12:10.018779+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CKF",
+        "c1CKU",
+        "c1CM5"
+      ],
+      "words": 5323,
+      "id": "h0238",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T14:12:10.990888+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CMF",
+        "c1CMW"
+      ],
+      "words": 3080,
+      "id": "h0239",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T14:14:22.508569+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CNA",
+        "c1CNR"
+      ],
+      "words": 3340,
+      "id": "h0240",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T14:16:36.933504+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CP9"
+      ],
+      "words": 10239,
+      "id": "h0241",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T14:16:37.293613+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CS2",
+        "c1CSD",
+        "c1CSS",
+        "c1CT0"
+      ],
+      "words": 4617,
+      "id": "h0242",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T14:17:08.526939+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CT9"
+      ],
+      "words": 11804,
+      "id": "h0243",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T14:17:36.997463+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CV2",
+        "c1CVA",
+        "c1CVK",
+        "c1CVX",
+        "c1CW7",
+        "c1CWG"
+      ],
+      "words": 5292,
+      "id": "h0244",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T14:18:20.816953+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CWS",
+        "c1CX5",
+        "c1CXC",
+        "c1CXK",
+        "c1CXX",
+        "c1CY5",
+        "c1CYG"
+      ],
+      "words": 4728,
+      "id": "h0245",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T14:20:03.823936+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1CYT",
+        "c1CZ2",
+        "c1CZD",
+        "c1CZP"
+      ],
+      "words": 4686,
+      "id": "h0246",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T14:21:21.671161+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1D00",
+        "c1D0B",
+        "c1D0N",
+        "c1D0Y"
+      ],
+      "words": 4545,
+      "id": "h0247",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T14:22:58.289593+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1D1A",
+        "c1D1M",
+        "c1D1W",
+        "c1D2A"
+      ],
+      "words": 4759,
+      "id": "h0248",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T14:23:56.818944+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1D2M",
+        "c1D2Z"
+      ],
+      "words": 2396,
+      "id": "h0249",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T14:24:36.708308+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1D37"
+      ],
+      "words": 5370,
+      "id": "h0250",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T14:25:48.978698+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1D49",
+        "c1D4J"
+      ],
+      "words": 2416,
+      "id": "h0251",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T14:26:08.414820+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1D4X",
+        "c1D69"
+      ],
+      "words": 5438,
+      "id": "h0252",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T14:26:50.252743+00:00"
+    },
+    {
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "units": [
+        "c1D6G"
+      ],
+      "words": 36941,
+      "id": "h0253",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T14:27:18.978878+00:00"
+    },
+    {
+      "book_id": "basil-of-caesarea-4th-century",
+      "units": [
+        "c1DD7"
+      ],
+      "words": 4,
+      "id": "h0254",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-04T14:29:03.912792+00:00"
+    },
+    {
+      "book_id": "basil-of-caesarea-4th-century",
+      "units": [
+        "c1DDD"
+      ],
+      "words": 30870,
+      "id": "h0255",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-04T14:29:11.812167+00:00"
+    },
+    {
+      "book_id": "basil-of-caesarea-4th-century",
+      "units": [
+        "c1DJ6"
+      ],
+      "words": 22588,
+      "id": "h0256",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T14:29:15.473344+00:00"
+    },
+    {
+      "book_id": "basil-of-caesarea-4th-century",
+      "units": [
+        "c1DNZ"
+      ],
+      "words": 36202,
+      "id": "h0257",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T00:47:26.139496+00:00"
+    },
+    {
+      "book_id": "basil-of-caesarea-4th-century",
+      "units": [
+        "c1DXM"
+      ],
+      "words": 30779,
+      "id": "h0258",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T14:31:17.975950+00:00"
+    },
+    {
+      "book_id": "basil-of-caesarea-4th-century",
+      "units": [
+        "c1E4P"
+      ],
+      "words": 34443,
+      "id": "h0259",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T00:47:20.760639+00:00"
+    },
+    {
+      "book_id": "basil-of-caesarea-4th-century",
+      "units": [
+        "c1EA3"
+      ],
+      "words": 17320,
+      "id": "h0260",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-04T14:33:05.624584+00:00"
+    },
+    {
+      "book_id": "callistus-3rd-century",
+      "units": [
+        "c1EHP",
+        "c1EHW",
+        "c1EJ6",
+        "c1EJD",
+        "c1EJS",
+        "c1EJZ",
+        "c1EK6",
+        "c1EKD",
+        "c1EKM",
+        "c1EKV"
+      ],
+      "words": 4717,
+      "id": "h0261",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-04T23:41:03.749364+00:00"
+    },
+    {
+      "book_id": "cyprian-3rd-century",
+      "units": [
+        "c1EM2"
+      ],
+      "words": 2,
+      "id": "h0262",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-04T23:43:46.661861+00:00"
+    },
+    {
+      "book_id": "cyprian-3rd-century",
+      "units": [
+        "c1EM8"
+      ],
+      "words": 40283,
+      "id": "h0263",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-05T00:47:07.346265+00:00"
+    },
+    {
+      "book_id": "cyprian-3rd-century",
+      "units": [
+        "c1EV6"
+      ],
+      "words": 38309,
+      "id": "h0264",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-05T00:47:13.753688+00:00"
+    },
+    {
+      "book_id": "cyprian-3rd-century",
+      "units": [
+        "c1F0Y"
+      ],
+      "words": 40180,
+      "id": "h0265",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-05T00:47:26.665853+00:00"
+    },
+    {
+      "book_id": "dionysius-of-alexandria-3rd-century",
+      "units": [
+        "c1F6Y"
+      ],
+      "words": 4,
+      "id": "h0266",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-04T23:47:08.436066+00:00"
+    },
+    {
+      "book_id": "dionysius-of-alexandria-3rd-century",
+      "units": [
+        "c1F74"
+      ],
+      "words": 9878,
+      "id": "h0267",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T00:47:15.631354+00:00"
+    },
+    {
+      "book_id": "dionysius-of-corinth-2nd-century",
+      "units": [
+        "c1F9C",
+        "c1F9J"
+      ],
+      "words": 295,
+      "id": "h0268",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T00:50:01.348238+00:00"
+    },
+    {
+      "book_id": "eusebius-3rd-to-4th-centuries",
+      "units": [
+        "c1FA0",
+        "c1FA6"
+      ],
+      "words": 1480,
+      "id": "h0269",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T00:50:34.303324+00:00"
+    },
+    {
+      "book_id": "fabian-3rd-century",
+      "units": [
+        "c1FAX",
+        "c1FB3",
+        "c1FBA",
+        "c1FBH",
+        "c1FBW",
+        "c1FC3",
+        "c1FCA"
+      ],
+      "words": 5453,
+      "id": "h0270",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T00:51:53.114993+00:00"
+    },
+    {
+      "book_id": "fabian-3rd-century",
+      "units": [
+        "c1FCH",
+        "c1FCW",
+        "c1FD3",
+        "c1FDA",
+        "c1FDH",
+        "c1FDS"
+      ],
+      "words": 2848,
+      "id": "h0271",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T00:54:16.371347+00:00"
+    },
+    {
+      "book_id": "gregory-thaumaturgus-3rd-century",
+      "units": [
+        "c1FDZ",
+        "c1FE5"
+      ],
+      "words": 1687,
+      "id": "h0272",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T00:54:41.634074+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1FF1"
+      ],
+      "words": 3,
+      "id": "h0273",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T00:56:06.699972+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1FF7"
+      ],
+      "words": 17319,
+      "id": "h0274",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T00:56:13.827694+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1FKR"
+      ],
+      "words": 32050,
+      "id": "h0275",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T00:56:25.708649+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1FT2"
+      ],
+      "words": 42493,
+      "id": "h0276",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T00:56:44.075614+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1FYV"
+      ],
+      "words": 23269,
+      "id": "h0277",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-05T01:11:50.668085+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1G2H"
+      ],
+      "words": 31479,
+      "id": "h0278",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T01:12:50.537040+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1G6X"
+      ],
+      "words": 40783,
+      "id": "h0279",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-05T01:16:10.901896+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1GE6"
+      ],
+      "words": 27157,
+      "id": "h0280",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-05T01:18:23.751547+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1GJT"
+      ],
+      "words": 32385,
+      "id": "h0281",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T01:26:34.935589+00:00"
+    },
+    {
+      "book_id": "jerome-4th-to-5th-centuries",
+      "units": [
+        "c1GRS"
+      ],
+      "words": 13451,
+      "id": "h0282",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T01:31:53.404146+00:00"
+    },
+    {
+      "book_id": "john-chrysostom-4th-to-5th-centuries",
+      "units": [
+        "c1GUE"
+      ],
+      "words": 4,
+      "id": "h0283",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-05T01:34:50.108610+00:00"
+    },
+    {
+      "book_id": "john-chrysostom-4th-to-5th-centuries",
+      "units": [
+        "c1GUM"
+      ],
+      "words": 39055,
+      "id": "h0284",
+      "status": "complete",
+      "worker": "dydi_b",
+      "claimed_at": "2026-11-05T01:35:08.762603+00:00"
+    },
+    {
+      "book_id": "john-chrysostom-4th-to-5th-centuries",
+      "units": [
+        "c1GX1"
+      ],
+      "words": 9892,
+      "id": "h0285",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-05T01:42:14.424930+00:00"
+    },
+    {
+      "book_id": "julius-africanus-3rd-century",
+      "units": [
+        "c1GY7",
+        "c1GYD",
+        "c1GYM",
+        "c1GYW",
+        "c1GZ3",
+        "c1GZA",
+        "c1GZH",
+        "c1GZS"
+      ],
+      "words": 1830,
+      "id": "h0286",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T01:42:36.776476+00:00"
+    },
+    {
+      "book_id": "malchion-3rd-century",
+      "units": [
+        "c1GZZ",
+        "c1H05"
+      ],
+      "words": 1509,
+      "id": "h0287",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T01:42:51.694779+00:00"
+    },
+    {
+      "book_id": "origen-3rd-century",
+      "units": [
+        "c1H0H",
+        "c1H0R",
+        "c1H0X"
+      ],
+      "words": 276,
+      "id": "h0288",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T01:44:21.468745+00:00"
+    },
+    {
+      "book_id": "origen-3rd-century",
+      "units": [
+        "c1H14"
+      ],
+      "words": 7742,
+      "id": "h0289",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T01:44:27.034805+00:00"
+    },
+    {
+      "book_id": "peter-of-alexandria-4th-century",
+      "units": [
+        "c1H2E"
+      ],
+      "words": 4,
+      "id": "h0290",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T01:44:50.396854+00:00"
+    },
+    {
+      "book_id": "peter-of-alexandria-4th-century",
+      "units": [
+        "c1H2M"
+      ],
+      "words": 11059,
+      "id": "h0291",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T01:45:03.915481+00:00"
+    },
+    {
+      "book_id": "phileas-4th-century",
+      "units": [
+        "c1H4V",
+        "c1H51",
+        "c1H57",
+        "c1H5E",
+        "c1H5N"
+      ],
+      "words": 2052,
+      "id": "h0292",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-05T01:47:09.966427+00:00"
+    },
+    {
+      "book_id": "polycrates-of-ephesus-2nd-century",
+      "units": [
+        "c1H61",
+        "c1H67"
+      ],
+      "words": 443,
+      "id": "h0293",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-05T01:49:10.731164+00:00"
+    },
+    {
+      "book_id": "pontianus-3rd-century",
+      "units": [
+        "c1H6G",
+        "c1H6P",
+        "c1H71",
+        "c1H78"
+      ],
+      "words": 2967,
+      "id": "h0294",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-05T01:49:51.184954+00:00"
+    },
+    {
+      "book_id": "pseudo-clement-3rd-century",
+      "units": [
+        "c1H7F",
+        "c1H7N",
+        "c1H7W",
+        "c1H83",
+        "c1H8A",
+        "c1H8H",
+        "c1H8S",
+        "c1H8Z",
+        "c1H96",
+        "c1H9D",
+        "c1H9M",
+        "c1H9V",
+        "c1HA2",
+        "c1HA9",
+        "c1HAG",
+        "c1HAV",
+        "c1HB2",
+        "c1HB9"
+      ],
+      "words": 5430,
+      "id": "h0295",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-05T01:51:37.155723+00:00"
+    },
+    {
+      "book_id": "pseudo-clement-3rd-century",
+      "units": [
+        "c1HBG",
+        "c1HBR",
+        "c1HBY",
+        "c1HC5",
+        "c1HCC",
+        "c1HCK",
+        "c1HCU",
+        "c1HD1",
+        "c1HD8",
+        "c1HDF",
+        "c1HDP",
+        "c1HDX",
+        "c1HE4"
+      ],
+      "words": 3457,
+      "id": "h0296",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T01:51:39.828830+00:00"
+    },
+    {
+      "book_id": "pseudo-ignatius-4th-century",
+      "units": [
+        "c1HEC",
+        "c1HEJ",
+        "c1HET",
+        "c1HF0",
+        "c1HF7",
+        "c1HFE",
+        "c1HFN",
+        "c1HFW",
+        "c1HG3",
+        "c1HGA",
+        "c1HGH",
+        "c1HGT",
+        "c1HH2",
+        "c1HH9",
+        "c1HHG",
+        "c1HHR",
+        "c1HHY",
+        "c1HJ5",
+        "c1HJC",
+        "c1HJK",
+        "c1HJU",
+        "c1HK1",
+        "c1HK8",
+        "c1HKG",
+        "c1HKR",
+        "c1HKY",
+        "c1HM7",
+        "c1HME",
+        "c1HMN",
+        "c1HMW",
+        "c1HN3",
+        "c1HNA",
+        "c1HNH",
+        "c1HNS",
+        "c1HNZ",
+        "c1HP8",
+        "c1HPF",
+        "c1HPP"
+      ],
+      "words": 5474,
+      "id": "h0297",
+      "status": "complete",
+      "worker": "dydi_a",
+      "claimed_at": "2026-11-05T01:52:09.850524+00:00"
+    },
+    {
+      "book_id": "pseudo-ignatius-4th-century",
+      "units": [
+        "c1HPX",
+        "c1HR4",
+        "c1HRB",
+        "c1HRJ",
+        "c1HRT",
+        "c1HS0",
+        "c1HS7",
+        "c1HSE",
+        "c1HSN",
+        "c1HSW",
+        "c1HT3",
+        "c1HTA",
+        "c1HTK",
+        "c1HTU",
+        "c1HU1",
+        "c1HU8",
+        "c1HUF",
+        "c1HUS",
+        "c1HUZ",
+        "c1HV6",
+        "c1HVD",
+        "c1HVM"
+      ],
+      "words": 4979,
+      "id": "h0298",
+      "status": "complete",
+      "worker": "dydi_c",
+      "claimed_at": "2026-11-05T01:53:21.670338+00:00"
+    },
+    {
+      "book_id": "serapion-of-antioch-2nd-to-3rd-centuries",
+      "units": [
+        "c1HW7",
+        "c1HWD"
+      ],
+      "words": 61,
+      "id": "h0299",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T01:54:38.863966+00:00"
+    },
+    {
+      "book_id": "theonas-of-alexandria-3rd-century",
+      "units": [
+        "c1HWM",
+        "c1HWU",
+        "c1HX0",
+        "c1HX8",
+        "c1HXG",
+        "c1HXR",
+        "c1HXY",
+        "c1HY5",
+        "c1HYC",
+        "c1HYM",
+        "c1HYX"
+      ],
+      "words": 2604,
+      "id": "h0300",
+      "status": "complete",
+      "worker": "dydi_d",
+      "claimed_at": "2026-11-05T01:55:02.052885+00:00"
+    },
+    {
+      "book_id": "theophilus-of-caesarea-2nd-century",
+      "units": [
+        "c1HZ5",
+        "c1HZB"
+      ],
+      "words": 98,
+      "id": "h0301",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T01:56:13.458277+00:00"
+    },
+    {
+      "book_id": "urban-i-3rd-century",
+      "units": [
+        "c1HZJ",
+        "c1HZS",
+        "c1J01",
+        "c1J08",
+        "c1J0F",
+        "c1J0P",
+        "c1J0X",
+        "c1J14",
+        "c1J1B"
+      ],
+      "words": 2228,
+      "id": "h0302",
+      "status": "complete",
+      "worker": "lori_b",
+      "claimed_at": "2026-11-05T01:56:33.755284+00:00"
+    },
+    {
+      "book_id": "zephyrinus-3rd-century",
+      "units": [
+        "c1J1J",
+        "c1J1S",
+        "c1J26",
+        "c1J2D"
+      ],
+      "words": 2264,
+      "id": "h0303",
+      "status": "complete",
+      "worker": "lori_a",
+      "claimed_at": "2026-11-05T01:56:46.560725+00:00"
+    }
+  ]
+}
