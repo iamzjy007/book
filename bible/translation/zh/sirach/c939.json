@@ -139,10 +139,20 @@
       "source": "信望爱次经阅读：c1933/chdc两列",
       "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=51",
       "usage": "逐章对读语义与句式；以指定英文为准独立修订，保留底本差异。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=51",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
     }
   ],
   "notes": [
-    "51:10 英文称呼为“主，就是我主的父”（the Lord, the Father of my Lord），按本版保留，未改成“我的父、我的主”。",
-    "51:26 “hard at hand”按表示就在近处的旧式用法理解，译为“就在近旁”；并非“难以寻见”。中文参考中12节后的希伯来文增补赞歌不在本英文版本内，未收入。"
+    "版本说明：51:10英文称主为我主的父，此读法也见NETS希腊本译法；不依思高改成主是我的父，也不添基督论解释。",
+    "51:26 hard at hand按表示就在近处的旧式用法理解，译为就在近旁；并非难以寻见。参考中12节后的希伯来文增补赞歌不在本英文版本内，未收入。"
   ]
 }

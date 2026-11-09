@@ -127,9 +127,19 @@
       "source": "信望爱次经阅读：c1933/chdc两列",
       "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=21",
       "usage": "逐章对读语义与句式；以指定英文为准独立修订，保留底本差异。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=21",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
     }
   ],
   "notes": [
-    "译者待核实问题：21:25英文“The lips of strangers will be grieved at these things”与参考本“胡言乱语的人喜欢说三道四”不同；译文依英文保留，具体所指未明。"
+    "译者待核实问题：21:25英文说外人的嘴唇因这些事忧伤，NETS说述说这些事，思高说愚人信口开河；差异明确，尚未核清其希腊校勘依据，正文保留英文。"
   ]
 }

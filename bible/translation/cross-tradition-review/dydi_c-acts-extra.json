@@ -1,0 +1,391 @@
+{
+  "worker": "dydi_c",
+  "scope": "旧项目074—076；经dydi_b确认未编辑后独占交接",
+  "status": "completed_resource_research_and_targeted_review",
+  "full_review_this_round": false,
+  "items": [
+    {
+      "number": 74,
+      "book_id": "acts-of-thomas",
+      "full_review_this_round": false,
+      "status": "targeted_review_completed",
+      "sources": [
+        {
+          "url": "https://biblicalstudies.gospelstudies.org.uk/pdf/e-books/james_m-r/apocryphal-new-testament_james.pdf",
+          "author_translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford: Clarendon Press, 1924",
+          "actual_read_scope": "印刷411—415页诗篇（108—113）；426—427页142；429—430页148；159；实际查看PDF第458、461页图像复核427/430页反义及否定",
+          "independence": "英文底本同源旧译，优先用于区分录入错与James自身异读；不能算第二独立译本"
+        },
+        {
+          "url": "https://archive.org/details/apocryphalactso00pick",
+          "author_translator": "Bernhard Pick",
+          "publication": "The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas, Chicago: Open Court, 1909",
+          "actual_read_scope": "导论222—225页，142（340—342页）、148（346—347页及脚注15）、159（355—356页）",
+          "independence": "依据Bonnet1903希腊校本；与James独立旧译，但部分借用Walker，叙利亚补入用尖括号；未当作独立手稿"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas/",
+          "author_translator": "Jonathan Henry, Princeton University",
+          "publication": "NASSCAL e-Clavis, 2017起，页面说明2023年4月更新",
+          "actual_read_scope": "作品鉴别、十三行述与殉道概述、珍珠诗仅两见证及叙述结构",
+          "independence": "现代学术目录及综述，不当作逐节校勘底本"
+        },
+        {
+          "url": "https://www.degruyterbrill.com/document/isbn/9789047401902/html",
+          "author_translator": "A. F. J. Klijn",
+          "publication": "The Acts of Thomas: Introduction, Text, and Commentary, 2nd ed., Brill, 2003",
+          "actual_read_scope": "仅确认书目；出版方正文访问405，未读完整现代注释",
+          "independence": "现代叙利亚传统译注待续，不计本轮文本对照"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cP65",
+          "blocks": [
+            "p0124",
+            "p0126",
+            "p0127",
+            "p0128",
+            "p0129",
+            "p0130",
+            "p0131",
+            "p0166",
+            "p0172",
+            "p0186"
+          ],
+          "extent": "106数字、108—113珍珠诗、142/148祷告疑错、159赏赐者；重点审校，非其余约160节全文"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cP65",
+          "block": "p0166",
+          "before": "142. 犹大被带到监里，众人都跟着他；王的儿子华撒走在他右边，色弗走在左边。他进监坐下，华撒和色弗也坐下；色弗又劝妻子和女儿坐下，因为她们也来听生命之道。他们知道，米代斯盛怒之下必要杀他。犹大开口说：“哦，你释放我的灵魂，使它脱离众人的辖制，因为我曾把自己交出去被卖。看哪，我欢喜快乐，知道时候已经满足，我要进去领受了。看哪，我将脱离地上的挂虑；看哪，我的盼望将要成就，我将领受真理；看哪，我将脱离忧伤，单单披上喜乐；看哪，我将无忧无虑，住在安息中；看哪，我将脱离奴役，蒙召进入自由；看哪，我曾服事于时节日期之中，如今却被举到时节日期之上；看哪，我要从赏赐我的主领受工价，他赐予而不计算，因为他的丰富足以赐下这一切；我也不再把它穿上。看哪，我睡了又醒过来，此后不再睡去；看哪，我死了又活过来，此后不再尝死味；看哪，他们欢喜等候我，让我前去与他们同属一家，成为他们冠冕上的一朵花；看哪，我要在那国度里作王，那是我从这里就已仰望的国；看哪，悖逆者在我面前仆倒，因为我已经脱离他们；看哪，平安已临到众人聚集之处。”",
+          "after": "142. 犹大被带到监里，众人都跟着他；王的儿子华撒走在他右边，色弗走在左边。他进监坐下，华撒和色弗也坐下；色弗又劝妻子和女儿坐下，因为她们也来听生命之道。他们知道，米代斯盛怒之下必要杀他。犹大开口说：“哦，你释放我的灵魂，使它脱离众人的辖制，因为我曾把自己交出去被卖。看哪，我欢喜快乐，知道时候已经满足，我要进去领受了。看哪，我将脱离地上的挂虑；看哪，我的盼望将要成就，我将领受真理；看哪，我将脱离忧伤，单单披上喜乐；看哪，我将无忧无虑，住在安息中；看哪，我将脱离奴役，蒙召进入自由；看哪，我曾服事于时节日期之中，如今却被举到时节日期之上；看哪，我要从赏赐我的主领受工价，他赐予而不计算，因为他的丰富足以赐下这一切；我也不再把它脱下。看哪，我睡了又醒过来，此后不再睡去；看哪，我死了又活过来，此后不再尝死味；看哪，他们欢喜等候我，让我前去与他们同属一家，成为他们冠冕上的一朵花；看哪，我要在那国度里作王，那是我从这里就已仰望的国；看哪，悖逆者在我面前仆倒，因为我已经脱离他们；看哪，平安已临到众人聚集之处。”",
+          "reason": "142指定英文put it on疑错；James1924印刷427/PDF458图像为put it off again；Pick1909页341亦不再脱去。只修动词，不把James括注的整句衣裳增补入指定正文。"
+        },
+        {
+          "unit": "cP65",
+          "block": "p0172",
+          "before": "148. 不要容那些掌权的和官长察觉我，也不要让他们想到我；不要容税吏和勒索者在我身上行他们的职事，不要容软弱邪恶的攻击我这勇敢谦卑的人。耶稣啊，你的能力如冠冕环绕我；我被提上去的时候，求你不要容他们起来拦阻我，因为他们逃走、隐藏自己，不能仰望你，却突然扑向那些在他们辖制下的人。恶者众子所得的份，自己呼喊，定他们的罪；这事没有向他们隐藏，他们的本性却没有显明。恶者的儿女被分别出去。主啊，求你使我安静、喜乐、平安地经过，越过去，站在审判者面前；不要让魔鬼看见我。愿你使之住在我里面的光，照瞎他的眼；求你封住他的口，因为他找不到什么可以控告我的。”",
+          "after": "148. 不要容那些掌权的和官长察觉我，也不要让他们想到我；不要容税吏和勒索者在我身上行他们的职事，不要容软弱邪恶的攻击我这勇敢谦卑的人。耶稣啊，你的能力如冠冕环绕我；我被提上去的时候，求你不要容他们起来拦阻我，因为他们逃走、隐藏自己，不能仰望你，却突然扑向那些在他们辖制下的人。恶者众子所得的份，自己呼喊，定他们的罪；这事没有向他们隐藏，因为他们的本性已经显明。恶者的儿女被分别出去。主啊，求你使我安静、喜乐、平安地经过，越过去，站在审判者面前；不要让魔鬼看见我。愿你使之住在我里面的光，照瞎他的眼；求你封住他的口，因为他找不到什么可以控告我的。”",
+          "reason": "148指定英文nor is their nature made known为反向否定；James1924印刷430/PDF461图像作for their nature is made known；Pick1909页347亦因本性显明。保留周围代词范围，不另定恶者具体身份。"
+        }
+      ],
+      "notes_deltas": [
+        {
+          "unit": "cP65",
+          "before": [
+            "第三行述副标题英文作 servant（仆人），而全篇内容为蛇；按上下文视作 serpent 的误写，译为“关于那蛇的事”。",
+            "第108节英文说父母给诗中人穿上衣裳，第112节又说幼时将衣裳留在父宫，均照底本保留。第111节末“父母差我到那里”与送衣的上下文不合，按后文“将它托付给管家”理解为差人送衣，译文已修正并保留邻近缺文。",
+            "第142节“我也不再把它穿上”在英文中缺少明确先行词；第148节关于掌权者、恶者众子之份及其本性的数个代词，底本指向亦不够清晰，译文保留其原有的不确定性。",
+            "第154节英文 in a dream I say 与梦中见闻的叙述不合，按 saw 的明显误写译为“在梦中看见”。第159节 my Reward 后接 who knows me 等人格性描述，按上下文作“赏赐我的主”。",
+            "第十二行述标题保留 Ouazanes 与括注 Iuzanes 的异写；正文 Iuzanes 统一采用参考本通名“华撒”。"
+          ],
+          "after": [
+            "第三行述副标题英文作 servant（仆人），而全篇内容为蛇；按上下文视作 serpent 的误写，译为“关于那蛇的事”。",
+            "底本说明：第108节的穿上衣裳、第112节幼时将衣裳留在父宫，照指定底本保留；James 1924年译本在108明确列叙利亚本“脱下”、希腊本“穿上”的差异，不能为叙事顺畅径改。第111节末原英文“父母差我到那里”按送衣上下文修正为差人送衣；James第414页也以衣裳为所送之物。",
+            "原文修正说明：第142节“不再把它穿上”的英文put it on应为put it off，参照James 1924年第427页及Pick 1909年第341页，改为“不再把它脱下”；指定底本缺少邻近衣裳句，未据别本补入。第148节nor is their nature made known为反向否定，James第430页作for their nature is made known，Pick第347页亦作本性显明，故改为“因为他们的本性已经显明”；其余代词未强行补定。",
+            "第154节英文 in a dream I say 与梦中见闻的叙述不合，按 saw 的明显误写译为“在梦中看见”。第159节 my Reward 后接 who knows me 等人格性描述，按上下文作“赏赐我的主”。 James第159节明确作recompenser，支持赏赐者的理解。",
+            "第十二行述标题保留 Ouazanes 与括注 Iuzanes 的异写；正文 Iuzanes 统一采用参考本通名“华撒”。"
+          ]
+        }
+      ],
+      "retained_differences": [
+        "106鞭打一百二十八下保留；James括注叙利亚本一百五十，不以异本替换。",
+        "108穿上/叙利亚脱下是James标明版本差异，保留指定希腊方向，不以112倒推改动。",
+        "111送衣修正获James414页支持，既有译文不再重写。",
+        "148 Pick脚注15明列不同抄本措辞，不能以Pick整段替换指定英文；仅由同源James及独立译本同时支持的因果/否定处修正。",
+        "159指定英文Reward人格性误写，现译赏赐我的主与James recompenser及Pick rewarder一致，不改变。"
+      ],
+      "unresolved": [
+        "未获取Klijn2003完整现代译注；本轮未做全部希腊/叙利亚文本校勘。",
+        "142指定底本省去的衣裳上下句仍不补写；148部分代词和诸权势关系仍待原文校勘。"
+      ]
+    },
+    {
+      "number": 75,
+      "book_id": "acts-of-peter-and-the-twelve-apostles",
+      "full_review_this_round": false,
+      "status": "targeted_review_completed",
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/info/c7.pdf",
+          "author_translator": "István Czachesz",
+          "publication": "Apostolic commission narratives in the canonical and apocryphal Acts of the Apostles, Groningen博士论文, 2002, 第7章",
+          "actual_read_scope": "实际核读155—158页，尤其156—157页注5—8，名称、残缺城名、禁食与九门解释",
+          "independence": "现代研究引科普特文及Wilson/Parrott、Schenke、Molinari，不等同新全译"
+        },
+        {
+          "url": "https://research.rug.nl/en/publications/apostolic-commission-narratives-in-the-canonical-and-apocryphal-a/",
+          "author_translator": "University of Groningen",
+          "publication": "大学论文记录，2002-06-20授位",
+          "actual_read_scope": "作者、年份、章节PDF提供记录；非正文替代",
+          "independence": "机构元数据用于验证c7.pdf出处"
+        },
+        {
+          "url": "https://www.studylight.org/historical-writings/nag-hammadi/acts-of-peter-and-the-twelve.html",
+          "author_translator": "Samuel Zinner；Mark Mattison、Rachel Bousfield编",
+          "publication": "Other Gospels Nag Hammadi Initiative；页面未明确译本年份，2026-11-09访问",
+          "actual_read_scope": "正文起首至结尾已阅读，重点对照缺文补法、Lithargoel/九门、3:26/32/34—35；页面声明译文公版",
+          "independence": "独立现代译文，非Parrott/Wilson网页再版；非出版方校勘印本"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/actspetertwelve.html",
+          "author_translator": "Peter Kirby资料页，转述学者资料",
+          "publication": "Early Christian Writings；页面无明确更新年份",
+          "actual_read_scope": "作品书目及Wilson/Parrott人名释义引述",
+          "independence": "资料导航，不把摘要算全文"
+        },
+        {
+          "url": "bible/基督教典外文献（共10册）_手机版.txt",
+          "author_translator": "仓库既有中文参考，本轮未独立核定译者及出版年",
+          "publication": "第253章【新3】卷6",
+          "actual_read_scope": "简介及名称/城名/医生/结尾对应段落，约51494—51560行",
+          "independence": "参考中文表达；版次及译者未独立核定，不称权威校勘本"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cPCT",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0009",
+            "p0012"
+          ],
+          "extent": "残缺开头否定、居所与忍耐、书卷/书套"
+        },
+        {
+          "unit": "cPD0",
+          "blocks": [
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0017"
+          ],
+          "extent": "人名释义、旅途禁食、九门/第十个"
+        },
+        {
+          "unit": "cPD7",
+          "blocks": [
+            "p0002"
+          ],
+          "extent": "特别核对3:1—5/14—17/22/25—35；未声称所有版本逐词全卷校勘"
+        }
+      ],
+      "changes": [],
+      "notes_deltas": [],
+      "retained_differences": [
+        "开头指定英文Others were not anxious而Zinner说其他人害怕，处于受损起首不同复原；证据不足不翻转指定否定。",
+        "书卷/书套与Foundation…endurance补句依指定底本保留，不导入Zinner或中文补足。",
+        "Lithargoel：Czachesz156—157注6列科普特词组并讨论light/quick与羚羊眼睛的闪耀解释；Zinner明亮石。现译保留英文轻盈、羚羊意象，不据词源学推定删羚羊。其具体释义并非已有唯一答案。",
+        "九门后句Zinner释第十为主要的门；Schenke则连同后句算整个城名，Czachesz注8列此；不悄悄合并成一个长城名，也不注成确定的身体九窍。",
+        "3:22十一个门徒并不因标题十二使徒而改数字。",
+        "3:32两个英译均为耶稣肯定约翰后继续说话，保留现稿，不依中文参考改为疑问。3:34—35保留指向拒绝接待的特定富人，不扩大所有富人。"
+      ],
+      "unresolved": [
+        "本轮未取得Wilson/Parrott1979整册科普特校勘印本，现代译本与学术注释的复原差异仍须在原文层面续核。",
+        "无有充分证据必须更改正文之处，不为每卷留修改而强改。"
+      ]
+    },
+    {
+      "number": 76,
+      "book_id": "acts-of-peter-and-paul",
+      "full_review_this_round": false,
+      "status": "targeted_review_completed",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0815.htm",
+          "author_translator": "Alexander Walker",
+          "publication": "Ante-Nicene Fathers vol.8, 1886；New Advent转载",
+          "actual_read_scope": "殉道末段、尼禄结局、佩尔佩图娅故事全文及来源行",
+          "independence": "与底本同源旧译，不计独立翻译"
+        },
+        {
+          "url": "https://ccel.org/ccel/schaff/anf08",
+          "author_translator": "Alexander Walker；Roberts/Donaldson/Coxe编",
+          "publication": "Ante-Nicene Fathers vol.8, 1886；CCEL纯文本缓存anf8.txt",
+          "actual_read_scope": "佩尔佩图娅故事及脚注2105：Momentan是Nomentan误写；前文殉道与遗骸迁葬",
+          "independence": "与New Advent同源，但保留被转载页省去的校注"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-the-holy-apostles-peter-and-paul-ps-marcellus/",
+          "author_translator": "Tony Burke（York University）、Brandon W. Hawk（Rhode Island College）",
+          "publication": "NASSCAL e-Clavis，2022年8月建立，2024年1月更新",
+          "actual_read_scope": "作品鉴别、希腊长短本/拉丁版差别、佩尔佩图娅插入故事、希腊编辑书目",
+          "independence": "现代学术版本研究，非正文新译；现代Piñero/del Cerro2011及Lipsius-Bonnet1891仅确认书目，未取得其本段实文"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cPFX",
+          "blocks": [
+            "p0002"
+          ],
+          "extent": "附录1—20、22全块，重点Bulla、人物关系、Momentan"
+        },
+        {
+          "unit": "cPFP",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009"
+          ],
+          "extent": "结尾殉道后尼禄结局与遗骸迁葬；保留叙事区别"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cPFX",
+          "block": "p0002",
+          "before": "1 保罗戴着锁链，被押往离城约三里的地方，要在那里被斩首。2 看守他的三个兵丁，都出自显赫的家族。3 他们出了城门，走了约一箭之地，遇见一个敬畏神的妇人。她看见保罗戴着锁链被拖行，就怜悯他，痛哭起来。4 这妇人名叫佩尔佩图娅，有一只眼睛失明。5 保罗看见她哭泣，就对她说：“把你的手帕给我，等我回来，就还给你。”6 她便拿出手帕，甘心交给他。7 兵丁笑着对她说：“妇人，你为什么要白白丢掉手帕呢？难道不知道他是去受斩首的吗？”8 佩尔佩图娅对他们说：“我指着凯撒的安康，郑重求你们，砍他头的时候，用这手帕蒙住他的眼睛。”他们也照作了。9 他们在名叫阿夸埃·萨尔维埃的地方，靠近松树之处，将他斩首。10 照神的旨意，兵丁还未回来，那条沾着血滴的手帕就已交还给妇人。11 她拿着手帕，眼睛立刻就开了。12 那三个斩了圣者保罗之首的兵丁，三个小时后，就在同一天，带着布拉封印物回来，要将它呈给尼禄。他们遇见佩尔佩图娅，就对她说：“妇人，怎么样？看哪，你因为自信，把手帕也丢了。”13 她却对他们说：“我不但拿回手帕，眼睛也恢复了视力。我指着永生的主、保罗的神说，我也已经恳求保罗，愿我配作他主的使女。”14 那些拿着布拉封印物的兵丁，认出手帕，又看见她的眼睛已经开了，就如出一口，大声喊着说：“我们也是保罗之主的仆人！”15 佩尔佩图娅便去了，在尼禄皇帝的宫中报告，说那些斩了保罗之首的兵丁说：“我们不再进城了，因为我们信保罗所传的基督，我们是基督徒。”16 尼禄满心愤怒，命人将那前来报告兵丁之事的佩尔佩图娅，用铁链牢牢锁住；又命人在城门外、离城约一里的地方，将一个兵丁斩首，另一个斩为两段，第三个用石头打死。17 佩尔佩图娅被关在监里；同一座监牢中，还囚着一位贵族少女波滕西安娜，因为她曾说：“我要离开父母和父亲的一切，愿意成为基督徒。”18 她便亲近佩尔佩图娅，向她查明保罗的一切事，心里迫切关切信基督的事。19 尼禄的妻子是波滕西安娜的姊妹；波滕西安娜暗中将基督的事告诉她，说信祂的人必看见永远的喜乐，这里的一切都是暂时的，那里却是永恒的。因此，尼禄的妻子也逃出宫去，几位元老的妻子与她同行。20 尼禄对佩尔佩图娅施了许多酷刑，最后在她颈上系一块大石头，命人将她从悬崖上推下。她的遗骸安放在莫门坦城门。22 波滕西安娜也受了许多折磨；最后，有一天，他们造了一座火炉，将她烧死。",
+          "after": "1 保罗戴着锁链，被押往离城约三里的地方，要在那里被斩首。2 看守他的三个兵丁，都出自显赫的家族。3 他们出了城门，走了约一箭之地，遇见一个敬畏神的妇人。她看见保罗戴着锁链被拖行，就怜悯他，痛哭起来。4 这妇人名叫佩尔佩图娅，有一只眼睛失明。5 保罗看见她哭泣，就对她说：“把你的手帕给我，等我回来，就还给你。”6 她便拿出手帕，甘心交给他。7 兵丁笑着对她说：“妇人，你为什么要白白丢掉手帕呢？难道不知道他是去受斩首的吗？”8 佩尔佩图娅对他们说：“我指着凯撒的安康，郑重求你们，砍他头的时候，用这手帕蒙住他的眼睛。”他们也照作了。9 他们在名叫阿夸埃·萨尔维埃的地方，靠近松树之处，将他斩首。10 照神的旨意，兵丁还未回来，那条沾着血滴的手帕就已交还给妇人。11 她拿着手帕，眼睛立刻就开了。12 那三个斩了圣者保罗之首的兵丁，三个小时后，就在同一天，带着布拉封印物回来，要将它呈给尼禄。他们遇见佩尔佩图娅，就对她说：“妇人，怎么样？看哪，你因为自信，把手帕也丢了。”13 她却对他们说：“我不但拿回手帕，眼睛也恢复了视力。我指着永生的主、保罗的神说，我也已经恳求保罗，愿我配作他主的使女。”14 那些拿着布拉封印物的兵丁，认出手帕，又看见她的眼睛已经开了，就如出一口，大声喊着说：“我们也是保罗之主的仆人！”15 佩尔佩图娅便去了，在尼禄皇帝的宫中报告，说那些斩了保罗之首的兵丁说：“我们不再进城了，因为我们信保罗所传的基督，我们是基督徒。”16 尼禄满心愤怒，命人将那前来报告兵丁之事的佩尔佩图娅，用铁链牢牢锁住；又命人在城门外、离城约一里的地方，将一个兵丁斩首，另一个斩为两段，第三个用石头打死。17 佩尔佩图娅被关在监里；同一座监牢中，还囚着一位贵族少女波滕西安娜，因为她曾说：“我要离开父母和父亲的一切，愿意成为基督徒。”18 她便亲近佩尔佩图娅，向她查明保罗的一切事，心里迫切关切信基督的事。19 尼禄的妻子是波滕西安娜的姊妹；波滕西安娜暗中将基督的事告诉她，说信祂的人必看见永远的喜乐，这里的一切都是暂时的，那里却是永恒的。因此，尼禄的妻子也逃出宫去，几位元老的妻子与她同行。20 尼禄对佩尔佩图娅施了许多酷刑，最后在她颈上系一块大石头，命人将她从悬崖上推下。她的遗骸安放在诺门坦城门。22 波滕西安娜也受了许多折磨；最后，有一天，他们造了一座火炉，将她烧死。",
+          "reason": "ANF同源正文Momentan，原编辑脚注2105明确This is a slip for Nomentan；NASSCAL地点名单亦Nomentan。校正确定的地名笔误，不重构故事。"
+        },
+        {
+          "unit": "cPFP",
+          "block": "p0007",
+          "before": "罗马人取回遗骸，放在离城三英里的地方，看守了一年零七个月，直到建成他们打算安放遗骸的处所。",
+          "after": "罗马人取回遗骸，放在离城三罗马里的地方，看守了一年零七个月，直到建成他们打算安放遗骸的处所。",
+          "reason": "英文同源ANF为three miles，处于古罗马遗骸迁葬行程；旧稿英里误引现代单位，与本书cPEK既定罗马里及cPFX原注不一致，明示罗马里，不改数量或换算。"
+        }
+      ],
+      "notes_deltas": [
+        {
+          "unit": "cPFX",
+          "before": [
+            "本章编号在20后直接跳至22，照底本保留，没有补写第21节。",
+            "Bulla通常指印章、印玺或带印的物件；底本未进一步解释兵丁所携之物，译作“布拉封印物”，不擅定为首级或判决书。",
+            "本章里的距离“里”按古罗马里理解，未换算为现代华里。"
+          ],
+          "after": [
+            "本章编号在20后直接跳至22，照底本保留，没有补写第21节。",
+            "Bulla通常指印章、印玺或带印的物件；底本未进一步解释兵丁所携之物，译作“布拉封印物”，不擅定为首级或判决书。",
+            "本章里的距离“里”按古罗马里理解，未换算为现代华里。",
+            "原文修正说明：末段Momentan Gate据《尼西亚前教父集》第八卷原编辑脚注（CCEL编号2105），是Nomentan的笔误，译为“诺门坦城门”。"
+          ]
+        }
+      ],
+      "retained_differences": [
+        "Bulla在同源ANF也保留拉丁词，未有直接可靠校勘证据可把它定为头颅或具体处决文书；现译与原注暂留。",
+        "希腊长本有保罗旅途前21章，拉丁本从抵罗马起；佩尔佩图娅后续为希腊部分见证插入，不据短本删掉指定底本附录。",
+        "尼禄逃亡死于饥寒、尸体为野兽所食，属本篇叙述，未以一般历史记载改写。",
+        "末章20后22的编号跳跃保留，不补造21。"
+      ],
+      "unresolved": [
+        "未获得Piñero/del Cerro2011译文或Lipsius-Bonnet希腊此段扫描，Bulla具体所指仍待直接原文与语词校勘。",
+        "本轮末段重点核对，不是全卷两种语言全文复审；现存中文参考未找到可可靠定位的本篇独立全译。"
+      ]
+    }
+  ],
+  "validation": {
+    "units": [
+      {
+        "book_id": "acts-of-thomas",
+        "unit": "cP5W",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-thomas",
+        "unit": "cP65",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-the-twelve-apostles",
+        "unit": "cPCG",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-the-twelve-apostles",
+        "unit": "cPCT",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-the-twelve-apostles",
+        "unit": "cPD0",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-the-twelve-apostles",
+        "unit": "cPD7",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPDE",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPDR",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPDY",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPE5",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPEC",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPEK",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPEU",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPF1",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPF8",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPFF",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPFP",
+        "status": "complete"
+      },
+      {
+        "book_id": "acts-of-peter-and-paul",
+        "unit": "cPFX",
+        "status": "complete"
+      }
+    ],
+    "all_complete": true,
+    "meaning": "仅证明结构、源指纹、非空及既有reviewed状态，不代表本轮全文完成"
+  },
+  "summary": {
+    "books_researched": 3,
+    "body_blocks_changed": 4,
+    "notes_units_changed": 2,
+    "full_books_reviewed_this_round": 0
+  }
+}

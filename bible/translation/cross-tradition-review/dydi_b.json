@@ -1,0 +1,2478 @@
+{
+  "worker": "dydi_b",
+  "status": "focused_review_complete",
+  "method": "底本控制范围；跨传统资源区分独立译本及转载。只记录实际阅读的上下文，不将下载算阅读，不声称全文多本校勘。",
+  "resources": [
+    {
+      "id": "NETS-1Es",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf",
+      "publication": "A New English Translation of the Septuagint, OUP 2007/2009, institutional electronic edition",
+      "translator": "R. Glenn Wooden",
+      "base": "Robert Hanhart, Esdrae liber I, Göttingen 1974; Greek Esdras A",
+      "independence": "学术希腊文新译，非FHL中文1933转载；NETS项目与NRSV有方法上的联系，不能将二者视作完全无关联。NETS 2 Esdras为正典以斯拉尼希米，不等同本项目启示性2-esdras。",
+      "actually_read": "导论pp392–393；1:37–44、4:45–55、5:35–52、6全章、7全章、8:41–64及79–92、9:14–55（NETS节号）"
+    },
+    {
+      "id": "NETS-Ps-PrMan",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/24-ps-nets.pdf",
+      "translator": "Albert Pietersma",
+      "publication": "NETS OUP 2007/2009",
+      "base": "Rahlfs Psalmi cum Odis, Göttingen 1967(1931)，个别校订见脚注",
+      "actually_read": "导论第一页；Psalm151全诗与Prayer of Manasses全篇，pp619–620",
+      "independence": "希腊文译本；不能拿诗151七节直接覆盖本项目叙利亚式八节。玛拿西在此作为Ode12收入，不以收录本身判定各教会正典地位。"
+    },
+    {
+      "id": "Wright-1887",
+      "url": "https://www.tertullian.org/fathers/wright_syriac_apocryphal_psalms.htm",
+      "publication": "W. Wright, Some Apocryphal Psalms in Syriac, PSBA9(1887)257–266; Roger Pearse 2006电子转录",
+      "base": "Cambridge及Vatican叙利亚文抄本，原文介绍已读；网页省略大多数注及叙利亚文",
+      "actually_read": "全篇五诗及介绍",
+      "independence": "现指定英文151–155与该译文顺序和措辞高度接近，视作上游来源线索，不能冒称另一独立英译。NETS151为真正不同希腊传统。"
+    },
+    {
+      "id": "Vermes-2004",
+      "url": "https://couldbeanonymous.wordpress.com/wp-content/uploads/2019/04/complete-scrolls.pdf",
+      "publication": "Geza Vermes, The Complete Dead Sea Scrolls in English, Penguin revised edition 2004；所阅为第三方扫描/电子副本，版权页已核",
+      "base": "11Q5及4Q88希伯来文残卷；4Q88首刊DJD XVI pp102–106，本文导论明示",
+      "actually_read": "Apocryphal Psalms I中SyriacII/III、Prayer for Deliverance、Apostrophe to Zion、Hymn to Creator及Apocryphal Psalms II全文",
+      "independence": "希伯来残卷学术英译不同于Wright叙利亚文；本指定英文156–160与Vermes高度近似，可能为上游改写，不当作完全独立第二英译。"
+    },
+    {
+      "id": "NETS-Daniel-additions",
+      "urls": [
+        "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/39-sousanna-nets.pdf",
+        "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/40-daniel-nets.pdf",
+        "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/41-bel-nets.pdf"
+      ],
+      "translator": "R. Timothy McLay",
+      "publication": "NETS OUP2007/2009",
+      "base": "Ziegler/Munnich, Göttingen Susanna Daniel Bel et Draco 1999；OG与Theodotion分别列出，不合并",
+      "actually_read": "各卷导论文本说明；Bel14全篇两栏；Sousanna40–64两栏、19–23两栏；Daniel3:25–51两栏及本版3B1–27",
+      "independence": "学术希腊文译本，区分两种完整古译；本项目正文较近TH但仍有自身细节，不能依NETS列改写。"
+    },
+    {
+      "id": "NETS-Esther",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/17-esther-nets.pdf",
+      "translator": "Karen H. Jobes",
+      "publication": "NETS OUP2007/2009",
+      "base": "Robert Hanhart, Göttingen Esther1966；OG与Alpha分栏",
+      "actually_read": "导论，B4–7,D6–16,E7–24及末尾译者识语",
+      "independence": "不同于拉丁通行本路线的学术希腊双传统对照，不混合两栏。"
+    },
+    {
+      "id": "NABRE-Esther-D",
+      "url": "https://bible.usccb.org/bible/esther/4",
+      "publication": "USCCB NABRE2011网站",
+      "base": "现代天主教圣经译本；Greek additions保留A–F编次",
+      "actually_read": "C与D正文及D9注",
+      "independence": "USCCB发布的独立英文译本/注，不将其转载网站算新本。"
+    },
+    {
+      "id": "Douay-Esther",
+      "url": "https://www.gutenberg.org/cache/epub/8319/pg8319-images.html",
+      "publication": "Douay-Rheims, Challoner revision, Gutenberg8319",
+      "base": "拉丁Vulgate路线",
+      "actually_read": "11:1–4,12:6,13:6–9,15:12–19,16:10–13及20–24",
+      "independence": "与指定英文措辞高度相近，视为上游来源确认；不冒称另一本独立现代译本。"
+    },
+    {
+      "id": "NETS-3Macc",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/22-3makk-nets.pdf",
+      "translator": "Cameron Boyd-Taylor",
+      "publication": "NETS OUP2007/2009",
+      "base": "Robert Hanhart, Maccabaeorum liber III, Göttingen1980，希腊文",
+      "independence": "不同于Brenton老译；NETS自身依NRSV框架工作，不能重复计算其独立性。",
+      "actually_read": "导论第一页；2:26–33、3:1–6及24–30、4开头、5:1–20及27–43"
+    },
+    {
+      "id": "Brenton-3Macc",
+      "urls": [
+        "https://freely-given.org/OBD/BrTr/byC/MA3_C2.htm",
+        "https://freely-given.org/OBD/BrTr/byC/MA3_C5.htm"
+      ],
+      "publication": "Lancelot C. L. Brenton, The Septuagint Version, 1851; Open Bible Data电子转载",
+      "base": "19世纪希腊七十士文本英译；此处未直接校阅其希腊印本",
+      "actually_read": "第2、5章网页全文，重点2:24–33及5:23–35",
+      "independence": "指定英文显然接近此老译；用于辨上游措辞，不算另一个独立现代译本。"
+    },
+    {
+      "id": "NETS-4Macc",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/23-4makk-nets.pdf",
+      "translator": "Stephen Westerholm",
+      "publication": "NETS OUP2007/2009",
+      "base": "Alfred Rahlfs, Septuaginta1935；主要见Sinaiticus/Alexandrinus，导论说明尚无完备Göttingen校本",
+      "actually_read": "全导论；1–3正文、4:1–17、6全章、8:27–29、10:1–21、12全章、13–18全文",
+      "independence": "希腊原作而非闪语翻译；译者说明自由偏离NRSV以传达希腊文体，不把同一NETS转载算多本。"
+    },
+    {
+      "id": "Brenton-4Macc",
+      "urls": [
+        "https://freely-given.org/OBD/BrTr/byC/MA4_C13.htm",
+        "https://freely-given.org/OBD/BrTr/byC/MA4_C17.htm"
+      ],
+      "publication": "Brenton1851，Open Bible Data电子转载",
+      "base": "19世纪七十士希腊英译，非现代校本",
+      "actually_read": "13及17章整页",
+      "independence": "指定英文接近上游措辞，用于识别改写错误；不是另一独立现代译本。"
+    },
+    {
+      "id": "NETS-1Macc",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/20-1makk-nets.pdf",
+      "translator": "George T. Zervos",
+      "publication": "NETS OUP2007/2009",
+      "base": "Werner Kappler, Maccabaeorum liber I, Göttingen1967(第2修订版)；10:49译者依校勘异读调整主文，导论明确说明",
+      "independence": "现代希腊校本英译；NRSV为方便而用的框架，其差异不等同另一个完全无关来源。",
+      "actually_read": "导论pp478–479；1:11–14、54–64；2:6–10；3:38–51；4:44–57；5:31–39及63–68；6:31–54及57–63；7:1–10；10:46–50；11:1–5及23–35；12:44–50；13:26–30；14:22–29；15:17–28；10:18–21及13:1–6"
+    },
+    {
+      "id": "NETS-2Macc",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/21-2makk-nets.pdf",
+      "translator": "Joachim Schaper",
+      "publication": "NETS OUP2007/2009",
+      "base": "Robert Hanhart, Göttingen1976(1959)；译者个别偏离校本文本在脚注说明，主要叙事原作希腊文",
+      "independence": "独立学术重译并参考NRSV等；不将不同网站NETS当多个版本。",
+      "actually_read": "导论pp503–504；1:25–36；5:22–27；6:1–11；7:6–12及34–40；8:19–26；9:11–29；10:10–16及20–38；11:1–8及22–38；12:10–14及29–45；13:1–10及21–26；14:1–31及37–46；15:25–39"
+    },
+    {
+      "id": "RV-2Macc14",
+      "url": "https://freely-given.org/OBD/RV/byC/MA2_C14.htm",
+      "publication": "English Revised Version Apocrypha1895，Open Bible Data电子转载",
+      "base": "希腊文老译；网站文字未逐页核1895原刊",
+      "actually_read": "第14章全文及注",
+      "independence": "与指定英文高度接近的上游，不算独立现代译本。该电子转载亦有ruler，尚不凭单字判原刊本身排误。"
+    },
+    {
+      "id": "NRSVUE-2Es",
+      "urls": [
+        "https://www.biblegateway.com/passage/?search=2+Esdras+1&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+2&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+3&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+5&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+6&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+7&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+8&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+9&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+10&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+12&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+13&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+14&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+15&version=NRSVUE",
+        "https://www.biblegateway.com/passage/?search=2+Esdras+16&version=NRSVUE"
+      ],
+      "publication": "New Revised Standard Version Updated Edition2021，National Council of Churches；Society of Biblical Literature负责修订，BibleGateway授权电子文本",
+      "base": "序言明确以Robert Weber Biblia Sacra(Stuttgart1971)拉丁本为基本文本，参Bensly1895/Violet1910及叙利亚、埃塞俄比亚、阿拉伯、亚美尼亚、格鲁吉亚各本",
+      "independence": "独立现代修订译本，与指定老英语非简单转载；不能将NRSV及其更新版或同一版本网站视作完全无关联的多重见证。不是NETS希腊EsdrasB(正典以斯拉尼希米)。",
+      "actually_read": "实际逐段范围在本书checked，非下载全部16章即通读。第4、11章只缓存、没有计入阅读。"
+    },
+    {
+      "id": "NRSVUE-preface",
+      "url": "https://ms.augsburgfortress.org/downloads/NRSVUE_Sample_Final.pdf",
+      "publication": "Augsburg Fortress NRSVUE正式样本，SBL序言ppxv–xvi",
+      "actually_read": "次经底本说明及2Esdras拉丁/东方古译关系；PDF页11–12",
+      "independence": "版本自己对方法的说明，不能当另一译本正文。"
+    }
+  ],
+  "books": {
+    "apocryphal-esther": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c84Y",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/17-esther-nets.pdf",
+            "https://www.gutenberg.org/cache/epub/8319/pg8319-images.html",
+            "https://bible.usccb.org/bible/esther/4"
+          ],
+          "findings": "11:1列前为Douay式次序，NETS末列，保持指定版本。"
+        },
+        {
+          "unit": "c855",
+          "blocks": [
+            "p0007"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/17-esther-nets.pdf",
+            "https://www.gutenberg.org/cache/epub/8319/pg8319-images.html",
+            "https://bible.usccb.org/bible/esther/4"
+          ],
+          "findings": "Bugite及Amadathi在Douay确有，非必须校正为正典亚甲族。"
+        },
+        {
+          "unit": "c85C",
+          "blocks": [
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/17-esther-nets.pdf",
+            "https://www.gutenberg.org/cache/epub/8319/pg8319-images.html",
+            "https://bible.usccb.org/bible/esther/4"
+          ],
+          "findings": "十四日获NETS B6与Douay支持，不是必须调为十三的OCR。"
+        },
+        {
+          "unit": "c85U",
+          "blocks": [
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/17-esther-nets.pdf",
+            "https://www.gutenberg.org/cache/epub/8319/pg8319-images.html",
+            "https://bible.usccb.org/bible/esther/4"
+          ],
+          "findings": "brother三译同见；USCCB D9解释为夫妇亲昵称谓，非血缘兄妹。"
+        },
+        {
+          "unit": "c861",
+          "blocks": [
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0020",
+            "p0021",
+            "p0022"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/17-esther-nets.pdf",
+            "https://www.gutenberg.org/cache/epub/8319/pg8319-images.html",
+            "https://bible.usccb.org/bible/esther/4"
+          ],
+          "findings": "上游Douay16:10无I，支持既有录入修正；NETS E20与Douay16:20均十三日。"
+        }
+      ],
+      "retained_differences": [],
+      "changes": [
+        {
+          "unit": "c85C",
+          "field": "notes",
+          "before": [
+            "译者待核实问题（十三6；十六20）：英文本十三6规定亚达月十四日，十六20则写亚达月十三日。两处分别照译，不擅自统一。参考TXT十三6及十六20有“十三月”的写法；英文均为十二月，本译依英文。"
+          ],
+          "after": [
+            "译者注（十三6；十六20）：本版分别作亚达月十四日、十三日；Douay-Rheims同样如此，NETS希腊本B6与E20也保留这两日期，不擅自统一。月份均依英文作十二月。"
+          ],
+          "reason": "实际跨传统对照解决读者误解，保留正文异读，更新说明而不拼合。"
+        },
+        {
+          "unit": "c85U",
+          "field": "notes",
+          "before": [
+            "译者注（十五12）：英文本为“I am your brother”，译作“我是你的兄长”。原先所用TXT参考译本作“我是你的丈夫”，未用参考译本替换本版措辞；这里不据此判定人物的血缘关系。"
+          ],
+          "after": [
+            "译者注（十五12）：“兄长”保留英文brother；NETS及USCCB亦保留此词。USCCB在D9注释中说明，这是夫妇或恋人之间的亲昵称谓，此处并非声称二人有血缘关系。"
+          ],
+          "reason": "实际跨传统对照解决读者误解，保留正文异读，更新说明而不拼合。"
+        }
+      ],
+      "remaining": "已核所有现存异读注释及对应跨译本上下文，未将其余全书正文作两传统逐字校勘。",
+      "status": "focused_review_complete"
+    },
+    "apocryphal-daniel": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c892",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042",
+            "p0043"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/41-bel-nets.pdf"
+          ],
+          "findings": "全42节对两种Greek传统；四十羊/酒、王印、哈巴谷送饭为TH式细节，保留，不拼入OG四羊/油与三十弥拿等。meat古义为食物，应免缩窄为肉。"
+        },
+        {
+          "unit": "c88N",
+          "blocks": [
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055",
+            "p0056",
+            "p0057",
+            "p0058",
+            "p0059",
+            "p0060",
+            "p0061",
+            "p0062",
+            "p0063",
+            "p0064",
+            "p0065"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/39-sousanna-nets.pdf pp989–990"
+          ],
+          "findings": "核假证、圣洁之灵、两树审问及报应段落。TH为神激动少年之灵，OG由使者赋理解之灵，不能混合；TH结尾无OG投入峡谷与天火，未添。"
+        },
+        {
+          "unit": "c888",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/40-daniel-nets.pdf pp1000–1001"
+          ],
+          "findings": "核亚撒利雅祷告与火窑段落，命令目的为使民得福，不是悖逆的结果。四十九肘、湿润呼啸之风保持英文。"
+        }
+      ],
+      "retained_differences": [],
+      "changes": [
+        {
+          "unit": "c892",
+          "block": "p0012",
+          "before": "彼勒的祭司说：“看哪，我们出去；王啊，你摆好肉，调好酒，陈列在此，关紧门，用自己的印封好。",
+          "after": "彼勒的祭司说：“看哪，我们出去；王啊，你摆好食物，调好酒，陈列在此，关紧门，用自己的印封好。",
+          "reason": "meat在此沿古英语泛指供食，3节包含面粉与羊，NETSTH11/14为food；不宜把供品缩为肉。"
+        },
+        {
+          "unit": "c892",
+          "block": "p0015",
+          "before": "他们出去后，王把肉摆在彼勒面前。但以理已经吩咐仆人拿灰来，只在王面前，将灰撒满庙里。随后他们出去，关门，用王的印封好，便离开了。",
+          "after": "他们出去后，王把食物摆在彼勒面前。但以理已经吩咐仆人拿灰来，只在王面前，将灰撒满庙里。随后他们出去，关门，用王的印封好，便离开了。",
+          "reason": "meat在此沿古英语泛指供食，3节包含面粉与羊，NETSTH11/14为food；不宜把供品缩为肉。"
+        },
+        {
+          "unit": "c888",
+          "block": "p0008",
+          "before": "我们在一切事上都有过犯，没有听从、遵守你的诫命，也没有照你的吩咐行，使我们得福。",
+          "after": "我们在一切事上都有过犯，没有听从、遵守你的诫命，也没有遵行你为使我们得福所赐的吩咐。",
+          "reason": "that it might go well为命令目的，旧中文逗号使得福可能误接不遵行的结果；NETS两栏均支持目的关系。"
+        }
+      ],
+      "remaining": "已核Bel全篇、Susanna后半和Azariah祷文，余下赞歌及Susanna前半未全篇跨译本校勘。",
+      "status": "focused_review_complete"
+    },
+    "apocryphal-psalms": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c86J",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055",
+            "p0056",
+            "p0057",
+            "p0058",
+            "p0059",
+            "p0060",
+            "p0061",
+            "p0062",
+            "p0063",
+            "p0064",
+            "p0065",
+            "p0066",
+            "p0067"
+          ],
+          "references": [
+            "https://www.tertullian.org/fathers/wright_syriac_apocryphal_psalms.htm",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/24-ps-nets.pdf Psalm151"
+          ],
+          "findings": "151–155全文对照Wright，151另对NETS希腊本。狮狼插句及谁显示主不同于LXX，不删；153:10 discipline与Wright chastisement同指惩戒，属上游译法非必然录入错误。153:19恢复Give Thou语法的施事者。"
+        },
+        {
+          "unit": "c86J",
+          "blocks": [
+            "p0068",
+            "p0069",
+            "p0070",
+            "p0071",
+            "p0072",
+            "p0073",
+            "p0074",
+            "p0075",
+            "p0076",
+            "p0077",
+            "p0078",
+            "p0079",
+            "p0080",
+            "p0081",
+            "p0082",
+            "p0083",
+            "p0084",
+            "p0085",
+            "p0086",
+            "p0087",
+            "p0088",
+            "p0089",
+            "p0090",
+            "p0091",
+            "p0092",
+            "p0093",
+            "p0094",
+            "p0095",
+            "p0096",
+            "p0097",
+            "p0098",
+            "p0099",
+            "p0100",
+            "p0101",
+            "p0102",
+            "p0103",
+            "p0104",
+            "p0105",
+            "p0106",
+            "p0107",
+            "p0108",
+            "p0109",
+            "p0110",
+            "p0111",
+            "p0112",
+            "p0113",
+            "p0114",
+            "p0115",
+            "p0116",
+            "p0117",
+            "p0118",
+            "p0119",
+            "p0120",
+            "p0121",
+            "p0122",
+            "p0123",
+            "p0124",
+            "p0125",
+            "p0126",
+            "p0127",
+            "p0128",
+            "p0129",
+            "p0130",
+            "p0131",
+            "p0132",
+            "p0133"
+          ],
+          "references": [
+            "https://couldbeanonymous.wordpress.com/wp-content/uploads/2019/04/complete-scrolls.pdf Apocryphal Psalms I–II"
+          ],
+          "findings": "156–160全五诗比照Vermes；158:5在残卷译文有缺损符号，指定英文补为完整句，应说明重构，不能强修自然果树。160:4 Vermes obscurity而指定英文unknown，仍保留未知，不能只凭一译回改。157若干问句/救恩措辞与上游近似，不按神学顺句而改。"
+        }
+      ],
+      "retained_differences": [],
+      "changes": [
+        {
+          "unit": "c86J",
+          "block": "p0050",
+          "before": "愿尊荣永远归给你，直到永永远远！",
+          "after": "愿你赐下尊荣，直到永永远远！",
+          "reason": "指定英文Give You honor中You沿古译Thou，Wright1887 III:19 Give Thou honour明确为你赐尊荣；原译尊荣归你颠倒给予者，改正祈求方向，未擅补受赐对象。"
+        },
+        {
+          "unit": "c86J",
+          "field": "notes",
+          "before": [
+            "译者注：本版诗篇152—155的排列，与参考中文文献常见的152—155次序不同；此处保留本版编号。",
+            "译者待核实问题：诗篇153:10原文为“my discipline”，所指不明，按“我所受的管教”保留；参考本作“过犯”或“侮慢”，未据以替换。诗篇158:5“果树……葡萄园的果子”措辞不寻常，保留底本意象。诗篇160:4原文为“the unknown”，译为“未知之境”，未自行改为“黑暗”。"
+          ],
+          "after": [
+            "译者注：本版诗篇152—155的排列，与参考中文文献常见的152—155次序不同；此处保留本版编号。",
+            "译者注：本版诗篇153:10的discipline与Wright（1887）叙利亚文英译中的chastisement相应，保留“所受的管教”；希伯来残卷译本作罪，并非据此改写本版。",
+            "译者注：诗篇158:5对应4Q88残损处，Vermes译本标有缺文；本版将其补成“果树……葡萄园的果子”，仍按所提供英文保留，不把补文当作完整可读的古卷原文。诗篇160:4本版为the unknown，Vermes作obscurity，保留本版“未知之境”，未自行调和。"
+          ],
+          "reason": "追溯实际叙利亚文英译及希伯来残卷译本，区别真实异读与重构；不再笼统把discipline视为无据错误。"
+        }
+      ],
+      "remaining": "151–160正文全篇已对可得上游译文，151另对NETS；未逐字核叙利亚文或死海古卷影像，也未独立证实卷首各教会正典断言。",
+      "status": "focused_review_complete"
+    },
+    "1-maccabees": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c95G",
+          "blocks": [
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c95G",
+          "blocks": [
+            "p0054",
+            "p0055",
+            "p0056",
+            "p0057",
+            "p0058",
+            "p0059",
+            "p0060",
+            "p0061"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c95S",
+          "blocks": [
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c960",
+          "blocks": [
+            "p0039",
+            "p0040"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c960",
+          "blocks": [
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c968",
+          "blocks": [
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c96G",
+          "blocks": [
+            "p0035",
+            "p0036",
+            "p0037"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c96G",
+          "blocks": [
+            "p0065",
+            "p0066",
+            "p0067",
+            "p0068",
+            "p0069"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c96S",
+          "blocks": [
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c96S",
+          "blocks": [
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c970",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c97S",
+          "blocks": [
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c980",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c980",
+          "blocks": [
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c988",
+          "blocks": [
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c98G",
+          "blocks": [
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c98S",
+          "blocks": [
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c990",
+          "blocks": [
+            "p0018",
+            "p0019",
+            "p0020"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c990",
+          "blocks": [
+            "p0025",
+            "p0026",
+            "p0027"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "依实际英文、现译与NETS对应上下文复核；正文不拼合。具体异读见retained_differences。"
+        },
+        {
+          "unit": "c97S",
+          "blocks": [
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "10:20王送紫袍金冠在NETS亦为插入叙事，现译移本块末尾未删内容。"
+        },
+        {
+          "unit": "c98G",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "references": [
+            "NETS-1Macc"
+          ],
+          "findings": "13:3–5指定countrymen与NETSbrothers不同，沿英文同胞，不将其改成兄弟。"
+        }
+      ],
+      "retained_differences": [
+        "1:13热心前往、1:59偶像坛在祭坛上原先修正获NETS支持。",
+        "2:8指定英文曾经荣耀，NETS没有尊荣，不删加否定。",
+        "3:39七千骑兵NETS支持；3:48NETS将外邦人求问偶像作比较，指定英文将外邦人查问律法书作句法主语，保留源句。",
+        "4:49额外燔祭坛不见NETS；5:35Mizpeh/NETSMaapha，5:66Samaria/NETSMarisa，5:67英文单数he与NETS祭司复数不同，均不无注改写。",
+        "6:34向象展示汁液NETS支持，6:37三十二/NETS四保留；6:49原译修正复数撤城有NETS支持。",
+        "7:1一百五十/NETS一百五十一；7:7陈述惩罚/NETS请求惩罚，保留指定英文。",
+        "10:49败军身份不是简单译错：NETS导论明说自行选用Kappler校勘栏异读；指定英文的亚历山大败退与Kappler主文相同，保留战事。",
+        "11:3多利买港诸城与NETS托勒密入诸城不同；11:28三个省区与撒玛利亚并列、未写每年获NETS支持。",
+        "12:47两千/一千、13:28七碑配六位亲属均NETS同，不自行调整。",
+        "14:24及15:18英文pound与NETSmina不同，保留单位不硬换算；14:28地点Asaramel为NETS同。",
+        "15:25第二天与NETS第二次不同，保留底本。"
+      ],
+      "changes": [],
+      "remaining": "已核现有注释的全部文本疑点与相邻上下文。本轮无正文改动；第8、9、16章及其余未列段落未作全文跨译本校勘。5:67、7:7等指定英文句法仍应回溯编译原刊，不将独立现代译本直接覆盖。",
+      "status": "focused_review_complete"
+    },
+    "2-maccabees": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c99T",
+          "blocks": [
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9AT",
+          "blocks": [
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9B1",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9B9",
+          "blocks": [
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9B9",
+          "blocks": [
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9BH",
+          "blocks": [
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9BT",
+          "blocks": [
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9C1",
+          "blocks": [
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9C1",
+          "blocks": [
+            "p0022",
+            "p0023",
+            "p0024"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9C1",
+          "blocks": [
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035",
+            "p0036"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9C9",
+          "blocks": [
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9C9",
+          "blocks": [
+            "p0023",
+            "p0024",
+            "p0025"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9C9",
+          "blocks": [
+            "p0030",
+            "p0031",
+            "p0032"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9C9",
+          "blocks": [
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9CH",
+          "blocks": [
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9CH",
+          "blocks": [
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9CH",
+          "blocks": [
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9CT",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9CT",
+          "blocks": [
+            "p0024",
+            "p0025",
+            "p0026"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9D1",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "references": [
+            "NETS-2Macc",
+            "RV-2Macc14"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9D1",
+          "blocks": [
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019"
+          ],
+          "references": [
+            "NETS-2Macc",
+            "RV-2Macc14"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9D1",
+          "blocks": [
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032"
+          ],
+          "references": [
+            "NETS-2Macc",
+            "RV-2Macc14"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9D1",
+          "blocks": [
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047"
+          ],
+          "references": [
+            "NETS-2Macc",
+            "RV-2Macc14"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        },
+        {
+          "unit": "c9D9",
+          "blocks": [
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038"
+          ],
+          "references": [
+            "NETS-2Macc"
+          ],
+          "findings": "逐读对应英文/现译/NETS及必要的老译上下文；修订和保留差异分别记录。"
+        }
+      ],
+      "retained_differences": [
+        "1:32NETS被消耗者为火焰，指定英文括加all，保留而不以参考本熄灭替换。",
+        "5:24二万二千获NETS支持，lord of pollutions与Mysian captain不同；6:1老人/议员、6:2居民情况/请求、Jupiter/Bacchus拉丁神名保留英文。6:8托勒密个人NETS支持。",
+        "7:6原先treated补en与NETS怜悯相合；7:38英文第二人称you不同于NETS向神请求，保留。",
+        "8:20八千再六千与NETS两处八千不同；8:23英文未指定以利亚撒读经，保留句法。",
+        "9:18叙述者绝望与9:22王自称仍希望不矛盾；9:25另信未附NETS亦如此，不补造。",
+        "10:13原先译为在王前受控有NETS证实，但不擅补王友；10:22及11:36立即派遣原修正获NETS支持。",
+        "10:31二万零五百、11:30三十日均获NETS支持；10:33、35指定英文二十四/二十五不同于NETS四/五，不改。",
+        "11:5五league/NETS五stadia不同，保留指定单位；11:23父王愿望/NETS我们愿望不合并。",
+        "12:13Gephyrun+Cas pin另名与NETS仅Kaspin不同；12:35不改断臂；12:43二千同NETS，12:45尊荣感恩记念不同于NETS赏赐，保留。",
+        "13:2各领军与NETS校改同上；13:5平台与灰坑结构保留；13:24革仁人不改NETS Gerar。",
+        "14:3不混杂时期与NETS separation相合；14:14驱逐者/逃亡者是真实RV异译，RV页注也给另一理解；14:16–17 RV明确希腊文本损坏，交战先后难处保留。",
+        "14:30ruler疑ruder，NETS确为态度粗暴；现译盛气凌人已顺上下文，未据未核原刊强称录入已证。14:46挥动/NETS抛掷，15:35头和肩臂/NETS头不同，保留。15:36叙利亚语NETS同。"
+      ],
+      "changes": [
+        {
+          "unit": "c9CH",
+          "block": "p0036",
+          "before": "巴赛挪部下有一个名叫多西修斯的人，是个强壮的骑兵。他紧逼葛基亚，抓住他的外袍，用力拖拉，想活捉这可咒诅的人；一个色雷斯骑兵却冲过来，砍伤他的肩膀，使他失去力量。葛基亚就这样逃到了玛利沙。",
+          "after": "巴赛挪部下有一个名叫多西修斯的人，是个强壮的骑兵。他紧逼葛基亚，抓住他的外袍，用力拖拉，想活捉这可咒诅的人；一个色雷斯骑兵却冲过来，伤了他的肩膀，使他失去力量。葛基亚就这样逃到了玛利沙。",
+          "reason": "disabled his shoulder未说使用刀砍；NETS仅说打伤/折伤肩部也没有刀。撤去现译擅加的伤害方式，仍保留未断臂。"
+        },
+        {
+          "unit": "c9CT",
+          "block": "p0003",
+          "before": "他的监护人兼执政大臣吕西亚也与他同行。两人各领一支希腊军队，共有十一万步兵、五千三百骑兵、二十二头战象和三百辆装有镰刀的战车。",
+          "after": "他的监护人兼执政大臣吕西亚也与他同行。两人各领一支希腊军队，兵力为十一万步兵、五千三百骑兵、二十二头战象和三百辆装有镰刀的战车。",
+          "reason": "each having a Greek force不能擅加“共有”来把数字确定为合计；NETS13:2将each with校改为also，并脚注Hanhart读法，证明版本差异。保留各领及数字而撤去共有，不自行计算或调和。"
+        },
+        {
+          "unit": "c9CT",
+          "field": "notes[0]",
+          "before": "13:2战象依英文二十二头；参考本二十三头。英文each having a Greek force后列军力，译文保留两人各领军与所列兵力，不将数字翻倍。",
+          "after": "13:2战象依英文二十二头，NETS亦为二十二。英文each having a Greek force后列军力；NETS将希腊校本的each with改读为also，并在脚注说明。本文保留两人各领军及原列数字，不增“共有”，也不自行倍增数字或调和版本。",
+          "reason": "补入实际希腊校本/NETS差异，纠正此前断言合计的倾向。"
+        }
+      ],
+      "remaining": "现有注释疑点全部以对应现代学术译本与上下文核读。第2–4章及其他未列正文未作全文跨本校勘；14:30ruler的原刊字形仍待原扫描核实，不把另一转载当原刊证据。",
+      "status": "focused_review_complete"
+    },
+    "1-esdras": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c9DX",
+          "blocks": [
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS1:37–44"
+          ],
+          "findings": "NETS也称父子同为Ioakeim，证实译本传统并非必须纠为约雅斤。"
+        },
+        {
+          "unit": "c9EN",
+          "blocks": [
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS4:49–55"
+          ],
+          "findings": "十他连得及十七无名祭物均获独立文本支持，保留。"
+        },
+        {
+          "unit": "c9EX",
+          "blocks": [
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS5:35–45"
+          ],
+          "findings": "两名字并列、十二岁、四万二千三百六十及牲畜数获支持；NETS量单位mina与指定英文pound不同，仍不换本。"
+        },
+        {
+          "unit": "c9FD",
+          "blocks": [
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS7全章"
+          ],
+          "findings": "二十三日有支持；7:11 NETS否定not all而指定英文全都肯定，保留差异，不改否定。"
+        },
+        {
+          "unit": "c9FN",
+          "blocks": [
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS8:41–48"
+          ],
+          "findings": "NETS主事者Addaios与本版Iddo/Loddeus不同，不能据此拼合；人名仍依指定英文。"
+        },
+        {
+          "unit": "c9FN",
+          "blocks": [
+            "p0055",
+            "p0056",
+            "p0057",
+            "p0058",
+            "p0059"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS8:54–58"
+          ],
+          "findings": "铜器十二件支持现译，未套正典两件。"
+        },
+        {
+          "unit": "c9FN",
+          "blocks": [
+            "p0065",
+            "p0066",
+            "p0067",
+            "p0068"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS8:60–64"
+          ],
+          "findings": "七十二羔羊有支持，NETS deliverance祭而指定英文peace offering，保留平安祭。"
+        },
+        {
+          "unit": "c9FN",
+          "blocks": [
+            "p0086",
+            "p0087",
+            "p0088",
+            "p0089",
+            "p0090",
+            "p0091",
+            "p0092",
+            "p0093",
+            "p0094",
+            "p0095",
+            "p0096",
+            "p0097"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS8:79–92"
+          ],
+          "findings": "88节否定陈述不同于NETS反问，保留；92节aloft按盼望译获上下文与NETS支持；95节恢复共同奋勇行事的主语。"
+        },
+        {
+          "unit": "c9FX",
+          "blocks": [
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055",
+            "p0056"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf#NETS9:37–55"
+          ],
+          "findings": "坐首位与主使得尊荣均获NETS支持，不能机械改为尼希米记平行经文。"
+        },
+        {
+          "unit": "c9F5",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/15-1esdras-nets.pdf pp400–401"
+          ],
+          "findings": "全章与NETS6逐段核读，注意版本分节一节偏移。外加孙子、王儿女与NETS儿子/仆人不同，保留指定英文；设巴萨并列所罗巴伯及60肘支持现译。未发现本章必改。"
+        }
+      ],
+      "retained_differences": [],
+      "changes": [
+        {
+          "unit": "c9FN",
+          "block": "p0096",
+          "before": "起来办理吧！这事是你的责任，我们必与你同在；你当刚强行事。”",
+          "after": "起来办理吧！这事是你的责任，我们必与你一同奋勇行事。”",
+          "reason": "we will be with you to do valiantly为我们与以斯拉同行奋勇；原译额外分出你当刚强命令。NETS8:91同为我们与你同办，支持恢复共同主语。"
+        },
+        {
+          "unit": "c9DX",
+          "field": "notes[0]",
+          "before": "第1章43节英文将约雅敬的儿子也写作Jehoiakim；参考本及正典平行记载作约雅斤。此处保留本版姓名“约雅敬”，待核实底本。",
+          "after": "1:43英文将约雅敬的儿子也写作Jehoiakim；NETS据哥廷根希腊文版译本1:41同样作Ioakeim。保留本版姓名“约雅敬”，不据正典平行记载改成约雅斤。",
+          "reason": "独立希腊文译本支持该姓名，明确为文本差异，解除仅据正典怀疑的待核。"
+        }
+      ],
+      "remaining": "已核所有现存注释疑点、整第6章及主要相邻段；其余第1–5、8–9章非全篇逐字跨本校勘。",
+      "status": "focused_review_complete"
+    },
+    "2-esdras": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c9GH",
+          "blocks": [
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+1&version=NRSVUE；本章所核源节35–40，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9GT",
+          "blocks": [
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+2&version=NRSVUE；本章所核源节3–7，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9GT",
+          "blocks": [
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+2&version=NRSVUE；本章所核源节20–25，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9H1",
+          "blocks": [
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+3&version=NRSVUE；本章所核源节14–19，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9HH",
+          "blocks": [
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+5&version=NRSVUE；本章所核源节2–7，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9HT",
+          "blocks": [
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+6&version=NRSVUE；本章所核源节7–11，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9HT",
+          "blocks": [
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+6&version=NRSVUE；本章所核源节34–39，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9J1",
+          "blocks": [
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+7&version=NRSVUE；本章所核源节26–32，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9J1",
+          "blocks": [
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055",
+            "p0056"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+7&version=NRSVUE；本章所核源节49–55，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9J1",
+          "blocks": [
+            "p0077",
+            "p0078",
+            "p0079",
+            "p0080",
+            "p0081",
+            "p0082",
+            "p0083",
+            "p0084"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+7&version=NRSVUE；本章所核源节76–83，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9J9",
+          "blocks": [
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+8&version=NRSVUE；本章所核源节6–12，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9J9",
+          "blocks": [
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+8&version=NRSVUE；本章所核源节37–41，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9J9",
+          "blocks": [
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+8&version=NRSVUE；本章所核源节45–49，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9JH",
+          "blocks": [
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+9&version=NRSVUE；本章所核源节5–9，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9JH",
+          "blocks": [
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+9&version=NRSVUE；本章所核源节17–21，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9JT",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+10&version=NRSVUE；本章所核源节1–4，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9JT",
+          "blocks": [
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+10&version=NRSVUE；本章所核源节14–18，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9K9",
+          "blocks": [
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+12&version=NRSVUE；本章所核源节16–25，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9K9",
+          "blocks": [
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+12&version=NRSVUE；本章所核源节30–34，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9KH",
+          "blocks": [
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+13&version=NRSVUE；本章所核源节11–14，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9KH",
+          "blocks": [
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+13&version=NRSVUE；本章所核源节21–25，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9KT",
+          "blocks": [
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+14&version=NRSVUE；本章所核源节9–14，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9KT",
+          "blocks": [
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035",
+            "p0036"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+14&version=NRSVUE；本章所核源节31–35，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9KT",
+          "blocks": [
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+14&version=NRSVUE；本章所核源节40–48，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9M1",
+          "blocks": [
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+15&version=NRSVUE；本章所核源节18–23，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9M1",
+          "blocks": [
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+15&version=NRSVUE；本章所核源节36–41，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9M1",
+          "blocks": [
+            "p0058",
+            "p0059",
+            "p0060",
+            "p0061",
+            "p0062",
+            "p0063",
+            "p0064"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+15&version=NRSVUE；本章所核源节57–63，第16章参考通常比源节大1。"
+        },
+        {
+          "unit": "c9M9",
+          "blocks": [
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055",
+            "p0056"
+          ],
+          "references": [
+            "NRSVUE-2Es"
+          ],
+          "findings": "实际读指定英文/现译及对应NRSVUE正文与注。参考URL：https://www.biblegateway.com/passage/?search=2+Esdras+16&version=NRSVUE；本章所核源节46–55，第16章参考通常比源节大1。参考NRSVUE16:46–56已读。"
+        }
+      ],
+      "retained_differences": [
+        "1:38father及2:5father确见NRSVUE；1:38另有brother异读。不补特指以色列之父。",
+        "2:23我的复活为NRSVUE同，保留不用教义释义替文。",
+        "3:16将以扫置旁原修正与NRSVUE拒绝以扫相合。",
+        "5:4第三国度/时期的补词不同；NRSVUE脚注列不同古译，保留指定括注。",
+        "6:8重复亚伯拉罕属拉丁传统，非可直接判定英文笔误；6:36第八夜NRSVUE同。",
+        "7:28–29儿子基督四百年后死，NRSVUE保留同叙事；其注Latin我的儿子耶稣等古译差异，不以教义删改。",
+        "7:52宝石铅泥句NRSVUE亦注明拉丁等难解，保留指定比较；7:78敬拜及7:81藐视均NRSVUE同。",
+        "8:8–9母体承载胎儿NRSVUE同（注拉丁母体字面受造之物）；8:39寄居历程、8:47禁止归入不义者均获支持。",
+        "9:7行为或信心的or NRSVUE同；9:19律法是NRSVUE所注拉丁读法，其草场为校改，不据此替换。",
+        "10:2打翻灯与NRSVUE熄灯不同；10:16妇女中受称赞NRSVUE同。",
+        "12:18时期过后、12:23三个国均NRSVUE明确列为拉丁读法；主文依东方古译改中期、三王，本文不覆盖。12:32对象为邪恶统治者而非擅补以色列。",
+        "13:13带来作奉献的人不补未明对象；13:23忍受危险者与NRSVUE带来危险者不同，仍保留源英文。",
+        "14:11–12数字不一致，NRSVUE九为校改且注拉丁十；14:33亲族在中间、14:45没有二十四均属其明确拉丁注读法；14:43夜不闭口NRSVUE同，非应删否定。",
+        "15:20重复东向列举与NRSVUE一致；15:38南/北亦一致；15:60返回巴比伦与NRSVUE从巴比伦回不同，仍保留源方向。",
+        "16:50（NRSVUE51）保护察究者句法双方相同，仍不擅定代词，修正失配注释。"
+      ],
+      "changes": [
+        {
+          "unit": "c9JH",
+          "block": "p0010",
+          "before": "那时，如今曲解我道路的人必惊愕，藐视并弃绝我道路的人必住在痛苦中。",
+          "after": "那时，如今践踏我道路的人必惊愕，藐视并弃绝我道路的人必住在痛苦中。",
+          "reason": "abused My ways在与藐视弃绝并列的审判上下文中是践踏、不当对待神的道路，不限于解释错误。NRSVUE9:9保留相同abused句法；改“曲解”为“践踏”，恢复道德行为层面。"
+        },
+        {
+          "unit": "c9HT",
+          "field": "notes[0]",
+          "before": "第6章8节底本作“From Abraham to Abraham”（从亚伯拉罕到亚伯拉罕）；中文参考本作“从亚伯拉罕到以撒”。此处保留底本重复姓名，列为待核实问题。",
+          "after": "6:8指定英文两次作亚伯拉罕。NRSVUE主文依叙利亚本作“从亚伯拉罕到以撒”，脚注明示拉丁本仍作“到亚伯拉罕”。这是已有古译传统的差异，不径判为本英文漏改或笔误；正文保留拉丁式重复姓名。",
+          "reason": "已取得确切古译底本证据，撤去笼统待核，说明为何保留异常重复。"
+        },
+        {
+          "unit": "c9M9",
+          "field": "notes[0]",
+          "before": "16:50英文代词指向较晦涩，结合前后拟人比喻及两处中文参考，译作主维护公义、察究罪恶，公义当面控诉罪恶。",
+          "after": "16:50（NRSVUE16:51）英文代词指向晦涩。本文按句面保留：来临者保护那察究地上罪恶的人；公义与罪恶仍为拟人主体。NRSVUE也保留这层“保护察究者”的句法，不把神直接改为察究者，具体指代仍待解释。",
+          "reason": "现有旧注称译作主维护公义并察究罪恶，与实际正文不符；NRSVUE支持现正文句法，校正注释而不擅定代词身份。"
+        }
+      ],
+      "remaining": "全部现存注释疑难已核对现代学术修订版及对应注释，已确认多处实为拉丁与东方古译差异。第4、11章和未列正文未逐字校勘，未直接查看拉丁手稿/校勘版页；13:23及16:50指代仍保留，不冒称解决所有学术疑难。",
+      "status": "focused_review_complete"
+    },
+    "3-maccabees": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c9N3",
+          "blocks": [
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033"
+          ],
+          "references": [
+            "NETS-3Macc",
+            "Brenton-3Macc"
+          ],
+          "findings": "2:26恶评施受修正；2:31敬虔之城确见Brenton，NETS句法不同，暂不把指定英文换为另一译法。"
+        },
+        {
+          "unit": "c9NB",
+          "blocks": [
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030"
+          ],
+          "references": [
+            "NETS-3Macc",
+            "Brenton-3Macc"
+          ],
+          "findings": "3:28赏金指定英文二千，NETS一千，旧中文参考三千；数字不拼合。"
+        },
+        {
+          "unit": "c9NV",
+          "blocks": [
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013"
+          ],
+          "references": [
+            "NETS-3Macc",
+            "Brenton-3Macc"
+          ],
+          "findings": "5:10kind误作king与5:31忠诚服事对象原有修正均获Brenton及NETS证实；5:27exit可能是外出行动或召王外出，现译依26节请求读法保留，不能只依NETS unauthorized来增添未经许可。"
+        },
+        {
+          "unit": "c9NV",
+          "blocks": [
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035"
+          ],
+          "references": [
+            "NETS-3Macc",
+            "Brenton-3Macc"
+          ],
+          "findings": "5:10kind误作king与5:31忠诚服事对象原有修正均获Brenton及NETS证实；5:27exit可能是外出行动或召王外出，现译依26节请求读法保留，不能只依NETS unauthorized来增添未经许可。"
+        },
+        {
+          "unit": "c9NV",
+          "blocks": [
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044"
+          ],
+          "references": [
+            "NETS-3Macc",
+            "Brenton-3Macc"
+          ],
+          "findings": "Phalaris典故确见两译同一语境，现注说明残暴统治者足够；阴间Hades保留。"
+        }
+      ],
+      "retained_differences": [
+        "2:31 city of piety为Brenton已有难句，保留且仍待希腊句法专研。",
+        "3:28二千/一千/三千赏金差异保留指定英文。",
+        "5:27外出指代仍可讨论，未依NETS自动加未经许可。"
+      ],
+      "changes": [
+        {
+          "unit": "c9N3",
+          "block": "p0027",
+          "before": "他行了无数不敬虔的事，仍不满足；又越发胆大妄为，在那里散布恶言。许多朋友留意他的意图，便一同助长他的心愿。",
+          "after": "他行了无数不敬虔的事，仍不满足；又越发胆大妄为，以致在那里引起恶评。许多朋友留意他的意图，便一同助长他的心愿。",
+          "reason": "raise evil reports承接王日益放纵的行径，表示引起恶评，非明确说他亲自散布恶言；NETS2:26亦作乡间传开恶评，未明定被评论的对象，故不补出受评者。"
+        }
+      ],
+      "remaining": "已处理全部现存注释疑点，并核其上下文；未逐字复核第1、4、6、7章全章或希腊抄本。",
+      "status": "focused_review_complete"
+    },
+    "4-maccabees": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c9PX",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9R5",
+          "blocks": [
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9RD",
+          "blocks": [
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9RN",
+          "blocks": [
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9S5",
+          "blocks": [
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9SN",
+          "blocks": [
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9T5",
+          "blocks": [
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9TN",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9TX",
+          "blocks": [
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021"
+          ],
+          "references": [
+            "NETS-4Macc",
+            "Brenton-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9U5",
+          "blocks": [
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9U5",
+          "blocks": [
+            "p0020",
+            "p0021"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9UD",
+          "blocks": [
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9UN",
+          "blocks": [
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9UN",
+          "blocks": [
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9UX",
+          "blocks": [
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011"
+          ],
+          "references": [
+            "NETS-4Macc",
+            "Brenton-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9UX",
+          "blocks": [
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025"
+          ],
+          "references": [
+            "NETS-4Macc",
+            "Brenton-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9V5",
+          "blocks": [
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        },
+        {
+          "unit": "c9V5",
+          "blocks": [
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019"
+          ],
+          "references": [
+            "NETS-4Macc"
+          ],
+          "findings": "逐读指定英文、现译及NETS对应上下文。差异见本书retained_differences；实际改动另列。"
+        }
+      ],
+      "retained_differences": [
+        "1情欲广义包括苦乐，保留原译说明。",
+        "2:14NETS仅说扶起倒下之物，没有明确牲畜；指定英文fallen ruins保留，不强补牲畜。",
+        "3:12两士兵、4:15安提阿古为西流古之子、6:27原可自救、14:7七日，均NETS同，不按历史常识或不同参考改。",
+        "8:28缺句与编号：NETS有句，指定英文此块仅省略号，保留不补。",
+        "10:7勒死/指尖之皮与NETS压制/以指尖剥皮不同；中文依指定英文，不无注拼合。",
+        "10:14没有火使胆怯明确，NETS支持。",
+        "12全章20节与NETS19节为切分不同，保留编号。",
+        "15:24一次拥抱，NETS没有，保留英文。",
+        "16:20谁不战栗：指定英文连句主语亚伯拉罕，NETS明确以撒，保留英文句法，不用后者覆盖。",
+        "17:7would not shudder陈述确见Brenton；NETS作反问，保留底本并标歧义。17:9老人祭司与老妇分列、17:24实际作战、18:16He/his均获NETS支持。",
+        "18:7肋骨意象见NETS，非翻译杜撰，保留。"
+      ],
+      "changes": [
+        {
+          "unit": "c9V5",
+          "block": "p0008",
+          "before": "那七个儿子的义母，也曾对孩子们这样说：“我从前是清洁的处女，没有离开父家，谨守那由肋骨造成的身体。",
+          "after": "那七个儿子敬虔的母亲，也曾对孩子们这样说：“我从前是清洁的处女，没有离开父家，谨守那由肋骨造成的身体。",
+          "reason": "righteous mother是赞其为义，不是收养关系的“义母”；NETS18:6–7与本段亲生七子上下文均明确。"
+        },
+        {
+          "unit": "c9UX",
+          "block": "p0008",
+          "before": "倘若律法准许我们将你这敬虔的故事绘在画板上，观看的人见这位七子的母亲为信仰忍受各样刑罚直到死，也不会战栗。",
+          "after": "倘若准许我们将你这敬虔的故事绘在画板上，观看的人见这位七子的母亲为信仰忍受各样刑罚直到死，也不会战栗。",
+          "reason": "lawful未明指摩西律法；撤去现译擅加的“律法”主体。后半英文否定陈述确见Brenton，虽NETS反问不同，仍保留底本。"
+        },
+        {
+          "unit": "c9TX",
+          "block": "p0013",
+          "before": "又一个说：“要记住你出自什么族类；要指着我们先祖以撒的手坚立自己，他曾为敬虔甘愿受杀。”",
+          "after": "又一个说：“要记住你们出自什么族类，也要记住以撒为敬虔甘愿死在怎样一位父亲手中。”",
+          "reason": "指定英文将Brenton的“what father Isaac”错成“our father Isaac who”，使手的所属及句法失序。已核Brenton13:12完整句与独立NETS13:12，均为记念以撒甘受其父之手的祭献，非指着以撒的手起誓。按明确上游讹改修正并附说明。交叉复核后撤去原句未写出的执刀动作，仅保留父亲之手。"
+        },
+        {
+          "unit": "c9TX",
+          "field": "notes[0]",
+          "before": "第十二节英文“by the hand of our father Isaac”表达特殊，保留指着先祖之手的措辞，不径改成参考本仅“记念”。第十九节由弟兄呼喊转为作者对读者说话，中文相应结束引号。",
+          "after": "13:12指定英文“by the hand of our father Isaac who”句法失序。Brenton对应句为记念以撒曾甘愿由怎样的父亲之手被献；NETS也支持这一句法。依上游及上下文修正，不再译作指着以撒的手。第十九节由弟兄呼喊转为作者对读者说话，中文相应结束引号。",
+          "reason": "补足明确原文修正依据，撤去已解的起誓误读。"
+        }
+      ],
+      "remaining": "已核全部现有注释疑点和相邻上下文，并补正三处；第5、7、9、11章等其余正文没有作全篇逐字跨本校勘。13:12据明确上游纠正，17:7陈述与反问异读保留。",
+      "status": "focused_review_complete"
+    },
+    "prayer-of-manasseh": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "c9VR",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016"
+          ],
+          "references": [
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/24-ps-nets.pdf pp619–620"
+          ],
+          "findings": "全15节逐段核读。importable为难以承当、conversion为悔改，现译准确。NETS无指定底本8节前半及10节不遵旨意等扩文且铁链句不同，均保留指定英文，不拼合。"
+        }
+      ],
+      "retained_differences": [],
+      "changes": [],
+      "remaining": "本轮15节祷文全文与NETS对照；卷首年代与希腊原创说未开展专门史料复核，因此不标整卷研究全覆盖。",
+      "status": "focused_review_complete"
+    }
+  },
+  "checkpoint": "十卷现有疑难、异读和相关术语复核完成；无正在运行的下载或未落盘修改。未核全文范围逐卷在remaining内，不将本轮重点复核声称为全书逐字多底本校勘。",
+  "validation": {
+    "source_units": 105,
+    "all_structurally_complete": true,
+    "errors": [],
+    "checked_unique_blocks": 903,
+    "changed_units": 16,
+    "body_changes": 12,
+    "note_changes": 8,
+    "record_after_matches_formal_json": true,
+    "limitation": "结构验证仅验证源指纹/块ID与完整性；不等于语义正确性。全部改处另经源句及对应参考复读。"
+  }
+}

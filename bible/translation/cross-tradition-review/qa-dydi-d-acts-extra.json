@@ -1,0 +1,89 @@
+{
+  "reviewer": "dydi_d",
+  "date": "2026-11-09",
+  "target": "cross-tradition-review/dydi_c-acts-extra.json",
+  "full_review_this_round": false,
+  "scope": "074—076新增4正文改块及相关notes同步；075无正文改动，仅确认不冒称本轮全书复审。",
+  "checks": [
+    {
+      "book_id": "acts-of-thomas",
+      "unit": "cP65",
+      "block": "p0166",
+      "before_after_match": true,
+      "judgment": "supported",
+      "reason": "142指定英文put it on疑错；James1924印刷427/PDF458图像为put it off again；Pick1909页341亦不再脱去。只修动词，不把James括注的整句衣裳增补入指定正文。",
+      "formal_file_sha256": "c678476aa74eb55fa1916509e47f9103474a306472145fbd92ae65b92c59f151"
+    },
+    {
+      "book_id": "acts-of-thomas",
+      "unit": "cP65",
+      "block": "p0172",
+      "before_after_match": true,
+      "judgment": "supported",
+      "reason": "148指定英文nor is their nature made known为反向否定；James1924印刷430/PDF461图像作for their nature is made known；Pick1909页347亦因本性显明。保留周围代词范围，不另定恶者具体身份。",
+      "formal_file_sha256": "c678476aa74eb55fa1916509e47f9103474a306472145fbd92ae65b92c59f151"
+    },
+    {
+      "book_id": "acts-of-peter-and-paul",
+      "unit": "cPFX",
+      "block": "p0002",
+      "before_after_match": true,
+      "judgment": "supported",
+      "reason": "ANF同源正文Momentan，原编辑脚注2105明确This is a slip for Nomentan；NASSCAL地点名单亦Nomentan。校正确定的地名笔误，不重构故事。",
+      "formal_file_sha256": "683ae155cf70e253d2bef706cf3b45bd5084b8f21d13f4e6e600140fa08d4cb9"
+    },
+    {
+      "book_id": "acts-of-peter-and-paul",
+      "unit": "cPFP",
+      "block": "p0007",
+      "before_after_match": true,
+      "judgment": "supported",
+      "reason": "英文同源ANF为three miles，处于古罗马遗骸迁葬行程；旧稿英里误引现代单位，与本书cPEK既定罗马里及cPFX原注不一致，明示罗马里，不改数量或换算。",
+      "formal_file_sha256": "a22b319b10258f802d055639635e5942a1221c22e8c25007fb21c33951c76a1d"
+    },
+    {
+      "book_id": "acts-of-peter-and-paul",
+      "unit": "cPFP",
+      "block": "p0007",
+      "before_after_match": true,
+      "judgment": "supported",
+      "reason": "同源ANF遗骸迁葬段three miles，无现代英制换算依据；按古罗马叙事写罗马里，与同书既有用法一致，三及一年七个月均未改。",
+      "formal_file_sha256": "a22b319b10258f802d055639635e5942a1221c22e8c25007fb21c33951c76a1d"
+    }
+  ],
+  "actual_evidence_read": [
+    {
+      "source": "指定EPUB source_unit",
+      "locations": [
+        "acts-of-thomas cP65 p0166(142),p0172(148)",
+        "acts-of-peter-and-paul cPFX p0002末段"
+      ],
+      "result": "分别确为put it on、nor is their nature made known、Momentan，记录未歪写用户底本。"
+    },
+    {
+      "url": "https://biblicalstudies.gospelstudies.org.uk/pdf/e-books/james_m-r/apocryphal-new-testament_james.pdf",
+      "edition": "M. R. James, Oxford Clarendon, 1924",
+      "method": "独立用pdftoppm渲染PDF458及461并实际看扫描；另读同刊相邻OCR",
+      "pages": "印刷427、430；前页426衣裳句用OCR定位",
+      "result": "427清楚not put it off again；430清楚for their nature is made known。不是仅据OCR把否定或反义改回。",
+      "independence": "James为指定英文近源，不冒称另一古抄本或独立现代译本。"
+    },
+    {
+      "url": "https://ccel.org/ccel/schaff/anf08",
+      "edition": "Alexander Walker, ANF VIII, 1886, CCEL转录",
+      "method": "读取 .cache/cross-d/anf8.txt 对应末段及注2105",
+      "result": "正文Momentan，脚注明确This is a slip for Nomentan，支持地名最小修正。"
+    }
+  ],
+  "notes_consistency": {
+    "cP65": "旧142穿上待核注已撤换；新注说脱下并保留缺邻句，不偷偷补衣裳句。148已明确否定修正为因果肯定，其余代词仍待核，未虚称全部消歧。108版本差异和159赏赐者说明与既有正文相容。",
+    "cPFX": "新地名说明与正文诺门坦一致；Bulla待核、古罗马里、20后跳22仍保留，不与本次修订冲突。",
+    "cPFP": "现有尼禄命运注与此次里程单位修订无冲突；原稿三英里未留下仍坚持现代单位的注。"
+  },
+  "unresolved_findings": [],
+  "limits": [
+    "本轮未再实际复核Pick1909、现代目录全部研究段落；上述直接James扫描及ANF脚注已足以核前三处修订。",
+    "未重复125文件一致性扫描，也未通读三卷全部正文。",
+    "仅写独立QA记录，未修改作者正式译文或研究记录。"
+  ]
+}

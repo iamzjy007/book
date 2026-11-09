@@ -1,0 +1,923 @@
+{
+  "worker": "dydi_a",
+  "scope": "033—042十项重点跨译本审校",
+  "full_collection_review_this_round": false,
+  "items": [
+    {
+      "book_id": "apocryphon-of-ezekiel",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "J. R. Mueller / S. E. Robinson，Apocryphon of Ezekiel，Charlesworth编OTP I，Doubleday1983",
+          "basis": "教父引文及Chester Beatty希腊纸草；引言区分五残片、异文与回归希伯来原文的假说；非指定英文整套六残片的同版。",
+          "independence": "现代学术编译；二手引用异文不能当本项目的统一古原稿。",
+          "actual_read": "本篇Texts、Original language与Date段；残片2—5全部译文及3、4脚注，另残片1盲瘸寓言末段。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cFG0",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055",
+            "p0056",
+            "p0057",
+            "p0058",
+            "p0059",
+            "p0060",
+            "p0061"
+          ],
+          "source_sha256": "47431599b52fa032812edc84dbac47b3a31b6e72246ea48dc435f1bb7ad8b8f1",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "现有单元包括昆兰式残片与教父残片，OTP五残片的编次不与项目六片强行相等。",
+        "残片3 OTP列五种教父引文，皆生而未生表达；指定英文却pregnant。暂保留英文但升级为明确版本疑问，不能因神学处女生产解释而暗改。",
+        "盲瘸同受审的寓言保持身体灵魂联合责任，不把鞭刑泛化为温和管教；指定无末尾寓意段，不从OTP补入。"
+      ],
+      "changes": [
+        {
+          "unit": "cFG0",
+          "notes_before": [
+            "残片三英文为“仍怀着胎”，不同于参考本“好像未曾怀胎／生产”，按英文保留。残片一为破碎文本，所有缺文位置以省略号保留，不补全为正典以西结书。"
+          ],
+          "notes_after": [
+            "版本说明及待核：残片三指定英文为“仍怀着胎”，现译保留。Mueller与Robinson（OTP I，1983）并列特土良、伊皮法纽、尼撒贵格利、亚历山大的革利免及《彼得行传》的引文，均采用“生了而未生”的表达；本英文pregnant的来源仍待核，未据不同引文直接改写。",
+            "残片一为破碎文本，所有缺文位置照样保留；本单元六片的编排与OTP所列五片不同，未据后者增删、重排或补成正典以西结书。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "残片3指定pregnant的具体英文谱系仍待核；第一残片的昆兰各片号与编拼边界尚待专门DSS版本。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "lives-of-the-prophets",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.rexresearch1.com/DeadSeaScrolls/OldTestamentPseudepigrapha2Charlesworth.pdf",
+          "publication": "D. R. A. Hare，The Lives of the Prophets，OTP II，Doubleday1985",
+          "basis": "以Codex Marchalianus Q希腊本为主，比较Epiphanius及Dorotheus文本；引言未确认希伯来原本。",
+          "independence": "现代独立英译和校注；扫描转载仅一种出版物。",
+          "actual_read": "引言内容、Texts、Original language；但以理4:2—21正文及b—l脚注，重点4:13、15。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cED4",
+          "blocks": [
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055",
+            "p0056",
+            "p0057",
+            "p0058",
+            "p0059",
+            "p0060",
+            "p0061",
+            "p0062",
+            "p0063",
+            "p0064",
+            "p0065",
+            "p0066",
+            "p0067",
+            "p0068",
+            "p0069",
+            "p0070"
+          ],
+          "source_sha256": "45f386e19df00559a24bd8a8bad458af9cbbb89ae15fe9a79fb4236c773e9a3a",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "伯沙撒同名有希腊译名史证据，并非可凭正典自动纠正的拼写错误。",
+        "主文六年六个月与部分手稿五个月有别，Hare注h说明五为纠正算术；指定五保留，不用现代主文覆盖。"
+      ],
+      "changes": [
+        {
+          "unit": "cED4",
+          "notes_before": [
+            "以赛亚段的斯塔狄亚为古代距离单位，原文二十，未直接换算为现代里数。",
+            "但以理段将先知所得名字写作Belshazzar（伯沙撒），与《但以理书》通行的Belteshazzar（伯提沙撒）不同，依本书底本保留。",
+            "“玛拉基”意为“我的使者”；此处以其敬虔和温柔解释这称呼。",
+            "末段Lights and Perfections字面为“光与完全”，指祭司求问所用的乌陵和土明，采用圣经通行译名。"
+          ],
+          "notes_after": [
+            "以赛亚段的斯塔狄亚为古代距离单位，原文二十，未直接换算为现代里数。",
+            "版本说明：但以理所得名字依指定英文写作Belshazzar（伯沙撒）。Hare（OTP II，1985）但以理段4:15注j说明，希腊传统把正典希伯来文中有别的伯提沙撒和伯沙撒都写作Baltasar；因此此处未按正典另改名。指定英文的六年零五个月亦保留，未改成其主文六年零六个月。",
+            "“玛拉基”意为“我的使者”；此处以其敬虔和温柔解释这称呼。",
+            "末段Lights and Perfections字面为“光与完全”，指祭司求问所用的乌陵和土明，采用圣经通行译名。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "其他先知生平本轮未全文复核，二十斯塔狄亚等仍按指定本。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "psalms-of-solomon",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/31-pssal-nets.pdf",
+          "publication": "Kenneth Atkinson，NETS Psalms of Salomon，2007，电子文件2009",
+          "basis": "Rahlfs1935希腊文，正文偏离处脚注；导言讨论Gebhardt校改及叙利亚译本与希腊文关系。",
+          "independence": "现代直接希腊英译但参考Gray、Ryle/James、Wright、Brock，不把共同文字算四个独立抄本。",
+          "actual_read": "p763文本版次导言，p765书目与署名；第8篇现代8:4—34对应指定第8篇重点。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cEBH",
+          "blocks": [
+            "p0138",
+            "p0139",
+            "p0140",
+            "p0141",
+            "p0142",
+            "p0143",
+            "p0144",
+            "p0145",
+            "p0146",
+            "p0147",
+            "p0148",
+            "p0149",
+            "p0150",
+            "p0151",
+            "p0152",
+            "p0153",
+            "p0154",
+            "p0155",
+            "p0156",
+            "p0157",
+            "p0158",
+            "p0159",
+            "p0160",
+            "p0161",
+            "p0162",
+            "p0163",
+            "p0164",
+            "p0165",
+            "p0166",
+            "p0167",
+            "p0168",
+            "p0169",
+            "p0170",
+            "p0171",
+            "p0172",
+            "p0173",
+            "p0174",
+            "p0175",
+            "p0176",
+            "p0177",
+            "p0178"
+          ],
+          "source_sha256": "af149a56df73a984af9b305c258d687bc7c59ec92aa12c9d622d2cf26a88ee09",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "指定8:19 crowned walls在NETS8:17仍保留crowned，未改为攻占城墙；现译冠饰是保留比喻的解释，非断言实物形制。",
+        "NETS分节34节、指定40节，按句意匹配，不按数字对齐。关于祭坛污秽、经血、无兑水浓酒及管教均保留原意，不净化叙事。"
+      ],
+      "changes": [],
+      "unresolved": [
+        "冠饰的具体历史形制未核；第4、5篇缺文及第17篇补读未作本轮专项。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "ascension-of-isaiah",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.rexresearch1.com/DeadSeaScrolls/OldTestamentPseudepigrapha2Charlesworth.pdf",
+          "publication": "M. A. Knibb，Martyrdom and Ascension of Isaiah，OTP II，Doubleday1985",
+          "basis": "完整埃塞俄比亚本，校对希腊残存及拉丁、斯拉夫版本；引言明确作品复合层次。",
+          "independence": "现代学术新译，较Charles1900多用手稿；不以拉丁短本重构代换指定正文。",
+          "actual_read": "引言基本分层、Texts及埃塞俄比亚A—E手稿说明；1:5—13和脚注；6章全译文与全部相关异读脚注。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cEJV",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014"
+          ],
+          "source_sha256": "d446c4dfc7a03eca10a19a5f44f14db40423e061bf754afe021fc1da96fe63af",
+          "validation": "complete"
+        },
+        {
+          "unit": "cEKY",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018"
+          ],
+          "source_sha256": "3daad987a4d1f5552ff783bfed4e1980eb195b1200c18891f6f81582c575526a",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "1:7 Knibb也为not only in presence，支持保留指定英文，不去掉only。",
+        "6:9 Knibb正文同样door；脚注k认为埃塞俄比亚文本可能损坏，拉丁及斯拉夫为话语权能。此为文本差异，现译门应保留，注可更具体。"
+      ],
+      "changes": [
+        {
+          "unit": "cEJV",
+          "notes_before": [
+            "译者待核实问题（1:7）：英文作“not only in the presence of Manasseh”，即“不只在玛拿西面前”；参考本作“并非在玛拿西面前”，意思不同。本译保留英文。"
+          ],
+          "notes_after": [
+            "版本说明（1:7）：英文“不只在玛拿西面前”也见Knibb（OTP II，1985）的译文；与中文参考“并非在玛拿西面前”有别，本译保留only，不擅删。"
+          ]
+        },
+        {
+          "unit": "cEKY",
+          "notes_before": [
+            "译者待核实问题（6:9）：英文为“赐下一扇门”，参考本作“赐下一佳美的话”；与6:6开门的声音相照应，本译保留英文的门。"
+          ],
+          "notes_after": [
+            "版本说明（6:9）：指定英文为“赐下一扇门”，Knibb（OTP II，1985）正文亦如此；其注k指出埃塞俄比亚文本可能损坏，拉丁及斯拉夫本则作赐下话语的权能。此处保留指定英文的门，不以另一版本直接替换。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "7章重复/补文与2章复杂地名本轮未另校；6:17雅实归属按本段主角解读，原代词仍需更细文本分析。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "2-baruch",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "A. F. J. Klijn，2 (Syriac Apocalypse of) Baruch，OTP I，Doubleday1983",
+          "basis": "Dedering叙利亚文校本，启示录单一Ambrosiana主抄本及独立书信手稿传统；希伯来原文属学术假说。",
+          "independence": "现代独立叙利亚语新译；不同于Charles1913，但非新存世希伯来原稿。",
+          "actual_read": "引言内容、Text、Original language、28:2年代讨论；28章全译，48:24—31及32注d。"
+        },
+        {
+          "url": "https://archive.org/download/apocryphapseudep02charuoft/apocryphapseudep02charuoft_djvu.txt",
+          "publication": "R. H. Charles编APOT II，1913，2 Baruch同源文本OCR",
+          "basis": "旧英译扫描OCR，不能作为第二独立古本。",
+          "independence": "同源校读",
+          "actual_read": "48:25—34，核he could而非deceit could。"
+        },
+        {
+          "url": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-book-of-the-apocalypse-of-baruch-the-son-of-neriah-or-2-baruch/",
+          "publication": "NNU Wesley Center同源旧英译电子转录",
+          "basis": "网页48:29为lie could，疑he的OCR错读；不以站点机构认可其每字。",
+          "independence": "与Charles同源，不计独立译本",
+          "actual_read": "48:25—34文本，实际缓存读取。"
+        },
+        {
+          "url": "https://archive.org/download/apocryphapseudep02charuoft/page/n525.jpg",
+          "publication": "R. H. Charles, APOT II (1913), printed p.506",
+          "independence": "原刊字形核查，不另计独立译本",
+          "actual_read": "实际查看整页扫描，48:23—36；48:29行尾明确he，接could do anything。脚注29称叙利亚文难解。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cEVE",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008"
+          ],
+          "source_sha256": "78076e00de0d54a90d1ba67a88b84ce9b418aa14de32d01cbc75493d68e9c720",
+          "validation": "complete"
+        },
+        {
+          "unit": "cEZU",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051"
+          ],
+          "source_sha256": "95ed010a72252357056f046c7619d171a713c6f60f86080740d2f56a83a26c75",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "28:2现代译本仍保留two parts及seven weeks，关系难定，未擅换算历史年份或日数。",
+        "48:29前半现代unless结构与Charles旧文not at all不同，保留其难读并明确分歧；后半deceit则有同源he及现代主体能力表达双重依据，单独修正。",
+        "48:32原刊脚注说明Charles将“安居/静止”校为“彼此敌对/冲突”，属于动词校改；不是否定词校改。两译均保留不知审判临近的否定。本项目沿指定动作读法，未混合新底本。",
+        "已以原刊扫描p.506核准he；网络lie文本可解释传播，但不声称已重建所有中间编辑步骤。"
+      ],
+      "changes": [
+        {
+          "unit": "cEZU",
+          "block": "p0030",
+          "before": "事情是这样：败坏的人归于无有；他竭尽欺诈之能行不义，不记念我的恩慈，也不接受我的恒久忍耐。",
+          "after": "事情是这样：败坏的人归于无有；他竭尽所能行不义，不记念我的恩慈，也不接受我的恒久忍耐。",
+          "reason": "指定deceit与同源he could及Klijn所译行为主体能力不符，疑OCR lie再改写，纠正并明注。"
+        },
+        {
+          "unit": "cEZU",
+          "notes_before": [
+            "48:29 英文 he that is corrupted is not at all 语意生硬，暂按归于无有理解；中文参考为“除非犯罪作恶，必不至灭亡”，此处未据参考另行改写。48:38 appeal 疑为 appear，按时代转变显于众人的上下文译为“清楚看见”，并保留说明。"
+          ],
+          "notes_after": [
+            "版本说明及待核：48:29前半英文he that is corrupted is not at all语意生硬，暂按归于无有理解；Klijn（OTP I，1983）作除非行恶便不被毁灭的条件结构，本译未据其另行重构。",
+            "原文修正说明：48:29后半指定英文为deceit could do anything；已核APOT II（1913）原刊扫描第506页，字形明确为he could do anything，NNU转录为lie could，疑将he误录后又按谎言改写。Klijn新译亦指行为主体所能行的事，故把“竭尽欺诈之能”修为“竭尽所能”。48:38 appeal疑为appear，仍按时代转变显于众人的上下文译为“清楚看见”。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "48:29前半需更细叙利亚文校勘；全89单元未全文复核。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "3-baruch",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "H. E. Gaylord Jr.，3 (Greek Apocalypse of) Baruch，OTP I，Doubleday1983",
+          "basis": "分别呈现希腊和斯拉夫文；引言列希腊两抄本与斯拉夫文本家族。",
+          "independence": "现代对校译本，不与旧Hughes/James当作同一文本；斯拉夫本是不同传承支系。",
+          "actual_read": "引言梗概及Texts希腊两抄本；希腊6:1—11正文与e—g脚注，希腊10:7—9及相邻斯拉夫文本。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cFA5",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018"
+          ],
+          "source_sha256": "d43d15a16f0b48fe004781845e5553e5672a65828a6aec1106d2ad687244bcef",
+          "validation": "complete"
+        },
+        {
+          "unit": "cFB1",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012"
+          ],
+          "source_sha256": "43b0ed2cd55e5ed9f1ec4ffe98866f3bb5af12839b16a1be09afcfef673feb5c",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "6章现代本鸟大如九山系James校改，脚注明确另一方案九肘；指定距离九肘不改成体长九山。",
+        "6:7现代仍4000 modia，但脚注另给长度换算；指定容量称谓仍保留，不把推测换算混入。",
+        "10:9现代希腊译本来自那湖，明确池水，指定latter source模糊；保留英文，注说明这一差异，不删海水来源。"
+      ],
+      "changes": [
+        {
+          "unit": "cFB1",
+          "notes_before": [
+            "译者待核实问题（10:10—11）：英文“后一来源”承接海水和地上的水，但本章同时叙述天上的水池；其具体所指不够清楚。本译保留原文关系，不按参考本改成雨水一概不来自海洋。"
+          ],
+          "notes_after": [
+            "版本说明及待核（10:10—11）：指定英文“后一来源”承接海水和地上的水，但本章又叙述天上的水池。Gaylord（OTP I，1983）相应希腊本10:9作“来自那湖”，指向该水池；本译保留指定关系，未按另一表述消除歧义，也未改成雨水一概不来自海洋。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "10:10指定latter source的具体编辑谱系未核；其余诸天与末段未全文复审。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "4-baruch",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.rexresearch1.com/DeadSeaScrolls/OldTestamentPseudepigrapha2Charlesworth.pdf",
+          "publication": "S. E. Robinson, 4 Baruch, OTP II, Doubleday 1985",
+          "basis": "希腊长本；序言讨论Kraft/Purintun及Harris文本，另校亚美尼亚/埃塞俄比亚等见证",
+          "independence": "现代学术译注；不同于项目指定英译的表达与部分校订，不按网站镜像重复计数",
+          "actual_read": "书前版本说明；3章对应段及3b校勘注；9:7—20及上下文。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cFDG",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022"
+          ],
+          "source_sha256": "e83ca3592233fb455c3f094041b8244ecd4efe8a6eae1959e599643cfa88a448",
+          "validation": "complete"
+        },
+        {
+          "unit": "cFEU",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033"
+          ],
+          "source_sha256": "7df572e28565b960d563465f4ca023207cf278bb159392911a8ef35fa63f14c2",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "3:11 gathering译为招聚保留；Robinson用coming是采用Kilpatrick建议，其注亦承认原词可指聚合/结合/婚姻，另有完成异读，不能当作无争议原义覆盖。",
+        "9章雪变黑在独立学术译本同样存在；不按常识修成雪变白。",
+        "9:16现代用复数树木生长，指定英文连词关系不同，未重构。"
+      ],
+      "changes": [
+        {
+          "unit": "cFDG",
+          "notes_before": [
+            "3:10 gathering of the beloved按蒙爱之人被招聚理解，未随参考本改作主所爱那一位来到。亚比米勒为英文人名，不按正典改为以伯米勒；亚基帕沿参考本。"
+          ],
+          "notes_after": [
+            "版本说明（3:11）：英文gathering of the beloved按蒙爱之人被招聚理解。Robinson（OTP II，1985）译作蒙爱者来到，但其脚注说明这是所采校释，希腊词还可指聚合、结合，另有“完成”的异读；本译未据此改换底本。亚比米勒依英文人名，不按正典改为以伯米勒。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "3:11蒙爱者指群体或特定一位，现底本未明；本轮未逐章审其他章。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "epistle-of-aristeas",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.rexresearch1.com/DeadSeaScrolls/OldTestamentPseudepigrapha2Charlesworth.pdf",
+          "publication": "R. J. H. Shutt, Letter of Aristeas, OTP II (1985), pp.7ff.",
+          "basis": "译者明确以Thackeray希腊文本为基础，偏离处入注；非以Pelletier取代",
+          "independence": "现代独立翻译，但与其他Thackeray系译本共享希腊校本，非独立抄本见证",
+          "actual_read": "序言Texts及版本说明；§§26—29，与项目第5章完整核对。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cFHS",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ],
+          "source_sha256": "b4a9dfb56a689c2b0efb45fcf08fc56f4821cb8df7ed14b381bda1218e73810a",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "§27明确婴孩每人二十德拉克马，支持现译此前按上下文修正talents；不新增正文改动。",
+        "六百六十他连得是整体赎金，二十德拉克马是每人金额，未混淆两个数量。"
+      ],
+      "changes": [
+        {
+          "unit": "cFHS",
+          "notes_before": [
+            "原文修正说明（5:3）：英文作“二十他连得”，但前文反复规定每位获释者为二十德拉克马，此处问的是婴孩是否按同额支付，参考本亦为德拉克马；据明确上下文将单位修正为“德拉克马”。"
+          ],
+          "notes_after": [
+            "原文修正说明（5:3）：英文作“二十他连得”，但前文规定每位获释者为二十德拉克马，此处问的是婴孩是否按同额支付。Shutt（OTP II，1985）第27节亦明确为二十德拉克马；据此保留已作的单位修正。六百六十他连得是赎金总额，未改。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "本轮未核第9章译者名单及宴席各问答；未宣称全书多版本审校。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "words-of-gad-the-seer",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://opensiddur.org/readings-and-sourcetexts/mekorot/non-canonical/exoteric/extracanonical-megillot/the-words-of-gad-the-augur/",
+          "publication": "Isaac Gantwerk Mayer, The Words of Gad the Augur, Open Siddur, 2024-11-27, CC BY-SA 4.0",
+          "basis": "网页提供加元音及诵读符号的希伯来文和现代英译；译者有自行性别包容称谓处理",
+          "independence": "可对照独立译释，不是新增独立古抄本，也不证明作品属正典或大卫时代",
+          "actual_read": "引言；第13章全段英文（网页13:1—68，对应项目13章前另含大卫死亡三节）；希伯来13:7、20—28关键词与数字。"
+        },
+        {
+          "url": "https://jbqnew.jewishbible.org/uncategorized/book-review-words-gad-seer/",
+          "publication": "Simcha Rosenberg, Jewish Bible Quarterly 45:1 (2017), pp.59—60, review of Meir Bar-Ilan (2015)",
+          "basis": "介绍Cambridge OO.1.20科钦抄本及年代争论",
+          "independence": "书评/出版谱系证据，不能算正文第二译本",
+          "actual_read": "全文短评，尤其抄本年代、14章合集与学界年代分歧。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cEJ1",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0045",
+            "p0046",
+            "p0047",
+            "p0048",
+            "p0049",
+            "p0050",
+            "p0051",
+            "p0052",
+            "p0053",
+            "p0054",
+            "p0055",
+            "p0056",
+            "p0057",
+            "p0058",
+            "p0059",
+            "p0060",
+            "p0061",
+            "p0062",
+            "p0063",
+            "p0064",
+            "p0065",
+            "p0066"
+          ],
+          "source_sha256": "4e0ea4176699b1c777f5104620fe93daf1a1c5e07fc81acd662dc7f22a3eeea7",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "13:4现译父亲的女儿修正获网页希伯来“我同父的姐妹”及独立译释支持。",
+        "网页13:7英文作五百，同行希伯来实为五十；保留指定五十，不抄现代译本数字错误。",
+        "网页祷告呼求大卫代祷，与指定英文本直接祈求神结构有重大差异；不能静默替换整段或神称谓，入注列明。",
+        "指定一年八月与网页若干日和八月的译法差异保留；章节偏移三节不机械按数字配对。"
+      ],
+      "changes": [
+        {
+          "unit": "cEJ1",
+          "notes_before": [
+            "第4节原文称他玛为“我父亲的姐妹”，但本章开头及第54节明确她是大卫的女儿，且所罗门屡称她为姐妹；依明确上下文修正为“我父亲的女儿”，特此说明。",
+            "末节将Taphath（他法）与stacte（苏合香）相连，按底本保留其命名解释。"
+          ],
+          "notes_after": [
+            "原文修正说明（13:4）：英文称他玛为“我父亲的姐妹”，但本章开头及第54节明确她是大卫的女儿，所罗门也屡称她为姐妹；依上下文修正为“我父亲的女儿”。Mayer（Open Siddur，2024）所列希伯来文及译文相应13:7亦指同父的姐妹。",
+            "版本说明（13:20—25、31）：Mayer所列希伯来文与英译在相应段落叙述他玛呼求父亲大卫在神面前代求；指定英文则写成直接向神祈求。本译保留指定英文的叙述，未把另一版本的祷告结构混入；其文本和翻译差异仍待查核。",
+            "末节将Taphath（他法）与stacte（苏合香）相连，按底本保留其命名解释。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "13:20—31（网页23—34）代祷结构的底本/翻译谱系需进一步查Bar-Ilan版及原抄本，当前未作原抄本校勘。",
+        "其余13章外未本轮全文对校。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    },
+    {
+      "book_id": "apocryphon-of-jannes-and-jambres",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.rexresearch1.com/DeadSeaScrolls/OldTestamentPseudepigrapha2Charlesworth.pdf",
+          "publication": "A. Pietersma and R. T. Lutz, Jannes and Jambres, OTP II, Doubleday 1985",
+          "basis": "Greek Vienna/Chester Beatty papyri and British Library Cotton Tiberius B.V. fol.87 Latin fragment",
+          "independence": "学术译注独立于指定拼编，希腊与拉丁见证不同；不含后来发现的埃塞俄比亚残篇，不能用其未收录否定该残篇",
+          "actual_read": "引言传统及Texts、Original language；招魂段Greek/Latin并排译文及上下文，尤其宽二肘长四肘。"
+        },
+        {
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10064305/",
+          "publication": "Ted M. Erho and W. Benjamin Henry, The Ethiopic Jannes and Jambres and the Greek Original, Archiv für Papyrusforschung 65/1 (2019),176—223, DOI10.1515/apf-2019-0010",
+          "basis": "Geʿez Schneider ms.frag.19 首次刊本与Greek新校合；UCL公开出版社PDF",
+          "independence": "2019新发现见证及校勘；本项目残篇三英文显与此英译高度同源，不把再查原刊说成另一个独立英译",
+          "actual_read": "pp.176—178作者/手稿来源，pp.189—193转录、巨人段全译及相应逐行校勘注；实际PDF全文下载后选页实读，非只读摘要。"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cFFB",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021"
+          ],
+          "source_sha256": "b7a845626ed4e8f4130973809ee06368695b9b39ceb4169169e9ee915f4c08f5",
+          "validation": "complete"
+        }
+      ],
+      "decisions": [
+        "残篇二：OTP拉丁本宽二肘、长四肘，希腊残文未保全宽度；指定已列二十或二，保留并注明实际见证，不静默只留二。",
+        "残篇三4200块出现在2019原刊英译，不能仅因怪异判断项目OCR错；bowl及heavy were本就采用校者拟改，现译保留但说明语句并未据独立通顺文本解决。",
+        "2019原刊给杀103巨人，而项目残篇三仅称杀巨人；遵指定内容范围不补入103。",
+        "前段血字为学者以以诺平行语补出；不能反过来以该补文证明残篇无缺损。"
+      ],
+      "changes": [
+        {
+          "unit": "cFFB",
+          "notes_before": [
+            "残篇一中的方括号对应英文本的补文标记，省略号保留缺文；残篇三为源文件单一段落，保留其中1—12节编号。",
+            "残篇三“眼睛分成4200块”等语句晦涩，按英文现存内容保留，未凭推测修复。斯他丢为古代长度单位，他连得在此为重量单位。"
+          ],
+          "notes_after": [
+            "残篇一中的方括号对应英文本的补文标记，省略号保留缺文；残篇三为源文件单一段落，保留其中1—12节编号。",
+            "版本说明（残篇二）：Pietersma与Lutz（OTP II，1985）所译拉丁残篇作宽二肘、长四肘；相应希腊残文缺损。本译仍保留指定英文所列“二十〔或作二〕”，不混同见证。",
+            "版本说明及待核（残篇三）：Erho与Henry（2019）新刊埃塞俄比亚残篇英译同样有眼睛分成四千二百块的难解叙述；其中“碗”及“眼睛沉重”已含校者拟改。现有依据不足以另行重构，故保留指定英文，不以常识改写。斯他丢为古代长度单位，他连得在此为重量单位。"
+          ]
+        }
+      ],
+      "unresolved": [
+        "巨人吞吃人如蝗虫的比较关系及眼睛碎块叙述仍晦涩；本轮未独立重校Geʿez抄本字形。",
+        "2019希腊后半新接合全文未全部读，未据其重构项目残篇一。"
+      ],
+      "next_unreviewed": "除明确列出的单元/块外，均未作本轮多译本全文复审。",
+      "status": "targeted_review_complete"
+    }
+  ],
+  "next_checkpoint": "033—042十项资源研究及所列重点段落已完成；各项unresolved/next_unreviewed为后续逐章深核断点，不代表十卷全文多译本复审。",
+  "summary": {
+    "books": 10,
+    "source_blocks_actually_read": 394,
+    "body_changes": 1,
+    "notes_changes": 10,
+    "all_assigned_units_structure_validated": 185,
+    "source_units_with_actual_read_blocks": 14
+  }
+}

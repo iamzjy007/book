@@ -131,11 +131,26 @@
       "source": "信望爱次经阅读：c1933/chdc两列",
       "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=50",
       "usage": "逐章对读语义与句式；以指定英文为准独立修订，保留底本差异。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=50",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.biblegateway.com/passage/?search=Sirach%2050&version=RSVCE",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
     }
   ],
   "notes": [
-    "50:3 英文为“蓄水池缩小了”（was diminished），与本段建造工程的语境不甚协调，也不同于中文参考的“挖池”。暂保留英文读法，待核实原版。",
-    "50:21 英文主语为“他”，保留为大祭司再次俯伏，未按中文参考改成全体会众。",
-    "50:27 英文姓名结构为 Jesus, the son of Sirach Eleazar, of Jerusalem，暂按字面保留父名组合“西拉以利亚撒”，未自行改动世系。"
+    "版本说明：50:3按英文译蓄水池缩小；RSVCE脚注说明希腊文确作缩小，主文挖凿是参照希伯来文的校改。故不把现代挖池读法替入本译。",
+    "50:21英文主语为他，保留为大祭司再次俯伏，未按中文参考改成全体会众。",
+    "版本说明：50:27英文父名组合西拉以利亚撒与思高相近；RSVCE也注明本行文本不确定。各译本谱系处理不同，保留指定英文，不强行重排。"
   ]
 }

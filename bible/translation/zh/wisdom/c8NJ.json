@@ -94,7 +94,17 @@
     }
   ],
   "references": [
-    "中文参考本《所罗门智训》第十七章（约24466—24570行）；英文第14节确为sleeping，保留睡梦，不照参考本改成失眠。"
+    "中文参考本《所罗门智训》第十七章（约24466—24570行）；英文第14节确为sleeping，保留睡梦，不照参考本改成失眠。",
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=32&chapter=17",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/29-wissal-nets.pdf",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    }
   ],
   "notes": [
     "第17章13节英文“the expectation of being less”句法残缺；结合上节所说理性的帮助，译为“对帮助的指望越少”，保留其与不明痛苦缘由之间的关联。"

@@ -1,0 +1,765 @@
+{
+  "schema": 1,
+  "worker": "lori_a",
+  "round": "2026-11-09 cross-tradition targeted review",
+  "status": "completed_targeted_pass",
+  "books": [
+    {
+      "book_id": "revelation-of-abraham",
+      "reference_research": "completed_for_targeted_passages",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/apocalypseofabra00boxg",
+          "translator_or_editor": "G. H. Box，J. I. Landsman协助",
+          "publication": "SPCK，1918初版；实读扫描1919第二印",
+          "textual_basis": "斯拉夫语，刊本A/K/S读法校注",
+          "independence": "指定英文与Box有直接文本关系，不算独立英译；其校注可显示语义歧义并非现代漏字",
+          "actually_read": "印页54—55第14章产业/意志及脚注；第20章共同产业句与导论xx—xxi；第8章四十肘句"
+        },
+        {
+          "url": "https://www.pseudepigrapha.com/pseudepigrapha/Apocalypse_of_Abraham.html",
+          "translator_or_editor": "页面标两译者unknown",
+          "publication": "网络整理；无可靠出版署名",
+          "textual_basis": "两列英译",
+          "independence": "未能确认译者与来源，不把两列当已证实独立学术译本",
+          "actually_read": "开头来源说明、14章及20章对应句"
+        },
+        {
+          "url": "https://www.tertullian.org/fathers/apocalypse_of_abraham.htm",
+          "translator_or_editor": "Moses Gaster",
+          "publication": "Transactions of the Society of Biblical Archaeology 9 (1893), pp.196–226；1886年2月2日宣读",
+          "textual_basis": "罗马尼亚语亚伯拉罕临终传说；作者说明其斯拉夫语及希腊语渊源",
+          "independence": "与本指定斯拉夫语启示录不能简单逐章对照；仅作同名资源排除",
+          "actually_read": "文章题署及导论pp.196–197；以亚伯拉罕之死为内容，同名但不能当本项目32章斯拉夫语启示录逐节参考"
+        }
+      ],
+      "actual_scope": [
+        {
+          "unit_id": "cPVA",
+          "label": "CHAPTER 14",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010"
+          ],
+          "block_count": 10,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cPWM",
+          "label": "CHAPTER 20",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ],
+          "block_count": 6,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        }
+      ],
+      "changes": [],
+      "retained_variants": [
+        "14:4产业及敌意/称义句：Box本也保留疑义，校注明确A/K有相关句而S无；不据另一列网络译文删换。",
+        "14:7—8 will为行动权或意志语用；Box说明weight and will文本可能有损，不能把神给与其权能消除为单纯撒但自有欲望。",
+        "20:3我与阿撒泻勒产业关系：Box同读法且下文亚伯拉罕正提出质问；保持原有张力，不改成两个互不相干的产业。"
+      ],
+      "next": "第14、20章本轮重点段落已核；余章及斯拉夫语原刊尚待逐句核对，未声称全文。"
+    },
+    {
+      "book_id": "revelation-of-elijah",
+      "reference_research": "completed_for_targeted_passages",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/dieapokalypsede00steigoog",
+          "translator_or_editor": "Georg Steindorff",
+          "publication": "Die Apokalypse des Elias，Texte und Untersuchungen新系列2.3a，Leipzig 1899",
+          "textual_basis": "科普特文阿赫米姆/撒希德残篇及德译",
+          "independence": "德译与当前英译独立；本轮读取刊本OCR，未声称直接掌握全篇科普特文",
+          "actually_read": "连贯德译印页163—165，以诺/以利亚舍身与逃亡者复活、不得进入国度段"
+        },
+        {
+          "url": "https://www.earlyjewishwritings.com/apocelijah.html",
+          "translator_or_editor": "James H. Charlesworth、Emil Schürer书目资料，由Peter Kirby整理",
+          "publication": "现代学术书目摘录",
+          "textual_basis": "区分科普特1 Elijah、拉比希伯来2 Elijah及其他同名传说",
+          "independence": "仅资源与底本鉴别，不代替实读正文",
+          "actually_read": "Information全段，Houghton1959、Steindorff1899书目"
+        },
+        {
+          "url": "https://www.pseudepigrapha.com/pseudepigrapha/TheApocalypseOfElijah.html",
+          "translator_or_editor": "页面未署明两列译者",
+          "publication": "网络汇编",
+          "textual_basis": "科普特启示录两列英文",
+          "independence": "未确认出版署名，不把同页两列自动算两个独立译本",
+          "actually_read": "4:16、4:24—29及5:32—39"
+        }
+      ],
+      "actual_scope": [
+        {
+          "unit_id": "cR0D",
+          "label": "CHAPTER 4",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034"
+          ],
+          "block_count": 34,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cR0D",
+          "block_id": "p0028",
+          "before": "他们要起来，寻得安息之所；但他们在基督的国里，不能像那些忍耐到底的人一样，因为主曾说：“我要使那些人坐在我右边。”",
+          "after": "他们要起来，寻得安息之所；但他们不会像那些忍耐到底的人那样，进入基督的国，因为主曾说：“我要使那些人坐在我右边。”",
+          "reason": "原英not be in与独立德译nicht in dem Königreiche一致；旧中文“他们在…国里，不能像…”错误预设他们已经入国。修复否定范围，不抹去复活/安息及忍耐者比较。"
+        }
+      ],
+      "retained_variants": [
+        "4:16英文lay down before the flesh for the spirit语序不顺，两列参考舍下肉身的表达不同；未据此补充第二列多出的句子。",
+        "4:27后续领受宝座者接忍耐到底的人；不将安息、入国与宝座合并成同一报偿。",
+        "5:37先焚地、再千年、再新天地在网络两列皆有，不依正典另排年代。"
+      ],
+      "next": "第4章重点审查完成；余1—3及5章须另作全文逐块校核；本轮5章只看外部对应上下文未计源块复核。"
+    },
+    {
+      "book_id": "revelation-of-zephaniah",
+      "reference_research": "completed_for_targeted_passages",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/dieapokalypsede00steigoog",
+          "translator_or_editor": "Georg Steindorff",
+          "publication": "1899，上述同刊",
+          "textual_basis": "阿赫米姆残篇/当时题作未名启示录；德译及科普特正文",
+          "independence": "独立德译；学术归卷有争议，不把另一语言相同Ja当自动消除否定疑问",
+          "actually_read": "印页154—155审判日、悔改、听道未践行及借贷取复利段；导论Katechumenen说明"
+        },
+        {
+          "url": "https://www.earlyjewishwritings.com/apoczephaniah.html",
+          "translator_or_editor": "James H. Charlesworth、Emil Schürer，Peter Kirby整理",
+          "publication": "书目与研究综述",
+          "textual_basis": "区分革利免引用、撒希德碎片、阿赫米姆未名启示录",
+          "independence": "仅书目说明，不冒作第二完整译本",
+          "actually_read": "Information，Houghton1959及残篇归属问题"
+        }
+      ],
+      "actual_scope": [
+        {
+          "unit_id": "cR3F",
+          "label": "CHAPTER 10",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "block_count": 15,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        }
+      ],
+      "changes": [],
+      "retained_variants": [
+        "10:10否定问句后答Yes：1899德译同为否定问句+Ja，随后问到审判日为止；本轮尚未直接从科普特语否定/答语语法解决。保留现有待核说明，不强改为永无悔改机会或一定可悔改。",
+        "10:5受贿者：1899德译将动作描述为向别人给金银诱惑人；指定英文是受贿，保留底本不同施事，不混合。",
+        "10:9 catechumens在Steindorff导论援Harnack意见可泛指仅听道未行道者，并非必然制度化受洗前慕道班；现译“慕道的人”未新增洗礼制度。"
+      ],
+      "next": "本轮仅第10章；科普特答语与其余残篇归属、全文逐句校核待续。"
+    },
+    {
+      "book_id": "revelation-of-peter",
+      "reference_research": "completed_for_targeted_passages",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/apocalypsepeter-mrjames.html",
+          "translator_or_editor": "M. R. James",
+          "publication": "The Apocryphal New Testament，Oxford Clarendon Press，1924",
+          "textual_basis": "埃塞俄比亚长本与希腊残篇等的英译和讨论",
+          "independence": "与指定英文有直接关系，不因ECW转载算独立版本",
+          "actually_read": "导论；长本惩罚末段、洗礼与救恩段、登山和另一重天；后记缺句与终末救恩问题"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/apocalypsepeter-roberts.html",
+          "translator_or_editor": "网页名Roberts-Donaldson；ANF时期希腊残篇英译",
+          "publication": "ANF系转载；须与实际卷内译者署名区分",
+          "textual_basis": "阿赫米姆希腊残篇",
+          "independence": "与埃塞俄比亚长本为不同文本见证，不把其编次/罪罚对应拼入指定长本",
+          "actually_read": "残篇1—13及21—33"
+        },
+        {
+          "url": "bible/基督教典外文献（共10册）_手机版.txt",
+          "translator_or_editor": "文件题署黄春根译，具体卷译者/印次未在文件首明示",
+          "publication": "用户本地中文合集",
+          "textual_basis": "新4卷2彼得启示录，埃塞俄比亚/希腊文本分别列",
+          "independence": "不同中文表达参考；未证实独立于James/后续西文编本",
+          "actually_read": "51678起简介；51715—51735惩罚段及下接13—16章"
+        }
+      ],
+      "actual_scope": [
+        {
+          "unit_id": "cR4W",
+          "label": "CHAPTER 3",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012"
+          ],
+          "block_count": 12,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cR53",
+          "label": "CHAPTER 4",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ],
+          "block_count": 6,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cR4W",
+          "block_id": "p0011",
+          "before": "那时，我要在阿凯鲁萨原野〔或：极乐之境〕，把我的选民和义人所恳求的洗礼与救恩赐给他们。他们要用花朵装饰义人的分，我要去……我要与他们一同喜乐。我要使众民进入我永远的国度，把我叫他们盼望的那永恒之物〔或：生命〕指给他们看，就是我和我在天上的父。",
+          "after": "那时，我要在阿凯鲁萨原野〔或：极乐之境〕，把我的选民和义人所恳求的洗礼与救恩赐给他们。他们要用花朵装饰义人的分，我要去……我要与他们一同喜乐。我要使众民进入我永远的国度，把那永恒之物〔或：生命〕指给他们看；那是我和我在天上的父叫他们盼望的。",
+          "reason": "even I and My Father为主格施事，旧译“就是我和父”将其变成永恒之物的表语。经dydi_d交叉QA，将父子施事最小限度接在最近的叫他们寄望从句，主句保留我要使…；不扩大父子施事到入国和显明两个动作。原埃塞俄比亚句法尚待直接核实。"
+        }
+      ],
+      "retained_variants": [
+        "3:10 James提到另一残篇关于为罪人求释放的文字与长本传抄可能省略；不据论述向当前洗礼句补“为罪人求”。",
+        "4:3另一重天、众君王开门保留指定本；中文参考第三重天或正典城门不可自动覆盖。",
+        "希腊残篇将部分罪罚对应到不同群体；不按希腊短本调换长本段落。",
+        "3:10句末父子主格同位语的精确作用范围尚待埃塞俄比亚文终核；本次依最近从句最小改动，未把同位语前置到整个主句。"
+      ],
+      "next": "第3—4章重点校核完成；1—2章本轮未逐块读，不称长短两本全文已对校。"
+    },
+    {
+      "book_id": "revelation-of-thomas",
+      "reference_research": "completed_for_targeted_passages",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator_or_editor": "M. R. James",
+          "publication": "The Apocryphal New Testament，Oxford Clarendon Press，1924，印页555—563",
+          "textual_basis": "Wilhelm长本、Bihlmeyer短本和维也纳残篇",
+          "independence": "当前英文主要与James短本关系密切；不是独立第二英译；长短文本为不同见证",
+          "actually_read": "导论/结论与短本七日征兆及同页长本对应段；扫描OCR局部有缺行，未将其当原文省略"
+        },
+        {
+          "url": "bible/基督教典外文献（共10册）_手机版.txt",
+          "translator_or_editor": "文件题署黄春根译，具体卷译者/印次待核",
+          "publication": "第264章，新4卷2",
+          "textual_basis": "明列长短本；从西方译本编译，具体段落依赖未完全确定",
+          "independence": "表达参考；不把长短本差异都判定为指定英文错译",
+          "actually_read": "54417—54485，导论、全部短本及长本首段与前四日"
+        }
+      ],
+      "actual_scope": [
+        {
+          "unit_id": "cR5K",
+          "label": "CHAPTER 1",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "block_count": 7,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cR5U",
+          "label": "CHAPTER 2",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019"
+          ],
+          "block_count": 19,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cR61",
+          "label": "CHAPTER 3",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "block_count": 15,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cR68",
+          "label": "CHAPTER 4",
+          "blocks": [
+            "p0001",
+            "p0002"
+          ],
+          "block_count": 2,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        }
+      ],
+      "changes": [],
+      "retained_variants": [
+        "短本镜中/中文参考袋中，山中/James monuments（括注mountains?）/中文墓中，黄昏/中文向西：维持指定英文，未把译本之间异读当OCR修复。",
+        "圣天使彼此争战在中文短本同见，未按神学删改。",
+        "列王间distributions，James为sharings(participations)，中文参考理解为瓜分世界；现译疆土瓜分可在该语境成立，但原英对象未明，仍列待拉丁文核。",
+        "卷首2—4世纪为指定编者断代，James/中文导论对部分材料置更晚；未擅改源卷首年代。"
+      ],
+      "next": "已读四章源文全部正文块，但外部James OCR缺若干行且原拉丁文未核，因此full_review_this_round仍false；下一步核第五日至第八日完整拉丁底本及mirror/mountains。"
+    },
+    {
+      "book_id": "revelation-of-stephen",
+      "reference_research": "completed_for_targeted_passages",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator_or_editor": "M. R. James，据I. Franko的斯拉夫文本研究概述",
+          "publication": "1924，印页564—568；所述Franko发表于1906年Zeitschrift für die neutestamentliche Wissenschaft",
+          "textual_basis": "James称所给为substance，即斯拉夫传奇内容概述；并非逐字斯拉夫文新译",
+          "independence": "当前英文基本来自James概述；不把它与卢西安415年发现遗骨记、格拉修清单失传作品无条件等同",
+          "actually_read": "564—568导论与Stephen争论/殉道/彼拉多结尾；重点566页ere long"
+        },
+        {
+          "url": "bible/基督教典外文献（共10册）_手机版.txt",
+          "translator_or_editor": "用户本地中文合集",
+          "publication": "索引检索",
+          "textual_basis": "未定位同篇完整正文",
+          "independence": "无对应正文，不宣称作了中文三方对校",
+          "actually_read": "标题检索与相关启示文学清单；未借同名断言正文相同"
+        }
+      ],
+      "actual_scope": [
+        {
+          "unit_id": "cR6S",
+          "label": "CHAPTER 1",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010"
+          ],
+          "block_count": 10,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cR6Z",
+          "label": "CHAPTER 2",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "block_count": 7,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cR76",
+          "label": "CHAPTER 3",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017"
+          ],
+          "block_count": 17,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cR7D",
+          "label": "CHAPTER 4",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027"
+          ],
+          "block_count": 27,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cR7M",
+          "label": "CHAPTER 5",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011"
+          ],
+          "block_count": 11,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cR76",
+          "block_id": "p0007",
+          "before": "你使我连自己的出身也怀疑了。但我看见，你将长久喝我所喝的这杯。你所做的，快做吧。”",
+          "after": "你使我连自己的出身也怀疑了。但我看见，你过不多久，也要喝我所喝的这杯。你所做的，快做吧。”",
+          "reason": "指定英文will long drink疑在现代化时失去ere；James1924印页566实际文字为ere long，意为不久，符合后文4:20你明日同受苦。不是长时间饮杯，修正时间意义并注。"
+        }
+      ],
+      "retained_variants": [
+        "James给杀婴数14,000（144,000），指定英文仅14,000；保留一万四千，不补另数。",
+        "Gamaliel、Nicodemus与Stephen同被杀和彼拉多一家归信均属本传奇，不按使徒行传重写。",
+        "Jesitites、Serasima及地名变体暂存；所看James文本未解决身份，不擅映射现代族名。"
+      ],
+      "next": "源正文五章均已重点通读，但未直核Franko斯拉夫原刊/两份抄本；不宣称跨语全文校勘，后续核长篇引文与地名。"
+    },
+    {
+      "book_id": "revelation-of-the-virgin",
+      "reference_research": "completed_for_targeted_passages",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf09/cache/anf09.txt",
+          "translator_or_editor": "Andrew Rutherfurd（卷中署作Rutherford）",
+          "publication": "ANF第9卷，Allan Menzies编，1897",
+          "textual_basis": "按M. R. James，Texts and Studies II.3（1892）Bodleian十一世纪希腊抄本刊本英译",
+          "independence": "与指定英文直接同源；CCEL不是独立第二译本。此处以原出版完整段确认缩删/词误；未声称读到希腊抄本",
+          "actually_read": "导论及第14、28章，前后相邻句；导论自认底本文本多处有损"
+        }
+      ],
+      "actual_scope": [
+        {
+          "unit_id": "cRB0",
+          "label": "CHAPTER 14",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ],
+          "block_count": 6,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cRE2",
+          "label": "CHAPTER 28",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "block_count": 7,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cRB0",
+          "block_id": "p0006",
+          "before": "天军统帅说：“至圣者，请听，我告诉你这事：列国中若有人想要被亵渎，他必承受无止息的报应。”",
+          "after": "天军统帅说：“至圣者，请听，我告诉你这事：列国中若有人想要受洗，［却遭人辱骂，那出言辱骂的人］必承受无止息的报应。”",
+          "reason": "ANF IX第14章完整段为外邦人求受洗、被人辱骂，辱骂者因此受罚；当前英文blasphemed及中间缺失使受罚者反转。只恢复受洗词和最小主语/因果，以方括号明示参考补足，未搬入整段辱骂原话。"
+        }
+      ],
+      "retained_variants": [
+        "14章缺失原因未确定为删节或抄漏；未假称已看古希腊手稿，所据为公开出版英译完整段。",
+        "28章ANF同有from eternity shalt conceive，并无单独predestined一词；现译“从亘古蒙定”是为理顺时态的解释，仍缺独立希腊句法证据，本轮不据后期教义进一步补写。须后续优先核James1892希腊刊本再决定如何撤换。",
+        "28章善恶相报的两个条件：有人加害而不报复，与未受害却加害他人，源/现译保留，并未改成无条件普救宣告。"
+      ],
+      "next": "第14、28章实读；优先续核28章希腊时间修饰及其余28章，未称全30章对校。"
+    },
+    {
+      "book_id": "the-sibylline-oracles",
+      "reference_research": "completed_for_targeted_passages",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/sibyllineoracle00rzacgoog",
+          "translator_or_editor": "Milton S. Terry",
+          "publication": "1899新版，New York Eaton & Mains；据Rzach希腊校本修订",
+          "textual_basis": "希腊文本英译及异读脚注",
+          "independence": "当前英文与此Terry译文同源；校勘脚注提供不同抄本读法，不因同书扫描和网站转录而计双译本",
+          "actually_read": "实际目视PDF185=书页175，VIII370—399正文与372脚注；PDF69=书页57 III40；PDF103=书页91 III915正文及脚注；另OCR/网络查看VIII648前后"
+        },
+        {
+          "url": "https://archive.org/details/sibyllineoracle01terrgoog",
+          "translator_or_editor": "Milton S. Terry",
+          "publication": "较早版，序署1890年9月",
+          "textual_basis": "同译者较早英译",
+          "independence": "不是独立译者；仅修订史参考",
+          "actually_read": "序文与III40较早guard against读法"
+        },
+        {
+          "url": "https://archive.sacred-texts.com/cla/sib/sib10.htm",
+          "translator_or_editor": "Milton S. Terry，网站转录",
+          "publication": "1899版网络转录",
+          "textual_basis": "VIII英译",
+          "independence": "与上述扫描同版，非独立译本",
+          "actually_read": "370—390及642—650"
+        },
+        {
+          "url": "https://archive.sacred-texts.com/cla/sib/sib05.htm",
+          "translator_or_editor": "Milton S. Terry，网站转录",
+          "publication": "1899版网络转录",
+          "textual_basis": "III英译",
+          "independence": "与上述扫描同版",
+          "actually_read": "35—44、910—925"
+        }
+      ],
+      "actual_scope": [
+        {
+          "unit_id": "cUM2",
+          "label": "BOOK VIII",
+          "blocks": [
+            "p0369",
+            "p0370",
+            "p0371",
+            "p0372",
+            "p0373",
+            "p0374",
+            "p0375",
+            "p0376",
+            "p0377",
+            "p0378",
+            "p0379",
+            "p0380",
+            "p0381",
+            "p0382",
+            "p0383",
+            "p0384",
+            "p0385",
+            "p0386",
+            "p0387",
+            "p0388",
+            "p0389",
+            "p0390",
+            "p0391",
+            "p0646",
+            "p0647",
+            "p0648",
+            "p0649",
+            "p0650",
+            "p0651",
+            "p0652"
+          ],
+          "block_count": 30,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        },
+        {
+          "unit_id": "cSCS",
+          "label": "BOOK III",
+          "blocks": [
+            "p0037",
+            "p0038",
+            "p0039",
+            "p0040",
+            "p0041",
+            "p0042",
+            "p0043",
+            "p0044",
+            "p0911",
+            "p0912",
+            "p0913",
+            "p0914",
+            "p0915",
+            "p0916",
+            "p0917",
+            "p0918",
+            "p0919",
+            "p0920"
+          ],
+          "block_count": 18,
+          "method": "指定英文、现译与下列实际范围的外部参考逐处对照；未核范围不计入"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cUM2",
+          "block_id": "p0374",
+          "before": "被打、被鞭笞，却以善报恶，",
+          "after": "被打、被鞭笞，却以恶报善，",
+          "reason": "Terry1899印页175正文确为evil do for good，脚注明若干抄本读good for evil且意义未定；前次仅依上下文和中文参考倒换善恶，依据不足。本次撤销，以指定读法为正文，另注异读。此为描述该群体，不改成对全体读者的训令。"
+        },
+        {
+          "unit_id": "cSCS",
+          "block_id": "p0917",
+          "before": "如今，不要再差遣那些鲁莽的百姓",
+          "after": "如今，再差遣那些鲁莽的百姓",
+          "reason": "Terry1899印页91正文Send now明确肯定；脚注明Send not只是批评者提议，并给肯定读法另一历史解释。上下文不足以断言漏否定，撤回前次未经证实的not。保持后续against这城与来自圣地，不另拼合历史假说。"
+        }
+      ],
+      "retained_variants": [
+        "III40印页57也作Ye guard，故不能称现代OCR误录。较早Terry译guard against；现有“不敬畏”主要依上下文及中文参考，仍需希腊校本核，不在本次另造确定释义。",
+        "VIII385—386圣童女句确在1899方括号内，句法歧义并非本项目新造；不换成另一版十字架前童女场景。",
+        "VIII648—650 restrain/recollection在1899转录和扫描OCR均同，未只凭中文参考改成快乐回忆。",
+        "原印校注的MSS差异及批评者提议分别登记，不混称印刷错误。"
+      ],
+      "next": "仅III18块、VIII30块；其余诗行和十余卷远未做本轮全文校勘，下一步III40与VIII385、648原希腊文本；XIV后段本轮仅定位资源未计核读。"
+    }
+  ],
+  "summary": {
+    "books": 8,
+    "source_units_reviewed": 19,
+    "source_blocks_reviewed": 259,
+    "body_edits": 6,
+    "full_books_reviewed": 0,
+    "limits": "重点文本研究与校改，非八项全文跨语校勘；同源转载、未知译者网络页与独立见证明确区分。"
+  }
+}

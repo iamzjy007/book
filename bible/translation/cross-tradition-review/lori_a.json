@@ -1,0 +1,1368 @@
+{
+  "worker": "lori_a",
+  "scope": "history-patristics 001—025",
+  "status": "completed_targeted_pass",
+  "method": "读取各卷现译疑难注和指定英文，依实际可访问参考作重点校核；同一ANF/NPNF的多站转载只计同源。未阅读范围不称全文审校。所有在线长文本只留忽略缓存，报告不复制长段。",
+  "items": [
+    {
+      "number": 1,
+      "book_id": "1-clement",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/1clement-lightfoot.html",
+          "publication": "J. B. Lightfoot使徒教父英译；ECW转载，Diognetus页明确注明Lightfoot/Harmer 1891，其他页具体再版未标明。",
+          "actual_read": "54:1—4",
+          "independence": "独立于ANF译文；与Hoole类英文控制本不能假定同一译本。",
+          "sha256": "50a953f1ea5bbfd0e07f88f8685c6fc831fe67805db594b15dc3556e33ab4d22"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/1clement-roberts.html",
+          "publication": "Ante-Nicene Fathers旧英译，ECW转载；Roberts/Donaldson编，19世纪；具体译者能确认者另列。",
+          "actual_read": "第54章相关句，书目归属",
+          "independence": "ANF同源校读，不因换网站增加独立本数。",
+          "sha256": "add739e99b57702b3f682f40158b4978ad3c0a59673ad243ec0d14c5e4c5831a"
+        },
+        {
+          "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=054",
+          "publication": "黄锡木主编《使徒教父著作》；原文审校黄锡木、张略，编译陈宝婵、彭惠敏、邱丹、王碧燕；FHL电子文本，网页未列本版出版年。",
+          "actual_read": "54章",
+          "independence": "中文独立表达；54:4未呈现英文no regrets修饰语。",
+          "sha256": "415aa68f4f8c34a5b4bcf8d030df159143b35cb1ee6df957bebed07d1675a064"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cH0K",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cH0K",
+          "reason": "记录独立英译修饰不同，保留解释弹性而不改正文。",
+          "notes_before": [
+            "54:4的converted of语法异常，疑与repented of（后悔）混用；依本段让步求和的上下文，将无须后悔连于这样的行为。原文修饰关系仍待版本核实，不将其解释为神国国民本身无需悔改。"
+          ],
+          "notes_after": [
+            "54:4的converted of语法异常，疑与repented of（后悔）混用。此处依让步求和的上下文，将无须后悔连于这样的行为；Lightfoot英译则将相关修饰连于神国，黄锡木主编中文参考未另译此语。现译只是解释取向，修饰关系仍待版本核实，不将其理解为神国国民本身无需悔改。"
+          ]
+        }
+      ],
+      "retained_differences": [
+        "54:4参考间有修饰差别；保留现译让步求和解释，但不宣称其为唯一原文句法。"
+      ],
+      "unresolved": [
+        "converted of语法及无须后悔的修饰对象仍待精细校勘。"
+      ],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "validation": [
+        {
+          "unit": "cH0K",
+          "status": "complete",
+          "error": null
+        }
+      ],
+      "status": "resource_research_and_targeted_review_completed"
+    },
+    {
+      "number": 2,
+      "book_id": "2-clement",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/2clement-lightfoot.html",
+          "publication": "J. B. Lightfoot使徒教父英译；ECW转载，Diognetus页明确注明Lightfoot/Harmer 1891，其他页具体再版未标明。",
+          "actual_read": "4:1—5、10:1—5、20:1—5",
+          "independence": "独立英译。",
+          "sha256": "bc134ed0daeb510d3caa7eca74985dbcee237bab133b64ec525626a13da5d308"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/2clement-hoole.html",
+          "publication": "Charles H. Hoole, Apostolic Fathers, 1885；ECW全文转载。",
+          "actual_read": "4:3—5",
+          "independence": "与本指定英文措辞接近；与Lightfoot不同译者。",
+          "sha256": "063ac9888100632970e7d76ea39219ee680c3a4936668823de68c1ffbc594a82"
+        },
+        {
+          "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=004",
+          "publication": "黄锡木主编《使徒教父著作》；原文审校黄锡木、张略，编译陈宝婵、彭惠敏、邱丹、王碧燕；FHL电子文本，网页未列本版出版年。",
+          "actual_read": "第4章全部",
+          "independence": "中文译本。",
+          "sha256": "7f6354c9e7f5450f84fcd525244b8272468086b29cb196c152bd921d6a3e94a4"
+        },
+        {
+          "url": "https://ccel.org/ccel/lake/fathers2/fathers2.ii.ii.html",
+          "publication": "Kirsopp Lake, The Apostolic Fathers, Loeb Classical Library, 1912—1913；CCEL希腊文电子本。",
+          "actual_read": "IV.3—5希腊文及上下文",
+          "independence": "直接希腊文本证据，非ANF英语镜像。",
+          "sha256": "b3c518327f3b2b844ce8cf3a6d9657d586c58d06837a5d79aaf6d83dd079b885"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cH48",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cH48",
+          "reason": "撤销无充分证据的补否定；Greek、Hoole、Lightfoot及FHL均无该not。",
+          "block": "p0006",
+          "before": "所以，我们若不行这些事，主已经说了：“纵然你们曾与我聚集，在我怀中，却不遵行我的命令，我也必将你们从我面前赶走，对你们说：‘离开我吧！我不知道你们从哪里来，你们这些作恶的人！’”",
+          "after": "所以，我们若行这些事，主已经说了：“纵然你们曾与我聚集，在我怀中，却不遵行我的命令，我也必将你们从我面前赶走，对你们说：‘离开我吧！我不知道你们从哪里来，你们这些作恶的人！’”",
+          "notes_before": [
+            "4:5引语前原文if we do these things与前文所列善行及紧接的不遵命令之警告矛盾，据明确上下文补出否定，译为“我们若不行这些事”。"
+          ],
+          "notes_after": [
+            "4:5引语前希腊文ταῦτα ὑμῶν πρασσόντων及指定英文均无否定词，Lightfoot、Hoole英译和黄锡木主编中文本也不补否定。这里“这些事”所指有歧义，可回指前文所说与善行相反的行为；保留原句，不擅加“不”。引语内“不遵行我的命令”仍按原文保留。"
+          ]
+        }
+      ],
+      "retained_differences": [
+        "4:5引语前希腊ταῦτα ὑμῶν πρασσόντων无否定；Lightfoot、Hoole、FHL亦无否定，撤销旧译擅补不。"
+      ],
+      "unresolved": [
+        "本轮10、20仅阅读参考难点，未逐块再核现译，不计已核单元。"
+      ],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "validation": [
+        {
+          "unit": "cH48",
+          "status": "complete",
+          "error": null
+        }
+      ],
+      "status": "resource_research_and_targeted_review_completed"
+    },
+    {
+      "number": 3,
+      "book_id": "seven-epistles-of-ignatius",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/ignatius-romans-lightfoot.html",
+          "publication": "J. B. Lightfoot使徒教父英译；ECW转载，Diognetus页明确注明Lightfoot/Harmer 1891，其他页具体再版未标明。",
+          "actual_read": "致罗马人10:1—3",
+          "independence": "独立译者；中等篇幅真书信文本，未拿长本插文替换。",
+          "sha256": "29bbd3f4206a502f0661ff798bfce7434868860ab5ca91a4d99f6a2261ed20d6"
+        },
+        {
+          "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=010",
+          "publication": "黄锡木主编《使徒教父著作》；原文审校黄锡木、张略，编译陈宝婵、彭惠敏、邱丹、王碧燕；FHL电子文本，网页未列本版出版年。",
+          "actual_read": "致罗马人第10章",
+          "independence": "中文对应。",
+          "sha256": "c63df8682fcae1e7d7c249c4d527f9eec41639639fcccb9835298530ddbb8e7d"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cHSJ",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "保留克罗库斯译名及九月朔日前第九日；含首尾计日为8月24日。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cHSJ",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "book_id": "epistle-of-polycarp-to-the-philippians",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/polycarp-lightfoot.html",
+          "publication": "J. B. Lightfoot使徒教父英译；ECW转载，Diognetus页明确注明Lightfoot/Harmer 1891，其他页具体再版未标明。",
+          "actual_read": "3:1—3",
+          "independence": "独立英译。",
+          "sha256": "fadedfe3bec2e180efa90a641a8e93d569bcc540c812a348b417e0d2895fb720"
+        },
+        {
+          "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=003",
+          "publication": "黄锡木主编《使徒教父著作》；原文审校黄锡木、张略，编译陈宝婵、彭惠敏、邱丹、王碧燕；FHL电子文本，网页未列本版出版年。",
+          "actual_read": "第3章",
+          "independence": "中文对应。",
+          "sha256": "e5b2a79c47350884f09acc6c1d599b11ac74849edeaabfad8e53dfd0eab8fbd3"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cJ2A",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "两参考均为盼望随信心而来，而指定英文重复faith；暂保留指定版并增强异读记录，不悄悄以参考换词。"
+      ],
+      "unresolved": [
+        "faith/hope可能为英文改写失误，尚未在本轮直接核该处希腊。"
+      ],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cJ2A",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "book_id": "martyrdom-of-polycarp",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/martyrdompolycarp-lightfoot.html",
+          "publication": "J. B. Lightfoot使徒教父英译；ECW转载，Diognetus页明确注明Lightfoot/Harmer 1891，其他页具体再版未标明。 本页标示ATHENA 1990适度改写。",
+          "actual_read": "3:1—2及2章结尾衔接",
+          "independence": "独立Lightfoot译文，但电子本有现代化。",
+          "sha256": "43ed94e3c3d4d5816e7142f045a86cf44a60c4413d62b78f7431742a9e4f9f59"
+        },
+        {
+          "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=003",
+          "publication": "黄锡木主编《使徒教父著作》；原文审校黄锡木、张略，编译陈宝婵、彭惠敏、邱丹、王碧燕；FHL电子文本，网页未列本版出版年。",
+          "actual_read": "第3章",
+          "independence": "中文对应。",
+          "sha256": "a30a9dc17d74cbd560ade9f2b0608d55dac4ef4ef14cec107cc0fdae40e244ab"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cJ5W",
+          "blocks": [
+            "p0002",
+            "p0003"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "Lightfoot神胜过众人与本版他不能胜过一人的主语表述不同；本版后者承上指敌对者，不擅改句子。无神者为古代指控，不是译者判定。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cJ5W",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/diognetus-lightfoot.html",
+          "publication": "J. B. Lightfoot使徒教父英译；ECW转载，Diognetus页明确注明Lightfoot/Harmer 1891，其他页具体再版未标明。",
+          "actual_read": "2:1—10，重点2:8—9",
+          "independence": "独立英译；同样写convict his sensibility。",
+          "sha256": "0c0a144f36db5468a305dc1b5ff6fe15a7dccbd7f72610f8281edb2913d5cc3b"
+        },
+        {
+          "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=002",
+          "publication": "黄锡木主编《使徒教父著作》；原文审校黄锡木、张略，编译陈宝婵、彭惠敏、邱丹、王碧燕；FHL电子文本，网页未列本版出版年。",
+          "actual_read": "第2章全部",
+          "independence": "中文将结论解释为反证感知。",
+          "sha256": "a361c272c8eb1c4ef48f825a6788df21990fc501919b8d321a99900f56ee7445"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cJAT",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cJAT",
+          "reason": "说明convict旧义及反证关系，避免把可解释的英文误判为必须补not。",
+          "notes_before": [
+            "2:9原文末句convict his sensibility与前文石头无知觉的推论不合，依紧接的because it is insensible，译为证明它并无知觉，并在此注明。"
+          ],
+          "notes_after": [
+            "2:9的convict his sensibility在Lightfoot英译中亦如此。结合前句石头没有知觉，convict在此作揭穿、驳倒之意，即反证石像具有知觉的说法；黄锡木主编中文参考亦按反证理解。正文译出石像并无知觉的结论，不据此宣称英文漏了否定词。"
+          ]
+        }
+      ],
+      "retained_differences": [
+        "convict在旧语境可表示揭穿/驳倒声称；并非必须认定英文漏not。正文表达石头无感觉可留，改注说明旧义和推论。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "validation": [
+        {
+          "unit": "cJAT",
+          "status": "complete",
+          "error": null
+        }
+      ],
+      "status": "resource_research_and_targeted_review_completed"
+    },
+    {
+      "number": 7,
+      "book_id": "exposition-of-the-oracles-of-the-lord",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/papias.html",
+          "publication": "Ante-Nicene Fathers旧英译，ECW转载；Roberts/Donaldson编，19世纪；具体译者能确认者另列。",
+          "actual_read": "残篇IV葡萄、麦子数目及引语框架",
+          "independence": "同源ANF核录入，不能称独立译本。",
+          "sha256": "7a57c8ae3b524e660ab4e5a73f1a5bd7e262072ad8bf3ed34e45064b27e8d3f6"
+        },
+        {
+          "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=001",
+          "publication": "黄锡木主编《使徒教父著作》；原文审校黄锡木、张略，编译陈宝婵、彭惠敏、邱丹、王碧燕；FHL电子文本，网页未列本版出版年。",
+          "actual_read": "帕皮亚残篇1",
+          "independence": "此页是优西比乌编年史传记引文，与英文残篇IV不是同一段；仅记编次不对应。",
+          "sha256": "5b33b52af0d4b9ec315355503dda1928d52a5475fb9af09f50a91fd858e98003"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cJKE",
+          "blocks": [
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "一万的层级和二十五metretes保留，非现代量制转换；FHL第1段不得按章号硬贴。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cJKE",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "book_id": "apology-of-aristides",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/aristides-kay.html",
+          "publication": "D. M. Kay, Syriac version英译，ANF第9卷（1896）；ECW/St Pachomius转载。",
+          "actual_read": "译者题头与版本介绍、第IX章克罗诺斯/宙斯叙事",
+          "independence": "叙利亚版；与Barlaam希腊改编不是同一完整文本；本版与Kay同源。",
+          "sha256": "926b3917c1fb64dd252114d2d47c5aeebd362bae3d4c734262db077021b47365"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cJPK",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "阉割者与受刑者、露娜生狄俄尼索斯属本版本古代叙述，不按现代神话词典调换。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cJPK",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "book_id": "apology-for-christianity",
+      "full_review_this_round": true,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/quadratus.html",
+          "publication": "Ante-Nicene Fathers旧英译，ECW转载；Roberts/Donaldson编，19世纪；具体译者能确认者另列。",
+          "actual_read": "Quadratus全残篇及题头",
+          "independence": "同源英译；不能增加为独立翻译。",
+          "sha256": "cb783599e600f8c937e0d077d998958ec0b742e5477cc804e2dc339a3f2b336a"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cJSV",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003"
+          ]
+        },
+        {
+          "unit": "cJT4",
+          "blocks": [
+            "p0001",
+            "p0002",
+            "p0003",
+            "p0004"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "指定英文after His death与ANF after His departure不同，保留本版死后，不从另一文本增写复活后或升天后。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cJSV",
+          "status": "complete",
+          "error": null
+        },
+        {
+          "unit": "cJT4",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "book_id": "acts-of-perpetua-and-felicitas",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/perpetua.html",
+          "publication": "W. H. Shewring, The Passion of Perpetua and Felicity, London, 1931；ECW现代化拼写转载，末注明未重译。",
+          "actual_read": "§3受浸、父亲争辩和囚禁段；§4梯子起头；页末出版说明",
+          "independence": "独立于ANF的拉丁文英译。",
+          "sha256": "265165adf969e53bc72df94788a8d693a7b16d9cf7f9a097f14a0da58e4c9c8a"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cPPD",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "受浸只求身体忍耐的语法修复得到Shewring支持；父亲与魔鬼说辞被打败/被说辞胜过、铜梯/金梯为不同表述，保留本版，列差异。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cPPD",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "book_id": "first-apology",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/justinmartyr-firstapology.html",
+          "publication": "Ante-Nicene Fathers旧英译，ECW转载；Roberts/Donaldson编，19世纪；具体译者能确认者另列。 游斯丁部分为Marcus Dods/George Reith英译传统。",
+          "actual_read": "第一护教辞第VI章",
+          "independence": "ANF同源，不能算第二独立文本。",
+          "sha256": "ff56c679d2417cb5b2a91f52f775610a4ef49e7b91ec3b19d2cae2bdc563a87d"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cWYX",
+          "blocks": [
+            "p0002",
+            "p0003"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "使者与worship的句法歧义仍在ANF括号中；保留现译及两读说明，不能因神学偏好抹掉另一读法。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cWYX",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "book_id": "second-apology",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/justinmartyr-secondapology.html",
+          "publication": "Ante-Nicene Fathers旧英译，ECW转载；Roberts/Donaldson编，19世纪；具体译者能确认者另列。 游斯丁部分为Marcus Dods/George Reith英译传统。",
+          "actual_read": "第二护教辞II妇人申诉及前后",
+          "independence": "同源但可辨后世注释侵入。",
+          "sha256": "02d7affa8896ecfcd21553ef621156616a7b8de8e278f558d9810d9436a15674"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cXD6",
+          "blocks": [
+            "p0008",
+            "p0009"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "ECW正文相应妇人申诉不含胡斯插句；指定版含中世纪类比，保留其内容但现有后世编注说明确有必要，不冒称游斯丁亲言。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cXD6",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "book_id": "apology-to-marcus-aurelius",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.tertullian.org/fathers/spicilegium_5_melito.htm",
+          "publication": "William Cureton, Spicilegium Syriacum, 1855；Tertullian转载页题为Ps.-Melito。",
+          "actual_read": "卷首归属、正文诸民族神祇段Joseph/Serapis",
+          "independence": "叙利亚文Cureton英译，与后ANF转译/修订关系紧密，不无条件计完全独立底本。",
+          "sha256": "f3c1b32489e7fd09400a09a63a2f2206d079a2432293e3e2784150508a82df4b"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cXG8",
+          "blocks": [
+            "p0003",
+            "p0004"
+          ]
+        },
+        {
+          "unit": "cXHP",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "参考题头提示伪梅利托归属，原版卷首断言不静默重写；约瑟=塞拉皮斯为作者说法，不当作现代历史事实。"
+      ],
+      "unresolved": [
+        "本作归属及确切作年，需进一步专门研究，不能由卷首编者一句确定。"
+      ],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cXG8",
+          "status": "complete",
+          "error": null
+        },
+        {
+          "unit": "cXHP",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "book_id": "discourses-of-melito",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/melito.html",
+          "publication": "Ante-Nicene Fathers旧英译，ECW转载；Roberts/Donaldson编，19世纪；具体译者能确认者另列。",
+          "actual_read": "论十字架首段及Impassible平行句",
+          "independence": "同源ANF，不算独立译本。",
+          "sha256": "806d986f22a592c1f3f7b289959d1c69da1996a7a1ddf648967cf921f7f9ebcf"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cXNE",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "Impossible/Impassible相邻平行句可证旧修译意思；不把悖论性神学称谓改成后世教义定式。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cXNE",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "book_id": "a-plea-for-the-christians",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/athenagoras-plea.html",
+          "publication": "B. P. Pratten英译，ANF第2卷（1885），ECW转载。",
+          "actual_read": "第II章条件论证、dear knowledge前后",
+          "independence": "同源且也有dear误录，不能拿重复网页作独立校勘证据。",
+          "sha256": "4a049a2e7a8d34994ce978d998158fb266048effd0ba6a460557f7d3682ee5ef"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cXTN",
+          "blocks": [
+            "p0002"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "若有罪不求免刑、仅因名受罚应停止，两条件区分准确；dear→clear仍属于强上下文校正，而非已见校勘版证实。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cXTN",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "book_id": "apology-to-autolycus",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/theophilus-book1.html",
+          "publication": "Theophilus to Autolycus, Marcus Dods英译传统，ANF第2卷（1885）；ECW转载。",
+          "actual_read": "卷I第II章",
+          "independence": "同源校读。",
+          "sha256": "ef69de122cfb0c7d3cd822578af7657e102a545ba7f46ae20563a2b5aed69641"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cY2X",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "ANF清单为thief/robber/purloiner，指定现代化版首尾均thief；保留指定版重复，不擅改罪名；unless条件保持。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cY2X",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "book_id": "discourse-concerning-hades",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/josephus/works/files/hades.htm",
+          "publication": "William Whiston英译传统，约瑟夫作品附录，1737以来版本；CCEL电子转载。",
+          "actual_read": "第6段不再繁衍至颂赞",
+          "independence": "指定本与此措辞同源。",
+          "sha256": "bf7a3dde20a586a8865cb51a3e3c9d70f05d37ccc34a9d0735de01f15f926dcc"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0520.htm",
+          "publication": "J. H. MacMahon, ANF第5卷，1886；NewAdvent；署希坡律陀。",
+          "actual_read": "末段人和兽不再繁衍及出版说明",
+          "independence": "不同译者和编集归属，有独立句法对照价值；不据此扩成同一全本文本。",
+          "sha256": "dedfc2e42cd9e1254aa6958e52e72aeab1b6139127fc2a9933e3c4285512cac8"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cYVA",
+          "blocks": [
+            "p0010"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "Whiston的it指代有歧义；MacMahon明确说人不再生育，支持主题但不直接消除指定英文指代困难。保留正文并记录两个表达。"
+      ],
+      "unresolved": [],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cYVA",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "book_id": "the-muratorian-canon",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/muratorian-metzger.html",
+          "publication": "Bruce M. Metzger, The Canon of the New Testament, Clarendon Press,1987,附录IV pp305—307；依据Lietzmann1902/1933修订拉丁文本。",
+          "actual_read": "全残篇正文、末尾和Luke词组脚注",
+          "independence": "现代校订英译，非ANF镜像；指定英文本身与Metzger高度接近。",
+          "sha256": "2fc406f23ec7c72d33ecd4a4465dd21ca99c29a6548d8fb68ac133fbeded45a8"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/muratorian-latin.html",
+          "publication": "P. F. Theron, Evidence of Tradition,pp106—113；ECW并列抄本拉丁/修复拉丁/英译，网页此处未列出版年。",
+          "actual_read": "卷首抄本说明、Luke行2—9及末句对照",
+          "independence": "拉丁原样与校订读法需分开，不能混成无争议原文。",
+          "sha256": "9dd085f1aadceca9c444be67aa154f04e15229d17196a35137786a930f373caa"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cYW8",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030",
+            "p0031",
+            "p0032",
+            "p0033",
+            "p0034",
+            "p0035",
+            "p0036",
+            "p0037"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "Luke热心律法/同行者是校订异读；末尾教派人物难题在Metzger亦保留，不能靠常识把Basilides改成Montanus。"
+      ],
+      "unresolved": [
+        "本轮核正文残篇，未全文核本版编者引言，故全书仍false。"
+      ],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cYW8",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "book_id": "gelasian-decree",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.tertullian.org/decretum_eng.htm",
+          "publication": "Roger Pearse英译，依据Ernst von Dobschütz, TU38.4,1912；V部参Hennecke-Schneemelcher。",
+          "actual_read": "IV会议条目、页面题头",
+          "independence": "指定英文显直接同源。",
+          "sha256": "e967d4d71119f0535984de8bc5fbd59fca651c4a952fb5429416f0ce8cdc8672"
+        },
+        {
+          "url": "https://www.tertullian.org/decretum.htm",
+          "publication": "Ernst von Dobschütz 1912拉丁校订版，Tertullian电子转录；脚注未录。",
+          "actual_read": "IV君士坦丁堡会议句及邻接尼西亚/以弗所句",
+          "independence": "直接拉丁证据，不是两个独立英译。",
+          "sha256": "192e3fc24e8488b2b1e9204151d0f873b772810ffdca99236ad64241f20b4fc8"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cZ2T",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cZ2T",
+          "reason": "Dobschütz1912拉丁原文debitam damnationem excepit意为领受应得定罪；Pearse网页英文escaped为反向误译。",
+          "block": "p0004",
+          "before": "君士坦丁堡圣会议，由年长的奥古斯都狄奥多西主持，异端马其顿纽在会上逃脱了应得的定罪；",
+          "after": "君士坦丁堡圣会议，由年长的奥古斯都狄奥多西主持，异端马其顿纽在会上受了应得的定罪；",
+          "notes_before": [
+            "译者待核实问题：第四章君士坦丁堡会议一项，英文作马其顿纽“逃脱了应得的定罪”（escaped his deserved condemnation），与通常的会议史叙述及本段其余条目的措辞不一致，疑有转写缺漏。这里保留原文，未擅自补入否定词。"
+          ],
+          "notes_after": [
+            "原文修正说明：第四章君士坦丁堡会议一项，指定英文及其所据Pearse英译写escaped his deserved condemnation；Dobschütz 1912拉丁校订文本为debitam damnationem excepit，意为受了应得的定罪，与本条其他会议定罪的并列结构一致。据此修正“逃脱”为“受了”，并保留英文原有表述的记录。"
+          ]
+        }
+      ],
+      "retained_differences": [
+        "拉丁excepit是领受，并非逃脱；英译escaped反向，修正且注来源。"
+      ],
+      "unresolved": [
+        "整部敕令作者、层次与晚期汇编归属不能按题头视为单一教宗原稿。"
+      ],
+      "next_unreviewed": "除上述列明单元/块外，其余正文尚未进行本轮跨译本校核。",
+      "chinese_reference_status": "本项已列FHL实际正文时已核中文；否则尚未确认可实际读取并核对的正式中文译本全文，不据无出处转载冒称正式中译。",
+      "validation": [
+        {
+          "unit": "cZ2T",
+          "status": "complete",
+          "error": null
+        }
+      ],
+      "status": "resource_research_and_targeted_review_completed"
+    },
+    {
+      "number": 20,
+      "book_id": "the-earliest-creeds",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/fathers/2817.htm",
+          "publication": "John Henry Newman / Archibald Robertson, NPNF II.4,1892；NewAdvent Athanasius De Synodis。",
+          "actual_read": "长篇信经第5项对应引文，页尾出版说明",
+          "independence": "另编集内的同一历史引文；指定英文疑从其省漏而来，不把镜像算新译。",
+          "sha256": "4cb1786f90ba9459856eff74617b9b13bdd30bddb31ba9a71e6fb2e885ab86e2"
+        },
+        {
+          "url": "https://ccel.org/ccel/schaff/creeds2/creeds2.iv.i.ii.i.html",
+          "publication": "Philip Schaff, Creeds of Christendom第II卷，19世纪合集；CCEL电子本，具体再版未核。",
+          "actual_read": "381年信经希腊/狄奥尼修斯拉丁对照的圣灵段及文本出处",
+          "independence": "原语言对照而非英文镜像；Eastern received form不得与后期西方增句混同。",
+          "sha256": "5c38870476d973fe7880d09f54f0e48d5bafdde1ac7f723eec7258738cc4ea2e"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cZ9G",
+          "blocks": [
+            "p0130",
+            "p0214"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "第5项参考多出mental、Living God and Word, existing in Himself，证明指定英文存在省漏可能；不凭单页静默补整句，保留待核。",
+        "381年希腊和拉丁均指从父而出；不将西方父及子的措辞回填。"
+      ],
+      "unresolved": [
+        "其他23类信经本轮未逐条研究；长篇信经缺损待原文或更多校勘证据决定是否修复。"
+      ],
+      "next_unreviewed": "仅本项列明块完成重点核对；大型合集或史书其他全部单元仍未做本轮多译本全文校勘。",
+      "chinese_reference_status": "已确认中文书目的另列，但未取得对应中文全文的，不计中文正文审校。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cZ9G",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "book_id": "key-extrabiblical-references",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html",
+          "publication": "Tacitus Annals XV.44, J. Jackson译，Loeb卷V,1937；LacusCurtius校读电子本。",
+          "actual_read": "15.44完整段、前后及页面出版信息",
+          "independence": "独立于指定英文本接近Church/Brodribb传统的译文。",
+          "sha256": "79258b007ab855a140d4e8c69655bda06ff61e38ba61df3d443e63bb64404227"
+        },
+        {
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/home.html",
+          "publication": "LacusCurtius Tacitus总说明；Loeb 1925—1937；Histories C.H.Moore，Annals J.Jackson。",
+          "actual_read": "译者、卷次与版权说明",
+          "independence": "书目核实，不计额外正文版本。",
+          "sha256": "6a7a76393e6ded29c56d581765372b48c7f2188cb2687d656b2d6e86c1817e07"
+        },
+        {
+          "url": "https://sourcebooks.fordham.edu/source/pliny1.asp",
+          "publication": "Fordham Internet History Sourcebooks, Paul Halsall,1996；页面说明来自James O’Donnell电子文件，未明确印本译者。",
+          "actual_read": "Pliny10.96—97关于认罪、撤回信仰、匿名控告和条件段",
+          "independence": "措辞与指定版高度同源，译者不明，不冒称独立正式出版译本。",
+          "sha256": "0e3b20f8512af7b362e9092ff4a3b78c8b9fbd69e853e6a465b5afb7709d2692"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cZVW",
+          "blocks": [
+            "p0056",
+            "p0058",
+            "p0060"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "conversion在此指放弃基督徒身份，原译准确；匿名告发禁止与已告发查实则处罚两条件保持。",
+        "塔西佗的作者贬评保留；其procurator不据今考古职位名称替换；刑罚极致不是美好的意思。"
+      ],
+      "unresolved": [
+        "其余碑文、伊普威尔及古代作者节录未做本轮全篇对读；正式中文译本仍待取得。"
+      ],
+      "next_unreviewed": "仅本项列明块完成重点核对；大型合集或史书其他全部单元仍未做本轮多译本全文校勘。",
+      "chinese_reference_status": "已确认中文书目的另列，但未取得对应中文全文的，不计中文正文审校。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cZVW",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "book_id": "the-antiquities-of-the-jews",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/josephus/works/files/ant-1.htm",
+          "publication": "William Whiston, Josephus Antiquities英译传统（初版1737），CCEL电子转载。",
+          "actual_read": "卷I章1§1关于晚上/早晨、创世次序",
+          "independence": "与指定英文主要同源，仅校录入及旧义，不计独立译本。",
+          "sha256": "50aee1e7fcb5aa25d3d979f6dc65ceb5b66519982339ac6aef5268e285da2d2b"
+        },
+        {
+          "url": "https://www.ccel.org/ccel/josephus/works/files/ant-3.htm",
+          "publication": "William Whiston同译本，CCEL Antiquities卷III。",
+          "actual_read": "卷III章4§1流珥建议、insensible及各级领袖数字",
+          "independence": "同源；与已有Gutenberg副本不能重复算译本。",
+          "sha256": "05f3c92493e1a6bab795b1090848fab489360102f99d0b4ec98d56e228bf4375"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "cZZK",
+          "blocks": [
+            "p0003"
+          ]
+        },
+        {
+          "unit": "c10E9",
+          "blocks": [
+            "p0003"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "晶莹穹苍与晚上/早晨次序均属作者文本，不用正典创世记调平。",
+        "万人、千人、五百人、三十人等编制保留，不按出埃及记改列。"
+      ],
+      "unresolved": [
+        "oblivious/insensible旧修译补否定仅有上下文依据；Whiston副本也无not，Loeb扫描尝试503未获文本，保留明确待核，不称已由独立文本证实。",
+        "卷I及III其他段和另外十八卷仍待独立译本重点至全文审校。"
+      ],
+      "next_unreviewed": "仅本项列明块完成重点核对；大型合集或史书其他全部单元仍未做本轮多译本全文校勘。",
+      "chinese_reference_status": "已确认中文书目的另列，但未取得对应中文全文的，不计中文正文审校。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "cZZK",
+          "status": "complete",
+          "error": null
+        },
+        {
+          "unit": "c10E9",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "book_id": "against-apion",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/josephus/works/files/apion-2.htm",
+          "publication": "William Whiston, Against Apion卷II；1737英译传统，CCEL电子转载。",
+          "actual_read": "II.10讽刺语、驴头传说及门的数目",
+          "independence": "同源而非Loeb；Loeb未取得。",
+          "sha256": "073ab78b638d1e2c6673cd0eca4b2a84be69ff157293e8a42108967c7dfdac83"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "c13AJ",
+          "blocks": [
+            "p0011"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "miracle or piety两字疑误在Whiston副本也存在；现译敬虔奇才保留反讽，不将故事当作者赞同。",
+        "圣屋门七十肘二十肘等照作者叙述，不按建筑史纠正。"
+      ],
+      "unresolved": [
+        "需要Thackeray Loeb英译或Niese希腊原文进一步查II.10；两卷其余内容本轮未全文校核。"
+      ],
+      "next_unreviewed": "仅本项列明块完成重点核对；大型合集或史书其他全部单元仍未做本轮多译本全文校勘。",
+      "chinese_reference_status": "已确认中文书目的另列，但未取得对应中文全文的，不计中文正文审校。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "c13AJ",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "book_id": "the-chronicon-universal-history",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.tertullian.org/fathers/eusebius_chronicon_02_intro.htm",
+          "publication": "Robert Bedrosian, Eusebius Chronicle，2008，从古典亚美尼亚文译。",
+          "actual_read": "译者序：亚美尼亚/希腊/叙利亚关系与Jerome仅第二部",
+          "independence": "此为指定英文主要传统；Jerome拉丁表不等于本部叙述文本。",
+          "sha256": "69a8568896bdc82298ad75fc43ae7ab76f83e540331f74be70a43c1b4f7d01cc"
+        },
+        {
+          "url": "https://www.tertullian.org/fathers/eusebius_chronicon_02_text.htm",
+          "publication": "Robert Bedrosian,2008亚美尼亚文英译",
+          "actual_read": "迦勒底历史中三个月hours/years、十代及sar总数",
+          "independence": "与指定英文高度同源；数字仍有编辑不同。",
+          "sha256": "99c4574ccdf3d4476060b041dbfc287661b24d49a00ded73f7b33a4fd5c5557f"
+        },
+        {
+          "url": "https://www.tertullian.org/fathers/eusebius_chronicon_01_text.htm",
+          "publication": "Andrew Smith,2008；网页末说明经Petermann文本译出，所据为其拉丁翻译传统。",
+          "actual_read": "同一迦勒底段、书前与页末方法说明",
+          "independence": "不同翻译链，可对古义；不是直接以Jerome第二部替代本部。",
+          "sha256": "662c3d9dadf49713bfcb6a7dcaca9433e9b6fdf9b59413c516f4998b0a6d53ef"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "c13E2",
+          "blocks": [
+            "p0007",
+            "p0008"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "unit": "c13E2",
+          "block": "p0007",
+          "before": "5．若有人将迦勒底人所述这样庞大的年数当作真实，那人也就会把他们虚妄历史的其他部分一并当真。无论怎样解释，〔迦勒底人的叙述〕都违背情理，不足凭信。即使有人接受这些叙述，也不应未经考察，就接受他们的年代计算。按他们的年表，若真已积累如此多的千年，而这些古人的继承者也在同样漫长的时期中行事，又若仅仅十位王就能活上这样许多万年，谁还会相信这些传说中有什么真实可言呢？我们前面所引的萨尔，可能代表比别人所定更短的时段。譬如，埃及人的祖先以月亮的一周为期，一个月三十日，却称它为“一年”。另有人把三个月的时段称为“时辰”。我的意思是，他们把一年中的季节、也就是三个月的时段，称作“年”。因此，迦勒底人说萨尔的时候，也可能是类似的情形。",
+          "after": "5．若有人将迦勒底人所述这样庞大的年数当作真实，那人也就会把他们虚妄历史的其他部分一并当真。无论怎样解释，〔迦勒底人的叙述〕都违背情理，不足凭信。即使有人接受这些叙述，也不应未经考察，就接受他们的年代计算。按他们的年表，若真已积累如此多的千年，而这些古人的继承者也在同样漫长的时期中行事，又若仅仅十位王就能活上这样许多万年，谁还会相信这些传说中有什么真实可言呢？我们前面所引的萨尔，可能代表比别人所定更短的时段。譬如，埃及人的祖先以月亮的一周为期，一个月三十日，却称它为“一年”。另有人把三个月的时段称为“时节”。我的意思是，他们把一年中的季节、也就是三个月的时段，称作“年”。因此，迦勒底人说萨尔的时候，也可能是类似的情形。",
+          "reason": "hours在三个月语境为时节义；参Smith seasons并保留其余年月数字，不把三个月误解为小时。",
+          "notes_before": [
+            "3—4 节保留古代创世神话的身体、性别及自断其头等原意，不以圣经创世叙事改写；4 节断头之血的所属在英文中亦有歧义，依叙述保留“他自己”。",
+            "5 节原文先说三个月称作“hours”，随后又释为“years”，两说均照录；6 节两千年的计算依作者原文。"
+          ],
+          "notes_after": [
+            "3—4 节保留古代创世神话的身体、性别及自断其头等原意，不以圣经创世叙事改写；4 节断头之血的所属在英文中亦有歧义，依叙述保留“他自己”。",
+            "第5节英文hours用于三个月的时段，结合下一句seasons及Andrew Smith对译，按时节义处理，不理解为钟表上的小时；随后以三个月为“年”的说法仍照原文保留。第6节指定英文432,000年照译，未用其他英译的不同数字替换。"
+          ]
+        }
+      ],
+      "retained_differences": [
+        "hours结合三个月时段和Smith seasons，按时节义处理；years仍译年。",
+        "指定432000、Smith430000(?)、Bedrosian网页2043万的数目不同，分别记录，不合并或校正指定数值。"
+      ],
+      "unresolved": [
+        "其余各国王表及全部纪年仍待本轮逐条复核；不得称全部年表已校勘。"
+      ],
+      "next_unreviewed": "仅本项列明块完成重点核对；大型合集或史书其他全部单元仍未做本轮多译本全文校勘。",
+      "chinese_reference_status": "已确认中文书目的另列，但未取得对应中文全文的，不计中文正文审校。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "c13E2",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "book_id": "the-ecclesiastical-history",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/fathers/250101.htm",
+          "publication": "Arthur Cushman McGiffert, NPNF II.1, Christian Literature Publishing,1890；NewAdvent。",
+          "actual_read": "I.2.21首生首造、I.3.16不起誓反悔及页尾出版说明",
+          "independence": "与指定英文总体同源；不能把CCEL同译本计为独立。",
+          "sha256": "7117d400e49c464dc40ceca81567cf658c305dcc40e861fdbbb28e4c4dfb4dd9"
+        },
+        {
+          "url": "https://icc.swu.edu.cn/info/1005/1414.htm",
+          "publication": "优西比乌《教会史》，Paul L.Maier英译注，何光沪/瞿旭彤中译，三联2009.07，ISBN9787108032065；西南大学古典文明网书目。",
+          "actual_read": "实际阅读作者译者出版资料和目录",
+          "independence": "不同英译链的正式中文本，但只取得书目，尚未实际核中文正文，不计全文参考。",
+          "sha256": "3e96765ff1c2f431cf5daca37cbb92ad016a617dfbcd85c83d41276e5b3d47d1"
+        }
+      ],
+      "reviewed_blocks": [
+        {
+          "unit": "c15CS",
+          "blocks": [
+            "p0023"
+          ]
+        },
+        {
+          "unit": "c15DU",
+          "blocks": [
+            "p0018"
+          ]
+        }
+      ],
+      "changes": [],
+      "retained_differences": [
+        "首生首造为McGiffert原文亦有，保留原作者神学措辞。",
+        "本版convert在誓言中译后悔，与McGiffert repent对应，不译归信。"
+      ],
+      "unresolved": [
+        "Maier中译尚无实际全文；Cruse旧英译archive下载访问失败，未冒称已作第二独立英译对读。",
+        "其余十卷内容本轮未全面审校。"
+      ],
+      "next_unreviewed": "仅本项列明块完成重点核对；大型合集或史书其他全部单元仍未做本轮多译本全文校勘。",
+      "chinese_reference_status": "已确认中文书目的另列，但未取得对应中文全文的，不计中文正文审校。",
+      "status": "resource_research_and_targeted_review_completed",
+      "validation": [
+        {
+          "unit": "c15CS",
+          "status": "complete",
+          "error": null
+        },
+        {
+          "unit": "c15DU",
+          "status": "complete",
+          "error": null
+        }
+      ]
+    }
+  ],
+  "access_limits": [
+    "首次NewAdvent未带浏览器User-Agent请求403，后使用普通Mozilla User-Agent可读具体页；不将首次失败记为全文可读。",
+    "Loeb Josephus卷I扫描文本archive.org下载返回503，未宣称读取Loeb正文。"
+  ],
+  "full_collection_review_this_round": false,
+  "summary": {
+    "items_researched": 25,
+    "full_items_this_round": 1,
+    "reviewed_units": 29,
+    "reviewed_blocks": 168,
+    "body_changes": 3,
+    "note_only_changes": 2
+  },
+  "boundary": "本轮是25项资源研究及明列重点段落复核；没有宣布约200万词项目或任一大型史书全文跨译本校勘完成。所有未核断点逐项保留。"
+}

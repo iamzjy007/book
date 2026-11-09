@@ -1,0 +1,888 @@
+{
+  "worker": "dydi_b",
+  "status": "assigned_069_073_focused_review_complete_074_080_transferred",
+  "method": "底本控制范围；跨传统资源区分独立译本及转载。只记录实际阅读的上下文，不将下载算阅读，不声称全文多本校勘。",
+  "resources": [
+    {
+      "id": "Walker-Mors",
+      "url": "https://www.newadvent.org/fathers/0812.htm",
+      "publication": "Alexander Walker, ANF8, Roberts/Donaldson/Coxe编, Buffalo1886；NewAdvent转载编辑",
+      "base": "Mors Pilati拉丁传说；Tischendorf所刊中世纪文本",
+      "actually_read": "全篇及网页出版说明",
+      "independence": "与指定英文明显同一上游；NewAdvent和CCEL同ANF不能算独立译本。"
+    },
+    {
+      "id": "James-Mors",
+      "urls": [
+        "https://en.wikisource.org/wiki/Page:The_Apocryphal_New_Testament_(1924).djvu/195",
+        "https://en.wikisource.org/wiki/Page:The_Apocryphal_New_Testament_(1924).djvu/196"
+      ],
+      "publication": "M.R.James, The Apocryphal New Testament, OxfordClarendon1924, pp157–158",
+      "base": "Tischendorf米兰14世纪拉丁抄本及Golden Legend相关材料",
+      "actually_read": "Mors标题下全部说明和梗概",
+      "independence": "独立学者对传统及故事的概述，不当作完整独立译本；不得把相邻Healing of Tiberius异故事并入。"
+    },
+    {
+      "id": "NASSCAL-Mors",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-pilate-mors-pilati/",
+      "publication": "Stephen C.E.Hopkins, e-Clavis,2022",
+      "actually_read": "简介、地名及拉丁抄本/版本书目",
+      "independence": "学术书目与摘要，不当原文校勘或全文翻译。摘要把怒气主语误概述为Pilate，采用实际正文判断而非照抄摘要。"
+    },
+    {
+      "id": "Lugossy-Mors-Latin",
+      "url": "https://acta.bibl.u-szeged.hu/67613/1/vallasi_kulturakutatas_konyvei_014.pdf",
+      "publication": "Lugossy Ilona, Varga Lajos és a Verses Szentírás，收Tanulmányok a Verses Szentírásról，Barna Gábor编，Szeged2014",
+      "base": "pp38–39引Tischendorf Evangelia Apocrypha1876 pp456ff拉丁段落",
+      "actually_read": "版权/目录，pp38–39拉丁引段；p38实际PDF图像核读se miserum反身结构",
+      "independence": "拉丁文二手学术引文，非手稿/原刊独立校勘；足以复核本句自责代词，不用其他印误替换指定英语。"
+    },
+    {
+      "id": "James-Paul",
+      "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+      "publication": "M.R.James, The Apocryphal New Testament, Oxford Clarendon1924",
+      "base": "希腊文特格拉/殉道、科普特残片及多语哥林多往复书信的综合编译",
+      "actually_read": "导言；每拉残片；哥林多往复书信1–2及3:1–33；殉道4–7，详见块记录",
+      "independence": "指定英语的明显上游；并非第二独立见证；新发现片段和后世补篇不补入本书。"
+    },
+    {
+      "id": "Walker-Thecla",
+      "url": "https://www.newadvent.org/fathers/0816.htm",
+      "cache_url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+      "publication": "Alexander Walker, ANF8, Roberts/Donaldson/Coxe编1886",
+      "base": "希腊文Acts of Paul and Thecla，Tischendorf所刊文本传统",
+      "actually_read": "网络正文前段至24；缓存对应33–35全部段落",
+      "independence": "较James独立的旧英译；NewAdvent与CCEL为同一译本，不计双见证。"
+    },
+    {
+      "id": "NASSCAL-Paul",
+      "urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul-and-thecla/"
+      ],
+      "publication": "Jenna Whalley, e-Clavis2019/2021，更新2023",
+      "actually_read": "两篇完整故事概述及首批抄本版本目录",
+      "independence": "学术目录和摘要；只确认碎片、流传关系及处境，不替代完整原文。"
+    },
+    {
+      "id": "Pick1909",
+      "url": "https://archive.org/details/apocryphalactso00pick",
+      "publication": "Bernhard Pick, The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas, OpenCourt1909",
+      "base": "Lipsius/Bonnet校勘本为主要依据，参考Hennecke；作者自述部分利用Walker",
+      "actually_read": "序言iii–iv；彼得殉道37–41及变体脚注，后续核读另见块记录",
+      "independence": "与James1924为不同编译；并非与Walker处处独立，序言明确借用Walker，故不把两者所有重合都算独立。扫描OCR遇疑应回查图像。"
+    },
+    {
+      "id": "James-John",
+      "urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924",
+        "https://biblicalstudies.gospelstudies.org.uk/pdf/e-books/james_m-r/apocryphal-new-testament_james.pdf"
+      ],
+      "publication": "M.R.James, The Apocryphal New Testament, Oxford1924",
+      "base": "希腊Acts John, Lipsius/Bonnet编辑传统；编者符号标补缺与删词",
+      "actually_read": "23、39、69、84、112的上下文；实际原刊图像pp249–250、269；其余据块记录",
+      "independence": "指定英文明显上游，不能计独立译本；IA原扫描249页底行被裁，另PDF完整图核到<not>校补。"
+    },
+    {
+      "id": "James-Andrew",
+      "url": "https://biblicalstudies.gospelstudies.org.uk/pdf/e-books/james_m-r/apocryphal-new-testament_james.pdf",
+      "publication": "M.R.James, The Apocryphal New Testament, Oxford1924, pp354–360及邻近段",
+      "base": "监狱讲论残篇与多种殉道文本拼接重构，James明言mosaic并在页边列文献",
+      "actually_read": "10–11、17–18讲论，殉道资源导言，殉道6–15及22相关段；p354、360实际图像核读",
+      "independence": "指定英文明显上游，不计第二独立译本。"
+    },
+    {
+      "id": "NASSCAL-Andrew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew/",
+      "publication": "Nathan Johnson,e-Clavis2024",
+      "base": "多种希腊/拉丁及译语传本的资源目录；摘要主要沿JS传统",
+      "actually_read": "完整简介、摘要、版本目录至希腊recensions及Lanzillotta2004/2007信息",
+      "independence": "学术研究与书目，不是完整独立译本；不得据JS摘要把4日改入指定2日。Lanzillotta论文PDF尝试下载403，未读，不能声称使用。"
+    }
+  ],
+  "books": {
+    "mors-pilati": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "cMXC",
+          "blocks": [
+            "p0001",
+            "p0002"
+          ],
+          "references": [
+            "NASSCAL-Mors",
+            "James-Mors"
+          ],
+          "findings": "导论晚期拉丁传说身份获文献来源说明支持，不因NewAdvent收录于教父栏目即称早期教父作品或教会正典。"
+        },
+        {
+          "unit": "cMXN",
+          "blocks": [
+            "p0001",
+            "p0002"
+          ],
+          "references": [
+            "Walker-Mors",
+            "James-Mors",
+            "Lugossy-Mors-Latin"
+          ],
+          "findings": "整块35节逐读与Walker全文对读；James为独立学者概述而非全文新译。23节反身自责由Lugossy引Tischendorf拉丁se miserum及前后皇帝怒气变化确认。33节Vienna为法国Vienne，保留。8节修正呼语。"
+        }
+      ],
+      "retained_differences": [
+        "皇帝自责不是骂彼拉多无用，现译和现注保留。",
+        "维埃纳/Vienne及罗讷河组合保留，不改成奥地利维也纳。",
+        "大重物、深坑与James概述的磨石、井不同，不从概述补具体器物；神感动或基督徒建议的两种可能均保留。"
+      ],
+      "changes": [
+        {
+          "unit": "cMXN",
+          "block": "p0002",
+          "before": "1 罗马皇帝凯撒提庇留患了重病，听说耶路撒冷有一位名叫耶稣的医生，只需一句话，就能医好一切疾病。他不知道犹太人和彼拉多已经将祂杀害，便吩咐一位名叫沃卢西安的朋友说：2 “你要尽快渡海前去，告诉我的臣仆和朋友彼拉多，将这位医生送到我这里，使我恢复从前的健康。”3 沃卢西安听了皇帝的命令，就立刻启程，奉命来到彼拉多那里。4 他将凯撒提庇留所托付的话告诉彼拉多，说：“你的主、罗马皇帝凯撒提庇留，听说这城里有一位医生，单凭祂的话就能医治疾病。他恳切请求你将这人送到他那里，医治他的病。”5 彼拉多听了，极其惧怕，因为知道自己曾因嫉妒，下令将祂处死。6 彼拉多便这样回答那使者，说：“这人是个罪犯，招引所有百姓跟从祂；因此，城中的智慧人召开会议，我就命人将祂钉在十字架上。”7 使者回到客店，遇见一个名叫维罗尼卡的妇人，她从前是耶稣的朋友。他问她：“妇人，这城里曾有一位医生，只用一句话就医好病人，犹太人为什么将祂杀害呢？”8 她就哭起来，说：“哦，先生！那是我的神、我的主；彼拉多因嫉妒，将祂交出去，定了祂的罪，命人将祂钉在十字架上。”9 使者极其忧伤，说：“我不能办成主人差我来办的事，心里实在悲痛。”10 维罗尼卡对他说：“我的主四处传道的时候，我虽然极不情愿，却不能常在祂身边。我便盼望有人为我画一幅祂的像，好让我不能见祂的时候，至少能从画像中得些安慰。11 我拿着画布，要去找画师画像，路上遇见我的主；祂问我要往哪里去。12 我告诉祂出门的缘故，祂就向我要那块布，交还给我的时候，上面已经印着祂尊贵面容的形像。13 所以，你的主人若虔诚地瞻望祂的面容，就必立刻蒙恩，恢复健康。”14 使者问她：“这样的画像，可以用金银买到吗？”15 她对他说：“不能，惟有凭敬虔的诚心。因此，我愿与你一同起行，带着画像给凯撒看，然后再回来。”16 沃卢西安便与维罗尼卡来到罗马，对皇帝提庇留说：“你所切望见到的耶稣，已经被彼拉多和犹太人不义地处死；他们因嫉妒，将祂钉在十字架的木架上。17 不过，有一位妇人同我来了，带着耶稣本人的画像；你若虔诚地观看，就必立刻蒙恩，恢复健康。”18 凯撒便吩咐用丝绸铺路，将画像呈到自己面前。他一看见画像，就恢复了从前的健康。19 于是，本丢·彼拉多奉凯撒之命，被捕押送到罗马。20 凯撒听说彼拉多已到罗马，就向他大发烈怒，命人将他带来。21 彼拉多却将耶稣那件无缝的里衣一同带来，穿在身上，觐见皇帝。22 皇帝一看见他，就消了所有怒气，立刻起身迎接，竟无法对他说一句严厉的话。彼拉多不在场时，皇帝显得那么可怕、暴烈，如今到了他面前，却不知怎的温和起来。23 皇帝打发他离开以后，立刻又向他大发雷霆，高喊自己真是个无用的人，竟完全没有向他发出心中的怒气。24 他随即命人将彼拉多召回，起誓宣告他是该死的人，容他活在世上是一种耻辱。25 但皇帝一见到他，就立刻向他问安，心里所有的凶怒也都消散了。26 众人都很惊奇；连他自己也不明白，为什么彼拉多不在时，他就如此发怒；而彼拉多在场时，却说不出一句严厉的话。27 后来，或因神的感动，或因某个基督徒的建议，他命人脱去彼拉多那件里衣，心里对他的凶怒便立刻恢复如前。28 皇帝对此极其惊奇，有人就告诉他，那件里衣原属于主耶稣。29 皇帝于是命人将彼拉多关在监里，等候他召集智慧人商议，应当怎样处置。30 过了几天，就判彼拉多处以最羞辱的死刑。彼拉多听见，就用自己的刀自杀，以这样的死法结束了一生。31 凯撒得知彼拉多的死讯，说：“他连自己的手都不肯放过自己，确实死得极其羞辱。”32 于是，人将他绑在重物上，沉入台伯河。然而，那些住在他邪恶污秽身体里的邪恶污灵，都一同欢腾，在水中不断翻腾，又在空中兴起可怕的闪电、暴风、雷鸣和冰雹，使众人惊恐不已。33 罗马人便将他从台伯河中捞起，为羞辱他，将他运到维埃纳，沉入罗讷河。维埃纳仿佛就是“维亚·革亨那”，意为“地狱之路”，因为那时那里是受咒诅之地。34 但邪灵在那里，仍旧作同样的事。当地人受不了鬼魔如此侵扰，就将这带来灾害的器皿移走，送到洛萨尼亚境内埋葬。35 那里的人发现，上述灾害又临到自己，就将他迁走，沉入一个群山环绕的深坑。据一些人的说法，直到今日，那里仍有某些魔鬼作祟的迹象不断涌现。",
+          "after": "1 罗马皇帝凯撒提庇留患了重病，听说耶路撒冷有一位名叫耶稣的医生，只需一句话，就能医好一切疾病。他不知道犹太人和彼拉多已经将祂杀害，便吩咐一位名叫沃卢西安的朋友说：2 “你要尽快渡海前去，告诉我的臣仆和朋友彼拉多，将这位医生送到我这里，使我恢复从前的健康。”3 沃卢西安听了皇帝的命令，就立刻启程，奉命来到彼拉多那里。4 他将凯撒提庇留所托付的话告诉彼拉多，说：“你的主、罗马皇帝凯撒提庇留，听说这城里有一位医生，单凭祂的话就能医治疾病。他恳切请求你将这人送到他那里，医治他的病。”5 彼拉多听了，极其惧怕，因为知道自己曾因嫉妒，下令将祂处死。6 彼拉多便这样回答那使者，说：“这人是个罪犯，招引所有百姓跟从祂；因此，城中的智慧人召开会议，我就命人将祂钉在十字架上。”7 使者回到客店，遇见一个名叫维罗尼卡的妇人，她从前是耶稣的朋友。他问她：“妇人，这城里曾有一位医生，只用一句话就医好病人，犹太人为什么将祂杀害呢？”8 她就哭起来，说：“哦，我的主，我的神、我的主！彼拉多因嫉妒，将祂交出去，定了祂的罪，命人将祂钉在十字架上。”9 使者极其忧伤，说：“我不能办成主人差我来办的事，心里实在悲痛。”10 维罗尼卡对他说：“我的主四处传道的时候，我虽然极不情愿，却不能常在祂身边。我便盼望有人为我画一幅祂的像，好让我不能见祂的时候，至少能从画像中得些安慰。11 我拿着画布，要去找画师画像，路上遇见我的主；祂问我要往哪里去。12 我告诉祂出门的缘故，祂就向我要那块布，交还给我的时候，上面已经印着祂尊贵面容的形像。13 所以，你的主人若虔诚地瞻望祂的面容，就必立刻蒙恩，恢复健康。”14 使者问她：“这样的画像，可以用金银买到吗？”15 她对他说：“不能，惟有凭敬虔的诚心。因此，我愿与你一同起行，带着画像给凯撒看，然后再回来。”16 沃卢西安便与维罗尼卡来到罗马，对皇帝提庇留说：“你所切望见到的耶稣，已经被彼拉多和犹太人不义地处死；他们因嫉妒，将祂钉在十字架的木架上。17 不过，有一位妇人同我来了，带着耶稣本人的画像；你若虔诚地观看，就必立刻蒙恩，恢复健康。”18 凯撒便吩咐用丝绸铺路，将画像呈到自己面前。他一看见画像，就恢复了从前的健康。19 于是，本丢·彼拉多奉凯撒之命，被捕押送到罗马。20 凯撒听说彼拉多已到罗马，就向他大发烈怒，命人将他带来。21 彼拉多却将耶稣那件无缝的里衣一同带来，穿在身上，觐见皇帝。22 皇帝一看见他，就消了所有怒气，立刻起身迎接，竟无法对他说一句严厉的话。彼拉多不在场时，皇帝显得那么可怕、暴烈，如今到了他面前，却不知怎的温和起来。23 皇帝打发他离开以后，立刻又向他大发雷霆，高喊自己真是个无用的人，竟完全没有向他发出心中的怒气。24 他随即命人将彼拉多召回，起誓宣告他是该死的人，容他活在世上是一种耻辱。25 但皇帝一见到他，就立刻向他问安，心里所有的凶怒也都消散了。26 众人都很惊奇；连他自己也不明白，为什么彼拉多不在时，他就如此发怒；而彼拉多在场时，却说不出一句严厉的话。27 后来，或因神的感动，或因某个基督徒的建议，他命人脱去彼拉多那件里衣，心里对他的凶怒便立刻恢复如前。28 皇帝对此极其惊奇，有人就告诉他，那件里衣原属于主耶稣。29 皇帝于是命人将彼拉多关在监里，等候他召集智慧人商议，应当怎样处置。30 过了几天，就判彼拉多处以最羞辱的死刑。彼拉多听见，就用自己的刀自杀，以这样的死法结束了一生。31 凯撒得知彼拉多的死讯，说：“他连自己的手都不肯放过自己，确实死得极其羞辱。”32 于是，人将他绑在重物上，沉入台伯河。然而，那些住在他邪恶污秽身体里的邪恶污灵，都一同欢腾，在水中不断翻腾，又在空中兴起可怕的闪电、暴风、雷鸣和冰雹，使众人惊恐不已。33 罗马人便将他从台伯河中捞起，为羞辱他，将他运到维埃纳，沉入罗讷河。维埃纳仿佛就是“维亚·革亨那”，意为“地狱之路”，因为那时那里是受咒诅之地。34 但邪灵在那里，仍旧作同样的事。当地人受不了鬼魔如此侵扰，就将这带来灾害的器皿移走，送到洛萨尼亚境内埋葬。35 那里的人发现，上述灾害又临到自己，就将他迁走，沉入一个群山环绕的深坑。据一些人的说法，直到今日，那里仍有某些魔鬼作祟的迹象不断涌现。",
+          "reason": "内嵌8节my lord, my God and my Lord是一组为耶稣哀哭的呼告；Walker上游作Ah me! My lord, my God and my Lord，未称使者先生。撤去译者所添“先生！那是”，保留重复呼语。其余35节不改。"
+        }
+      ],
+      "remaining": "英文现译全文与Walker同源正文已对读，并以独立学术说明及拉丁引段核风险点；未全文核Tischendorf原刊或2011Ehrman/Pleše新译，故不称全文跨原文校勘。",
+      "status": "focused_review_complete"
+    },
+    "acts-of-paul": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "cMXW",
+          "blocks": [
+            "p0001–p0005"
+          ],
+          "references": [
+            "James-Paul",
+            "NASSCAL-Paul"
+          ],
+          "findings": "导言编者判断保持为编者说法，不按新发现擅改1924编译范围。"
+        },
+        {
+          "unit": "cMY7",
+          "blocks": [
+            "p0002",
+            "p0029–p0041",
+            "p0050–p0067"
+          ],
+          "references": [
+            "James-Paul",
+            "Walker-Thecla",
+            "NASSCAL-Paul"
+          ],
+          "findings": "核受印记、特格拉临刑自洗、每拉死而复活与父子反目残缺、庙倒塌；现有省略号和编辑方括号不填故事；潘卡雷斯沿指定文本，不改另一传本Anchares。"
+        },
+        {
+          "unit": "cN11",
+          "blocks": [
+            "p0001–p0017"
+          ],
+          "references": [
+            "James-Paul"
+          ],
+          "findings": "引述异端否定命题与书信要求均对应，不把教会反驳前的引语当作者信条。"
+        },
+        {
+          "unit": "cN18",
+          "blocks": [
+            "p0001–p0006"
+          ],
+          "references": [
+            "James-Paul"
+          ],
+          "findings": "保留囚禁缘由及忧患相加；不同校勘提案不替换底本。"
+        },
+        {
+          "unit": "cN1F",
+          "blocks": [
+            "p0002–p0034",
+            "p0050–p0056"
+          ],
+          "references": [
+            "James-Paul"
+          ],
+          "findings": "核肉身复活论证、引号异文、约拿祷告地点、殉道反事实条件句及受印记；其余对读内容未发现确切需改。"
+        },
+        {
+          "unit": "cN1F",
+          "blocks": [
+            "p0035–p0048"
+          ],
+          "references": [
+            "James-Paul"
+          ],
+          "findings": "补核书信结尾；第八事迹编者重构与提多引句只按指定底本，未以现代新增科普特片段补书。第九行述残缺未填。"
+        }
+      ],
+      "retained_differences": [
+        "受印记保留象征术语，依本书语境涉及受洗，不机械全改为施洗。",
+        "潘卡雷斯、路加来自加拉太及乌里翁人名按指定英语；未按其他传本换名。",
+        "殉道4反事实条件句保持现译；3Cor方括号异读仍在原位置。"
+      ],
+      "changes": [
+        {
+          "unit": "cMY7",
+          "block": "p0039",
+          "before": "34. 他们又放进许多野兽，特格拉却站着，伸手祷告。祷告完毕，她转身看见一座盛满水的大池，就说：“现在是我当洗净自己的时候了。”她便跳进去，说：“在这末后的日子，我奉耶稣基督的名给自己施洗。”所有妇女都看见，众人哭着喊：“不要跳进水里！”连省长也哭了，因这样美丽的人竟要被海豹吞吃。她就这样奉耶稣基督的名跳进水里；海豹看见火焰闪光，都死了，浮在水面。她周围有火云环绕，使野兽不能碰她，也使人看不见她赤身。",
+          "after": "34. 他们又放进许多野兽，特格拉却站着，伸手祷告。祷告完毕，她转身看见一座盛满水的大池，就说：“现在是我当洗净自己的时候了。”她便跳进去，说：“在我生命的最后一日，我奉耶稣基督的名给自己施洗。”所有妇女都看见，众人哭着喊：“不要跳进水里！”连省长也哭了，因这样美丽的人竟要被海豹吞吃。她就这样奉耶稣基督的名跳进水里；海豹看见火焰闪光，都死了，浮在水面。她周围有火云环绕，使野兽不能碰她，也使人看不见她赤身。",
+          "reason": "临刑并投进有海豹的水池语境；Walker独立英译明确是她的last day。避免误成末世术语，保留本人施洗的指定内容。"
+        },
+        {
+          "unit": "cN1F",
+          "block": "p0031",
+          "before": "三日三夜以后，神从阴间的最深处垂听了约拿的祷告，他身上没有一处被吞蚀，连一根头发、一根睫毛也没有。",
+          "after": "三日三夜以后，约拿从阴间的最深处祷告，神垂听了他，他身上没有一处被吞蚀，连一根头发、一根睫毛也没有。",
+          "reason": "out of the lowest Hades修饰约拿祷告发出之处，非神所在之处；按约拿鱼腹处境及James上游完整句澄清施受与地点。"
+        }
+      ],
+      "remaining": "未对全书作多语抄本逐字校勘；其余未列块未本轮逐块核。保罗残片仍需新近Rordorf/Pervo完整学术版本作更广校勘；没有伪称已读。",
+      "status": "focused_review_complete"
+    },
+    "acts-of-peter": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "cNAK",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "首人倒置、十架构件寓意保持原文，不改成熟悉的谦卑倒钉解释；Pick38对照。"
+        },
+        {
+          "unit": "cNAU",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "无声之声与万有措辞保留；Pick39有双否定听觉异读而指定英文为一有一无，未混合版本。"
+        },
+        {
+          "unit": "cNB1",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "香料数量与弥拿单位保持指定底本，Pick40英磅不是改成现代磅的依据。"
+        },
+        {
+          "unit": "cN3B",
+          "blocks": [
+            "p0001–p0019"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "十二年、海上受洗与印记，Pick5对应前部；时间地点仍按指定英语。"
+        },
+        {
+          "unit": "cN53",
+          "blocks": [
+            "p0001–p0007"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "Pick13作熏金枪鱼，指定herring鲱鱼，保留鱼种差异，不擅换。"
+        },
+        {
+          "unit": "cN5Z",
+          "blocks": [
+            "p0001–p0030"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "Pick17金像、金匠、盗窃全段；不可见的神/不可见的儿子有句法版本差，保留底本。"
+        },
+        {
+          "unit": "cN6V",
+          "blocks": [
+            "p0001–p0012"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "Pick21开头同有不信而自称信的反差，不自行删除否定。"
+        },
+        {
+          "unit": "cN79",
+          "blocks": [
+            "p0001–p0015"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "Pick23注拉丁Petrus/paratus双关支持凡事预备，非改为磐石。"
+        },
+        {
+          "unit": "cN8K",
+          "blocks": [
+            "p0001–p0008"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "Pick29支持带来病人的补谓语；末句其译活祭不同，指定speaking仍保留能言说。"
+        },
+        {
+          "unit": "cN8U",
+          "blocks": [
+            "p0001–p0008"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "Pick30金器/女名、款项来源上下文；正文未因道德判断改变彼得接受款项。"
+        },
+        {
+          "unit": "cN91",
+          "blocks": [
+            "p0001–p0011"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "Pick31略去详细热病名；指定tertian/quartan依隔日/三日一发区别保留。"
+        },
+        {
+          "unit": "cN98",
+          "blocks": [
+            "p0001–p0016"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "Pick32殒落全段和脚注；保留亚里西亚、三处腿折、医治死亡，不套另一彼得保罗行传情节。"
+        },
+        {
+          "unit": "cN25",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "源/译上下文重点核读；未在本条声称独立参考全文。既有说明未见可确证需改处。"
+        },
+        {
+          "unit": "cN34",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "源/译上下文重点核读；未在本条声称独立参考全文。既有说明未见可确证需改处。"
+        },
+        {
+          "unit": "cN3T",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "源/译上下文重点核读；未在本条声称独立参考全文。既有说明未见可确证需改处。"
+        },
+        {
+          "unit": "cN4N",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "源/译上下文重点核读；未在本条声称独立参考全文。既有说明未见可确证需改处。"
+        },
+        {
+          "unit": "cN8C",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "源/译上下文重点核读；未在本条声称独立参考全文。既有说明未见可确证需改处。"
+        },
+        {
+          "unit": "cN9R",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "源/译上下文重点核读；未在本条声称独立参考全文。既有说明未见可确证需改处。"
+        }
+      ],
+      "retained_differences": [
+        "39章声音一人有另一人无，Pick双否定不同，保留James系底本。",
+        "13章鲱鱼与Pick熏金枪鱼不同；40章弥拿与Pick英磅不同，均不替换。",
+        "29章speaking sacrifice保留能言说的祭，与Pick活祭区分。"
+      ],
+      "changes": [
+        {
+          "unit": "cN98",
+          "block": "p0009",
+          "before": "主啊，求祢赶快施恩，使他从高处坠落，失去行动的能力；不要让他死，只要使他归于无有，使他的腿断成三处。”",
+          "after": "主啊，求祢赶快施恩，使他从高处坠落，失去行动的能力；不要让他死，只要使他败落，使他的腿断成三处。”",
+          "reason": "brought to nothing在求其不死而失势的同一句中，不是消灭其存在；Pick32独立编译也明确限制其作恶。以‘败落’保留挫败之意，不擅补改腿断三处。"
+        }
+      ],
+      "remaining": "未列章块、未列Pick参考范围仍未本轮多本逐段校读；未核希腊/拉丁原刊图像。重点核读不等于全书全文校勘。",
+      "status": "focused_review_complete"
+    },
+    "acts-of-john": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "cNCW",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "James-John",
+            "Pick1909"
+          ],
+          "findings": "病卧七日及复起，修时间误读。"
+        },
+        {
+          "unit": "cNGC",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "James-John",
+            "Pick1909"
+          ],
+          "findings": "promise疑文已有校勘处理；现译无需改。"
+        },
+        {
+          "unit": "cNPH",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "James-John",
+            "Pick1909"
+          ],
+          "findings": "负面清单否定与编辑符号；现译成立。"
+        },
+        {
+          "unit": "cNTU",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "James-John",
+            "Pick1909"
+          ],
+          "findings": "馨香无分校补，原刊图像确认。"
+        },
+        {
+          "unit": "cNW7",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "颂歌对偶及八/十二数，不扩写特定神话身份。"
+        },
+        {
+          "unit": "cNZH",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "圣餐礼用词修清。"
+        },
+        {
+          "unit": "cNZZ",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "James-John",
+            "Pick1909"
+          ],
+          "findings": "ether讹为other，修复并释古宇宙用语。"
+        },
+        {
+          "unit": "cNC7",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "正义、天意拟人格；不改为神命定。"
+        },
+        {
+          "unit": "cND3",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cNDZ",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cNE6",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cNK7",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cNKE",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cNKW",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cNRD",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cNUX",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cNX3",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cP06",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        },
+        {
+          "unit": "cP0M",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [],
+          "findings": "已对读源/译上下文与既有疑难注；此条未声称独立参考全文，未发现足以改变指定底本的依据。"
+        }
+      ],
+      "retained_differences": [
+        "希腊残缺、教义特殊和多形显现不依正典补正；人称/截断随底本。",
+        "84否定是James校补，Pick未补，记录差异。"
+      ],
+      "changes": [
+        {
+          "unit": "cNCW",
+          "block": "p0005",
+          "before": "她起来七日以后，以弗所全城因这意想不到的景象而震动。",
+          "after": "她原已卧病七日，如今起来了，以弗所全城因这意想不到的景象而震动。",
+          "reason": "James23与独立Pick23均以编辑补句把七日接病卧；本书此前已言瘫痪七日，之后立即问丈夫。指定转录漏补句导致时间关系错置，依两版及上下文修正并注。"
+        },
+        {
+          "unit": "cNZH",
+          "block": "p0002",
+          "before": "他擘开饼，分给我们众人，为每一个弟兄祷告，使他配得主的恩典和至圣的团契。",
+          "after": "他擘开饼，分给我们众人，为每一个弟兄祷告，使他配得主的恩典和至圣的圣餐。",
+          "reason": "擘饼、分给众人并本人领受的直接语境，communion在此是圣餐礼；Pick110作eucharist。团契单独成词容易误作一般信徒相交，改明确礼仪名而不添宗派教义。"
+        },
+        {
+          "unit": "cNZZ",
+          "block": "p0006",
+          "before": "神啊，耶稣啊，你是在诸天之上者的父，是诸天之中者的主，是在另一界中者的律法，是空中诸有的运行之道，是地上众生的守护者，是地下诸有的敬畏，是属你之人的恩典。也求你接纳你的约翰的灵魂，愿你看他为配得。”",
+          "after": "神啊，耶稣啊，你是在诸天之上者的父，是诸天之中者的主，是以太界中诸有的律法，是空中诸有的运行之道，是地上众生的守护者，是地下诸有的敬畏，是属你之人的恩典。也求你接纳你的约翰的灵魂，愿你看他为配得。”",
+          "reason": "指定other为ether转录讹误；已实际核James原刊269页ether，Pick112亦ethereal，与下一air层区分。修复宇宙空间术语并加简注，不自造另一世界。"
+        },
+        {
+          "unit": "cNCW",
+          "field": "notes",
+          "before": [
+            "23章she had arisen seven days时间表述与紧邻叙事不易协调，按底本保留起来七日以后，未擅改为卧病七日后起来。"
+          ],
+          "after": [
+            "23章指定英文把“起来”直接接“七日”，疑遗漏编者补句。James1924与Pick1909均补出女子卧病七日；与前文病况及紧接询问丈夫的叙事一致。译文按此修正，不再译作起来七日以后。"
+          ],
+          "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。"
+        },
+        {
+          "unit": "cNGC",
+          "field": "notes",
+          "before": [
+            "39章bitter promise直译苦涩的应许不合海水比喻，按上下文取海水的苦咸本性，原词可能有传抄或译文问题，须版本核实。"
+          ],
+          "after": [
+            "39章指定英文bitter promise为有问题的传本措辞。James1924原译标疑并校为element，同时说明抄本为promise；Pick1909作海中苦盐。按海水使河泉变咸的比喻，保留现译“苦咸的本性”，不译为应许。"
+          ],
+          "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。"
+        },
+        {
+          "unit": "cNPH",
+          "field": "notes",
+          "before": [
+            "第5段英文“为神受辱却[不]羞耻”出现在负面行为清单中，与前后相反；依明确语境删去方括号内疑误增的not，译为“反倒以此为耻”，待版本复核。"
+          ],
+          "after": [
+            "69章第5段英文not在方括号内；James1924也保留此编辑标记，Pick1909直接译为受辱后以此为耻，与负面行为清单一致。因此保留现译，不再将这一处仅列为无版本依据的语境猜改。"
+          ],
+          "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。"
+        },
+        {
+          "unit": "cNTU",
+          "field": "notes",
+          "before": [
+            "第5段英文“他们的馨香，你将有分”处在命令撒但从一切圣洁事物中退出的清单内，疑漏否定词；依明确上下文修为“你不得在其中有分”，待版本复核。"
+          ],
+          "after": [
+            "84章第5段指定英文漏了否定校补。已核James1924原刊249页图像，正文明确补<not>；因此保留“你不得在其中有分”。Pick1909在此没有否定，属不同校勘处理，未悄悄合并两本。"
+          ],
+          "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。"
+        },
+        {
+          "unit": "cNZH",
+          "field": "notes",
+          "before": [
+            "本段的“至圣的团契”（most holy communion）处于擘饼领受的礼仪语境，兼有圣餐中的相交之意。"
+          ],
+          "after": [
+            "本段communion处于擘饼、分领的礼仪语境，译作“圣餐”；Pick1909对应作eucharist。"
+          ],
+          "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。"
+        },
+        {
+          "unit": "cNZZ",
+          "field": "notes",
+          "before": [
+            "末段英文“在另一界中”（in the other）没有明示所指，保留其含糊性，未擅自指定某一层天或领域。"
+          ],
+          "after": [
+            "112章第5段指定英文other为ether转录讹误；James1924原刊269页与Pick1909均指以太。以太界是古代宇宙观中高处的清明天域，与下文空气之域相区别。"
+          ],
+          "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。"
+        }
+      ],
+      "remaining": "本轮未列块未逐段比对；未核希腊手稿和Junod/Kaestli全本校勘。不能称全书全文多本校读。",
+      "status": "focused_review_complete"
+    },
+    "acts-of-andrew": {
+      "full_review_this_round": false,
+      "checked": [
+        {
+          "unit": "cP0V",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "NASSCAL-Andrew"
+          ],
+          "findings": "导言为指定编辑观点；资源研究区分异文本谱系，不按摘要重新编译。"
+        },
+        {
+          "unit": "cP14",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "Pick1909"
+          ],
+          "findings": "开头残缺与族类、本性等思想语汇；保留特殊论述。"
+        },
+        {
+          "unit": "cP33",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "James-Andrew",
+            "Pick1909"
+          ],
+          "findings": "修否定答语，已读前问句和后回应。"
+        },
+        {
+          "unit": "cP3A",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "James-Andrew",
+            "Pick1909"
+          ],
+          "findings": "明确非徒然，为前章否定回复提供上下文。"
+        },
+        {
+          "unit": "cP4M",
+          "blocks": [
+            "全单元"
+          ],
+          "references": [
+            "James-Andrew",
+            "Pick1909"
+          ],
+          "findings": "代词链仍含混，新增诚实待核限制，不把现代大小写当古语证据。"
+        },
+        {
+          "unit": "cP4V",
+          "blocks": [
+            "p0001–p0033"
+          ],
+          "references": [
+            "James-Andrew",
+            "Pick1909",
+            "NASSCAL-Andrew"
+          ],
+          "findings": "完整读源/译本大单元，外部重点核18章和殉道6–15、18–22；修多神之说。参考4日/2万人与指定2日/2千人不同，不擅改。22him不强定。"
+        }
+      ],
+      "retained_differences": [
+        "殉道的天数、人群数与Pick/JS传统不同，保留指定底本。",
+        "第18章未纳James编辑补句的残缺继续标省略号；本轮不把所有重构补文添回。",
+        "第17章上游代词含混，正文暂依指定读法且注保留待核。"
+      ],
+      "changes": [
+        {
+          "unit": "cP33",
+          "block": "p0009",
+          "before": "斯特托高斯，你里面是否有人不能容忍我说这些话？他是谁？回答我：我是在徒然说话吗？我所说的都徒然吗？斯特托高斯，你里面那人确实在说话，如今他又哭了。”",
+          "after": "斯特托高斯，你里面是否有人不能容忍我说这些话？他是谁？回答我：我是在徒然说话吗？我所说的都徒然吗？斯特托高斯，你里面那人回答：‘不是。’如今他又哭了。”",
+          "reason": "James原刊354页实际图像作Nay，Pick10同为No；下一章明确说话非徒然。指定Indeed反转回答且现译漏答语，按两版与上下文修正。"
+        },
+        {
+          "unit": "cP4V",
+          "block": "p0018",
+          "before": "10. 十字架，你约束了世界的运行，何等美好！悟性的形体，你使无形的有了形状，何等美好！不可见的刑罚，你严惩众神所拥有的知识的本质，又将那发明它的从人类中赶出去，何等美好！你以主为衣，结出强盗这果子，呼召使徒回转，又不拒绝接纳我们，何等美好！",
+          "after": "10. 十字架，你约束了世界的运行，何等美好！悟性的形体，你使无形的有了形状，何等美好！不可见的刑罚，你严惩多神之说的本质，又将那发明它的从人类中赶出去，何等美好！你以主为衣，结出强盗这果子，呼召使徒回转，又不拒绝接纳我们，何等美好！",
+          "reason": "James原刊360页为knowledge that hath many gods，知识/学说以多神为内容，并非众神拥有知识；Pick对应明确doctrine of polytheism。指定改写倒置语义，修清并注。"
+        },
+        {
+          "unit": "cP33",
+          "field": "notes",
+          "before": [
+            "末句英文“Indeed, says the man in you”结构含混，译为里面之人发声，未依中文参考文本补作“不是”。"
+          ],
+          "after": [
+            "10章末指定英文Indeed与原刊不合。James1924第354页作否定回答，Pick1909也作否定；紧接第11章说这些话并非徒然。译文据此修为“不是”，不再只译作里面之人发声。"
+          ],
+          "reason": "补足实际版本证据；17章收回仅据现代大写即认定指代的过强结论，保留真正待核。"
+        },
+        {
+          "unit": "cP4V",
+          "field": "notes",
+          "before": [
+            "第18章中段及末尾在英文底本以省略号断开，末句残缺，未从其他版本补写。",
+            "殉道记第6段末尾的Him、He，按前文敌对者及同段“免得睡着遭杀害”的语境，译为“他”，不作指神的“祂”。",
+            "殉道记第10段“众神所拥有的知识的本质”原文措辞晦涩，按字面保留，未擅改为另一种神学解释。",
+            "殉道记第22段“蒙了怜悯，为他所爱”中的him，英文指代不明；译文保留，未强定为神或同胞。"
+          ],
+          "after": [
+            "第18章中段及末尾在英文底本以省略号断开，末句残缺，未从其他版本补写。",
+            "殉道记第6段末尾Him、He，James1924对应原文均作小写him、he，承接前文敌对者。保留“他”，不作指神的“祂”。",
+            "殉道记第10段指定英文把知识与众神的关系倒置。James1924第360页意为以多神为内容的知识，Pick1909亦明确为多神之说；译文据此修正，非“众神所拥有的知识”。",
+            "殉道记第22段“蒙了怜悯，为他所爱”中的him，英文指代不明；译文保留，未强定为神或同胞。"
+          ],
+          "reason": "补足实际版本证据；17章收回仅据现代大写即认定指代的过强结论，保留真正待核。"
+        },
+        {
+          "unit": "cP4M",
+          "field": "notes",
+          "before": [
+            "第5—6段英文以大写代词指神，小写指仇敌，中文据此明确指代；中文参考译本对“他不认识他”另作不认识魔鬼，未据该译本改动英文。"
+          ],
+          "after": [
+            "17章第4—6段代词链含混。目前正文沿指定英文大写代词译作神、小写译作仇敌；但James1924上游并没有这些大写提示，Pick1909的对应代词也不明确。故大写本身不足以排除“人未认出魔鬼”等理解，尚待希腊校勘本核实，不据其他译本擅改正文。"
+          ],
+          "reason": "补足实际版本证据；17章收回仅据现代大写即认定指代的过强结论，保留真正待核。"
+        }
+      ],
+      "remaining": "17章代词需要希腊校勘本深入核实；本轮未列单元及外部参考未列部分不计全文复核；未读Prieur1989/Lanzillotta全本。",
+      "status": "focused_review_complete"
+    },
+    "acts-of-thomas": {
+      "full_review_this_round": false,
+      "status": "transferred_to_dydi_c",
+      "checked": [],
+      "changes": [],
+      "remaining": "074–076由dydi_c独立记录，本工作者未实读或改动。"
+    },
+    "acts-of-peter-and-the-twelve-apostles": {
+      "full_review_this_round": false,
+      "status": "transferred_to_dydi_c",
+      "checked": [],
+      "changes": [],
+      "remaining": "074–076由dydi_c独立记录，本工作者未实读或改动。"
+    },
+    "acts-of-peter-and-paul": {
+      "full_review_this_round": false,
+      "status": "transferred_to_dydi_c",
+      "checked": [],
+      "changes": [],
+      "remaining": "074–076由dydi_c独立记录，本工作者未实读或改动。"
+    },
+    "acts-of-andrew-and-matthias": {
+      "full_review_this_round": false,
+      "status": "transferred_to_dydi_a",
+      "checked": [],
+      "changes": [],
+      "remaining": "077–080由dydi_a独立记录，本工作者未实读或改动。"
+    },
+    "acts-of-peter-and-andrew": {
+      "full_review_this_round": false,
+      "status": "transferred_to_dydi_a",
+      "checked": [],
+      "changes": [],
+      "remaining": "077–080由dydi_a独立记录，本工作者未实读或改动。"
+    },
+    "acts-of-barnabas": {
+      "full_review_this_round": false,
+      "status": "transferred_to_dydi_a",
+      "checked": [],
+      "changes": [],
+      "remaining": "077–080由dydi_a独立记录，本工作者未实读或改动。"
+    },
+    "acts-of-xanthippe-polyxena-and-rebecca": {
+      "full_review_this_round": false,
+      "status": "transferred_to_dydi_a",
+      "checked": [],
+      "changes": [],
+      "remaining": "077–080由dydi_a独立记录，本工作者未实读或改动。"
+    }
+  }
+}

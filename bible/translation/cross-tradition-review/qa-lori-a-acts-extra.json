@@ -1,0 +1,98 @@
+{
+  "worker": "lori_a",
+  "review_type": "independent_read_only_targeted_QA",
+  "reviewed_record": "dydi_a-acts-extra.json",
+  "record_sha256": "41ec2825115a9ed565b3caf0d9b41766b41d5820b3643df1a308ae6b8544b0d8",
+  "full_review_this_round": false,
+  "scope": "077—080四卷本轮3处正文改动、6处注释改动与邻接语境；不重认作者74块为QA全文核读。",
+  "formal_files_modified": false,
+  "items": [
+    {
+      "book_id": "acts-of-andrew-and-matthias",
+      "units_blocks": {
+        "cPH2": [
+          "p0002"
+        ]
+      },
+      "evidence": [
+        "实际查看/tmp/james457.png，James1924印页457/PDF488：§28首Where清楚，后接主承诺不废去的回答。",
+        "指定EPUB相应4:22为Here，日志before/after及正式JSON逐字一致。"
+      ],
+      "conclusion": "恢复质问成立；没有把受苦人的质问改为作者无条件断言。新注明确标示原文修正，与旧Amael注无冲突。"
+    },
+    {
+      "book_id": "acts-of-peter-and-andrew",
+      "units_blocks": {
+        "cPHT": [
+          "p0002",
+          "p0003",
+          "p0004"
+        ],
+        "cPJ0": [
+          "p0001",
+          "p0002"
+        ]
+      },
+      "evidence": [
+        "读取James1924扫描PDF文字层印页458—460，与田间/针眼/中断结尾比较。",
+        "James含庄稼成熟、城门女子、骆驼停于颈部及施洗释放的后续，指定结束在In the Name。"
+      ],
+      "conclusion": "版本说明的跳接与结尾范围有据；没有擅自补入参考情节，没有断言每处缺失必由同一古抄本造成。条件、unless及未受印记的顾虑仍保留。重量注只说明古代单位语境，未擅换现代单位。"
+    },
+    {
+      "book_id": "acts-of-barnabas",
+      "units_blocks": {
+        "cPK5": [
+          "p0015"
+        ],
+        "cPKC": [
+          "p0006",
+          "p0008",
+          "p0009",
+          "p0010"
+        ]
+      },
+      "evidence": [
+        "实读nicklas-full.txt印178—179页§14/18及脚注86/97和相邻叙述；独立德译称当地庙役，两注均将阿芙洛狄忒作为推测。",
+        "指定源文及现译核对，圣殿改庙宇未增补神祇名，cPK5旧注也已替换。"
+      ],
+      "conclusion": "两处正文改动成立。新版本注另有关系从句问题，见findings。"
+    },
+    {
+      "book_id": "acts-of-xanthippe-polyxena-and-rebecca",
+      "units_blocks": {
+        "cPMB": [
+          "p0021",
+          "p0022",
+          "p0023"
+        ]
+      },
+      "evidence": [
+        "实际打开Pavão2023 PDF https://periodicos.ufjf.br/index.php/ronai/article/download/42018/26789/185560 ，读135—138页希腊21节、独立葡译及疑词讨论（web turn755498view0/turn458461view0）。",
+        "文章明确将Bonnet器物底座校改与旧英语destroyer、Junod人物解释区分；仅经该文所引Eastman/Junod，不据此宣称直接读其全本。"
+      ],
+      "conclusion": "保留指定destroyer并新增疑难词注合适；未把现代校改当抄本确证。旧第6节及41节注仍保留，分别为其他位置的待核问题，与21节注无冲突。本QA未重核这些旧疑点。"
+    }
+  ],
+  "findings": [
+    {
+      "id": "barnabas-sacred-antecedent",
+      "severity": "annotation_overstatement",
+      "location": "acts-of-barnabas/cPKC p0009及新notes第2条",
+      "description": "指定英文the temple of Apollo, which was close at hand in the city, which was called sacred，末which可就近指city，至少仍有歧义。原注直接判定指定将神圣联系阿波罗庙，不能由现译反推源文确定句法。下一句temple/Kourion差别则明确。",
+      "action": "已通知dydi_a区分关系从句歧义与明确名词异读；QA不改正式。",
+      "status": "resolved_by_author_and_verified_by_root",
+      "resolution": "作者将sacred关系从句列为句法歧义，仅下一句temple/Kourion列明确异读。root实际提取cPKC p0009源文并复读现notes确认；正文未改。"
+    }
+  ],
+  "limitations": [
+    "未复核四卷所有章节或74个原审块。",
+    "未独立验证作者所有资源网页阅读历史，只对所列关键证据、正式正文和记录一致性负责。",
+    "未直接读取Bonnet1894原刊；关于其提议依据Pavão有明确归属的转述。"
+  ],
+  "root_followup": {
+    "checked": "cPKC英文p0009、正式notes及作者修订日志",
+    "updated_record_sha256": "b354e9bdf10b0f59fe1064a407765f400d09518ba1b6fa239f1547b89f53e35e",
+    "outstanding_findings": 0
+  }
+}

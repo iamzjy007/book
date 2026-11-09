@@ -1,0 +1,1740 @@
+{
+  "schema": 1,
+  "base_commit": "f0aaddce4a83a292de2708b394afdceab7a32161",
+  "purpose": "跨传统、跨译本研究与有据修订；查到资源不等于全文校读。",
+  "books": [
+    {
+      "project": "bible/translation",
+      "book_id": "apocryphal-esther",
+      "title": "001_以斯帖补篇",
+      "source_units": 7,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "apocryphal-psalms",
+      "title": "002_诗篇补篇",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "apocryphal-daniel",
+      "title": "003_但以理补篇",
+      "source_units": 7,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-29",
+      "title": "004_使徒行传第二十九章",
+      "source_units": 2,
+      "reference_research": "completed_with_limitations",
+      "passage_review": "full",
+      "full_review_this_round": true,
+      "records": [
+        "root.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "tobit",
+      "title": "005_多比传",
+      "source_units": 15,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "judith",
+      "title": "006_犹滴传",
+      "source_units": 17,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "wisdom",
+      "title": "007_所罗门智训",
+      "source_units": 20,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "sirach",
+      "title": "008_便西拉智训",
+      "source_units": 52,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "1-baruch",
+      "title": "009_巴录一书",
+      "source_units": 6,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "1-maccabees",
+      "title": "010_马加比一书",
+      "source_units": 17,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "2-maccabees",
+      "title": "011_马加比二书",
+      "source_units": 16,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "1-esdras",
+      "title": "012_以斯拉一书",
+      "source_units": 10,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "2-esdras",
+      "title": "013_以斯拉二书",
+      "source_units": 17,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "3-maccabees",
+      "title": "014_马加比三书",
+      "source_units": 8,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "4-maccabees",
+      "title": "015_马加比四书",
+      "source_units": 19,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "prayer-of-manasseh",
+      "title": "016_玛拿西祷词",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "testaments-of-the-twelve-patriarchs",
+      "title": "017_十二族长遗训",
+      "source_units": 155,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "jubilees",
+      "title": "018_禧年书",
+      "source_units": 51,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "1-enoch",
+      "title": "019_以诺一书",
+      "source_units": 114,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "2-enoch",
+      "title": "020_以诺二书",
+      "source_units": 69,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "3-enoch",
+      "title": "021_以诺三书",
+      "source_units": 51,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "book-of-giants",
+      "title": "022_巨人书",
+      "source_units": 16,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "life-of-adam-and-eve",
+      "title": "023_亚当与夏娃生平",
+      "source_units": 45,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "book-of-creation",
+      "title": "024_创造之书",
+      "source_units": 7,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "testament-of-abraham",
+      "title": "025_亚伯拉罕遗训",
+      "source_units": 21,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "testament-of-isaac",
+      "title": "026_以撒遗训",
+      "source_units": 14,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "testament-of-jacob",
+      "title": "027_雅各遗训",
+      "source_units": 9,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "ladder-of-jacob",
+      "title": "028_雅各天梯",
+      "source_units": 9,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "joseph-and-asenath",
+      "title": "029_约瑟与亚西纳",
+      "source_units": 30,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "testament-of-job",
+      "title": "030_约伯遗训",
+      "source_units": 13,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "testament-of-moses",
+      "title": "031_摩西遗训",
+      "source_units": 13,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "testament-of-solomon",
+      "title": "032_所罗门遗训",
+      "source_units": 29,
+      "reference_research": "resources_examined",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_c.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "psalms-of-solomon",
+      "title": "033_所罗门诗篇",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "lives-of-the-prophets",
+      "title": "034_先知生平",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "words-of-gad-the-seer",
+      "title": "035_先见迦得的话",
+      "source_units": 15,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "ascension-of-isaiah",
+      "title": "036_以赛亚升天记",
+      "source_units": 12,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "2-baruch",
+      "title": "037_巴录二书",
+      "source_units": 89,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "3-baruch",
+      "title": "038_巴录三书",
+      "source_units": 18,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "4-baruch",
+      "title": "039_巴录四书",
+      "source_units": 10,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "apocryphon-of-jannes-and-jambres",
+      "title": "040_雅尼与佯庇秘传",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "apocryphon-of-ezekiel",
+      "title": "041_以西结藏书",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "epistle-of-aristeas",
+      "title": "042_阿立斯蒂亚书信",
+      "source_units": 33,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-pseudepigrapha.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "didache",
+      "title": "043_十二使徒遗训",
+      "source_units": 17,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "epistles-of-king-abgar-and-jesus",
+      "title": "044_亚伯加王与耶稣书信",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "epistle-of-the-apostles",
+      "title": "045_使徒书信",
+      "source_units": 52,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "apostolic-church-order",
+      "title": "046_使徒教会规章",
+      "source_units": 15,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "epistle-of-barnabas",
+      "title": "047_巴拿巴书信",
+      "source_units": 22,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "epistle-to-the-laodiceans",
+      "title": "048_致老底嘉人书",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "correspondence-of-paul-and-seneca",
+      "title": "049_保罗与塞涅卡通信",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "traditions-of-matthias",
+      "title": "050_马提亚传述",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "epistle-of-lentulus",
+      "title": "051_伦图鲁书信",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "the-shepherd-of-hermas",
+      "title": "052_黑马牧人书",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "odes-of-peace",
+      "title": "053_和平颂歌",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "infancy-gospel-of-james",
+      "title": "054_雅各婴孩福音",
+      "source_units": 25,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "infancy-gospel-of-thomas",
+      "title": "055_多马童年福音",
+      "source_units": 20,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "arabic-infancy-gospel",
+      "title": "056_阿拉伯婴孩福音",
+      "source_units": 57,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "gospel-of-the-nativity-of-mary",
+      "title": "057_马利亚诞生福音",
+      "source_units": 11,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "history-of-joseph-the-carpenter",
+      "title": "058_木匠约瑟的历史",
+      "source_units": 34,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "life-of-john-the-baptist",
+      "title": "059_施洗约翰生平",
+      "source_units": 17,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "gospel-of-peter",
+      "title": "060_彼得福音",
+      "source_units": 15,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "gospel-of-thomas",
+      "title": "061_多马福音",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "gospel-of-the-twelve-holy-apostles",
+      "title": "062_十二圣使徒福音",
+      "source_units": 9,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "fragmentary-gospels",
+      "title": "063_福音残篇",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-pilate",
+      "title": "064_彼拉多行传",
+      "source_units": 31,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "narrative-of-joseph-of-arimathea",
+      "title": "065_亚利马太约瑟的记述",
+      "source_units": 6,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "correspondence-of-pilate",
+      "title": "066_彼拉多书信集",
+      "source_units": 5,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "paradosis-pilati",
+      "title": "067_彼拉多被押解记",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "vindicta-salvatoris",
+      "title": "068_救主的伸冤",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_d.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "mors-pilati",
+      "title": "069_彼拉多之死",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-paul",
+      "title": "070_保罗行传",
+      "source_units": 5,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-peter",
+      "title": "071_彼得行传",
+      "source_units": 42,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-john",
+      "title": "072_约翰行传",
+      "source_units": 97,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-andrew",
+      "title": "073_安得烈行传",
+      "source_units": 19,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-thomas",
+      "title": "074_多马行传",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b-acts.json",
+        "dydi_c-acts-extra.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-peter-and-the-twelve-apostles",
+      "title": "075_彼得与十二使徒行传",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b-acts.json",
+        "dydi_c-acts-extra.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-peter-and-paul",
+      "title": "076_彼得与保罗行传",
+      "source_units": 12,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_b-acts.json",
+        "dydi_c-acts-extra.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-andrew-and-matthias",
+      "title": "077_安得烈与马提亚行传",
+      "source_units": 5,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-acts-extra.json",
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-peter-and-andrew",
+      "title": "078_彼得与安得烈行传",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-acts-extra.json",
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-barnabas",
+      "title": "079_巴拿巴行传",
+      "source_units": 8,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-acts-extra.json",
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "acts-of-xanthippe-polyxena-and-rebecca",
+      "title": "080_薛菲庇、波吕克塞娜与利百加行传",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "dydi_a-acts-extra.json",
+        "dydi_b-acts.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "revelation-of-abraham",
+      "title": "081_亚伯拉罕启示录",
+      "source_units": 33,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a-apocalypses.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "revelation-of-elijah",
+      "title": "082_以利亚启示录",
+      "source_units": 6,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a-apocalypses.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "revelation-of-zephaniah",
+      "title": "083_西番雅启示录",
+      "source_units": 14,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a-apocalypses.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "revelation-of-peter",
+      "title": "084_彼得启示录",
+      "source_units": 5,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a-apocalypses.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "revelation-of-thomas",
+      "title": "085_多马启示录",
+      "source_units": 5,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a-apocalypses.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "revelation-of-stephen",
+      "title": "086_司提反启示录",
+      "source_units": 6,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a-apocalypses.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "revelation-of-the-virgin",
+      "title": "087_童女启示录",
+      "source_units": 31,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a-apocalypses.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "the-sibylline-oracles",
+      "title": "088_西卜神谕",
+      "source_units": 15,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a-apocalypses.json"
+      ]
+    },
+    {
+      "project": "bible/translation",
+      "book_id": "jasher",
+      "title": "089_雅煞珥书",
+      "source_units": 92,
+      "reference_research": "completed_for_targeted_passages",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "root.json"
+      ],
+      "hebrew_chapters_reviewed": [
+        23
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "1-clement",
+      "title": "001_革利免一书",
+      "source_units": 66,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "2-clement",
+      "title": "002_革利免二书",
+      "source_units": 21,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "seven-epistles-of-ignatius",
+      "title": "003_伊格那丢七书信",
+      "source_units": 99,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "epistle-of-polycarp-to-the-philippians",
+      "title": "004_坡旅甲致腓立比人书",
+      "source_units": 16,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "martyrdom-of-polycarp",
+      "title": "005_坡旅甲殉道记",
+      "source_units": 23,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "title": "006_门徒致丢格那妥书",
+      "source_units": 13,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "exposition-of-the-oracles-of-the-lord",
+      "title": "007_主言解说",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "apology-of-aristides",
+      "title": "008_亚里斯提德护教辞",
+      "source_units": 18,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "apology-for-christianity",
+      "title": "009_为基督教辩护",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "full",
+      "full_review_this_round": true,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "acts-of-perpetua-and-felicitas",
+      "title": "010_佩尔佩图阿与费利西塔斯殉道记",
+      "source_units": 8,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "first-apology",
+      "title": "011_第一护教辞",
+      "source_units": 69,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "second-apology",
+      "title": "012_第二护教辞",
+      "source_units": 16,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "apology-to-marcus-aurelius",
+      "title": "013_致马可·奥勒留护教辞",
+      "source_units": 20,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "discourses-of-melito",
+      "title": "014_梅利托论说集",
+      "source_units": 12,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "a-plea-for-the-christians",
+      "title": "015_为基督徒申辩",
+      "source_units": 38,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "apology-to-autolycus",
+      "title": "016_致奥托吕库斯护教辞",
+      "source_units": 86,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "discourse-concerning-hades",
+      "title": "017_论阴间",
+      "source_units": 9,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "the-muratorian-canon",
+      "title": "018_穆拉多利正典",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "gelasian-decree",
+      "title": "019_革拉修敕令",
+      "source_units": 7,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "the-earliest-creeds",
+      "title": "020_最早期的信经",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "key-extrabiblical-references",
+      "title": "021_重要圣经外文献",
+      "source_units": 22,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "the-antiquities-of-the-jews",
+      "title": "022_犹太古史",
+      "source_units": 278,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "against-apion",
+      "title": "023_驳阿庇安",
+      "source_units": 3,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "the-chronicon-universal-history",
+      "title": "024_编年史（世界通史）",
+      "source_units": 115,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "the-ecclesiastical-history",
+      "title": "025_教会史",
+      "source_units": 276,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_a.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "alexander-of-cappadocia-3rd-century",
+      "title": "026_加帕多家的亚历山大［第三世纪］",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "full",
+      "full_review_this_round": true,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "ambrose-of-milan-4th-century",
+      "title": "027_米兰的安布罗斯（第四世纪）",
+      "source_units": 3,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "anterus-3rd-century",
+      "title": "028_安特鲁斯（第三世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "athanasius-4th-century",
+      "title": "029_亚他那修（第四世纪）",
+      "source_units": 12,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "augustine-of-hippo-4th-to-5th-centuries",
+      "title": "030_希波的奥古斯丁（第四至第五世纪）",
+      "source_units": 180,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "basil-of-caesarea-4th-century",
+      "title": "031_凯撒利亚的巴西流（第四世纪）",
+      "source_units": 7,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "callistus-3rd-century",
+      "title": "032_卡利斯图斯（三世纪）",
+      "source_units": 10,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "cyprian-3rd-century",
+      "title": "033_居普良（第三世纪）",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "dionysius-of-alexandria-3rd-century",
+      "title": "034_亚历山大的狄奥尼修斯（第三世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "dionysius-of-corinth-2nd-century",
+      "title": "035_哥林多的狄奥尼修斯（第二世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "full",
+      "full_review_this_round": true,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "eusebius-3rd-to-4th-centuries",
+      "title": "036_优西比乌（第三至第四世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "fabian-3rd-century",
+      "title": "037_法比亚努斯（第三世纪）",
+      "source_units": 13,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "gregory-thaumaturgus-3rd-century",
+      "title": "038_行奇事者格列高利（第三世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "jerome-4th-to-5th-centuries",
+      "title": "039_耶柔米（第四至第五世纪）",
+      "source_units": 10,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "john-chrysostom-4th-to-5th-centuries",
+      "title": "040_金口约翰（第四至第五世纪）",
+      "source_units": 3,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "julius-africanus-3rd-century",
+      "title": "041_尤利乌斯·阿非利加努斯（第三世纪）",
+      "source_units": 8,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "malchion-3rd-century",
+      "title": "042_马尔基翁（第三世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "full",
+      "full_review_this_round": true,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "origen-3rd-century",
+      "title": "043_俄利根（第三世纪）",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "peter-of-alexandria-4th-century",
+      "title": "044_亚历山大的彼得（第四世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "phileas-4th-century",
+      "title": "045_菲勒阿斯（第四世纪）",
+      "source_units": 5,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "polycrates-of-ephesus-2nd-century",
+      "title": "046_以弗所的波利克拉底（第二世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "full",
+      "full_review_this_round": true,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "pontianus-3rd-century",
+      "title": "047_蓬提阿努斯（第三世纪）",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "pseudo-clement-3rd-century",
+      "title": "048_伪革利免（三世纪）",
+      "source_units": 31,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "pseudo-ignatius-4th-century",
+      "title": "049_伪伊格那丢（第四世纪）",
+      "source_units": 60,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "serapion-of-antioch-2nd-to-3rd-centuries",
+      "title": "050_安提阿的塞拉皮翁（第二至第三世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "full",
+      "full_review_this_round": true,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "theonas-of-alexandria-3rd-century",
+      "title": "051_亚历山大的提奥纳斯（第三世纪）",
+      "source_units": 11,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "theophilus-of-caesarea-2nd-century",
+      "title": "052_凯撒利亚的提阿非罗（第二世纪）",
+      "source_units": 2,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "full",
+      "full_review_this_round": true,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "urban-i-3rd-century",
+      "title": "053_乌尔巴努斯一世（三世纪）",
+      "source_units": 9,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    },
+    {
+      "project": "bible/translation/history-patristics",
+      "book_id": "zephyrinus-3rd-century",
+      "title": "054_泽菲里努斯（第三世纪）",
+      "source_units": 4,
+      "reference_research": "documented_in_worker_record",
+      "passage_review": "partial",
+      "full_review_this_round": false,
+      "records": [
+        "lori_b.json"
+      ]
+    }
+  ],
+  "counts": {
+    "book_entries": 143,
+    "with_records": 143,
+    "with_actual_passage_review": 143,
+    "full_review_this_round": 8
+  },
+  "count_warning": "记录存在、重点段落核读与全文核对是不同计数；结构验证或旧reviewed标记不能升级本轮状态。"
+}

@@ -1,0 +1,150 @@
+{
+  "worker": "lori_a",
+  "reviewed_record": "cross-tradition-review/dydi_a-pseudepigrapha.json",
+  "record_sha256_at_completion": "f25960b1bd21ca2984d9c48dc0304e1b070c507e9a66b61bb6baaa2a374f4138",
+  "mode": "只读正式文件；本QA仅写独立报告",
+  "scope": "十项资源/校记重点核验；一项新增正文改动与高风险否定/条件逐字核，不把原报告394块全计为QA重读",
+  "summary": {
+    "items_checked": 10,
+    "new_body_edit_checked": 1,
+    "findings": 2,
+    "unresolved_new_body_errors": 0,
+    "findings_resolved_by_author": 2
+  },
+  "findings": [
+    {
+      "id": "QA-LA-P01",
+      "book_id": "2-baruch",
+      "location": "dydi_a-pseudepigrapha.json decisions 48:32",
+      "severity": "record_correction",
+      "before": "Charles曾校改否定",
+      "evidence": "原刊p506注32是shall rest改为shall be moved；Klijn/Charles都保留not know。",
+      "recommended": "改记安居/彼此敌对的动词校改，不称否定词改动。",
+      "status": "resolved_by_author_and_reread",
+      "formal_body_affected": false
+    },
+    {
+      "id": "QA-LA-P02",
+      "book_id": "3-baruch",
+      "location": "cFB1 notes及独立日志希腊10:9引词",
+      "severity": "citation_precision",
+      "before": "希腊10:9作从这里",
+      "evidence": "from here在斯拉夫10:6；希腊10:9为from that lake。对页标题及编次已实际核。",
+      "recommended": "改为希腊10:9来自那湖/水池，保持关于现英文后一来源的疑义。",
+      "status": "resolved_by_author_and_reread",
+      "formal_body_affected": false
+    }
+  ],
+  "items": [
+    {
+      "book_id": "apocryphon-of-ezekiel",
+      "qa_scope": [
+        "cFG0:p0033",
+        "cFG0:notes"
+      ],
+      "actually_checked": "OTP I Mueller/Robinson残篇2—5译文及3脚注（缓存otp1-1983.txt约46810—46925），核五种古代引文生而未生；指定pregnant及现译仍怀胎一致。",
+      "result": "校记以不同引用传统提出疑点而非强改，准确。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "lives-of-the-prophets",
+      "qa_scope": [
+        "cED4:p0063",
+        "cED4:notes"
+      ],
+      "actually_checked": "OTP II但以理4:13—15及h/j脚注（otp2.txt 27600—27648），六个月主文/五个月算术校读、Baltasar同名说明。",
+      "result": "数字和同名保留符合指定英文；未用正典或现代主文硬改。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "psalms-of-solomon",
+      "qa_scope": [
+        "cEBH:p0157"
+      ],
+      "actually_checked": "NETS第8篇17节crowned her walls上下句（pssal.txt 506—514）。",
+      "result": "对应指定8:19，现译冠饰保留比喻；未见改成攻城等无据释义。其他8篇段落未由本QA重新全部对校。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "ascension-of-isaiah",
+      "qa_scope": [
+        "cEJV:p0008",
+        "cEJV:notes",
+        "cEKY:notes"
+      ],
+      "actually_checked": "OTP II1:7正文及6:9正文/异读说明（otp2.txt 11920—11945、12595—12645），核not only与door。",
+      "result": "not only的范围确受现代译文支持；门和异本话语权能的差异有据，不因中文参考去掉only。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "2-baruch",
+      "qa_scope": [
+        "cEZU:p0025-p0034",
+        "cEZU:notes"
+      ],
+      "actually_checked": "实际目视APOT II印页506（apot-p506-n525.jpg）全部48:23—36和脚注；OTP I48:29—32及注d（otp1-1983.txt 57985—58065）；指定EPUB与当前中文逐句核。",
+      "result": "he的字形明确，非lie/deceit，去掉欺诈成立；not at all与unless的难读分属不同译法，当前只校后半不偷偷加入条件，合理。原刊自己称叙利亚文本难解，前半归于无有仍是待核暂译。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "3-baruch",
+      "qa_scope": [
+        "cFB1:p0011-p0012",
+        "cFB1:notes",
+        "cFA5:notes"
+      ],
+      "actually_checked": "OTP I6:2/7注e/g、10章希腊及斯拉夫两文本；实际目视PDF725/印页672标题SLAVONIC，10:6 from here；希腊10:9正文that lake。",
+      "result": "九山为James拟校而非唯一原义，九肘/4000 modia不换算处理合理。水源注的文本定位原有混淆，作者已按QA修正为希腊来自那湖。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "4-baruch",
+      "qa_scope": [
+        "cFDG:p0011",
+        "cFDG:notes"
+      ],
+      "actually_checked": "OTP II3章脚注b（otp2.txt约29450）明列Kilpatrick建议、词义聚合/结合/婚姻和completion异读。",
+      "result": "保留gathering而列coming为校释有据；蒙爱者单复数仍注明待核，未声称已解决全部语义。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "epistle-of-aristeas",
+      "qa_scope": [
+        "cFHS:p0004",
+        "cFHS:notes"
+      ],
+      "actually_checked": "OTP II Shutt26—29（otp2.txt行2495—2525），核660talents总额与婴儿20drachmas。",
+      "result": "校记单位纠正有上下文及独立译本双重支持，不混淆总额与单人支付。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "words-of-gad-the-seer",
+      "qa_scope": [
+        "cEJ1:p0005",
+        "cEJ1:p0021-p0026",
+        "cEJ1:p0032",
+        "cEJ1:notes"
+      ],
+      "actually_checked": "通过search_service_web_run实际打开Open Siddur网页13章希伯来段与英文段，网页行251—269；对照指定英文/现译。",
+      "result": "希伯来数字为五十而网页英译五百，保留五十合理。同父姐妹、呼求大卫代求均实际存在；当前指定英文祷告对象不同，校记保留差异有据。网页版不等于原抄本，记录未冒称已校原稿。",
+      "full_review_by_qa": false
+    },
+    {
+      "book_id": "apocryphon-of-jannes-and-jambres",
+      "qa_scope": [
+        "cFFB:p0019",
+        "cFFB:p0021",
+        "cFFB:notes"
+      ],
+      "actually_checked": "OTP II拉丁/希腊并排列宽2长4；2019Erho/Henry印页191英文巨人段和尖括号（jannes2019.txt745—785）。",
+      "result": "4200确为2019刊文，碗与were具拟补标记；未按常识改眼睛数目，也未把参考103巨人塞入指定省略的文本。",
+      "full_review_by_qa": false
+    }
+  ],
+  "provenance_limit": "所查关键主张均可由实际打开的刊本/网页支持，未见将书目摘要冒充正文的证据。但不能由文件存在证明作者此前看过其列出的每一行，本QA不替其全部阅读历史背书；Open Siddur由网页工具实读，不因本地无HTML缓存就断言未读。",
+  "unresolved_cautions": [
+    "2Baruch48:29前半归于无有仍是暂译，不将he字形已核扩张为整节叙利亚句法已解决。",
+    "3Baruch水源关系及4Baruch蒙爱者所指仍待原文进一步核验。",
+    "本次未全面重校希腊/叙利亚/Geʿez原稿，不把同源英译转载算作独立抄本。"
+  ]
+}

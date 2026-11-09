@@ -1,0 +1,291 @@
+{
+  "worker": "lori_b",
+  "date": "2026-11-09T16:15:34.347511+00:00",
+  "status": "069–073_changes_and_key_notes_review_complete",
+  "full_review_this_round": false,
+  "scope": "仅改动块和关键注，非五书全文重审",
+  "head": "f0aaddce4a83a292de2708b394afdceab7a32161",
+  "snapshots": {
+    "bible/translation/zh/mors-pilati/cMXN.json": "8c3e3b59f46d05cdbc47c31736e17986297334c15ee7406733c3ce9b69bb5d29",
+    "bible/translation/zh/acts-of-paul/cMY7.json": "885c8633c7d9e44122636cbc1c90e91e56529721fdca631034a8b835a29562de",
+    "bible/translation/zh/acts-of-paul/cN1F.json": "1ed3245fc0a4bb41000dd7b3e7ca4cc97967479acd6a13089689752923b9acd4",
+    "bible/translation/zh/acts-of-peter/cN98.json": "b610b505f650226621638625de6ba43ff4c47baa2a91dd2ead78e3708c7582fc",
+    "bible/translation/zh/acts-of-john/cNCW.json": "e52f82c9960c4d2778135c1ad2ca768f0248fc0e65be413ca0856b81b8f1becb",
+    "bible/translation/zh/acts-of-john/cNZH.json": "8b229d1b3f1fd439c7ccbf53be670d4bca3ef1a90e4ad3a0290722fddc537b06",
+    "bible/translation/zh/acts-of-john/cNZZ.json": "6b8405921b2df917dfcf1c7f1f328e97a2de1c86b8266f67c64200a4da260a48",
+    "bible/translation/zh/acts-of-john/cNGC.json": "a0c36a90dfbc7683dcdc1ce2341bd119fa6965e33e1fe77806af78f51522ef8a",
+    "bible/translation/zh/acts-of-john/cNPH.json": "04c2f8f530d65b37179a3800786bda592b74853d25b222a606e366b1f983fc77",
+    "bible/translation/zh/acts-of-john/cNTU.json": "2fc4c7af336ad661544cac48a5861471d0b29f5674927086558028a2f32bbec8",
+    "bible/translation/zh/acts-of-andrew/cP33.json": "785ac791805ea34e9fdf09d5658de5f18d598de6cee0705c417903c5b371f37b",
+    "bible/translation/zh/acts-of-andrew/cP4V.json": "343cb72b4faa6c67022fe10edaaa6ffdb803a83c1f1371f91baa8b99851f3bc5",
+    "bible/translation/zh/acts-of-andrew/cP4M.json": "3ecaec7ae2a5096b7786f0222f6ffe66b6f2029e873343e3aeb8b5ed2b91efa1"
+  },
+  "checks": [
+    {
+      "book_id": "mors-pilati",
+      "unit": "cMXN",
+      "kind": "body",
+      "reason": "内嵌8节my lord, my God and my Lord是一组为耶稣哀哭的呼告；Walker上游作Ah me! My lord, my God and my Lord，未称使者先生。撤去译者所添“先生！那是”，保留重复呼语。其余35节不改。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0002",
+      "english": "1 And when Tiberius Caesar, the emperor of the Romans, was laboring under a grievous disease, and understanding that there was at Jerusalem a certain Physician, Jesus by Name, who by a single word cured all sicknesses, he, not knowing that the Jews and Pilate had put Him to death, ordered a certain friend of his named Volusianus: 2 “Go as quickly as possible across the seas; and you will tell Pilate, my servant and friend, to send me this Physician, so that He may restore me to my former health.” 3 And this Volusianus, having heard the emperor’s command, immediately departed and came to Pilate as he had been commanded. 4 And he related to the same Pilate what had been entrusted to him by Tiberius Caesar, saying, “Tiberius Caesar, the emperor of the Romans, your master, having heard that in this city there is a Physician who by His word alone heals sicknesses, begs you earnestly to send Him to him for the curing of his sickness.” 5 Pilate, hearing this, was very greatly afraid, knowing that through envy he had caused Him to be put to death. 6 Pilate answered the same messenger thus, saying, “This Man was a criminal, and a Man who drew to Himself all the people; so a council of the wise men of the city was held, and I caused Him to be crucified.” 7 And this messenger returning to his inn, met a certain woman named Veronica, who had been a friend of Jesus; and he said: “O woman, a certain Physician who was in this city, who cured the sick by a word alone, why have the Jews put Him to death?” 8 And she began to weep, saying, “Oh my lord, my God and my Lord, whom Pilate for envy delivered, condemned, and ordered to be crucified.” 9 Then he, being exceedingly grieved, said: “I am vehemently grieved that I am unable to accomplish that for which my lord had sent me.” 10 And Veronica said to him: “When my Lord was going around preaching, and I, much against my will, was deprived of His presence, I wished [for] His picture to be painted for me, in order that, while I was deprived of His presence, the figure of His picture might at least provide me consolation. 11 And when I was carrying the canvas to the painter to be painted, my Lord met me and asked where I was going. 12 And when I had disclosed to Him the cause of my journey, He asked for the cloth from me and gave it back to me impressed with the image of His noble face. 13 Therefore, if your lord will devoutly gaze on His face, he will immediately obtain the benefit of health.” 14 And he said to her: “Is a picture of such a sort obtainable by gold or silver?” 15 She said to him: “No; but by the pious influence of devotion. I will therefore set out with you, and carry the picture to be seen by Caesar, and come back again.” 16 Therefore, Volusianus came with Veronica to Rome and said to Tiberius the emperor: “Jesus, whom you have been longing for, Pilate and the Jews have delivered to an unjust death, and have through envy affixed to the scaffold of the cross. 17 There has therefore come with me a certain matron, bringing a picture of Jesus Himself; and if you will devoutly look on it, you will immediately obtain the benefit of your health.” 18 Caesar therefore ordered the way to be strewn with silk cloths, and the picture to be presented to him; and as soon as he had looked on it, he regained his former health. 19 Pontius Pilate, therefore, by the command of Caesar, is taken and brought through to Rome. 20 Caesar, hearing that Pilate had arrived at Rome, was filled with exceeding fury against him and caused him to be brought to him. 21 But Pilate brought down with him the seamless tunic of Jesus; and he wore it on him in the presence of the emperor. 22 And as soon as the emperor saw him, he laid aside all his anger, and immediately rose up to meet him. Nor was he able to speak harshly to him in anything; and he who seemed so terrible and fierce in his absence, now in his presence is somehow found to be mild. 23 And when he had sent him away, he immediately blazed out against him terribly, crying out that he was a wretch, inasmuch as he had not at all shown him the fury of his heart. 24 And he immediately made him be called back, swearing and declaring that he was the son of death, and that it was infamous that he should live on the earth. 25 And as soon as he saw him, he immediately saluted him and threw away all the ferocity of his mind. 26 Everyone marveled; and he himself wondered why he should thus blaze out against Pilate when he was absent, and that while he was present he could say nothing to him sternly. 27 Then, by a divine impulse, or perhaps by the advice of some Christian, he caused him to be stripped of that tunic, and immediately resumed his former ferocity of mind against him. 28 And when at this the emperor wondered very greatly, it was told to him that that tunic had belonged to the Lord Jesus. 29 Then the emperor ordered him to be kept in prison, until he should deliberate in a council of the wise men what ought to be done with him. 30 And a few days later, sentence was therefore passed on Pilate, that he should be condemned to the most disgraceful death. Pilate, hearing this, killed himself with his own knife, and by such a death ended his life. 31 When Caesar knew of the death of Pilate, he said: “Truly he has died by a most disgraceful death, whom his own hand has not spared.” 32 He is therefore bound to a great mass and sunk into the Tiber River. But malignant and filthy spirits in his malignant and filthy body, all rejoicing together, kept moving themselves in the waters, and in a terrible manner brought lightnings and tempests, thunders and hailstorms, in the air, so that all men were kept in horrible fear. 33 Therefore, the Romans, drawing him out of the Tiber River, carried him down to Vienna in derision and sunk him in the Rhone River. For Vienna is called, as it were, Via Gehennae, “The Way of Gehenna,” because it was then a place of cursing. 34 But evil spirits were present there, working the same things in the same place. Those men therefore, not enduring such a visitation of demons, removed from themselves that vessel of blight and sent him to be buried in the territory of Losania. 35 And they, seeing that they were troubled by the aforementioned visitations, removed him from themselves and sunk him in a certain pit surrounded by mountains, where to this day, according to the account of some, certain diabolical machinations are said to bubble up.",
+      "head": "1 罗马皇帝凯撒提庇留患了重病，听说耶路撒冷有一位名叫耶稣的医生，只需一句话，就能医好一切疾病。他不知道犹太人和彼拉多已经将祂杀害，便吩咐一位名叫沃卢西安的朋友说：2 “你要尽快渡海前去，告诉我的臣仆和朋友彼拉多，将这位医生送到我这里，使我恢复从前的健康。”3 沃卢西安听了皇帝的命令，就立刻启程，奉命来到彼拉多那里。4 他将凯撒提庇留所托付的话告诉彼拉多，说：“你的主、罗马皇帝凯撒提庇留，听说这城里有一位医生，单凭祂的话就能医治疾病。他恳切请求你将这人送到他那里，医治他的病。”5 彼拉多听了，极其惧怕，因为知道自己曾因嫉妒，下令将祂处死。6 彼拉多便这样回答那使者，说：“这人是个罪犯，招引所有百姓跟从祂；因此，城中的智慧人召开会议，我就命人将祂钉在十字架上。”7 使者回到客店，遇见一个名叫维罗尼卡的妇人，她从前是耶稣的朋友。他问她：“妇人，这城里曾有一位医生，只用一句话就医好病人，犹太人为什么将祂杀害呢？”8 她就哭起来，说：“哦，先生！那是我的神、我的主；彼拉多因嫉妒，将祂交出去，定了祂的罪，命人将祂钉在十字架上。”9 使者极其忧伤，说：“我不能办成主人差我来办的事，心里实在悲痛。”10 维罗尼卡对他说：“我的主四处传道的时候，我虽然极不情愿，却不能常在祂身边。我便盼望有人为我画一幅祂的像，好让我不能见祂的时候，至少能从画像中得些安慰。11 我拿着画布，要去找画师画像，路上遇见我的主；祂问我要往哪里去。12 我告诉祂出门的缘故，祂就向我要那块布，交还给我的时候，上面已经印着祂尊贵面容的形像。13 所以，你的主人若虔诚地瞻望祂的面容，就必立刻蒙恩，恢复健康。”14 使者问她：“这样的画像，可以用金银买到吗？”15 她对他说：“不能，惟有凭敬虔的诚心。因此，我愿与你一同起行，带着画像给凯撒看，然后再回来。”16 沃卢西安便与维罗尼卡来到罗马，对皇帝提庇留说：“你所切望见到的耶稣，已经被彼拉多和犹太人不义地处死；他们因嫉妒，将祂钉在十字架的木架上。17 不过，有一位妇人同我来了，带着耶稣本人的画像；你若虔诚地观看，就必立刻蒙恩，恢复健康。”18 凯撒便吩咐用丝绸铺路，将画像呈到自己面前。他一看见画像，就恢复了从前的健康。19 于是，本丢·彼拉多奉凯撒之命，被捕押送到罗马。20 凯撒听说彼拉多已到罗马，就向他大发烈怒，命人将他带来。21 彼拉多却将耶稣那件无缝的里衣一同带来，穿在身上，觐见皇帝。22 皇帝一看见他，就消了所有怒气，立刻起身迎接，竟无法对他说一句严厉的话。彼拉多不在场时，皇帝显得那么可怕、暴烈，如今到了他面前，却不知怎的温和起来。23 皇帝打发他离开以后，立刻又向他大发雷霆，高喊自己真是个无用的人，竟完全没有向他发出心中的怒气。24 他随即命人将彼拉多召回，起誓宣告他是该死的人，容他活在世上是一种耻辱。25 但皇帝一见到他，就立刻向他问安，心里所有的凶怒也都消散了。26 众人都很惊奇；连他自己也不明白，为什么彼拉多不在时，他就如此发怒；而彼拉多在场时，却说不出一句严厉的话。27 后来，或因神的感动，或因某个基督徒的建议，他命人脱去彼拉多那件里衣，心里对他的凶怒便立刻恢复如前。28 皇帝对此极其惊奇，有人就告诉他，那件里衣原属于主耶稣。29 皇帝于是命人将彼拉多关在监里，等候他召集智慧人商议，应当怎样处置。30 过了几天，就判彼拉多处以最羞辱的死刑。彼拉多听见，就用自己的刀自杀，以这样的死法结束了一生。31 凯撒得知彼拉多的死讯，说：“他连自己的手都不肯放过自己，确实死得极其羞辱。”32 于是，人将他绑在重物上，沉入台伯河。然而，那些住在他邪恶污秽身体里的邪恶污灵，都一同欢腾，在水中不断翻腾，又在空中兴起可怕的闪电、暴风、雷鸣和冰雹，使众人惊恐不已。33 罗马人便将他从台伯河中捞起，为羞辱他，将他运到维埃纳，沉入罗讷河。维埃纳仿佛就是“维亚·革亨那”，意为“地狱之路”，因为那时那里是受咒诅之地。34 但邪灵在那里，仍旧作同样的事。当地人受不了鬼魔如此侵扰，就将这带来灾害的器皿移走，送到洛萨尼亚境内埋葬。35 那里的人发现，上述灾害又临到自己，就将他迁走，沉入一个群山环绕的深坑。据一些人的说法，直到今日，那里仍有某些魔鬼作祟的迹象不断涌现。",
+      "current": "1 罗马皇帝凯撒提庇留患了重病，听说耶路撒冷有一位名叫耶稣的医生，只需一句话，就能医好一切疾病。他不知道犹太人和彼拉多已经将祂杀害，便吩咐一位名叫沃卢西安的朋友说：2 “你要尽快渡海前去，告诉我的臣仆和朋友彼拉多，将这位医生送到我这里，使我恢复从前的健康。”3 沃卢西安听了皇帝的命令，就立刻启程，奉命来到彼拉多那里。4 他将凯撒提庇留所托付的话告诉彼拉多，说：“你的主、罗马皇帝凯撒提庇留，听说这城里有一位医生，单凭祂的话就能医治疾病。他恳切请求你将这人送到他那里，医治他的病。”5 彼拉多听了，极其惧怕，因为知道自己曾因嫉妒，下令将祂处死。6 彼拉多便这样回答那使者，说：“这人是个罪犯，招引所有百姓跟从祂；因此，城中的智慧人召开会议，我就命人将祂钉在十字架上。”7 使者回到客店，遇见一个名叫维罗尼卡的妇人，她从前是耶稣的朋友。他问她：“妇人，这城里曾有一位医生，只用一句话就医好病人，犹太人为什么将祂杀害呢？”8 她就哭起来，说：“哦，我的主，我的神、我的主！彼拉多因嫉妒，将祂交出去，定了祂的罪，命人将祂钉在十字架上。”9 使者极其忧伤，说：“我不能办成主人差我来办的事，心里实在悲痛。”10 维罗尼卡对他说：“我的主四处传道的时候，我虽然极不情愿，却不能常在祂身边。我便盼望有人为我画一幅祂的像，好让我不能见祂的时候，至少能从画像中得些安慰。11 我拿着画布，要去找画师画像，路上遇见我的主；祂问我要往哪里去。12 我告诉祂出门的缘故，祂就向我要那块布，交还给我的时候，上面已经印着祂尊贵面容的形像。13 所以，你的主人若虔诚地瞻望祂的面容，就必立刻蒙恩，恢复健康。”14 使者问她：“这样的画像，可以用金银买到吗？”15 她对他说：“不能，惟有凭敬虔的诚心。因此，我愿与你一同起行，带着画像给凯撒看，然后再回来。”16 沃卢西安便与维罗尼卡来到罗马，对皇帝提庇留说：“你所切望见到的耶稣，已经被彼拉多和犹太人不义地处死；他们因嫉妒，将祂钉在十字架的木架上。17 不过，有一位妇人同我来了，带着耶稣本人的画像；你若虔诚地观看，就必立刻蒙恩，恢复健康。”18 凯撒便吩咐用丝绸铺路，将画像呈到自己面前。他一看见画像，就恢复了从前的健康。19 于是，本丢·彼拉多奉凯撒之命，被捕押送到罗马。20 凯撒听说彼拉多已到罗马，就向他大发烈怒，命人将他带来。21 彼拉多却将耶稣那件无缝的里衣一同带来，穿在身上，觐见皇帝。22 皇帝一看见他，就消了所有怒气，立刻起身迎接，竟无法对他说一句严厉的话。彼拉多不在场时，皇帝显得那么可怕、暴烈，如今到了他面前，却不知怎的温和起来。23 皇帝打发他离开以后，立刻又向他大发雷霆，高喊自己真是个无用的人，竟完全没有向他发出心中的怒气。24 他随即命人将彼拉多召回，起誓宣告他是该死的人，容他活在世上是一种耻辱。25 但皇帝一见到他，就立刻向他问安，心里所有的凶怒也都消散了。26 众人都很惊奇；连他自己也不明白，为什么彼拉多不在时，他就如此发怒；而彼拉多在场时，却说不出一句严厉的话。27 后来，或因神的感动，或因某个基督徒的建议，他命人脱去彼拉多那件里衣，心里对他的凶怒便立刻恢复如前。28 皇帝对此极其惊奇，有人就告诉他，那件里衣原属于主耶稣。29 皇帝于是命人将彼拉多关在监里，等候他召集智慧人商议，应当怎样处置。30 过了几天，就判彼拉多处以最羞辱的死刑。彼拉多听见，就用自己的刀自杀，以这样的死法结束了一生。31 凯撒得知彼拉多的死讯，说：“他连自己的手都不肯放过自己，确实死得极其羞辱。”32 于是，人将他绑在重物上，沉入台伯河。然而，那些住在他邪恶污秽身体里的邪恶污灵，都一同欢腾，在水中不断翻腾，又在空中兴起可怕的闪电、暴风、雷鸣和冰雹，使众人惊恐不已。33 罗马人便将他从台伯河中捞起，为羞辱他，将他运到维埃纳，沉入罗讷河。维埃纳仿佛就是“维亚·革亨那”，意为“地狱之路”，因为那时那里是受咒诅之地。34 但邪灵在那里，仍旧作同样的事。当地人受不了鬼魔如此侵扰，就将这带来灾害的器皿移走，送到洛萨尼亚境内埋葬。35 那里的人发现，上述灾害又临到自己，就将他迁走，沉入一个群山环绕的深坑。据一些人的说法，直到今日，那里仍有某些魔鬼作祟的迹象不断涌现。"
+    },
+    {
+      "book_id": "acts-of-paul",
+      "unit": "cMY7",
+      "kind": "body",
+      "reason": "临刑并投进有海豹的水池语境；Walker独立英译明确是她的last day。避免误成末世术语，保留本人施洗的指定内容。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0039",
+      "english": "34. Then they put in many beasts, while she stood, and stretched out her hands, and prayed. And when she had ended her prayer, she turned and saw a great tank full of water and said: “Now is it time that I should wash myself.” And she cast herself in, saying, “In the Name of Jesus Christ do I immerse myself on the last day.” And all the women saw it, and all the people wept, saying, “Do not cast yourself into the water,” so that even the governor wept that such great beauty should be devoured by seals. So, then, she cast herself into the water in the Name of Jesus Christ; and the seals, seeing the light of a flash of fire, floated dead on the top of the water. And there was around her a cloud of fire, so that neither did the beasts touch her, nor was she seen to be naked.",
+      "head": "34. 他们又放进许多野兽，特格拉却站着，伸手祷告。祷告完毕，她转身看见一座盛满水的大池，就说：“现在是我当洗净自己的时候了。”她便跳进去，说：“在这末后的日子，我奉耶稣基督的名给自己施洗。”所有妇女都看见，众人哭着喊：“不要跳进水里！”连省长也哭了，因这样美丽的人竟要被海豹吞吃。她就这样奉耶稣基督的名跳进水里；海豹看见火焰闪光，都死了，浮在水面。她周围有火云环绕，使野兽不能碰她，也使人看不见她赤身。",
+      "current": "34. 他们又放进许多野兽，特格拉却站着，伸手祷告。祷告完毕，她转身看见一座盛满水的大池，就说：“现在是我当洗净自己的时候了。”她便跳进去，说：“在我生命的最后一日，我奉耶稣基督的名给自己施洗。”所有妇女都看见，众人哭着喊：“不要跳进水里！”连省长也哭了，因这样美丽的人竟要被海豹吞吃。她就这样奉耶稣基督的名跳进水里；海豹看见火焰闪光，都死了，浮在水面。她周围有火云环绕，使野兽不能碰她，也使人看不见她赤身。"
+    },
+    {
+      "book_id": "acts-of-paul",
+      "unit": "cN1F",
+      "kind": "body",
+      "reason": "out of the lowest Hades修饰约拿祷告发出之处，非神所在之处；按约拿鱼腹处境及James上游完整句澄清施受与地点。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0031",
+      "english": "and after three days and three nights God heard the prayer of Jonah out of the lowest [part of] Hades, and no part of him was consumed, not even a hair nor an eyelash.",
+      "head": "三日三夜以后，神从阴间的最深处垂听了约拿的祷告，他身上没有一处被吞蚀，连一根头发、一根睫毛也没有。",
+      "current": "三日三夜以后，约拿从阴间的最深处祷告，神垂听了他，他身上没有一处被吞蚀，连一根头发、一根睫毛也没有。"
+    },
+    {
+      "book_id": "acts-of-peter",
+      "unit": "cN98",
+      "kind": "body",
+      "reason": "brought to nothing在求其不死而失势的同一句中，不是消灭其存在；Pick32独立编译也明确限制其作恶。以‘败落’保留挫败之意，不擅补改腿断三处。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0009",
+      "english": "hasten Your grace, O Lord, and let him fall from the height and be disabled; and let him not die, but be brought to nothing, and break his leg in three places.”",
+      "head": "主啊，求祢赶快施恩，使他从高处坠落，失去行动的能力；不要让他死，只要使他归于无有，使他的腿断成三处。”",
+      "current": "主啊，求祢赶快施恩，使他从高处坠落，失去行动的能力；不要让他死，只要使他败落，使他的腿断成三处。”"
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNCW",
+      "kind": "body",
+      "reason": "James23与独立Pick23均以编辑补句把七日接病卧；本书此前已言瘫痪七日，之后立即问丈夫。指定转录漏补句导致时间关系错置，依两版及上下文修正并注。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0005",
+      "english": "Now when she had arisen seven days, the city of the Ephesians was moved at the unexpected sight.",
+      "head": "她起来七日以后，以弗所全城因这意想不到的景象而震动。",
+      "current": "她原已卧病七日，如今起来了，以弗所全城因这意想不到的景象而震动。"
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNZH",
+      "kind": "body",
+      "reason": "擘饼、分给众人并本人领受的直接语境，communion在此是圣餐礼；Pick110作eucharist。团契单独成词容易误作一般信徒相交，改明确礼仪名而不添宗派教义。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0002",
+      "english": "And he broke the bread and gave to all of us, praying over each of the brothers, so that he might be worthy of the grace of the Lord and of the most holy communion.",
+      "head": "他擘开饼，分给我们众人，为每一个弟兄祷告，使他配得主的恩典和至圣的团契。",
+      "current": "他擘开饼，分给我们众人，为每一个弟兄祷告，使他配得主的恩典和至圣的圣餐。"
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNZZ",
+      "kind": "body",
+      "reason": "指定other为ether转录讹误；已实际核James原刊269页ether，Pick112亦ethereal，与下一air层区分。修复宇宙空间术语并加简注，不自造另一世界。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0006",
+      "english": "O God, Jesus, the Father of them that are above the heavens, the Lord of them that are in the heavens, the law of them that are in the other, the course of them that are in the air, the keeper of them that are on the earth, the fear of them that are under the earth, the grace of them that are Your own: receive the soul of Your John also, which it may so be is counted worthy by You.”",
+      "head": "神啊，耶稣啊，你是在诸天之上者的父，是诸天之中者的主，是在另一界中者的律法，是空中诸有的运行之道，是地上众生的守护者，是地下诸有的敬畏，是属你之人的恩典。也求你接纳你的约翰的灵魂，愿你看他为配得。”",
+      "current": "神啊，耶稣啊，你是在诸天之上者的父，是诸天之中者的主，是以太界中诸有的律法，是空中诸有的运行之道，是地上众生的守护者，是地下诸有的敬畏，是属你之人的恩典。也求你接纳你的约翰的灵魂，愿你看他为配得。”"
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNCW",
+      "kind": "notes",
+      "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "23章she had arisen seven days时间表述与紧邻叙事不易协调，按底本保留起来七日以后，未擅改为卧病七日后起来。"
+      ],
+      "current": [
+        "23章指定英文把“起来”直接接“七日”，疑遗漏编者补句。James1924与Pick1909均补出女子卧病七日；与前文病况及紧接询问丈夫的叙事一致。译文按此修正，不再译作起来七日以后。"
+      ]
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNGC",
+      "kind": "notes",
+      "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "39章bitter promise直译苦涩的应许不合海水比喻，按上下文取海水的苦咸本性，原词可能有传抄或译文问题，须版本核实。"
+      ],
+      "current": [
+        "39章指定英文bitter promise为有问题的传本措辞。James1924原译标疑并校为element，同时说明抄本为promise；Pick1909作海中苦盐。按海水使河泉变咸的比喻，保留现译“苦咸的本性”，不译为应许。"
+      ]
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNPH",
+      "kind": "notes",
+      "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "第5段英文“为神受辱却[不]羞耻”出现在负面行为清单中，与前后相反；依明确语境删去方括号内疑误增的not，译为“反倒以此为耻”，待版本复核。"
+      ],
+      "current": [
+        "69章第5段英文not在方括号内；James1924也保留此编辑标记，Pick1909直接译为受辱后以此为耻，与负面行为清单一致。因此保留现译，不再将这一处仅列为无版本依据的语境猜改。"
+      ]
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNTU",
+      "kind": "notes",
+      "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "第5段英文“他们的馨香，你将有分”处在命令撒但从一切圣洁事物中退出的清单内，疑漏否定词；依明确上下文修为“你不得在其中有分”，待版本复核。"
+      ],
+      "current": [
+        "84章第5段指定英文漏了否定校补。已核James1924原刊249页图像，正文明确补<not>；因此保留“你不得在其中有分”。Pick1909在此没有否定，属不同校勘处理，未悄悄合并两本。"
+      ]
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNZH",
+      "kind": "notes",
+      "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "本段的“至圣的团契”（most holy communion）处于擘饼领受的礼仪语境，兼有圣餐中的相交之意。"
+      ],
+      "current": [
+        "本段communion处于擘饼、分领的礼仪语境，译作“圣餐”；Pick1909对应作eucharist。"
+      ]
+    },
+    {
+      "book_id": "acts-of-john",
+      "unit": "cNZZ",
+      "kind": "notes",
+      "reason": "补充实际版本证据，清除已解决待核项，保持校补/传本差异透明。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "末段英文“在另一界中”（in the other）没有明示所指，保留其含糊性，未擅自指定某一层天或领域。"
+      ],
+      "current": [
+        "112章第5段指定英文other为ether转录讹误；James1924原刊269页与Pick1909均指以太。以太界是古代宇宙观中高处的清明天域，与下文空气之域相区别。"
+      ]
+    },
+    {
+      "book_id": "acts-of-andrew",
+      "unit": "cP33",
+      "kind": "body",
+      "reason": "James原刊354页实际图像作Nay，Pick10同为No；下一章明确说话非徒然。指定Indeed反转回答且现译漏答语，按两版与上下文修正。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0009",
+      "english": "Is there in you anyone, Stratocles, that cannot endure my saying these things? Who is it? Answer: do I talk in vain? Have I spoken in vain? Indeed, says the man in you, Stratocles, who now weeps again.”",
+      "head": "斯特托高斯，你里面是否有人不能容忍我说这些话？他是谁？回答我：我是在徒然说话吗？我所说的都徒然吗？斯特托高斯，你里面那人确实在说话，如今他又哭了。”",
+      "current": "斯特托高斯，你里面是否有人不能容忍我说这些话？他是谁？回答我：我是在徒然说话吗？我所说的都徒然吗？斯特托高斯，你里面那人回答：‘不是。’如今他又哭了。”"
+    },
+    {
+      "book_id": "acts-of-andrew",
+      "unit": "cP4V",
+      "kind": "body",
+      "reason": "James原刊360页为knowledge that hath many gods，知识/学说以多神为内容，并非众神拥有知识；Pick对应明确doctrine of polytheism。指定改写倒置语义，修清并注。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "block": "p0018",
+      "english": "10. Well done, O Cross, that have bound the movement of the world! Well done, O shape of understanding, that have shaped the shapeless! Well done, O unseen punishment, that severely punishes the substance of the knowledge that many gods have and drives out from among mankind him that devised it! Well done, you that clothed yourself with the Lord, and bore the thief as a fruit, and called the apostle to conversion, and did not refuse to accept us!",
+      "head": "10. 十字架，你约束了世界的运行，何等美好！悟性的形体，你使无形的有了形状，何等美好！不可见的刑罚，你严惩众神所拥有的知识的本质，又将那发明它的从人类中赶出去，何等美好！你以主为衣，结出强盗这果子，呼召使徒回转，又不拒绝接纳我们，何等美好！",
+      "current": "10. 十字架，你约束了世界的运行，何等美好！悟性的形体，你使无形的有了形状，何等美好！不可见的刑罚，你严惩多神之说的本质，又将那发明它的从人类中赶出去，何等美好！你以主为衣，结出强盗这果子，呼召使徒回转，又不拒绝接纳我们，何等美好！"
+    },
+    {
+      "book_id": "acts-of-andrew",
+      "unit": "cP33",
+      "kind": "notes",
+      "reason": "补足实际版本证据；17章收回仅据现代大写即认定指代的过强结论，保留真正待核。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "末句英文“Indeed, says the man in you”结构含混，译为里面之人发声，未依中文参考文本补作“不是”。"
+      ],
+      "current": [
+        "10章末指定英文Indeed与原刊不合。James1924第354页作否定回答，Pick1909也作否定；紧接第11章说这些话并非徒然。译文据此修为“不是”，不再只译作里面之人发声。"
+      ]
+    },
+    {
+      "book_id": "acts-of-andrew",
+      "unit": "cP4V",
+      "kind": "notes",
+      "reason": "补足实际版本证据；17章收回仅据现代大写即认定指代的过强结论，保留真正待核。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "第18章中段及末尾在英文底本以省略号断开，末句残缺，未从其他版本补写。",
+        "殉道记第6段末尾的Him、He，按前文敌对者及同段“免得睡着遭杀害”的语境，译为“他”，不作指神的“祂”。",
+        "殉道记第10段“众神所拥有的知识的本质”原文措辞晦涩，按字面保留，未擅改为另一种神学解释。",
+        "殉道记第22段“蒙了怜悯，为他所爱”中的him，英文指代不明；译文保留，未强定为神或同胞。"
+      ],
+      "current": [
+        "第18章中段及末尾在英文底本以省略号断开，末句残缺，未从其他版本补写。",
+        "殉道记第6段末尾Him、He，James1924对应原文均作小写him、he，承接前文敌对者。保留“他”，不作指神的“祂”。",
+        "殉道记第10段指定英文把知识与众神的关系倒置。James1924第360页意为以多神为内容的知识，Pick1909亦明确为多神之说；译文据此修正，非“众神所拥有的知识”。",
+        "殉道记第22段“蒙了怜悯，为他所爱”中的him，英文指代不明；译文保留，未强定为神或同胞。"
+      ]
+    },
+    {
+      "book_id": "acts-of-andrew",
+      "unit": "cP4M",
+      "kind": "notes",
+      "reason": "补足实际版本证据；17章收回仅据现代大写即认定指代的过强结论，保留真正待核。",
+      "assessment": "核读英文、HEAD与现稿，未见误改；版本证据见evidence。",
+      "head": [
+        "第5—6段英文以大写代词指神，小写指仇敌，中文据此明确指代；中文参考译本对“他不认识他”另作不认识魔鬼，未据该译本改动英文。"
+      ],
+      "current": [
+        "17章第4—6段代词链含混。目前正文沿指定英文大写代词译作神、小写译作仇敌；但James1924上游并没有这些大写提示，Pick1909的对应代词也不明确。故大写本身不足以排除“人未认出魔鬼”等理解，尚待希腊校勘本核实，不据其他译本擅改正文。"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "reference": "Walker ANF8",
+      "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+      "actual_read": "特格拉34池水前后，明确my last day；支持临刑者生命最后一日，不是末世。"
+    },
+    {
+      "reference": "James1924",
+      "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+      "actual_read": "保罗哥林多书信3:29–31，约拿祷告出自阴间而非神位在阴间；John39 element(MS.promise)、69 [not]编辑标记。"
+    },
+    {
+      "reference": "Pick1909",
+      "url": "https://archive.org/details/apocryphalactso00pick",
+      "actual_read": "Peter32 p111求不死却制止其加害，败落不抹杀存在；John23七日病卧补文、39苦盐、69受辱而羞耻、84无否定版本、110 eucharist、112 ethereal均实读OCR上下文，未假称见希腊抄本。"
+    },
+    {
+      "reference": "James1924原刊扫描",
+      "cache": "bible/translation/.cache/cross-dydi-b-acts/james-clean.pdf",
+      "sha256": "3698c2c6df57bebb2c9107d0f1e88483ce83f475784ccf958faacd8ad46880c5",
+      "actual_read": "PDF第278页/印页249图像：sweet savour wherein thou wilt <not> share；PDF第298页/印页269图像：law of them that are in the ether。两处实际看图，支持否定校补及other→ether修复。"
+    },
+    {
+      "reference": "Lugossy2014转引Tischendorf",
+      "url": "https://acta.bibl.u-szeged.hu/67613/1/vallasi_kulturakutatas_konyvei_014.pdf",
+      "actual_read": "缓存OCR pp38–39皇帝遣离彼拉多后se miserum clamitans反身自责；不作独立原刊图像证明。"
+    },
+    {
+      "reference": "James1924原刊扫描与Pick1909",
+      "actual_read": "实际看/tmp/james-andrew-384.png印页354，Nay清楚，下文11章未徒然说；/tmp/james-andrew-390.png印页360，knowledge that hath many gods清楚。Pick10 No与殉道doctrine of polytheism对应，支持两处源词修正。",
+      "url": "https://archive.org/details/JAMESApocryphalNewTestament1924"
+    }
+  ],
+  "key_note_assessment": [
+    "Mors自责注与拉丁反身结构相容；维埃纳/罗讷河不应作奥地利。",
+    "John84保留James校补与Pick无否定差异的说明准确；不是两英译同意否定。",
+    "John69方括号应结合编辑删除意义，现注没有冒称古抄本一致；负面清单与Pick确支持羞耻。",
+    "Paul cN1F p0053核英文全块：if I had known…would have done it为承接放走的反事实；旧注无误。",
+    "Peter cN79 p0011核英文及Pick23 Petrus/paratus脚注，凡事预备有据。",
+    "Andrew17代词注已收回只凭现代大小写认定的过强结论，保留待希腊校勘，恰当。"
+  ],
+  "findings": [],
+  "formal_files_modified": false,
+  "conclusion": "069—073全部9处正文改动和9条注释事件均完成此次针对性复核，未见应回退误改；不声称全五卷重审。"
+}

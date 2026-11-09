@@ -87,9 +87,24 @@
       "source": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=7",
       "location": "多比传 第7章",
       "use": "FHL中文辅助核对，实际匹配范围和版本差异见 reference-review/fhl-dydi-d.json；英文仍为底本。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=21&chapter=7",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://bible.usccb.org/bible/tobit/7",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/19-tobit-nets.pdf",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
     }
   ],
   "notes": [
-    "译者待核实问题：七17 she received the tears of her daughter 措辞不寻常，译文保留母亲与女儿共同承受泪水的表达，未按中文参考改成“拭去眼泪”。"
+    "版本说明：7:17“承受女儿的泪水”的措辞在NETS所译希腊短本亦见；希腊长本和思高、NABRE作拭泪。保留指定英文的短本措辞。"
   ]
 }

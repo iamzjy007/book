@@ -1,0 +1,1046 @@
+{
+  "worker": "dydi_c",
+  "date": "2026-11-09",
+  "method": "逐项资源研究及有实际上下文的重点审校；不以书目或抓取冒称已读，更不冒称全文。英文指定底本控制，确切录入错据可核对旧版修正并简注。",
+  "books": [
+    {
+      "book_id": "testaments-of-the-twelve-patriarchs",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/patriarchs-charles.html",
+          "edition": "R. H. Charles，APOT卷2，Oxford Clarendon，1913，希腊文本校勘英译的网页转录",
+          "actual_read": "流便4上下文、迦得3—4、亚设5、犹大19；非全书",
+          "independence": "旧版英译，比对本项目现代化英文的近源，不算独立古抄本证据"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/patriarchs.html",
+          "edition": "Ante-Nicene Fathers，Roberts/Donaldson编，19世纪英译；本站未明确个别译者",
+          "actual_read": "对应迦得3—4、亚设5及前后语境",
+          "independence": "与Charles不同英译；两者同属希腊传统，不等于独立语言传统"
+        },
+        {
+          "url": "https://www.earlyjewishwritings.com/testtwelve.html",
+          "edition": "Peter Kirby资源页，含Hollander、VanderKam等学术著作摘述",
+          "actual_read": "关于犹太底层、基督教编订和昆兰利未/拿弗他利材料非现行十二遗训原稿的争论；现代著作仅书目及摘述，未读其全文"
+        },
+        {
+          "url": "https://www.st-andrews.ac.uk/divinity/rt/otp/abstracts/testoftwelve/",
+          "actual_read": "HTTP404，未能读取大学课程摘要"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "c9XE",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004"
+          ],
+          "finding": "近源Charles明确suffer not，与现有受苦修正吻合；维持既有原文说明。"
+        },
+        {
+          "unit_id": "cAK9",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004"
+          ],
+          "finding": "两英译均把厌恶、不给称赞、不爱指向行善的他人；接末句约瑟明确。现现代化英文himself及大写Him是代词损坏，修正。"
+        },
+        {
+          "unit_id": "cANN",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "finding": "两旧译均有eternal/everlasting life awaiteth death。保留原译，不据中文参考倒转为拒绝死亡；已核对此反常句的上下对偶。"
+        },
+        {
+          "unit_id": "cA8Y",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "finding": "Charles 19:2条件关系支持原译若不是悔改谦卑及父祷告；保持。"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cAK9",
+          "block_id": "p0003",
+          "before": "无论人做什么，怀恨的人都憎恶自己；即使有人遵行主的律法，他也不赞美主；即使有人敬畏主，喜爱公义，他也不爱主。",
+          "after": "无论一个人做什么，怀恨的人都厌恶他；即使那人遵行主的律法，怀恨的人也不称赞他；即使那人敬畏主、喜爱公义，怀恨的人也不爱他。",
+          "reason": "Charles和ANF的宾语him均为被仇恨的人，下句约瑟例证印证，不是憎恶自己或不赞美神。 根代理交叉复核后，进一步明示那人与怀恨者，避免两人主语混淆。",
+          "replace_note": [
+            "迦得第三章2节底本为“the hater abominates himself”，并以大写Him指称随后不赞美、不爱的对象；此处依底本保留。通常语境也可理解为怀恨者厌恶、拒绝称许那行善的人，代词待核实。",
+            "原文修正说明（迦得3:2）：本版英文himself及随后大写Him使代词关系错乱；Charles 1913及《尼西亚前教父》旧译均指怀恨者厌恶、不称赞、不爱那行善的人，与下节约瑟的例证相合，译文据此理顺。"
+          ]
+        }
+      ],
+      "remaining": "本轮为重点审校，尚未逐块完成全书多译本核读。",
+      "validation": {
+        "c9XE": [
+          "complete",
+          null
+        ],
+        "cA8Y": [
+          "complete",
+          null
+        ],
+        "cAK9": [
+          "complete",
+          null
+        ],
+        "cANN": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "jubilees",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/apocryphapseudep02charuoft",
+          "edition": "R. H. Charles，APOT卷2，Oxford Clarendon Press，1913，pp.1—82，主要据埃塞俄比亚文本的批判英译",
+          "actual_read": "导言/序言文本范围；2:18；原刊印刷18—19页（扫描n37—38）4:15—26；印刷49页（n68）23:24—32。已实际查看扫描，非仅OCR。",
+          "image_urls": [
+            "https://archive.org/download/apocryphapseudep02charuoft/page/n37.jpg",
+            "https://archive.org/download/apocryphapseudep02charuoft/page/n38.jpg",
+            "https://archive.org/download/apocryphapseudep02charuoft/page/n68.jpg"
+          ]
+        },
+        {
+          "url": "https://journals.sub.uni-hamburg.de/aethiopica/article/download/1637/1479",
+          "edition": "Michael Knibb，Aethiopica 23(2020)，278—281，2021在线；评VanderKam 2018 Hermeneia《Jubilees》两卷，Fortress Press",
+          "actual_read": "已读书评全文，现代注释本自身只确认书目及文本方法，未读其全译。书评指出1989 CSCO以27抄本为基础、15全校；2018译文含希伯来残片调整，不能视为纯埃塞俄比亚单一底本。",
+          "tradition": "原作希伯来；完整传本仅古典埃塞俄比亚语，另有希伯来残片、拉丁部分及希腊/叙利亚引文。埃塞俄比亚教会中的重要地位与校勘版性质分别说明。"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cAYG",
+          "blocks": [
+            "p0019"
+          ],
+          "finding": "2:18 Charles bidden 支持原有hidden录入错修正；不再改正文。"
+        },
+        {
+          "unit_id": "cAYY",
+          "blocks": [
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026"
+          ],
+          "finding": "扫描18页4:16确为第五周/该禧年第四年；19页4:24确无not，原译及两项待核说明保留，不能按另一译本直接改。"
+        },
+        {
+          "unit_id": "cB33",
+          "blocks": [
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027"
+          ],
+          "finding": "扫描49页23:25确作three weeks，正文未标years且注释未解；保留三周及原疑注，不能仅因本书常见七年期而武断换21岁。"
+        }
+      ],
+      "changes": [],
+      "remaining": "重点疑点已查；全书尚未多译本逐块校读。4:16计年、4:24否定及23:25周单位仍待现代校勘本文本/抄本层面检验，1913原刊不足以裁定原语言异读。",
+      "validation": {
+        "cB33": [
+          "complete",
+          null
+        ],
+        "cAYG": [
+          "complete",
+          null
+        ],
+        "cAYY": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "1-enoch",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/apocryphapseudep02charuoft",
+          "edition": "R. H. Charles，APOT卷2，1913《以诺书》，埃塞俄比亚译本兼希腊见证及编辑校改",
+          "actual_read": "60章整段对应原刊224—225页、71:13—17及脚注对应237页；此处读可搜索原刊OCR正文与注释，不称已独立核对埃塞俄比亚抄本。"
+        },
+        {
+          "url": "https://api.pageplace.de/preview/DT0400.9780567508621_A25052432/preview-9780567508621_A25052432.pdf",
+          "edition": "Leslie W. Walck，The Son of Man in the Parables of Enoch and in Matthew，T&T Clark，2011",
+          "actual_read": "出版页、Introduction pp.4—6，特别71:14第三人称是Charles编辑校改及现代解释分歧；仅官方节选，不是全书。",
+          "independence": "现代学术讨论，非新的完整英译；区分其论证与原刊校改。"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cBR4",
+          "blocks": [
+            "p0002",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0024",
+            "p0025"
+          ],
+          "finding": "60章以诺第五百年/我的祖父身份张力在旧文本也在；60:24 Charles末尾有缺文省略号且feed未完，项目未留省略号。现译进食未能确定及物义，尚无足够证据选成为食物/喂养对象，留待核，不补整段。"
+        },
+        {
+          "unit_id": "cBTH",
+          "blocks": [
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017"
+          ],
+          "finding": "71:14—16第三人称与Charles正文一致，但Charles脚注明示据设想缺文改第二人称；Walck 2011 pp.5—6说明现代学者不接受无抄本根据的此项校改。用户指定英文仍控制译文，增补来源层级说明，不暗换第二人称。"
+        }
+      ],
+      "changes": [
+        {
+          "kind": "note",
+          "unit_id": "cBTH",
+          "before": "71:2 hyacinth在光泽描写中按宝石义译紫蓝宝石，不取参考本水草。71:14—16底本This is the Son of Man及He/His为第三人称，不改参考本对以诺第二人称称呼。",
+          "after": "71:2 hyacinth在光泽描写中按宝石义译紫蓝宝石，不取参考本水草。71:14—16底本This is the Son of Man及He/His为第三人称，不改参考本对以诺第二人称称呼。 跨译本说明：Charles 1913原刊在71:14—16的脚注明说，第三人称是他对第二人称文本所作的校改；现代研究（Walck，2011，5—6页）指出此校改没有现存抄本支持。本译保留用户指定英文的第三人称，不能把它当作各古传本一致的读法。",
+          "reason": "原疑注只列中英不同，未区分英文编辑校改与抄本证据；实际读旧版脚注和现代研究后补明。"
+        }
+      ],
+      "remaining": "只核60及71高风险段落；全书尚未逐块多译本核读。60:24残句、71章与现代译本的关系可进一步据完整校勘版讨论。",
+      "validation": {
+        "cBTH": [
+          "complete",
+          null
+        ],
+        "cBR4": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "2-enoch",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/apocryphapseudep02charuoft",
+          "publication": "N. Forbes 与 R. H. Charles，APOT II，1913，425—469页",
+          "basis": "斯拉夫文传本；原刊并列 A/B 及校注",
+          "read_extent": "核47、59、62章对应正文与59、62章校注；本轮未通读全书"
+        },
+        {
+          "url": "https://www.marquette.edu/maqom/new123.pdf",
+          "publication": "Orlov/Boccaccini编 New Perspectives on 2 Enoch，Brill，2012",
+          "basis": "现代斯拉夫传本、科普特残片研究论文集",
+          "read_extent": "Macaskill 85—86页传本表与分类；Schiffman 225—226页献牲、绑四足及宰牲讨论；未把论文集视作完整新英译"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cCCU",
+          "blocks": [
+            "p0007",
+            "p0008"
+          ],
+          "finding": "47:6旧刊同有indissoluble winter，不能据中文异译结而擅改英文。中文难解易误为难以理解，改无法消解；47:7第一人称及代词歧义保留。"
+        },
+        {
+          "unit_id": "cCFE",
+          "blocks": [
+            "p0005",
+            "p0006"
+          ],
+          "finding": "59章旧刊确有without wound，校注联系禁绞杀；现代论文讨论献牲绑四足与犹太律法关系，不足以把wound改为bound。保留不使兽受创便杀死它，不把争议解释混入正文。"
+        },
+        {
+          "unit_id": "cCG3",
+          "blocks": [
+            "p0003",
+            "p0004"
+          ],
+          "finding": "62:3 before the time旧刊亦然，旧校注明说原可预期还有or after the time；因此不擅自把之前改为之后。"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cCCU",
+          "block_id": "p0007",
+          "before": "那难解的寒冬",
+          "after": "那无法消解的寒冬",
+          "reason": "indissoluble是不能消解，并非难以理解；仍保留指定英文winter而不混用其他读法。",
+          "replace_note": [
+            "47:6 英文为“难解的寒冬”，中文参考为不可解开的结，版本有别，按英文保留。47:7 突然转入第一人称，且 it／their 所指不够明确，保留原文形式。",
+            "47:6 英文indissoluble winter译为“无法消解的寒冬”；1913原刊同此读法，中文参考作“不可解开的结”，本译不据异文擅改。47:7 突然转入第一人称，且 it／their 所指不够明确，保留原文形式。"
+          ]
+        }
+      ],
+      "remaining": "本轮为重点审校，尚未逐块完成全书多译本核读。",
+      "validation": {
+        "cCFE": [
+          "complete",
+          null
+        ],
+        "cCCU": [
+          "complete",
+          null
+        ],
+        "cCG3": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "3-enoch",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "P. Alexander，《3 Enoch》，Charlesworth编OTP I，1983，223—315页；雅典大学课程公开PDF",
+          "basis": "希伯来文传本及校注，比较Odeberg 1928等；不视为单一稳定版本",
+          "read_extent": "实际核18:5—7及注k/l、25:1—4及数字异文注；未通读全卷"
+        },
+        {
+          "url": "https://www.margins.bible/3-enoch/chapter-25/",
+          "publication": "Odeberg 1928英译的现代电子转录",
+          "basis": "出版元数据可核，但本次未取得原刊扫描，不将转录冒作扫描",
+          "read_extent": "25:1—4；搜索所得正文与现代校注交叉核数字"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cCNM",
+          "blocks": [
+            "p0006",
+            "p0007",
+            "p0008"
+          ],
+          "finding": "18:6掌管三指增添支配关系，原英语未有。现代校注区分A/B三指表述与Mus指尖承载天的读法；删除掌管，不合并异文进正文。"
+        },
+        {
+          "unit_id": "cCRC",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "finding": "25:2的8466、日子及各边数字并非简单算术录入错：Alexander校注列8466为B读法，8766为A，hours亦属校改。保留本底数字，不强行统一成太阳年8766小时。"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cCNM",
+          "block_id": "p0007",
+          "before": "在至高之天亚拉波高处掌管三指的大君",
+          "after": "在至高之天亚拉波高处的三指大君",
+          "reason": "删除原句未有的掌管关系；保留难解称谓，具体异读在注中交代。",
+          "replace_note": [
+            "18:6“the great prince of three fingers in the height”语义含混，暂按字面译作“在高处掌管三指的大君”；参考本解释为用指尖铺设天上穹苍，英文未明言，未据以增补。",
+            "18:6“三指大君”的称谓含义未明。Alexander 1983校注指出，A、B传本为三指表述，Mus本则说亚拉波铺在他的指尖之上；本译保留指定英文的前一种形式，不把后一读法补入正文。"
+          ]
+        }
+      ],
+      "remaining": "本轮为重点审校，尚未逐块完成全书多译本核读。",
+      "validation": {
+        "cCRC": [
+          "complete",
+          null
+        ],
+        "cCNM": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "book-of-giants",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://edoc.ub.uni-muenchen.de/36601/1/Marro_Inaki.pdf",
+          "publication": "Iñaki Marro Sánchez, The Book of Giants: A Critical Edition，LMU博士论文，扉页2026，答辩2025-02-13",
+          "basis": "昆兰亚兰文残片校勘；100—101页引Puech DJD XXXI(2001)法译",
+          "read_extent": "扉页目录、71—72页1Q23概述、96及100—101/135页4Q530吉尔伽美什/胡巴巴与审判；未通读论文"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cCWW",
+          "blocks": [
+            "p0002"
+          ],
+          "finding": "LSV是编排重构本，不把其章号当古卷章号；现译已说明重构。"
+        },
+        {
+          "unit_id": "cCX5",
+          "blocks": [
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "finding": "1Q23现代研究按分残片定位，不能仅凭总编号把本章顺序等同原卷。残缺号及补文标记保留。"
+        },
+        {
+          "unit_id": "cCZD",
+          "blocks": [
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "finding": "4Q530新校读灵魂的兆头，补胡巴巴、被判者咒诅首领；LSV作死亡、首领咒诅掌权者。涉及残损字形复原及主词判断，不能合并改写。吉尔伽美什对奥希亚说话关系现译无颠倒。"
+        }
+      ],
+      "changes": [],
+      "remaining": "仅核选定残片及重构性质，尚需逐片与DJD图版/完整校勘核对。无足够证据改正文。",
+      "validation": {
+        "cCWW": [
+          "complete",
+          null
+        ],
+        "cCZD": [
+          "complete",
+          null
+        ],
+        "cCX5": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "life-of-adam-and-eve",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/apocryphapseudep02charuoft",
+          "publication": "L. S. A. Wells，The Books of Adam and Eve，APOT II，1913",
+          "basis": "并列希腊Apocalypsis Mosis与拉丁Vita，须区别版本",
+          "read_extent": "希腊24章及24:3注：该节仅A有，注作gloss；当前书属希腊支"
+        },
+        {
+          "url": "https://www2.iath.virginia.edu/anderson/vita/about.vita.html",
+          "publication": "Gary Anderson/Michael Stone电子版项目，1995起",
+          "basis": "多语种亚当文献比较",
+          "read_extent": "只检得书目/项目引文，访问失败；未作正文校对证据"
+        },
+        {
+          "url": "https://indaweb.com/oil/Bible/apocrypha/Apocalypse.of.Moses.pdf",
+          "publication": "标称Gary A. Anderson希腊版英译的镜像，发布日期未核",
+          "basis": "据页面索引称Denis希腊本",
+          "read_extent": "仅搜索摘要含24:3，PDF返回403；未以此替代完整学术核读"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cD67",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "finding": "24:3 grow fat / come to no end为1913旧刊确有，并非现英文误加肥壮；原刊注该节仅A有。不凭别种语言本删节。straightened原刊为straitened，当前受困已正确。保留现译及原有疑义说明。"
+        }
+      ],
+      "changes": [],
+      "remaining": "完成希腊24章重点对照；现代Anderson全文尚不可读，Tromp等新版未取得正文；未完成全卷多译本审校。",
+      "validation": {
+        "cD67": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "book-of-creation",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://iapsop.com/ssoc/1893__westcott___sepher_yetzirah.pdf",
+          "publication": "W. Wynn Westcott，Sepher Yetzirah，1893第二版",
+          "basis": "希伯来文及Rittangelius 1642拉丁本对读；作者神秘学诠释需与现代批判版区别",
+          "read_extent": "序言与第1章；实际查看PDF第15页正文及35页注12扫描"
+        },
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/sefer-yesira-9783161587955/",
+          "publication": "A. Peter Hayman，Sefer Yesira: Edition, Translation and Text-Critical Commentary，2004；2020电子重印",
+          "basis": "三种早期修订本及传本校勘",
+          "read_extent": "仅出版方书目及范围说明，未得其正文；不冒称已对读现代校勘本"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cDB5",
+          "blocks": [
+            "p0005",
+            "p0009"
+          ],
+          "finding": "1:4旧刊为replace Him...upon his throne，注12同释归位；指定英语pass from Him与紧邻措辞相接处失真，非另一可靠传本已证异读。按实看原刊纠正并注。1:8约束游离心思与原刊一致，不将两节混为一句。"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cDB5",
+          "block_id": "p0005",
+          "before": "然后从坐在宝座上、塑造它的那一位面前离开",
+          "after": "使那塑造它的主归回祂的宝座",
+          "reason": "1893第二版第1章4节原刊实际为replace Him...upon his throne，注12亦以归位解释；pass from Him不应译成离开神。",
+          "note": "原文修正说明：1:4指定英文作“pass from Him...”，1893年Westcott第二版原刊作“replace Him...upon his throne”，并有相应注释；据原刊修为“使那塑造它的主归回祂的宝座”，不按讹句译为离开祂。"
+        },
+        {
+          "kind": "note",
+          "unit_id": "cDB5",
+          "before": "塞法林（Sepharim）和塞菲罗特（Sephiroth）是不同术语，照英文分别音译；前者在本句指数、字母、声音，后者为本书十个奥秘数或根本范畴。希伯来字母以底本拉丁转写保留，便于核对排列。1:4 pass from Him含义存疑，按字面译从祂面前离开，未改写为别种修习指示。",
+          "after": "塞法林（Sepharim）和塞菲罗特（Sephiroth）是不同术语，照英文分别音译；前者在本句指数、字母、声音，后者为本书十个奥秘数或根本范畴。希伯来字母以底本拉丁转写保留，便于核对排列。1:4据Westcott 1893原刊校正，见原文修正说明。",
+          "reason": "同步旧待核注，避免仍声称保留从祂面前离开。"
+        }
+      ],
+      "remaining": "本轮为重点审校，尚未逐块完成全书多译本核读。",
+      "validation": {
+        "cDB5": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "testament-of-abraham",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://gospelstudies.org.uk/earlychurch/pdf/e-books/box_g-h/testament-of-abraham_box.pdf",
+          "publication": "G. H. Box，The Testament of Abraham，1927；S. Gaselee译以撒/雅各附录",
+          "basis": "亚伯拉罕希腊长短本；附录科普特Bohairic本",
+          "read_extent": "卷首版本说明及下列指定段落，未通读全书"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cDG8",
+          "blocks": [
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014"
+          ],
+          "finding": "长本17章末与18章起连读：Box正文及31页注将indifference of death释为惊骇造成身体衰弱，不是对死亡漠然。现译死一般昏沉、心神衰竭可保留。不可把长本七千仆婢改成短本的较简叙述。"
+        }
+      ],
+      "changes": [],
+      "remaining": "已重点对照长本17—18的昏沉句及死亡形貌；现代Sanders 1983资源已取得但本卷相应正文尚未核读，不能计为现代实审。全卷未完成。",
+      "validation": {
+        "cDG8": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "testament-of-isaac",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://gospelstudies.org.uk/earlychurch/pdf/e-books/box_g-h/testament-of-abraham_box.pdf",
+          "publication": "G. H. Box，The Testament of Abraham，1927；S. Gaselee译以撒/雅各附录",
+          "basis": "亚伯拉罕希腊长短本；附录科普特Bohairic本",
+          "read_extent": "卷首版本说明及下列指定段落，未通读全书"
+        },
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "W. F. Stinespring，Testament of Isaac，OTP I，1983，903—911页",
+          "basis": "阿拉伯本为主，辅科普特/埃塞俄比亚本",
+          "read_extent": "版本介绍及4章相关谱系/降生段"
+        },
+        {
+          "url": "https://realityroars.com/theology/writings/ot-apocrypha/ota-testament-of-isaac.html",
+          "publication": "标为K. H. Kuhn萨希德科普特英译；原刊JTS n.s.18(1967)325—336，后收Sparks 1984；本页为非出版方镜像",
+          "basis": "萨希德科普特本；与Bohairic/阿拉伯本不混合",
+          "read_extent": "署名及第4章完整相关上下文，原刊排印未取得"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cDJ3",
+          "blocks": [
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018",
+            "p0019",
+            "p0020"
+          ],
+          "finding": "Kuhn镜像确有四十二代及传道三十年，不能擅改成三十岁开始传道。Bohairic旧译对应处为十二代且无相同长段；阿拉伯系介绍与此亦不同。罗得称弟兄在旧译也存在，不按创世记把关系强行修正。"
+        }
+      ],
+      "changes": [],
+      "remaining": "核第4章高风险数字、亲属称谓及预言段。Kuhn原刊页图与其余章节尚待进一步核读，保留版本差异，正文不改。",
+      "validation": {
+        "cDJ3": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "testament-of-jacob",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://gospelstudies.org.uk/earlychurch/pdf/e-books/box_g-h/testament-of-abraham_box.pdf",
+          "publication": "G. H. Box，The Testament of Abraham，1927；S. Gaselee译以撒/雅各附录",
+          "basis": "亚伯拉罕希腊长短本；附录科普特Bohairic本",
+          "read_extent": "卷首版本说明及下列指定段落，未通读全书"
+        },
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "W. F. Stinespring，Testament of Jacob，OTP I，1983，913—918页",
+          "basis": "阿拉伯本英译，与科普特Bohairic对照",
+          "read_extent": "4章全段及箭句上下文、版本介绍"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cDN7",
+          "blocks": [
+            "p0003",
+            "p0013",
+            "p0014",
+            "p0015",
+            "p0016",
+            "p0017",
+            "p0018"
+          ],
+          "finding": "4:2 OTP确为you have found grace；不能因创世记为我蒙恩而调人称。4章末OTP确为arrow，并在Amorites旁有问号；Gaselee本则作夺取亚摩利人，非同一读法。现译箭按指定底本保留，不直接换作地业。左右手顺序及交叉动作均无颠倒。"
+        }
+      ],
+      "changes": [],
+      "remaining": "本轮重点核第4章；其余章未逐块跨译本核读。无正文修改。",
+      "validation": {
+        "cDN7": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "ladder-of-jacob",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.ma.huji.ac.il/~kazhdan/Shneider/apocr2010/Kugel%2C%20James.%20The%20Ladder%20of%20Jacob%2C%20HTR%2088%2C2%20%281995%29%2C%20209-227.pdf",
+          "publication": "James Kugel，The Ladder of Jacob，HTR 88.2(1995)209—227；希伯来大学公开论文",
+          "basis": "斯拉夫文本、Lunt折衷译本(1985)、Pennington双本(1984)，讨论希伯来/亚兰语背景",
+          "read_extent": "209—214页，特别211页注5/6；实际对读梯子面孔及列王解释，未通读全文"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cDPK",
+          "blocks": [
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "finding": "十二级/二十四面孔及最高火面与现代所引文本对应，保留原来的火面、肩臂，不缩成一般天梯叙述。"
+        },
+        {
+          "unit_id": "cDR8",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "finding": "本文4:2对应Lunt/Kugel 5章：tried译受试炼恰当。Kugel注6指出against在这里是因为后裔不法而兴起，而非外邦君王讨伐不法；下文同以罪为荒凉原因。修正因果并注明。四次升降与四代解释仍不确定，不凭推论重排章。"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cDR8",
+          "block_id": "p0003",
+          "before": "这些君王必起来攻击你后裔的不法之行",
+          "after": "这些君王必因你后裔的不法之行而兴起",
+          "reason": "上下文说罪引来外邦压迫；Kugel 1995第211页注6从斯拉夫介词及可能闪语背景明确讨论此误译，因果意义优于攻击罪恶。",
+          "note": "译文校订说明：4:2英文against the lawlessness直译容易成为列王攻击罪恶；依上下文及Kugel 1995对相应斯拉夫语句的讨论，译为“因你后裔的不法之行而兴起”。"
+        }
+      ],
+      "remaining": "本轮为重点审校，尚未逐块完成全书多译本核读。",
+      "validation": {
+        "cDPK": [
+          "complete",
+          null
+        ],
+        "cDR8": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "joseph-and-asenath",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/cu31924079583955",
+          "publication": "E. W. Brooks，Joseph and Asenath，SPCK，1918",
+          "basis": "希腊长本英译并列叙利亚等异文注",
+          "read_extent": "原刊OCR卷首及27章73—74页；核2076与十九岁，未逐页核扫描"
+        },
+        {
+          "url": "https://markgoodacre.org/wp/aseneth/introduction/",
+          "publication": "Mark Goodacre学术资源网站，页面版权1999—2025",
+          "basis": "区分Burchard长本与Philonenko 1968短本，争议尚存",
+          "read_extent": "版本、语言、作者及研究入口说明"
+        },
+        {
+          "url": "https://markgoodacre.org/wp/aseneth/cook_translation/",
+          "publication": "David Cook，Sparks编AOT，1984，473—503页；作者/OUP许可公开",
+          "basis": "Philonenko 1968希腊短本",
+          "read_extent": "第1章及注"
+        },
+        {
+          "url": "https://markgoodacre.org/wp/aseneth/cook_translation/3/",
+          "publication": "同上",
+          "basis": "短本及传本异文注",
+          "read_extent": "第3章全段，18/28日异文注"
+        },
+        {
+          "url": "https://markgoodacre.org/wp/aseneth/cook_translation/27/",
+          "publication": "同上",
+          "basis": "短本及传本异文注",
+          "read_extent": "第27章全段及注，年龄、左右、人数及投石习语"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cDSM",
+          "blocks": [
+            "p0002"
+          ],
+          "finding": "首年四月十八日与3章二十八日不强合并；新译3章注列BDFA二十八、其他十八，证实有传本依据。"
+        },
+        {
+          "unit_id": "cDT2",
+          "blocks": [
+            "p0002",
+            "p0003"
+          ],
+          "finding": "保留二十八日，不当作中文笔误。"
+        },
+        {
+          "unit_id": "cDYA",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011"
+          ],
+          "finding": "十九岁、右侧、2076与Cook十八岁/2000属版本差异，Brooks已有2076，保留。filled his hand投石习语据Cook直译注及其上下文理解为尽力投掷，改善满满握在手中的机械表达。"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cDYA",
+          "block_id": "p0003",
+          "before": "满满握在手中，向法老的儿子掷去",
+          "after": "运足力气，向法老的儿子掷去",
+          "reason": "filled his hand是发力投掷的习语；Cook 27:3正文与注3明确解释，不是装满手掌。"
+        }
+      ],
+      "remaining": "本轮为重点审校，尚未逐块完成全书多译本核读。",
+      "validation": {
+        "cDSM": [
+          "complete",
+          null
+        ],
+        "cDYA": [
+          "complete",
+          null
+        ],
+        "cDT2": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "testament-of-job",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/semiticstudiesin00kohurich",
+          "publication": "K. Kohler，The Testament of Job，Semitic Studies in Memory of A. Kohut，1897，264—338页",
+          "basis": "旧希腊文本英译及作者校改；与M. R. James 1897校本文本不能混同",
+          "read_extent": "核正文6章及希腊校改注；实际看印刷325页（IA n370）与330页（n375）扫描，OCR另查序论279页"
+        },
+        {
+          "url": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/testament-of-job/",
+          "publication": "NNU电子文本，页面标M. R. James 1897；归属与Kohler原刊正文对应存在冲突",
+          "basis": "电子转录，不能仅以大学域名认定无录入错或署名准确",
+          "read_extent": "6章、8章相关段落，与原刊比对"
+        },
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "R. P. Spittler，Testament of Job，OTP I，1983，829—868页",
+          "basis": "现代希腊传本校勘译文，结合Brock/Kraft等工作",
+          "read_extent": "导论版本/翻译方法及25—27章正文校注，未通读全卷"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cE0B",
+          "blocks": [
+            "p0018",
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022",
+            "p0023",
+            "p0024",
+            "p0025",
+            "p0026",
+            "p0027",
+            "p0028",
+            "p0029",
+            "p0030"
+          ],
+          "finding": "七年与现代十七年有V/Slav传本依据，保留。普路托原刊明确是Kohler据ploutos富足作的编辑校改，不是所有希腊本一致神名；正文依指定英文保留，注释补明。lands原刊扫描也这样排，虽现代作hand，不冒称为本轮发现的数字化录入错。torpor句现代译法差异大，仍需希腊逐字核，不混改。"
+        },
+        {
+          "unit_id": "cE0T",
+          "blocks": [
+            "p0004",
+            "p0018",
+            "p0019",
+            "p0020"
+          ],
+          "finding": "8章既有challenges its saving纠正为说话合理；330页及源文将And Bildad said放在补文括号内，现译漏此标记，恢复〔比勒达说〕，保留编辑复原性质。"
+        }
+      ],
+      "changes": [
+        {
+          "unit_id": "cE0T",
+          "block_id": "p0019",
+          "before": "比勒达说：",
+          "after": "〔比勒达说：〕",
+          "reason": "指定英文及1897原刊都将说话者引入语列为补文；不能无标记并入正文。"
+        },
+        {
+          "kind": "note",
+          "unit_id": "cE0B",
+          "before": "6:21 普路托：古希腊罗马传统中的冥府之神；英文直接使用此神名，保留，不以中文参考的“丰富产业”替换。6:24 英文由“我”转为“他”，保留叙述人称变化。",
+          "after": "6:21 普路托是希腊罗马传统中的冥府之神。Kohler 1897原刊325页注把希腊文的“富足”校改为此神名；Spittler 1983则保留“真正的大丰富”。本译依指定英文保留普路托，不能视为各传本一致的神名。6:24 英文由“我”转为“他”，保留叙述人称变化。",
+          "reason": "实际原刊脚注表明普路托是旧译者校改，补充版本来源，避免读者误认为原传本都写冥神。"
+        }
+      ],
+      "remaining": "本轮为重点审校，尚未逐块完成全书多译本核读。",
+      "validation": {
+        "cE0T": [
+          "complete",
+          null
+        ],
+        "cE0B": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "testament-of-moses",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://archive.org/details/apocryphapseudep02charuoft",
+          "publication": "R. H. Charles，The Assumption of Moses，APOT II，1913，407—424页",
+          "basis": "米兰拉丁重写本，原刊有大量校补；不是完整希伯来原卷",
+          "read_extent": "3章正文及注、8章相关迫害段"
+        },
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "J. Priest，Testament of Moses，OTP I，1983，919—934页",
+          "basis": "唯一存世拉丁残本，经希腊转译；原语和部分校补有争议",
+          "read_extent": "文本/原语导论、3章对话及3:14数字、8章迫害段全文"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cE2M",
+          "blocks": [
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0015"
+          ],
+          "finding": "77年在旧Charles及现代Priest一致，不因正典70年改动；3:7现代明确反问患难不是临到全家吗，支持现中文。前半Charles把shall we do校为have we done，现英文继承后者；不把现代不同读法混入正文。"
+        },
+        {
+          "unit_id": "cE3R",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ],
+          "finding": "8:3包皮复原是抹去割礼痕迹，并非补行割礼或阉割；现代译文验证现释义。8:4—5偶像、秘密圣所、祭坛等两译有校补差异，保留英文底本范围；没有依据统一成现代说法。"
+        }
+      ],
+      "changes": [],
+      "remaining": "完成3、8章重点核读和残本性质研究，其他章节未作本轮逐块多译本校对；正文未改。",
+      "validation": {
+        "cE2M": [
+          "complete",
+          null
+        ],
+        "cE3R": [
+          "complete",
+          null
+        ]
+      }
+    },
+    {
+      "book_id": "testament-of-solomon",
+      "reference_research": "resources_examined",
+      "full_review_this_round": false,
+      "sources": [
+        {
+          "url": "https://www.esotericarchives.com/solomon/testamen.htm",
+          "publication": "F. C. Conybeare，JQR 11(1898)英译；Joseph H. Peterson电子版1997起，2025更新",
+          "basis": "巴黎抄本经Fleck刊本；网站区分原刊注与Peterson所加[Duling]异译",
+          "read_extent": "第17、29、54、66段正文及注，另核标题版本说明；不是原刊扫描"
+        },
+        {
+          "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+          "publication": "D. C. Duling，Testament of Solomon，OTP I，1983，935页起",
+          "basis": "希腊多传本，参考McCown校本；正文与异文分列",
+          "read_extent": "导论基督教元素与644；4章奥诺斯凯利斯、6:8异文、12:3髑髅地、15:13—15遗训写作目的；未通读全卷"
+        }
+      ],
+      "passage_reviews": [
+        {
+          "unit_id": "cE6N",
+          "blocks": [
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009"
+          ],
+          "finding": "nature to the arms在Conybeare旧译确有，而Duling译偏离本性；出生回声与污秽/黑天亦涉及传本及旧校改。保留现英文框架和待核注，不把旧译的省略修成新译整段。"
+        },
+        {
+          "unit_id": "cE73",
+          "blocks": [
+            "p0013",
+            "p0014"
+          ],
+          "finding": "644不是误录：Duling列P本对应读法并解释为Emmanouel希腊字母数值；希伯来/希腊称呼倒置疑点原译已有。数字照旧，扩充原注解释。"
+        },
+        {
+          "unit_id": "cE8D",
+          "blocks": [
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "finding": "Conybeare明确仍有书写耶路撒冷的晦句；Duling重析为标称髑髅地的地点。因句法及文本处理不同，保留现底本并继续标待核，不用现代流畅译法掩盖底本。"
+        },
+        {
+          "unit_id": "cE92",
+          "blocks": [
+            "p0019",
+            "p0020",
+            "p0021",
+            "p0022"
+          ],
+          "finding": "Duling 15:14明指克制鬼魔的使者名称，确认既有把英文第二个messengers修为鬼魔的处理；此为原句主客体混乱，不重改正文。"
+        }
+      ],
+      "changes": [
+        {
+          "kind": "note",
+          "unit_id": "cE73",
+          "before": "塔耳塔罗斯（Tartarus）指囚禁灵体的幽暗深渊。第13节圣名数字英文为644，照录。",
+          "after": "塔耳塔罗斯（Tartarus）指囚禁灵体的幽暗深渊。第13节的644也见Conybeare 1898旧译及Duling 1983所列P本异读，是以马内利之名按希腊字母数值相加所得；本句将希伯来/希腊称呼相对的方式仍有疑义，正文照指定英文保留。",
+          "reason": "补充数字依据与语言称谓疑点，不擅改644或神名。"
+        }
+      ],
+      "remaining": "本轮为重点审校，尚未逐块完成全书多译本核读。",
+      "validation": {
+        "cE92": [
+          "complete",
+          null
+        ],
+        "cE6N": [
+          "complete",
+          null
+        ],
+        "cE73": [
+          "complete",
+          null
+        ],
+        "cE8D": [
+          "complete",
+          null
+        ]
+      }
+    }
+  ],
+  "assigned_scope": "017—032：16项；原033—042于2026-11-09明确移交dydi_a，本记录不计其完成。",
+  "handoff": {
+    "to": "dydi_a",
+    "scope": "033—042",
+    "state": "未改其正式JSON，未记录为本工完成"
+  }
+}

@@ -185,11 +185,33 @@
       "zh": "42. 后来，那个掳走她的人又来寻找波吕克塞娜；保罗劝他放过她，他也信了，受了保罗的浸。向波吕克塞娜求婚的人也信了。因波吕克塞娜安然归回，西班牙那全城都大大欢喜。从此，她因惧怕试探，再也不离开蒙福的保罗。这些事既然成就，众人都在主里欢喜，荣耀父、子、圣灵这独一的神。愿荣耀和权能归给他，从今时直到永远，世世无尽。阿们。"
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/life-and-conduct-of-the-holy-women-xanthippe-polyxena-and-rebecca/",
+      "usage": "Summary、手稿及现代译本书目、Menologion/Menaea所列短本叙述；未用短本替长篇。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.vincenthunink.nl/documents/acta_xanth_hunink2015.pdf",
+      "usage": "pp147—148版本与翻译史；pp152—153第一人称叙事转场及姐妹重逢、注20亲生姐妹词义。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://sourcebooks.web.fordham.edu/basis/xanthippe.asp",
+      "usage": "IV—VII、XXIX—XXXII、XXXVIII—XLII重点段；核说话者及赶驴人的接待情境。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://periodicos.ufjf.br/index.php/ronai/article/download/42018/26789/185560",
+      "usage": "pp133—139已显示的正文及参考文献开头；重点pp135—138希腊21节、葡译全节、destroyer/铁器底座疑词讨论；未核全部末页参考文献。"
+    }
+  ],
   "notes": [
     "第6节英文“赋予人一千里格”（a thousand leagues）与随后鸟类各种声音的对比不通，按明确语境修正为“赋予人千般言语”。",
     "第26节以波吕克塞娜之名联系漂泊遭遇；该希腊名字含“许多”及“外乡人、客旅”之意。",
     "第31节赶驴人请少女吃饼的英文句式含混；根据他随即铺袋请她们坐下、并给钱买饼的行动，译为他提出供饼相助。",
-    "第41节后半英文从薛菲庇的话转为第一人称“我”，又将“我亲爱的妹妹”置于普罗布斯的话内，说话者及引号范围存疑。译文保留原文人称及引语顺序，未擅自重分归属。"
+    "第41节后半英文从薛菲庇的话转为第一人称“我”，又将“我亲爱的妹妹”置于普罗布斯的话内，说话者及引号范围存疑。译文保留原文人称及引语顺序，未擅自重分归属。",
+    "译者待核实问题（21节）：鬼魔所说的“这毁坏我们的”沿指定英文destroyer；Pavão（2023）指出相应希腊词晦涩，Bonnet拟校为所掷铁器的底座，其他现代译者也有不同处理。本译暂不以其中一种校改替换指定措辞。"
   ]
 }

@@ -122,7 +122,7 @@
     },
     {
       "id": "p0030",
-      "zh": "事情是这样：败坏的人归于无有；他竭尽欺诈之能行不义，不记念我的恩慈，也不接受我的恒久忍耐。"
+      "zh": "事情是这样：败坏的人归于无有；他竭尽所能行不义，不记念我的恩慈，也不接受我的恒久忍耐。"
     },
     {
       "id": "p0031",
@@ -210,9 +210,30 @@
     }
   ],
   "references": [
-    "bible/基督教典外文献（共10册）_手机版.txt：13665—13854；参考措辞，内容和编号依英文。"
+    "bible/基督教典外文献（共10册）_手机版.txt：13665—13854；参考措辞，内容和编号依英文。",
+    {
+      "source": "跨传统重点审校",
+      "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+      "usage": "引言内容、Text、Original language、28:2年代讨论；28章全译，48:24—31及32注d。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://archive.org/download/apocryphapseudep02charuoft/apocryphapseudep02charuoft_djvu.txt",
+      "usage": "48:25—34，核he could而非deceit could。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-book-of-the-apocalypse-of-baruch-the-son-of-neriah-or-2-baruch/",
+      "usage": "48:25—34文本，实际缓存读取。"
+    },
+    {
+      "source": "跨传统重点审校：原刊扫描",
+      "url": "https://archive.org/download/apocryphapseudep02charuoft/page/n525.jpg",
+      "usage": "实际查看印刷p.506，48:29行尾he接下行could do anything，区别OCR lie。"
+    }
   ],
   "notes": [
-    "48:29 英文 he that is corrupted is not at all 语意生硬，暂按归于无有理解；中文参考为“除非犯罪作恶，必不至灭亡”，此处未据参考另行改写。48:38 appeal 疑为 appear，按时代转变显于众人的上下文译为“清楚看见”，并保留说明。"
+    "版本说明及待核：48:29前半英文he that is corrupted is not at all语意生硬，暂按归于无有理解；Klijn（OTP I，1983）作除非行恶便不被毁灭的条件结构，本译未据其另行重构。",
+    "原文修正说明：48:29后半指定英文为deceit could do anything；已核APOT II（1913）原刊扫描第506页，字形明确为he could do anything，NNU转录为lie could，疑将he误录后又按谎言改写。Klijn新译亦指行为主体所能行的事，故把“竭尽欺诈之能”修为“竭尽所能”。48:38 appeal疑为appear，仍按时代转变显于众人的上下文译为“清楚看见”。"
   ]
 }

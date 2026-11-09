@@ -1,0 +1,265 @@
+{
+  "worker": "lori_b",
+  "scope": "只读QA dydi_b首批十卷12正文+8注释，不重读903块",
+  "snapshot_utc": "2026-11-09T16:01:17.544463+00:00",
+  "HEAD": "f0aaddce4a83a292de2708b394afdceab7a32161",
+  "file_sha256": {
+    "zh/apocryphal-esther/c85C.json": "4e548635f3d3cb418aa4b376dc0555eec9c5cd2fdc81179958aa67a42956f906",
+    "zh/apocryphal-esther/c85U.json": "52e6ea62a078415960aa901cc8d4286e00a65e1bbac25c103a721382a463514e",
+    "zh/apocryphal-daniel/c892.json": "a93200611e7b1d371d5baf8037962fb40d684c76a6ae42027ede5cb52ed631d3",
+    "zh/apocryphal-daniel/c888.json": "858fe71d304085e7eb02160cc72672405002ac46b17888511cc953ce3d985fb2",
+    "zh/apocryphal-psalms/c86J.json": "30feeaf6d6b2e1f4672ee3dfbb06cebd8fb6b2fb545731eb5eb897da43e43eff",
+    "zh/2-maccabees/c9CH.json": "58754f608da67e20c1b69aba7cf711c2c7678dcebf162d42d1a8814eb320877a",
+    "zh/2-maccabees/c9CT.json": "79db8dd5df25a4d9146da2868db81a1f296b28c7d5ed082b1a36e6ba1175fc27",
+    "zh/1-esdras/c9FN.json": "ae359300d68d2aecc0ed5ea247243b5bcb1dbb9f41d66dc50104ce3a3236c2de",
+    "zh/1-esdras/c9DX.json": "d5b5305f9bdbcdbb4c5cdb5642459d433686308ffbeb544eb6a02c86d62a04e5",
+    "zh/2-esdras/c9JH.json": "0cd241a1304892165a014d9bbbff627aa11061baf40bde8b3cdc4737ba4de019",
+    "zh/2-esdras/c9HT.json": "61f2959f484cc305f5656ba9c43f2de035c9bb25ed075f5c0c08a755bf212f10",
+    "zh/2-esdras/c9M9.json": "efa8a3b963726160264447b81e753d0f086d37d21109100f53ec5431603be750",
+    "zh/3-maccabees/c9N3.json": "868a066eb1c8c2fa513663493d0201bbe72cf4dd6fc1f40c36acc16f2dd67e69",
+    "zh/4-maccabees/c9V5.json": "a9c46857ccb9d998105ec5c1ab778319be752859a634f41db6a3d702437f0848",
+    "zh/4-maccabees/c9UX.json": "bcd0faaec217b9e46a2f613714353e33b4eeda4711111d319f77931cb9c7ec4d",
+    "zh/4-maccabees/c9TX.json": "b5773e9d51ae1b462cb719e74c9dfa1180a29a8e79a001f63149ed07cad89bf6"
+  },
+  "checks": [
+    {
+      "book": "apocryphal-esther",
+      "unit": "c85C",
+      "block_or_field": "notes",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "apocryphal-esther",
+      "unit": "c85U",
+      "block_or_field": "notes",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "apocryphal-daniel",
+      "unit": "c892",
+      "block_or_field": "p0012",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "apocryphal-daniel",
+      "unit": "c892",
+      "block_or_field": "p0015",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "apocryphal-daniel",
+      "unit": "c888",
+      "block_or_field": "p0008",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "apocryphal-psalms",
+      "unit": "c86J",
+      "block_or_field": "p0050",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "apocryphal-psalms",
+      "unit": "c86J",
+      "block_or_field": "notes",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "2-maccabees",
+      "unit": "c9CH",
+      "block_or_field": "p0036",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "2-maccabees",
+      "unit": "c9CT",
+      "block_or_field": "p0003",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "2-maccabees",
+      "unit": "c9CT",
+      "block_or_field": "notes[0]",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9FN",
+      "block_or_field": "p0096",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9DX",
+      "block_or_field": "notes[0]",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "2-esdras",
+      "unit": "c9JH",
+      "block_or_field": "p0010",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "2-esdras",
+      "unit": "c9HT",
+      "block_or_field": "notes[0]",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "2-esdras",
+      "unit": "c9M9",
+      "block_or_field": "notes[0]",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "3-maccabees",
+      "unit": "c9N3",
+      "block_or_field": "p0027",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "4-maccabees",
+      "unit": "c9V5",
+      "block_or_field": "p0008",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "4-maccabees",
+      "unit": "c9UX",
+      "block_or_field": "p0008",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "4-maccabees",
+      "unit": "c9TX",
+      "block_or_field": "p0013",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    },
+    {
+      "book": "4-maccabees",
+      "unit": "c9TX",
+      "block_or_field": "notes[0]",
+      "HEAD_matches_logged_before": true,
+      "current_matches_logged_after": true,
+      "assessment": "改译或说明有相应英文与所引参考支持；未见需要撤回的否定/主宾误改。"
+    }
+  ],
+  "formal_files_modified": false,
+  "reference_evidence_actually_read": [
+    {
+      "url": "https://freely-given.org/OBD/BrTr/byC/MA4_C13.htm",
+      "scope": "web open13:8–13，重点12；urllib403后改用web读取",
+      "finding": "what father Isaac为旧英译真实措辞；NETS13:12同句法，以撒接受由其父之手杀献，而非指以撒之手起誓。"
+    },
+    {
+      "url": "https://www.tertullian.org/fathers/wright_syriac_apocryphal_psalms.htm",
+      "scope": "web open III10及III17–20",
+      "finding": "Give Thou honour明确Thou为给予者，未明受惠对象，现译不补对象合适。"
+    },
+    {
+      "url": "https://bible.usccb.org/bible/esther/4",
+      "scope": "实际网页D9注",
+      "finding": "brother确说明夫妻/恋人亲称。"
+    },
+    {
+      "cache": "cross-dydi-b/22-3makk.plain.txt",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/22-3makk-nets.pdf",
+      "scope": "NETS2:24–33与3:1–6",
+      "finding": "2:26nasty rumours started，恶评流传；3:2则明确针对犹太人的谣言。新译不写散布者可支持，但不能由2:26确定恶评对象为王。"
+    },
+    {
+      "cache": "cross-dydi-b/23-4makk.plain.txt",
+      "scope": "NETS13:8–13,16:20及17:7,18:6–7",
+      "finding": "以撒句法支持；lawful无明指摩西律法；NETS17:7为反问而Brenton/指定英文为否定陈述，新稿没有静默调成反问；righteous mother不是养母。"
+    },
+    {
+      "cache": "cross-dydi-b/21-2makk.plain.txt",
+      "scope": "NETS12:35及13:1–2脚注each with=Ha",
+      "finding": "伤肩不定刀砍；兵力合计/各自不可据NETS校改结论静默替代指定英文。"
+    },
+    {
+      "cache": "cross-dydi-b/15-1esdras.plain.txt",
+      "scope": "NETS1:37–44与8:90–92",
+      "finding": "父子均Ioakeim是版本读法；we共同主语支持。"
+    },
+    {
+      "cache": "cross-dydi-b/40-daniel.plain.txt,41-bel.plain.txt",
+      "scope": "NETS Daniel3:29–31与Bel TH11–14",
+      "finding": "目的得福、food泛义支持。"
+    },
+    {
+      "cache": "cross-dydi-b/17-esther.plain.txt",
+      "scope": "B6/E20/D9",
+      "finding": "十四/十三日确分别见于Greek不同诏令，未统一正确。"
+    },
+    {
+      "cache": "cross-dydi-b/nrsvue-2es-6.txt,nrsvue-2es-9.txt,nrsvue-2es-16.txt",
+      "scope": "6:8及Syr:Lat to Abraham脚注、9:9–12、16:50–53",
+      "finding": "重复亚伯拉罕拉丁传统有据；abused不止曲解；保护察究者句法可保留但指代不宜定死。"
+    },
+    {
+      "cache": "cross-dydi-b/vermes-complete.txt",
+      "scope": "叙利亚III对应希伯来祷文12（my sins）、Apocryphal PsalmsII4Q88导论与IX全段、Hymn Creator光/obscurity",
+      "finding": "chastisement/sins、残文、obscurity异读说明均有据。"
+    }
+  ],
+  "findings": [
+    {
+      "severity": "low",
+      "book": "4-maccabees",
+      "unit": "c9TX",
+      "block": "p0013",
+      "issue": "新译“执刀”比底本及直接参考13:12多了具体动作。句法修正本身可信，非应撤回；如更严格限制补意，可改“以撒为敬虔甘愿受杀时，是甘愿死在怎样一位父亲的手中”。",
+      "recommendation": "可选措辞收紧，不改变核心修正。"
+    },
+    {
+      "severity": "low",
+      "book": "3-maccabees",
+      "unit": "c9N3",
+      "block": "p0027",
+      "issue": "正式新译“引起恶评”未明受评对象，稳妥；日志reason“王...招来恶评”可能把对象说得比NETS明白，建议说明为因王恶行而恶评流传，不强定是评王还是有关犹太人。",
+      "recommendation": "仅收紧修订理由，正文无须撤回。"
+    }
+  ],
+  "conclusion": "12正文及8注释均已检查，未见应立即撤回的实质误改；两点非阻断精确性建议。",
+  "mismatches": []
+}

@@ -11,7 +11,10 @@
   ],
   "references": [
     "中文总集检索法比、法维、法毕等未见本信对应正文；依所给英文独立翻译，常名沿项目词表。",
-    "已核原XHTML，未见额外图像表格旁注资产。"
+    "已核原XHTML，未见额外图像表格旁注资产。",
+    "MGH Pseudoisidor, Karl-Georg Schon预版（约2010），Teil I；具体对应网页与实际核读范围见 bible/translation/cross-tradition-review/lori_b.json。"
   ],
-  "notes": []
+  "notes": [
+    "文本归属说明：本合集此名下所收教令书信，属于伪伊西多尔教令集的伪署名文献；标题年代指被署名的人物，不表示这些书信成于该世纪。参见MGH伪伊西多尔教令校勘本第一部分对应书信。"
+  ]
 }

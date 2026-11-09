@@ -1,0 +1,1058 @@
+{
+  "reviewer": "dydi_d",
+  "date": "2026-11-09",
+  "baseline": "f0aaddc",
+  "scope": "检查时点的125个本轮已修改正式zh JSON（典外及history-patristics），读取notes/references并与修改正文片段、既有语义QA结果比对；其后069—080新增部分另有三份QA，不重做全部正文语义或所有外部引证核验。",
+  "files_checked": 125,
+  "history_files": 26,
+  "apocrypha_files": 99,
+  "body_changed_blocks_at_inventory": 57,
+  "full_semantic_review_this_round": false,
+  "files": [
+    {
+      "path": "bible/translation/history-patristics/zh/1-clement/cH0K.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "5416d789f5669b4292f3a83eccd5ea99cbf9cc08d82cb8098b00f94d9f47fea0"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/2-clement/cH48.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "cec3ebac1639aaa1122f70714972c1e66558d50a925c71b9946b9ced2c3ecb79"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/ambrose-of-milan-4th-century/c1A1G.json",
+      "body_blocks_changed_from_baseline": 2,
+      "notes_count": 13,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "61327edd627d5f5fbd4f451b31c144fb9c33ba267784881e45b60e1b1c734bae"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/anterus-3rd-century/c1A7Y.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "8e4a75dd8ccf9e3dfb67e933ecc4bf2e1f1fb0a3cba74fcc7c8f9a1110575291"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/athanasius-4th-century/c1AMM.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 7,
+      "references_count": 0,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "9defb198ca587c20af83afecff2bdf800693e70ec6675ab841fdaad15c0a28bd"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/augustine-of-hippo-4th-to-5th-centuries/c1D6G.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 4,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "31f4a0162ef8ae524df2d27d93894ab9f431426e8e4f896209e9b59586d1b059"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/basil-of-caesarea-4th-century/c1DDD.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 9,
+      "references_count": 0,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "77533dedf166b1efbf1823334711b0b19608371641fc02339d9d3bf861a7a551"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/basil-of-caesarea-4th-century/c1DNZ.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 15,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "95169fc479523a33946a576b4f3985cbeef6f624213b57ed9b76d8b1dcde653d"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/callistus-3rd-century/c1EHP.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "1f1f5c0a9b6b7dd6c7c1ef38e8287b20c501f804687549febdbf3caf6fa06ce4"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/cyprian-3rd-century/c1EV6.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 7,
+      "references_count": 0,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "8afc660394090bf7b670a8c0b8922f25800b21161f9e2ffc74f547b444deb198"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/epistle-of-mathetes-to-diognetus/cJAT.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "a781cf069d1acb0d72bd6fc453be129c085bf1dd36af4b6c1d34dba538d3c063"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/eusebius-3rd-to-4th-centuries/c1FA6.json",
+      "body_blocks_changed_from_baseline": 2,
+      "notes_count": 3,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "626ed9f2916d621d2e459676eec3b4fb5ef0829df8eefdd888687ca09f1a6014"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/fabian-3rd-century/c1FAX.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "2c0947d29d8e9237268fb15efc18749e640cadafe5b4aea9a2478ad2049f3774"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/fabian-3rd-century/c1FC3.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "9e91dbad2230b4853f83fac64a9b9d02ba35aeeba7386787527bc34a23cc1c56"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/gelasian-decree/cZ2T.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "91790568923763dddd429b08923b359373741aa40b891d9bf42064ff103429d2"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/gregory-thaumaturgus-3rd-century/c1FE5.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "f260786d79a329b8bf61ee47b49b0ce937063efcb973eaf76ef413f653c5d146"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/jerome-4th-to-5th-centuries/c1GJT.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 28,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "832f3c85d07a394378924dbdab839b028b057bf5daee4f2dfb9be3b81e1582c0"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/john-chrysostom-4th-to-5th-centuries/c1GUM.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 4,
+      "references_count": 0,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "de03de683974acaea5a05bbe7b49f75a41f413402a5fd19803bbb01eb160c442"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/peter-of-alexandria-4th-century/c1H2E.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "606f27771ed6d7daaf06b37e7f643e57f95b94bd35927948de278376f47afd41"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/pontianus-3rd-century/c1H6G.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "c57bccfa11051c182c35c9a29773c0c77dcb66c8472cd47c82dce288420f3a1c"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/pseudo-clement-3rd-century/c1H7F.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "32bbb31d01af912626308424289f0f61009ded6a9bca31d177f4d84a0aa53d31"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/pseudo-ignatius-4th-century/c1HEC.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "7de05e55b5ced07ffc8a7c105525504cbd7cc34594c55a94764f14ac2f44a20b"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/the-chronicon-universal-history/c13E2.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "de7d05d9f4ab7615a34021de8cdf55a9947d2213cbe22b4a9dbe140ac76b945c"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/theonas-of-alexandria-3rd-century/c1HWM.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "eed12fede7e93f91ffc7b6eab324f2c88bef79fb0cac5a362ab9959b09a0da9b"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/urban-i-3rd-century/c1HZJ.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "cf54beadd9d3aebfcb63d3a53bdae3245daa557a23313fda5fdf1fbd4efd3967"
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/zephyrinus-3rd-century/c1J1J.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "469952f7ab8192e449bc8dfd58c9448e69137342c503034c4828ac5dd089367f"
+    },
+    {
+      "path": "bible/translation/zh/1-baruch/c94B.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "af50138dda25ae096d306209373bc20737bd2647d89d3dc2d813b71030d7e390"
+    },
+    {
+      "path": "bible/translation/zh/1-enoch/cBTH.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "ec655c04a9be765afefd4b96beb2f0ed4357993be5a52ab90064d46156c85ffc"
+    },
+    {
+      "path": "bible/translation/zh/1-esdras/c9DX.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "d5b5305f9bdbcdbb4c5cdb5642459d433686308ffbeb544eb6a02c86d62a04e5"
+    },
+    {
+      "path": "bible/translation/zh/1-esdras/c9FN.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 3,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "ae359300d68d2aecc0ed5ea247243b5bcb1dbb9f41d66dc50104ce3a3236c2de"
+    },
+    {
+      "path": "bible/translation/zh/2-baruch/cEZU.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "1ef21c2f1be1df971cc3fb74c7eebb79fb8466fe2387c0a5f25280b73c885ae3"
+    },
+    {
+      "path": "bible/translation/zh/2-enoch/cCCU.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "3fb2cd11582b1af3903721284c7cdfeb213b42978fd50023b961522542c0899f"
+    },
+    {
+      "path": "bible/translation/zh/2-esdras/c9HT.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 2,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "61f2959f484cc305f5656ba9c43f2de035c9bb25ed075f5c0c08a755bf212f10"
+    },
+    {
+      "path": "bible/translation/zh/2-esdras/c9JH.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "0cd241a1304892165a014d9bbbff627aa11061baf40bde8b3cdc4737ba4de019"
+    },
+    {
+      "path": "bible/translation/zh/2-esdras/c9M9.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "efa8a3b963726160264447b81e753d0f086d37d21109100f53ec5431603be750"
+    },
+    {
+      "path": "bible/translation/zh/2-maccabees/c9CH.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 4,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "58754f608da67e20c1b69aba7cf711c2c7678dcebf162d42d1a8814eb320877a"
+    },
+    {
+      "path": "bible/translation/zh/2-maccabees/c9CT.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "79db8dd5df25a4d9146da2868db81a1f296b28c7d5ed082b1a36e6ba1175fc27"
+    },
+    {
+      "path": "bible/translation/zh/3-baruch/cFB1.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "461076a4c01ab113d07c46533f759524c6da5b7dc67c5ca4e990825b9bac3318"
+    },
+    {
+      "path": "bible/translation/zh/3-enoch/cCNM.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 3,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "c60307bb5c85ae3de15420f6e82b64dc0318d285e2d511d6f71eb22916bda278"
+    },
+    {
+      "path": "bible/translation/zh/3-maccabees/c9N3.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "868a066eb1c8c2fa513663493d0201bbe72cf4dd6fc1f40c36acc16f2dd67e69"
+    },
+    {
+      "path": "bible/translation/zh/4-baruch/cFDG.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "5503959572d63a9766be379f5836b308f980bd3be90fa43a3d0fc2d1c80ae409"
+    },
+    {
+      "path": "bible/translation/zh/4-maccabees/c9TX.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "71f089099c041a081b68ad8379a164f7aa6562d1272c3da8744589b025ded857"
+    },
+    {
+      "path": "bible/translation/zh/4-maccabees/c9UX.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "bcd0faaec217b9e46a2f613714353e33b4eeda4711111d319f77931cb9c7ec4d"
+    },
+    {
+      "path": "bible/translation/zh/4-maccabees/c9V5.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "a9c46857ccb9d998105ec5c1ab778319be752859a634f41db6a3d702437f0848"
+    },
+    {
+      "path": "bible/translation/zh/acts-29/c89K.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 3,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "05328f337bc56a0c9f89b62ce2379c4faa484c649b224a0b25e3c39ac1d262b7"
+    },
+    {
+      "path": "bible/translation/zh/acts-of-paul/cMY7.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 3,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "885c8633c7d9e44122636cbc1c90e91e56529721fdca631034a8b835a29562de"
+    },
+    {
+      "path": "bible/translation/zh/acts-of-paul/cN1F.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 3,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "1ed3245fc0a4bb41000dd7b3e7ca4cc97967479acd6a13089689752923b9acd4"
+    },
+    {
+      "path": "bible/translation/zh/acts-of-peter/cN98.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "b610b505f650226621638625de6ba43ff4c47baa2a91dd2ead78e3708c7582fc"
+    },
+    {
+      "path": "bible/translation/zh/acts-of-pilate/cMRH.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "be915903261e35da026b1e121ae36e20d7a85ca1bdd45a3ca1cc87001de68c91"
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-daniel/c888.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 0,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "858fe71d304085e7eb02160cc72672405002ac46b17888511cc953ce3d985fb2"
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-daniel/c892.json",
+      "body_blocks_changed_from_baseline": 2,
+      "notes_count": 0,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "a93200611e7b1d371d5baf8037962fb40d684c76a6ae42027ede5cb52ed631d3"
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-esther/c85C.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "4e548635f3d3cb418aa4b376dc0555eec9c5cd2fdc81179958aa67a42956f906"
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-esther/c85U.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "52e6ea62a078415960aa901cc8d4286e00a65e1bbac25c103a721382a463514e"
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-psalms/c86J.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 3,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "30feeaf6d6b2e1f4672ee3dfbb06cebd8fb6b2fb545731eb5eb897da43e43eff"
+    },
+    {
+      "path": "bible/translation/zh/apocryphon-of-ezekiel/cFG0.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 2,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "3e9f3cb6a6b8adfe861604dcd609c45dc5d07ea3e689f5d1d865b21d34d64ec8"
+    },
+    {
+      "path": "bible/translation/zh/apocryphon-of-jannes-and-jambres/cFFB.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 3,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "5794f4de7b2a668c1aa2535bc8d037271229b3b440cd52a86bb93c2e056b3bfd"
+    },
+    {
+      "path": "bible/translation/zh/apostolic-church-order/cGCF.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 0,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "8acdf7bb079bd2eeec716178bef6f2ecc57b3594248fee3ba4d01b81374196d1"
+    },
+    {
+      "path": "bible/translation/zh/arabic-infancy-gospel/cKF3.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "ed8b78bc6b8d42d40a313acfa49e61fdfb8304ff1867ec3d99fe89d610f95ce0"
+    },
+    {
+      "path": "bible/translation/zh/ascension-of-isaiah/cEJV.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "6aad362c17ecdbaa0eebe017354dea0f829813777450b83910aa0c4e49b29300"
+    },
+    {
+      "path": "bible/translation/zh/ascension-of-isaiah/cEKY.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "bde0a2692b46e748f88dc10cfdc885fc58dcb3dbfe873361c795f50a99dcbd26"
+    },
+    {
+      "path": "bible/translation/zh/book-of-creation/cDB5.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "84c5e8bae23d7b8b3f27b40249a706472f175c73bf4a88e1134841720bdecdac"
+    },
+    {
+      "path": "bible/translation/zh/correspondence-of-paul-and-seneca/cGJC.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 3,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "547084ab44528b64bc95af0233fa6b1016a126d690b3be14c54f83e13eb98694"
+    },
+    {
+      "path": "bible/translation/zh/didache/cFU5.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "545e53c5a24ea3f7b87c80d293ccf5349f51692d4af1b474ef2b6c66e267a7b8"
+    },
+    {
+      "path": "bible/translation/zh/epistle-of-aristeas/cFHS.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "145ad4d813335d371d8206e90656593ffebea58b25e4b354429d293df9d09a3b"
+    },
+    {
+      "path": "bible/translation/zh/epistle-of-barnabas/cGDE.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "69a680b5efe59ce3aae1a90483c3fe3fbae2f65d8cee5f40a440700de8849a77"
+    },
+    {
+      "path": "bible/translation/zh/epistle-of-barnabas/cGG9.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "765b8a04740700f7c8ad3dfda635c024aee5d50889dd01c2fdfbff5fe5795632"
+    },
+    {
+      "path": "bible/translation/zh/gospel-of-the-nativity-of-mary/cKGT.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "f40aca60a7da6cd762005acc2fe9eff341937ef473d76c0ac15c2885a799697c"
+    },
+    {
+      "path": "bible/translation/zh/history-of-joseph-the-carpenter/cKTX.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "734e211c7ee7f5b95d34bbf448f7af63e53207d718017462f6f865d21ce24505"
+    },
+    {
+      "path": "bible/translation/zh/joseph-and-asenath/cDYA.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "57cee6c3b2e21d6fd76401dd7681545b4af3fc2efd6e8fcc66052f4a5935f73a"
+    },
+    {
+      "path": "bible/translation/zh/judith/c8DY.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "20508c6374ce9f3593c2f498725bba8f1ec47bdbfd9c9cf6499d85be031654e2"
+    },
+    {
+      "path": "bible/translation/zh/judith/c8GT.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 3,
+      "references_count": 6,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "efac8373b017cb2ce9b6eab9de5359e4f577a081f8d713a62c4fe59c7f4306b8"
+    },
+    {
+      "path": "bible/translation/zh/ladder-of-jacob/cDR8.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "67b264b35f491c1f931279c4fc9eaa94784cfb6ad5d9b49d2f75d7a72439562b"
+    },
+    {
+      "path": "bible/translation/zh/life-of-john-the-baptist/cKUB.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "d03045a5987c002f865c98c3d14db1fd2fa1160365850560b813c3b3e59c78bc"
+    },
+    {
+      "path": "bible/translation/zh/lives-of-the-prophets/cED4.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 4,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "d3fa64c77f4ac0b6cd27b9b13f96166d00ab55315c0277bddaf38a2c610983f5"
+    },
+    {
+      "path": "bible/translation/zh/mors-pilati/cMXN.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "8c3e3b59f46d05cdbc47c31736e17986297334c15ee7406733c3ce9b69bb5d29"
+    },
+    {
+      "path": "bible/translation/zh/narrative-of-joseph-of-arimathea/cMUB.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "9e1a10cc7c72a790fecb25da3721d4d64dd357700916b294ec1c51e1eb2ab39c"
+    },
+    {
+      "path": "bible/translation/zh/odes-of-peace/cJGE.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 11,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "1d0efeff19f4fe0d71c1bee44d2c6917706e48da2edc4aeeaf6d93b8fd81abe0"
+    },
+    {
+      "path": "bible/translation/zh/revelation-of-elijah/cR0D.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "a369942b184cb9638dee8fd30c8d8e8f6b8096d459eb5534b23b886d85464cd7"
+    },
+    {
+      "path": "bible/translation/zh/revelation-of-peter/cR4W.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "ef1e6d4f69741a7350b82a435c28ee512d9b6b31903e922ca999693d5449b048"
+    },
+    {
+      "path": "bible/translation/zh/revelation-of-stephen/cR76.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 2,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "570208514bef4a90643b6424de350a2b6c585937c6476b36b1676a9c1dec20be"
+    },
+    {
+      "path": "bible/translation/zh/revelation-of-the-virgin/cRB0.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "063319dec75fa61b0e197e526c53fbe1b4498b115bab2b6ffa512c4e5cbbb8f9"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8PR.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "e89eab373d3da7c320cf6136d8df3febf92b7354537054f374a92f48f25c16ba"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8R7.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "7abd38c731ee9255d25b89b10d9be6be748d09cb8d06c9b8a56aec26e0b3dead"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8RZ.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "8c392b5da2f5645f2809349f8425b9c9f4cc5e6e67339e324c5e5998742ccd5f"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8SF.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "050a7311a193034a8d4a9a6f4248f1dd94f80b00c091376d5d74ae75edb33a45"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8SZ.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "6dea280bdf6929ec729580d0419de8db92ad1c33f4a0466c63f4227408717e9b"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8T7.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "ba1b8eeeb94fc2e99487439ac19abfd3251864491cefb54554b18b678009b7b0"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8TR.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "544b715ca3dda602d521baf49d9fe3a61875bd7a2dbefa454d7e417cd1f86daf"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8UR.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "196281f95bc4e63bf70d9497f14bc8151b314f607e2c2ba61effb66eed092bd2"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8V7.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "323599f6be6d859ceab1b207ac53bb5406d08360ecb76b0ae0ff859967274d67"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VF.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "73eb201b74249a092f17e4f178610c141cccaf7e2aa252d36a3ad9ffdc9196e5"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VR.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "24d93e6263c4d2827559b0474c0ee18ce10d9cd17128c52973c6fba97f0cc2e2"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VZ.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "8323586c6bd383deee00b87bfd9c91b8d798e425f72d234369f8b27bfbda7f02"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8W7.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "426796ed63d941b7ecd24f9eb32f3c589192b60f3360cfcd448699f38fc84652"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8WF.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "418219599b0229bd77794bf75b83258d4d5071a9e111e82bcdfc3399b147b989"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8WR.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "ebd1c10c71d5ed1ae24e76e1d149b5c3ac24c292cf75feec62010745d1aff951"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8WZ.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "fc1faacb3565ef95cb44562193d79fad703975c785d17440e35124e6e274350b"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8ZH.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "140f3599a287af4aeaf231265d39df898da0e69d753b168093f12f9684c4d7fd"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8ZT.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "8048191e266d40e8bf241c93b693d4ae2335be65d7ff62520a367b4ad697b786"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c901.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "5c0b1769688ca4878793b03162212f261237d348c46a35b0fb7a34a13a454055"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c909.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "214be3efc23dc13d3e596639da5dabcf766cb6a1af46ba7638bb27d04524c59b"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c90H.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "41b6d64a51a45d9d64b5f603b294e7ea7f4c07d07f41e2527477d9c64e2338b1"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c90T.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 6,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "bafc4854c645a279eb77c8b475dabc9aaa0e402be6345b3fe28a33953e646cd4"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c919.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "cf65735e48d1536c82140bb55948fe0dd46959e58b618f2f26cebb0e2d9a7b08"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c91H.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "dfeb11024765b8bde40101d8e634f876528da55c46a2219a82393f719b0abaa0"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c91T.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "6dd1fab1704712907ec88100bbf5f93d131a543361722b01fb2d42abfd6ebd5e"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c921.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "6f70d3a9720f3dbfa39576ff8511dc6f66dc9734655d29f2e2ed41f7a3b8a532"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c929.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "ad9ec3670a307041e9aa17d524d39b73ea8ceca70617210e83fc8ed2f60bb0ab"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c92T.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "37596d5fcb93b731efce1f1160743a5d1f44a96243095009e280ce70ced80099"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c931.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 3,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "1519299611aa3fab535e85f4d175e581fffbd50bb7148286c16f4e5a15a40a62"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c939.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 2,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "5dbe2a1b48e6d310681000036b04867eed82108749a86ebdaa4050478339ecae"
+    },
+    {
+      "path": "bible/translation/zh/testament-of-job/cE0B.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "db9584f518ffcf7be031c53b9593826af07e1a29534e2744c142d811c817d0fd"
+    },
+    {
+      "path": "bible/translation/zh/testament-of-job/cE0T.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "40816b90dec0e2244e548f71e19af2d5c5ccb35a3c81b1e34392227bb821eefc"
+    },
+    {
+      "path": "bible/translation/zh/testament-of-solomon/cE73.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "e328751abb608abbb9619d2d89dd32bf2a477c057fd496ebd24ac291dd53a954"
+    },
+    {
+      "path": "bible/translation/zh/testaments-of-the-twelve-patriarchs/cAK9.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 1,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "7d103e122545fa2341bbc33cf25ecb894bf0737f9190ceab8eca87846e52a406"
+    },
+    {
+      "path": "bible/translation/zh/the-shepherd-of-hermas/cJFA.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 10,
+      "references_count": 10,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "3a74a3bfd6b13ba3a7f3262601f9bc300db4968d22a2b454fd251f3e0aaa0860"
+    },
+    {
+      "path": "bible/translation/zh/the-sibylline-oracles/cSCS.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 9,
+      "references_count": 9,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "bceb1061c85ddba340ad82e46471fe2b939ff6d53235fdeb33a08163b0da5a35"
+    },
+    {
+      "path": "bible/translation/zh/the-sibylline-oracles/cUM2.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 7,
+      "references_count": 2,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "10f5368e069bce099e4ae74151da0588a495829e120999bfc5955e115d72aafb"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8AC.json",
+      "body_blocks_changed_from_baseline": 1,
+      "notes_count": 1,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "bd713c3b3bf5dee0773bcffd13e8f01d81759438323019d41443949379878266"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8B8.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "f2290130f515359eff5433835c046e09ed7aa33dba600696a5fbb600a3ea39e3"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8BF.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 5,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "d7661eaec30ae8799268e1d9ea14a6d7640c1b371ffbf1a963c3e9081e61c299"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8D0.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 4,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "4a779c031790417ef0793f92549ad7ae1cdfc38213c0d54df1c5c9653da18943"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8NJ.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 1,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "b9accfd92d15dac248ac6cc38f97a8785b6af4489c2f66b3223db358841831c2"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8NU.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 2,
+      "references_count": 6,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "4fdded3b462926d172ad65667a760a84c299380d36ec49499d236989667b030a"
+    },
+    {
+      "path": "bible/translation/zh/words-of-gad-the-seer/cEJ1.json",
+      "body_blocks_changed_from_baseline": 0,
+      "notes_count": 3,
+      "references_count": 3,
+      "check": "notes_references_read_against_changed_body_and_existing_review_findings",
+      "sha256": "8446d1e89b68f8668872254a8faa9f18606fb01cb2986033336d0c0296e8e94a"
+    }
+  ],
+  "findings": [
+    {
+      "path": "bible/translation/zh/the-shepherd-of-hermas/cJFA.json",
+      "field": "notes[3]",
+      "severity": "stale_note_conflicts_with_body",
+      "issue": "仍称p0240比例按英文保留待核，实际本轮正文已校正，末条修正注也说明已校正。",
+      "status": "resolved",
+      "resolution": "父代理授权本人更新自己notes[3]，保留p0213说明，改为p0240已校正、p0241仍依底本；dydi_d.json同步新增notes改动记录。"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8AC.json",
+      "field": "references[0]",
+      "severity": "stale_reference_conflicts_with_body",
+      "issue": "仍称I went按第一人称保留，与新正文他和新修正说明相反。",
+      "status": "resolved_by_owner"
+    },
+    {
+      "paths": "history-patristics/zh/{anterus,callistus,fabian,pontianus,urban-i,zephyrinus}相关JSON",
+      "field": "references中的 ../../cross-tradition-review/lori_b.json",
+      "severity": "reference_path_ambiguity",
+      "issue": "以JSON所在目录为基准会指向不存在的history-patristics/cross-tradition-review。建议写仓库相对全路径 bible/translation/cross-tradition-review/lori_b.json。",
+      "status": "resolved_by_owner_and_verified_by_root",
+      "resolution": "lori_b修正六处；root确认原模糊路径已消失，六份正式JSON改为仓库相对全路径。"
+    }
+  ],
+  "checks_of_interest": [
+    "Creation旧pass from待核注已同步原刊校正，未再声称离开神。",
+    "Gad cAK9原himself/Him待核注已替换，现为行善者宾语修正说明。",
+    "Didache continuous light旧说明已更新为永生及希腊证据。",
+    "Odes第三十一首说明不再含31:18错误定位，也未声称仍按已负债保留。",
+    "Stephen ere long、Virgin14补文、Peter主语最小修订与参考说明相容。",
+    "Sibyl善恶次序、Send now均已撤回原修正并同步说明；保留的其他句法疑问仍明示未定。",
+    "Barnabas衣袍说明已收紧，不把古本读法存在误当作者原意已定。",
+    "历史教父婚姻/洗礼、world/主、前者后者、实存/本质等新增修订相关说明未见仍坚持旧译。"
+  ],
+  "limits": [
+    "逐项读完现有notes/references；章号与块定位重点核本轮修订/既有QA风险，不声称重新核验全部旧书目页码和中文参考行号。",
+    "旧reference中的依据英文独立翻译是初译过程说明；不自动视为排斥后来明示的局部校改。",
+    "此记录只证明一致性检查，不证明全书译文或参考版本已无错误。"
+  ],
+  "subsequent_batch_checks": [
+    "qa-lori-b-acts.json",
+    "qa-dydi-d-acts-extra.json",
+    "qa-lori-a-acts-extra.json"
+  ]
+}

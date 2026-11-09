@@ -1,0 +1,967 @@
+{
+  "worker": "dydi_a",
+  "method": "跨传统重点审校；只将实际读过的章和段列入范围，不将本轮标为全卷复审。指定英文控制篇幅和底本，现代译本提示歧义，不以多数票消除异读。",
+  "resources": [
+    {
+      "id": "sigao-history",
+      "url": "https://www.sbofmhk.org/pub/body/aboutus/a3_histroy/index.html",
+      "publisher": "思高圣经学会（方济会）",
+      "version": "1968合订本及官网在线本",
+      "basis": "官网历史说明从原文翻译，1968合订本；中文天主教译本，不是FHL1933重排。",
+      "actually_read": "历史页关于原文翻译和合订本出版的段落；五卷章正文网址逐条记录。"
+    },
+    {
+      "id": "nabre-info",
+      "url": "https://www.usccb.org/offices/new-american-bible/revised-edition-information",
+      "publisher": "USCCB / Confraternity of Christian Doctrine",
+      "version": "NABRE，2011修订旧约",
+      "basis": "现代天主教英译；旧约2011，新约1986；与思高非同一翻译工程。非笼统将其当单一希腊底本。",
+      "actually_read": "整页版本说明。USCCB部分章403，未成功读取者不列为已核。"
+    },
+    {
+      "id": "nets-tobit",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/19-tobit-nets.pdf",
+      "publisher": "IOSCS / Oxford University Press",
+      "version": "NETS 2007，电子更正页2009；Alexander A. Di Lella",
+      "basis": "Hanhart 1983 Göttingen；GI短读与GII长读分别译出。此镜像与宾大本属同译本，只计一项。",
+      "actually_read": "引言p456及2:10、6:10、7:16—17、14:10两栏上下文。"
+    },
+    {
+      "id": "nets-judith",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/18-ioudith-nets.pdf",
+      "publisher": "IOSCS / Oxford University Press",
+      "version": "NETS 2007；Cameron Boyd-Taylor",
+      "basis": "Hanhart 1979；导言明确3:8等处采叙利亚文支持的校改。",
+      "actually_read": "引言p441及3:8正文和脚注、16:10—13。"
+    },
+    {
+      "id": "nets-wisdom",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/29-wissal-nets.pdf",
+      "publisher": "IOSCS / Oxford University Press",
+      "version": "NETS 2007；Michael A. Knibb（PDF译者署名已核）",
+      "basis": "Ziegler 1962，兼参Rahlfs；引言说明与NRSV的关系：共享前译框架，不能将两者视为完全互不相关证人。",
+      "actually_read": "引言p697—698有关底本与NRSV；17:11—14、18:1—2、18:20—25。"
+    },
+    {
+      "id": "nets-baruch",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/35-barouch-nets.pdf",
+      "publisher": "IOSCS / Oxford University Press",
+      "version": "NETS 2007",
+      "basis": "Ziegler 1957；希腊语译本，3:4逆译希伯来文解释只是假说。",
+      "actually_read": "引言p925的3:4希伯来语误读可能性；不据逆译改英文。"
+    },
+    {
+      "id": "nets-sirach",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf",
+      "publisher": "IOSCS / Oxford University Press",
+      "version": "NETS 2007；Benjamin G. Wright",
+      "basis": "Ziegler 1965，GKI/GKII；引言明确重构校改与NRSV寻求原文本不同目标，不把NETS每一措辞当存世抄本原读。",
+      "actually_read": "引言p715；6:2、8:19、17:32、21:25、26:18、38:11及脚注、41:16、49:9—10、50:3与27、51:10等疑难处；逐项范围见章节记录。 另读17:28—32、19:4—30、20:9—17、43:16—26、44:16—18、46:13—20、47:1—25；38:11脚注明确Gk uncertain，49:9脚注明确God。"
+    },
+    {
+      "id": "nrs-sources",
+      "url": "https://www.biblegateway.com/passage/?search=Wisdom%2018&version=NRSVUE%3BNABRE",
+      "publisher": "Bible Gateway授权展示；NCC / Friendship Press；其他页含ABS与RSVCE",
+      "version": "NRSVUE 2021及GNT、RSVCE（逐页明确，不混称）",
+      "basis": "跨教派修订本和普世译本作为对照；RSVCE仍属RSV家族，不算与NRSV完全独立。GNT脚注提供异读，不能将其主文当原底本。",
+      "actually_read": "Wisdom18 NRSVUE全章；Sirach26 GNT全章及18脚注；Sirach50 RSVCE全章及3、27脚注；Sirach41 RSVCE全章。"
+    },
+    {
+      "id": "ubs-handbooks",
+      "url": "https://tips.translation.bible/story/translation-commentary-on-judith-1611/",
+      "publisher": "United Bible Societies；SIL Translation Insights and Perspectives获许可展示",
+      "version": "Bullard / Hatton，Judith2001及Wisdom2004译者手册",
+      "basis": "释义与文本问题工具书，非另一独立古代抄本，也不将其建议校改直接写入指定底本。",
+      "actually_read": "实际读Judith16:11、Wisdom18:1、18:25三篇全文；后两篇URL在本卷章节记录。"
+    },
+    {
+      "id": "usccb-sirach-intro",
+      "url": "https://bible.usccb.org/bible/sirach/0",
+      "publisher": "USCCB / CCD",
+      "version": "NABRE Sirach导言",
+      "basis": "说明古代希伯来语材料及其他古译；现代译本并非只译同一希腊文本，须辨别文本传统。",
+      "actually_read": "导言全文。"
+    }
+  ],
+  "books": {
+    "tobit": {
+      "full_review_this_round": false,
+      "chapters": [
+        {
+          "chapter": 2,
+          "unit_id": "c8AC",
+          "source_sha256": "47d552c2bb442bf654b8584b1cb9f0dd4b07bddb979d812af49d8476ff70f73f",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=21&chapter=2",
+            "https://bible.usccb.org/bible/tobit/2",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/19-tobit-nets.pdf"
+          ],
+          "decisions": [
+            "2:10 NETS GI与GII均为阿希加前往；思高和NABRE同。英文第一人称与当下失明、后续留家叙事抵触，视为代词误写，按用户规则修正并明确注。"
+          ],
+          "changes": [
+            {
+              "block_id": "p0011",
+              "before": "我不知道墙上有麻雀。我睁着眼，温热的雀粪落进眼中，眼睛便蒙上白膜。我去求医，医生却无能为力；阿希加供养我，直到我往以马吕去。",
+              "after": "我不知道墙上有麻雀。我睁着眼，温热的雀粪落进眼中，眼睛便蒙上白膜。我去求医，医生却无能为力；阿希加供养我，直到他往以马吕去。",
+              "reason": "I改he：两支希腊传统及叙事人物行动互证，非仅随现代译本。"
+            }
+          ],
+          "notes_before": [
+            "译者待核实问题：二10英文作“直到我往以马吕去”，参考本作阿希加前往；本译保留英文第一人称，未据参考本改换人物。"
+          ],
+          "notes_after": [
+            "原文修正说明：2:10英文作“直到我往以马吕去”。NETS所译希腊短本与长本都指阿希加离去，思高、NABRE亦同，且多比失明留家的叙事不支持他出行。译文将“我”修正为“他”，所指为阿希加。"
+          ]
+        },
+        {
+          "chapter": 6,
+          "unit_id": "c8B8",
+          "source_sha256": "0aeda9becf01fde960730db8b6126e8e33363b84cc7efae0703f83a8c45dfd8a",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=21&chapter=6",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/19-tobit-nets.pdf"
+          ],
+          "decisions": [
+            "6:9=NETS GI6:10确有Rhagai；GII为Ecbatana。地名冲突有版本依据，不调和行程。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题：六9英文作“临近拉基”，而六5及七1叙述抵达亚巴他拿；保留本节英文地名，不以参考本改写行程。"
+          ],
+          "notes_after": [
+            "版本说明：6:9临近拉基与6:5、7:1亚巴他拿的行程不一致。NETS并列的希腊短本也作拉基，长本作亚巴他拿；本译遵从指定英文保留短本地名。"
+          ]
+        },
+        {
+          "chapter": 7,
+          "unit_id": "c8BF",
+          "source_sha256": "9a55d9d9533c4566ec4b77aef7cc6198367d2e23de2bbd282b4bb840aff1abd0",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=21&chapter=7",
+            "https://bible.usccb.org/bible/tobit/7",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/19-tobit-nets.pdf"
+          ],
+          "decisions": [
+            "7:17 received tears在NETS GI7:16亦出现，而GII明说wipe。故不是已证实的英文误录，保留承受泪水，不换抹泪。NABRE全章经web读取，与长本接近。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题：七17 she received the tears of her daughter 措辞不寻常，译文保留母亲与女儿共同承受泪水的表达，未按中文参考改成“拭去眼泪”。"
+          ],
+          "notes_after": [
+            "版本说明：7:17“承受女儿的泪水”的措辞在NETS所译希腊短本亦见；希腊长本和思高、NABRE作拭泪。保留指定英文的短本措辞。"
+          ]
+        },
+        {
+          "chapter": 14,
+          "unit_id": "c8D0",
+          "source_sha256": "dfef41c0229181843d9ae8a1e3d37c076e085bceec25c323b7289dbf6008f65f",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=21&chapter=14",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/19-tobit-nets.pdf"
+          ],
+          "decisions": [
+            "14:10 Manasseh有NETS GI Manasses支持，非可擅改成阿希加的笔误；但NETS GI后文Haman不同于指定英文Nadab，也不套改。年龄、约拿等多处长短本不同全保留。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题：十四10在阿希加与拿答的叙述中忽然出现“玛拿西行施舍”；英文确作Manasseh，参考本作阿希加。因属版本异文，本译保留玛拿西。"
+          ],
+          "notes_after": [
+            "版本说明：14:10突然提到玛拿西行施舍，此读法也见NETS所译希腊短本；长本及思高仍作阿希加。本译保留指定英文玛拿西及拿答的人名，不混合两支传统。"
+          ]
+        }
+      ],
+      "actual_chapters_context_read": 4,
+      "body_blocks_changed": 1,
+      "chapters_with_notes_changed": 4
+    },
+    "judith": {
+      "full_review_this_round": false,
+      "chapters": [
+        {
+          "chapter": 3,
+          "unit_id": "c8DY",
+          "source_sha256": "19b6fd97380f6c56fa71e18c10252cf0541075924c38f9b67d47660d075bfe33",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=22&chapter=3",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/18-ioudith-nets.pdf"
+          ],
+          "decisions": [
+            "3:8 NETS正文temples系译者明确校改，脚注承认Hanhart为territory；这不能用来断言英文borders错误。保留边防，但补明不同读法的证据性质。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "3:8英文作“borders”（边境、边防），参考中文作“圣坛”；依英文译“边防”，不以参考本替换。"
+          ],
+          "notes_after": [
+            "版本说明：3:8英文borders译为边防。NETS译者将希腊校勘本的“领土”校改为“庙宇”，并说明借助叙利亚译本；思高亦作圣地。本译不以校改读法覆盖指定英文。"
+          ]
+        },
+        {
+          "chapter": 16,
+          "unit_id": "c8GT",
+          "source_sha256": "af203ef47a129452139cd3b55b399a91ad28f06d45e1f1239643c0822aa5aecd",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=22&chapter=16",
+            "https://bible.usccb.org/bible/judith/16",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/18-ioudith-nets.pdf",
+            "https://tips.translation.bible/story/translation-commentary-on-judith-1611/"
+          ],
+          "decisions": [
+            "16:11 UBS2001专门说明shouted与feared的抄本/校改问题和至少三种代词分配。并非可以仅靠诗歌顺畅补字。保留英文惊恐及指代；更新注释不再只称未能核实。",
+            "16:12 NETS亦有girls及deserters children；思高少妇、NABREmaidservants显示词义有差别，不机械改奴仆。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "16:7的“泰坦”指古希腊传说中的巨人族，原文用以形容非凡勇力。",
+            "16:11英文先说“我软弱的百姓”惊恐，随后两个they的指代含混；参考中文则作百姓欢呼、敌人逃跑。因不能仅据参考本断定英文缺字，译文保留底本顺序和指代，待核实。",
+            "16:12英文为“妇人的儿子”（sons of ladies）和“如同逃亡者的儿女”，参考本作“奴仆所生的”及“如同杀戮逃亡者”。此处按英文保留，措辞与版本关系待核实。"
+          ],
+          "notes_after": [
+            "16:7的“泰坦”指古希腊传说中的巨人族，原文用以形容非凡勇力。",
+            "版本说明：16:11“软弱者惊恐”涉及古抄本“呼喊／惧怕”的不同读法。UBS《犹滴传翻译手册》说明现代译本对字词校改和后续代词分配并不一致；本译保留指定英文的惊恐与叙述次序，后两句“他们”的所指仍待核。",
+            "版本说明：16:12保留英文妇人的儿子及逃亡者儿女；NETS亦保留女孩之子、逃亡者儿女意象，NABRE则将前者具体译作使女之子，本译不添加此身份限定。"
+          ]
+        }
+      ],
+      "actual_chapters_context_read": 2,
+      "body_blocks_changed": 0,
+      "chapters_with_notes_changed": 2
+    },
+    "wisdom": {
+      "full_review_this_round": false,
+      "chapters": [
+        {
+          "chapter": 17,
+          "unit_id": "c8NJ",
+          "source_sha256": "13b95ae56ef0c2e8cd71de1287e235efaf33d15a0f00c8b66ccd3080c70e64c7",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=32&chapter=17",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/29-wissal-nets.pdf"
+          ],
+          "decisions": [
+            "17:13 NETS内在期待渐弱并更看重对祸因的无知；思高内心依赖与原有译文的理性助力语境相通。未凭流畅性进一步改写晦涩英文。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第17章13节英文“the expectation of being less”句法残缺；结合上节所说理性的帮助，译为“对帮助的指望越少”，保留其与不明痛苦缘由之间的关联。"
+          ],
+          "notes_after": [
+            "第17章13节英文“the expectation of being less”句法残缺；结合上节所说理性的帮助，译为“对帮助的指望越少”，保留其与不明痛苦缘由之间的关联。"
+          ]
+        },
+        {
+          "chapter": 18,
+          "unit_id": "c8NU",
+          "source_sha256": "f98ffbcbc9284e88d0c87d1e377d27790fb67022aea3b175c854bc71d7c62aea",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=32&chapter=18",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/29-wissal-nets.pdf",
+            "https://www.biblegateway.com/passage/?search=Wisdom%2018&version=NRSVUE%3BNABRE",
+            "https://tips.translation.bible/story/translation-commentary-on-wisdom-181/",
+            "https://tips.translation.bible/story/translation-commentary-on-wisdom-1825/"
+          ],
+          "decisions": [
+            "18:1曾拟依上下文补否定；进一步发现1894/1895修订本及其衍生版本同样保留肯定句，缺少足够原刊校勘证据确认误写，已撤回试改，最终正文保留原底本。现代参考的否定读法记入注，不以多数译本投票改写。",
+            "18:25 NRSVUE脚注明说古证据作they，UBS更说明多数抄本有不同代词；不能把现代优选he当无争议英文纠错。保留他们，改注从含混升级为确有异读。",
+            "18:9 NRSVUE脚注祖先带头唱为古读之一，保持本稿不套现代主文。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第18章1节底本为“Counted it a happy thing that they too had suffered”（因他们也曾受苦而感到快意），与部分中文参考译法不同；未据参考本补入英文所无的否定词。",
+            "第18章25节底本为“the destroyer yielded to these, and they feared”，后半句they所指不明；译为“他们也心生惧怕”，未擅自改为毁灭者惧怕。"
+          ],
+          "notes_after": [
+            "版本说明：18:1英文称仇敌因圣民也曾受苦而快意；此措辞也见1894/1895修订本传统。思高、NETS、NRSVUE采用圣民未受苦的读法。由于尚未核清早期校勘依据，不能断言指定英文漏写否定，故保留其肯定表述。",
+            "版本说明：18:25英文“他们也心生惧怕”保留复数。NRSVUE正文采用毁灭者惧怕的单数，脚注及UBS手册说明复数也有古抄本依据；不擅自以现代优选读法覆盖。"
+          ],
+          "research_followup": "1894/1895扫描本18:1的旁注和希腊校勘谱系尚待核；搜索定位不作已读原刊证据。"
+        }
+      ],
+      "actual_chapters_context_read": 2,
+      "body_blocks_changed": 0,
+      "chapters_with_notes_changed": 1
+    },
+    "1-baruch": {
+      "full_review_this_round": false,
+      "chapters": [
+        {
+          "chapter": 3,
+          "unit_id": "c94B",
+          "source_sha256": "883992557b33f19b127f5e9d92a93b876c83244801aad8ebf8823b9ad29e6956",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=38&chapter=3",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/35-barouch-nets.pdf"
+          ],
+          "decisions": [
+            "3:4 NETS引言说明希腊死人可能来自未标元音希伯来语men/dead误读，但并无现存本处希伯来底本可证实。思高垂死属解释，不应改掉英文dead。3:37英文明用she，与智慧主题一致，不改为神降世以满足基督论读法。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题（巴录一书3:4）：英文明确作“已死的以色列人的祷告”；所供中文参考本没有“已死的”。本译保留英文表述，未擅自改成活着的以色列人。"
+          ],
+          "notes_after": [
+            "版本说明：3:4按指定英文保留“已死的以色列人”。NETS引言指出，希腊的“已死”可能出自希伯来语“人／死人”的误读；这是原文重构假说，不能据以改动本项目英文。思高译为“垂死”，亦属不同处理。"
+          ]
+        }
+      ],
+      "actual_chapters_context_read": 1,
+      "body_blocks_changed": 0,
+      "chapters_with_notes_changed": 1
+    },
+    "sirach": {
+      "full_review_this_round": false,
+      "chapters": [
+        {
+          "chapter": 1,
+          "unit_id": "c8PR",
+          "source_sha256": "dc06753ecbe317288d16e210cbaa52d1a79619ae67f8063efe697329f9b8b33f",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=1"
+          ],
+          "decisions": [
+            "1:5、7、21指定英文仅省略号；思高有实文。不得将短本省略当作翻译漏译，正文仍保留。1:9对象万物，1:10凡有血气的谓语为同在，不把用户特定浇灌用语泛化造成原文谓语串节。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第一章5、7、21节，英文底本仅列省略号，照样保留其空缺，不从中文参考本补入正文。"
+          ],
+          "notes_after": [
+            "第一章5、7、21节，英文底本仅列省略号，照样保留其空缺，不从中文参考本补入正文。"
+          ]
+        },
+        {
+          "chapter": 3,
+          "unit_id": "c8R7",
+          "source_sha256": "dff18a14d2a522df26a2d1d9a116688ce148d4eb4d5834a96e4a30557c35414a",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=3"
+          ],
+          "decisions": [
+            "3:19指定英文省略号、思高节序及增句不同，依指定文本保留。3:3与3:30保持赎罪的行为，不为修辞顺畅改成被动已获赦免；3:17 acceptable man与思高比较式有别，不互换。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第三章19节英文底本仅列省略号，未采用中文参考本补足。"
+          ],
+          "notes_after": [
+            "第三章19节英文底本仅列省略号，未采用中文参考本补足。"
+          ]
+        },
+        {
+          "chapter": 6,
+          "unit_id": "c8RZ",
+          "source_sha256": "737114377a020daaa9e9abe47748bf2ed92694ad04dcfca4d5702dcdce29b8f4",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=6",
+            "https://bible.usccb.org/bible/sirach/6",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "6:2 as a bull的受事比喻与NETS牛被攫取相符；原译补公牛践踏将公牛变成施事。恢复英文比较结构，不改用NABRE的火焚比喻。"
+          ],
+          "changes": [
+            {
+              "block_id": "p0003",
+              "before": "不可凭着心里的谋算自高，免得你的心灵被撕裂，如同遭公牛践踏。",
+              "after": "不可凭着心里的谋算自高，免得你的心灵像公牛一样被撕裂。",
+              "reason": "去掉英文没有的践踏，并恢复公牛作为被撕裂者的比喻关系。"
+            }
+          ],
+          "notes_before": [
+            "第六章2节英文“torn in pieces as a bull”比喻句法不明；依紧接的叶与果受毁意象，并参照所供中文本，译为心灵如遭公牛践踏而破碎。"
+          ],
+          "notes_after": [
+            "版本说明：6:2按英文被动句译作心灵像公牛一样被撕裂。NETS亦将公牛理解为被攫取的一方；思高以牛消耗气力、NABRE以火焚气力，属于不同处理，不混入本译。"
+          ]
+        },
+        {
+          "chapter": 8,
+          "unit_id": "c8SF",
+          "source_sha256": "618016a1ebe4cfbb2affcc6bee87bf06fca98004d0fcddcf08b6cd14eb541185",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=8",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "8:19 NETS亦直译不让他报还恩惠，证明并非本英文独有的古怪误句。保留，不依思高改为招祸。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第八章19节末句英文为“Do not let him return you a favor”，意思与所供中文参考本不同；按“不让他报还恩情”保留，未擅改为其他版本。"
+          ],
+          "notes_after": [
+            "版本说明：8:19不让人报还恩情的措辞也见NETS希腊文本译法；思高则按避免祸患解释。原句所指仍难明，本译保留指定英文，不将隐喻强解为报复。"
+          ]
+        },
+        {
+          "chapter": 10,
+          "unit_id": "c8SZ",
+          "source_sha256": "d5b03e2ecb1ccde396ba43d6d81c822a0cd814feae0bb52c7e72f5b72e4ac154",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=10"
+          ],
+          "decisions": [
+            "10:21指定省略号不据思高或扩充传统补文。10:13英文骄傲起头是罪、思高罪恶起源为骄傲，主谓关系不同，依英文保留。10:9英文第一人称身体也不随中文改为第三人称。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第十章21节英文底本仅列省略号，未补入中文参考本正文。"
+          ],
+          "notes_after": [
+            "第十章21节英文底本仅列省略号，未补入中文参考本正文。"
+          ]
+        },
+        {
+          "chapter": 11,
+          "unit_id": "c8T7",
+          "source_sha256": "e4ea4217ab7acd9fcc2c4e67b9840bd23f3088f4a09c1e1857c8f714116165a3",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=11"
+          ],
+          "decisions": [
+            "11:15—16思高有正文，指定英文仅省略号，不以参考增加内容。11:34指定英文与自己人疏远，思高夺取家产，不能互换。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第十一章15—16节英文底本仅列省略号，未补入中文参考本正文。"
+          ],
+          "notes_after": [
+            "第十一章15—16节英文底本仅列省略号，未补入中文参考本正文。"
+          ]
+        },
+        {
+          "chapter": 13,
+          "unit_id": "c8TR",
+          "source_sha256": "99c444de0a0c641cd397bde3f94e70a77e759443794611a521c91e41e4f5cdd1",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=13"
+          ],
+          "decisions": [
+            "13:14英文省略号，思高关于爱神与拯救的句子不补入。13:12—13不守秘密的危险与上下文权贵试探相连，现译保留。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第十三章14节英文底本仅列省略号，未补入中文参考本正文。"
+          ],
+          "notes_after": [
+            "第十三章14节英文底本仅列省略号，未补入中文参考本正文。"
+          ]
+        },
+        {
+          "chapter": 17,
+          "unit_id": "c8UR",
+          "source_sha256": "5e3bc9b99ec101d5460921b122ca0565307ccdc74f4ba9253cb7977d820a8cdc",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=17",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf",
+            "https://bible.usccb.org/bible/sirach/17"
+          ],
+          "decisions": [
+            "17:31指定英文以evil man为主语、flesh and blood为所思对象；NETS及思高所据语序不同，不倒转指定英文。17:32承接神鉴察的语境，现译不把he强解为恶人。已读NETS17:28—32及NABRE17章。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题：17:32英文以“He”起句，所指未明；译文保留“他”，未依参考本确定为主。"
+          ],
+          "notes_after": [
+            "译者待核实问题：17:32英文以“He”起句，所指未明；译文保留“他”，未依参考本确定为主。"
+          ]
+        },
+        {
+          "chapter": 19,
+          "unit_id": "c8V7",
+          "source_sha256": "d18542f08a6abb694a1258ba39c6d9c545e859bc5ec81133626cb6ee89aeb8e9",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=19",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "19:5思高与NETS加明确的恶事作为喜乐对象，指定英文仅heart，保留而不补入。19:27NETS在无人察觉时、思高未提防时，可解释指定英文not known；现译未被人识破忠实于潜藏奸诈的上下文。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题：19:5英文仅说心中享乐，没有参考本“作了恶”的限定，依英文保留。19:27英文where he is not known所指含混，译作“在他不被认出的地方”，未加入参考本“咬你一口”的意象。"
+          ],
+          "notes_after": [
+            "译者待核实问题：19:5英文仅说心中享乐，没有参考本“作了恶”的限定，依英文保留。19:27英文where he is not known所指含混，译作“在他不被认出的地方”，未加入参考本“咬你一口”的意象。"
+          ]
+        },
+        {
+          "chapter": 20,
+          "unit_id": "c8VF",
+          "source_sha256": "4d8148a20b8b5795be170cef3fdcf67b170f83f21f23ebdbd4c789916aa0b34a",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=20",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "20:14NETS同样eyes are many instead of one，证明指定英文并非独有错误；思高七只眼是另一读法。现译以比喻表达贪求回报，不改七。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题：20:14英文“his eyes are many instead of one”字面为“他的眼睛不是一只，而是许多只”，按施与求回报的上下文译出贪求多份的意思；未采用参考本明确的“七倍”。"
+          ],
+          "notes_after": [
+            "译者待核实问题：20:14英文“his eyes are many instead of one”字面为“他的眼睛不是一只，而是许多只”，按施与求回报的上下文译出贪求多份的意思；未采用参考本明确的“七倍”。"
+          ]
+        },
+        {
+          "chapter": 21,
+          "unit_id": "c8VR",
+          "source_sha256": "1d8f44038940e25c8fec9530aabcd48d7bc0ae7e2b9ce87f6b102a33250de188",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=21",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "21:25 NETS tell tales与英文grieved不同，尚无校勘依据证明后者仅录入错误，保留忧伤。21:26英文mouth is their heart也不凭熟悉箴言改成在心里。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题：21:25英文“The lips of strangers will be grieved at these things”与参考本“胡言乱语的人喜欢说三道四”不同；译文依英文保留，具体所指未明。"
+          ],
+          "notes_after": [
+            "译者待核实问题：21:25英文说外人的嘴唇因这些事忧伤，NETS说述说这些事，思高说愚人信口开河；差异明确，尚未核清其希腊校勘依据，正文保留英文。"
+          ]
+        },
+        {
+          "chapter": 22,
+          "unit_id": "c8VZ",
+          "source_sha256": "eeedb40fd7a0e53f8dc25710a517ab2e101a73fcd32634cda2ef913ae4ae1002",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=22"
+          ],
+          "decisions": [
+            "22:7—10指定英文包括儿女教养两节，思高本章未见相同段落；保留指定顺序及完整内容。22:22仍保留可和好的例外条件，不削弱辱骂、狂傲、泄密、阴险袭击的限制。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "版本说明：22:7—10英文将教导愚昧人的两节置于儿女教养两节之前，与中文参考本次序不同，依英文顺序保留。"
+          ],
+          "notes_after": [
+            "版本说明：22:7—10英文将教导愚昧人的两节置于儿女教养两节之前，与中文参考本次序不同，依英文顺序保留。"
+          ]
+        },
+        {
+          "chapter": 23,
+          "unit_id": "c8W7",
+          "source_sha256": "a293eab09bc6af30e50cb5dd0192c8932e998164b42594983aa730bdc8bfc188",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=23"
+          ],
+          "decisions": [
+            "23:16思高作贱肉身同样未限定近亲，支持前轮不添加乱伦限定。23:2保留英文显列their or my的二选异读，未因思高流畅而删除。23:24不把英文刑罚延及儿女改成仅审问子女。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "版本说明：23:16英文未明确指近亲相奸，故不采用参考本“与近亲行淫”的限定。"
+          ],
+          "notes_after": [
+            "版本说明：23:16英文未明确指近亲相奸，故不采用参考本“与近亲行淫”的限定。"
+          ]
+        },
+        {
+          "chapter": 24,
+          "unit_id": "c8WF",
+          "source_sha256": "9f4913f8c36424ea98316e76c66bf8661c07f6282e9ee0aa2686bacb7490d470",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=24",
+            "https://bible.usccb.org/bible/sirach/24"
+          ],
+          "decisions": [
+            "24:15 NABRE明确onycha，注解关联出30香料，思高红螺；支持前轮将onyx按香螺处理并明注，不改回宝石。24:14恩革底/海边、24:27尼罗/光明等不跨底本代换。NABRE24全文及异文脚注已读，18与24节在其脚注但在指定正文，均保留。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "原文修正说明：24:15列举香料，英文onyx通常指缟玛瑙，按本节香料语境及参考本“香螺”，作为onycha的疑似笔误译为“香螺”；palathus按芳香木材译为“香木”。"
+          ],
+          "notes_after": [
+            "原文修正说明：24:15列举香料，英文onyx通常指缟玛瑙，按本节香料语境及参考本“香螺”，作为onycha的疑似笔误译为“香螺”；palathus按芳香木材译为“香木”。"
+          ]
+        },
+        {
+          "chapter": 25,
+          "unit_id": "c8WR",
+          "source_sha256": "ff15991509eb344ac91d7e28f521b91839567f97c208555971c512cb3e1d296e",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=25"
+          ],
+          "decisions": [
+            "25:15思高蛇毒/妇人，指定英文蛇头/仇敌；保留英文而不凭上下文改为妇人。25:26保持离弃的身体比喻，未增伤害命令。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "版本说明：25:15英文为“蛇的头”和“仇敌的怒气”，不同于参考本的“蛇的毒液”和“妇人的烈怒”，依英文保留。25:26保留身体分离的比喻，未将其扩大为身体伤害的命令。"
+          ],
+          "notes_after": [
+            "版本说明：25:15英文为“蛇的头”和“仇敌的怒气”，不同于参考本的“蛇的毒液”和“妇人的烈怒”，依英文保留。25:26保留身体分离的比喻，未将其扩大为身体伤害的命令。"
+          ]
+        },
+        {
+          "chapter": 26,
+          "unit_id": "c8WZ",
+          "source_sha256": "151fcbf332a626e8c11a7d7b63244ed1b47939cd2563f804553d9e57b3fb45bb",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=26",
+            "https://www.biblegateway.com/passage/?search=Sirach%2026&version=GNT",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "26:18 GNT脚注明列胸部与坚定内心的异读，证实不能简单把breasts当feet的打字错误。NETS/思高用腿脚的结构自然，却代表不同读法，保留。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "译者待核实问题：26:18英文“beautiful feet with the breasts of one that is steadfast”结构与意象难明，保留双足及胸部意象；参考本作“健美的双腿和坚实的双足”，未据此替换英文。"
+          ],
+          "notes_after": [
+            "版本说明：26:18双足与胸膛的意象难明，但GNT脚注确列胸部及坚定内心的古抄本异读；NETS和思高采用腿与足的读法。保留指定英文双足和胸膛，不以顺畅的柱基比喻擅换身体部位。"
+          ]
+        },
+        {
+          "chapter": 36,
+          "unit_id": "c8ZH",
+          "source_sha256": "7d66e41257df9c277f92ff60726bb819567a6742b0598e7a4b5c23e8e1ea3d5c",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=36"
+          ],
+          "decisions": [
+            "36:14思高威严与圣殿，指定英文exalt Your oracles与Your people，现译保留不同的内容与断句，不以参考通顺度拼出混合底本。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "36:14英文为“Fill Zion; exalt Your oracles”，未说明以何充满锡安；按其句法翻译，未补入其他版本的威严或圣殿。"
+          ],
+          "notes_after": [
+            "36:14英文为“Fill Zion; exalt Your oracles”，未说明以何充满锡安；按其句法翻译，未补入其他版本的威严或圣殿。"
+          ]
+        },
+        {
+          "chapter": 37,
+          "unit_id": "c8ZT",
+          "source_sha256": "104777fe09f8f8a8e22e50b7c6e589f158ef5429bbbbe8367162886378489c2d",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=37"
+          ],
+          "decisions": [
+            "37:17—18思高根与枝的譬喻不同于指定英文心意改变的表征，保留英文衔接，不补植物譬喻；37:22—23重复果实可靠亦按指定英文保留。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "37:17英文为承接下节的短句，译文保留其衔接形式；未采用中文参考本“根、枝子”的异文。"
+          ],
+          "notes_after": [
+            "37:17英文为承接下节的短句，译文保留其衔接形式；未采用中文参考本“根、枝子”的异文。"
+          ]
+        },
+        {
+          "chapter": 38,
+          "unit_id": "c901",
+          "source_sha256": "e7abf50ee6f576403ea556295dc662516fccbfa3384351e0fa5bd755aa765b9a",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=38",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "38:11 NETS正文留空并非采用另一顺畅释义；思高按能力献祭亦是解释。本译原句不在世意象保留但显明不是确定释义。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "38:11英文“as one that is not”语意晦涩，暂按“仿佛自己已不在世”保留原句意象；参考本此处不同，未据以改写。"
+          ],
+          "notes_after": [
+            "译者待核实问题：38:11英文as one that is not语意不完整，暂保留仿佛自己已不在世的字面理解；NETS在相应位置以省略号显示难解文字，思高按能力献祭的译法不能据以确定原意。"
+          ]
+        },
+        {
+          "chapter": 39,
+          "unit_id": "c909",
+          "source_sha256": "9414299a242450d7c3ec47bbf79270550a74d399858e788f8985155d3a1e51e9",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=39"
+          ],
+          "decisions": [
+            "39:11思高同样生前名声与死后增添，佐证现译不必改前轮参考的心满意足；39:23水变咸与思高土地变盐野不同，不移入土地。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "39:11依英文底本译为生前留名胜过千人、死后更加增添名声；未采用参考本“心满意足”的异文。"
+          ],
+          "notes_after": [
+            "39:11依英文底本译为生前留名胜过千人、死后更加增添名声；未采用参考本“心满意足”的异文。"
+          ]
+        },
+        {
+          "chapter": 40,
+          "unit_id": "c90H",
+          "source_sha256": "4b5bac541a9b161224d8b61db326ace15efba5deafbd05b74420bd8e4ad8ec5d",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=40"
+          ],
+          "decisions": [
+            "40:11、19—20思高与指定英文同有水归海、妻子、智慧，说明此前参考差异非唯一中文解释；40:14思高恶人张手时灭亡与指定英文施予喜乐有差异，保留指定主语和对照，不凭现代译本改写。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "40:11、19—20等节与中文参考本有明显异文，依英文分别保留水归海、无可指责的妻子及爱慕智慧。"
+          ],
+          "notes_after": [
+            "40:11、19—20等节与中文参考本有明显异文，依英文分别保留水归海、无可指责的妻子及爱慕智慧。"
+          ]
+        },
+        {
+          "chapter": 41,
+          "unit_id": "c90T",
+          "source_sha256": "c9de063e00e38f17a1408dbcfbd85ed465c8f190c9894c0a5b1b958a4367598a",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=41",
+            "https://biblics.com/en/bible/world-english-bible/new-testament/sirach/41/16",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf",
+            "https://www.biblegateway.com/passage/?search=Sirach%2041&version=RSVCE"
+          ],
+          "decisions": [
+            "41:16 NETS Therefore与WEB旧式Wherefore相印证；本英文Why没有问号且后文because继续解释，判断为现代化改写误把连接词当疑问。修正逻辑但保留下句not，不随网页RSVCE所呈不含not的句子。"
+          ],
+          "changes": [
+            {
+              "block_id": "p0017",
+              "before": "为何要敬重我的话呢？因为并非每一种羞耻感都值得保留，也并非一切事都会得到众人真诚的认可。",
+              "after": "因此，要敬重我的话，因为并非每一种羞耻感都值得保留，也并非一切事都会得到众人真诚的认可。",
+              "reason": "将误成反问的连接恢复为因此的劝诫；保留英文对不当羞耻的否定范围。"
+            }
+          ],
+          "notes_before": [
+            "41:16英文起句为“Why show reverence to my word”，按疑问句保留；其逻辑较晦涩，未按参考本改成“留心听我的话”。"
+          ],
+          "notes_after": [
+            "原文修正说明：41:16英文起句Why show reverence没有问号，与训诫语境不合；相近旧式英译作Wherefore，NETS作Therefore。此处按因此的承接义修正，不作为何的反问；后面的否定仍按指定英文保留。"
+          ]
+        },
+        {
+          "chapter": 43,
+          "unit_id": "c919",
+          "source_sha256": "454fbdcee27f4af8eca201672be7bd41de944f5449760caf043e30b03fcc1e48",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=43",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "43:21指定英文it承接严寒，思高以天主为主语、NETS也He，不将这些代词差异直接消平为烈日。43:26思高将航海者作主语，NETS为使者成功；指定his end仍按近邻航海语境解释，保留现译和说明。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第二十一节原文承接严寒，未采用参考本补出的“烈日”；第二十六节“his end”结合航海上下文，译作航海人顺利到达目的地。"
+          ],
+          "notes_after": [
+            "第二十一节原文承接严寒，未采用参考本补出的“烈日”；第二十六节“his end”结合航海上下文，译作航海人顺利到达目的地。"
+          ]
+        },
+        {
+          "chapter": 44,
+          "unit_id": "c91H",
+          "source_sha256": "7b8120624e25ec329514a81bf58c2feeac548dc8409261c1fcb4a6dd42e47bf5",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=44",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "44:17NETS明确exchange，支持指定英文代替/交换措辞；思高人类继承人的表达不同。保留代表性比喻，不改成仅蒙保护，也不作挪亚代赎教义解释。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第十七节“taken in exchange [for the world]”直译为挪亚被取来代替世人，保留英文的代表性措辞，不按参考本改成仅蒙保护。"
+          ],
+          "notes_after": [
+            "第十七节“taken in exchange [for the world]”直译为挪亚被取来代替世人，保留英文的代表性措辞，不按参考本改成仅蒙保护。"
+          ]
+        },
+        {
+          "chapter": 45,
+          "unit_id": "c91T",
+          "source_sha256": "4aca12c1bc5b173791a5e90ac5392fad2f8265cda2cfb734ad757ae81a1caa62",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=45"
+          ],
+          "decisions": [
+            "45:3思高破除邪术而非笼统成就奇事，说明止息并非无意义；保留英文，未扩写出埃及灾祸背景。45:16、22第二人称与思高第三人称差异保留，避免无说明地替换受话者。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第三节英文是使奇事“止息”，不同于参考译本“成就”，保留英文。第十六、二十二节英文转为第二人称，译文保留。"
+          ],
+          "notes_after": [
+            "第三节英文是使奇事“止息”，不同于参考译本“成就”，保留英文。第十六、二十二节英文转为第二人称，译文保留。"
+          ]
+        },
+        {
+          "chapter": 46,
+          "unit_id": "c921",
+          "source_sha256": "7c34f2de28174a3f5957145dd786c88b85548bf0ded3913e3c3c5cdb7b2ac5e0",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=46",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf",
+            "https://bible.usccb.org/bible/sirach/46"
+          ],
+          "decisions": [
+            "46:4 NABRE及思高为太阳停住，指定英文退后，按英文保留，不凭约书亚记调和。46:18 NETS也明确Tyrians，证实推罗不是本译漏误；NABRE/思高为仇敌，不据其删去专名。已读NABRE46章正文与脚注、NETS46:13—20。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第四节英文是太阳“退后”，不同于参考译本“停住”，照英文保留。第十八节英文列有推罗首领，参考译本没有，照英文完整译出。"
+          ],
+          "notes_after": [
+            "第四节英文是太阳“退后”，不同于参考译本“停住”，照英文保留。第十八节英文列有推罗首领，参考译本没有，照英文完整译出。"
+          ]
+        },
+        {
+          "chapter": 47,
+          "unit_id": "c929",
+          "source_sha256": "7ca0f1365afe7798ce042fa7032d0b2f7ddd078a9ea9f5584a794efaca0ee962",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=47",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "47:9思高与NETS都祭坛，佐证指定英文，不能因另一个中文参考的约柜而修改。47:20思高他们慨叹、NETS致使迷惑，指定英文第一人称我忧伤；保留其第一人称并明注，而不把两个句式折衷。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "第九节英文为祭坛，未采用参考译本的约柜。第二十节英文为第一人称“我为你的愚昧忧伤”，不同于参考译本第三人称，按英文保留。"
+          ],
+          "notes_after": [
+            "第九节英文为祭坛，未采用参考译本的约柜。第二十节英文为第一人称“我为你的愚昧忧伤”，不同于参考译本第三人称，按英文保留。"
+          ]
+        },
+        {
+          "chapter": 49,
+          "unit_id": "c92T",
+          "source_sha256": "92d68cd30f141688612777aafe02d28c06a7499dc1911bcf39a5655cccbca213",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=49",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "49:9思高约伯不在本英文，不能套入。49:10英文he不与现代they相混；保留原注，尚待英文谱系核查。",
+            "NETS49:9脚注释he为God，与现译相容；49:10 NETS复数先知为主语，与指定英文单数He不同，未倒改指定英文。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "49:9—10 英文代词的承接略含混；按神记念、施恩并安慰拯救的上下文译作“祂”。中文参考的约伯叙述不见于本英文版本，未补入。"
+          ],
+          "notes_after": [
+            "49:9—10 英文代词的承接略含混；按神记念、施恩并安慰拯救的上下文译作“祂”。中文参考的约伯叙述不见于本英文版本，未补入。"
+          ]
+        },
+        {
+          "chapter": 50,
+          "unit_id": "c931",
+          "source_sha256": "a47895500f3bf80375f7f9acf650a71c258083ef6799ad636e661332e586eec2",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=50",
+            "https://www.biblegateway.com/passage/?search=Sirach%2050&version=RSVCE",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "50:3 RSVCE脚注明确Gk was diminished；主文quarried是参希伯来文的校改。因此撤销把此处只视为工程语境怪异的悬疑，升级为版本差异。",
+            "50:27思高同样保留复合式名字，RSVCE脚注文本不确定，不凭NABRE书介重排谱系；50:21仍保留英文单数。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "50:3 英文为“蓄水池缩小了”（was diminished），与本段建造工程的语境不甚协调，也不同于中文参考的“挖池”。暂保留英文读法，待核实原版。",
+            "50:21 英文主语为“他”，保留为大祭司再次俯伏，未按中文参考改成全体会众。",
+            "50:27 英文姓名结构为 Jesus, the son of Sirach Eleazar, of Jerusalem，暂按字面保留父名组合“西拉以利亚撒”，未自行改动世系。"
+          ],
+          "notes_after": [
+            "版本说明：50:3按英文译蓄水池缩小；RSVCE脚注说明希腊文确作缩小，主文挖凿是参照希伯来文的校改。故不把现代挖池读法替入本译。",
+            "50:21英文主语为他，保留为大祭司再次俯伏，未按中文参考改成全体会众。",
+            "版本说明：50:27英文父名组合西拉以利亚撒与思高相近；RSVCE也注明本行文本不确定。各译本谱系处理不同，保留指定英文，不强行重排。"
+          ]
+        },
+        {
+          "chapter": 51,
+          "unit_id": "c939",
+          "source_sha256": "464309753aaa441a7f8b4b46e57b7db5cfa8f12d0cf24493dfa5f8959c622bfc",
+          "context_read": "指定英文、现译及思高本章全文；额外参考范围见decisions",
+          "urls": [
+            "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=33&chapter=51",
+            "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+          ],
+          "decisions": [
+            "51:10 NETS明确Father of my lord，支持保留我主的父而非现代通行我的父；51:26近在手边与思高近处相合；51:28高价学训诲与51:25免费形成原文张力，不强行调和。"
+          ],
+          "changes": [],
+          "notes_before": [
+            "51:10 英文称呼为“主，就是我主的父”（the Lord, the Father of my Lord），按本版保留，未改成“我的父、我的主”。",
+            "51:26 “hard at hand”按表示就在近处的旧式用法理解，译为“就在近旁”；并非“难以寻见”。中文参考中12节后的希伯来文增补赞歌不在本英文版本内，未收入。"
+          ],
+          "notes_after": [
+            "版本说明：51:10英文称主为我主的父，此读法也见NETS希腊本译法；不依思高改成主是我的父，也不添基督论解释。",
+            "51:26 hard at hand按表示就在近处的旧式用法理解，译为就在近旁；并非难以寻见。参考中12节后的希伯来文增补赞歌不在本英文版本内，未收入。"
+          ]
+        }
+      ],
+      "actual_chapters_context_read": 30,
+      "body_blocks_changed": 2,
+      "chapters_with_notes_changed": 8
+    }
+  },
+  "next_checkpoint": "本批无待执行编辑；下一深化点是Wisdom18:1旧RV正读/现代否读的校勘出处、Sirach38:11残句与49:10单复数的英文谱系。需可靠校勘证据后再决定正文，不以多数译本投票。",
+  "status": "本轮五卷资源研究与既有疑难重点审校已完成；不是五卷全部单元全文多译本重审。",
+  "verification": {
+    "all_five_books_units_validated": 110,
+    "scope": "结构、块序、源指纹、reviewed标记；不证明所有110单元已全文语义再审。",
+    "actual_chapters_context_read": 39,
+    "body_blocks_changed": 3,
+    "chapters_with_notes_changed": 16
+  },
+  "metadata_consistency_updates": [
+    {
+      "book": "tobit",
+      "unit": "c8AC",
+      "field": "references[0]",
+      "before": "参考同TXT 21451—21465行，多比传二章。参考本较长，未移入英文没有的失明年数等内容；10节英文明确I went，按第一人称保留。",
+      "after": "参考同TXT 21451—21465行，多比传二章。参考本较长，未移入英文没有的失明年数等内容；2:10经本轮NETS希腊长短本、思高及NABRE交叉核对，已将误录第一人称修为阿希加离去，详见文末原文修正说明。",
+      "reason": "同步既已审定的2:10主语修正，清除旧参考记录与现正文相反的表述；不新增正文修改。"
+    }
+  ]
+}

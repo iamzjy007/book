@@ -46,7 +46,7 @@
     },
     {
       "id": "p0011",
-      "zh": "我不知道墙上有麻雀。我睁着眼，温热的雀粪落进眼中，眼睛便蒙上白膜。我去求医，医生却无能为力；阿希加供养我，直到我往以马吕去。"
+      "zh": "我不知道墙上有麻雀。我睁着眼，温热的雀粪落进眼中，眼睛便蒙上白膜。我去求医，医生却无能为力；阿希加供养我，直到他往以马吕去。"
     },
     {
       "id": "p0012",
@@ -66,14 +66,29 @@
     }
   ],
   "references": [
-    "参考同TXT 21451—21465行，多比传二章。参考本较长，未移入英文没有的失明年数等内容；10节英文明确I went，按第一人称保留。",
+    "参考同TXT 21451—21465行，多比传二章。参考本较长，未移入英文没有的失明年数等内容；2:10经本轮NETS希腊长短本、思高及NABRE交叉核对，已将误录第一人称修为阿希加离去，详见文末原文修正说明。",
     {
       "source": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=2",
       "location": "多比传 第2章",
       "use": "FHL中文辅助核对，实际匹配范围和版本差异见 reference-review/fhl-dydi-d.json；英文仍为底本。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=21&chapter=2",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://bible.usccb.org/bible/tobit/2",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/19-tobit-nets.pdf",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
     }
   ],
   "notes": [
-    "译者待核实问题：二10英文作“直到我往以马吕去”，参考本作阿希加前往；本译保留英文第一人称，未据参考本改换人物。"
+    "原文修正说明：2:10英文作“直到我往以马吕去”。NETS所译希腊短本与长本都指阿希加离去，思高、NABRE亦同，且多比失明留家的叙事不支持他出行。译文将“我”修正为“他”，所指为阿希加。"
   ]
 }

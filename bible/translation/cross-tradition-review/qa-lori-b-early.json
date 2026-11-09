@@ -1,0 +1,313 @@
+{
+  "worker": "lori_b",
+  "reviewed_worker": "dydi_d",
+  "date": "2026-11-09T16:04:41.947681+00:00",
+  "scope": "043—068记录中10处正文变化与4处仅注变化；逐块英文/HEAD/现稿核读，专项扫描证据核验，不是全书重审",
+  "full_review_this_round": false,
+  "head": "f0aaddce4a83a292de2708b394afdceab7a32161",
+  "snapshots": {
+    "bible/translation/zh/didache/cFU5.json": "545e53c5a24ea3f7b87c80d293ccf5349f51692d4af1b474ef2b6c66e267a7b8",
+    "bible/translation/zh/epistle-of-barnabas/cGDE.json": "29a3271e0ec08882430e5caa1695afec150e32e09d67032678eb9a40fea7b904",
+    "bible/translation/zh/epistle-of-barnabas/cGG9.json": "765b8a04740700f7c8ad3dfda635c024aee5d50889dd01c2fdfbff5fe5795632",
+    "bible/translation/zh/apostolic-church-order/cGCF.json": "8acdf7bb079bd2eeec716178bef6f2ecc57b3594248fee3ba4d01b81374196d1",
+    "bible/translation/zh/correspondence-of-paul-and-seneca/cGJC.json": "547084ab44528b64bc95af0233fa6b1016a126d690b3be14c54f83e13eb98694",
+    "bible/translation/zh/the-shepherd-of-hermas/cJFA.json": "41bb4f1c4393861e3f084c76053057328e516685b3057f253c1993a097d3ad33",
+    "bible/translation/zh/odes-of-peace/cJGE.json": "1d0efeff19f4fe0d71c1bee44d2c6917706e48da2edc4aeeaf6d93b8fd81abe0",
+    "bible/translation/zh/arabic-infancy-gospel/cKF3.json": "ed8b78bc6b8d42d40a313acfa49e61fdfb8304ff1867ec3d99fe89d610f95ce0",
+    "bible/translation/zh/gospel-of-the-nativity-of-mary/cKGT.json": "f40aca60a7da6cd762005acc2fe9eff341937ef473d76c0ac15c2885a799697c",
+    "bible/translation/zh/history-of-joseph-the-carpenter/cKTX.json": "734e211c7ee7f5b95d34bbf448f7af63e53207d718017462f6f865d21ce24505",
+    "bible/translation/zh/life-of-john-the-baptist/cKUB.json": "d03045a5987c002f865c98c3d14db1fd2fa1160365850560b813c3b3e59c78bc",
+    "bible/translation/zh/acts-of-pilate/cMRH.json": "be915903261e35da026b1e121ae36e20d7a85ca1bdd45a3ca1cc87001de68c91",
+    "bible/translation/zh/narrative-of-joseph-of-arimathea/cMUB.json": "9e1a10cc7c72a790fecb25da3721d4d64dd357700916b294ec1c51e1eb2ab39c"
+  },
+  "checks": [
+    {
+      "book_id": "didache",
+      "unit": "cFU5",
+      "block": "p0004",
+      "kind": "body",
+      "english": "You, Lord Almighty, created all things for Your Name’s sake, and gave food and drink to men for their enjoyment, that they might give thanks to You, but You have blessed us with spiritual food and drink and continuous light through Your Child.",
+      "head": "全能的主，祢为自己名的缘故创造万物，赐人饮食享用，使他们感谢祢；祢却借着祢的仆人，赐我们属灵的饮食和永远的光明。",
+      "current": "全能的主，祢为自己名的缘故创造万物，赐人饮食享用，使他们感谢祢；祢却借着祢的仆人，赐我们属灵的饮食和永生。",
+      "current_notes": [
+        "原文修正说明：底本10:3作continuous light（持续的光），与Lake希腊对页（1919重印本，第324页）明确的ζωὴν αἰώνιον（永生）不合；ANF及Lightfoot也译永生。此处据希腊对页修正英文层误词。Maranatha仍译“主啊，愿祢来”。",
+        "英文 child/Child 在此祷文中依古代圣仆称谓的传统语用译为“仆人”；中文参考亦采用此称谓。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit": "cGDE",
+      "block": "p0005",
+      "kind": "note_only",
+      "english": "Then your light will break forth as the dawn, and your robes will rise quickly, and your righteousness will go before you, and the glory of God will surround you.”",
+      "head": "这样，你的光就必如晨光发出，你的衣袍必迅速升起，你的公义必在你前面行，神的荣耀必环绕你。”",
+      "current": "这样，你的光就必如晨光发出，你的衣袍必迅速升起，你的公义必在你前面行，神的荣耀必环绕你。”",
+      "current_notes": [
+        "3:4“衣袍”并非误录：Lake希腊印本第346页正文为ἱμάτια，校记指出另一校正读法ἰάματα意为医治，Lightfoot采后者。现按本底本保留衣袍，不以以赛亚书的熟悉措辞替换。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit": "cGG9",
+      "block": "p0002",
+      "kind": "note_only",
+      "english": "I will also speak with you concerning the temple and show how the wretched men erred by putting their hope on the building, and not on the God who made them, and is the true house of God.",
+      "head": "我还要与你们论到圣殿，说明那些可怜的人怎样走入迷误：他们把盼望放在建筑上，却不仰望那创造他们、又是真正神居所的神。",
+      "current": "我还要与你们论到圣殿，说明那些可怜的人怎样走入迷误：他们把盼望放在建筑上，却不仰望那创造他们、又是真正神居所的神。",
+      "current_notes": [
+        "16:1“神是真正神居所”的衔接亦见Lake英文印本第397页；希腊第396页作ὡς ὄντα οἶκον θεοῦ，Lightfoot与ANF将其理解为人误认建筑是神的居所。此处仍按指定英文保留，记录句法疑问，未据不同英译断言为录入错。第6节week仍不擅加七年。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "apostolic-church-order",
+      "unit": "cGCF",
+      "block": "p0002",
+      "kind": "body",
+      "english": "1 Cephas said: “You will not make divisions, but will make peace between those who contend; you will judge justly; you will not respect persons in reproving for a transgression. 2 For wealth does not avail with the Lord; for dignity does not predispose, nor beauty aid, but there is equality of all before Him. 3 In your prayer you will not hesitate, whether it will be or not; do not be [one who] for receiving stretches out the hands, but for giving draws them in. 4 If you have [anything] by your hands, you will give ransom for your sins; you will not hesitate to give, nor when giving will you murmur, for you will know who is the good dispenser of the reward. 5 You will not turn away from a needy one, but you will share in all things with your brother and will not say they are your own, for if you are partners in that which is imperishable, how much more in the corruptible things.”",
+      "head": "1 矶法说：“不可造成分裂，却要使相争的人和睦；审判要公正，责备过犯时不可看人的情面。2 财富在主面前无用；尊位不能使他偏袒，美貌也不能带来帮助，众人在他面前都是平等的。3 祷告的时候，不可疑惑这事是否成就；不可只在领受时伸手，施予时却缩手。4 手中若有所有的，就当施舍，赎自己的罪；施予不可犹豫，给的时候也不可发怨言，因为你要知道，谁是施行美善赏赐的那一位。5 不可拒绝有需要的人，却要凡物与弟兄分享，不可说是自己的；你们既在不朽坏的事上有分，何况在必朽坏的事上呢？”",
+      "current": "1 矶法说：“不可造成分裂，却要使相争的人和睦；审判要公正，责备过犯时不可看人的情面。2 财富在主面前无用；尊位不能使他偏袒，美貌也不能带来帮助，众人在他面前都是平等的。3 祷告的时候，不可疑惑这事是否成就；不可只在领受时伸手，施予时却缩手。4 手中若有什么，就当施舍，赎自己的罪；施予不可犹豫，给的时候也不可发怨言，因为你要知道，谁是施行美善赏赐的那一位。5 不可拒绝有需要的人，却要凡物与弟兄分享，不可说是自己的；你们既在不朽坏的事上有分，何况在必朽坏的事上呢？”",
+      "current_notes": [],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "correspondence-of-paul-and-seneca",
+      "unit": "cGJC",
+      "block": "p0026",
+      "kind": "body",
+      "english": "Seneca to Paul: Greetings. Much in every part of your works is enclosed in allegory and enigma, and therefore the great force that is given you of matter and talent should be beautified—I do not say with elegance of words, but with a certain care. Nor should you fear what I remember you have often said; that many who affect such things subvert the thought and emasculate the strength of the matter. But I wish you would yield to me and humor the genius of Latin, and give beauty to your noble words, so that the great gift that has been granted [to] you may be worthily treated by you. Farewell. Given on the day before the nones of June; Leo and Sabinus, consuls.",
+      "head": "塞涅卡向保罗问安。你著作的各个部分，有许多内容藏在寓意和隐语之中。因此，你所蒙赐、在内容和才华上的大力量，应当加以修饰；我不是说堆砌华丽词藻，而是用心斟酌。也不要担心你常说的那件事——我还记得，你说许多追求这些修饰的人，反而歪曲思想，削弱内容的力量。我愿你听我一言，顺应拉丁语的特性，为你高尚的言语增添美感，使你配得上所蒙赐的大恩。愿你平安。写于六月诺奈日前一日，即六月四日；利奥与萨比努斯任执政官。",
+      "current": "塞涅卡向保罗问安。你著作的各个部分，有许多内容藏在寓意和隐语之中。因此，你所蒙赐、在内容和才华上的大力量，应当加以修饰；我不是说堆砌华丽词藻，而是用心斟酌。也不要担心你常说的那件事——我还记得，你说许多追求这些修饰的人，反而歪曲思想，削弱内容的力量。我愿你听我一言，顺应拉丁语的特性，为你高尚的言语增添美感，使你能善用所蒙赐的大恩。愿你平安。写于六月诺奈日前一日，即六月四日；利奥与萨比努斯任执政官。",
+      "current_notes": [
+        "奥古斯都在信中是罗马皇帝的尊号。卡斯托耳和波吕克斯是希腊罗马神话中的孪生神祇；这里按塞涅卡信中的论说保留“诸神”。",
+        "罗马历用含首尾两日在内的倒数法；正文保留朔日（kalends）、诺奈日（nones）表达，并附同月日换算。执政官姓名及任期照底本，未据史实另行调整。",
+        "最后一封信的英文明确写应避开外邦人和以色列人的律法，并将grows and abides forever接在God之后；这些措辞均按底本保留。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "the-shepherd-of-hermas",
+      "unit": "cJFA",
+      "block": "p0240",
+      "kind": "body",
+      "english": "And they who gave in their branches two-thirds withered and one-third green, are those who have denied [the Lord] in various ways. Many, however, converted, but some of them hesitated and were in doubt. These, then, have conversion within their reach, if they convert quickly, and do not remain in their pleasures; but if they abide in their deeds, these, too, work to themselves death.",
+      "head": "交回三分之二枯萎、三分之一青绿枝条的人，是曾以各种方式否认〔主〕的人。其中许多人悔改，却有些迟疑、心怀二意。他们若赶快悔改，不再留恋享乐，仍有悔改的机会；若坚持原来的行为，也是在给自己招致死亡。",
+      "current": "交回三分之二青绿、三分之一枯萎枝条的人，是曾以各种方式否认〔主〕的人。其中许多人悔改，却有些迟疑、心怀二意。他们若赶快悔改，不再留恋享乐，仍有悔改的机会；若坚持原来的行为，也是在给自己招致死亡。",
+      "current_notes": [
+        "比喻一源块p0005中夹有孤立数字4，为残留节号，未当作正文。",
+        "比喻5 p0054 station 保留“守岗”形象，指禁食守候。p0086 sakes 为 stakes 明显拼写错，译支柱。p0106“肉身顺服身体”依前后明确的圣灵—肉身关系修为“顺服圣灵”，参考本也作圣灵；英文疑误用 body。其余儿子=圣灵、奴仆=神子等早期论述照录，不作神学协调。",
+        "比喻6中的 luxury 前部指奢侈放纵，末段明确也谈行善的喜悦，后段用“享乐”以保留正反两面，不一概定性为恶。比喻7的悔改后刑罚论照英文保留，不添加即时赦免的解释。",
+        "比喻8 p0213 英文收枝清单省略参考本另一组，保留现有块内容，不增译。p0240及p0241连续两类均写三分之二枯萎、三分之一青绿，与分类和参考不合，疑第一处比例倒置；因属具体比例，暂按英文保留并待核。",
+        "比喻9 p0269 sons of fruits 按明显拼写误作 sorts，译各样果实；p0287 fired into 按建筑语境与后文同义动作译嵌入；p0300孤立44系残留节号，不纳入正文。",
+        "比喻9 p0311 field slowly to the chisel 依石匠语境视为 yield 的拼写错，译很难受凿；p0323 crocks 依裂缝语境译裂缝。p0343建筑材料遵英文为生石灰及烧好的细黏土，不替换中文参考的灰泥、瓷片。",
+        "比喻九论神儿子之名的一段中，孤立的135为原文注码，未计入正文；comers依语境按corners译为四角。",
+        "比喻九第三座山关于忙于事务者，英文底本说他们亲近神的仆人，现仍保留。ANF与Lightfoot补出否定；Lake希腊校记（第二卷第270页）说明相关词句据拉丁及埃塞俄比亚译本回译，希腊A本缺。这是有版本依据的补文，不径称英文漏字。",
+        "比喻九末段孤立的252按原文注码处理，未计入正文；shape依前述石头凿补的语境译为印痕。",
+        "原文修正说明：比喻八前一类枝条，英文与后一类同写三分之二枯萎、三分之一青绿；据Lake希腊印本第二卷第210页及Lightfoot，并依前文两类区分，修正前一类为三分之二青绿、三分之一枯萎。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "the-shepherd-of-hermas",
+      "unit": "cJFA",
+      "block": "p0435",
+      "kind": "note_only",
+      "english": "Those cleave to the servants of God, but wander away, being choked by their business transactions; and the rich cleave with difficulty to the servants of God, fearing lest these should ask something of them.",
+      "head": "那些忙于事务的人亲近神的仆人，却被买卖事务挤住，以致走迷了路；富人很难亲近神的仆人，生怕他们向自己求什么。",
+      "current": "那些忙于事务的人亲近神的仆人，却被买卖事务挤住，以致走迷了路；富人很难亲近神的仆人，生怕他们向自己求什么。",
+      "current_notes": [
+        "比喻一源块p0005中夹有孤立数字4，为残留节号，未当作正文。",
+        "比喻5 p0054 station 保留“守岗”形象，指禁食守候。p0086 sakes 为 stakes 明显拼写错，译支柱。p0106“肉身顺服身体”依前后明确的圣灵—肉身关系修为“顺服圣灵”，参考本也作圣灵；英文疑误用 body。其余儿子=圣灵、奴仆=神子等早期论述照录，不作神学协调。",
+        "比喻6中的 luxury 前部指奢侈放纵，末段明确也谈行善的喜悦，后段用“享乐”以保留正反两面，不一概定性为恶。比喻7的悔改后刑罚论照英文保留，不添加即时赦免的解释。",
+        "比喻8 p0213 英文收枝清单省略参考本另一组，保留现有块内容，不增译。p0240及p0241连续两类均写三分之二枯萎、三分之一青绿，与分类和参考不合，疑第一处比例倒置；因属具体比例，暂按英文保留并待核。",
+        "比喻9 p0269 sons of fruits 按明显拼写误作 sorts，译各样果实；p0287 fired into 按建筑语境与后文同义动作译嵌入；p0300孤立44系残留节号，不纳入正文。",
+        "比喻9 p0311 field slowly to the chisel 依石匠语境视为 yield 的拼写错，译很难受凿；p0323 crocks 依裂缝语境译裂缝。p0343建筑材料遵英文为生石灰及烧好的细黏土，不替换中文参考的灰泥、瓷片。",
+        "比喻九论神儿子之名的一段中，孤立的135为原文注码，未计入正文；comers依语境按corners译为四角。",
+        "比喻九第三座山关于忙于事务者，英文底本说他们亲近神的仆人，现仍保留。ANF与Lightfoot补出否定；Lake希腊校记（第二卷第270页）说明相关词句据拉丁及埃塞俄比亚译本回译，希腊A本缺。这是有版本依据的补文，不径称英文漏字。",
+        "比喻九末段孤立的252按原文注码处理，未计入正文；shape依前述石头凿补的语境译为印痕。",
+        "原文修正说明：比喻八前一类枝条，英文与后一类同写三分之二枯萎、三分之一青绿；据Lake希腊印本第二卷第210页及Lightfoot，并依前文两类区分，修正前一类为三分之二青绿、三分之一枯萎。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "odes-of-peace",
+      "unit": "cJGE",
+      "block": "p0408",
+      "kind": "body",
+      "english": "And they made Me a debtor when I rose up—me who had been a debtor: and they divided My spoil, || though nothing was due to them.",
+      "head": "我起来的时候，他们使我负债——我这原已负债的；他们分了从我夺得的物，虽然这些本不归他们。",
+      "current": "我起来的时候，他们使我负债——我这原未负债的；他们分了从我夺得的物，虽然这些本不归他们。",
+      "current_notes": [
+        "第二首失传，英文正文直接从第一首跳到第三首；第三首开头残缺，保留省略号，不据参考本补“主的爱”。",
+        "第八首关于乳房、圣洁之奶及“那蒙拯救者”的意象，依英文保留；未按部分中文参考删去或改为“救赎者”。",
+        "第十七首第4节英文为“her hands”，未明确所指，译文保留“她”；第9节“my iron”亦照译，未擅自改成敌人的铁器。",
+        "第十九首父的双乳、圣灵挤奶及童女生子等意象，均按英文完整保留，未按参考本简化。",
+        "第二十三首信、轮子、头与脚的关联含义不尽明确，译文依英文保留意象，未据推测重构。",
+        "第二十四首深渊及其后代词所指较晦涩，依原文保留，未据参考本改写。",
+        "第二十八首第11节英文为“没有印记”，与参考本“没有嫉妒”不同，正文按英文保留。",
+        "原文修正说明：第三十一首“原已负债的”疑漏否定词。Harris 1911年印本第131页明确作“未曾负债”，Charlesworth独立译本也保留否定，与下句“这些本不归他们”相应；现改为“我这原未负债的”。",
+        "第三十三首第2节英文句法残缺，破坏者与恩典所对应的人称也不明确；译文保留毁灭、沉沦和秩序被摧毁等内容，未据中文参考替换底本。",
+        "第四十二首英文底本的节号有重复（第2节与第13节）；译文逐段保留底本次序，不据参考本重排。",
+        "第四十二首关于阴间、死亡及“脚和头”的人称转换依英文保留，未另加身份解释。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "arabic-infancy-gospel",
+      "unit": "cKF3",
+      "block": "p0003",
+      "kind": "body",
+      "english": "And He, in reply, explained to him physics and metaphysics, hyperphysics and hypophysics, the powers likewise and humors of the body, and the effects of the same;",
+      "head": "他回答时，向那人解释物理学、形而上学、超自然学和基本自然之学，以及身体的机能、体液和它们的作用；",
+      "current": "他回答时，向那人解释自然之学、形而上学、超自然学和基本自然之学，以及身体的机能、体液和它们的作用；",
+      "current_notes": [
+        "52:2 英文并列 physics、metaphysics、hyperphysics、hypophysics，为古代学科名目；后两项译作“超自然学”和“基本自然之学”，不视为现代物理学的分科。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "gospel-of-the-nativity-of-mary",
+      "unit": "cKGT",
+      "block": "p0005",
+      "kind": "body",
+      "english": "For God is the avenger of sin, not of nature, and therefore when He makes anyone childless, He does it for this reason: that He may the more wonderfully offer relief, and that that which is born may be known not to be of lust but of the divine gift.",
+      "head": "“神惩罚的是罪，不是人的天性。因此，祂使人没有儿女，是为要更奇妙地施行帮助，使人生出的孩子被认明不是出于情欲，而是神的恩赐。",
+      "current": "“神惩罚的是罪，不是人天生的状况。因此，祂使人没有儿女，是为要更奇妙地施行帮助，使人生出的孩子被认明不是出于情欲，而是神的恩赐。",
+      "current_notes": [
+        "3:5撒拉八十岁按底本保留，不改成正典中生以撒时的年岁。3:4 avenger of sin, not of nature指神追讨罪而非人的自然状况，不随参考本误解成报复不是神的本性。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "history-of-joseph-the-carpenter",
+      "unit": "cKTX",
+      "block": "p0004",
+      "kind": "body",
+      "english": "For if a man rejects the command of God and follows the works of the Devil by committing sin, his life is prolonged; for he is preserved in order that he may perhaps convert and reflect that he must be delivered into the hands of death.",
+      "head": "“人若拒绝神的命令，随从魔鬼的作为，犯了罪，他的寿命仍可能延长；留下他，是要使他或许悔改，思想自己终必被交在死亡手中。",
+      "current": "“人若拒绝神的命令，随从魔鬼的作为，犯了罪，他的寿命得以延长；留下他，是要使他或许悔改，思想自己终必被交在死亡手中。",
+      "current_notes": [
+        "31:8 exchange life for death译舍去生命归于死亡，中文参考本作以死亡换生命，方向相反，未采用。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "life-of-john-the-baptist",
+      "unit": "cKUB",
+      "block": "p0002",
+      "kind": "note_only",
+      "english": "Rare among books of its time, the Life of John the Baptist can allegedly be pinpointed to an exact year: AD 390. Supposedly written by Serapion, Bishop of Thmuis, this work harmonizes details of John the Baptist’s life from the Gospels and adds a great number of details; especially regarding John’s confrontation with Herod and Herodias.",
+      "head": "据称，《施洗约翰生平》的成书年代可以确定为一个具体年份：公元390年。这在同代著作中颇为罕见。本书据说由特姆伊斯的主教瑟拉皮恩所写，将福音书中施洗约翰生平的记述加以调和，又增添了许多细节，尤其着重约翰与希律、希罗底的冲突。",
+      "current": "据称，《施洗约翰生平》的成书年代可以确定为一个具体年份：公元390年。这在同代著作中颇为罕见。本书据说由特姆伊斯的主教瑟拉皮恩所写，将福音书中施洗约翰生平的记述加以调和，又增添了许多细节，尤其着重约翰与希律、希罗底的冲突。",
+      "current_notes": [
+        "关于导言署名与年代：Mingana校订本（1927，第234—235、255页）只据故事内证推估385—395年，且明言无法确认这位瑟拉皮恩的身份，年代上似非特姆伊斯同名主教。因此，导言的390年与特姆伊斯署名仍应视为推测。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "acts-of-pilate",
+      "unit": "cMRH",
+      "block": "p0002",
+      "kind": "body",
+      "english": "1. And the Lord stretching forth His hand, said: “Come to Me, all you holy ones of Mine which bear My image and My likeness—You that by the tree, and the Devil, and death were condemned. Behold! Now the Devil and death are condemned by the tree.” And all the holy ones were immediately gathered together in one under the hand of the Lord. And the Lord holding the right hand of Adam, said to him: “Peace be to you with all your children that are My righteous ones.” But Adam, casting himself at the knees of the Lord, prayed to Him with tears and pleadings, and said with a loud voice: “I will magnify You, O Lord, for You have set me up and not made my foes to triumph over me: O Lord my God, I cried to You and You have healed me; Lord, You have brought my soul out of Hades, You have delivered me from them that go down to the pit. Sing praises to the Lord all you holy ones of His, and give thanks to Him for the remembrance of His holiness! For there is wrath in His indignation and life is in His good pleasure!” In like manner, all the holy ones of God kneeled and cast themselves at the feet of the Lord, saying with one accord: “You have come, O Redeemer of the world! That which You foretold by the Law and by Your prophets, that have You accomplished in deed. You have redeemed the living by Your cross, and by the death of the Cross You have come down to us, so that You might save us out of Hades and death through Your majesty. O Lord, just as You have set the Name of Your glory in the heavens and set up Your cross for a sign of redemption on the earth, so, Lord, set up the sign of the victory of your cross in Hades, so that death may have no more dominion.”",
+      "head": "1. 主伸手说：“凡属我的圣者，有我的形像和样式的，都到我这里来；你们从前因那树、魔鬼和死亡被定罪。看哪，如今魔鬼和死亡因这木头被定罪了！”众圣者立刻聚集在主的手下。主握着亚当的右手，对他说：“愿你和你一切属我的义人儿女都平安。”亚当伏在主的膝前，流泪恳求他，大声说：“主，我要尊崇你，因为你曾提拔我，不叫仇敌向我夸耀。主我的神，我曾呼求你，你医治了我。主，你曾把我的灵魂从阴间救上来，救我脱离下坑的人。凡属主的圣者，你们要歌颂他，称谢他可记念的圣名！因为他的忿怒中有烈怒，他的恩宠中有生命！”神的众圣者也都跪下，伏在主脚前，同声说：“世界的救赎主，你来了！你藉律法和众先知所预言的，如今都亲自行成了。你用十字架救赎活人，又藉十字架上的死降到我们这里，要凭你的威严，救我们脱离阴间和死亡。主，你既在诸天设立荣耀的名，又在地上立起十字架，作救赎的记号；主，求你也在阴间立起十字架得胜的记号，使死亡不再掌权。”",
+      "current": "1. 主伸手说：“凡属我的圣者，有我的形像和样式的，都到我这里来；你们从前因那树、魔鬼和死亡被定罪。看哪，如今魔鬼和死亡因这木头被定罪了！”众圣者立刻聚集在主的手下。主握着亚当的右手，对他说：“愿你和你一切属我的义人儿女都平安。”亚当伏在主的膝前，流泪恳求他，大声说：“主，我要尊崇你，因为你曾提拔我，不叫仇敌向我夸耀。主我的神，我曾呼求你，你医治了我。主，你曾把我的灵魂从阴间救上来，救我脱离下坑的人。凡属主的圣者，你们要歌颂他，称谢他，记念他的圣洁！因为他的忿怒中有烈怒，他的恩宠中有生命！”神的众圣者也都跪下，伏在主脚前，同声说：“世界的救赎主，你来了！你藉律法和众先知所预言的，如今都亲自行成了。你用十字架救赎活人，又藉十字架上的死降到我们这里，要凭你的威严，救我们脱离阴间和死亡。主，你既在诸天设立荣耀的名，又在地上立起十字架，作救赎的记号；主，求你也在阴间立起十字架得胜的记号，使死亡不再掌权。”",
+      "current_notes": [
+        "第1节英文“他的忿怒中有烈怒”措辞重复，依文保留，未替换为诗篇30篇“他的怒气不过是转眼之间”。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    },
+    {
+      "book_id": "narrative-of-joseph-of-arimathea",
+      "unit": "cMUB",
+      "block": "p0002",
+      "kind": "body",
+      "english": "1 After I had beheld these things, as I was going into Galilee with Jesus and the robber, Jesus was transfigured, and was not as [He was] formerly, before He was crucified, but was altogether light; and messengers always ministered to Him, and Jesus spoke with them. 2 And I remained with Him three days. And none of His disciples was with Him, except the robber alone. 3 And in the middle of the Celebration of Unleavened Bread, His disciple John comes, and we no longer beheld the robber as to what took place. 4 And John asked Jesus: “Who is this, that You have not made me to be seen by him?” 5 But Jesus answered him nothing. 6 And falling down before Him, he said: “Lord, I know that You have loved me from the beginning, and why do You not reveal to me that man?” 7 Jesus says to him: “Why do you seek what is hidden? Are you still without understanding? Do you not perceive the fragrance of Paradise filling the place? Do you not know who it is? The robber on the cross has become an heir of Paradise. Truly, truly, I say to you, that it will belong to him alone until the Great Day will come.” 8 And John said: “Make me worthy to behold him.” 9 And while John was yet speaking, the robber suddenly appeared; and John, struck with astonishment, fell to the earth. 10 And the robber was not in his first form, as before John came; but he was like a king in great power, having on him the cross. 11 And the voice of a great multitude was sent forth: “You have come to the place prepared for you in Paradise. We have been commanded by Him that has sent you, to serve you until the Great Day.” 12 And after this voice, both the robber and I, Joseph, vanished, and I was found in my own house; and I no longer saw Jesus. 13 And I, having seen these things, have written them down, in order that all may believe in the crucified Jesus Christ our Lord, and may no longer obey the Law of Moses, but may believe in the signs and wonders that have happened through Him, and in order that we who have believed may inherit eternal life, and be found in the kingdom of the heavens. For to Him are due glory, strength, praise, and majesty forever and ever. Amen.",
+      "head": "1 我看见这些事以后，与耶稣和强盗同往加利利去；耶稣改变了形像，不再像从前未钉十字架时的样子，而是全然为光。天使常常服侍他，耶稣也与他们说话。2 我与他同住了三天。他的门徒没有一个与他在一起，只有那强盗。3 除酵节期间，他的门徒约翰来了；不知发生了什么，我们就再看不见那强盗。4 约翰问耶稣：“这人是谁，你为何不使他看见我？”5 耶稣却不回答。6 约翰俯伏在他面前，说：“主啊，我知道你从起初就爱我；为什么不将那人显给我看呢？”7 耶稣对他说：“你为什么追问隐藏的事？你还不明白吗？你没有察觉乐园的香气充满这里吗？你不知道他是谁吗？十字架上的强盗，已经成为乐园的承受者。我实实在在地告诉你，直到大日来到以前，乐园只属于他一人。”8 约翰说：“求你使我配得看见他。”9 约翰还在说话，强盗忽然显现；约翰惊骇，仆倒在地。10 那强盗已经不是约翰来以前原来的样子，而像一位大有权势的王，身上带着十字架。11 又有一大群人的声音发出：“你已经来到乐园中为你预备的地方。那差你来的，命我们服侍你，直到大日。”12 这声音过后，强盗和我约瑟都消失了；我发现自己已在家中，再也看不见耶稣。13 我既看见这些事，就将它们写下，使众人都相信被钉十字架的我们的主耶稣基督，不再顺从摩西的律法，却相信借着他所发生的神迹奇事；也使我们这些信的人承受永生，得以在天国里。因为荣耀、能力、赞美和威严，都当归给他，直到永永远远。阿们。",
+      "current": "1 我看见这些事以后，与耶稣和强盗同往加利利去；耶稣改变了形像，不再像从前未钉十字架时的样子，而是全然为光。天使常常服侍他，耶稣也与他们说话。2 我与他同住了三天。他的门徒没有一个与他在一起，只有那强盗。3 除酵节过到一半的时候，他的门徒约翰来了；不知发生了什么，我们就再看不见那强盗。4 约翰问耶稣：“这人是谁，你为何不使他看见我？”5 耶稣却不回答。6 约翰俯伏在他面前，说：“主啊，我知道你从起初就爱我；为什么不将那人显给我看呢？”7 耶稣对他说：“你为什么追问隐藏的事？你还不明白吗？你没有察觉乐园的香气充满这里吗？你不知道他是谁吗？十字架上的强盗，已经成为乐园的承受者。我实实在在地告诉你，直到大日来到以前，乐园只属于他一人。”8 约翰说：“求你使我配得看见他。”9 约翰还在说话，强盗忽然显现；约翰惊骇，仆倒在地。10 那强盗已经不是约翰来以前原来的样子，而像一位大有权势的王，身上带着十字架。11 又有一大群人的声音发出：“你已经来到乐园中为你预备的地方。那差你来的，命我们服侍你，直到大日。”12 这声音过后，强盗和我约瑟都消失了；我发现自己已在家中，再也看不见耶稣。13 我既看见这些事，就将它们写下，使众人都相信被钉十字架的我们的主耶稣基督，不再顺从摩西的律法，却相信借着他所发生的神迹奇事；也使我们这些信的人承受永生，得以在天国里。因为荣耀、能力、赞美和威严，都当归给他，直到永永远远。阿们。",
+      "current_notes": [
+        "5:4 英文作“你为何不使他看见我”，与下一句约翰求看见那人的方向相反；保留原文视角，未倒转宾主。"
+      ],
+      "assessment": "正文变化与英文及已核证据相容，无须回退；注释专项结论见evidence。"
+    }
+  ],
+  "evidence": [
+    {
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/lake-343.jpg",
+      "sha256": "eae064e16b5b231b0d5f57e02c1fd55e7e2ccc6e231136254bf1c8b5158d27bb",
+      "url": "https://archive.org/download/apostolicfathers01lake/page/n343.jpg",
+      "passage": "Lake I 印页324，Didache10:3",
+      "assessment": "实际查看扫描：ζωὴν αἰώνιον 清楚，为永生；不是φῶς。支持修正文中continuous light。未查看英文325页，不判定其排印词。",
+      "mode": "scan_visually_read"
+    },
+    {
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/apostolicfathers02lakeuoft-219.jpg",
+      "sha256": "6ede122bc268ee50a076a9a4cb25a373feee583b4096045440a8d28eaf02ffff",
+      "url": "https://archive.org/download/apostolicfathers02lakeuoft/page/n219.jpg",
+      "passage": "Lake II 印页210，比喻八8.4与9.1",
+      "assessment": "实际查看扫描：前组δύο μέρη χλωρά、第三份ξηρόν；下一组δύο μέρη ξηρά、第三份χλωρόν。两类相反，二青一枯修正有直接证据。",
+      "mode": "scan_visually_read"
+    },
+    {
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/apostolicfathers02lakeuoft-279.jpg",
+      "sha256": "5eb7c1b84f23f1126c8396c2eb4e4a12989dfe05cc618421d07402bb208f2ba1",
+      "url": "https://archive.org/download/apostolicfathers02lakeuoft/page/n279.jpg",
+      "passage": "Lake II 印页270，比喻九20.2及校记2",
+      "assessment": "实际查看扫描：正文οὖν…οὐ；校记明确retranslated from LE, om. A。现注区分有版本依据补文与英文录入错，措辞恰当。未直接看古译抄本。",
+      "mode": "scan_visually_read"
+    },
+    {
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/lake-365.jpg",
+      "sha256": "c6fe9993ed5b0d42d9d513f16113c643c023c97044949605511ef64c1c572804",
+      "url": "https://archive.org/download/apostolicfathers01lake/page/n365.jpg",
+      "passage": "Lake I 印页346，Barnabas3.4及校记1",
+      "assessment": "实际查看扫描：正文ἱμάτια；校记列א* CL及א Corr.的ἰάματα(healings)，并述Lightfoot采校正。现注并非误录宜理解为非项目英文录入错，不能扩大为证明作者原意必为衣袍；现注整体仍符合证据。",
+      "mode": "scan_visually_read"
+    },
+    {
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/lake-415.jpg",
+      "sha256": "061a176270e585e412dfa588f3c3393eddb2ca170bc41046acb6317c731364ae",
+      "url": "https://archive.org/download/apostolicfathers01lake/page/n415.jpg",
+      "passage": "Lake I 印页396，Barnabas16.1",
+      "assessment": "实际查看希腊末段ὡς ὄντα οἶκον θεοῦ。该句法异解注保留问题而不改正文合理。英文397页本轮未另看扫描。",
+      "mode": "scan_visually_read"
+    },
+    {
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/odespsalmsofsolo00harruoft-174.jpg",
+      "sha256": "eb819884f31d4de28e25035ea6b528bd24e307ac450c1da55ad0701a5855f4fb",
+      "url": "https://archive.org/download/odespsalmsofsolo00harruoft/page/n174.jpg",
+      "passage": "Harris1911 印页131，Ode31:7",
+      "assessment": "实际查看扫描，not清楚可辨：me who had not been a debtor。下文分物却无所应得；脚注还提出criminal义。支持只恢复否定，保留当前英文债务措辞。此处Harris分节31:7，Charlesworth对应31:8，不宜记为31:18。",
+      "mode": "scan_visually_read"
+    },
+    {
+      "url": "https://www.earlychristianwritings.com/text/odes.html",
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/odes.html",
+      "passage": "Ode31:8–9",
+      "mode": "cached_html_read",
+      "assessment": "署James Charlesworth；condemned me…who had not been condemned，独立译者支持否定，不是独立古代抄本；未核1973纸本对应印次。"
+    },
+    {
+      "url": "https://www.earlychristianwritings.com/text/didache-lightfoot.html",
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/didache-lightfoot.html",
+      "passage": "网页10:4–5，标准10:3",
+      "mode": "cached_html_read",
+      "assessment": "spiritual food and drink and eternal life支持永生。"
+    },
+    {
+      "url": "https://archive.org/details/woodbrookestudie01theouoft",
+      "cache": "/workspace/book/bible/translation/.cache/cross-d/woodbrookestudie01theouoft.txt",
+      "passage": "Mingana1927 印页234–235及Thmuis身份脚注",
+      "mode": "scan_ocr_text_read_not_image",
+      "assessment": "说明385–395是基于叙事内容的概率推断，并明确不能确认Serapion身份且年代不符Thmuis主教；新增注限制390确年与身份，合理。"
+    }
+  ],
+  "conclusion": "未发现应回退的正文误改；三项源文修正均有直接印本支持。异读注合宜。",
+  "minor_cautions": [
+    "Barnabas并非误录指本项目英文层，不能据此宣布衣袍为作者确定原意。",
+    "Odes该处Harris31:7/Charlesworth31:8，任务简称31:18需避免进入出版定位。"
+  ],
+  "formal_files_modified": false
+}

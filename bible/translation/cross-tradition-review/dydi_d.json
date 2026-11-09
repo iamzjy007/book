@@ -1,0 +1,1460 @@
+{
+  "worker": "dydi_d",
+  "date": "2026-11-09",
+  "scope": "043—068",
+  "method": "本轮按已有疑点和版本、署名、职分等风险重点审校，不宣称全文重审；英文指定底本控制正文。",
+  "books": [
+    {
+      "book_id": "didache",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/didache-roberts.html",
+          "title": "Didache",
+          "publisher": "Early Christian Writings转载ANF体系英译；ANF第7卷（Christian Literature Publishing，1886）",
+          "translator": "网页标Roberts–Donaldson（系列编辑署名）；该书在ANF7由M.B.Riddle编辑",
+          "text_basis": "希腊文十二使徒遗训",
+          "independence": "与New Advent/CCEL的同一ANF文不是独立版本；与下列Lightfoot为不同英译。",
+          "access": "全文页可访问，实际核对列出的段落；非仅检索摘要。"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/didache-lightfoot.html",
+          "title": "Didache",
+          "publisher": "Early Christian Writings转载；Lightfoot/Harmer《The Apostolic Fathers》英译传统（Macmillan，1891）；网页未详列采用印次",
+          "translator": "J.B.Lightfoot（网页署名）",
+          "text_basis": "希腊文",
+          "independence": "独立于ANF英译；非独立古代抄本。",
+          "access": "全文页可访问，实际核对列出的段落；非仅检索摘要。"
+        },
+        {
+          "url": "https://archive.org/details/apostolicfathers01lake/page/324/mode/2up",
+          "publisher": "W.Heinemann, London，1919重印；University of Toronto/PIMS扫描，Internet Archive提供",
+          "translator": "Kirsopp Lake，初版1912",
+          "text_basis": "希腊文与英文对页；实际查看印刷页324原图",
+          "independence": "与本EPUB措辞接近，属原译来源层复核；希腊对页独立于英文误写，不算另一部古代抄本。"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cFU5",
+          "blocks": [
+            "p0003",
+            "p0004",
+            "p0007"
+          ],
+          "reference": "ANF第10章；Lightfoot10:2—5、10:11—13"
+        },
+        {
+          "unit": "cFUC",
+          "blocks": [
+            "p0006",
+            "p0008",
+            "p0009",
+            "p0012",
+            "p0013"
+          ],
+          "reference": "ANF第11章假先知试验与奥秘行动"
+        },
+        {
+          "unit": "cFV8",
+          "blocks": [
+            "p0002",
+            "p0003"
+          ],
+          "reference": "ANF第15章监督执事"
+        },
+        {
+          "unit": "cFVF",
+          "blocks": [
+            "p0006",
+            "p0008"
+          ],
+          "reference": "ANF第16章；Lightfoot16:11起"
+        },
+        {
+          "unit": "cFU5",
+          "blocks": [
+            "p0004"
+          ],
+          "reference": "Lake印刷页324希腊ζωὴν αἰώνιον；页325英文OCR为eternal light，后续原图待另核英文页。"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cFU5",
+          "block": "p0004",
+          "before": "全能的主，祢为自己名的缘故创造万物，赐人饮食享用，使他们感谢祢；祢却借着祢的仆人，赐我们属灵的饮食和永远的光明。",
+          "after": "全能的主，祢为自己名的缘故创造万物，赐人饮食享用，使他们感谢祢；祢却借着祢的仆人，赐我们属灵的饮食和永生。",
+          "reason": "Lake希腊对页324原图明确ζωὴν αἰώνιον（永生），而本底本continuous light；ANF/Lightfoot也译life。修正英文层词义错误并保留原读说明，不是按现代教义改文。",
+          "replace_notes": {
+            "10:6 Maranatha 译“主啊，愿祢来”，保留祈愿语气。10:3 英文为 continuous light，按“永远的光明”译出，不以常见版本的永生替换。": "原文修正说明：底本10:3作continuous light（持续的光），与Lake希腊对页（1919重印本，第324页）明确的ζωὴν αἰώνιον（永生）不合；ANF及Lightfoot也译永生。此处据希腊对页修正英文层误词。Maranatha仍译“主啊，愿祢来”。"
+          }
+        }
+      ],
+      "retained_readings": [
+        "保留11章象征行动的含混，不据现代教规扩写。监督/执事为早期职分，未强套后期主教制度。",
+        "16:5 ANF from under the curse与底本by the curse不同，继续保留底本，并不将所指断言为基督。",
+        "Child/Servant/Son对应pais译法有差，现译仆人具有ANF支持，未机械换神学称谓。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "其余章节本轮未逐段复核。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "epistle-of-the-apostles",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/apostolorum.html",
+          "title": "Epistula Apostolorum",
+          "publisher": "M.R.James, The Apocryphal New Testament, Oxford: Clarendon Press,1924,pp.485–503；ECW转载",
+          "translator": "M.R.James",
+          "text_basis": "依C.Schmidt1919和Guerrier；科普特残本、埃塞俄比亚完整本、维也纳拉丁残叶",
+          "independence": "底本措辞明显同James或其现代化，属版本溯源，不计独立英译。",
+          "access": "全文页可访问，实际核对列出的段落；非仅检索摘要。"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cFWZ",
+          "blocks": [
+            "p0002"
+          ],
+          "reference": "James1开篇及问安"
+        },
+        {
+          "unit": "cG0M",
+          "blocks": [
+            "p0002",
+            "p0003"
+          ],
+          "reference": "James17三语言计年异读及父子合一启示"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "英文补词[to]使问安变为交托儿女；James无该补词，现译按指定底本暂留，待科普特/埃塞俄比亚语核对，不声称已解决。",
+        "James科普特计年hundredth part and twentieth part与埃塞俄比亚150年、拉丁残缺各异；未凑成120年或改150。",
+        "不把二世纪托名使徒的启示视作真实使徒亲笔。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "此轮仅1、17章风险段；需原语言材料才能解决问安和计年译法。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "epistles-of-king-abgar-and-jesus",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/schaff/npnf201.iii.vi.xiii.html",
+          "translator": "Arthur Cushman McGiffert",
+          "publisher": "NPNF第二系列第1卷，Philip Schaff/Henry Wace编，Christian Literature Publishing，1890；CCEL转载",
+          "text_basis": "优西比乌《教会史》希腊文I.13所载书信及叙事，声称译自叙利亚文档案",
+          "independence": "独立于本项目中文与FHL；同NPNF在其他站的重印不是新译本。"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cFVP",
+          "blocks": [
+            "p0003"
+          ],
+          "reference": "I.13脚注214等对阿伯加传说来源与历史性的论述"
+        },
+        {
+          "unit": "cFVZ",
+          "blocks": [
+            "p0001"
+          ],
+          "reference": "I.13第6节前题署"
+        },
+        {
+          "unit": "cFW6",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008"
+          ],
+          "reference": "I.13.6—8及答书题署"
+        },
+        {
+          "unit": "cFWF",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005"
+          ],
+          "reference": "I.13.9"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "题署写作者耶稣是传世文本的自称，不是核实真迹的结论；导论已保留真伪条件，不删除历史性的疑问。",
+        "结尾give life确见NPNF，保留赐生命；第8节live与NPNFbe saved是英译差别，仍保留本底本得生命。",
+        "不把优西比乌所录后续达太传道故事追加至本项目只有两封信的范围。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未核叙利亚文《阿代教训》的不同书信传统；不据此判定书信真实。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "resources": [
+        {
+          "url": "https://archive.org/details/apostolicfathers01lake/page/346/mode/2up",
+          "publisher": "W.Heinemann，1919重印（初版1912）；University of Toronto/PIMS扫描",
+          "translator": "Kirsopp Lake",
+          "text_basis": "实际查看希腊对页346及校记、396句法；英文347及397经扫描本OCR定位",
+          "independence": "本EPUB基本沿Lake，溯源而非独立英译；实际抄本异读见校记。"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/barnabas-lightfoot.html",
+          "publisher": "ECW转载Lightfoot/Harmer《Apostolic Fathers》英译传统（Macmillan1891）；网页未列印次",
+          "translator": "J.B.Lightfoot",
+          "text_basis": "希腊文校订英译",
+          "independence": "不同于Lake的校订与英译选择。"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/barnabas-roberts.html",
+          "publisher": "ECW转载ANF第1卷体系（Christian Literature Publishing，1885）",
+          "translator": "网页署Roberts–Donaldson系列",
+          "text_basis": "希腊文英译，部分句法处理不同",
+          "independence": "与Lightfoot、Lake英译不同；与其他站ANF重印不独立。"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cGDE",
+          "blocks": [
+            "p0004",
+            "p0005"
+          ],
+          "reference": "Lake3:3—4、346页希腊校记；Lightfoot/ANF第三章"
+        },
+        {
+          "unit": "cGG9",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0007"
+          ],
+          "reference": "Lake16:1—6、396页希腊；Lightfoot/ANF第十六章"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cGDE",
+          "block": "p0005",
+          "before": "这样，你的光就必如晨光发出，你的衣袍必迅速升起，你的公义必在你前面行，神的荣耀必环绕你。”",
+          "after": "这样，你的光就必如晨光发出，你的衣袍必迅速升起，你的公义必在你前面行，神的荣耀必环绕你。”",
+          "reason": "仅更新译注的研究结论，正文不变。",
+          "replace_notes": {
+            "3:4 英文作“your robes will rise quickly”（你的衣袍必迅速升起），与以赛亚书 58:8 常见的伤处得医治之措辞不同；这里保留底本，未以熟悉经文替换。": "3:4“衣袍”不是本项目英文转录时才产生的读法：Lake希腊印本第346页正文为ἱμάτια，校记指出另一校正读法ἰάματα意为医治，Lightfoot采后者。现按本底本保留衣袍，不以以赛亚书的熟悉措辞替换。"
+          }
+        },
+        {
+          "unit": "cGG9",
+          "block": "p0002",
+          "before": "我还要与你们论到圣殿，说明那些可怜的人怎样走入迷误：他们把盼望放在建筑上，却不仰望那创造他们、又是真正神居所的神。",
+          "after": "我还要与你们论到圣殿，说明那些可怜的人怎样走入迷误：他们把盼望放在建筑上，却不仰望那创造他们、又是真正神居所的神。",
+          "reason": "仅更新译注的研究结论，正文不变。",
+          "replace_notes": {
+            "第1节已核对原XHTML，英文 God who made them, and is the true house of God 的末句按现有语法承接God，语义不寻常。中文参考将神真正的居所归于建筑之误认；这里保留英文句法所呈现的疑点，待其他版本核实，不据参考改写正文。第6节week原文未明说年数，保留“一周”，不擅加七年。": "16:1“神是真正神居所”的衔接亦见Lake英文印本第397页；希腊第396页作ὡς ὄντα οἶκον θεοῦ，Lightfoot与ANF将其理解为人误认建筑是神的居所。此处仍按指定英文保留，记录句法疑问，未据不同英译断言为录入错。第6节week仍不擅加七年。"
+          }
+        }
+      ],
+      "retained_readings": [
+        "3:4衣袍/医治是真实编辑选择而非可直接纠错；正文保留衣袍。",
+        "16:1是英译句法分歧，现阶段正文不动。",
+        "本书虽见西奈抄本，不据此把它称为所有教会正典。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "第7章醋句尚待希腊校勘；其余章节未作本轮全面复核。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "apostolic-church-order",
+      "resources": [
+        {
+          "url": "https://archive.org/details/oldestchurchma00scha/page/238/mode/2up",
+          "translator": "Philip Schaff编译",
+          "publisher": "The Oldest Church Manual, New York: Funk & Wagnalls,1885；Internet Archive扫描",
+          "text_basis": "Document V希腊文/英译并列，取1—13章；本次实际查阅扫描本全文OCR对应页238—247，未查看该书图版",
+          "independence": "指定EPUB措辞基本沿此摘录，属范围与词义溯源，不计独立英译。"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/churchorder.html",
+          "translator": "Peter Kirby资料汇编；引用Quasten、Steimer及Paul Bradshaw书评",
+          "publisher": "ECW；所引Bradshaw评论见Journal of Theological Studies60,pp.273–274",
+          "text_basis": "作品研究介绍，不是原文译本；查阅年代/来源争论与参考链接",
+          "independence": "现代研究介绍辅助，不能冒称全文对照。"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cG8Z",
+          "blocks": [
+            "p0002"
+          ],
+          "reference": "Quasten/Bradshaw所述定年及来源不同意见，现导论按底本保留"
+        },
+        {
+          "unit": "cG98",
+          "blocks": [
+            "p0001"
+          ],
+          "reference": "Schaff p238名单及注"
+        },
+        {
+          "unit": "cG9F",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004"
+          ],
+          "reference": "Schaff p239职分清单"
+        },
+        {
+          "unit": "cGB7",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ],
+          "reference": "Schaff ch8怒气/情欲拟灵"
+        },
+        {
+          "unit": "cGCF",
+          "blocks": [
+            "p0002"
+          ],
+          "reference": "Schaff pp246—247 ch13及末尾摘录说明"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cGCF",
+          "block": "p0002",
+          "before": "1 矶法说：“不可造成分裂，却要使相争的人和睦；审判要公正，责备过犯时不可看人的情面。2 财富在主面前无用；尊位不能使他偏袒，美貌也不能带来帮助，众人在他面前都是平等的。3 祷告的时候，不可疑惑这事是否成就；不可只在领受时伸手，施予时却缩手。4 手中若有所有的，就当施舍，赎自己的罪；施予不可犹豫，给的时候也不可发怨言，因为你要知道，谁是施行美善赏赐的那一位。5 不可拒绝有需要的人，却要凡物与弟兄分享，不可说是自己的；你们既在不朽坏的事上有分，何况在必朽坏的事上呢？”",
+          "after": "1 矶法说：“不可造成分裂，却要使相争的人和睦；审判要公正，责备过犯时不可看人的情面。2 财富在主面前无用；尊位不能使他偏袒，美貌也不能带来帮助，众人在他面前都是平等的。3 祷告的时候，不可疑惑这事是否成就；不可只在领受时伸手，施予时却缩手。4 手中若有什么，就当施舍，赎自己的罪；施予不可犹豫，给的时候也不可发怨言，因为你要知道，谁是施行美善赏赐的那一位。5 不可拒绝有需要的人，却要凡物与弟兄分享，不可说是自己的；你们既在不朽坏的事上有分，何况在必朽坏的事上呢？”",
+          "reason": "If thou hast anything by thy hands，旧译“若有所有的”搭配不通；独立调整为自然条件句，不改变施舍赎罪的原文内容。"
+        }
+      ],
+      "retained_readings": [
+        "本项目只有13章，是Schaff为与遗训平行而节取的范围；Schaff明说余下17节省略，不擅补成全卷。",
+        "Peter/Cephas等重复沿底本保留，不用正典名单纠正；Judas of James不据Schaff脚注擅加兄弟关系。",
+        "男女邪灵拟人及施舍赎罪依底本，不按现代教义改写；古代职分的监督/执事/诵经者保留。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "仅正文1、8、13和名单；其他本项目节文尚未本轮逐段校核。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "epistle-to-the-laodiceans",
+      "resources": [
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford: Clarendon Press, 1924, pp.478–479",
+          "language_basis": "古代文献的英译，具体底本见各作品说明",
+          "independence": "底本EPUB措辞明显承袭本译；用于追溯来源和辨明版本，不算独立的新译本",
+          "access": "实际阅读整页OCR对应段落；未将OCR疑字作为单独改字依据"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cGHW",
+          "blocks": [
+            "p0002"
+          ],
+          "reference_passage": "全信1—20，重点5、8、12、20节"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "第8节die is joy保留死亡也是喜乐，不以腓立比书改作有益处。",
+        "末节Colossians原为歌罗西人的书信，非强改保罗致歌罗西书。",
+        "拉丁传本、后世托名书信；不因中世纪拉丁圣经收录而称各教会正典。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未校拉丁抄本；导言年代系编者观点，未作原始文献全文考证。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "correspondence-of-paul-and-seneca",
+      "resources": [
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford: Clarendon Press, 1924, pp.480–484",
+          "language_basis": "古代文献的英译，具体底本见各作品说明",
+          "independence": "底本EPUB措辞明显承袭本译；用于追溯来源和辨明版本，不算独立的新译本",
+          "access": "实际阅读整页OCR对应段落；未将OCR疑字作为单独改字依据"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cGJC",
+          "blocks": [
+            "p0002",
+            "p0004",
+            "p0006",
+            "p0008",
+            "p0010",
+            "p0012",
+            "p0014",
+            "p0016",
+            "p0018",
+            "p0020",
+            "p0022",
+            "p0024",
+            "p0026",
+            "p0028"
+          ],
+          "reference_passage": "14封信逐封阅读，重点第8信皇后怒气、第13信gift的被动关系、第14信神／道的从句"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cGJC",
+          "block": "p0026",
+          "before": "塞涅卡向保罗问安。你著作的各个部分，有许多内容藏在寓意和隐语之中。因此，你所蒙赐、在内容和才华上的大力量，应当加以修饰；我不是说堆砌华丽词藻，而是用心斟酌。也不要担心你常说的那件事——我还记得，你说许多追求这些修饰的人，反而歪曲思想，削弱内容的力量。我愿你听我一言，顺应拉丁语的特性，为你高尚的言语增添美感，使你配得上所蒙赐的大恩。愿你平安。写于六月诺奈日前一日，即六月四日；利奥与萨比努斯任执政官。",
+          "after": "塞涅卡向保罗问安。你著作的各个部分，有许多内容藏在寓意和隐语之中。因此，你所蒙赐、在内容和才华上的大力量，应当加以修饰；我不是说堆砌华丽词藻，而是用心斟酌。也不要担心你常说的那件事——我还记得，你说许多追求这些修饰的人，反而歪曲思想，削弱内容的力量。我愿你听我一言，顺应拉丁语的特性，为你高尚的言语增添美感，使你能善用所蒙赐的大恩。愿你平安。写于六月诺奈日前一日，即六月四日；利奥与萨比努斯任执政官。",
+          "reason": "gift may be worthily treated by you 的对象是所赐恩惠被妥善运用，不是收信人变得配得恩惠。James原译支持英文句法，独立用中文恢复主宾。"
+        }
+      ],
+      "retained_readings": [
+        "第8信怒气的双否定在James本即如此，并标为文义不通；不以顺畅为由倒转否定。",
+        "第14信增长长存的从句与James同读，保留并存待核；未凭神学偏好改指道。",
+        "第13—14信执政官Leo/Sabinus，James称不存在；保留托名文本所载人名，不按历史重造日期。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未逐一重校拉丁原文及罗马纪年；此为托名通信，不等于保罗与塞涅卡交往的史证。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "traditions-of-matthias",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/traditionsmatthias.html",
+          "translator": "网页摘录未可靠标明译者（页尾误作Pliny的模板署名不用作依据）",
+          "publication": "Peter Kirby, Early Christian Writings，依革利免Stromata章节列残篇",
+          "language_basis": "希腊文革利免引文的英文摘录",
+          "independence": "与EPUB部分逐字相同，只作内容映射；另核ANF原著引文"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/clement-stromata-book7.html",
+          "translator": "William Wilson（ANF英译传统）",
+          "publication": "Ante-Nicene Fathers vol.2, American edition 1885；ECW转载",
+          "language_basis": "革利免《杂学》希腊文",
+          "independence": "与残篇网页不是两个独立古代证人；回到其所引用的作品核句法"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cGKR",
+          "blocks": [
+            "p0002",
+            "p0004",
+            "p0006",
+            "p0008"
+          ],
+          "reference_passage": "Stromata 2.9.45.4、3.4.26.3、7.13.82.1，重点选民与邻舍犯罪的条件句"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "本底本残篇2与3为同一教导的不同英译，保留两条，不合并。",
+        "网页所载撒该／马提亚条不在本底本，不新增。",
+        "选民若按道生活、邻舍将因敬畏而不犯罪的反事实逻辑保留，不改为选民直接教唆犯罪。",
+        "ANF《杂学》7.13称Matthew（马太），残篇网页及本底本称Matthias（马提亚）；保留本底本署名，不因ANF英译称名不同作机械替换。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "网页摘录译者不明；仅相关引文与ANF第七卷对应已核，不称古希腊全文校勘。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "epistle-of-lentulus",
+      "resources": [
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford: Clarendon Press, 1924, pp.477–478；所据E. von Dobschütz, Christusbilder, 318**",
+          "language_basis": "古代文献的英译，具体底本见各作品说明",
+          "independence": "底本EPUB措辞明显承袭本译；用于追溯来源和辨明版本，不算独立的新译本",
+          "access": "实际阅读整页OCR对应段落；未将OCR疑字作为单独改字依据"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cGME",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0012",
+            "p0014",
+            "p0017"
+          ],
+          "reference_passage": "伦图鲁书信版本说明及形貌描写，收件人、榛子颜色、眼色、不笑与俊美句"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "James认为不早于十三世纪，并说明最早形态不是书信；本书导言提到的晚三世纪推测只是旧说，不作为真实性认证。",
+        "James未熟榛子／较暗亮卷发，与本底本熟榛子／淡蓝反光不同；这是形貌描写的版本差，保留底本，不把词不同认定录错。",
+        "正文自称治理耶路撒冷的人是文献叙述，非历史上已证实罗马行政职衔。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未核拉丁各抄本；导言各种年代说法未凭新版观点删改。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "the-shepherd-of-hermas",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/shepherd.html",
+          "translator": "F. Crombie，ANF英译传统；网页笼统署Roberts–Donaldson",
+          "publication": "Ante-Nicene Fathers vol.2, 1885, ECW转载",
+          "language_basis": "希腊及古译本",
+          "independence": "本底本主要沿用此英译，追溯英文层问题，非独立证人"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/shepherd-lightfoot.html",
+          "translator": "J. B. Lightfoot",
+          "publication": "Lightfoot/Harmer使徒教父英译传统；转载页未明确印次",
+          "language_basis": "希腊文、古译本",
+          "independence": "与ANF不同的翻译"
+        },
+        {
+          "url": "https://archive.org/details/apostolicfathers02lakeuoft",
+          "translator": "Kirsopp Lake",
+          "publication": "The Apostolic Fathers II, London: Heinemann / Loeb, 1913",
+          "language_basis": "希腊原文对页及校记",
+          "independence": "独立校订和译本；本轮实际查看印页210、270扫描",
+          "image_urls": [
+            "https://archive.org/download/apostolicfathers02lakeuoft/page/n219.jpg",
+            "https://archive.org/download/apostolicfathers02lakeuoft/page/n279.jpg"
+          ]
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cJFA",
+          "blocks": [
+            "p0106",
+            "p0236",
+            "p0240",
+            "p0241",
+            "p0434",
+            "p0435"
+          ],
+          "reference_passage": "比喻五肉身顺服圣灵；八.8.4—9.1两类枝条；九.20.1—2第三座山"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cJFA",
+          "block": "p0240",
+          "before": "交回三分之二枯萎、三分之一青绿枝条的人，是曾以各种方式否认〔主〕的人。其中许多人悔改，却有些迟疑、心怀二意。他们若赶快悔改，不再留恋享乐，仍有悔改的机会；若坚持原来的行为，也是在给自己招致死亡。",
+          "after": "交回三分之二青绿、三分之一枯萎枝条的人，是曾以各种方式否认〔主〕的人。其中许多人悔改，却有些迟疑、心怀二意。他们若赶快悔改，不再留恋享乐，仍有悔改的机会；若坚持原来的行为，也是在给自己招致死亡。",
+          "reason": "本底本与ANF在前一类枝条重复写成二枯一青；Lake希腊印页210明确前类δύο μέρη χλωρά、后类δύο μέρη ξηρά，Lightfoot一致，并与前文分类对应。仅恢复前类颜色次序。",
+          "note": "原文修正说明：比喻八前一类枝条，英文与后一类同写三分之二枯萎、三分之一青绿；据Lake希腊印本第二卷第210页及Lightfoot，并依前文两类区分，修正前一类为三分之二青绿、三分之一枯萎。"
+        },
+        {
+          "unit": "cJFA",
+          "block": "p0435",
+          "before": "那些忙于事务的人亲近神的仆人，却被买卖事务挤住，以致走迷了路；富人很难亲近神的仆人，生怕他们向自己求什么。",
+          "after": "那些忙于事务的人亲近神的仆人，却被买卖事务挤住，以致走迷了路；富人很难亲近神的仆人，生怕他们向自己求什么。",
+          "reason": "补核原始校记，区分译本补文与录入漏字；正文未变。",
+          "replace_notes": {
+            "比喻九第三座山的英文说忙于事务者仍亲近神仆人，中文参考作不来往；此处保留英文本。": "比喻九第三座山关于忙于事务者，英文底本说他们亲近神的仆人，现仍保留。ANF与Lightfoot补出否定；Lake希腊校记（第二卷第270页）说明相关词句据拉丁及埃塞俄比亚译本回译，希腊A本缺。这是有版本依据的补文，不径称英文漏字。"
+          }
+        },
+        {
+          "kind": "note",
+          "unit": "cJFA",
+          "before": "比喻8 p0213 英文收枝清单省略参考本另一组，保留现有块内容，不增译。p0240及p0241连续两类均写三分之二枯萎、三分之一青绿，与分类和参考不合，疑第一处比例倒置；因属具体比例，暂按英文保留并待核。",
+          "after": "比喻8 p0213 英文收枝清单省略参考本另一组，保留现有块内容，不增译。p0240前一类枝条比例已据原刊校正，见原文修正说明；p0241后一类仍依底本。",
+          "reason": "最终一致性检查发现原比例待核注未同步；移除仍按错误比例保留的旧说明，与正文及末条原文修正说明一致。"
+        }
+      ],
+      "retained_readings": [
+        "九.20否定属古译本支持的补文，不能把全部短读本改成长读本；更新注而不改正文。",
+        "五.6肉身顺服圣灵的既有修正与上下文、参考吻合，不另扩写该处基督论。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未全文重校三大部分；第三山已据版本保留疑义。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "odes-of-peace",
+      "resources": [
+        {
+          "url": "https://archive.org/details/odespsalmsofsolo00harruoft",
+          "translator": "J. Rendel Harris",
+          "publication": "The Odes and Psalms of Solomon, 2nd edition, Cambridge University Press, 1911",
+          "language_basis": "叙利亚文及科普特文材料；英译并注",
+          "independence": "EPUB大量措辞承袭此译，作为追溯源读依据；已看印页131—132扫描",
+          "image_urls": [
+            "https://archive.org/download/odespsalmsofsolo00harruoft/page/n174.jpg",
+            "https://archive.org/download/odespsalmsofsolo00harruoft/page/n175.jpg"
+          ]
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/odes.html",
+          "translator": "James H. Charlesworth",
+          "publication": "署名Charlesworth的ECW转载；其学术版本The Odes of Solomon, Oxford Clarendon,1973；网页未注明采用印次",
+          "language_basis": "以叙利亚文为主的颂歌传本",
+          "independence": "不同于Harris的现代独立译者；本轮仅摘核相关段落，不把转载当新古代证人"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cJGE",
+          "blocks": [
+            "p0371",
+            "p0408",
+            "p0417",
+            "p0418",
+            "p0419",
+            "p0420",
+            "p0421",
+            "p0422",
+            "p0423",
+            "p0424",
+            "p0425",
+            "p0426",
+            "p0427"
+          ],
+          "reference_passage": "28末部、31:7（另一分节31:8—9）、33:1—11"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cJGE",
+          "block": "p0408",
+          "before": "我起来的时候，他们使我负债——我这原已负债的；他们分了从我夺得的物，虽然这些本不归他们。",
+          "after": "我起来的时候，他们使我负债——我这原未负债的；他们分了从我夺得的物，虽然这些本不归他们。",
+          "reason": "相承旧译扫描明确否定，独立译本及上下文共同支持漏not；依用户明确原文疑错处理规则修正。",
+          "replace_notes": {
+            "第三十一首英文明确说“我这原已负债的”（who had been a debtor），虽与上下文张力明显，仍依底本保留，未擅加否定词。": "原文修正说明：第三十一首“原已负债的”疑漏否定词。Harris 1911年印本第131页明确作“未曾负债”，Charlesworth独立译本也保留否定，与下句“这些本不归他们”相应；现改为“我这原未负债的”。"
+          }
+        }
+      ],
+      "retained_readings": [
+        "33首Harris与Charlesworth破坏者/恩典的主宾和代词有实质差别，保留底本，不依据熟悉的神学场景重构。",
+        "28首seal与Harris zeal、Charlesworth对善待他人的解释不同，已有注保留；未仅凭一字相近径改。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未逐首全文重审；28首seal/zeal宜进一步核叙利亚文，33首句法及代词仍存异读。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "infancy-gospel-of-james",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/infancyjames-roberts.html",
+          "translator": "Alexander Walker（ANF新约次经英译）",
+          "publication": "Ante-Nicene Fathers vol.8，1886；CCEL Calvin University资源",
+          "language_basis": "希腊《雅各原始福音》",
+          "independence": "与EPUB多处同源，用于追溯英文读法，不算另一独立翻译"
+        },
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford Clarendon,1924,pp.41,46—47",
+          "language_basis": "古语文本、版本说明及英译；具体范围以下注明",
+          "independence": "与ANF不同译者；涉及提要时明确仅为提要，不冒充全文译本"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cJUT",
+          "blocks": [
+            "p0005"
+          ],
+          "reference_passage": "第6章纯洁少女与婴儿；已对读该单元原文，James为抱着往来，ANF为led her astray"
+        },
+        {
+          "unit": "cJXD",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "reference_passage": "第18章自然界静止后末句"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "18末ANF也作driven from their course，James作恢复进行；并非EPUB独有的反义误录，保留底本及已有异读注。",
+        "第6章的现译陪伴玩耍保持婴儿照料语境；James抱着来往支持不理解为道德引诱，ANF英文确有astray，不把修正归咎EPUB单独录错。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "本轮未核希腊抄本；第6章动作的准确词义仍宜据原文考证，不进一步改成James独有具体动作。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "infancy-gospel-of-thomas",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/infancythomas-a-roberts.html",
+          "translator": "Alexander Walker（ANF新约次经英译）",
+          "publication": "Ante-Nicene Fathers vol.8，1886；CCEL Calvin University资源",
+          "language_basis": "希腊第一形态 Greek Form A；不可与Greek B及拉丁本拼合",
+          "independence": "与EPUB多处同源，用于追溯英文读法，不算另一独立翻译"
+        },
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford Clarendon,1924,pp.50—51",
+          "language_basis": "古语文本、版本说明及英译；具体范围以下注明",
+          "independence": "与ANF不同译者；涉及提要时明确仅为提要，不冒充全文译本"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cK0A",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "reference_passage": "第6章教字母，代词主语及阿拉法图形说明"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "ANF原页面第6章已有大写He，现译据底本指耶稣；James代词写法及后文But Jesus不同，保留异读注，不把整段主语改为撒该。",
+        "James明确警示阿拉法图形文本多处不通，故现译不伪造确定的字形理论。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未全文校三种语言形态；仅本书第一希腊形态风险章核对。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "arabic-infancy-gospel",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+          "translator": "Alexander Walker（ANF新约次经英译）",
+          "publication": "Ante-Nicene Fathers vol.8，1886；CCEL Calvin University资源",
+          "language_basis": "《阿拉伯文童年福音》；旧英译主要据Sike1697阿拉伯文拉丁译本传统",
+          "independence": "与EPUB多处同源，用于追溯英文读法，不算另一独立翻译"
+        },
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford Clarendon,1924,pp.80—81；仅编纂来源与分部提要",
+          "language_basis": "古语文本、版本说明及英译；具体范围以下注明",
+          "independence": "与ANF不同译者；涉及提要时明确仅为提要，不冒充全文译本"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cK45",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006"
+          ],
+          "reference_passage": "第2章亚历山大纪年309"
+        },
+        {
+          "unit": "cKEW",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004"
+          ],
+          "reference_passage": "第51章天文相位与分数"
+        },
+        {
+          "unit": "cKF3",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009"
+          ],
+          "reference_passage": "第52章古代自然学与医学"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cKF3",
+          "block": "p0003",
+          "before": "他回答时，向那人解释物理学、形而上学、超自然学和基本自然之学，以及身体的机能、体液和它们的作用；",
+          "after": "他回答时，向那人解释自然之学、形而上学、超自然学和基本自然之学，以及身体的机能、体液和它们的作用；",
+          "reason": "古代physica与形而上、体液及四性学说并列，是自然哲学。改自然之学避免现代物理学联想，并与本章首句语域相合。"
+        }
+      ],
+      "retained_readings": [
+        "309也见ANF，不按James提要300/304或另一中文390换数。",
+        "二十四分之一及其六十分之一保留，ANF无据可让人指定为钟表时分。",
+        "hyperphysics/hypophysics保留既有说明，不能当现代物理学分科。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未核阿拉伯原文各抄本，不把James摘要视为全卷对校。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "gospel-of-the-nativity-of-mary",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+          "translator": "Alexander Walker（ANF新约次经英译）",
+          "publication": "Ante-Nicene Fathers vol.8，1886；CCEL Calvin University资源",
+          "language_basis": "《马利亚降生福音》拉丁文本传统，与伪马太相关但不是同一篇",
+          "independence": "与EPUB多处同源，用于追溯英文读法，不算另一独立翻译"
+        },
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford Clarendon,1924,pp.79—80，仅作品来源及十章提要",
+          "language_basis": "古语文本、版本说明及英译；具体范围以下注明",
+          "independence": "与ANF不同译者；涉及提要时明确仅为提要，不冒充全文译本"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cKGT",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "reference_passage": "第3章罪与不育的区别、撒拉年龄"
+        },
+        {
+          "unit": "cKHH",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "reference_passage": "第6章十五台阶与十五首上行诗"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cKGT",
+          "block": "p0005",
+          "before": "“神惩罚的是罪，不是人的天性。因此，祂使人没有儿女，是为要更奇妙地施行帮助，使人生出的孩子被认明不是出于情欲，而是神的恩赐。",
+          "after": "“神惩罚的是罪，不是人天生的状况。因此，祂使人没有儿女，是为要更奇妙地施行帮助，使人生出的孩子被认明不是出于情欲，而是神的恩赐。",
+          "reason": "nature在责难不育的上下文是自然身体状况；天性易误解品格性情。仅澄清词义，不改作者关于生育的论点。"
+        }
+      ],
+      "retained_readings": [
+        "撒拉八十岁也见ANF；不依正典统一年龄。",
+        "十五首上行诗与十五级台阶的对应保留，不能误作第十五篇。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "其余章未重审，导言史料亦非本轮全文考证。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "history-of-joseph-the-carpenter",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+          "translator": "Alexander Walker（ANF新约次经英译）",
+          "publication": "Ante-Nicene Fathers vol.8，1886；CCEL Calvin University资源",
+          "language_basis": "《木匠约瑟传》阿拉伯译本传统",
+          "independence": "与EPUB多处同源，用于追溯英文读法，不算另一独立翻译"
+        },
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford Clarendon,1924,pp.84—87，比较Bohairic/Sahidic及Arabic传统的提要",
+          "language_basis": "古语文本、版本说明及英译；具体范围以下注明",
+          "independence": "与ANF不同译者；涉及提要时明确仅为提要，不冒充全文译本"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cKTX",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011"
+          ],
+          "reference_passage": "第31章恶人存留为悔改、寿命延长、以诺与以利亚必死、四身体"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cKTX",
+          "block": "p0004",
+          "before": "“人若拒绝神的命令，随从魔鬼的作为，犯了罪，他的寿命仍可能延长；留下他，是要使他或许悔改，思想自己终必被交在死亡手中。",
+          "after": "“人若拒绝神的命令，随从魔鬼的作为，犯了罪，他的寿命得以延长；留下他，是要使他或许悔改，思想自己终必被交在死亡手中。",
+          "reason": "is prolonged为肯定陈述，may perhaps仅修饰悔改；原译把可能性提前给寿命而削弱前件。ANF句法与指定英文一致，恢复各自情态。"
+        }
+      ],
+      "retained_readings": [
+        "exchange life for death确为以生命换死亡，既有译法正确，不按另一中文倒置。",
+        "四身体及末世证人属于本书自身叙述，未以启示录熟悉的两证人改数。",
+        "James提要有不同语言本细节，未将其摘要拼入正文。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "其余各章未全文重审，科普特/阿拉伯原文亦未全文校勘。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "gospel-of-peter",
+      "resources": [
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M. R. James",
+          "publication": "The Apocryphal New Testament, Oxford: Clarendon,1924,pp.90—92",
+          "language_basis": "阿赫米姆希腊残篇，依Robinson及Harnack分节",
+          "independence": "明确出版英译，与本底本措辞相近但非将两网页作为独立见证"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/gospelpeter.html",
+          "translator": "转载页正文无明确译者，未用页尾模板归署",
+          "publication": "Early Christian Writings转载",
+          "language_basis": "希腊残篇的英文译文",
+          "independence": "仅辅助比对措辞，出版依据采用James"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cKZ1",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007"
+          ],
+          "reference_passage": "4:10—14，两犯人与不折腿指代"
+        },
+        {
+          "unit": "cKZ8",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008"
+          ],
+          "reference_passage": "5:15—20，我的能力、被接上去"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "不折腿的him仍有指代问题；本底本大写指向主，不以参考小写断言其必指罪犯。",
+        "“我的能力”及“被接上去”均有旧学术英译支持，不按正典改为我的神/断气。",
+        "James的幻影说及反犹倾向是编者分析，不等于书中每句已可作教派归属定论。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未核希腊该处代词形态及所有现代注释；本轮仅受难关键措辞。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "gospel-of-thomas",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/thomas-lambdin.html",
+          "translator": "Thomas O. Lambdin",
+          "publication": "James M. Robinson ed., The Nag Hammadi Library, revised ed., HarperCollins San Francisco,1990，网页明确列出",
+          "language_basis": "纳戈玛第科普特文《多马福音》",
+          "independence": "独立学术译本；与本EPUB的现代改述明显有别，不是同页转载算多证据"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cM1S",
+          "blocks": [
+            "p0033",
+            "p0095",
+            "p0123",
+            "p0137",
+            "p0229"
+          ],
+          "reference_passage": "语录16、47、61、68、114"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "114本底本问句及男人同等措辞不同于Lambdin陈述句；保留底本和既有注，不以现代男女立场修正文献。",
+        "16 stand solitary与本底本成为一、47旧布新衣与新布旧衣、61undivided与equality等均为实质差异；未查清底本现代编辑过程，不能把它们全称为古抄本异读，也不直接覆盖。",
+        "68地方寻不见的晦涩语句按英文保留，不凭合理化添加躲避迫害之地。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "本书英文是否经过有意现代改述，及其原始出处仍须追溯；未据科普特原文裁决上述差异。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "life-of-john-the-baptist",
+      "resources": [
+        {
+          "url": "https://archive.org/details/woodbrookestudie01theouoft",
+          "translator": "Alphonse Mingana；导论J. Rendel Harris",
+          "publication": "Woodbrooke Studies I, Cambridge: W. Heffer & Sons,1927，pp.234—260；重印Bulletin of the John Rylands Library 11",
+          "language_basis": "Garshuni（叙利亚字母书写的阿拉伯文），Mingana MS22与183；译者说明英译择两本较古读法",
+          "independence": "EPUB现代化措辞主要沿同源故事；此为有底本与校记的源头英译，不当作第二个独立古代证人"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cKUB",
+          "blocks": [
+            "p0002"
+          ],
+          "reference_passage": "编者导言年代、主教署名，Mingana234—235及255注3"
+        },
+        {
+          "unit": "cKXE",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009",
+            "p0010",
+            "p0011",
+            "p0012",
+            "p0013",
+            "p0014",
+            "p0015"
+          ],
+          "reference_passage": "约翰首级、眼/耳、希罗底之女之死及15年双纪年，Mingana251—253"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cKUB",
+          "block": "p0002",
+          "before": "据称，《施洗约翰生平》的成书年代可以确定为一个具体年份：公元390年。这在同代著作中颇为罕见。本书据说由特姆伊斯的主教瑟拉皮恩所写，将福音书中施洗约翰生平的记述加以调和，又增添了许多细节，尤其着重约翰与希律、希罗底的冲突。",
+          "after": "据称，《施洗约翰生平》的成书年代可以确定为一个具体年份：公元390年。这在同代著作中颇为罕见。本书据说由特姆伊斯的主教瑟拉皮恩所写，将福音书中施洗约翰生平的记述加以调和，又增添了许多细节，尤其着重约翰与希律、希罗底的冲突。",
+          "reason": "导言现代署名与精确年代超出Mingana内证；正文忠实保留，并加简短资料限定，避免把编者假说当既定史实。",
+          "note": "关于导言署名与年代：Mingana校订本（1927，第234—235、255页）只据故事内证推估385—395年，且明言无法确认这位瑟拉皮恩的身份，年代上似非特姆伊斯同名主教。因此，导言的390年与特姆伊斯署名仍应视为推测。"
+        }
+      ],
+      "retained_readings": [
+        "cKXE p0003眼睛听见的既有修正现获Mingana ears佐证，保持。",
+        "Mingana也有被杀后15年及复活后15年两基准，不擅统一。",
+        "所记冰湖、首级等是本书传奇，不能将教会纪念日或圣徒传统等同事件已证实。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未全文对照Garshuni；本轮重点条目，非全书历史真实性考证。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "gospel-of-the-twelve-holy-apostles",
+      "resources": [
+        {
+          "url": "https://archive.org/details/cu31924029295819",
+          "translator": "J. Rendel Harris",
+          "publication": "The Gospel of the Twelve Apostles Together with the Apocalypses of Each One of Them, Cambridge University Press,1900",
+          "language_basis": "Cod. Syr. Harris85，叙利亚文文本附英译；正文整合三篇启示",
+          "independence": "EPUB同源英译的现代化版本，供追溯疑字；不是现代Gospel of the Holy Twelve（Ouseley）也不是古教父所称十二使徒福音的完整复原"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cMBD",
+          "blocks": [
+            "p0037",
+            "p0045",
+            "p0048",
+            "p0069"
+          ],
+          "reference_passage": "约翰小者启示，Harris印页36—38；十二王/公主、婚配意象、大七期"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "公主princesses已在Harris英译，并非本EPUB误写princes；保留本底本。",
+        "新郎新妇般转变、痛苦婚配两句也见旧译，语义仍晦涩，不擅改成归信或战争。",
+        "大七期不在译文换算为现代年份；抄本集成与末世政治背景有别于正典地位。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "仅查此组高风险语句与书目/抄本说明；未逐行校叙利亚文，公主等词仍可进一步查校记。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "fragmentary-gospels",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/gospelhebrews-ogg.html",
+          "translator": "Philipp Vielhauer / George Ogg",
+          "publication": "Ron Cameron ed., The Other Gospels, Westminster Press,1982,pp.85—86，原译New Testament Apocrypha",
+          "language_basis": "教父引用残篇，经Greek/Coptic传统传承；非完整原本",
+          "independence": "学术残篇编集，署名和原书归属须区别"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/egerton.html",
+          "translator": "H. I. Bell / T. C. Skeat",
+          "publication": "Fragments of an Unknown Gospel and Other Early Christian Papyri, London Oxford University Press,1935，网页注明转载",
+          "language_basis": "Papyrus Egerton 2，希腊残片；网页标题另提Cologne255但不因此声称1935版包含后发现纸草",
+          "independence": "初版编辑英译；与EPUB末段补文不同"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/egerton-english.html",
+          "translator": "Wieland Willker，另并列Dodd/Schmidt/Cerfaux等重构",
+          "publication": "ECW转载的纸草研究网页，非一部新的统一校订本",
+          "language_basis": "希腊残片及现代学者猜补",
+          "independence": "不同重构不是不同古抄本；仅用于标清水/种子/无花果的补文性质"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cMCB",
+          "blocks": [
+            "p0003",
+            "p0004",
+            "p0006",
+            "p0007",
+            "p0009",
+            "p0105",
+            "p0106",
+            "p0107",
+            "p0108"
+          ],
+          "reference_passage": "希伯来人福音1—3残篇；无名福音末段约旦河神迹"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "圣灵为母亲、米迦勒成为马利亚、七个月等依实际残篇保留，不作神学调和。",
+        "无名福音“掬满了水”为现代猜补，Bell/Skeat该处仍留缺，Dodd等作水而Schmidt作种子；保留本底本方括号与已有注，不将某种重构当原稿完整实词。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "本合集其他残篇未本轮全文核对；希伯来人/拿撒勒人等归属争议未重编。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "acts-of-pilate",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+          "translator": "Alexander Walker",
+          "publication": "ANF8,1886，Nicodemus/Acts of Pilate各语言形态并列，CCEL转载",
+          "language_basis": "希腊A/B、拉丁形态各自保留，不跨篇拼合",
+          "independence": "与底本部分同源，作为版本来源核查"
+        },
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M.R.James",
+          "publication": "The Apocryphal New Testament,Oxford Clarendon,1924，Gospel of Nicodemus及Descent into Hell",
+          "language_basis": "希腊及拉丁文本；下阴间段本项目主要对应拉丁传统",
+          "independence": "不同于ANF英译，但许多共同古底本，不视作完全独立古见证"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cMN0",
+          "blocks": [
+            "p0009"
+          ],
+          "reference_passage": "16.8结尾祷告的毁灭/转心关系"
+        },
+        {
+          "unit": "cMRH",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004"
+          ],
+          "reference_passage": "下阴间8，亚当称谢圣洁、忿怒中有烈怒及诗篇引句"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cMRH",
+          "block": "p0002",
+          "before": "1. 主伸手说：“凡属我的圣者，有我的形像和样式的，都到我这里来；你们从前因那树、魔鬼和死亡被定罪。看哪，如今魔鬼和死亡因这木头被定罪了！”众圣者立刻聚集在主的手下。主握着亚当的右手，对他说：“愿你和你一切属我的义人儿女都平安。”亚当伏在主的膝前，流泪恳求他，大声说：“主，我要尊崇你，因为你曾提拔我，不叫仇敌向我夸耀。主我的神，我曾呼求你，你医治了我。主，你曾把我的灵魂从阴间救上来，救我脱离下坑的人。凡属主的圣者，你们要歌颂他，称谢他可记念的圣名！因为他的忿怒中有烈怒，他的恩宠中有生命！”神的众圣者也都跪下，伏在主脚前，同声说：“世界的救赎主，你来了！你藉律法和众先知所预言的，如今都亲自行成了。你用十字架救赎活人，又藉十字架上的死降到我们这里，要凭你的威严，救我们脱离阴间和死亡。主，你既在诸天设立荣耀的名，又在地上立起十字架，作救赎的记号；主，求你也在阴间立起十字架得胜的记号，使死亡不再掌权。”",
+          "after": "1. 主伸手说：“凡属我的圣者，有我的形像和样式的，都到我这里来；你们从前因那树、魔鬼和死亡被定罪。看哪，如今魔鬼和死亡因这木头被定罪了！”众圣者立刻聚集在主的手下。主握着亚当的右手，对他说：“愿你和你一切属我的义人儿女都平安。”亚当伏在主的膝前，流泪恳求他，大声说：“主，我要尊崇你，因为你曾提拔我，不叫仇敌向我夸耀。主我的神，我曾呼求你，你医治了我。主，你曾把我的灵魂从阴间救上来，救我脱离下坑的人。凡属主的圣者，你们要歌颂他，称谢他，记念他的圣洁！因为他的忿怒中有烈怒，他的恩宠中有生命！”神的众圣者也都跪下，伏在主脚前，同声说：“世界的救赎主，你来了！你藉律法和众先知所预言的，如今都亲自行成了。你用十字架救赎活人，又藉十字架上的死降到我们这里，要凭你的威严，救我们脱离阴间和死亡。主，你既在诸天设立荣耀的名，又在地上立起十字架，作救赎的记号；主，求你也在阴间立起十字架得胜的记号，使死亡不再掌权。”",
+          "reason": "原文及James均为remembrance of his holiness，现译圣名把属性换成名字。恢复记念圣洁，不照搬熟悉的诗篇中文而改信息。"
+        }
+      ],
+      "retained_readings": [
+        "忿怒中有烈怒见ANF与James，不用和合本诗30的转眼怒气覆盖。",
+        "16.8与ANF“勿毁灭使我们转心”的祈求相符；保留原英文句法疑注，不自行换正典引句。",
+        "各年代、5500总数与分项之差不因跨译本研究擅统一。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未全文重校两大部分与附信；其余既有疑点保留，原语言校勘未完成。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "narrative-of-joseph-of-arimathea",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+          "translator": "Alexander Walker",
+          "publication": "Ante-Nicene Fathers vol.8,1886，CCEL/Calvin资源",
+          "language_basis": "《亚利马太约瑟叙述》希腊晚期文本，Tischendorf版本传统；不等于第一世纪见证",
+          "independence": "与本EPUB主要同源旧英译，追溯原英译与版别，不称独立古代见证"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cMUB",
+          "blocks": [
+            "p0002"
+          ],
+          "reference_passage": "第五章全文13节，重点节3节中时间、节4/6/8看见之主宾"
+        }
+      ],
+      "changes": [
+        {
+          "unit": "cMUB",
+          "block": "p0002",
+          "before": "1 我看见这些事以后，与耶稣和强盗同往加利利去；耶稣改变了形像，不再像从前未钉十字架时的样子，而是全然为光。天使常常服侍他，耶稣也与他们说话。2 我与他同住了三天。他的门徒没有一个与他在一起，只有那强盗。3 除酵节期间，他的门徒约翰来了；不知发生了什么，我们就再看不见那强盗。4 约翰问耶稣：“这人是谁，你为何不使他看见我？”5 耶稣却不回答。6 约翰俯伏在他面前，说：“主啊，我知道你从起初就爱我；为什么不将那人显给我看呢？”7 耶稣对他说：“你为什么追问隐藏的事？你还不明白吗？你没有察觉乐园的香气充满这里吗？你不知道他是谁吗？十字架上的强盗，已经成为乐园的承受者。我实实在在地告诉你，直到大日来到以前，乐园只属于他一人。”8 约翰说：“求你使我配得看见他。”9 约翰还在说话，强盗忽然显现；约翰惊骇，仆倒在地。10 那强盗已经不是约翰来以前原来的样子，而像一位大有权势的王，身上带着十字架。11 又有一大群人的声音发出：“你已经来到乐园中为你预备的地方。那差你来的，命我们服侍你，直到大日。”12 这声音过后，强盗和我约瑟都消失了；我发现自己已在家中，再也看不见耶稣。13 我既看见这些事，就将它们写下，使众人都相信被钉十字架的我们的主耶稣基督，不再顺从摩西的律法，却相信借着他所发生的神迹奇事；也使我们这些信的人承受永生，得以在天国里。因为荣耀、能力、赞美和威严，都当归给他，直到永永远远。阿们。",
+          "after": "1 我看见这些事以后，与耶稣和强盗同往加利利去；耶稣改变了形像，不再像从前未钉十字架时的样子，而是全然为光。天使常常服侍他，耶稣也与他们说话。2 我与他同住了三天。他的门徒没有一个与他在一起，只有那强盗。3 除酵节过到一半的时候，他的门徒约翰来了；不知发生了什么，我们就再看不见那强盗。4 约翰问耶稣：“这人是谁，你为何不使他看见我？”5 耶稣却不回答。6 约翰俯伏在他面前，说：“主啊，我知道你从起初就爱我；为什么不将那人显给我看呢？”7 耶稣对他说：“你为什么追问隐藏的事？你还不明白吗？你没有察觉乐园的香气充满这里吗？你不知道他是谁吗？十字架上的强盗，已经成为乐园的承受者。我实实在在地告诉你，直到大日来到以前，乐园只属于他一人。”8 约翰说：“求你使我配得看见他。”9 约翰还在说话，强盗忽然显现；约翰惊骇，仆倒在地。10 那强盗已经不是约翰来以前原来的样子，而像一位大有权势的王，身上带着十字架。11 又有一大群人的声音发出：“你已经来到乐园中为你预备的地方。那差你来的，命我们服侍你，直到大日。”12 这声音过后，强盗和我约瑟都消失了；我发现自己已在家中，再也看不见耶稣。13 我既看见这些事，就将它们写下，使众人都相信被钉十字架的我们的主耶稣基督，不再顺从摩西的律法，却相信借着他所发生的神迹奇事；也使我们这些信的人承受永生，得以在天国里。因为荣耀、能力、赞美和威严，都当归给他，直到永永远远。阿们。",
+          "reason": "in the middle of the feast含明确节期进行到中间的时间信息，原译期间过宽；ANF同样保留middle，恢复该时间限定。"
+        }
+      ],
+      "retained_readings": [
+        "5:4“使我被他看见”也见ANF，虽与后文“向我显明那人”有张力，不为顺畅而倒转主宾。",
+        "乐园归强盗直到大日的排他性、末尾对摩西律法的评论，均属本文而非译者教导，不改弱。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "前四章未本轮全文重审；已知金币/多比比喻尚保持既有注。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "correspondence-of-pilate",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+          "translator": "Alexander Walker",
+          "publication": "Ante-Nicene Fathers vol.8,1886，CCEL/Calvin资源",
+          "language_basis": "末封Pontius Pilate to Tiberius书信，拉丁文本传统；同卷Anaphora有另一独立篇目",
+          "independence": "与本EPUB主要同源旧英译，追溯原英译与版别，不称独立古代见证"
+        },
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M.R.James",
+          "publication": "The Apocryphal New Testament,Oxford Clarendon,1924,pp.153—156",
+          "language_basis": "希腊/拉丁及叙利亚传统比较；本轮涉及提要须与全文译区别",
+          "independence": "不同编译者；此处多为带摘引的提要，不能当全文三方对校"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cMVP",
+          "blocks": [
+            "p0002",
+            "p0003",
+            "p0004",
+            "p0005",
+            "p0006",
+            "p0007",
+            "p0008",
+            "p0009"
+          ],
+          "reference_passage": "致提庇留信全文，特别反事实“若非惧怕”、责任解释、四月朔日前第五日；James153的信提要与后续Anaphora分界"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "本底本小标题Anaphora Pilati与内容不相配：James将此短信与Report of Pilate明确分列；保留用户原篇名与既有说明，不静默换正文。",
+        "反事实或许仍活着、本人未竭力阻止的承责均准确保留，不把作者替彼拉多开脱的叙述改成历史定论。",
+        "罗马含首尾计日为3月28日；不改成4月5日。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "前两封希律/彼拉多往来信未本轮逐段重审；只看James对其叙利亚/希腊差异的说明及摘述，不计全文核对。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "paradosis-pilati",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+          "translator": "Alexander Walker",
+          "publication": "Ante-Nicene Fathers vol.8,1886，CCEL/Calvin资源",
+          "language_basis": "Paradosis Pilati希腊传统，通常附于Report of Pilate之一形态",
+          "independence": "与本EPUB主要同源旧英译，追溯原英译与版别，不称独立古代见证"
+        },
+        {
+          "url": "https://archive.org/details/JAMESApocryphalNewTestament1924",
+          "translator": "M.R.James",
+          "publication": "The Apocryphal New Testament,Oxford Clarendon,1924,pp.154—155，带大段摘引的提要",
+          "language_basis": "希腊/拉丁及叙利亚传统比较；本轮涉及提要须与全文译区别",
+          "independence": "不同编译者；此处多为带摘引的提要，不能当全文三方对校"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cMW7",
+          "blocks": [
+            "p0002"
+          ],
+          "reference_passage": "单源大块26节全文，重点偶像倒塌、Albius、末祷及voice中witness"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "Albius在ANF与James均有，不依另一中文换名。",
+        "第二次显现时见证人，James提示witness/martyr可解；本底本witness现译见证人保留，不升级成固定教会殉道圣人称号。",
+        "本篇彼拉多获赦蒙称有福与其他彼拉多传结局不同，保留文献自身立场，不统一结局。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未校希腊抄本各形态，历史可信性未因此获得认证。"
+      ],
+      "status": "focused_review_completed"
+    },
+    {
+      "book_id": "vindicta-salvatoris",
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/s/schaff/anf08/cache/anf08.txt",
+          "translator": "Alexander Walker",
+          "publication": "Ante-Nicene Fathers vol.8,1886，CCEL/Calvin资源",
+          "language_basis": "Vindicta Salvatoris拉丁传奇；ANF导言将旧拉丁文估为7/8世纪，并说明Goodwin1851盎格鲁撒克逊版",
+          "independence": "与本EPUB主要同源旧英译，追溯原英译与版别，不称独立古代见证"
+        }
+      ],
+      "actual_passages_checked": [
+        {
+          "unit": "cMWR",
+          "blocks": [
+            "p0002"
+          ],
+          "reference_passage": "卷首首段revealed by Tiberius与底本导言"
+        },
+        {
+          "unit": "cMX5",
+          "blocks": [
+            "p0002"
+          ],
+          "reference_passage": "只核此巨块内第41—43节，尤其first-created，未称全块61节全文核完"
+        }
+      ],
+      "changes": [],
+      "retained_readings": [
+        "revealed by Tiberius与first-created皆见ANF相承英译，前者不通之处不擅重写，后者不因神学顾虑改首生者。",
+        "本文反犹集体归罪与时代压缩为其文献特征，不作为历史事实或整个教会立场；ANF收录是文献出版，非教会正典认证。"
+      ],
+      "full_review_this_round": false,
+      "pending": [
+        "未核拉丁first-created所对原词及各传本；仅风险段比对，不称全文校勘。"
+      ],
+      "status": "focused_review_completed"
+    }
+  ],
+  "last_completed": "vindicta-salvatoris",
+  "transferred": [
+    {
+      "range": "069—080",
+      "worker": "dydi_b",
+      "status": "2026-11-09主代理明确移交；069仅读指定源文与现译、未完成参考核对，不计本记录完成；070—080未开始"
+    },
+    {
+      "range": "081—088",
+      "worker": "lori_a",
+      "status": "未开始，由主代理移交，不计本记录完成"
+    }
+  ],
+  "completion": {
+    "status": "assigned_focused_reviews_completed",
+    "assigned_range": "043—068",
+    "books": 26,
+    "full_reviews": 0,
+    "text_changed_blocks": 10,
+    "note_only_changed_blocks": 4,
+    "validated_changed_units": 13,
+    "validation": "全部改动后文本与记录after一致；追加/替换注均实存；13个改动单元pipeline.validate返回complete。结构校验不代替译义审校。",
+    "next": "069—080交dydi_b；081—088交lori_a。各项未决问题保留于pending，不计全文完成。"
+  }
+}

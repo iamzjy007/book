@@ -75,9 +75,19 @@
       "source": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=14",
       "location": "多比传 第14章",
       "use": "FHL中文辅助核对，实际匹配范围和版本差异见 reference-review/fhl-dydi-d.json；英文仍为底本。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.sbofmhk.org/pub/body/cpray/c1_online_bible/ssbbible/sbofm_bible_content.php?book=21&chapter=14",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/19-tobit-nets.pdf",
+      "usage": "对应疑难段语义及异读核对；非以参考全卷替换。"
     }
   ],
   "notes": [
-    "译者待核实问题：十四10在阿希加与拿答的叙述中忽然出现“玛拿西行施舍”；英文确作Manasseh，参考本作阿希加。因属版本异文，本译保留玛拿西。"
+    "版本说明：14:10突然提到玛拿西行施舍，此读法也见NETS所译希腊短本；长本及思高仍作阿希加。本译保留指定英文玛拿西及拿答的人名，不混合两支传统。"
   ]
 }

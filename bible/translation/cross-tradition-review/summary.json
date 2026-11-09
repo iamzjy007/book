@@ -1,0 +1,1059 @@
+{
+  "base_commit": "f0aaddce4a83a292de2708b394afdceab7a32161",
+  "round": "2026-11-09 cross-tradition targeted review",
+  "coverage": {
+    "book_entries": 143,
+    "with_records": 143,
+    "with_actual_passage_review": 143,
+    "full_review_this_round": 8
+  },
+  "translation_changes": {
+    "bible/translation": {
+      "changes": {
+        "changed_units": 117,
+        "changed_body_blocks": 56,
+        "units_with_notes_changed": 70,
+        "units_with_references_changed": 62,
+        "changed_book_entries": 60
+      },
+      "existing_translation_structural_status": {
+        "books": 89,
+        "units": 1821,
+        "errors": []
+      }
+    },
+    "bible/translation/history-patristics": {
+      "changes": {
+        "changed_units": 26,
+        "changed_body_blocks": 13,
+        "units_with_notes_changed": 26,
+        "units_with_references_changed": 11,
+        "changed_book_entries": 24
+      },
+      "existing_translation_structural_status": {
+        "books": 54,
+        "units": 1623,
+        "errors": []
+      }
+    }
+  },
+  "jasher": {
+    "chapter": 23,
+    "verses_read_against_both_scans": 90,
+    "changed_verses": [
+      25,
+      33,
+      37,
+      58,
+      86,
+      89
+    ],
+    "old_english_version_untouched": true
+  },
+  "checks": {
+    "source_hashes_and_block_ids_unchanged": true,
+    "all_changed_json_text_and_notes_in_txt": true,
+    "assembly_signatures_current": true,
+    "excluded_canonical_books_untouched": true,
+    "manifests_unchanged": true
+  },
+  "limitations": [
+    "既有译文全部单元结构完整，不等于本轮全部单元语义审校。",
+    "覆盖表的full只指所收录短篇或残篇条目；其他条目是明确范围的重点审校。",
+    "未决文本异读与未读范围保留在逐书记录中。"
+  ],
+  "changed_units": [
+    {
+      "path": "bible/translation/zh/1-baruch/c94B.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/1-enoch/cBTH.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/1-esdras/c9DX.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/1-esdras/c9FN.json",
+      "body_blocks": [
+        "p0096"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/2-baruch/cEZU.json",
+      "body_blocks": [
+        "p0030"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/2-enoch/cCCU.json",
+      "body_blocks": [
+        "p0007"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/2-esdras/c9HT.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/2-esdras/c9JH.json",
+      "body_blocks": [
+        "p0010"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/2-esdras/c9M9.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/2-maccabees/c9CH.json",
+      "body_blocks": [
+        "p0036"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/2-maccabees/c9CT.json",
+      "body_blocks": [
+        "p0003"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/3-baruch/cFB1.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/3-enoch/cCNM.json",
+      "body_blocks": [
+        "p0007"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/3-maccabees/c9N3.json",
+      "body_blocks": [
+        "p0027"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/4-baruch/cFDG.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/4-maccabees/c9TX.json",
+      "body_blocks": [
+        "p0013"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/4-maccabees/c9UX.json",
+      "body_blocks": [
+        "p0008"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/4-maccabees/c9V5.json",
+      "body_blocks": [
+        "p0008"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-29/c89K.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/acts-of-andrew-and-matthias/cPH2.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/acts-of-andrew/cP33.json",
+      "body_blocks": [
+        "p0009"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-andrew/cP4M.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-andrew/cP4V.json",
+      "body_blocks": [
+        "p0018"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-barnabas/cPK5.json",
+      "body_blocks": [
+        "p0015"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/acts-of-barnabas/cPKC.json",
+      "body_blocks": [
+        "p0006"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/acts-of-john/cNCW.json",
+      "body_blocks": [
+        "p0005"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-john/cNGC.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-john/cNPH.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-john/cNTU.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-john/cNZH.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-john/cNZZ.json",
+      "body_blocks": [
+        "p0006"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-paul/cMY7.json",
+      "body_blocks": [
+        "p0039"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-paul/cN1F.json",
+      "body_blocks": [
+        "p0031"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-peter-and-andrew/cPHT.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/acts-of-peter-and-andrew/cPJ0.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/acts-of-peter-and-paul/cPFP.json",
+      "body_blocks": [
+        "p0007"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-peter-and-paul/cPFX.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-peter/cN98.json",
+      "body_blocks": [
+        "p0009"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-pilate/cMRH.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-thomas/cP65.json",
+      "body_blocks": [
+        "p0166",
+        "p0172"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/acts-of-xanthippe-polyxena-and-rebecca/cPMB.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-daniel/c888.json",
+      "body_blocks": [
+        "p0008"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-daniel/c892.json",
+      "body_blocks": [
+        "p0012",
+        "p0015"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-esther/c85C.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-esther/c85U.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/apocryphal-psalms/c86J.json",
+      "body_blocks": [
+        "p0050"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/apocryphon-of-ezekiel/cFG0.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/apocryphon-of-jannes-and-jambres/cFFB.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/apostolic-church-order/cGCF.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/arabic-infancy-gospel/cKF3.json",
+      "body_blocks": [
+        "p0003"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/ascension-of-isaiah/cEJV.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/ascension-of-isaiah/cEKY.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/book-of-creation/cDB5.json",
+      "body_blocks": [
+        "p0005"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/correspondence-of-paul-and-seneca/cGJC.json",
+      "body_blocks": [
+        "p0026"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/didache/cFU5.json",
+      "body_blocks": [
+        "p0004"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/epistle-of-aristeas/cFHS.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/epistle-of-barnabas/cGDE.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/epistle-of-barnabas/cGG9.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/gospel-of-the-nativity-of-mary/cKGT.json",
+      "body_blocks": [
+        "p0005"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/history-of-joseph-the-carpenter/cKTX.json",
+      "body_blocks": [
+        "p0004"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/joseph-and-asenath/cDYA.json",
+      "body_blocks": [
+        "p0003"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/judith/c8DY.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/judith/c8GT.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/ladder-of-jacob/cDR8.json",
+      "body_blocks": [
+        "p0003"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/life-of-john-the-baptist/cKUB.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/lives-of-the-prophets/cED4.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/mors-pilati/cMXN.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/narrative-of-joseph-of-arimathea/cMUB.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/odes-of-peace/cJGE.json",
+      "body_blocks": [
+        "p0408"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/revelation-of-elijah/cR0D.json",
+      "body_blocks": [
+        "p0028"
+      ],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/revelation-of-peter/cR4W.json",
+      "body_blocks": [
+        "p0011"
+      ],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/revelation-of-stephen/cR76.json",
+      "body_blocks": [
+        "p0007"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/revelation-of-the-virgin/cRB0.json",
+      "body_blocks": [
+        "p0006"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8PR.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8R7.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8RZ.json",
+      "body_blocks": [
+        "p0003"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8SF.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8SZ.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8T7.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8TR.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8UR.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8V7.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VF.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VR.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VZ.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8W7.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8WF.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8WR.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8WZ.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8ZH.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8ZT.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c901.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c909.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c90H.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c90T.json",
+      "body_blocks": [
+        "p0017"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c919.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c91H.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c91T.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c921.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c929.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c92T.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c931.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/sirach/c939.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/testament-of-job/cE0B.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/testament-of-job/cE0T.json",
+      "body_blocks": [
+        "p0019"
+      ],
+      "notes_changed": false,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/testament-of-solomon/cE73.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/testaments-of-the-twelve-patriarchs/cAK9.json",
+      "body_blocks": [
+        "p0003"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/the-shepherd-of-hermas/cJFA.json",
+      "body_blocks": [
+        "p0240"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/zh/the-sibylline-oracles/cSCS.json",
+      "body_blocks": [
+        "p0917"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/the-sibylline-oracles/cUM2.json",
+      "body_blocks": [
+        "p0374"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8AC.json",
+      "body_blocks": [
+        "p0011"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8B8.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8BF.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8D0.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8NJ.json",
+      "body_blocks": [],
+      "notes_changed": false,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8NU.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/zh/words-of-gad-the-seer/cEJ1.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/1-clement/cH0K.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/2-clement/cH48.json",
+      "body_blocks": [
+        "p0006"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/ambrose-of-milan-4th-century/c1A1G.json",
+      "body_blocks": [
+        "p0151",
+        "p0172"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/anterus-3rd-century/c1A7Y.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/athanasius-4th-century/c1AMM.json",
+      "body_blocks": [
+        "p0093"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/augustine-of-hippo-4th-to-5th-centuries/c1D6G.json",
+      "body_blocks": [
+        "p0012"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/basil-of-caesarea-4th-century/c1DDD.json",
+      "body_blocks": [
+        "p0036"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/basil-of-caesarea-4th-century/c1DNZ.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/callistus-3rd-century/c1EHP.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/cyprian-3rd-century/c1EV6.json",
+      "body_blocks": [
+        "p0113"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/epistle-of-mathetes-to-diognetus/cJAT.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/eusebius-3rd-to-4th-centuries/c1FA6.json",
+      "body_blocks": [
+        "p0011",
+        "p0014"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/fabian-3rd-century/c1FAX.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/fabian-3rd-century/c1FC3.json",
+      "body_blocks": [
+        "p0002"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/gelasian-decree/cZ2T.json",
+      "body_blocks": [
+        "p0004"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/gregory-thaumaturgus-3rd-century/c1FE5.json",
+      "body_blocks": [
+        "p0023"
+      ],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/jerome-4th-to-5th-centuries/c1GJT.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/john-chrysostom-4th-to-5th-centuries/c1GUM.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/peter-of-alexandria-4th-century/c1H2E.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/pontianus-3rd-century/c1H6G.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/pseudo-clement-3rd-century/c1H7F.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/pseudo-ignatius-4th-century/c1HEC.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/the-chronicon-universal-history/c13E2.json",
+      "body_blocks": [
+        "p0007"
+      ],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/theonas-of-alexandria-3rd-century/c1HWM.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": false
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/urban-i-3rd-century/c1HZJ.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    },
+    {
+      "path": "bible/translation/history-patristics/zh/zephyrinus-3rd-century/c1J1J.json",
+      "body_blocks": [],
+      "notes_changed": true,
+      "references_changed": true
+    }
+  ]
+}

@@ -10,7 +10,10 @@
     }
   ],
   "references": [
-    "检索《基督教典外文献（共10册）_手机版.txt》未找到本单元对应全文；据英文 EPUB 逐段翻译，核对 XHTML 结构及无图像资产。"
+    "检索《基督教典外文献（共10册）_手机版.txt》未找到本单元对应全文；据英文 EPUB 逐段翻译，核对 XHTML 结构及无图像资产。",
+    "MGH Pseudoisidor, Karl-Georg Schon预版（约2010），Teil I；具体对应网页与实际核读范围见 bible/translation/cross-tradition-review/lori_b.json。"
   ],
-  "notes": []
+  "notes": [
+    "文本归属说明：本合集此名下所收教令书信，属于伪伊西多尔教令集的伪署名文献；标题年代指被署名的人物，不表示这些书信成于该世纪。参见MGH伪伊西多尔教令校勘本第一部分对应书信。"
+  ]
 }

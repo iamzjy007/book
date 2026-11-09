@@ -1,0 +1,209 @@
+{
+  "reviewer": "dydi_d",
+  "date": "2026-11-09",
+  "target": "cross-tradition-review/dydi_c.json",
+  "scope": "017—032中7处正文改动及4条关键注释；另核创造之书旧待核注同步。不是16项全文复审。",
+  "method": "只读HEAD、指定英文源块、现稿及缓存中的实际参考段落；创造之书、约伯普路托脚注另看原刊扫描。未修改任何正式译文。",
+  "full_review_this_round": false,
+  "body_changes_checked": 7,
+  "key_notes_checked": 4,
+  "additional_synchronization_note_checked": 1,
+  "record_change_objects_checked": 11,
+  "checks": [
+    {
+      "book_id": "testaments-of-the-twelve-patriarchs",
+      "unit_id": "cAK9",
+      "block_id": "p0003",
+      "kind": "body",
+      "head_before": "无论人做什么，怀恨的人都憎恶自己；即使有人遵行主的律法，他也不赞美主；即使有人敬畏主，喜爱公义，他也不爱主。",
+      "current_after": "无论一个人做什么，怀恨的人都厌恶他；即使那人遵行主的律法，怀恨的人也不称赞他；即使那人敬畏主、喜爱公义，怀恨的人也不爱他。",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "Charles与ANF的宾语him指怀恨者所恨的行善者；下文约瑟例证也支持。himself及大写Him造成当前英文指代异常。现稿明确三处分句主语，否定和行为对象正确。QA提出最后分句主语仍可能混淆，作者已同步为“怀恨的人也不爱他”，本次复读确认解决。",
+      "reference_urls": [
+        "https://www.earlychristianwritings.com/text/patriarchs-charles.html",
+        "https://www.earlychristianwritings.com/text/patriarchs.html",
+        "https://www.earlyjewishwritings.com/testtwelve.html"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "1-enoch",
+      "unit_id": "cBTH",
+      "block_id": null,
+      "kind": "note",
+      "head_before": "71:2 hyacinth在光泽描写中按宝石义译紫蓝宝石，不取参考本水草。71:14—16底本This is the Son of Man及He/His为第三人称，不改参考本对以诺第二人称称呼。",
+      "current_after": "71:2 hyacinth在光泽描写中按宝石义译紫蓝宝石，不取参考本水草。71:14—16底本This is the Son of Man及He/His为第三人称，不改参考本对以诺第二人称称呼。 跨译本说明：Charles 1913原刊在71:14—16的脚注明说，第三人称是他对第二人称文本所作的校改；现代研究（Walck，2011，5—6页）指出此校改没有现存抄本支持。本译保留用户指定英文的第三人称，不能把它当作各古传本一致的读法。",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "Charles 1913第71章14—16节脚注明确称This is替换Thou art，him替换thee；Walck 2011导论5—6页指出这套校改没有现存抄本支持。注释准确区分编辑校改与古传本，正文仍保留指定英文第三人称。",
+      "reference_urls": [
+        "https://archive.org/details/apocryphapseudep02charuoft",
+        "https://api.pageplace.de/preview/DT0400.9780567508621_A25052432/preview-9780567508621_A25052432.pdf"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "2-enoch",
+      "unit_id": "cCCU",
+      "block_id": "p0007",
+      "kind": "body",
+      "head_before": "那难解的寒冬",
+      "current_after": "那无法消解的寒冬",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "1913正文确作indissoluble winter；改译为不能消解，避免误译不能理解。仍保留winter，不用参考的结替换，版本边界正确。",
+      "reference_urls": [
+        "https://archive.org/details/apocryphapseudep02charuoft",
+        "https://www.marquette.edu/maqom/new123.pdf"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "3-enoch",
+      "unit_id": "cCNM",
+      "block_id": "p0007",
+      "kind": "body",
+      "head_before": "在至高之天亚拉波高处掌管三指的大君",
+      "current_after": "在至高之天亚拉波高处的三指大君",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "Alexander 1983第18章注l明确区分A/B的三指与Mus的指尖铺天；英文没有掌管。删除额外支配关系合理，保留难解称谓与异读注，未把Mus本补进正文。",
+      "reference_urls": [
+        "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+        "https://www.margins.bible/3-enoch/chapter-25/"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "book-of-creation",
+      "unit_id": "cDB5",
+      "block_id": "p0005",
+      "kind": "body",
+      "head_before": "然后从坐在宝座上、塑造它的那一位面前离开",
+      "current_after": "使那塑造它的主归回祂的宝座",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "实际查看Westcott 1893 PDF第15页扫描，清楚为跨行re-place Him who formed it upon his throne；并核注12的归位解释。现稿方向正确，修正说明保留指定EPUB的pass from读法。这里只证实旧英译近源，不能据此宣称完成现代希伯来校勘。同步旧待核注也已核。",
+      "reference_urls": [
+        "https://iapsop.com/ssoc/1893__westcott___sepher_yetzirah.pdf",
+        "https://www.mohrsiebeck.com/en/book/sefer-yesira-9783161587955/"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "book-of-creation",
+      "unit_id": "cDB5",
+      "block_id": null,
+      "kind": "note",
+      "head_before": "塞法林（Sepharim）和塞菲罗特（Sephiroth）是不同术语，照英文分别音译；前者在本句指数、字母、声音，后者为本书十个奥秘数或根本范畴。希伯来字母以底本拉丁转写保留，便于核对排列。1:4 pass from Him含义存疑，按字面译从祂面前离开，未改写为别种修习指示。",
+      "current_after": "塞法林（Sepharim）和塞菲罗特（Sephiroth）是不同术语，照英文分别音译；前者在本句指数、字母、声音，后者为本书十个奥秘数或根本范畴。希伯来字母以底本拉丁转写保留，便于核对排列。1:4据Westcott 1893原刊校正，见原文修正说明。",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "实际查看Westcott 1893 PDF第15页扫描，清楚为跨行re-place Him who formed it upon his throne；并核注12的归位解释。现稿方向正确，修正说明保留指定EPUB的pass from读法。这里只证实旧英译近源，不能据此宣称完成现代希伯来校勘。同步旧待核注也已核。",
+      "reference_urls": [
+        "https://iapsop.com/ssoc/1893__westcott___sepher_yetzirah.pdf",
+        "https://www.mohrsiebeck.com/en/book/sefer-yesira-9783161587955/"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "ladder-of-jacob",
+      "unit_id": "cDR8",
+      "block_id": "p0003",
+      "kind": "body",
+      "head_before": "这些君王必起来攻击你后裔的不法之行",
+      "current_after": "这些君王必因你后裔的不法之行而兴起",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "实读Kugel 1995印刷211页注6，作者明确解释斯拉夫na及可能闪语al的因果义；列王兴起是因后裔不法，不是以惩恶为德。修订和说明有具体论证支持，属于有注明的解释性校订，不称发现另一古抄本。",
+      "reference_urls": [
+        "https://www.ma.huji.ac.il/~kazhdan/Shneider/apocr2010/Kugel%2C%20James.%20The%20Ladder%20of%20Jacob%2C%20HTR%2088%2C2%20%281995%29%2C%20209-227.pdf"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "joseph-and-asenath",
+      "unit_id": "cDYA",
+      "block_id": "p0003",
+      "kind": "body",
+      "head_before": "满满握在手中，向法老的儿子掷去",
+      "current_after": "运足力气，向法老的儿子掷去",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "Cook 1984第27章3节正文是with all his might，注3明确字面为filled his hand and hurled it并参王下9:24。运足力气有直接习语解释依据。Cook短本与Brooks长本不同，当前改动仅此习语，未带入年龄、人数等版本差异。",
+      "reference_urls": [
+        "https://archive.org/details/cu31924079583955",
+        "https://markgoodacre.org/wp/aseneth/introduction/",
+        "https://markgoodacre.org/wp/aseneth/cook_translation/",
+        "https://markgoodacre.org/wp/aseneth/cook_translation/3/",
+        "https://markgoodacre.org/wp/aseneth/cook_translation/27/"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "testament-of-job",
+      "unit_id": "cE0T",
+      "block_id": "p0019",
+      "kind": "body",
+      "head_before": "比勒达说：",
+      "current_after": "〔比勒达说：〕",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "指定英文直接将And Bildad said括入方括号；恢复中文补文括号成立，不改变说话者。",
+      "reference_urls": [
+        "https://archive.org/details/semiticstudiesin00kohurich",
+        "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/testament-of-job/",
+        "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "testament-of-job",
+      "unit_id": "cE0B",
+      "block_id": null,
+      "kind": "note",
+      "head_before": "6:21 普路托：古希腊罗马传统中的冥府之神；英文直接使用此神名，保留，不以中文参考的“丰富产业”替换。6:24 英文由“我”转为“他”，保留叙述人称变化。",
+      "current_after": "6:21 普路托是希腊罗马传统中的冥府之神。Kohler 1897原刊325页注把希腊文的“富足”校改为此神名；Spittler 1983则保留“真正的大丰富”。本译依指定英文保留普路托，不能视为各传本一致的神名。6:24 英文由“我”转为“他”，保留叙述人称变化。",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "实际查看Kohler 1897印刷325页扫描，页脚明确要求以Ploutonos替换Ploutou；Spittler 1983第26章正文读truly great wealth。注释有据，保持本版普路托而不冒称传本一致。",
+      "reference_urls": [
+        "https://archive.org/details/semiticstudiesin00kohurich",
+        "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/testament-of-job/",
+        "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    },
+    {
+      "book_id": "testament-of-solomon",
+      "unit_id": "cE73",
+      "block_id": null,
+      "kind": "note",
+      "head_before": "塔耳塔罗斯（Tartarus）指囚禁灵体的幽暗深渊。第13节圣名数字英文为644，照录。",
+      "current_after": "塔耳塔罗斯（Tartarus）指囚禁灵体的幽暗深渊。第13节的644也见Conybeare 1898旧译及Duling 1983所列P本异读，是以马内利之名按希腊字母数值相加所得；本句将希伯来/希腊称呼相对的方式仍有疑义，正文照指定英文保留。",
+      "head_current_record_match": true,
+      "judgment": "supported",
+      "reason": "实读Duling 1983导论对P本6:8的说明，644是Emmanouel字母数值之和；Conybeare转录有对应数字。独立复算ΕΜΜΑΝΟΥΗΛ=5+40+40+1+50+70+400+8+30=644。语言称谓对应疑义仍保留，未用现代解释重写正文。",
+      "reference_urls": [
+        "https://www.esotericarchives.com/solomon/testamen.htm",
+        "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf"
+      ],
+      "reference_scope": "仅上述论证中实际指明的对应段落；其余书目链接沿原研究记录，不表示全部重新读取。"
+    }
+  ],
+  "resolved_findings": [
+    {
+      "unit_id": "cAK9",
+      "block_id": "p0003",
+      "issue": "末分句省略怀恨者主语可能使那人被误读为主语。",
+      "resolution": "作者自行改为“怀恨的人也不爱他”，正式稿与研究记录均已复核。"
+    }
+  ],
+  "unresolved_findings": [],
+  "limitations": [
+    "未独立校勘希伯来、希腊、斯拉夫或埃塞俄比亚古抄本；将现代编辑解释与传本读法分别表述。",
+    "参考材料多数由同事已下载缓存供实读；本轮没有把重新下载视为核读，也未复核所有网址实时可访问性。"
+  ],
+  "target_sha256_at_review": "3514e78761711351476c1a964e4cf4e391e5f538959b0bd34ff57e576bb8ccdc"
+}

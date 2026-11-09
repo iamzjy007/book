@@ -250,9 +250,15 @@
     }
   ],
   "references": [
-    "bible/基督教典外文献（共10册）_手机版.txt：13168—13248（以西结藏书）；参考本残片排序和收录不同，英文控制内容与编号。"
+    "bible/基督教典外文献（共10册）_手机版.txt：13168—13248（以西结藏书）；参考本残片排序和收录不同，英文控制内容与编号。",
+    {
+      "source": "跨传统重点审校",
+      "url": "https://eclass.uoa.gr/modules/document/file.php/THEOL264/James%20H.%20Charlesworth%20The%20Old%20Testament%20Pseudepigrapha%2C%20Vol.%201%20Apocalyptic%20Literature%20and%20Testaments%201983.pdf",
+      "usage": "本篇Texts、Original language与Date段；残片2—5全部译文及3、4脚注，另残片1盲瘸寓言末段。"
+    }
   ],
   "notes": [
-    "残片三英文为“仍怀着胎”，不同于参考本“好像未曾怀胎／生产”，按英文保留。残片一为破碎文本，所有缺文位置以省略号保留，不补全为正典以西结书。"
+    "版本说明及待核：残片三指定英文为“仍怀着胎”，现译保留。Mueller与Robinson（OTP I，1983）并列特土良、伊皮法纽、尼撒贵格利、亚历山大的革利免及《彼得行传》的引文，均采用“生了而未生”的表达；本英文pregnant的来源仍待核，未据不同引文直接改写。",
+    "残片一为破碎文本，所有缺文位置照样保留；本单元六片的编排与OTP所列五片不同，未据后者增删、重排或补成正典以西结书。"
   ]
 }

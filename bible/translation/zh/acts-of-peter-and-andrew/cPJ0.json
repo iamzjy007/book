@@ -14,10 +14,20 @@
     }
   ],
   "references": [
-    "已检索基督教典外文献（共10册）_手机版.txt，未找到彼得与安得烈行传对应全文；直接依英文底本翻译。"
+    "已检索基督教典外文献（共10册）_手机版.txt，未找到彼得与安得烈行传对应全文；直接依英文底本翻译。",
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-andrew/",
+      "usage": "Summary全段及Greek editions/English translations。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://biblicalstudies.gospelstudies.org.uk/pdf/e-books/james_m-r/apocryphal-new-testament_james.pdf",
+      "usage": "全篇概要§§1—23：田间、女子、针眼与受洗结尾，核指定的两处中断。"
+    }
   ],
   "notes": [
-    "第3章第26节在“In the Name...”处中断，底本未提供后续，译文未补写。",
-    "“二十七磅”“五十磅”保留底本重量单位，未换算现代衡制。"
+    "版本说明：指定第3章第26节在“In the Name...”处中断；James（1924，第460页）的概要另有骆驼停住、受洗及女子获释等结尾。本译不越过指定底本补写。",
+    "“二十七磅”“五十磅”保留指定英文重量单位；James称litrae，属古代重量语境，未换算成现代英磅或公斤。"
   ]
 }

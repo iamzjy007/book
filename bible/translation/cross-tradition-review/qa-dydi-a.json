@@ -1,0 +1,62 @@
+{
+  "reviewer": "dydi_a",
+  "review_of": "lori_a.json",
+  "scope": "仅本轮3处正文与2处仅注释改动；不重复25项整批审校；正式译文只读。",
+  "method": "直接提取指定EPUB对应源单元，逐项对照当前正式JSON；独立读取下列网页的相关上下文，不以工作者报告代替证据。",
+  "checks": [
+    {
+      "book": "2-clement",
+      "unit": "cH48",
+      "block": "p0006",
+      "source_context_read": "全第4章p0001—p0006；CCEL Lake希腊IV.1—5及前后上下文",
+      "url": "https://ccel.org/ccel/lake/fathers2/fathers2.ii.ii.html",
+      "verdict": "通过",
+      "reason": "指定英文if we do these things确无not；希腊引语前ταῦτα ὑμῶν πρασσόντων亦无否定。引语内部καὶ μὴ ποιῆτε才明确否定不遵命令。撤销旧补否定符合底本边界；这些事承接仍有歧义，现注只提出可能解释，没有强行消除。"
+    },
+    {
+      "book": "gelasian-decree",
+      "unit": "cZ2T",
+      "block": "p0004",
+      "source_context_read": "指定第4章及当前中文；拉丁IV四会议连续条目",
+      "url": "https://www.tertullian.org/decretum.htm",
+      "verdict": "通过",
+      "reason": "实际拉丁为Macedonius hereticus debitam damnationem excepit；excepit在此以定罪为宾语，表示领受、承受。尼西亚condemnatus、以弗所damnatus及迦克墩damnatae并列均支持受定罪。改受了而非逃脱有直接语言证据，不只是按通常会议史改文；注保留指定英译原貌。"
+    },
+    {
+      "book": "the-chronicon-universal-history",
+      "unit": "c13E2",
+      "block": "p0007",
+      "source_context_read": "指定p0007—p0008；Bedrosian与Smith相同萨尔、月年、三个月及十代上下文",
+      "urls": [
+        "https://www.tertullian.org/fathers/eusebius_chronicon_02_text.htm",
+        "https://www.tertullian.org/fathers/eusebius_chronicon_01_text.htm"
+      ],
+      "verdict": "通过",
+      "reason": "Bedrosian确有hours，紧接seasons of the year与three-month intervals；Smith同段译seasons。按时节理解这处古代时间名称合理，胜于会让读者联想到两小时的时辰；未改变其三个月称年的叙述，亦未以两个网页的其他数字覆盖指定432000。"
+    },
+    {
+      "book": "1-clement",
+      "unit": "cH0K",
+      "kind": "note_only",
+      "source_context_read": "指定及现译54全章；Lightfoot53末至55初",
+      "url": "https://www.earlychristianwritings.com/text/1clement-lightfoot.html",
+      "verdict": "注释修订通过，保留原有待核",
+      "reason": "Lightfoot54:4确将which bringeth no regrets连于kingdom；指定英文converted of异常。新增注准确揭示正文把无悔移连于行为只是解释取向，未声称原文唯一如此。本次没有改正文，既有修饰关系仍宜将来查希腊，不能因通过本轮注释QA宣称正文句法已最终解决。"
+    },
+    {
+      "book": "epistle-of-mathetes-to-diognetus",
+      "unit": "cJAT",
+      "kind": "note_only",
+      "source_context_read": "指定及现译第2章全文；Lightfoot2:4—10及3章开头",
+      "url": "https://www.earlychristianwritings.com/text/diognetus-lightfoot.html",
+      "verdict": "通过",
+      "reason": "Lightfoot亦有convict his sensibility，前文人有感觉不甘受血脂涂抹，石无知觉故忍受。把convict解释为揭穿有知觉的声称，与论证相合；修注取消英文漏not的断言更审慎。"
+    }
+  ],
+  "findings_requiring_parent_edit": [],
+  "limits": [
+    "本QA未另重读FHL网页或每项全部参考，只核实际列明原文和上下文。",
+    "1Clem54:4原有修饰歧义未解决；本次只认定新注忠实说明分歧。"
+  ],
+  "formal_translation_files_modified": false
+}

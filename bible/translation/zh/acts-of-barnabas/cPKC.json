@@ -26,7 +26,7 @@
     },
     {
       "id": "p0006",
-      "zh": "我们越过名叫基奥诺德斯的山，来到旧帕弗，在那里遇见圣殿仆役罗顿。他自己也信了，就与我们同行。"
+      "zh": "我们越过名叫基奥诺德斯的山，来到旧帕弗，在那里遇见庙宇仆役罗顿。他自己也信了，就与我们同行。"
     },
     {
       "id": "p0007",
@@ -46,9 +46,20 @@
     }
   ],
   "references": [
-    "已检索《基督教典外文献（共10册）_手机版.txt》巴拿巴、巴纳巴、巴尔纳、巴尔拿及Barnabas，无对应正文；依英文底本完整翻译，未以其他行传的情节补写。"
+    "已检索《基督教典外文献（共10册）_手机版.txt》巴拿巴、巴纳巴、巴尔纳、巴尔拿及Barnabas，无对应正文；依英文底本完整翻译，未以其他行传的情节补写。",
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-barnabas/",
+      "usage": "Summary及Greek editions、English/German translations。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://cloud.elearning.ubbcluj.ro/index.php/sacrascripta/article/download/10331/9994",
+      "usage": "原刊完整版注41—42版本说明，译文§§12—20及邻接上下文、注86/97/100—101，序言关于pagane Tempel语境的注26。"
+    }
   ],
   "notes": [
-    "Heracleius赫拉克利乌斯改名Heracleides赫拉克利德斯，依本底本保留，不将两名自动归一。西边倒塌的具体建筑英文未明说，译场地西边，不增添看台等构造。"
+    "Heracleius赫拉克利乌斯改名Heracleides赫拉克利德斯，依本底本保留，不将两名自动归一。西边倒塌的具体建筑英文未明说，译场地西边，不增添看台等构造。",
+    "版本说明及待核（5:8—9）：指定英文末尾“被称为神圣”的关系从句指向有歧义，现译将其联系阿波罗庙；Nicklas所译Bonnet校本则将其联系城名。下一句另有明确差异：指定英文作接近庙，Nicklas作接近库里乌姆。本译暂留现译，未将句法歧义当作已确定的底本异文。"
   ]
 }

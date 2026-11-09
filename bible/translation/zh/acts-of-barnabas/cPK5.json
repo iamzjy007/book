@@ -62,7 +62,7 @@
     },
     {
       "id": "p0015",
-      "zh": "我们渡海，夜间抵达居比路，来到名叫克罗米亚基塔的地方，见到圣殿的仆役提门和亚厘士顿，也在他们家中受到接待。"
+      "zh": "我们渡海，夜间抵达居比路，来到名叫克罗米亚基塔的地方，见到庙宇的仆役提门和亚厘士顿，也在他们家中受到接待。"
     },
     {
       "id": "p0016",
@@ -78,9 +78,19 @@
     }
   ],
   "references": [
-    "已检索《基督教典外文献（共10册）_手机版.txt》巴拿巴、巴纳巴、巴尔纳、巴尔拿及Barnabas，无对应正文；依英文底本完整翻译，未以其他行传的情节补写。"
+    "已检索《基督教典外文献（共10册）_手机版.txt》巴拿巴、巴纳巴、巴尔纳、巴尔拿及Barnabas，无对应正文；依英文底本完整翻译，未以其他行传的情节补写。",
+    {
+      "source": "跨传统重点审校",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-barnabas/",
+      "usage": "Summary及Greek editions、English/German translations。"
+    },
+    {
+      "source": "跨传统重点审校",
+      "url": "https://cloud.elearning.ubbcluj.ro/index.php/sacrascripta/article/download/10331/9994",
+      "usage": "原刊完整版注41—42版本说明，译文§§12—20及邻接上下文、注86/97/100—101，序言关于pagane Tempel语境的注26。"
+    }
   ],
   "notes": [
-    "temple servants底本未指明是哪一庙宇，照译圣殿仆役，不自行指定为耶路撒冷祭司。"
+    "译词说明：temple servants指在庙宇服役的人，本译作“庙宇的仆役”，不把他们认定为耶路撒冷圣殿人员。Nicklas（2024）的注释推测与当地阿芙洛狄忒崇拜有关，但正文未明说庙名，未据此添加。"
   ]
 }
