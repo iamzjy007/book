@@ -8,5 +8,22 @@
       "卷六13章末abstained from the men：此公开英译也如此，不能仅因语义不顺便断言本EPUB漏了not。",
       "卷三8章献银者about twenty years old, but under fifty：此公开英译同样如此，保留年龄描述的近似性。"
     ]
+  },
+  "fhl-apostolic-fathers-huang": {
+    "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.html",
+    "editor": "黄锡木",
+    "original_language_review": [
+      "黄锡木",
+      "张略"
+    ],
+    "translators": [
+      "陈宝婵",
+      "彭惠敏",
+      "邱丹",
+      "王碧燕"
+    ],
+    "retrieved": "2026-11-09",
+    "purpose": "辅助检查语义、句法与术语；译文依据指定英文自行措辞。逐章实际访问与修改记录见reference-review。网站编次、底本异读与正文范围不自动覆盖本项目。",
+    "scope": "使徒教父作品，与本项目54项历史教父全集并非同一范围。另对应旧工程中的十二使徒遗训、巴拿巴书信、黑马牧人书。"
   }
 }

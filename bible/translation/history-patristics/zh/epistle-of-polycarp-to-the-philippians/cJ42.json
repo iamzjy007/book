@@ -26,7 +26,12 @@
     }
   ],
   "references": [
-    "已检索基督教典外文献（共10册）_手机版.txt，未找到本书对应全文；18黑马牧人书.txt为不同作品。本单元直接依英文底本翻译。"
+    "已检索基督教典外文献（共10册）_手机版.txt，未找到本书对应全文；18黑马牧人书.txt为不同作品。本单元直接依英文底本翻译。",
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=011",
+      "location": "坡旅甲致腓立比人书 第11章",
+      "use": "2026-11-09 中文参考逐段校核；英文底本决定内容与异文，独立措辞，详见 reference-review/dydi_d.json。"
+    }
   ],
   "notes": []
 }

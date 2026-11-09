@@ -1,0 +1,297 @@
+{
+  "worker": "dydi_d",
+  "date": "2026-11-09",
+  "method": "英文 EPUB 为内容依据，逐块核对现译与 FHL 黄锡木主编参考；自行措辞，不转载参考正文；保留英文特有读法与篇次。",
+  "books": [
+    {
+      "book": "epistle-of-polycarp-to-the-philippians",
+      "reference_name": "坡旅甲致腓立比人书",
+      "urls": [
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=001",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=002",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=003",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=004",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=005",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=006",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=007",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=008",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=009",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=010",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=011",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=012",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=013",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=014"
+      ],
+      "coverage": "第1—14章全部正文逐块对照；cJ4G对应网站12.2—3续文；书名、英文编者导言及开头问安仅底本复核（网页001正文从第1章开始）。",
+      "differences": [
+        "第1章英文 follows pattern，与参考接待展现真爱的人读法不同，保留英文。",
+        "第3章英文 when faith follows 重复 faith，参考为盼望；不据参考无说明替换。",
+        "第5章英文主是众人仆人、virgins 童女，与参考语法及称谓差异保留。",
+        "第6章英文 not hasty in judgment 为不仓促判断，非参考无情。",
+        "第11章英文书信开头称赞及当时仅你们认识主，与参考推荐信及各教会限定不同。",
+        "第12章英文 will believe 为将要相信，不改参考尚未相信。",
+        "第14章 by Crescens 不足以断定代笔，保留不定职能。"
+      ],
+      "reference_text_quoted_verbatim": false
+    },
+    {
+      "book": "martyrdom-of-polycarp",
+      "reference_name": "坡旅甲殉道记",
+      "urls": [
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=001",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=002",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=003",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=004",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=005",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=006",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=007",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=008",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=009",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=010",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=011",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=012",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=013",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=014",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=015",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=016",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=017",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=018",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=019",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=020",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=021",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=022"
+      ],
+      "coverage": "第1—22章全部正文逐块对照；书名、英文编者导言与开头问安仅底本复核（网页001正文从第1章开始）。",
+      "differences": [
+        "第1章英文 from above 为从天上，参考为再次，保留英文。",
+        "第2章英文换得 continuous life，与参考抵销永恒刑罚不同，未改。",
+        "第6章英文未给奴仆确数，不补参考的两个。",
+        "第8章英文 sacrifice 不限定香品；第9—10章 genius 保留守护神，不改气运。",
+        "第13章英文 before his martyrdom 与参考年老发白之前不同；固定火刑器具与参考堆柴不同，均保留。",
+        "第15章英文 room 不改参考拱形；第16章英文有鸽子，参考缺，仍保留。",
+        "第18章英文遗体置火中，不改参考置会场中；第19章第十二位按英文保留。",
+        "第20章英文 Marcion 保留马吉安，未改参考 Marcianus；第21章第八时不换算新增下午两点。",
+        "第22章只核共同结尾，不补参考收录的莫斯科抄本异结尾；英文导言已明确不收。"
+      ],
+      "reference_text_quoted_verbatim": false
+    },
+    {
+      "book": "exposition-of-the-oracles-of-the-lord",
+      "reference_name": "帕皮亚残篇",
+      "urls": [
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=003",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=011",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=014",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=015",
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=018"
+      ],
+      "coverage": "英文7残篇全部逐块核对，按content_mapping对应不同网站篇次；编者导言仅同内容引文可参考，其他导言据底本校读。",
+      "differences": [
+        "英文残篇一对应参考3.3—4；残篇二对应15；残篇三对应18，但英文简短结尾被车碾压，与参考长篇另述死亡不同，不补写或调和。",
+        "英文残篇四对应14：树枝层级按英文；25 metretes 保留梅特雷特，不改瓶；apples 保留苹果，不泛化为其他果子。",
+        "英文残篇六对应3.15—16；保留其余英文段落结构。",
+        "英文残篇七对应11前半，参考后半龙被逐出不在英文，未补。",
+        "导言爱任纽第四卷五册见证可与参考3.1及14对应；约公元100年等英文导言内容保留。"
+      ],
+      "content_mapping": [
+        {
+          "english": "cJKE p0002—p0012",
+          "fhl": "帕皮亚残篇 3.3—4"
+        },
+        {
+          "english": "p0014",
+          "fhl": "帕皮亚残篇 15"
+        },
+        {
+          "english": "p0016—p0018",
+          "fhl": "帕皮亚残篇 18（不同长度异文）"
+        },
+        {
+          "english": "p0020—p0031",
+          "fhl": "帕皮亚残篇 14"
+        },
+        {
+          "english": "p0033—p0050",
+          "fhl": "衆长老的传统 5（参考节录较短）"
+        },
+        {
+          "english": "p0052—p0061",
+          "fhl": "帕皮亚残篇 3.15—16"
+        },
+        {
+          "english": "p0063—p0064",
+          "fhl": "帕皮亚残篇 11前半"
+        }
+      ],
+      "reference_text_quoted_verbatim": false
+    },
+    {
+      "book": "exposition-of-the-oracles-of-the-lord",
+      "reference_name": "衆长老的传统",
+      "urls": [
+        "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%A1%86%E9%95%BF%E8%80%81%E7%9A%84%E4%BC%A0%E7%BB%9F&chap=005"
+      ],
+      "coverage": "仅英文残篇五与第5篇重合段落；英文较长余段仅底本校读。",
+      "differences": [
+        "英文残篇五实际对应本页，不能用帕皮亚残篇第五篇硬套。参考省略父分赐住处、赴婚筵卧榻及保罗引文后半；英文这些块全部保留。"
+      ],
+      "reference_text_quoted_verbatim": false
+    }
+  ],
+  "changes": [
+    {
+      "book": "epistle-of-polycarp-to-the-philippians",
+      "unit": "cJ23",
+      "block": "p0002",
+      "before": "又要诚实",
+      "after": "并持守真理",
+      "reason": "truth 与敬畏并列，参考本提示其真理含义；不是一般为人诚实。"
+    },
+    {
+      "book": "epistle-of-polycarp-to-the-philippians",
+      "unit": "cJ2A",
+      "block": "p0004",
+      "before": "人若处于这样的同伴之中",
+      "after": "人若持守这些德行",
+      "reason": "company 指前述信爱等德行的相伴，不是人的同伴群体。英文重复 faith 仍保留，不据参考改 hope。"
+    },
+    {
+      "book": "epistle-of-polycarp-to-the-philippians",
+      "unit": "cJ2Z",
+      "block": "p0004",
+      "before": "也如传福音给我们的使徒，以及预言我们的主将要来临的先知所行的",
+      "after": "也如传福音给我们的使徒，以及预言我们的主将要来临的先知所吩咐的",
+      "reason": "as did 回指 commanded，原译误成先知使徒所行的。"
+    },
+    {
+      "book": "epistle-of-polycarp-to-the-philippians",
+      "unit": "cJ4G",
+      "block": "p0002",
+      "before": "好使“你们的果子显明在众人面前，使你们得以完全”，在祂里面得以完全。",
+      "after": "好使“你们的果子显明在众人面前，使你们得以完全”，就是在祂里面。",
+      "reason": "去除中文额外重复，保留英文引号内外结构。"
+    },
+    {
+      "book": "martyrdom-of-polycarp",
+      "unit": "cJ5N",
+      "block": "p0003",
+      "before": "肉身的结构，甚至深处的静脉和动脉，都显露出来",
+      "after": "皮肉内部的组织，连深处的静脉和动脉，都暴露在外",
+      "reason": "mechanism of flesh 不宜机械译成肉身的结构；按伤口显露内部组织理解，保留明确解剖细节。"
+    },
+    {
+      "book": "martyrdom-of-polycarp",
+      "unit": "cJ6S",
+      "block": "p0002",
+      "before": "傍晚很迟的时候",
+      "after": "入夜以后",
+      "reason": "late in the evening 中文原句不自然；参照事发晚间顺序，独立重述。"
+    },
+    {
+      "book": "martyrdom-of-polycarp",
+      "unit": "cJ8G",
+      "block": "p0003",
+      "before": "又像充满风的船帆",
+      "after": "又像被风撑起的船帆",
+      "reason": "filled with wind 指风使帆张起，消除逐词译腔；仍保留英文 room 而不据参考改拱形。"
+    },
+    {
+      "book": "martyrdom-of-polycarp",
+      "unit": "cJ95",
+      "block": "p0004",
+      "before": "按所能的",
+      "after": "尽我们所能",
+      "reason": "according to our power 指能力所及，不是中文生硬介词结构。"
+    },
+    {
+      "book": "exposition-of-the-oracles-of-the-lord",
+      "unit": "cJKE",
+      "block": "p0031",
+      "before": "主说：“到了那里的，就必看见。”",
+      "after": "主说：“经历那些日子的人，自会看见。”",
+      "reason": "上下文 them 指预言的丰收日子与事态，不是地点；参考第14篇确认时间指向，重新措辞。"
+    },
+    {
+      "book": "exposition-of-the-oracles-of-the-lord",
+      "unit": "cJKE",
+      "block": "p0061",
+      "before": "各人都尽自己的能力加以翻译。",
+      "after": "各人都尽自己的能力加以译解。",
+      "reason": "interpreted 在希伯来语圣言语境可含翻译与解释；参考译解释，使用译解保留两层可能。"
+    }
+  ],
+  "reference_search": {
+    "帕皮亚残篇": "检索阅读全文1—26篇，按内容定位3、11、14、15、18篇；其余不与英文7残篇直接对应。",
+    "衆长老的传统": "检索阅读全文1—5篇，第5篇对应英文残篇五。"
+  },
+  "validation": "三书全部41个单元（16+23+2）结构与源指纹验证 complete；未改变正文块数量、编号或英文源文。",
+  "all_consulted_urls": [
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=001",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=002",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=003",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=004",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=005",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=006",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=007",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=008",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=009",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=010",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=011",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=012",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=013",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=014",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=015",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=016",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=017",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=018",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=019",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=020",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=021",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=022",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=001",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=002",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=003",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=004",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=005",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=006",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=007",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=008",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=009",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=010",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=011",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=012",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=013",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E8%87%B4%E8%85%93%E7%AB%8B%E6%AF%94%E4%BA%BA%E4%B9%A6&chap=014",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=001",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=002",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=003",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=004",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=005",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=006",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=007",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=008",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=009",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=010",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=011",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=012",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=013",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=014",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=015",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=016",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=017",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=018",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=019",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=020",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=021",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=022",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=023",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=024",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=025",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=026",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%A1%86%E9%95%BF%E8%80%81%E7%9A%84%E4%BC%A0%E7%BB%9F&chap=001",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%A1%86%E9%95%BF%E8%80%81%E7%9A%84%E4%BC%A0%E7%BB%9F&chap=002",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%A1%86%E9%95%BF%E8%80%81%E7%9A%84%E4%BC%A0%E7%BB%9F&chap=003",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%A1%86%E9%95%BF%E8%80%81%E7%9A%84%E4%BC%A0%E7%BB%9F&chap=004",
+    "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%A1%86%E9%95%BF%E8%80%81%E7%9A%84%E4%BC%A0%E7%BB%9F&chap=005"
+  ]
+}

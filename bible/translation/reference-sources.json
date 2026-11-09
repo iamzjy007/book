@@ -1,0 +1,22 @@
+{
+  "fhl-apocrypha-1933": {
+    "requested_url": "https://bible.fhl.net/gbdoc/new/readsub.html",
+    "chapter_endpoint": "https://bkbible.fhl.net/gbdoc/new/readsub.php",
+    "retrieved": "2026-11-09",
+    "versions": {
+      "c1933": "1933年圣公会出版经文",
+      "chdc": "1933年次经全书经文"
+    },
+    "version_caution": "两列存在重复译文与分节差异，不默认视为两个独立译本。",
+    "purpose": "按内容对齐，辅助核查现译语义与中文表达；以指定英文底本控制范围和内容，保留异读，不机械替换或整段移植。",
+    "records": "reference-review/"
+  },
+  "fhl-apostolic-fathers-huang": {
+    "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.html",
+    "editor": "黄锡木",
+    "retrieved": "2026-11-09",
+    "scope": ["didache", "epistle-of-barnabas", "the-shepherd-of-hermas"],
+    "records": "history-patristics/reference-review/",
+    "purpose": "与历史教父工程共用参考记录；英文底本优先，参考帮助发现句法、语义及表达问题。"
+  }
+}

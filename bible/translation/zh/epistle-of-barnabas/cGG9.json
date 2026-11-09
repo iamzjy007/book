@@ -49,8 +49,10 @@
       "zh": "因为渴望得救的人，所注目的不是那个人，而是住在那人里面、藉他发言的主，并为他惊奇；因为他以前从未听见那人口中说这样的话，也从未自己想要听这些话。这就是正在为主建造的属灵之殿。"
     }
   ],
-  "references": [],
+  "references": [
+    "FHL 使徒教父中文参考（afhuang），逐章与指定英文独立核对：https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=016"
+  ],
   "notes": [
-    "第1节英文将“and is the true house of God”连于God之后，语义不寻常，按现有语法保留，不默改成“我们才是神的殿”。第6节week原文未明说年数，保留“一周”，不擅加七年。"
+    "第1节已核对原XHTML，英文 God who made them, and is the true house of God 的末句按现有语法承接God，语义不寻常。中文参考将神真正的居所归于建筑之误认；这里保留英文句法所呈现的疑点，待其他版本核实，不据参考改写正文。第6节week原文未明说年数，保留“一周”，不擅加七年。"
   ]
 }

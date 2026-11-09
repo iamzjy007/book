@@ -1,0 +1,878 @@
+{
+  "book_id": "1-clement",
+  "reference": "黄锡木主编《使徒教父著作》，信望爱网站",
+  "method": "逐章阅读中文参考、指定英文与现译，以英文为控制独立修订；不转载中文参考正文。",
+  "chapters": [
+    {
+      "chapter": 1,
+      "unit_id": "cGN0",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=001",
+      "source_sha256": "050fe35710ed1a2307a64bf8c6a95656a6840e36f5c8dff4e6e073194702e790",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0002",
+          "before": "弟兄们，突如其来、接连发生的灾难和不幸临到我们，使我们想必迟了一些，才顾及你们中间的争端。亲爱的，你们中间竟有污秽、不圣洁的叛乱，这原与神所拣选的人毫不相称。几个刚愎自用、任性妄为的人，将这事煽动到如此狂乱的地步，以致你们那本来尊贵、有名、配受众人爱重的名声，受了极大的毁谤。",
+          "after": "弟兄们，我们接连遭遇突如其来的灾难和不幸，想来因此迟了一些，才顾及你们中间的争端。亲爱的，你们中间竟有污秽、不圣洁的叛乱，这原与神所拣选的人毫不相称。几个刚愎自用、任性妄为的人，将这事煽动到如此狂乱的地步，以致你们那本来尊贵、有名、配受众人爱重的名声，受了极大的毁谤。",
+          "reason": "理顺原文因果与we suppose的推量语气，避免使我们想必的生硬结构。"
+        }
+      ],
+      "retained_differences": [
+        "elders仍依本译文作长老，不仅因参考作年长者而机械改称谓。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 2,
+      "unit_id": "cGN7",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=002",
+      "source_sha256": "4ada83a271849cf3f0c136ed0e9a94f58d169f9b286156b4a1c18f554193d385",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "第4节英文为holy desire，保留圣洁的渴望；第5节mercy and good pleasure依英文，不改成参考的敬畏与尽责。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 3,
+      "unit_id": "cGNE",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=003",
+      "source_sha256": "750c3fdd826da6e42224b4596fa281b056d40da38b4558002132ba1db2451e84",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 4,
+      "unit_id": "cGNN",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=004",
+      "source_sha256": "c0f6970647ad0f9050e0c3fd60ef83c44e1be2d630d0aba891918db742369c3f",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "gift returns to you依英文保留供物归回，不移用参考意向；Aaron and Miriam pitched tents保持原文亚伦与米利暗及支搭帐棚；foreigners不缩为非利士人。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 5,
+      "unit_id": "cGNW",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=005",
+      "source_sha256": "e437d4ce8e9c948fcfa3ebd576f727f8b93b31aecd6f8f9934f06cb8125c86eb",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "英文labors保留劳苦，不限定为审讯；noble renown保留美名，不套用冠冕。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 6,
+      "unit_id": "cGP3",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=006",
+      "source_sha256": "28249a92f05ce8847bd630d209817dedbd72e0bf4b4f417b9a4e11fc01b112f3",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "妇女也因嫉妒遭受逼迫，甚至成为达那俄斯的女儿们和狄耳刻。她们忍受可怕而亵渎的凌辱之后，仍走稳了信心的道路；肉身软弱的她们，得了高尚的赏赐。",
+          "after": "妇女也因嫉妒遭受逼迫，如那些被当作达那俄斯的女儿们和狄耳刻的妇女。她们忍受可怕而亵渎的凌辱之后，仍走稳了信心的道路；肉身软弱的她们，得了高尚的赏赐。",
+          "reason": "参考帮助辨明神话角色与遭难妇女的关系；避免成为误示实际变成神话人物，保留英文专名与受迫害语义。"
+        }
+      ],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 7,
+      "unit_id": "cGPA",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=007",
+      "source_sha256": "5195b32d8e3ef57508d87dbd7524a7a6545e05236e957bf450ddbb70d46ff772",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "rule of our holy calling依英文保留圣洁呼召的准则，不改为传统规条。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 8,
+      "unit_id": "cGPH",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=008",
+      "source_sha256": "097cc681b201e3f59858fb33ff162f2d2e175d11b19f4ef1a95f75e4d746502e",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0005",
+          "before": "祂在另一处这样说：“你们要洗濯，得以洁净，从我眼前除掉心中的恶；止住恶行，学习行善，寻求公正，拯救受欺压的人，为孤儿伸冤，为寡妇辨屈。来吧，我们彼此辩论。”祂说：“你们的罪虽如紫红，我必使之白如雪；虽如朱红，我必使之白如羊毛。你们若愿意听从我，就必吃地上的美物；若不愿意，也不听从，必被刀剑吞灭，因为这是主亲口说的。”",
+          "after": "祂在另一处这样说：“你们要洗濯，得以洁净，从我眼前除掉心中的恶；止住恶行，学习行善，寻求公正，拯救受欺压的人，为孤儿伸冤，为寡妇辩屈。来吧，我们彼此辩论。”祂说：“你们的罪虽如紫红，我必使之白如雪；虽如朱红，我必使之白如羊毛。你们若愿意听从我，就必吃地上的美物；若不愿意，也不听从，必被刀剑吞灭，因为这是主亲口说的。”",
+          "reason": "纠正辨屈为辩屈。"
+        }
+      ],
+      "retained_differences": [
+        "保留英文purple/scarlet及末句almighty will的表达，不据参考补起誓。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 9,
+      "unit_id": "cGPS",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=009",
+      "source_sha256": "dfda4beb59f94faf60708274aa342d66562184d549c61b25d12972847acc90e0",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0005",
+          "before": "挪亚被看为忠信，藉着自己的职分，向世界宣告更新；神藉着他，保全了那些一同进入方舟的动物。",
+          "after": "挪亚被看为忠信，藉着自己的服事，向世界宣讲重生；神藉着他，保全了那些同心进入方舟的动物。",
+          "reason": "regeneration在宣讲语境应为重生；with one consent不只是同时进入，补回同心的含义。"
+        }
+      ],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 10,
+      "unit_id": "cGPZ",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=010",
+      "source_sha256": "fbe9b2e314e431672366a17b4327ce9665f3afd3c3468741d0d71229a8e1f972",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "you will be blessed保留你也必蒙福；to the sea保留向海，不替换成参考释义。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 11,
+      "unit_id": "cGR6",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=011",
+      "source_sha256": "a58f26ebf2e68b06c404a761a26c9d327674e81b96bc509d870af0e034513899",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "goodness依英文保留良善，not in concord明确为与罗得不同心，不改成不信。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 12,
+      "unit_id": "cGRD",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=012",
+      "source_sha256": "c3a970c52726c42c845c9ea13291099faedcb73a0e43ca7dc2236cc382f2c13f",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0005",
+          "before": "王差来的人到她那里，说：“有窥探我们这地的人，进了你家。把他们交出来，这是王的命令。”她回答：“你们寻找的那两个人，确实到我这里来过，但很快就走了，已经上路。”她却没有指给他们看。",
+          "after": "王差来的人到她那里，说：“有窥探我们这地的人，进了你家。把他们交出来，这是王的命令。”她回答：“你们寻找的那两个人，确实到我这里来过，但很快就走了，已经上路。”她却没有把那两个人指给他们看。",
+          "reason": "补明原文the men的所指，消除没有指给他们看的宾语含混。"
+        }
+      ],
+      "retained_differences": [
+        "英文did not show the men不作参考的指向相反方向；city仍是城，不扩展为全地。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 13,
+      "unit_id": "cGRM",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=013",
+      "source_sha256": "ea871e9d01e59a570fc92d7447af325873e44deac79b23e1daa0022243377aa5",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 14,
+      "unit_id": "cGRV",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=014",
+      "source_sha256": "c9da1f4a9095b7e0ebabd8b78062b93795b096a00271bd6458b838d52b4f91f4",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 15,
+      "unit_id": "cGS2",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=015",
+      "source_sha256": "6458ea7117bffa9fca0b2c97fcf0f1dfd295d1e971e7f1398dcd51829ec867d9",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "英文第5节未有参考攻击义人的子句，不增补；deal confidently保留英文读法，不仅按参考改为厚恩。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 16,
+      "unit_id": "cGS9",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=016",
+      "source_sha256": "c5be850eea3b5cfdeb2c914d113924fa517a3b0a898a2cc11c855a0f8943b14f",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "英文Like a child we have delivered our message保留我们如同孩童传信息；第11—12节洁净与赎罪祭的英文读法有别于参考，均不按参考或通行圣经改写。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 17,
+      "unit_id": "cGSG",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=017",
+      "source_sha256": "e1faef0265bb33d4483175ef116fe8095bf93b0118aeb9703361db8f9e042bff",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "指定英文为审判His people Israel，中文参考为埃及；保留英文的以色列，不据参考擅改历史叙述。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 18,
+      "unit_id": "cGSR",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=018",
+      "source_sha256": "aa7318099e91ddec65c87b30542bdf501268163fcf9e3e85af3b8e4439f0811d",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "new heart依英文为新心，非参考清洁的心；overcome when You are judged保留受人论断时得胜的读法。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 19,
+      "unit_id": "cGSY",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=019",
+      "source_sha256": "8acebeb62cc98ba77aab62ed643311a34aec505706e7603b23994acc58e5b292",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 20,
+      "unit_id": "cGT5",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=020",
+      "source_sha256": "4daec75306ec7237f425a6f4e798b769343c803c8841ef90f62a0796e93d7b6c",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "secret ordinances of lower parts of earth保留地底隐秘规例，不据参考限定地狱审判；泉源乳怀意象为英文明确所有，保留。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 21,
+      "unit_id": "cGTC",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=021",
+      "source_sha256": "9b1f9bc497d45a5f93d244fb24ec8c8adead55315445fb271ae9760cd115b50f",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "conversation按英文历史用法保留言行，不仅依参考缩为安静；wives仍译妻子。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 22,
+      "unit_id": "cGTK",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=022",
+      "source_sha256": "a64f076a85418f0ce5c2e6d79b892c1d570277019f4d7096b37d06e189583c35",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "参考有义人多有苦难句，指定英文无此句，不补入。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 23,
+      "unit_id": "cGTU",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=023",
+      "source_sha256": "ff115eafab415fb72f01e4d0b64446093c78ce6bbca687e05214415d0b5eac40",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 24,
+      "unit_id": "cGU1",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=024",
+      "source_sha256": "404f247e9d5da8dc21644998ef5492373ebb1d649b4292c6a901c3aca6eb5f6a",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "亲爱的，让我们观看那不断发生的复苏——",
+          "after": "亲爱的，让我们观看那不断发生的复活——",
+          "reason": "延续原文反复使用resurrection的论证关键词，避免复苏弱化与下文昼夜复活的明确对应。"
+        }
+      ],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 25,
+      "unit_id": "cGU8",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=025",
+      "source_sha256": "ca70ea69d9e31fad76b60f775a0401fa1b6dbfff4e0ba289fe195fa57b04afbd",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0005",
+          "before": "它在白昼、众目睽睽之下飞上去，将巢放在太阳神的祭坛上，随后便返回。",
+          "after": "它在白昼、众目睽睽之下飞上去，将骸骨放在太阳神的祭坛上，随后便返回。",
+          "reason": "them回指上段bones；参考帮助核对宾语，改正误作巢。"
+        }
+      ],
+      "retained_differences": [
+        "英文nest无灵柩一词，不增加灵柩比喻；ancestor保留先祖。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 26,
+      "unit_id": "cGUF",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=026",
+      "source_sha256": "164547954e671d2c1f2c571bf03458fa297714e576ce92dfc00485b074bbbada",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "英文piously seized Him虽措辞罕见，按持守祂保留，不按参考替换成服侍。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 27,
+      "unit_id": "cGUP",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=027",
+      "source_sha256": "c3daa601ac76557ba857e90eaced2824016ab3cfd8669529c710c69de915fbfc",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "末句英文为任何语言都听见声音，与参考无声音可听有别，依英文保留。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 28,
+      "unit_id": "cGUX",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=028",
+      "source_sha256": "0a2a4e6cd709f0ca6678bfd5eaa593ed07b3554ab24a0b3eaf5fc2646c47a9b1",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 29,
+      "unit_id": "cGV4",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=029",
+      "source_sha256": "257988473f4f955b1c2b9d9229be518239ab465123738019e1440dceb229d2e2",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "messengers of God按英文为神使者，不据参考改神明。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 30,
+      "unit_id": "cGVB",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=030",
+      "source_sha256": "eae204a69634c91d9b4ffd9034fcb6e286f7e98671b65070124609c2a9f16ddf",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "英文第5节为反问是否自以为有福，保留反问，不依参考改成祝福陈述。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 31,
+      "unit_id": "cGVJ",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=031",
+      "source_sha256": "dd53297d7f3c122078684536a2c592f545e6d63326ffc2b223181fd94297d610",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0005",
+          "before": "雅各心存谦卑，为躲避兄长，离开本地，前往拉班那里，像奴仆一样服事；以色列的十二支派就赐给了他。",
+          "after": "雅各心存谦卑，为躲避兄长，离开本地，前往拉班那里，作奴仆服事；以色列的十二支派就赐给了他。",
+          "reason": "served as a slave叙述实际服事身份，不宜以像字变成仅仅比喻。"
+        }
+      ],
+      "retained_differences": [
+        "worked righteousness保留行公义，不按参考改成得了义。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 32,
+      "unit_id": "cGVT",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=032",
+      "source_sha256": "f9953809734f660b4baf6e27810b5c3e75f7e378ce53b3bca9e62af2f1a55c2e",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 33,
+      "unit_id": "cGW0",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=033",
+      "source_sha256": "d486e1a55c5bcf91266e1f969a0f0f819344f7b5b7a1baceda9c5b1745fa01d8",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "infinite in faculty明确修饰人，保留才能无穷，不据参考改成神计划中的工作；按指定英文记录而不作教义调整。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 34,
+      "unit_id": "cGW7",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=034",
+      "source_sha256": "c87e4db8db4cc3c9a3390e71eeb10669fede005992d81788578b66a236403dc4",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "侍立万万、事奉千千依英文顺序；all creation不缩成全地。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 35,
+      "unit_id": "cGWE",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=035",
+      "source_sha256": "3e55ebea0836c6a1d55a2223829408c146398ebdb2bab29f0aa288f7c3daabd5",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0006",
+          "before": "亲爱的，这该怎样成就呢？我们心中当因信靠神而坚定，寻求在祂眼中可喜悦、可蒙悦纳的事；行与祂无瑕旨意相合的事，走真理的道路；弃绝一切不义、不法、贪婪、纷争、恶毒、诡诈、闲言、毁谤、对神的恨恶、骄傲、傲慢、虚荣和顽梗。",
+          "after": "亲爱的，这该怎样成就呢？我们若因信靠神而心志坚定，若寻求在祂眼中可喜悦、可蒙悦纳的事，若行与祂无瑕旨意相合的事，走真理的道路，弃绝一切不义、不法、贪婪、纷争、恶毒、诡诈、闲言、毁谤、对神的恨恶、骄傲、傲慢、虚荣和顽梗，就能如此。",
+          "reason": "恢复英文连续三个if的条件关系；原译改作当的劝令，弱化了回答怎样分享恩赐的逻辑。"
+        }
+      ],
+      "retained_differences": [
+        "cheerfulness/liberty与参考荣耀/赫然有别，依英文保留喜乐/自由；intractableness保留顽梗而非冷漠。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 36,
+      "unit_id": "cGWN",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=036",
+      "source_sha256": "8f68ff0a44b60646b2b0213d49d2c9ee3242de7eb3b552b3ee0c8153a4154c2f",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "spirits依英文为灵，不按参考改风；保留英文God the Father的明确称谓。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 37,
+      "unit_id": "cGWW",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=037",
+      "source_sha256": "dfa7315577af878361d106f2e29c2c93366857c8e5f663708777cb42d65b800d",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 38,
+      "unit_id": "cGX3",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=038",
+      "source_sha256": "9651ad0065ffdf1f59e104cb1a2c226d370da6b5a8c7326124421d5b6c44af81",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0004",
+          "before": "弟兄们，让我们思想自己是用什么造成的，是什么样的人，是谁，竟仿佛从坟墓和黑暗中来到世上。创造、塑造我们的那一位，将我们带到这世界；在我们出生以前，祂已预备了恩惠。",
+          "after": "弟兄们，让我们思想：我们由什么造成，来到世上时是怎样的人、处于怎样的境况，仿佛才从坟墓与黑暗中出来。创造、塑造我们的那一位，将我们带到这世界；在我们出生以前，祂已预备了恩惠。",
+          "reason": "理顺of what sort and who we are的并列问句，消除是什么样的人是谁的生硬重叠，保留英文as it were的比喻限定。"
+        }
+      ],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 39,
+      "unit_id": "cGXA",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=039",
+      "source_sha256": "78920d2f0fc84d7479dad4dd8fa409271cd5fd143b8c7e409139137579d380c0",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "英文Away是呼语命令，依英文保留退去，不按参考改作何况；其余约伯引文保持指定读法。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 40,
+      "unit_id": "cGXH",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=040",
+      "source_sha256": "dc1ed68748b761561e65139df6d56a5ab287f6a8fa7f9d76a87535cb1136962e",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "when/by whom依英文为何时/由谁，不据参考改何处；do not completely sin保持原句程度，不泛化为完全无罪。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 41,
+      "unit_id": "cGXS",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=041",
+      "source_sha256": "b68e60dbfbf64573c762f8d3a3ac4374e72e0e4297abab374831c936816cc099",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "in answer to prayer依英文保留祷告蒙应允语境，不替换为甘心祭名称。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 42,
+      "unit_id": "cGXZ",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=042",
+      "source_sha256": "e803b4381d2f3cf0123e607dde1db9ba2eaa6fa0ea84d4a340aa4527cbcca666",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "received the promises依英文为领受应许，而非参考领受命令；基督received it from God仍保留领受福音的读法。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 43,
+      "unit_id": "cGY6",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=043",
+      "source_sha256": "5a53ba7a5d76d527a570c26011704256269f9a4a26d391ff2e4c81633ab9c503",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "keys and rods依英文为钥匙和众杖，不改为钥匙和门。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 44,
+      "unit_id": "cGYD",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=044",
+      "source_sha256": "b863e14b169fc143a3782005d6a847b9104df30307cf8528dca31b800a3f4095",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0004",
+          "before": "那些由使徒如此设立，或后来由其他受尊重的人、经全教会同意而设立的人，若以谦卑、安静、不吝啬的心，无可指责地服事基督的羊群，长久以来又得着众人的好名声，我们认为，将这样的人撤去职事，是不公义的。",
+          "after": "那些由使徒如此设立，或后来由其他受尊重的人、经全教会同意而设立的人，曾以谦卑、安静、不吝啬的心，无可指责地服事基督的羊群，长久以来又得着众人的好名声。我们认为，这些人被撤去职事，是不公义的。",
+          "reason": "原文who have...have been unjustly deposed是对已发生事件的断言；删掉原译若所增加的假设条件，恢复事实施行与评价。"
+        }
+      ],
+      "retained_differences": [
+        "rule of succession依英文保留承继规例，不改为职分永久特性。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 45,
+      "unit_id": "cGYM",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=045",
+      "source_sha256": "4f0c0421dfa9f081c16c547882d602ae484afb831fb4571878c556478e29d60e",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "首句英文明确含do not pertain to salvation，保留责备热衷与救恩无关之事，不改为参考劝勉为救恩大发热心；后文look diligently依英文保留命令语气。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 46,
+      "unit_id": "cGYV",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=046",
+      "source_sha256": "c6c2583ab78d67aa08dfe17648830ddf01fb1ddea00ebea9bd04d87780c23e85",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "guiltless/excellent依英文作无罪/美善，不据参考改单纯/蒙拣选；小子与选民在英文分用，保留区别。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 47,
+      "unit_id": "cGZ2",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=047",
+      "source_sha256": "9d23d238e3a85552dfcf0b3222aee983583daf9e0e56128a7f45181ef1c673e0",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 48,
+      "unit_id": "cGZ9",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=048",
+      "source_sha256": "99bf0dbec928c2102d482060d4323e9ec4a30421378c571680121f7348e45c23",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "原文p0006无参考另列的行动有力，保留英文四项条件，不增补。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 49,
+      "unit_id": "cGZG",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=049",
+      "source_sha256": "ecf6f833086b30581420cfe0183b63c10931edcd35ad70df36df0d0baa6b9798",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "soul按英文保留灵魂，未机械改为生命；illiberal按本段保留吝啬。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 50,
+      "unit_id": "cGZR",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=050",
+      "source_sha256": "0a886d69053b739a8711791e26923a5354b53b29202c816bbb7a0c069c535142",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 51,
+      "unit_id": "cGZY",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=051",
+      "source_sha256": "07a1cbf059f1bca4b31732c4bd0e758af7e8bd9e99f76b2682aad64d45fff063",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "因为在敬畏和爱中生活的人，宁愿自己受苦，也不愿身边的人受苦；宁愿自己受定罪，也不愿那以尊荣和公义传给我们的和睦遭到毁坏。",
+          "after": "因为在敬畏和爱中生活的人，宁愿自己受苦，也不愿身边的人受苦；宁愿自己被定罪，也不愿那以尊荣和公义传给我们的和睦受到谴责。",
+          "reason": "原文should do so承接undergo condemnation，保留拟人的受到谴责，避免以毁坏替代原动作。"
+        }
+      ],
+      "retained_differences": [
+        "英文死亡吞灭与参考死亡作牧者不同，依英文保留。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 52,
+      "unit_id": "cH05",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=052",
+      "source_sha256": "07f026186fbf04ba0a58e0a7f6d70b6a3d5f98787b56f4a7c718e0fcf98a5a3b",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "confess既可承认认罪亦可称谢；本章紧接大卫赞美祭语境，保留称谢，不单凭参考作认罪。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 53,
+      "unit_id": "cH0C",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=053",
+      "source_sha256": "d42a6474b7bc06e7d487ada744d58798b9003072170e4099b4fb33d7eb63bb1f",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "call these things to remembrance依英文作命令提醒，不改成我们写下以提醒。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 54,
+      "unit_id": "cH0K",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=054",
+      "source_sha256": "2eca3027116b8f0b222f04a83fe1def06d43e23c1ce61c38ef31011bad32c1af",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "就让他说这样的话：“若因我生出叛乱和纷争，我愿离开，往你们愿意我去的地方去，也愿照众人的吩咐去行，只求基督的羊群，与所设立的长老一同和睦。”",
+          "after": "就让他说这样的话：“若因我生出叛乱和纷争，我愿离开，往你们愿意我去的地方去，也愿照多数人的吩咐去行，只求基督的羊群，与所设立的长老一同和睦。”",
+          "reason": "majority是多数人，不是未经限定的众人；保留原文群体决策的数量限定。"
+        }
+      ],
+      "retained_differences": [
+        "末句指定英文有异常converted措辞，现有无须后悔按上下文理解，保留原注；参考无对应附句，不据此删去。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 55,
+      "unit_id": "cH0U",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=055",
+      "source_sha256": "489190644789520861d3d3f00ae109b47ab139bccfa444ad36f88ffdd1a5f439",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 56,
+      "unit_id": "cH11",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=056",
+      "source_sha256": "a7e5191a9e88a23674caa830ad91742bde8207e41f85c6c624b79c9c7345ba89",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "弟兄们，让我们接受那不必使任何人反感的管教。彼此之间的劝戒，极其美好、有益，因为它使我们与神的旨意相合。",
+          "after": "弟兄们，让我们接受管教，不必因此心生反感。彼此之间的劝戒，极其美好、有益，因为它使我们与神的旨意相合。",
+          "reason": "that discipline at which no one needs to be offended强调受管教者不必反感，原译那不必使任何人反感的管教修饰关系生硬。"
+        },
+        {
+          "block_id": "p0010",
+          "before": "饥荒的时候，祂必救你脱离死亡；争战的时候，祂必救赎你脱离铁器的手。",
+          "after": "饥荒的时候，祂必救你脱离死亡；争战的时候，祂必救赎你脱离铁兵器的威力。",
+          "reason": "hand of iron在战争中指铁兵器的威力，原译铁器的手是生硬逐词翻译；保留铁的材质，不限定为刀剑。"
+        }
+      ],
+      "retained_differences": [
+        "末句英文目的为受圣洁管教的劝戒，不补参考得着怜悯。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 57,
+      "unit_id": "cH18",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=057",
+      "source_sha256": "752e7c458abd1c8600ca448e4c6845bc11114d6d74a61b3f3c42806fd108d4a9",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "language of My Spirit按英文保留我灵的话语，不改成浇灌灵；innocent依英文为无辜者，不改幼孩。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 58,
+      "unit_id": "cH1F",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=058",
+      "source_sha256": "01c0f0fc1231c56ebf60798ebb95e20690b4308c1be51eb449feb8a3ed0c6b5d",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "earnest obedience/not complaining依英文恳切顺服/毫无怨言，不据参考改为长久温柔/不反悔。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 59,
+      "unit_id": "cH1P",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=059",
+      "source_sha256": "98c4b01b529ff0bc33937ac715305ff62ae5cb6d50fa114b49825bae44e202b2",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "英文明确beloved Son/Your Son，保留爱子/儿子，不按参考改仆人；英文含选民不受损害、拆散列国计谋、使谦卑人升高等信息均保留，不因参考有出入删除。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 60,
+      "unit_id": "cH1X",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=060",
+      "source_sha256": "60c79f0c0ee339a88a962c175e843162a071a188b8c62f503b40d09774139775",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "things that happen依英文为所发生的事；末句英文无参考好使我们可以得救，不增补。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 61,
+      "unit_id": "cH24",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=061",
+      "source_sha256": "b7ab01a223c3267d95c95f154a8f7f8638c5f101223afc2a744ad871fe6b8da3",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "heavenly Lord依英文作天上的主，不据参考改天地的主人；over things on earth保留地上万物。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 62,
+      "unit_id": "cH2B",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=062",
+      "source_sha256": "dee987a33bbbcb515402248f95c89471304ca2177d751c8ab4a353ab936c8643",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [],
+      "validation": "complete"
+    },
+    {
+      "chapter": 63,
+      "unit_id": "cH2J",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=063",
+      "source_sha256": "51fb5bf01a1ef6ce3a1c6b4e4c368512ba9613ce2abe6d529e87f8afd5704ac1",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "英文未明指灵魂的领袖，不从参考补入；by suggestion of Holy Spirit在英文修饰止息纷争，保留这个逻辑关系。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 64,
+      "unit_id": "cH2T",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=064",
+      "source_sha256": "20d9d9b7d5b545558923356d7641095bc6fbfcdc64b3e844d89fffacdf768c76",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0002",
+          "before": "最后，愿我的神，那鉴察万有、作众灵之主和凡有血气之人之主的神，祂拣选了我们的主耶稣基督，又藉着祂拣选我们，作属祂的子民；愿祂藉着我们的大祭司和保护者耶稣基督，将信心、敬畏、和平、忍耐、宽容、自制、纯洁、谨慎，赐给每一个称为祂荣耀、圣洁之名下的人，使他们蒙祂的名所喜悦。愿荣耀、伟大、能力和尊贵，藉着祂归给神，从如今直到永永远远。阿们。",
+          "after": "最后，愿我的神，那鉴察万有、作众灵之主和凡有血气之人之主的神，祂拣选了我们的主耶稣基督，又藉着祂拣选我们，作属祂的子民；愿祂藉着我们的大祭司和保护者耶稣基督，将信心、敬畏、和平、忍耐、宽容、自制、纯洁、谨慎，赐给每一个归在祂荣耀、圣洁之名下的人，使他们蒙祂的名所喜悦。愿荣耀、伟大、能力和尊贵，藉着祂归给神，从如今直到永永远远。阿们。",
+          "reason": "called after His Name为归在其名下，修正称为祂荣耀圣洁之名下的语法不通；不改成参考主动求告。"
+        }
+      ],
+      "retained_differences": [
+        "my God保留我的神；called after His Name为以其名得称，不改求告其名。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 65,
+      "unit_id": "cH30",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=065",
+      "source_sha256": "aa7134f692bab6c53279f2fc5a08f76475cb6d0f5b5fa0b06915d8365cf54d5e",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "保留本项目已有专名音译，不机械套中文参考译名；英文无罗马人致哥林多人书尾题，不增加。"
+      ],
+      "validation": "complete"
+    }
+  ],
+  "completed_chapters": 65,
+  "changed_blocks": 16,
+  "validation": {
+    "units": 66,
+    "chapter_units": 65,
+    "all_complete": true,
+    "source_fingerprints_checked": true,
+    "block_ids_counts_order_checked": true,
+    "xhtml_assets_checked": true,
+    "images_svg_tables_found": false
+  },
+  "reference_quotations": "修订记录未转载参考译文正文；仅记语义差异、原有译文与独立修订。"
+}

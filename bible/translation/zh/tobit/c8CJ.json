@@ -98,7 +98,12 @@
     }
   ],
   "references": [
-    "参考同TXT 21765—21775行，多比传十二章；保留英文8节并列禁食、仁慈、公义及15节呈献祷告；20节按英文吩咐人写，不按参考本解释为天使上去记录。"
+    "参考同TXT 21765—21775行，多比传十二章；保留英文8节并列禁食、仁慈、公义及15节呈献祷告；20节按英文吩咐人写，不按参考本解释为天使上去记录。",
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=12",
+      "location": "多比传 第12章",
+      "use": "FHL中文辅助核对，实际匹配范围和版本差异见 reference-review/fhl-dydi-d.json；英文仍为底本。"
+    }
   ],
   "notes": []
 }

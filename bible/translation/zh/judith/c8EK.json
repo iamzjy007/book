@@ -94,7 +94,12 @@
     }
   ],
   "references": [
-    "基督教典外文献（共10册）_手机版.txt，22028—22034行，第六章逐节对照；英文第6节兵器和第12节投石动作按底本译，未加入参考本细节。"
+    "基督教典外文献（共10册）_手机版.txt，22028—22034行，第六章逐节对照；英文第6节兵器和第12节投石动作按底本译，未加入参考本细节。",
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=6",
+      "location": "犹滴传 第6章",
+      "use": "FHL中文辅助核对，实际匹配范围和版本差异见 reference-review/fhl-dydi-d.json；英文仍为底本。"
+    }
   ],
   "notes": []
 }

@@ -86,7 +86,12 @@
     }
   ],
   "references": [
-    "基督教典外文献（共10册）_手机版.txt，行25747—25847，八1—19；逐节核对。8:11、19英文与参考本不同，保留本版意思，未按参考本替换。"
+    "基督教典外文献（共10册）_手机版.txt，行25747—25847，八1—19；逐节核对。8:11、19英文与参考本不同，保留本版意思，未按参考本替换。",
+    {
+      "source": "信望爱次经阅读：c1933/chdc两列",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=8",
+      "usage": "逐章对读语义与句式；以指定英文为准独立修订，保留底本差异。"
+    }
   ],
   "notes": [
     "第八章19节末句英文为“Do not let him return you a favor”，意思与所供中文参考本不同；按“不让他报还恩情”保留，未擅改为其他版本。"

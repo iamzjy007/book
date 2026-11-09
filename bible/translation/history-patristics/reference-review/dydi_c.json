@@ -1,0 +1,778 @@
+{
+  "worker": "dydi_c",
+  "date": "2026-11-09",
+  "method": "逐章阅读指定英文 source_unit、现有译文与 FHL 黄锡木主编参考译文；以英文为底本独立修改，不抄录参考正文。保留原指纹与块次序。",
+  "chapters": [
+    {
+      "book_id": "2-clement",
+      "chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=001",
+      "bytes": 14446,
+      "unit_id": "cH3G",
+      "source_sha256": "b969907fb4cca302d3fe34d74c168c696d27e6389b089923dd185ef3ac1f69c0",
+      "reference_sha256": "eacb0645be4c3148cf4d47351f6e6a6fc7d78bcbfccb40c3dd3edd7b3adae210",
+      "reviewed": true,
+      "observations": [
+        "参考在金属、赐予的内容及救恩前处境上有异读；英文为 iron、帮助成圣、wandering/destruction，仍保留铁、成圣、迷失毁灭，不改为参考的铜或其他解释。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0007",
+          "before": "我们的整个生命，无非是死亡",
+          "after": "我们从前的一生，无非是死亡",
+          "reason": "whole life 指以往生活全貌，避免“生命是死亡”的抽象生硬。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 2,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=002",
+      "bytes": 14092,
+      "unit_id": "cH3S",
+      "source_sha256": "f21fdfbaadf5d2afb0e119c4ebb4fdb74a731de371c0e4d8186b5421d8722018",
+      "reference_sha256": "e74976c1384a14b2e477ac207b28e1d98f40f548d1654fe498d5ce5924b62dba",
+      "reviewed": true,
+      "observations": [
+        "不生养、产难与教会人数的比喻均已完整；必要性句原译转成了主宾强调，依英文恢复。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0006",
+          "before": "祂的意思是：需要拯救的，是那些正在灭亡的人。",
+          "after": "祂的意思是：必须拯救那些正在灭亡的人。",
+          "reason": "it is necessary to save 表达必须施行拯救，不只是指出谁需要拯救。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 3,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=003",
+      "bytes": 13597,
+      "unit_id": "cH40",
+      "source_sha256": "15343d3573199d2852532102e5307b27c7d8ee6f8003c86fab839e1f9419acf7",
+      "reference_sha256": "302802350ee0239a5996bc5a4aced59060462af84607c35f069f3c62fe8b9c48",
+      "reviewed": true,
+      "observations": [
+        "不否认基督就是认识父的关系现译清楚，保留；神的称谓按 Father of truth 修准。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0002",
+          "before": "认识真实的父",
+          "after": "认识真理的父",
+          "reason": "of truth 是真理属性称谓，与末章同称相呼应；真实的父容易理解成真假父亲。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 4,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=004",
+      "bytes": 13563,
+      "unit_id": "cH48",
+      "source_sha256": "0faa5d3a85fd78e3ae04ec4a147248c0ddd18a2deb64b9437b99b13a4ff0ff7f",
+      "reference_sha256": "7f6354c9e7f5450f84fcd525244b8272468086b29cb196c152bd921d6a3e94a4",
+      "reviewed": true,
+      "observations": [
+        "本章末句英文 if we do these things 与引语不行命令的警戒衔接有疑错；现译已作否定恢复，既有修正说明保留。参考未作同样恢复，不据参考反向覆盖。行为承认、相反行为与神人惧怕关系均核对。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 5,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=005",
+      "bytes": 13924,
+      "unit_id": "cH4G",
+      "source_sha256": "f4d7ef6dc2848a38cc351ba72aeea33c86df6a1f9c9826d69a2cb5053ba29027",
+      "reference_sha256": "e2a2d8726ad6c7e5b8014fa01fae66f1a3e9a7d1a0e0b43beb703622351d9e2c",
+      "reviewed": true,
+      "observations": [
+        "参考羔羊与狼的句式和今生描述有不同读法；按英文保留死后不惧怕狼、short and little while，不添参考的不能再做什么或无意义。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0007",
+          "before": "把今世之物看作与自己无关",
+          "after": "把今世之物看作不属于自己的",
+          "reason": "alien to us 指陌生、不属于自身，非对世事完全无关；保持不贪求的关系。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 6,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=006",
+      "bytes": 14345,
+      "unit_id": "cH4S",
+      "source_sha256": "5aa025c4e4bf63e70e2054931801127262b37248dfa2cc372d1f29837d62b238",
+      "reference_sha256": "f26a90968c8813ae83365ae033c02fc81d71dba4073ce3b1cbddf28841de5c7b",
+      "reviewed": true,
+      "observations": [
+        "英文两种 life 彼此为敌，参考一处解释为将来的一位；不采用。保留以西结引语的 captivity 与基督旨意条件。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0006",
+          "before": "必须弃绝一个，取用另一个。",
+          "after": "必须弃绝今生，选择来生。",
+          "reason": "上下文已明确 one/other 分别所指；“取用”不适用于人生归属，改自然中文而不添教义。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 7,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=007",
+      "bytes": 13819,
+      "unit_id": "cH50",
+      "source_sha256": "6c84a82be3b272d0dda64a0b4dc5b54479bb7422200ca1ae2885d981066ad23c",
+      "reference_sha256": "f29a123837c988f1bb9cd1608c294e2092b4a3b72b936a8cd6b7c7d070e0598d",
+      "reviewed": true,
+      "observations": [
+        "竞赛、冠冕、鞭打、逐出与印记均核全；参考帮助辨明 unfairly 在竞赛中的违规义，不把实际鞭打弱化成管教。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0004",
+          "before": "沿正直的跑道奔跑",
+          "after": "沿笔直的跑道奔跑",
+          "reason": "straight course 指跑道/方向，不以人品形容跑道。"
+        },
+        {
+          "block_id": "p0005",
+          "before": "若被发现行事不公",
+          "after": "若被发现违规",
+          "reason": "竞赛情境中的 unfairly 是不按规则竞赛。"
+        },
+        {
+          "block_id": "p0006",
+          "before": "竞赛中行事不公的人",
+          "after": "竞赛中违规的人",
+          "reason": "与前节同一竞赛违例关系，保持问句。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 8,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=008",
+      "bytes": 13897,
+      "unit_id": "cH58",
+      "source_sha256": "bbeb0924b3070201a2314ddb3fcc301cedd7ee8127cfab3d9f1fbe57d990b8f7",
+      "reference_sha256": "8430b75418440a61a8eda95f0a30410e133da21d312a98bac63c6ad2e313a1c9",
+      "reviewed": true,
+      "observations": [
+        "陶匠、火窑及死后认罪的时限均与英文一致；convert 在本章是为已犯罪行悔改，虽原译回转可懂，不作全卷机械替换。保留英文末句设问与 continuous life。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 9,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=009",
+      "bytes": 14372,
+      "unit_id": "cH5G",
+      "source_sha256": "72315744017f38177944a4c5e20349a312676e4258ba30110a3afb1216944c88",
+      "reference_sha256": "e7ad096331131dcb4f7515c3439b9308d66b7c08ebc1e998e55aef4dc8c3163f",
+      "reviewed": true,
+      "observations": [
+        "参考把第5节作条件式，英文却是 There is one Christ 的陈述，现译据英文保留。肉身蒙召、受审、复活、领赏的重复均保留。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 10,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=010",
+      "bytes": 13697,
+      "unit_id": "cH5S",
+      "source_sha256": "6f380bc2259a66012f0e4ae39d6f991e97165ccecbb620a5506f0d054e3542dc",
+      "reference_sha256": "dd65cfd2e040184d84f18357ddca35e755a3e7cbb927d7d34673b3dc1511755d",
+      "reviewed": true,
+      "observations": [
+        "参考将不能得平安的原因与后文相连，有助于识别现译因果误接；只理顺英文段间指向，不删除或合并块。双重定罪仍依英文保留。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "因这缘故，人就不可能寻得平安。",
+          "after": "人不能寻得平安，原因就在这里：",
+          "reason": "原译“因这缘故”回指前段热心行善，使因果自相矛盾；改为向后引出选择眼前享乐的原因。"
+        },
+        {
+          "field": "notes[0]",
+          "before": "10:2“因这缘故，人就不可能寻得平安”与前一节的行善得平安衔接不清；10:3又直接改用“他们”。原文可能存在省略，未据猜测补入人物或改动否定。",
+          "after": "10:2按下一句 For 所引的原因，译作“人不能寻得平安，原因就在这里”，避免误将前节热心行善读成失去平安的原因。10:3直接使用“他们”，指代仍未明示；未据参考译文补入特定人物，也未改动原文否定。",
+          "reason": "正文因果指向已理顺，原注引旧文并称衔接不清已过时；保留未明确的他们指代。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 11,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=011",
+      "bytes": 14076,
+      "unit_id": "cH60",
+      "source_sha256": "e4fa228f50ca16af24969e5f58f351a44317627635e764d04b9a533511796c69",
+      "reference_sha256": "69752e7403ff2adda0915ef3148db44da1decb18ccab6e832c9006fff827ce0e",
+      "reviewed": true,
+      "observations": [
+        "英文明确 in time past，保留百姓从前的动乱，不按参考改将来时。所引应许的耳与眼顺序保留。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0002",
+          "before": "就必成为义；",
+          "after": "就必成为义人；",
+          "reason": "we will be righteous 的主语是人，原译“成为义”不成自然中文。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 12,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=012",
+      "bytes": 13726,
+      "unit_id": "cH68",
+      "source_sha256": "12ed8b9004d0a71f9216bd194c1034eb7710fc3268adc86f18a5237fa5e69025",
+      "reference_sha256": "1eff202ef017be3149b1c038bb5f4adaa8d2a7206d400871a4e929c026d7afb6",
+      "reviewed": true,
+      "observations": [
+        "两人成一、身体与灵魂、男女的原文解释全保留；参考与英文在概念上相合，不额外加入婚姻、性欲或后期神学说明。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 13,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=013",
+      "bytes": 14121,
+      "unit_id": "cH6G",
+      "source_sha256": "af184ed40ba41a50220be4fd5a5ffb216b5a3bb9d15e9f136090397eb8b2477e",
+      "reference_sha256": "270467154f6c955d0f3e8648009ba7e07091bd10852c8619007e18f784474a0c",
+      "reviewed": true,
+      "observations": [
+        "参考有针对亵渎者的祸哉读法，英文是两个为何的问句；保持英文问句及彼此/外人区别。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0004",
+          "before": "说这一切不过是寓言和欺骗。",
+          "after": "说这一切不过是虚构和欺骗。",
+          "reason": "fable 在外邦人否定基督徒宣讲的语境指虚构之说，不特指具有教训寓意的文学体裁。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 14,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=014",
+      "bytes": 14627,
+      "unit_id": "cH6S",
+      "source_sha256": "1435eddb13828b7cd9173aa2546ca7308cd1984e20344420e12fcda92ec857b4",
+      "reference_sha256": "87f762610657628e7bc90f42e29086a319011a1275ffaf8443db6d5e4deb4a40",
+      "reviewed": true,
+      "observations": [
+        "属灵教会在日月前成立、肉身与灵的原本/摹本论证，逐句核对保留。参考多次用圣灵，英文灵/圣灵有区别，现译不统一改成圣灵。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 15,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=015",
+      "bytes": 13665,
+      "unit_id": "cH70",
+      "source_sha256": "79bb4f036abaadb0e4a4bd4d140b8408b487cbb1cdefe36e8c44eafedd9022f6",
+      "reference_sha256": "e2db326fc4f69fcf7498f11da8feb98fc3dea3dd4201889610daddd2422b8bf2",
+      "reviewed": true,
+      "observations": [
+        "英文 no small service 与参考赏赐义不同；ourselves 与参考对方不同；两处均保留英文服务及自身关系，不改为赏报或嫉妒别人。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 16,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=016",
+      "bytes": 13686,
+      "unit_id": "cH78",
+      "source_sha256": "9df99e32cb363030e3041a0f6572a7b11d7f5165351fad731c285944e0bf8b1c",
+      "reference_sha256": "fb4d26a881f12903ad1058d5d717021d05907a0fcd6abfc7488e66ae58ed9494",
+      "reviewed": true,
+      "observations": [
+        "英文 kindness 不限定施舍，参考偏向赒济；保留仁慈，不缩窄善行范围。certain of heavens 与参考诸天部分有差异，保留有些天界。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 17,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=017",
+      "bytes": 14899,
+      "unit_id": "cH7G",
+      "source_sha256": "3686e2e34918775f9e809e7602f4d8eba0a13361b1aaebd81024330c1f9e208f",
+      "reference_sha256": "abae7c7fa5d35bdb9164ed0b8f7d9438b749a44039723afe4be9f7935f04367e",
+      "reviewed": true,
+      "observations": [
+        "英文 by the way、repay each、set at nothing 与参考解释有差别，保留途中、按行为报答、藐视命令。强化句法清楚度而不改变更不应灭亡的比较。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "也当彼此劝人回转，互相责备。",
+          "after": "也当彼此劝勉回转，互相责备。",
+          "reason": "彼此与劝人重复错搭，改为自然相互劝勉。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 18,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=018",
+      "bytes": 12805,
+      "unit_id": "cH7S",
+      "source_sha256": "2e17338fcdebeeac1ad81854ff2df9002a4505f00a73ae2e545287ea582de53a",
+      "reference_sha256": "5a3b98066c34df8da16aea876680315bd997ca287841ffe0193fce16b4306cf7",
+      "reviewed": true,
+      "observations": [
+        "罪人自述、仍受试探、网罗与追求公义均核对；参考工具不覆盖英文 snares 的网罗。无须为显示修改而重写。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 19,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=019",
+      "bytes": 13948,
+      "unit_id": "cH80",
+      "source_sha256": "f9150a2cdeff4781093988284674dec1a80d3dcc7c4a1f62b17a7efc6a353979",
+      "reference_sha256": "00597be35fd1a9936a638d9a65c41c3157a59f5bbb3f6036a79305efc79f4d03",
+      "reviewed": true,
+      "observations": [
+        "英文先读神言再读劝勉的顺序与参考不同，保留；英文的不学者也不同于参考一概归为我们愚昧。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "我们中间不明白的人",
+          "after": "我们中间没有学问的人",
+          "reason": "unlearned 指缺少学识/学习，不是笼统没听明白。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "2-clement",
+      "chapter": 20,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%BA%8C%E4%B9%A6&chap=020",
+      "bytes": 13607,
+      "unit_id": "cH88",
+      "source_sha256": "4269b7b7b8e71c18da9a70949b52224feff304795eefe348267c3e85147015d4",
+      "reference_sha256": "79de2199b48c9b0b14311bf3c9a3f2cf559d5b8c224210dc4499f1ec8ce4332a",
+      "reviewed": true,
+      "observations": [
+        "英文 making trial of the living God 与参考上帝竞赛说不同，现译及既有疑点说明保留，不据中文参考擅自改原文。独一不可见神、真理的父及代词的关系均核全。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=001",
+      "bytes": 12698,
+      "unit_id": "cJAH",
+      "source_sha256": "5d279049a2f6a24e469d5f95fad1b8c3633f885123d948f4b0b2389348bc0754",
+      "reference_sha256": "66adff6f84f6c3fa83ff29f0794d4517a0d8fef9a1e8dbf4f06fed42ece9ae5c",
+      "reviewed": true,
+      "observations": [
+        "英文 new development or interest 与参考新族类/生活方式有差别，不更换成后者；语气仍是写信询答，不改为讲道。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0002",
+          "before": "这新兴的事物或关切",
+          "after": "这新出现的事物或追求",
+          "reason": "interest 在信仰进入生活的语境表示所关注追求的事，“关切”过于抽象且不自然。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 2,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=002",
+      "bytes": 15458,
+      "unit_id": "cJAT",
+      "source_sha256": "a486bf54e3c37da6377960b0eafa6e39aa4b3cf1cfa666c365e864351af1ecf7",
+      "reference_sha256": "a361c272c8eb1c4ef48f825a6788df21990fc501919b8d321a99900f56ee7445",
+      "reviewed": true,
+      "observations": [
+        "逐项核对石、铜、木、银、铁、陶及工匠转换，保留英文与参考在细节上的区别。末句 convict his sensibility 的现译否定恢复符合整段论证，既有疑错说明保留。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0010",
+          "before": "接受这样的对待，任凭这些事加在自己身上吧。",
+          "after": "接受这样的对待，任凭这些事落在自己身上吧。",
+          "reason": "加在身上为硬译，落在身上更自然，未增减遭遇。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 3,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=003",
+      "bytes": 13176,
+      "unit_id": "cJB1",
+      "source_sha256": "e41843a29951dfd976b2f65afa86cfb89daa4c8e75c691751e65edc7c2da2d1a",
+      "reference_sha256": "b58a7ab92a912dbdb38ff35a1b727145953bf58948cb62ee22c4df9fed478ac2",
+      "reviewed": true,
+      "observations": [
+        "一无所缺的创造者与无知觉偶像的对照现译完整，保留前后两类人的次序与具体称谓，不照参考改写；修正 deaf 多译的不能发声属性。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0006",
+          "before": "同样尊奉聋哑偶像的人",
+          "after": "同样尊奉听不见的偶像的人",
+          "reason": "英文仅 deaf，未说哑；依据英文消除无根据的额外属性。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 4,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=004",
+      "bytes": 13399,
+      "unit_id": "cJB9",
+      "source_sha256": "9ca48b695ce7059467bd0a163e9f0bba411770ae82623c7b4afc5d519a69630e",
+      "reference_sha256": "284f7427e28332825a11eca09da241a6cd85647070eb96a1e92b3794884c4d0e",
+      "reviewed": true,
+      "observations": [
+        "英文末段把 common silliness and error 连到 Jews；参考连接两派，仍按英文。meats 未明指祭肉，不添加祭字。原底本 [not]、[divine] 方括号全部保留。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 5,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=005",
+      "bytes": 14894,
+      "unit_id": "cJBH",
+      "source_sha256": "bc00e105350882b7a408f00e6ea277b3d97c6267a0cd4ad50a280585061881e1",
+      "reference_sha256": "677393d4e94892f7de3d8fefc4006d99df25fc9d1e78f9d67ba8484fb0f1a8d0",
+      "reviewed": true,
+      "observations": [
+        "国民与寄居者、贫与富、死亡与生命等全部对偶已核全。参考有天国公民的补充，英文第4节未明言天国，不提前补入。对 ignored/vindicated 恢复普通语义，避免误作理解或救恩称义。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0013",
+          "before": "他们不被理解，却被定罪",
+          "after": "他们不受理会，却被定罪",
+          "reason": "ignored 是被忽视，不是不被理解；不直接采用参考的默默无闻。"
+        },
+        {
+          "block_id": "p0015",
+          "before": "他们遭恶言，却被显明为义。",
+          "after": "他们受毁谤，清白却得以显明。",
+          "reason": "vindicated 与 evil spoken of 对应，指洗清毁谤，不是神学称义。"
+        },
+        {
+          "block_id": "p0017",
+          "before": "仿佛因此被恢复于生命。",
+          "after": "仿佛因此重获生命。",
+          "reason": "原译被恢复于生命不合中文；保留重获生命的比喻与仿佛限定。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 6,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=006",
+      "bytes": 13718,
+      "unit_id": "cJBT",
+      "source_sha256": "5cf95ae5fd9d02f9f1344280aaac93cb0e6fe164c80c4b66a5fa543601ae35df",
+      "reference_sha256": "905e07005f451299eee90b026f204175ae064ff1680882e51309ab1010d585be",
+      "reviewed": true,
+      "observations": [
+        "肉身/灵魂与世界/基督徒的逐项比较完整；神所定职分不可推辞的力度保留。guarded in 在被限制于身体的上下文有约束意味，原译安置不足。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0005",
+          "before": "看不见的灵魂，被安置在看得见的身体中",
+          "after": "看不见的灵魂，被拘守在看得见的身体中",
+          "reason": "guarded 与后面的 enclosed/prison-house 比喻相接，恢复受约束的关系，区别单纯放置。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 7,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=007",
+      "bytes": 14713,
+      "unit_id": "cJC1",
+      "source_sha256": "9204c0a831c97a434ca727902f39fa8ea03e59ffa670d857ac1a961467fe7e18",
+      "reference_sha256": "21462f8e123b8b1e920b61c3ef21121d4340d58b7f345039002b1d99401db26f",
+      "reviewed": true,
+      "observations": [
+        "原文副手、使者、掌权者及各受造界清单核全；保留 messenger 使者，不因参考而限定天使；原文 sovereignty 不带暴政，现译建立统治不加强。所有有意义方括号保留。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 8,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=008",
+      "bytes": 13861,
+      "unit_id": "cJC9",
+      "source_sha256": "1128e31f5c50f29e94f3924a736f2285125beddb593b11f946dd881b451f4ee3",
+      "reference_sha256": "9a6ae2bd7f722914f56c5efe610255c1f4766af3d4d0607a8a3bfb498bf982cf",
+      "reviewed": true,
+      "observations": [
+        "参考不怀怒比英文 dispassionate 狭窄，保留不受情感摆布；神只是似乎不顾人的限定保留。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0005",
+          "before": "都是术士的江湖手段和欺骗",
+          "after": "都是术士骗人的伎俩",
+          "reason": "quackery and deceit 的意思保留，“江湖手段”带地域性和现代口语色彩，不适合论辩文风。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 9,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=009",
+      "bytes": 14320,
+      "unit_id": "cJCH",
+      "source_sha256": "9476d7fa6182357d1fa3eea32a8afd6e4e64ac74e11b40b3895eeb936cd4347c",
+      "reference_sha256": "08e9b82ca26cbb6e8be2aef1977424a59bd7da33de0c6b7c44b310e4bdc380ae",
+      "reviewed": true,
+      "observations": [
+        "参考末尾含衣食忧虑句，英文没有，不补入。英文 creation/guileless/nurse 保留创造、无诡诈、养育者，不以另一底本的作为/无罪/乳母覆盖。救赎代替的五组对举无遗漏。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 10,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=010",
+      "bytes": 14499,
+      "unit_id": "cJCT",
+      "source_sha256": "475607ff23b005844c5eec14b01fbc2b83afd3c2df57dd6acbad30f1b1ed0259",
+      "reference_sha256": "695593c46ab063101cfd0003c433efbf1f9286283dc60c8b6fb6ac9e521ae564",
+      "reviewed": true,
+      "observations": [
+        "神爱人、效法与财富帮助的关系核全；第6节原译把 [like] 的编辑标记错移到神字，已恢复方括号的实际对象并贴近原句。末尾未完省略号保留。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0007",
+          "before": "使那些领受的人，从他身上仿佛看见［神］",
+          "after": "对那些从他领受的人而言便是［如同］神",
+          "reason": "源文 becomes [like] God，把类比的补文标记还给 like；并避免把成为改成只是看见。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 11,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=011",
+      "bytes": 14165,
+      "unit_id": "cJD1",
+      "source_sha256": "2f676c4dcd906783dbe6d6fa98cc2417212761843b573e0ba021a10ebd198a0b",
+      "reference_sha256": "a9e1f2a8ebe9dc1ad966a26c5535b9b58d5ca2ed2f21925db074d5392cd81533",
+      "reviewed": true,
+      "observations": [
+        "参考新近显现与英文 appeared as new、永远年轻/engendered 有细节差别；保留底本以鲜活样式生出。道、儿子及恩典的代词关系核全，不新增完整古信经。"
+      ],
+      "changes": [],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book_id": "epistle-of-mathetes-to-diognetus",
+      "chapter": 12,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%87%B4%E4%B8%A2%E6%A0%BC%E9%82%A3%E5%A6%A5%E4%B9%A6&chap=012",
+      "bytes": 14982,
+      "unit_id": "cJD9",
+      "source_sha256": "098d3352f45701d613e2517b0d54c970395ec73bab69380800042cd82c1cbe36",
+      "reference_sha256": "df7f1489ff57a310a261e37fbb3c45d5665b4af7f8f39392364d2c8e964a0e14",
+      "reviewed": true,
+      "observations": [
+        "参考将 Tree of Knowledge 译作分别善恶树、reason 译教导；英文仅知识树与真实理性，均保留。双层方括号、夏娃的童贞意象以及末段叠加句逐项核对，不用教义解释替代。"
+      ],
+      "changes": [
+        {
+          "block_id": "p0010",
+          "before": "主的逾越节向前开展",
+          "after": "主的逾越节继续进行",
+          "reason": "goes forward 用于节期推进，原译向前开展带抽象行政腔；不添纪念礼或仪式内容。"
+        }
+      ],
+      "reference_quoted_words": 0,
+      "validation": [
+        "complete",
+        null
+      ]
+    }
+  ]
+}

@@ -90,7 +90,12 @@
     }
   ],
   "references": [
-    "基督教典外文献（共10册）_手机版.txt：便西拉智训35章。参考献祭术语；节号依英文20节。35:1不以参考本“胜于”替换英文比喻；35:20保留英文His afflicting的施事者。"
+    "基督教典外文献（共10册）_手机版.txt：便西拉智训35章。参考献祭术语；节号依英文20节。35:1不以参考本“胜于”替换英文比喻；35:20保留英文His afflicting的施事者。",
+    {
+      "source": "信望爱次经阅读：c1933/chdc两列",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=35",
+      "usage": "逐章对读语义与句式；以指定英文为准独立修订，保留底本差异。"
+    }
   ],
   "notes": []
 }

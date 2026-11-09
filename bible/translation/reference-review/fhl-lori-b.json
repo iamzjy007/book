@@ -1,0 +1,410 @@
+{
+  "book": "2-esdras",
+  "status": "complete",
+  "chapters": [
+    {
+      "chapter": 1,
+      "unit": "c9GH",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=1",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 40,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "家谱Aziei、Borith等按英文本现有音译，不随参考换成亚撒利雅、布基；原文Ahitob置第一节末，按源块保留。",
+        "第23节英文主把树投入水中，参考泛指凡将树扔水者，不取参考；第37节恩典为证而非召百姓作证，按英文保留。"
+      ]
+    },
+    {
+      "chapter": 2,
+      "unit": "c9GT",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=2",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 48,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "第6节confusion按蒙羞，不随参考四散；第16节英文known My Name in them保留认出身上有名。",
+        "第19节英文after which与参考山上不同，维持山后；泉源数目as many按十二保留。",
+        "第26节require译追讨，保留向受托者索取的语气，不随参考简单唤出；第38节celebration保持庆典而非筵席。"
+      ]
+    },
+    {
+      "chapter": 3,
+      "unit": "c9H1",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=3",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 36,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "第16节英文put [him] by Esau句法疑坏，现译按对照雅各/以扫的上下文保留将以扫置旁；需保留原文修正说明。",
+        "第18节英文course of age保留世代进程；第28节英文明确问巴比伦居民是否更善，不依参考调整主宾。",
+        "第20节保留原文没有除去恶心的否定，目的从句仍按原文，不擅改为已经除去。"
+      ]
+    },
+    {
+      "chapter": 4,
+      "unit": "c9H9",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=4",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 52,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "Hades按阴间，不随参考地狱；Uriel/ Jeremiel沿既定乌列/耶利米尔。",
+        "第27节英文世界不能承受所应许的事，参考不能等候领受，保留英文；第29节参考额外重复不必收割，英文无，未添加。",
+        "第45节英文含将来更多或大部分过去的完整二择问句，参考仅前半，现译不删。"
+      ]
+    },
+    {
+      "chapter": 5,
+      "unit": "c9HH",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=5",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 56,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "第4节英文补词kingdom为国度，参考第三日不同，不依参考更换。",
+        "第7节英文cast out fish是吐鱼，参考结成雨不取；第9节英文聪明退入密室，参考推倒房屋不取。",
+        "第33节英文比较人和创造者对百姓的爱，现译准确，参考可能被读为爱百姓超过爱创造者，不随改。",
+        "第52节not位置按比较句理解为不像前生者，现译自然，不需改动。"
+      ]
+    },
+    {
+      "chapter": 6,
+      "unit": "c9HT",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=6",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 59,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "第8节从亚伯拉罕到亚伯拉罕的原文重复保留，不改为以撒或其他名字。",
+        "第40节英文treasures是宝库，不随参考宝座；第41节英文made spirit of expanse是造穹苍之灵，与参考你这造穹苍的灵不同，保留英文句法。",
+        "第49—52节比希摩斯/利维坦沿跨卷统一，不随参考河马/鳄鱼；土地六分水一分及千山按英文保留。"
+      ]
+    },
+    {
+      "chapter": 7,
+      "unit": "c9J1",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=7",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 140,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "全140节已逐段核读；第28节c1933基督/chdc耶稣异读，英文Christ，保留基督；第29节神子基督将死和四百年叙述照录。",
+        "第35节行为追随，不添加后果；第36节英文furnace未说Gehenna，保留火炉不增加地狱。",
+        "第43节英文a week of years按约七年，参考七日如七年，不替换时间表述。",
+        "第103节英文relatives及countrymen，保留亲族/同胞，不依参考换为弟兄/亲戚。",
+        "亡者七样痛苦、义人七次序安息、七天自由及审判日不能代求的论述均完整保留，未以其他经卷教义调和。"
+      ]
+    },
+    {
+      "chapter": 8,
+      "unit": "c9J9",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=8",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 63,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "第6节英文seed to heart保留心中种子，不依参考新心；第8节明确母体承载胎儿九个月的关系，不按参考简化。",
+        "第38—39节英文fashioning/framing保留受造，不随参考仅作样式。",
+        "第51节英文命令seek out glory按寻求荣耀保留；第60节英文defiled为玷污，参考误会不取。"
+      ]
+    },
+    {
+      "chapter": 9,
+      "unit": "c9JH",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=9",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 46,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "第7节行为或信心的或字保留；第22节英文born in vain是徒然生下，不随参考无奈何。",
+        "第26节herbs与前面flowers有别，译菜蔬并不全换为花。",
+        "英文第46—47节分为养育与婚筵两节，参考并为46，正文仍保持英文块与节号。"
+      ]
+    },
+    {
+      "chapter": 10,
+      "unit": "c9JT",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=10",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 59,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "10:2英文overthrew the lights保留打翻灯，不据参考改熄灭。",
+        "10:22琴声对应lute，保留而不改参考的赞美。",
+        "10:45—46三千年及所罗门建城照英文保留，不据历史推测改数。",
+        "10:50英文未有参考无诡诈的字句，不增补。",
+        "10:58—59明晚及两夜照英文保留。"
+      ]
+    },
+    {
+      "chapter": 11,
+      "unit": "c9K1",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=11",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 46,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "11:1 c1933时二为录入误字，chdc十二与英文一致。",
+        "11:25英文these wings under而参考明确四个；保留下方的小翅膀，不据参考补四。",
+        "11:31英文two wings保留两只，参考单数那个不从。",
+        "11:42 those who brought out fruit保留结果实之人，不改参考富人。"
+      ]
+    },
+    {
+      "chapter": 12,
+      "unit": "c9K9",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=12",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 51,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "12:2英文went over to it保留移到它那里，不改参考到下面。",
+        "12:23英文three kingdoms保留三个国，不据解经改三王。",
+        "12:31英文her words指代可疑，原译它未强加性别，结合狮子说话延续，保留。",
+        "12:32 contemptuous未指明对象，改去增译神，也不采用参考人的限定。",
+        "12:51本节英文明确吃野地的花与草本食物，两者均保留，不依9:27改只坐花中。"
+      ]
+    },
+    {
+      "chapter": 13,
+      "unit": "c9KH",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=13",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 58,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "13:8英文yet dared fight为仍敢出战，与参考不敢相反，严格保留英文。",
+        "13:13 some brought of those who were offered句法可有不同补足，现译带来作奉献的人按英文主动brought，参考被带来为献祭不同，保留不强改。",
+        "13:23原文He that will endure the peril will keep those...指代与逻辑费解，现译忠实保留，不据常理改逃过者自己蒙保守。",
+        "13:38 taunt在现译弱化，改回讥责，保留Law律法，不改为口中话语。",
+        "13:40何细亚、13:43幼发拉底、13:45亚扎利兹沿本卷译名，不因参考拼名而变更。"
+      ]
+    },
+    {
+      "chapter": 14,
+      "unit": "c9KT",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=14",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 48,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "14:2—3与19—20参考分节不同，保留英文块界；逐句已映射。",
+        "14:11—12十二份、十份已过与第十份一半在英文与参考均费解，按源数保留，不自行算改。",
+        "14:22英文含律法所记之事，参考省略而现译完整保留。",
+        "14:24五位文士人名沿本译音译，未以参考异名覆写。",
+        "14:42英文含坐四十日而参考没有，保留；by course现译轮流为可行读法，不据参考按次序强改。",
+        "14:45最先写成的，英文未指定第一本，保留不补本数；总94及末70照英文。"
+      ]
+    },
+    {
+      "chapter": 15,
+      "unit": "c9M1",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=15",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 63,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "15:13及35—44多处参考星对英文storm，保留风暴，不用天象覆写。",
+        "15:23英文from His wrath保留忿怒，参考他们的墓不同不从。",
+        "15:20东方重复与黎巴嫩按源保留，不重排方位。",
+        "15:40 high and eminent one当前读显赫者，参考高地为另一读法，英文one可指人，保留。",
+        "15:52—55英文分节与参考不同，按实际反问句整体对齐并保持英文章节。",
+        "15:59—60毁城敌军的动作及回到巴比伦按英文保留，不调换毁灭先后。"
+      ]
+    },
+    {
+      "chapter": 16,
+      "unit": "c9M9",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8B&chap=16",
+      "returned_title": "以斯拉续编下卷",
+      "reference_rows": 78,
+      "method": "实际读两版中文与英文、现译，按内容核对；两参考相同处只展示一次，不同处另行阅读。",
+      "differences_retained": [
+        "16:13、16及17参考c1933有剑/箭及重复祸哉的差异，英文箭与两次祸哉完整保留。",
+        "16:30—35及47—48 c1933合并分节，chdc分节与英文一致，按内容对应完整读过。",
+        "16:33英文daughters保留女儿，不从参考儿女。",
+        "16:38孩子出母腹后不得迟延的表达按英文保留，不擅改生理过程顺序。",
+        "16:50按当前英文that will defend him that diligently searches把察究者作为受保护对象；另一种标点/从句归属可使察究者为主。此次依直接语法与两参考修订，但保留底本指代待核，不断言旧读毫无根据。",
+        "16:53 he will burn coals...which says可指罪人自招炭火；保留现译使自己头上炭火燃烧，不从参考指定主点火。",
+        "16:78英文It顺接田地比喻，保留那地，不跟参考人被关在门外。"
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "chapter": 1,
+      "unit": "c9GH",
+      "block": "p0006",
+      "before": "“你去，将我百姓的罪行，以及他们子孙得罪我的恶事，指给他们看，好叫他们告诉自己的子孙。",
+      "after": "“你去，将我百姓的罪行指给他们看，也将他们得罪我的恶事告诉他们的子孙，好叫子孙再传给后代。",
+      "reason": "show my people...and their children...的第二组宾语是向子孙指明百姓之恶，旧译误将子孙写成行恶主体；结合参考和英文平行句法修正。"
+    },
+    {
+      "chapter": 2,
+      "unit": "c9GT",
+      "block": "p0024",
+      "before": "无论在哪里遇见死人，都要为他们作记号，将他们安葬；我必在我使人复活的时候，赐你居首的位分。",
+      "after": "无论在哪里遇见死人，都要为他们作记号，将他们安葬；在我的复活之日，我必赐你居首的位分。",
+      "reason": "英文My resurrection未明说我使人复活；旧译补出使役义。参考也保留我的复活，故保留原文所有格，不预先消除解释空间。"
+    },
+    {
+      "chapter": 5,
+      "unit": "c9HH",
+      "block": "p0015",
+      "before": "于是我醒来，全身猛烈战抖，心神烦乱，几乎昏厥。",
+      "after": "于是我醒来，全身猛烈战抖，心神烦乱，以至昏厥。",
+      "reason": "so that it fainted表述已经昏厥，旧译几乎弱化了程度；参考亦为以致发晕。"
+    },
+    {
+      "chapter": 5,
+      "unit": "c9HH",
+      "block": "p0057",
+      "before": "我说：“主啊，我恳求你，我若在你眼前蒙恩，求你告诉仆人，你将借着谁察看审判你的受造之物。”",
+      "after": "我说：“主啊，我恳求你，我若在你眼前蒙恩，求你告诉仆人，你将借着谁察看你的受造之物。”",
+      "reason": "visit未明确表示审判，参考为看顾；移除旧译额外加上的审判，保留察看的广义。"
+    },
+    {
+      "chapter": 7,
+      "unit": "c9J1",
+      "block": "p0036",
+      "before": "行为的后果必随之而来，报偿必显明；善行要醒起，恶行也不得沉睡。",
+      "after": "行为必随之而来，报偿必显明；善行要醒起，恶行也不得沉睡。",
+      "reason": "英文work will follow仅说行为随来，原译增入后果，将行为本身改变为结果；删除无据解释。"
+    },
+    {
+      "chapter": 8,
+      "unit": "c9J9",
+      "block": "p0014",
+      "before": "他是祢所造的，祢能使他死；他是祢手的工作，祢也能赐他生命。",
+      "after": "他是祢所造的，祢要使他死；他是祢手的工作，祢也要赐他生命。",
+      "reason": "原文will mortify/give life陈述将行之事，旧译能将其弱化为能力；恢复要的语气，参考也没有仅表示能力。"
+    },
+    {
+      "chapter": 9,
+      "unit": "c9JH",
+      "block": "p0027",
+      "before": "我便照祂的吩咐，来到名叫亚达的田野，坐在花丛中，吃野地的草本植物，这食物使我饱足。",
+      "after": "我便照祂的吩咐，来到名叫亚达的田野，坐在花丛中，吃野地的菜蔬，这食物使我饱足。",
+      "reason": "herbs作为食物，旧译草本植物过于植物分类语体；改为菜蔬更合叙事，仍区别前文flowers。"
+    },
+    {
+      "chapter": 10,
+      "unit": "c9JT",
+      "block": "p0004",
+      "before": "后来，他们停止安慰，让我安静；我便在夜里起来，离开那里，来到你所看见的这片田野。",
+      "after": "后来，他们停止安慰，让我安静；我便在夜里起来，逃离那里，来到你所看见的这片田野。",
+      "reason": "fled明确有逃离之意，原译离开力度不足。"
+    },
+    {
+      "chapter": 10,
+      "unit": "c9JT",
+      "block": "p0029",
+      "before": "“起初来到我这里的使者乌列在哪里？他使我陷入这样深的恍惚，使我的结局变为毁灭，使我的祷告变为责备！”",
+      "after": "“起初来到我这里的使者乌列在哪里？他使我陷入这样深的恍惚，使我的结局变为毁灭，使我的祷告反遭责备！”",
+      "reason": "my prayer to rebuke指祷告得到责备的结果；原句祷告变为责备易读成祷告内容责备别人。参考的受了责备有助厘清。"
+    },
+    {
+      "chapter": 12,
+      "unit": "c9K9",
+      "block": "p0033",
+      "before": "这位就是受膏者，至高者将祂保留到末后的日子。祂要从大卫的后裔中兴起，来到他们那里说话，指责他们的邪恶与不义，将他们一切藐视神的作为，逐一摆在他们面前。",
+      "after": "这位就是受膏者，至高者将祂保留到末后的日子。祂要从大卫的后裔中兴起，来到他们那里说话，指责他们的邪恶与不义，将他们一切傲慢轻蔑的作为，逐一摆在他们面前。",
+      "reason": "contemptuous dealings未限定藐视对象为神；参考有藐视人的异读，现按英文保留傲慢轻蔑，不补任何对象。"
+    },
+    {
+      "chapter": 12,
+      "unit": "c9K9",
+      "block": "p0052",
+      "before": "我却照使者的吩咐，在田野里住了七日；那些日子，我只吃野地的花，以草本植物为食。",
+      "after": "我却照使者的吩咐，在田野里住了七日；那些日子，我只吃野地的花，以野菜为食。",
+      "reason": "herbs在饮食语境译野菜比植物分类词草本植物自然；保留本节明确flowers，不与9:27同化。"
+    },
+    {
+      "chapter": 13,
+      "unit": "c9KH",
+      "block": "p0039",
+      "before": "他要当面斥责他们的恶念，并宣告他们将受的刑罚；这些刑罚如同火焰。他要用如火的律法，不费力地毁灭他们。",
+      "after": "他要因他们的恶念，以及他们将要承受的如火焰般的刑罚，当面讥责他们；又要用如火的律法，不费力地毁灭他们。",
+      "reason": "taunt同时统摄恶念和刑罚，原译将后者改为宣告，弱化讥责语气并另加动作；照英文并列关系恢复。"
+    },
+    {
+      "chapter": 14,
+      "unit": "c9KT",
+      "block": "p0017",
+      "before": "因为往后要发生的邪恶，比你已经看见的还要严重。",
+      "after": "因为往后要发生的灾祸，比你已经看见的还要严重。",
+      "reason": "evils承接末世危难，参考灾祸有助厘清；邪恶容易误为道德恶行。"
+    },
+    {
+      "chapter": 14,
+      "unit": "c9KT",
+      "block": "p0018",
+      "before": "你看，世界因年老越发衰弱，其中居民所遭的邪恶，也必越发增多。",
+      "after": "你看，世界因年老越发衰弱，其中居民所遭的灾祸，也必越发增多。",
+      "reason": "evils increase on dwellers强调临到居民的灾祸，与上节一致而不泛指邪恶。"
+    },
+    {
+      "chapter": 15,
+      "unit": "c9M1",
+      "block": "p0014",
+      "before": "耕地的农夫都要哀哭，因为种子必歉收，树木必因枯槁、冰雹和可怕的风暴毁坏。",
+      "after": "耕地的农夫都要哀哭，因为撒下的种子必无收成，树木必因旱风、冰雹和可怕的风暴毁坏。",
+      "reason": "种子歉收搭配不自然；blasting在庄稼受灾语境指枯焦的旱风，参考旱风提示其外在灾害，并保留英文storm不作星。"
+    },
+    {
+      "chapter": 15,
+      "unit": "c9M1",
+      "block": "p0058",
+      "before": "你的儿女必饿死，你必倒在刀下；你的城邑必被拆毁，你所有在田野的人都必死于刀剑。",
+      "after": "你的儿女必饿死，你必倒在刀下；你的城邑必被拆毁，属你的人都必在田野死于刀剑。",
+      "reason": "in the field修饰perish地点，原译你所有在田野的人误成只限原已在田野的一部分人。"
+    },
+    {
+      "chapter": 2,
+      "unit": "c9GT",
+      "block": "p0024",
+      "before": "无论在哪里遇见死人，都要为他们作记号，将他们安葬；在我的复活之日，我必赐你居首的位分。",
+      "after": "无论在哪里遇见死人，都要为他们作记号，将他们安葬；在我的复活中，我必赐你居首的位分。",
+      "reason": "复核父代理意见：in My resurrection未明说之日，撤去时间增译，以我的复活保留原表达，并另注可能解读，不确定说话者自身复活。"
+    },
+    {
+      "chapter": 16,
+      "unit": "c9M9",
+      "block": "p0051",
+      "before": "公义也必厌恶那装饰自己的罪恶；当那位维护公义、察究地上一切罪恶的主来临时，公义必当面控诉罪恶。",
+      "after": "公义也必厌恶那装饰自己的罪恶；当那位保护殷勤察究地上一切罪恶之人的主来临时，公义必当面控诉罪恶。",
+      "reason": "按当前英文that will defend him that diligently searches的连续从句语法，把察究者理解为受保护的人；参考也如此处理。另有合理的标点/从句归属读法可把察究者归为主，原译并非可无疑判错。本次采用当前英文最直接句法，实质指代仍待底本核实。"
+    }
+  ],
+  "completed_at": "2026-11-09T14:49:23.359323+00:00",
+  "coverage": {
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "chapter_units": 16,
+    "chapter_blocks": 960,
+    "introduction": "c9G5 三块另与英文核过；网站不含导言，不声称有三方对照。",
+    "reference_versions": [
+      "c1933",
+      "chdc"
+    ],
+    "unique_changed_blocks": 17,
+    "change_events": 18
+  },
+  "final_review": "16章英文、现译与两参考已实际逐段核读；第7章长输出截断后另补读17—106节。全部改块再次对英文复核。2:23应父代理审校保留我的复活歧义并加注；changes保留两次修改的审计轨迹，以末次为最终稿。全部17单元validate complete。"
+}

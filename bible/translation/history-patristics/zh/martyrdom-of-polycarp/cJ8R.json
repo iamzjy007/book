@@ -18,7 +18,12 @@
     }
   ],
   "references": [
-    "bible/基督教典外文献（共10册）_手机版.txt：检索未见本书对应正文；本段按英文独立翻译。"
+    "bible/基督教典外文献（共10册）_手机版.txt：检索未见本书对应正文；本段按英文独立翻译。",
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%9D%A1%E6%97%85%E7%94%B2%E6%AE%89%E9%81%93%E8%AE%B0&chap=016",
+      "location": "坡旅甲殉道记 第16章",
+      "use": "2026-11-09 中文参考逐段校核；英文底本决定内容与异文，独立措辞，详见 reference-review/dydi_d.json。"
+    }
   ],
   "notes": []
 }

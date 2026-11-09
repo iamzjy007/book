@@ -106,7 +106,12 @@
     }
   ],
   "references": [
-    "基督教典外文献（共10册）_手机版.txt，第30053—30188行，便西拉智训41章及参考本42:1；英文决定节序。"
+    "基督教典外文献（共10册）_手机版.txt，第30053—30188行，便西拉智训41章及参考本42:1；英文决定节序。",
+    {
+      "source": "信望爱次经阅读：c1933/chdc两列",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=41",
+      "usage": "逐章对读语义与句式；以指定英文为准独立修订，保留底本差异。"
+    }
   ],
   "notes": [
     "41:16英文起句为“Why show reverence to my word”，按疑问句保留；其逻辑较晦涩，未按参考本改成“留心听我的话”。"

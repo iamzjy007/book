@@ -1,0 +1,665 @@
+{
+  "snapshot_utc": "2026-11-09T14:40:35.528209+00:00",
+  "head": "68e7e02832a6ac082370ca6e047fba1219bc6e17",
+  "completed_utc": "2026-11-09T14:41:09.411190+00:00",
+  "scope": "只读交叉复核当时已落盘次经修改：1-maccabees、sirach、tobit、wisdom；不含后来新写入的修改，不代表全书参考核对。",
+  "files": [
+    {
+      "path": "bible/translation/zh/1-maccabees/c960.json",
+      "sha256": "47884695d416907ff535a2ead5705f48f25914e06552a5a67a6cec918bdab024"
+    },
+    {
+      "path": "bible/translation/zh/1-maccabees/c968.json",
+      "sha256": "3a16746cfc354d4e646dd5b13d5469aebc9a077c0662ee24eee1032f7feb82ea"
+    },
+    {
+      "path": "bible/translation/zh/1-maccabees/c96S.json",
+      "sha256": "a9b9b269abcacbf62ee5c86757973cd86a04995a123af307e6fbe46605495a26"
+    },
+    {
+      "path": "bible/translation/zh/1-maccabees/c97G.json",
+      "sha256": "5038ced84966f57a0cd7d545dd74548265af9bf8a844f227f65c3c75e3baca93"
+    },
+    {
+      "path": "bible/translation/zh/1-maccabees/c97S.json",
+      "sha256": "ec5235fff37826ec1e12766aadaf607dac41c49222f33b1d15c9ee09b6368e7b"
+    },
+    {
+      "path": "bible/translation/zh/1-maccabees/c980.json",
+      "sha256": "fea00af14c61966b647c5bec82ea190fdf427382921658f0c270e0f136b1dc51"
+    },
+    {
+      "path": "bible/translation/zh/1-maccabees/c988.json",
+      "sha256": "105705972b42615eb90a9d148cdfe1dc54f06fbab4386c36852f07ea05e70688"
+    },
+    {
+      "path": "bible/translation/zh/1-maccabees/c98G.json",
+      "sha256": "4036e22aab89fcbebfaed8f6c7f06fd6bc06feaa279d0ebced5240ea71d5e00c"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8PR.json",
+      "sha256": "d50d0a13dcffe74e1988630b1d816a135b651bb6eab2a7537a82e82854b8ee23"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8PZ.json",
+      "sha256": "e218d8ac86b5449de994d0914514b127852ac20e397f931b08a51a8b8e08ff1a"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8R7.json",
+      "sha256": "28cefcd74a3e71521c622924ba2ee76b69aa4d50756a1bbeb57f3762db99f4c5"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8RF.json",
+      "sha256": "ca3d4c9fbfbb2cc73f39d622b83d79ee300afed8d0679092af615bfd561edcf9"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8RR.json",
+      "sha256": "d4917091a7e67008767b7a615bb5940aea6092d9d7af7c8902d37b88c5dc739d"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8RZ.json",
+      "sha256": "0857879518aac18eed3ae03a20ca0d48486a8006069443dc61504c7348b54f98"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8S7.json",
+      "sha256": "52cf3d3a806d3f5b97e0ca67339e10765add58582f65149be03ceddb49fd2998"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8SF.json",
+      "sha256": "c0efabf33c8c3b14de2638ace29116fe00204a6296112264415449f34a1d9801"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8SR.json",
+      "sha256": "fa9f3bb3c0825b960861a97102585408559dad12310f092382bc7cce57181b1d"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8SZ.json",
+      "sha256": "96f481a870f12de77757755f9efb5d02bbc0f094905f0486ce72e81d0be18e5b"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8T7.json",
+      "sha256": "a4d0027e3d5ed9150769d7898c3d5e0959d3d4cfed2e6bef63e8295e584828fd"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8TF.json",
+      "sha256": "6636264b884c63823c1eb9baf2b16c5971c0cec0aa39456d012d96d618bb88fa"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8TR.json",
+      "sha256": "53968a525104f9eb3af697ce0b963d1012c9cce4410b4d9843000a62db48cc20"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8TZ.json",
+      "sha256": "7c94b85231087b01aa5f24c8bcafc61932720368fbd45cd24bdcfed7d0b33c7c"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8U7.json",
+      "sha256": "146644bf14d68be227bc8e33b59fd9fc4986eab0cc4150d053d0a1e88441417e"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8UF.json",
+      "sha256": "bd92fe373b81a5d59407a260d27558794b30b956896c60955db20af8e95c5ac7"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8UR.json",
+      "sha256": "c276ba87f04c5b047bec5b2089cf34090de2260bdbce135a97cd746976780978"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8UZ.json",
+      "sha256": "e9806b809a186fdf61e555332e4631fde44cdb90db13219fd6f268bf46e3f92f"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8V7.json",
+      "sha256": "3be2f4fe12468295e36322976bd4eab280ba073489823338961bc3f6488ce7d9"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VF.json",
+      "sha256": "acdb0a541dc00fc897b5d5206fd24c439a55992ea0c54a1de7f05d9ffa2ea430"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VR.json",
+      "sha256": "2cdffb5171f06aa6099045a55b40f038379c52fe44cba33b0f3f55329a7aed23"
+    },
+    {
+      "path": "bible/translation/zh/sirach/c8VZ.json",
+      "sha256": "be5c15468250516cefc86130439fe1bbd3aa4901f0b7990baff462758c34b8f2"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8A5.json",
+      "sha256": "4c590af7b86e38ae12c666f69abd09fc8d87c21f8102546bec20c1fd965e4e43"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8AC.json",
+      "sha256": "24b9daa5f07558e86d22198307a2dc9bc51292653513757d51816254e1e22e8a"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8AK.json",
+      "sha256": "d1fdfd5fd576e7613b786af8d798946f9dc7caaadb85afe2b6a1ea5f8adbc709"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8AU.json",
+      "sha256": "27da38d44fa84934cc030c39d74c3536a78f562101dfa7bc85c813f98ede06b4"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8B1.json",
+      "sha256": "88c65984b4c85606012ffa7e49c40c6c87ca7d8174cf181b65ebb1947c988bdd"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8B8.json",
+      "sha256": "6bab7726d72fa03468cfbea795448ca22f01c202b26ac44703504681f346fd3f"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8BF.json",
+      "sha256": "4f5254ff84864117b256b1fac8b03fc1395d6d2b9e0552aec282e61ea8fcef98"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8BP.json",
+      "sha256": "130b7f28243b574d6e104fa3b39af266c8a6bbcabd5f2c915f277c12d2936a4f"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8BX.json",
+      "sha256": "3c5425908655bf2096465b61f0545b827c458b123824339f950a51628731bd12"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8C4.json",
+      "sha256": "9e6e37afe5538e1c09d012bebd1d35e80b839b20f45a6272c2800708b418c2bd"
+    },
+    {
+      "path": "bible/translation/zh/tobit/c8CB.json",
+      "sha256": "5327636b05acab038a9d9b64ccbfc4255b2427e2645ae5e50d54437c7c288791"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8HH.json",
+      "sha256": "8d06576b1830940110e6e4691852449eabd3438efa3888461fdc908a45c3ad4f"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8HU.json",
+      "sha256": "574eae87ac8af8a1749d206d0409182712672529227ae32990001a366976240f"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8JA.json",
+      "sha256": "cbd2eaf0504bd10cd800224c60e36405a4463e85b8d32c8e37d3ebd03709cb91"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8JJ.json",
+      "sha256": "fb033ec6406356ba9e4b0c0681236907de7aca74c310830aabbdd46f4f5a5727"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8JU.json",
+      "sha256": "5c3110b3a40ba63fd3780df37cfe559074b69a42d23ff826d407cdd1568bb4c7"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8K2.json",
+      "sha256": "4f1e1063fd0524c40dc8ac5df186d0b3b6a851a59731735a7f8c2e23b036b65e"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8KJ.json",
+      "sha256": "94265794d17ba34d67437092a81b856bc9a8f9b2c617ac47d0392e2d750cccf6"
+    },
+    {
+      "path": "bible/translation/zh/wisdom/c8KU.json",
+      "sha256": "cb7dc116a72d618d8588e9646a9126f0484576691105e9dda4411594e92fecfd"
+    }
+  ],
+  "reviewed_changed_blocks": [
+    {
+      "book": "1-maccabees",
+      "unit": "c960",
+      "block": "p0044"
+    },
+    {
+      "book": "1-maccabees",
+      "unit": "c968",
+      "block": "p0020"
+    },
+    {
+      "book": "1-maccabees",
+      "unit": "c96S",
+      "block": "p0003"
+    },
+    {
+      "book": "1-maccabees",
+      "unit": "c97G",
+      "block": "p0007"
+    },
+    {
+      "book": "1-maccabees",
+      "unit": "c97S",
+      "block": "p0083"
+    },
+    {
+      "book": "1-maccabees",
+      "unit": "c980",
+      "block": "p0063"
+    },
+    {
+      "book": "1-maccabees",
+      "unit": "c988",
+      "block": "p0010"
+    },
+    {
+      "book": "1-maccabees",
+      "unit": "c98G",
+      "block": "p0043"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8PR",
+      "block": "p0010"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8R7",
+      "block": "p0004"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8RZ",
+      "block": "p0025"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8S7",
+      "block": "p0035"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8SR",
+      "block": "p0002"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8SR",
+      "block": "p0019"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8T7",
+      "block": "p0004"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8TR",
+      "block": "p0003"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8TZ",
+      "block": "p0012"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8UF",
+      "block": "p0005"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8UZ",
+      "block": "p0002"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8UZ",
+      "block": "p0004"
+    },
+    {
+      "book": "sirach",
+      "unit": "c8VZ",
+      "block": "p0017"
+    },
+    {
+      "book": "tobit",
+      "unit": "c8AC",
+      "block": "p0002"
+    },
+    {
+      "book": "tobit",
+      "unit": "c8B1",
+      "block": "p0013"
+    },
+    {
+      "book": "tobit",
+      "unit": "c8B1",
+      "block": "p0014"
+    },
+    {
+      "book": "tobit",
+      "unit": "c8BP",
+      "block": "p0011"
+    },
+    {
+      "book": "tobit",
+      "unit": "c8BP",
+      "block": "p0022"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8HH",
+      "block": "p0002"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8HH",
+      "block": "p0007"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8HH",
+      "block": "p0017"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8HU",
+      "block": "p0004"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8HU",
+      "block": "p0009"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8HU",
+      "block": "p0010"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8JA",
+      "block": "p0002"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8JA",
+      "block": "p0006"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8JJ",
+      "block": "p0023"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8JU",
+      "block": "p0011"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8JU",
+      "block": "p0015"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8K2",
+      "block": "p0015"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8KJ",
+      "block": "p0007"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8KU",
+      "block": "p0010"
+    },
+    {
+      "book": "wisdom",
+      "unit": "c8KU",
+      "block": "p0011"
+    }
+  ],
+  "findings": [],
+  "conclusion": "逐一比较41处改前、改后与英文；未发现确定的否定、条件、主宾或指代误改。另读多比8章及马加比一10章、智慧10章相邻英文，核实lest、his goods、phalanx主语及waited on语义。",
+  "minor_style_notes": [
+    "马加比一 c98G p0043 新译“伟大的大祭司”含大字重复，但是great chief priest直译，不构成语义问题。",
+    "便西拉 c8R7 p0004 “为罪赎罪”略重复，但比旧译“得赎罪”准确保留主动make atonement，不构成误改。"
+  ],
+  "files_changed_after_snapshot": [],
+  "second_pass": {
+    "snapshot_utc": "2026-11-09T14:41:25.488171+00:00",
+    "head": "68e7e02832a6ac082370ca6e047fba1219bc6e17",
+    "files": [
+      {
+        "path": "bible/translation/zh/1-maccabees/c960.json",
+        "sha256": "47884695d416907ff535a2ead5705f48f25914e06552a5a67a6cec918bdab024"
+      },
+      {
+        "path": "bible/translation/zh/1-maccabees/c968.json",
+        "sha256": "3a16746cfc354d4e646dd5b13d5469aebc9a077c0662ee24eee1032f7feb82ea"
+      },
+      {
+        "path": "bible/translation/zh/1-maccabees/c96S.json",
+        "sha256": "a9b9b269abcacbf62ee5c86757973cd86a04995a123af307e6fbe46605495a26"
+      },
+      {
+        "path": "bible/translation/zh/1-maccabees/c97G.json",
+        "sha256": "5038ced84966f57a0cd7d545dd74548265af9bf8a844f227f65c3c75e3baca93"
+      },
+      {
+        "path": "bible/translation/zh/1-maccabees/c97S.json",
+        "sha256": "ec5235fff37826ec1e12766aadaf607dac41c49222f33b1d15c9ee09b6368e7b"
+      },
+      {
+        "path": "bible/translation/zh/1-maccabees/c980.json",
+        "sha256": "fea00af14c61966b647c5bec82ea190fdf427382921658f0c270e0f136b1dc51"
+      },
+      {
+        "path": "bible/translation/zh/1-maccabees/c988.json",
+        "sha256": "105705972b42615eb90a9d148cdfe1dc54f06fbab4386c36852f07ea05e70688"
+      },
+      {
+        "path": "bible/translation/zh/1-maccabees/c98G.json",
+        "sha256": "4036e22aab89fcbebfaed8f6c7f06fd6bc06feaa279d0ebced5240ea71d5e00c"
+      },
+      {
+        "path": "bible/translation/zh/2-maccabees/c99T.json",
+        "sha256": "0959ba72b7adba9cfb412fb76c69ee89bb1599f05e0f822c391060ed4e1434ed"
+      },
+      {
+        "path": "bible/translation/zh/2-maccabees/c9A1.json",
+        "sha256": "a077e6a6b69747d0c1e7d5aa00a2566adf32ea5ae456bb08aba13c2cbbee5b46"
+      },
+      {
+        "path": "bible/translation/zh/2-maccabees/c9A9.json",
+        "sha256": "e73ac19dbe4550d51a77adfdcfb3166ac52c4f37620db099765a52a21af45f14"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-daniel/c888.json",
+        "sha256": "4bf8cdbf089d8f1eb73f5aa7bd03a0f1c9cc6b12457aed5179bbcf25af5fcf7c"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-daniel/c88N.json",
+        "sha256": "3f8c643c8a87f0cb08ee160559faa818e14504d35d3a856e1e67eb1f397d32ef"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-daniel/c892.json",
+        "sha256": "a5e9d19aa803642eaf8b49d360eece52b53d34e27d32859c2f89d327f14011c4"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-esther/c84Y.json",
+        "sha256": "6df7fb426b6c19819bc87a6068ff1baabf46c7f77d7eda829071a0ed2ca42664"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-esther/c855.json",
+        "sha256": "76b24d0ae37a5d5b24f62b343f73924fe5268d103aaefe15ceb1372cb342dffc"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-esther/c85C.json",
+        "sha256": "dff8be76b4e5d4e285aaa480bc312c70d6a8bd07d1682f0224f4af81cbe073e7"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-esther/c85K.json",
+        "sha256": "91eeed482829ee6b1ea0fd3a2069af937b7a09c9e492e460320c184e211624f3"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-esther/c85U.json",
+        "sha256": "4e79bb03f5cf08e47cb972d485c356a24ef5ad7ee870411f66c9b7dc6b29ef99"
+      },
+      {
+        "path": "bible/translation/zh/apocryphal-esther/c861.json",
+        "sha256": "1db3839a13a0175c40ee3683aad51059a62c07a1f98abe8b3ba1c32e9c045940"
+      },
+      {
+        "path": "bible/translation/zh/judith/c8DG.json",
+        "sha256": "e7080bec0143a69e728042d123a0b24c61d8d86ee3727e8069c878f76acef8ca"
+      },
+      {
+        "path": "bible/translation/zh/judith/c8DR.json",
+        "sha256": "96a4cae537f744f925e2105d683b9f0496c8d9464d4b0beef8c6ba896f8d14ac"
+      },
+      {
+        "path": "bible/translation/zh/judith/c8DY.json",
+        "sha256": "c071492009425244f6bb676d545520c8b98061e87ea2e4195eaea2f5530b61f2"
+      },
+      {
+        "path": "bible/translation/zh/judith/c8E5.json",
+        "sha256": "5fce117f3e0135fd66f3eead17c765362119dad100cb4159b31c419e9b996672"
+      },
+      {
+        "path": "bible/translation/zh/judith/c8EC.json",
+        "sha256": "a107b1647efeb57c9d452f0257a30edccf8b42f10d7ede783257f126c38603fc"
+      },
+      {
+        "path": "bible/translation/zh/prayer-of-manasseh/c9VR.json",
+        "sha256": "a8fd7fe9f513de3e0a4e6ca02b77926e45cfd7f96d19a47b587b6b17570e3c27"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8A5.json",
+        "sha256": "4c590af7b86e38ae12c666f69abd09fc8d87c21f8102546bec20c1fd965e4e43"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8AC.json",
+        "sha256": "24b9daa5f07558e86d22198307a2dc9bc51292653513757d51816254e1e22e8a"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8AK.json",
+        "sha256": "d1fdfd5fd576e7613b786af8d798946f9dc7caaadb85afe2b6a1ea5f8adbc709"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8AU.json",
+        "sha256": "27da38d44fa84934cc030c39d74c3536a78f562101dfa7bc85c813f98ede06b4"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8B1.json",
+        "sha256": "88c65984b4c85606012ffa7e49c40c6c87ca7d8174cf181b65ebb1947c988bdd"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8B8.json",
+        "sha256": "6bab7726d72fa03468cfbea795448ca22f01c202b26ac44703504681f346fd3f"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8BF.json",
+        "sha256": "4f5254ff84864117b256b1fac8b03fc1395d6d2b9e0552aec282e61ea8fcef98"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8BP.json",
+        "sha256": "130b7f28243b574d6e104fa3b39af266c8a6bbcabd5f2c915f277c12d2936a4f"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8BX.json",
+        "sha256": "3c5425908655bf2096465b61f0545b827c458b123824339f950a51628731bd12"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8C4.json",
+        "sha256": "9e6e37afe5538e1c09d012bebd1d35e80b839b20f45a6272c2800708b418c2bd"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8CB.json",
+        "sha256": "5327636b05acab038a9d9b64ccbfc4255b2427e2645ae5e50d54437c7c288791"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8CJ.json",
+        "sha256": "354791b46b710f2412381c85d6881161f119e8755f82115848606a860545f742"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8CT.json",
+        "sha256": "60326a5c88801abc19ecb986e4a68d6d0cd83a075a679898a6b342cbedb5fb95"
+      },
+      {
+        "path": "bible/translation/zh/tobit/c8D0.json",
+        "sha256": "ed5bc86a1a14cf3df1e7d73bc8f4eb6ce1349ff6bb57e84698663ad0ebb8df3c"
+      },
+      {
+        "path": "bible/translation/zh/wisdom/c8HH.json",
+        "sha256": "8d06576b1830940110e6e4691852449eabd3438efa3888461fdc908a45c3ad4f"
+      },
+      {
+        "path": "bible/translation/zh/wisdom/c8HU.json",
+        "sha256": "574eae87ac8af8a1749d206d0409182712672529227ae32990001a366976240f"
+      },
+      {
+        "path": "bible/translation/zh/wisdom/c8JA.json",
+        "sha256": "cbd2eaf0504bd10cd800224c60e36405a4463e85b8d32c8e37d3ebd03709cb91"
+      },
+      {
+        "path": "bible/translation/zh/wisdom/c8JJ.json",
+        "sha256": "fb033ec6406356ba9e4b0c0681236907de7aca74c310830aabbdd46f4f5a5727"
+      },
+      {
+        "path": "bible/translation/zh/wisdom/c8JU.json",
+        "sha256": "5c3110b3a40ba63fd3780df37cfe559074b69a42d23ff826d407cdd1568bb4c7"
+      },
+      {
+        "path": "bible/translation/zh/wisdom/c8K2.json",
+        "sha256": "4f1e1063fd0524c40dc8ac5df186d0b3b6a851a59731735a7f8c2e23b036b65e"
+      },
+      {
+        "path": "bible/translation/zh/wisdom/c8KJ.json",
+        "sha256": "94265794d17ba34d67437092a81b856bc9a8f9b2c617ac47d0392e2d750cccf6"
+      },
+      {
+        "path": "bible/translation/zh/wisdom/c8KU.json",
+        "sha256": "cb7dc116a72d618d8588e9646a9126f0484576691105e9dda4411594e92fecfd"
+      }
+    ],
+    "new_blocks_compared": [
+      {
+        "book": "2-maccabees",
+        "unit": "c99T",
+        "block": "p0009"
+      },
+      {
+        "book": "2-maccabees",
+        "unit": "c9A1",
+        "block": "p0009"
+      },
+      {
+        "book": "2-maccabees",
+        "unit": "c9A9",
+        "block": "p0037"
+      },
+      {
+        "book": "apocryphal-daniel",
+        "unit": "c888",
+        "block": "p0017"
+      },
+      {
+        "book": "apocryphal-daniel",
+        "unit": "c888",
+        "block": "p0018"
+      },
+      {
+        "book": "apocryphal-daniel",
+        "unit": "c88N",
+        "block": "p0018"
+      },
+      {
+        "book": "judith",
+        "unit": "c8DR",
+        "block": "p0006"
+      },
+      {
+        "book": "judith",
+        "unit": "c8EC",
+        "block": "p0006"
+      },
+      {
+        "book": "prayer-of-manasseh",
+        "unit": "c9VR",
+        "block": "p0008"
+      }
+    ],
+    "findings": [],
+    "conclusion": "新增9处逐块对照英文与HEAD、现译，未发现明确误改；其中马加比二3、但以理增补3、犹滴2、玛拿西祷告1。以斯帖增补当时仅有元数据改动，无正文改动。此前28处非便西拉改动与第一快照相同，未重复审读；后续排除便西拉。"
+  }
+}

@@ -1,0 +1,738 @@
+{
+  "reviewer": "lori_a",
+  "review_date": "2026-11-09",
+  "scope": [
+    "didache",
+    "epistle-of-barnabas"
+  ],
+  "method": "全部37章逐章阅读FHL中文参考、指定英文及现译；按英文控制版本、编号及内容，独立修订措辞。修订后再次核对英文和中文；未复制参考正文，未全局替换称谓。卷首只核对源文和现译，不计作FHL章节。",
+  "pages": [
+    {
+      "book_id": "didache",
+      "chapter": 1,
+      "unit_id": "cFS6",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=001",
+      "reviewed": true,
+      "retained_differences_and_checks": "保留底本关于即使能够拒绝也不可拒绝的命令及施舍措辞，不据参考改成另一版本的索还规则。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 2,
+      "unit_id": "cFSD",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=002",
+      "reviewed": true,
+      "retained_differences_and_checks": "鸡奸与催情药按英文用词保留，不据参考缩限对象或泛化药物。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 3,
+      "unit_id": "cFSM",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=003",
+      "reviewed": true,
+      "retained_differences_and_checks": "恶人、骄傲及敬畏等按英文保留，与参考个别措辞不同。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 4,
+      "unit_id": "cFSV",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=004",
+      "reviewed": true,
+      "retained_differences_and_checks": "保留双手赎罪的底本意象；只理清报偿者的修饰关系。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 5,
+      "unit_id": "cFT2",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=005",
+      "reviewed": true,
+      "retained_differences_and_checks": "恶行清单逐项与英文核对，未据参考重排或增删。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 6,
+      "unit_id": "cFT9",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=006",
+      "reviewed": true,
+      "retained_differences_and_checks": "保留饮食限制的能力条件及祭偶像之物的明确禁戒。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 7,
+      "unit_id": "cFTG",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=007",
+      "reviewed": true,
+      "retained_differences_and_checks": "流动水、其他水、冷温水及浇水三次均依英文保留；未统一更换受浸术语。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 8,
+      "unit_id": "cFTR",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=008",
+      "reviewed": true,
+      "retained_differences_and_checks": "禁食日及主祷文按本底本保留，未用参考全文替换。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 9,
+      "unit_id": "cFTY",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=009",
+      "reviewed": true,
+      "retained_differences_and_checks": "child/Child 结合古代祷文圣仆称谓传统保留仆人；大卫与耶稣不人为区分为孩子与儿子。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 10,
+      "unit_id": "cFU5",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=010",
+      "reviewed": true,
+      "retained_differences_and_checks": "child 保留仆人；continuous light 保留光明，不据参考改为生命。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 11,
+      "unit_id": "cFUC",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=011",
+      "reviewed": true,
+      "retained_differences_and_checks": "先知言行规则及 worldly mystery 保留底本和现有疑义说明，不按参考简化。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 12,
+      "unit_id": "cFUK",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=012",
+      "reviewed": true,
+      "retained_differences_and_checks": "接待旅客、谋生及不可闲懒的条件依英文保留。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 13,
+      "unit_id": "cFUU",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=013",
+      "reviewed": true,
+      "retained_differences_and_checks": "初熟出产及衣物钱财的供应规则按英文保留，不额外加入首次榨酒、祭司制度等解释。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 14,
+      "unit_id": "cFV1",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=014",
+      "reviewed": true,
+      "retained_differences_and_checks": "聚会、认罪、和好及献祭引文保留底本用词。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 15,
+      "unit_id": "cFV8",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=015",
+      "reviewed": true,
+      "retained_differences_and_checks": "overseers 保留监督；kindness 不缩限为施舍。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 16,
+      "unit_id": "cFVF",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=016",
+      "reviewed": true,
+      "retained_differences_and_checks": "curse itself 及天空展开的迹象保留英文表达，不据参考改称受咒诅者或另一种天象。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 1,
+      "unit_id": "cGD0",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=001",
+      "reviewed": true,
+      "retained_differences_and_checks": "知识、信心及爱喜乐等关系依英文保留。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 2,
+      "unit_id": "cGD7",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=002",
+      "reviewed": true,
+      "retained_differences_and_checks": "祭物非人制造的措辞据英文修正；其余祭祀引文保留底本。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 3,
+      "unit_id": "cGDE",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=003",
+      "reviewed": true,
+      "retained_differences_and_checks": "robes 保留衣袍，并保留与常见经文及参考不同的注，不据参考改成医治。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 4,
+      "unit_id": "cGDN",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=004",
+      "reviewed": true,
+      "retained_differences_and_checks": "约属于我们和他们的争论按英文保留，不据参考改成约是否可废除的另一句式。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 5,
+      "unit_id": "cGDW",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=005",
+      "reviewed": true,
+      "retained_differences_and_checks": "受苦的论证按英文保留，仅去掉 how 句译文额外的甘愿反诘。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 6,
+      "unit_id": "cGE3",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=006",
+      "reviewed": true,
+      "retained_differences_and_checks": "土地、人的身体、重造及应许的论证依英文保留，不用熟悉经文覆盖本书解释。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 7,
+      "unit_id": "cGEA",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=007",
+      "reviewed": true,
+      "retained_differences_and_checks": "未洗内脏配醋而吃保留英文可成立的断句；参考采用另一介词修饰理解，不能据此另立洗涤禁令。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 8,
+      "unit_id": "cGEH",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=008",
+      "reviewed": true,
+      "retained_differences_and_checks": "移除施洒动作原译额外添加的灰；植物说明仍依英文，不据参考替换。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 9,
+      "unit_id": "cGES",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=009",
+      "reviewed": true,
+      "retained_differences_and_checks": "恶使者和教训等按英文保留；割礼字母数值与人名依底本。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 10,
+      "unit_id": "cGEZ",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=010",
+      "reviewed": true,
+      "retained_differences_and_checks": "动物名称及古代动物学说保留英文，不据参考调整为另一种动物或现代科学解释。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 11,
+      "unit_id": "cGF6",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=011",
+      "reviewed": true,
+      "retained_differences_and_checks": "英文未明言所建何物之处保持其省略，不从参考补入对象。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 12,
+      "unit_id": "cGFD",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=012",
+      "reviewed": true,
+      "retained_differences_and_checks": "蛇、盾牌及耶稣与约书亚同名论证按英文保留，不以铜蛇等熟悉词替换。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 13,
+      "unit_id": "cGFM",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=013",
+      "reviewed": true,
+      "retained_differences_and_checks": "雅各、以扫及承受祝福的顺序依英文保留。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 14,
+      "unit_id": "cGFV",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=014",
+      "reviewed": true,
+      "retained_differences_and_checks": "摩西仆人身份与主自身受苦的对比保留；修正身份表达。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 15,
+      "unit_id": "cGG2",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=015",
+      "reviewed": true,
+      "retained_differences_and_checks": "安息、六千年及第八日解释按原书保留；条件句不额外添加以为。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 16,
+      "unit_id": "cGG9",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=016",
+      "reviewed": true,
+      "retained_differences_and_checks": "英文 God who made them, and is the true house of God 句法异常；原XHTML无缺漏标点，保留原译与待核实说明，不按参考改写神与建筑的指代。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 17,
+      "unit_id": "cGGG",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=017",
+      "reviewed": true,
+      "retained_differences_and_checks": "末尾说明与下一段教训的衔接依英文保留。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 18,
+      "unit_id": "cGGR",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=018",
+      "reviewed": true,
+      "retained_differences_and_checks": "光明黑暗两条道路、天使及掌权者对照依英文保留。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 19,
+      "unit_id": "cGGY",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=019",
+      "reviewed": true,
+      "retained_differences_and_checks": "不可多言及神的话在污秽中离开人的句子按英文保留，不据参考改成两舌或禁止在污秽场合宣讲。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 20,
+      "unit_id": "cGH5",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=020",
+      "reviewed": true,
+      "retained_differences_and_checks": "恶行清单依英文保留，包括纷争的措辞。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 21,
+      "unit_id": "cGHC",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=021",
+      "reviewed": true,
+      "retained_differences_and_checks": "末尾拯救祝愿保留英文，不据参考换成单纯道别。"
+    }
+  ],
+  "changes": [
+    {
+      "book_id": "didache",
+      "chapter": 2,
+      "unit_id": "cFSD",
+      "block_id": "p0003",
+      "before": "“不可杀人，不可奸淫”，不可行鸡奸，不可行淫，不可偷盗，不可施魔法，不可使用催情药，不可使胎儿堕落，也不可杀害婴儿；“不可贪恋邻舍的财物”。",
+      "after": "“不可杀人，不可奸淫”，不可行鸡奸，不可行淫，不可偷盗，不可施魔法，不可使用催情药，不可施行堕胎，也不可杀害婴儿；“不可贪恋邻舍的财物”。",
+      "reason": "abortion 指堕胎；原译容易被理解为胎儿道德上的堕落。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=002"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 3,
+      "unit_id": "cFSM",
+      "block_id": "p0011",
+      "before": "要把临到你的意外当作好事领受，知道没有一件事在神以外发生。",
+      "after": "要把临到你的遭遇当作好事领受，知道没有一件事在神以外发生。",
+      "reason": "accidents 在此泛指遭遇，不只意外事故。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=003"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 4,
+      "unit_id": "cFSV",
+      "block_id": "p0008",
+      "before": "施舍不可迟疑，施舍时也不可抱怨，因为你要知道，那位赐美好报偿的主是谁。",
+      "after": "施舍不可迟疑，施舍时也不可抱怨，因为你要知道，那位施行报偿的良善者是谁。",
+      "reason": "good 修饰 Paymaster，而不是报偿本身；不额外把报偿者的身份写入英文未明言的称号。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=004"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 6,
+      "unit_id": "cFT9",
+      "block_id": "p0004",
+      "before": "至于食物，要承担你所能承担的，但要严守自己，禁戒祭偶像之物，因为那是对死神明的敬拜。",
+      "after": "至于饮食上的禁戒，要尽力持守；但务要禁戒祭偶像之物，因为那是在敬拜没有生命的神明。",
+      "reason": "承接饮食限制语境理清 bear；dead gods 不是名为死神的神明。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=006"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 16,
+      "unit_id": "cFVF",
+      "block_id": "p0002",
+      "before": "要“警醒”，看守自己的生命，不可使“灯”熄灭，不可使“腰”松懈，却要“预备好”，因为你们不知道“我们的主在什么时候来”。",
+      "after": "要“警醒”，看守自己的生命，不可使“灯”熄灭，不可松开束“腰”的带子，却要“预备好”，因为你们不知道“我们的主在什么时候来”。",
+      "reason": "unloosed 指腰间束带松开，补足中文动作所需的具体搭配。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%8D%81%E4%BA%8C%E4%BD%BF%E5%BE%92%E9%81%97%E8%AE%AD&chap=016"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 2,
+      "unit_id": "cGD7",
+      "block_id": "p0007",
+      "before": "所以他废去了这些，为要使我们主耶稣基督那不受强制之轭辖制的新律法，有非人手所献的供物。",
+      "after": "所以他废去了这些，为要使我们主耶稣基督那不受强制之轭辖制的新律法，有非人手所造的供物。",
+      "reason": "not made by man 指非人制造，而非无人献上。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=002"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 5,
+      "unit_id": "cGDW",
+      "block_id": "p0006",
+      "before": "此外，我的弟兄们，主虽是全世界的主，神在创世以前曾对他说：“我们要照着我们的形像，按着我们的样式造人”，他若为我们的生命甘愿受苦，那么，他怎会甘愿受人的苦待呢？",
+      "after": "此外，我的弟兄们，主虽是全世界的主，神在创世以前曾对他说：“我们要照着我们的形像，按着我们的样式造人”，他若为我们的生命甘愿受苦，那么，他究竟怎样忍受人所加的苦难呢？",
+      "reason": "how did he endure 是询问怎样忍受，原译额外加入甘愿及反诘不可能的意味。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=005"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 7,
+      "unit_id": "cGEA",
+      "block_id": "p0005",
+      "before": "那么，他在先知书中说了什么呢？“他们要吃那在禁食时、为他们一切罪所献的山羊。”你们要留心：“惟独众祭司要吃那未洗的内脏，蘸醋而吃。”",
+      "after": "那么，他在先知书中说了什么呢？“他们要吃那在禁食时、为他们一切罪所献的山羊。”你们要留心：“惟独众祭司要吃那未洗的内脏，配醋而吃。”",
+      "reason": "with vinegar 保留配醋食用的句法理解，但不限定英文未明说的蘸食动作；介词修饰歧义另注。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=007"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 8,
+      "unit_id": "cGEH",
+      "block_id": "p0004",
+      "before": "那些洒灰的少年人，就是向我们传讲赦罪与洁净人心之道的人；他赐给他们传扬福音的权柄。他们共有十二人，为众支派作见证，因为以色列有十二个支派。",
+      "after": "那些施洒的少年人，就是向我们传讲赦罪与洁净人心之道的人；他赐给他们传扬福音的权柄。他们共有十二人，为众支派作见证，因为以色列有十二个支派。",
+      "reason": "boys who sprinkle 未在该动作明言所洒为灰，不补定物质。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=008"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 8,
+      "unit_id": "cGEH",
+      "block_id": "p0005",
+      "before": "但为何洒灰的少年人有三个呢？这是为亚伯拉罕、以撒、雅各作见证，因为这三人在神面前是尊大的。",
+      "after": "但为何施洒的少年人有三个呢？这是为亚伯拉罕、以撒、雅各作见证，因为这三人在神面前是尊大的。",
+      "reason": "同上，消除原译额外指定所洒为灰。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=008"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 14,
+      "unit_id": "cGFV",
+      "block_id": "p0005",
+      "before": "摩西领受了约，他们却不配。你们要明白，我们是怎样领受的：摩西作仆人时领受了约，主却亲自为我们受苦，将约赐给我们，使我们成为承受产业的百姓。",
+      "after": "摩西领受了约，他们却不配。你们要明白，我们是怎样领受的：摩西以仆人的身份领受了约，主却亲自为我们受苦，将约赐给我们，使我们成为承受产业的百姓。",
+      "reason": "理清 servant 的身份对照，避免只理解为人生某个时段。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=014"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 15,
+      "unit_id": "cGG2",
+      "block_id": "p0007",
+      "before": "他又说：“你要以洁净的手和纯洁的心，尊这日为圣。”若有人以为如今就有能力，凭纯洁的心守神所分别为圣的日子，我们便全然受了迷惑。",
+      "after": "他又说：“你要以洁净的手和纯洁的心，尊这日为圣。”若如今有人有能力，凭纯洁的心守神所分别为圣的日子，我们便全然受了迷惑。",
+      "reason": "英文条件是实际具有能力，未写某人以为自己能；去掉额外心理判断。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=015"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 19,
+      "unit_id": "cGGY",
+      "block_id": "p0006",
+      "before": "不可疑惑这些事究竟会不会成就。“不可妄称主的名。”你要爱邻舍，胜过自己的性命。不可使胎儿堕落，不可杀害婴孩。不可疏于管教儿女，倒要从他们幼年起，就教导他们敬畏神。",
+      "after": "不可疑惑这些事究竟会不会成就。“不可妄称主的名。”你要爱邻舍，胜过自己的性命。不可施行堕胎，不可杀害婴孩。不可疏于管教儿女，倒要从他们幼年起，就教导他们敬畏神。",
+      "reason": "同遗训2章，明确 abortion 的动作含义。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=019"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 19,
+      "unit_id": "cGGY",
+      "block_id": "p0012",
+      "before": "施予时不可迟疑，施予后不可抱怨；你要知道，谁是那慷慨赐报偿的主。你要“遵守所领受的诫命”，“不可加添，也不可删减”。你要全然恨恶邪恶。“你要按公义审判。”",
+      "after": "施予时不可迟疑，施予后不可抱怨；你要知道，谁是那施行报偿的良善者。你要“遵守所领受的诫命”，“不可加添，也不可删减”。你要全然恨恶邪恶。“你要按公义审判。”",
+      "reason": "good Paymaster 表示报偿者良善，非只指慷慨；避免增写未明说的称号。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=019"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 19,
+      "unit_id": "cGGY",
+      "block_id": "p0013",
+      "before": "不可挑起纷争，却要使争竞的人彼此和好。你要承认自己的罪，不可带着邪恶的良心去祷告。这就是光明的道路。",
+      "after": "不可挑起纷争，却要使争竞的人彼此和好。你要承认自己的罪，不可带着亏欠的良心去祷告。这就是光明的道路。",
+      "reason": "evil conscience 在认罪及祷告语境指负罪的良心，中文更明确。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B7%B4%E6%8B%BF%E5%B7%B4%E4%B9%A6%E4%BF%A1&chap=019"
+    }
+  ],
+  "validation": [
+    {
+      "book_id": "didache",
+      "unit_id": "cFRW",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFS6",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFSD",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFSM",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFSV",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFT2",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFT9",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFTG",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFTR",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFTY",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFU5",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFUC",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFUK",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFUU",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFV1",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFV8",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "didache",
+      "unit_id": "cFVF",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGCR",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGD0",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGD7",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGDE",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGDN",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGDW",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGE3",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGEA",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGEH",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGES",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGEZ",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGF6",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGFD",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGFM",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGFV",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGG2",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGG9",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGGG",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGGR",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGGY",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGH5",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "unit_id": "cGHC",
+      "status": "complete",
+      "error": null
+    }
+  ],
+  "note_changes": [
+    {
+      "book_id": "didache",
+      "chapter": 9,
+      "unit_id": "cFTY",
+      "before": [
+        "9—10 章祷文英文 child 也有孩子、儿子之义，此处依服事语境统一作“仆人”，保持大卫与耶稣的同一称谓；译义仍需留意。",
+        "英文 child/Child 在此祷文中按古代圣仆称谓的传统语用译为“仆人”；中文参考亦采用仆人称谓，不将大卫和耶稣另分为“孩子”与“儿子”。"
+      ],
+      "after": [
+        "英文 child/Child 在此祷文中依古代圣仆称谓的传统语用译为“仆人”；中文参考亦采用此称谓。"
+      ],
+      "reason": "合并核对说明，清楚区分称谓传统、参考版本与底本疑点。"
+    },
+    {
+      "book_id": "didache",
+      "chapter": 10,
+      "unit_id": "cFU5",
+      "before": [
+        "10:6 Maranatha 译“主啊，愿祢来”，保留祈愿语气。10:3 英文为 continuous light，按“永远的光明”译出，不以常见版本的永生替换。",
+        "英文 child/Child 在此祷文中按古代圣仆称谓的传统语用译为“仆人”；中文参考亦采用仆人称谓，不将大卫和耶稣另分为“孩子”与“儿子”。"
+      ],
+      "after": [
+        "10:6 Maranatha 译“主啊，愿祢来”，保留祈愿语气。10:3 英文为 continuous light，按“永远的光明”译出，不以常见版本的永生替换。",
+        "英文 child/Child 在此祷文中依古代圣仆称谓的传统语用译为“仆人”；中文参考亦采用此称谓。"
+      ],
+      "reason": "合并核对说明，清楚区分称谓传统、参考版本与底本疑点。"
+    },
+    {
+      "book_id": "epistle-of-barnabas",
+      "chapter": 16,
+      "unit_id": "cGG9",
+      "before": [
+        "第1节英文将“and is the true house of God”连于God之后，语义不寻常，按现有语法保留，不默改成“我们才是神的殿”。第6节week原文未明说年数，保留“一周”，不擅加七年。",
+        "第1节已核对原XHTML，英文仍为 God who made them, and is the true house of God，标点无缺漏；中文参考将神真正的居所归于建筑之误认，与此英文句法不同。保留本底本的疑点，待其他版本进一步核实，不凭参考改写正文。"
+      ],
+      "after": [
+        "第1节已核对原XHTML，英文 God who made them, and is the true house of God 的末句按现有语法承接God，语义不寻常。中文参考将神真正的居所归于建筑之误认；这里保留英文句法所呈现的疑点，待其他版本核实，不据参考改写正文。第6节week原文未明说年数，保留“一周”，不擅加七年。"
+      ],
+      "reason": "合并核对说明，清楚区分称谓传统、参考版本与底本疑点。"
+    }
+  ],
+  "second_review": "15处正文修订已逐条重新读取指定英文核对；37章参考记录和注释检查完成，39单元均保持complete。"
+}

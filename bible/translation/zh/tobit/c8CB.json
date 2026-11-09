@@ -86,7 +86,12 @@
     }
   ],
   "references": [
-    "参考同TXT 21729—21763行，多比传十一章；按英文19节划分，12节由父亲揉眼，18节Nasbas译拿斯巴，不随参考本改拿答。"
+    "参考同TXT 21729—21763行，多比传十一章；按英文19节划分，12节由父亲揉眼，18节Nasbas译拿斯巴，不随参考本改拿答。",
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=11",
+      "location": "多比传 第11章",
+      "use": "FHL中文辅助核对，实际匹配范围和版本差异见 reference-review/fhl-dydi-d.json；英文仍为底本。"
+    }
   ],
   "notes": []
 }

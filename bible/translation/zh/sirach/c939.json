@@ -66,7 +66,7 @@
     },
     {
       "id": "p0016",
-      "zh": "我在圣殿前求得她，直到末了，我仍要寻求她。"
+      "zh": "我在圣殿前祈求智慧，直到末了，我仍要寻求她。"
     },
     {
       "id": "p0017",
@@ -134,7 +134,12 @@
     }
   ],
   "references": [
-    "bible/基督教典外文献（共10册）_手机版.txt：31391—31623；参考措辞，以英文内容与分节为准。"
+    "bible/基督教典外文献（共10册）_手机版.txt：31391—31623；参考措辞，以英文内容与分节为准。",
+    {
+      "source": "信望爱次经阅读：c1933/chdc两列",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=51",
+      "usage": "逐章对读语义与句式；以指定英文为准独立修订，保留底本差异。"
+    }
   ],
   "notes": [
     "51:10 英文称呼为“主，就是我主的父”（the Lord, the Father of my Lord），按本版保留，未改成“我的父、我的主”。",

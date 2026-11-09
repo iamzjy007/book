@@ -1,0 +1,1476 @@
+{
+  "book_id": "the-shepherd-of-hermas",
+  "status": "complete",
+  "reviewed_pages": [
+    {
+      "chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=001",
+      "chars": 828,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0003",
+        "p0034"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 2,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=002",
+      "chars": 444,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0003",
+        "p0034"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 3,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=003",
+      "chars": 644,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0003",
+        "p0034"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 4,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=004",
+      "chars": 223,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0003",
+        "p0034"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 5,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=005",
+      "chars": 337,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0036",
+        "p0061"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 6,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=006",
+      "chars": 646,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0036",
+        "p0061"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 7,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=007",
+      "chars": 415,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0036",
+        "p0061"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 8,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=008",
+      "chars": 387,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0036",
+        "p0061"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 9,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=009",
+      "chars": 826,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0063",
+        "p0096"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 10,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=010",
+      "chars": 808,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0063",
+        "p0096"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 11,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=011",
+      "chars": 568,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0063",
+        "p0096"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 12,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=012",
+      "chars": 402,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0063",
+        "p0096"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 13,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=013",
+      "chars": 536,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0097",
+        "p0130"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 14,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=014",
+      "chars": 624,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0097",
+        "p0130"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 15,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=015",
+      "chars": 478,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0097",
+        "p0130"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 16,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=016",
+      "chars": 789,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0097",
+        "p0130"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 17,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=017",
+      "chars": 602,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0131",
+        "p0162"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 18,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=018",
+      "chars": 631,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0131",
+        "p0162"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 19,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=019",
+      "chars": 274,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0131",
+        "p0162"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 20,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=020",
+      "chars": 355,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0131",
+        "p0162"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 21,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=021",
+      "chars": 282,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0131",
+        "p0162"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 22,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=022",
+      "chars": 681,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0164",
+        "p0200"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 23,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=023",
+      "chars": 601,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0164",
+        "p0200"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 24,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=024",
+      "chars": 415,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0164",
+        "p0200"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 25,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=025",
+      "chars": 575,
+      "english_unit": "cJDW",
+      "source_block_range": [
+        "p0164",
+        "p0200"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 26,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=026",
+      "chars": 147,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0003",
+        "p0005"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 27,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=027",
+      "chars": 535,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0007",
+        "p0014"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 28,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=028",
+      "chars": 618,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0016",
+        "p0024"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 29,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=029",
+      "chars": 903,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0026",
+        "p0040"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 30,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=030",
+      "chars": 377,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0041",
+        "p0045"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 31,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=031",
+      "chars": 560,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0046",
+        "p0054"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 32,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=032",
+      "chars": 304,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0055",
+        "p0058"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 33,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=033",
+      "chars": 631,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0060",
+        "p0071"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 34,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=034",
+      "chars": 763,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0072",
+        "p0082"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 35,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=035",
+      "chars": 331,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0084",
+        "p0089"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 36,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=036",
+      "chars": 766,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0090",
+        "p0101"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 37,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=037",
+      "chars": 478,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0103",
+        "p0111"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 38,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=038",
+      "chars": 1249,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0113",
+        "p0131"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 39,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=039",
+      "chars": 891,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0133",
+        "p0145"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 40,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=040",
+      "chars": 602,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0147",
+        "p0154"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 41,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=041",
+      "chars": 358,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0155",
+        "p0159"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 42,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=042",
+      "chars": 363,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0160",
+        "p0165"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 43,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=043",
+      "chars": 1845,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0167",
+        "p0192"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 44,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=044",
+      "chars": 285,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0194",
+        "p0198"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 45,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=045",
+      "chars": 394,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0198",
+        "p0204"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 46,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=046",
+      "chars": 530,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0205",
+        "p0212"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 47,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=047",
+      "chars": 493,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0213",
+        "p0219"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 48,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=048",
+      "chars": 461,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0220",
+        "p0224"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 49,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=049",
+      "chars": 445,
+      "english_unit": "cJEC",
+      "source_block_range": [
+        "p0225",
+        "p0231"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 50,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=050",
+      "chars": 994,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0003",
+        "p0015"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 51,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=051",
+      "chars": 1125,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0017",
+        "p0033"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 52,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=052",
+      "chars": 279,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0035",
+        "p0038"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 53,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=053",
+      "chars": 628,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0040",
+        "p0051"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 54,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=054",
+      "chars": 524,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0053",
+        "p0059"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 55,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=055",
+      "chars": 913,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0060",
+        "p0073"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 56,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=056",
+      "chars": 731,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0074",
+        "p0085"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 57,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=057",
+      "chars": 488,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0086",
+        "p0092"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 58,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=058",
+      "chars": 448,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0093",
+        "p0098"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 59,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=059",
+      "chars": 579,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0099",
+        "p0107"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 60,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=060",
+      "chars": 361,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0108",
+        "p0113"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 61,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=061",
+      "chars": 547,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0115",
+        "p0121"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 62,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=062",
+      "chars": 678,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0122",
+        "p0131"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 63,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=063",
+      "chars": 596,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0132",
+        "p0138"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 64,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=064",
+      "chars": 408,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0139",
+        "p0144"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 65,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=065",
+      "chars": 695,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0145",
+        "p0155"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 66,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=066",
+      "chars": 911,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0157",
+        "p0172"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 67,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=067",
+      "chars": 956,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0174",
+        "p0186"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 68,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=068",
+      "chars": 708,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0187",
+        "p0197"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 69,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=069",
+      "chars": 670,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0198",
+        "p0204"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 70,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=070",
+      "chars": 535,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0205",
+        "p0210"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 71,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=071",
+      "chars": 509,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0211",
+        "p0216"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 72,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=072",
+      "chars": 761,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0217",
+        "p0227"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 73,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=073",
+      "chars": 480,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0228",
+        "p0235"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 74,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=074",
+      "chars": 427,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0236",
+        "p0240"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 75,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=075",
+      "chars": 387,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0241",
+        "p0246"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 76,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=076",
+      "chars": 385,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0247",
+        "p0251"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 77,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=077",
+      "chars": 402,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0252",
+        "p0256"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 78,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=078",
+      "chars": 801,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0258",
+        "p0270"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 79,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=079",
+      "chars": 545,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0271",
+        "p0277"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 80,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=080",
+      "chars": 319,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0278",
+        "p0284"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 81,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=081",
+      "chars": 693,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0284",
+        "p0294"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 82,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=082",
+      "chars": 569,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0295",
+        "p0303"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 83,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=083",
+      "chars": 564,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0304",
+        "p0311"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 84,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=084",
+      "chars": 546,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0312",
+        "p0318"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 85,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=085",
+      "chars": 709,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0319",
+        "p0330"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 86,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=086",
+      "chars": 679,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0331",
+        "p0341"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 87,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=087",
+      "chars": 537,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0342",
+        "p0350"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 88,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=088",
+      "chars": 769,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0351",
+        "p0362"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 89,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=089",
+      "chars": 716,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0363",
+        "p0371"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 90,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=090",
+      "chars": 817,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0372",
+        "p0384"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 91,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=091",
+      "chars": 612,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0385",
+        "p0390"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 92,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=092",
+      "chars": 600,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0391",
+        "p0400"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 93,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=093",
+      "chars": 660,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0401",
+        "p0409"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 94,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=094",
+      "chars": 499,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0410",
+        "p0418"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 95,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=095",
+      "chars": 536,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0419",
+        "p0426"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 96,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=096",
+      "chars": 422,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0427",
+        "p0433"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 97,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=097",
+      "chars": 367,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0434",
+        "p0437"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 98,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=098",
+      "chars": 302,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0438",
+        "p0441"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 99,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=099",
+      "chars": 344,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0442",
+        "p0445"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 100,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=100",
+      "chars": 399,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0446",
+        "p0451"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 101,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=101",
+      "chars": 335,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0452",
+        "p0455"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 102,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=102",
+      "chars": 158,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0456",
+        "p0457"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 103,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=103",
+      "chars": 667,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0458",
+        "p0468"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 104,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=104",
+      "chars": 196,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0469",
+        "p0471"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 105,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=105",
+      "chars": 715,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0472",
+        "p0481"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 106,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=106",
+      "chars": 349,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0482",
+        "p0486"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 107,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=107",
+      "chars": 485,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0487",
+        "p0494"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 108,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=108",
+      "chars": 521,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0495",
+        "p0504"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 109,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=109",
+      "chars": 485,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0505",
+        "p0510"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 110,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=110",
+      "chars": 337,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0511",
+        "p0516"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 111,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=111",
+      "chars": 366,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0518",
+        "p0524"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 112,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=112",
+      "chars": 446,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0525",
+        "p0531"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 113,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=113",
+      "chars": 487,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0532",
+        "p0537"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    },
+    {
+      "chapter": 114,
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%BB%91%E9%A9%AC%E7%89%A7%E4%BA%BA%E4%B9%A6&chap=114",
+      "chars": 416,
+      "english_unit": "cJFA",
+      "source_block_range": [
+        "p0538",
+        "p0545"
+      ],
+      "method": "逐页实际阅读中文参考，连同英文及现译逐段比较；共同覆盖范围按内容对齐，未以网站章号覆盖英文编号。"
+    }
+  ],
+  "changes": [
+    {
+      "unit": "cJDH",
+      "block_id": "p0005",
+      "before": "本书最早可能写于公元一世纪末，但更可能成书于二世纪中期。它曾备受推崇，爱任纽等人甚至将它视为正典。本书见于《西奈抄本》，书名来自一位显作牧人、向黑马传达十二条诫命的使者。有人认为，这位牧人可能代表好牧人耶稣。主张本书写于一世纪的人，将作者与《罗马书》16:14提到的黑马联系起来；多数人则认为，此处的“黑马”正是庇护一世的兄弟，因此成书年代应在二世纪中期。除了可能较晚的成书年代，本书未被列入正典的另一重要原因，是它宣扬一种无法实现、偏离基督教主流思想的道德完全主义；此外，除在第五个比喻中略有提及外，本书也缺少基督献己赎罪这一核心信息。本书虽不属诺斯底主义，却可以说呈现了一种与圣经不同的基督论；不过，由于全书大部分采用寓言形式，这一点并不完全明确。全书包括五个异象、十二条诫命和十个比喻。",
+      "after": "本书最早可能写于公元一世纪末，但更可能成书于二世纪中期。它曾备受推崇，爱任纽等人甚至将它视为正典。本书见于《西奈抄本》，书名来自一位显作牧人、向黑马传达十二条诫命的使者。有人认为，这位牧人可能代表好牧人耶稣。主张本书写于一世纪的人，将作者与《罗马书》16:14提到的黑马联系起来；多数人则认为，此处的“黑马”正是庇护一世的兄弟，因此成书年代应在二世纪中期。除了可能较晚的成书年代，严重不利于将本书列为正典的另一因素，是它宣扬一种无法实现、偏离基督教主流思想的道德完全主义；此外，除在第五个比喻中略有提及外，本书也缺少基督献己赎罪这一核心信息。本书虽不属诺斯底主义，却可以说呈现了一种与圣经不同的基督论；不过，由于全书大部分采用寓言形式，这一点并不完全明确。全书包括五个异象、十二条诫命和十个比喻。",
+      "reason": "英文 weighing heavily against its canonicity 是对正典资格的不利评价，旧译写成历史上未入正典的确定原因，力度和性质均偏移。网站无此编者导言。"
+    },
+    {
+      "unit": "cJDW",
+      "block_id": "p0022",
+      "before": "因此，主向你发怒；但祂必医治你家中所行的一切恶。因他们的罪和不义，你已被世上的事务毁损了。",
+      "after": "因此，主向你发怒；但祂必医治你家中所行的一切恶。因他们的罪和不义，你已被今世的事务所累害。",
+      "reason": "参考第3章使句子所述世事对人的损害更清楚；据英文 affairs of this world 独立改写旧译生硬的“毁损”，不添参考的忧虑。"
+    },
+    {
+      "unit": "cJDW",
+      "block_id": "p0028",
+      "before": "“看哪，万军之神以看不见的大能和伟大的智慧创造世界，以荣耀的谋略使所造的万物四围充满美丽；祂以大能的话立定诸天，将大地的根基安在水上，又以自己的智慧和眷顾，建立圣洁的教会，赐福给她。",
+      "after": "“看哪，万军之神以看不见的大能和伟大的智慧创造世界，以荣耀的谋略，使所造的万物披上美丽；祂以大能的话立定诸天，将大地的根基安在水上，又以自己的智慧和眷顾，建立圣洁的教会，赐福给她。",
+      "reason": "参考第3章的创造意象；英文 surrounded His creation with beauty 指美丽环绕受造物，不是万物周围另有美丽。独立调整句法。"
+    },
+    {
+      "unit": "cJDW",
+      "block_id": "p0038",
+      "before": "祷告完毕，我起身，看见去年见过的老妇人站在面前，一边行走，一边诵读书卷。她对我说：“你能将这些事传给神蒙拣选的人吗？”",
+      "after": "祷告完毕，我起身，看见去年见过的老妇人在我面前，一边行走，一边诵读书卷。她对我说：“你能将这些事传给神蒙拣选的人吗？”",
+      "reason": "英文walking，参考第5章亦为行走；删掉现译额外的“站”，避免静立与行走冲突。"
+    },
+    {
+      "unit": "cJDW",
+      "block_id": "p0040",
+      "before": "我便接过书卷，走到乡间一处地方，一个字母一个字母地将全卷抄下；可是，我没有明白它的音节。",
+      "after": "我便接过书卷，走到乡间一处地方，一个字母一个字母地将全卷抄下；可是，我辨认不出其中的音节。",
+      "reason": "第5章助辨 did not catch the syllables 指无法辨认组合，不是“明白音节”；依英文本调整。"
+    },
+    {
+      "unit": "cJDW",
+      "block_id": "p0048",
+      "before": "所以，行义的人啊，你们要站立得稳，不要疑惑，使你们离世时能与圣洁的使者同行。",
+      "after": "所以，行义的人啊，你们要站立得稳，不要疑惑，使你们能与圣洁的使者同行。",
+      "reason": "英文passage未明言离世；参考第6章作进入天国，提示旧译“离世时”过度具体化。去掉未经明说的死亡时间，不搬入参考本天国。"
+    },
+    {
+      "unit": "cJDW",
+      "block_id": "p0060",
+      "before": "因此，你要抄写两卷，一卷送给革利免，另一卷送给格拉普特。革利免要把他那一卷送往异邦，因为这事已交给他办理。格拉普特则要劝诫寡妇和孤儿。",
+      "after": "因此，你要抄写两卷，一卷送给革利免，另一卷送给格拉普特。革利免要把他那一卷送往异邦，因为他已获准这样做。格拉普特则要劝诫寡妇和孤儿。",
+      "reason": "英文permission has been granted是获准，不是网页“工作”或旧译“交给他办理”的明确职务委派。"
+    },
+    {
+      "unit": "cJDW",
+      "block_id": "p0193",
+      "before": "我以为他是来试探我的，就对他说：“你是谁？我知道自己受托归谁照管。”他说：“你不认识我吗？”我说：“不认识。”他说：“我就是受托照管你的那位牧人。”",
+      "after": "我以为他是来试探我的，就对他说：“你是谁？我知道自己被交给谁照管。”他说：“你不认识我吗？”我说：“不认识。”他说：“我就是受托照管你的那位牧人。”",
+      "reason": "对读网页25及英文to whom I have been entrusted，旧译“自己受托归谁”混淆受托者与被交托者；依英文改为被交给谁照管。"
+    },
+    {
+      "unit": "cJEC",
+      "block_id": "p0014",
+      "before": "“所以，你要遵守我所交给你的这些诫命，使你和全家的悔改显为单纯，使你的心纯洁无玷污。”",
+      "after": "“所以，你要遵守我所交给你的这些诫命，使你和全家的悔改显出真诚，使你的心纯洁无玷污。”",
+      "reason": "simplicity在悔改语境强调真诚无伪；参考帮助辨明语义，避免单纯被理解为幼稚。"
+    },
+    {
+      "unit": "cJEC",
+      "block_id": "p0019",
+      "before": "他问：“为什么？”我说：“先生，因为我一生未曾说过一句实话，总是用诡诈对待众人，向众人将谎言说成真话。从来没有人反驳我，大家都信我的话。我既这样行过，怎还能活呢？”",
+      "after": "他问：“为什么？”我说：“先生，因为我一生未曾说过一句实话，总是对众人说诡诈的话，向众人将谎言说成真话。从来没有人反驳我，大家都信我的话。我既这样行过，怎还能活呢？”",
+      "reason": "英文spoken cunningly特指说话，旧译用诡诈对待众人扩大为一般行为。"
+    },
+    {
+      "unit": "cJEC",
+      "block_id": "p0040",
+      "before": "“然而，”他说，“我不是给行这些事的人留下机会，而是要已经犯罪的人不再犯罪。至于他从前的过犯，有一位能加以医治；因为唯有那一位掌管万有。”",
+      "after": "“然而，”他说，“我不是为人行这些事提供机会，而是要已经犯罪的人不再犯罪。至于他从前的过犯，有一位能加以医治；因为唯有那一位掌管万有。”",
+      "reason": "英文否定给恶行提供机会，不是否定给行恶者机会；明确宾语关系。"
+    },
+    {
+      "unit": "cJEC",
+      "block_id": "p0122",
+      "before": "“你不认为这些确是邪恶的吗？”“对神的仆人而言，这些极其邪恶。”神的仆人必须禁戒这一切。",
+      "after": "“你不认为这些确是邪恶的吗？”“对神的仆人而言，这些极其邪恶。神的仆人必须禁戒这一切。",
+      "reason": "旧译将最后一句错误置于对话引号之外；英文与上下段仍属牧人训诫，保持连续讲话格式。"
+    },
+    {
+      "unit": "cJEC",
+      "block_id": "p0155",
+      "before": "“无知的人啊，你要听，”他说，“忧愁怎样挤走圣灵，另一方面又使人得救。疑惑的人着手做事，却因疑惑而失败，忧愁便进入那人里面，使圣灵忧伤，把祂挤出去。",
+      "after": "“你这无知的人，要听，”他说，“忧愁怎样挤走圣灵，另一方面又使人得救。疑惑的人着手做事，却因疑惑而失败，忧愁便进入那人里面，使圣灵忧伤，把祂挤出去。",
+      "reason": "采用自然呼告，落实用户尽量避免啊的口吻要求，并未增添感叹词。"
+    },
+    {
+      "unit": "cJFA",
+      "block_id": "p0024",
+      "before": "他说：“你听，富人虽有许多财物，在主的事上却贫穷，因为财富使他分心。他向主认罪、代求极少；即使献上，也微小软弱，在上面没有能力。",
+      "after": "他说：“你听，富人虽有许多财物，在主的事上却贫穷，因为财富使他分心。他向主认罪、代求极少；即使献上，也微小软弱，在天上没有能力。",
+      "reason": "above在向主祷告的上下文指天上；在上面中文所指含糊。"
+    },
+    {
+      "unit": "cJFA",
+      "block_id": "p0087",
+      "before": "他回答我说：“你问个不停，实在执着。你根本不该一再发问；若有什么需要解释，自然会让你明白。”",
+      "after": "他回答我说：“你问个不停，实在执着。你根本不该发问；若有什么需要解释，自然会让你明白。”",
+      "reason": "英文any questions at all明确不该发问，原译一再发问弱化了责备；不采用参考本自大，英文为persistent。"
+    },
+    {
+      "unit": "cJFA",
+      "block_id": "p0158",
+      "before": "他回答：“你必须受苦，因为荣耀的使者这样吩咐过你，要使你经受试验。”我说：“先生，我作了什么如此严重的恶事，竟要被交给这使者？”",
+      "after": "他回答：“你必须受苦，因为荣耀的使者为你的事这样吩咐，要使你经受试验。”我说：“先生，我作了什么如此严重的恶事，竟要被交给这使者？”",
+      "reason": "concerning you是关于你作出命令，并非向你下令；澄清施受关系。"
+    },
+    {
+      "unit": "cJFA",
+      "block_id": "p0453",
+      "before": "他们一向纯朴、无害、蒙福，彼此不控告，常因神的众仆人大大喜乐，披上这些童女的圣灵；他们常怜悯每一个人，用自己劳力所得帮助每一个人，不责备，也不迟疑。",
+      "after": "他们一向纯朴、无害、蒙福，彼此不控告，常因神的众仆人大大喜乐，披上这些童女的圣洁之灵；他们常怜悯每一个人，用自己劳力所得帮助每一个人，不责备，也不迟疑。",
+      "reason": "Holy Spirit of these virgins回指象征各项美德的童女之灵；采用圣洁之灵，与p0373童女是圣洁的灵前后相合，避免童女的圣灵造成额外人格归属暗示；未删改原述。"
+    },
+    {
+      "unit": "cJFA",
+      "block_id": "p0530",
+      "before": "因此，凡轻看他、不遵行他命令的人，就是把自己交付死亡，各人流血的罪都要归到自己身上。",
+      "after": "因此，凡轻看他、不遵行他命令的人，就是把自己交付死亡，各人都要为自己的死担罪。",
+      "reason": "guilty of his own blood指为自己招致的死亡担责；原译各人流血的罪可能被读成杀害别人的罪，依据原文及参考明确反身关系。"
+    }
+  ],
+  "differences": [
+    "第1章网页作库买、女神，英文分别作villages、lady；保留现译乡村、尊贵夫人。网页第4章搀扶手臂，英文明确raised her on their shoulders，保留抬在肩上。第2章参考“广受尊崇”，英文all-chaste，保留全然贞洁。",
+    "网页5“库买”，英country，保留乡间。网页6“今日”为大限，英a certain day不确定某日，保留限定差别。网页7“偏行己路”，英neglect your sister，保留不要忽略。网页8“城市、工作”，英foreign countries/permission，依英调整许可语义。",
+    "网页9早上十一点，英文第五时辰；保留英文时制。网页11自制不足，英文shameless，保留不知羞愧。网页12“是否真的”，英文whether ... will be，保留会不会成就。",
+    "网页13:4为里面“有邪恶”，英文明确no iniquity has been found in them，现译没有发现不义准确，不能据中文改反。网页16信心女子手臂强壮，英文clasping her hands，保留双手交握。网页16诸德名称及排列与英文不同，沿英文纯朴/无伪/贞洁/悟性/爱，不据参考改名。",
+    "网页17“团体精神/富足有余/智慧”，英intemperance in eating/high in position/unity of aim；依英文保留饮食无度、身居高位、心志合一。网页20先前境况，英previous actions，保留先前行为。",
+    "网页22容易找到，英rarely traversed为少人通行；保留。网页22海怪及码制，英whale/furlong，保留鲸鱼和弗隆。网页23无全白衣、白鞋，英文有，完整保留。Segri与英文Thegri不同，沿英文忒格里。网页25至圣使者，英文most venerable，保留极其尊贵。",
+    "第26章：英文strength对应现译能力，不随参考改为美德；第27章英文holiness为圣洁，不随参考作敬畏。",
+    "第31章：英文保留主呼召百姓进入continuous life的句子，参考较短，不据此删去。",
+    "第33章：英文说两种灵彼此不和、搅扰人，参考说人不幸邪恶；按英文保留。",
+    "第34章：英文standing steadfast为站稳，不随参考作兴盛；英文恶行递进为愚昧、苦毒、怒气、狂暴，参考有不同层次，不扩充；英文purity保留纯洁，不改为圣者。",
+    "第37章：英文incomparable为无与伦比，不据参考改无可指摘；英文if you do not wish to do evil保留不愿行恶，不随参考改成想做恶。",
+    "第38章：英文having fewer needs为少有所求，不随参考作更贫穷；英文恶行清单不按参考增删。",
+    "第39章：英文even if he converts是即使悔改，与参考除非悔改不同；英文who does not give与参考赐予你的那位不同，保留英文否定。",
+    "第40—41章：英文crush out强调挤出，现译挤走圣灵保留，不仅依参考作压制；神的本性按英文nature of Divinity保留。",
+    "第43章：英文frequently convert保留屡次悔改，参考作频繁改变想法；英文水滴来自pitcher水罐，参考屋顶瓦，不混同。",
+    "第45章：英文有胜利冠冕与所得奖赏，参考较简，不删去；第47章feel疑为fool的旧修正经参考再次印证，保留原修正说明。",
+    "第48章：empty jars以酒变酸的上下文及参考理解为未装满，旧注已明确说明，本轮保留；英文try为试探，参考倒空不取。",
+    "第50章英文cannot return保留不能回，不采用参考没有打算；英文sacred译圣洁，不随参考改愉悦。",
+    "第51章英文master who helps him译帮助自己的主人，参考作供应他的上主；不因参考改变人物关系。",
+    "第54章英文无参考中愿学禁食的附加回答，不增补。",
+    "第55—58章英文stakes为藤蔓支柱，参考为篱笆，保留英文；第57章英文问为何不向主求悟性，参考没有不字，保留英文问句否定。",
+    "第58—59章儿子＝圣灵、奴仆＝神子等早期神学叙述保持原样；第59章英文body疑误对应Spirit的旧修正，经参考与上下文复核保留并已有说明。",
+    "第61及63章参考有英文缺少的割断先前罪、赞美公义审判官等句，不增补；第62章刑罚羊群的鞭打是明述形象，不抽象改为一般管教。",
+    "第64章时间比例照英文保留；第65章享乐可含行善喜悦，现译保持正反两面，不一概污名化；第66章受苦与悔改赦免关系原样保留，不作教义协调。",
+    "第67章英文offshoots是新枝，参考花蕾，继续按英文；尺寸一肘保留，不换算公分。",
+    "第69章英文没有与魔鬼摔跤得胜的句子，不增补；afflicted / suffered的区别按英文保存。",
+    "第70章英文粗麻束腰，不随参考改毛巾。",
+    "第71章参考列出一组原三分之二青绿的复查结果后再列三分之二枯萎；英文少一组且归类不同，现译忠实保留英文，不据参考增段。",
+    "第74—75章：英文两组均三分之二枯萎，参考第74为三分之二青绿；此具体数值仍待核，保留旧注及英文原样。",
+    "第76章英文being willingly put to death明确甘愿被处死，参考只说喜乐承受困苦，不弱化英文。",
+    "第77章参考有罪上加罪者被定罪等附加句，英文没有，不补入。",
+    "第78章圣灵＝神子叙述按英文保留，未按后世神学改写；第79章英文磐石容纳全世界、门在阳光下闪耀，不随参考改为世界都能看见或比太阳更亮。",
+    "第80—81章英文石头自动升起、不曾从采石场凿出，保留这些细节；参考第81覆盖整块磐石的句子未见于英文，不补入。",
+    "第83章英文每石敲三次，参考无次数，保留三次；scabs/chipped按疮痂/缺损，不随参考改粗糙/太短。",
+    "第86章参考黑衣女人束腰露肩的细节，英文此处无，未增补（后文381英文有露肩则照译）。",
+    "第87章英文生石灰与烧好的细黏土保留，参考灰泥及瓷片不取；英文须歇息不随参考改为忙。",
+    "第88章英文没有拥抱、亲吻脸颊的细节，不增加；第二时辰保留不换算早八点。",
+    "第90章英文received Name of God是神的名，不随参考改神儿子的名；第91章英文already destroyed比参考几乎被毁灭强，保留原力度。",
+    "第92章名字Understanding按悟性而非参考谅解；第93章亡者领受印记及水中升降叙述完整保留，不作教义调和。",
+    "第97章英文cleave为亲近，参考不来往；沿旧注保留英文，不擅加否定。",
+    "第99章英文became vain是变得虚妄，参考已经灭亡，保留英文；第101章meekness仍译温柔，不随参考增孩童纯真。",
+    "第103章英文servants不明确限定执事，现译仆人保留；scabs与chipped继续按疮痂及缺损，与前文石头形象一致。",
+    "第105章英文examined未明说拷打，不随参考增补；第106章英文first persons with Him为在他那里居首位，不随参考改永远站在一起。",
+    "第107章英文not taken away forever保留不是永远夺去，与参考不全然拿走有差别；第108章必入神国、无人灭亡的原文主张完整保留。",
+    "第109章英文heal yourselves译医治自己，不随参考改修直道路；fuller按漂布工语境保留；第110章石头shape按上下文填补的凹痕理解，旧注保留。",
+    "第111章experience按阅历，moderation按节制/对人的宽容分别理解；第112章英文His life及在主那里自有尊荣的句子，保留英文表述，不按参考删改。",
+    "第113章英文have all influence with Lord译在主面前大有影响力，不随参考改得蒙喜悦；第114章英文没有别的塔及末段离去再差回、阿们，参考无此尾段，全文照英文保留。"
+  ],
+  "unit_status": {
+    "cJDH": "complete",
+    "cJDW": "complete",
+    "cJEC": "complete",
+    "cJFA": "complete"
+  },
+  "coverage_summary": {
+    "fhl_chapters_actually_compared": 114,
+    "fhl_chapter_range": "001—114",
+    "english_units_reviewed": [
+      "cJDH",
+      "cJDW",
+      "cJEC",
+      "cJFA"
+    ],
+    "english_blocks_total": 981,
+    "intro_note": "cJDH为书卷导航与英文编者引言，网站无对应；单独依据英文复核，不伪称逐章有中文对应。",
+    "method": "全部网页正文已经实际阅读，以内容对应旧英文981块及现译；第二轮复核修订前后、英文措辞、版本差异、段落编号及完整性。准确旧译维持原样，不为参考而改写。"
+  },
+  "validation": {
+    "cJDH": {
+      "state": "complete",
+      "blocks": 5
+    },
+    "cJDW": {
+      "state": "complete",
+      "blocks": 200
+    },
+    "cJEC": {
+      "state": "complete",
+      "blocks": 231
+    },
+    "cJFA": {
+      "state": "complete",
+      "blocks": 545
+    }
+  },
+  "change_count": 18,
+  "reference_usage": "未在交付文档中复制FHL网页正文；只记录URL及自主译文的改前改后与对照结论。网页保存于本地缓存供核对。"
+}

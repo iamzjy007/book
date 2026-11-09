@@ -30,7 +30,12 @@
     }
   ],
   "references": [
-    "已检索基督教典外文献（共10册）_手机版.txt，未找到本书对应全文；另一资料18黑马牧人书.txt为不同作品。本单元直接依英文底本翻译。"
+    "已检索基督教典外文献（共10册）_手机版.txt，未找到本书对应全文；另一资料18黑马牧人书.txt为不同作品。本单元直接依英文底本翻译。",
+    {
+      "source": "黄锡木主编《使徒教父著作》",
+      "url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E9%9D%A9%E5%88%A9%E5%85%8D%E4%B8%80%E4%B9%A6&chap=053",
+      "usage": "语义及句式对读；译文仍依指定英文，独立措辞。"
+    }
   ],
   "notes": []
 }

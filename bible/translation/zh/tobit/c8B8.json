@@ -78,7 +78,12 @@
     }
   ],
   "references": [
-    "参考同TXT 21621—21633行，多比传六章；保持英文1—17节，2节为吞下非咬脚，9节地点Rages按英文作拉基；不混入参考本向眼吹气等文字。"
+    "参考同TXT 21621—21633行，多比传六章；保持英文1—17节，2节为吞下非咬脚，9节地点Rages按英文作拉基；不混入参考本向眼吹气等文字。",
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=6",
+      "location": "多比传 第6章",
+      "use": "FHL中文辅助核对，实际匹配范围和版本差异见 reference-review/fhl-dydi-d.json；英文仍为底本。"
+    }
   ],
   "notes": [
     "译者待核实问题：六9英文作“临近拉基”，而六5及七1叙述抵达亚巴他拿；保留本节英文地名，不以参考本改写行程。"

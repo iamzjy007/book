@@ -1,0 +1,271 @@
+{
+  "reviewer": "lori_a",
+  "date": "2026-11-09",
+  "method": "10个实际参考章节完整阅读，并与指定英文和现译逐段独立核对。英文控制版本、节号、数量和叙事细节；无整段复制参考或全局称谓替换。修订后再次对照英文复审。",
+  "pages": [
+    {
+      "reference_key": "斯補",
+      "reference_chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%96%AF%E8%A3%9C&chap=1",
+      "book_id": "apocryphal-esther",
+      "unit_ids": [
+        "c84Y",
+        "c855"
+      ],
+      "mapping": "FHL1:1—11对应英文11:2—12，1:12—17对应英文12:1—6。",
+      "retained_differences": "亚达薛西、示每、约雅斤及宦官名字按英文本形式保留，不据参考更换王名或音译；第11章卷首的译本传承记在参考第6章末。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "斯補",
+      "reference_chapter": 2,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%96%AF%E8%A3%9C&chap=2",
+      "book_id": "apocryphal-esther",
+      "unit_ids": [
+        "c85C"
+      ],
+      "mapping": "FHL2:1—7对应英文13:1—7。",
+      "retained_differences": "保留诏书英文具体句意；亚达月十四日与后文十三日不同，仍各从底本，不统一。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "斯補",
+      "reference_chapter": 3,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%96%AF%E8%A3%9C&chap=3",
+      "book_id": "apocryphal-esther",
+      "unit_ids": [
+        "c85C",
+        "c85K"
+      ],
+      "mapping": "FHL3:1—11对应英文13:8—18；3:12—30对应英文14:1—19。",
+      "retained_differences": "保留英文脚所踏之处、扯下头发散在旧日欢喜之处、众神之王等表述；不改成参考版本的脚趾或蓬松头发等。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "斯補",
+      "reference_chapter": 4,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%96%AF%E8%A3%9C&chap=4",
+      "book_id": "apocryphal-esther",
+      "unit_ids": [
+        "c85U"
+      ],
+      "mapping": "FHL4:1—16对应英文15:4—19；英文15:1—3为参考本页未列的末底改嘱咐。",
+      "retained_differences": "保留英文额外三节、触杖与亲吻等细节；兄长按英文原词保留，参考本页也支持兄弟称谓，未将其解释为血亲。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "斯補",
+      "reference_chapter": 5,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%96%AF%E8%A3%9C&chap=5",
+      "book_id": "apocryphal-esther",
+      "unit_ids": [
+        "c861"
+      ],
+      "mapping": "FHL5:1—24对应英文16:1—24。",
+      "retained_differences": "保留诏书作废、哈曼亲属受刑、协助杀敌及毁城等英文表达，不以参考的自缢等差异替换；16:10孤立I的已有原文修正有上下文支持，保持说明。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "斯補",
+      "reference_chapter": 6,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%96%AF%E8%A3%9C&chap=6",
+      "book_id": "apocryphal-esther",
+      "unit_ids": [
+        "c84Y"
+      ],
+      "mapping": "FHL6:11对应英文11:1；FHL6:1—10（传统10:4—13解梦段）在指定英文两处以斯帖书卷均无对应。",
+      "retained_differences": "按英文将译本传承记保留在卷首，不添加参考独有解梦段。只读核实正典esther10仅1—3节，未修改正典。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "童",
+      "reference_chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E7%AB%A5&chap=1",
+      "book_id": "apocryphal-daniel",
+      "unit_ids": [
+        "c888"
+      ],
+      "mapping": "FHL三童歌1:1—68对应英文3B:1—68；若干颂赞对象顺序不同。",
+      "retained_differences": "36—37、47—50、55—56的次序与对象按英文保留；naphtha/pitch、四十九肘、暴风雪等不改为参考用词或本地量制。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "蘇",
+      "reference_chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E8%98%87&chap=1",
+      "book_id": "apocryphal-daniel",
+      "unit_ids": [
+        "c88N"
+      ],
+      "mapping": "FHL苏撒拿传1:1—64对应英文13:1—64。",
+      "retained_differences": "保留既定人名苏珊娜、约雅敬、希勒家；两树具体名称依英文，圣洁之灵保持指但以理的表达，不增写神学判断。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "勒",
+      "reference_chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E5%8B%92&chap=1",
+      "book_id": "apocryphal-daniel",
+      "unit_ids": [
+        "c892"
+      ],
+      "mapping": "FHL比勒与大龙1:1—42对应英文14:1—42；页中可用正文为一列。",
+      "retained_differences": "差异显著：参考的父名、木屑、双方封印、人物发话、龙饵重量、刑犯数目和送饭细节不移入英文；保留灰、两具尸体两只羊及英文食物量词。",
+      "reviewed": true
+    },
+    {
+      "reference_key": "禱",
+      "reference_chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E7%A6%B1&chap=1",
+      "book_id": "prayer-of-manasseh",
+      "unit_ids": [
+        "c9VR"
+      ],
+      "mapping": "参考3—4节合为英文第3节；参考5节涵盖英文4—5节；参考7—8节重新划分为英文7—8节；全篇均有对应。",
+      "retained_differences": "保留英文15节划分、祖先未犯罪的原书论断、铁链、地的深处及importable古义；不更换已有神称或敬称。",
+      "reviewed": true
+    }
+  ],
+  "changes": [
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c888",
+      "block_id": "p0017",
+      "before": "然而，求你悦纳我们忧伤的心、谦卑的灵，",
+      "after": "然而，求你悦纳我们这心存痛悔、灵里谦卑的人，",
+      "reason": "let us be accepted 的受纳对象是我们；保留痛悔之心及谦卑之灵的条件，避免把对象只译成心和灵。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E7%AB%A5&chap=1"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c888",
+      "block_id": "p0018",
+      "before": "如同悦纳公绵羊、公牛的燔祭，以及千千万万肥美的羊羔。愿我们今日的祭在你面前也蒙这样的悦纳，使我们全心跟随你；因为倚靠你的人，必不至羞愧。",
+      "after": "如同悦纳公绵羊、公牛的燔祭，以及成万的肥美羊羔。愿我们今日的祭在你面前也蒙这样的悦纳，使我们全心跟随你；因为倚靠你的人，必不至羞愧。",
+      "reason": "tens of thousands 为数万量级；不扩大为千千万万，也不据参考缩成一万。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E7%AB%A5&chap=1"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c88N",
+      "block_id": "p0018",
+      "before": "她对婢女说：“取油和沐浴用的香膏球来，把园门关上，我要洗澡。”",
+      "after": "她对婢女说：“取油和沐浴用的皂球来，把园门关上，我要洗澡。”",
+      "reason": "washing balls 是洗浴清洁用品；香膏偏向涂抹香料，皂球更清楚，同时保留英文球状形制。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E8%98%87&chap=1"
+    },
+    {
+      "book_id": "prayer-of-manasseh",
+      "unit_id": "c9VR",
+      "block_id": "p0008",
+      "before": "因为祢是至高的主，大有慈悲，恒久忍耐，丰盛怜悯，不轻易降祸与人。",
+      "after": "因为祢是至高的主，大有慈悲，恒久忍耐，丰盛怜悯，转意不降灾祸与人。",
+      "reason": "relenting of bringing evils 表达转意撤回灾祸，不只是行事迟缓或不轻易降灾。",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E7%A6%B1&chap=1"
+    }
+  ],
+  "mapping_only": [
+    {
+      "reference_key": "耶信",
+      "reference_chapter": 1,
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E8%80%B6%E4%BF%A1&chap=1",
+      "downloaded": true,
+      "full_review_completed": false,
+      "english_book_id": "1-baruch",
+      "unit_id": "c94V",
+      "blocks": "p0011标题；p0012—p0084为1—73节",
+      "finding": "已实际读取英文该单元标题和开头、末节确认合卷归属；交由dydi_c完整审校，不计入本代理的10章完整阅读。正典jeremiah未修改。"
+    }
+  ],
+  "validation": [
+    {
+      "book_id": "apocryphal-esther",
+      "unit_id": "c84K",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-esther",
+      "unit_id": "c84Y",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-esther",
+      "unit_id": "c855",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-esther",
+      "unit_id": "c85C",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-esther",
+      "unit_id": "c85K",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-esther",
+      "unit_id": "c85U",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-esther",
+      "unit_id": "c861",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c87P",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c881",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c888",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c88F",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c88N",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c88W",
+      "status": "complete"
+    },
+    {
+      "book_id": "apocryphal-daniel",
+      "unit_id": "c892",
+      "status": "complete"
+    },
+    {
+      "book_id": "prayer-of-manasseh",
+      "unit_id": "c9VD",
+      "status": "complete"
+    },
+    {
+      "book_id": "prayer-of-manasseh",
+      "unit_id": "c9VR",
+      "status": "complete"
+    }
+  ],
+  "note_changes": [
+    {
+      "book_id": "apocryphal-esther",
+      "unit_id": "c85U",
+      "before": "译者注（十五12）：英文本为“I am your brother”，译作“我是你的兄长”。参考译本作“我是你的丈夫”，未用参考译本替换本版措辞；这里不据此判定人物的血缘关系。",
+      "after": "译者注（十五12）：英文本为“I am your brother”，译作“我是你的兄长”。原先所用TXT参考译本作“我是你的丈夫”，未用参考译本替换本版措辞；这里不据此判定人物的血缘关系。",
+      "reason": "新增FHL参考后明确旧说明指原TXT参考，避免误说本次FHL也用丈夫；本次FHL实际为兄长称谓。"
+    }
+  ]
+}

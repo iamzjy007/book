@@ -74,7 +74,12 @@
     }
   ],
   "references": [
-    "bible/基督教典外文献（共10册）_手机版.txt：31121—31218；参考措辞，以英文内容与分节为准。"
+    "bible/基督教典外文献（共10册）_手机版.txt：31121—31218；参考措辞，以英文内容与分节为准。",
+    {
+      "source": "信望爱次经阅读：c1933/chdc两列",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=49",
+      "usage": "逐章对读语义与句式；以指定英文为准独立修订，保留底本差异。"
+    }
   ],
   "notes": [
     "49:9—10 英文代词的承接略含混；按神记念、施恩并安慰拯救的上下文译作“祂”。中文参考的约伯叙述不见于本英文版本，未补入。"

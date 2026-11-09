@@ -1,5 +1,7 @@
 # 历史及教父作品翻译
 
+2026-11-09 信望爱《使徒教父著作》参考修订已完成，实际对应范围、改译与底本差异见 [reference-review](reference-review/README.md)。网站只覆盖其中的使徒教父选集，不代表本轮重新审校了全部54项历史教父作品；次经参考修订另见 [上级记录](../reference-review/README.md)。
+
 用户授权范围：原清单暂缓的54项，按原书顺序全译。遵循根style-guide.md及上级README中的忠实、自然、庄重原则；不把历史叙述或论辩改写成先知宣告。中文参考有对应段落时借鉴，但原文缺有和不同读法以英文为准。
 
 本目录pipeline、queue、assemble独立运行，不能操作上一轮队列。每单元读取全部blocks、核对原XHTML及资产，逐段完整翻译、两轮审校，再reviewed=true；长单元先保存drafts，禁止摘要代替全文。refs/notes据实际填写。完成当前任务后持续queue.py claim自身名字直到null，不等待主代理。主代理统一汇编和推送。

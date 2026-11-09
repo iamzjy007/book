@@ -126,7 +126,7 @@
     },
     {
       "id": "p0031",
-      "zh": "主说：“到了那里的，就必看见。”"
+      "zh": "主说：“经历那些日子的人，自会看见。”"
     },
     {
       "id": "p0032",
@@ -246,7 +246,7 @@
     },
     {
       "id": "p0061",
-      "zh": "各人都尽自己的能力加以翻译。"
+      "zh": "各人都尽自己的能力加以译解。"
     },
     {
       "id": "p0062",
@@ -262,7 +262,37 @@
     }
   ],
   "references": [
-    "bible/基督教典外文献（共10册）_手机版.txt：检索帕皮亚等译名未找到本书对应正文；18黑马牧人书.txt属另一作品。依据英文逐块翻译。"
+    "bible/基督教典外文献（共10册）_手机版.txt：检索帕皮亚等译名未找到本书对应正文；18黑马牧人书.txt属另一作品。依据英文逐块翻译。",
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=003",
+      "location": "帕皮亚残篇 第3篇",
+      "use": "按内容而非编号对应，映射及未重合部分详见 reference-review/dydi_d.json；未添加参考独有正文。"
+    },
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=015",
+      "location": "帕皮亚残篇 第15篇",
+      "use": "按内容而非编号对应，映射及未重合部分详见 reference-review/dydi_d.json；未添加参考独有正文。"
+    },
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=018",
+      "location": "帕皮亚残篇 第18篇",
+      "use": "按内容而非编号对应，映射及未重合部分详见 reference-review/dydi_d.json；未添加参考独有正文。"
+    },
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=014",
+      "location": "帕皮亚残篇 第14篇",
+      "use": "按内容而非编号对应，映射及未重合部分详见 reference-review/dydi_d.json；未添加参考独有正文。"
+    },
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E8%A1%86%E9%95%BF%E8%80%81%E7%9A%84%E4%BC%A0%E7%BB%9F&chap=005",
+      "location": "衆长老的传统 第5篇",
+      "use": "按内容而非编号对应，映射及未重合部分详见 reference-review/dydi_d.json；未添加参考独有正文。"
+    },
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E5%B8%95%E7%9A%AE%E4%BA%9A%E6%AE%8B%E7%AF%87&chap=011",
+      "location": "帕皮亚残篇 第11篇",
+      "use": "按内容而非编号对应，映射及未重合部分详见 reference-review/dydi_d.json；未添加参考独有正文。"
+    }
   ],
   "notes": [
     "残篇四：metretes（梅特雷特）是古代液量单位，常按约39升理解；此处保留原单位及夸张数目，未换算改写正文。"

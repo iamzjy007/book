@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-09",
+  "base_commit": "68e7e02832a6ac082370ca6e047fba1219bc6e17",
+  "status": "reference_review_complete",
+  "meaning": "仅覆盖下列对应作品；不宣称全部典外与历史教父文集重新审校。逐项参考范围及疑义见工作者记录。",
+  "groups": {
+    "apostolic_fathers_history": {
+      "books": [
+        {
+          "book_id": "1-clement",
+          "source_units": 66,
+          "source_blocks": 466,
+          "changed_body_blocks": 16,
+          "structural_validation": "complete",
+          "txt": "bible/translation/history-patristics/output/001_革利免一书.txt",
+          "txt_sha256": "888a41331759d8f651cab514e356b4e997c10230a2b65b87270405817f610422"
+        },
+        {
+          "book_id": "2-clement",
+          "source_units": 21,
+          "source_blocks": 140,
+          "changed_body_blocks": 13,
+          "structural_validation": "complete",
+          "txt": "bible/translation/history-patristics/output/002_革利免二书.txt",
+          "txt_sha256": "939462c2106e03c88f42424f480ad9d68cd7335963c483f9685f4ac96f5cd00f"
+        },
+        {
+          "book_id": "seven-epistles-of-ignatius",
+          "source_units": 99,
+          "source_blocks": 314,
+          "changed_body_blocks": 19,
+          "structural_validation": "complete",
+          "txt": "bible/translation/history-patristics/output/003_伊格那丢七书信.txt",
+          "txt_sha256": "92876d184a28efcf5a76ef0a8efeba52b988543460b514e73b81dd911bf31270"
+        },
+        {
+          "book_id": "epistle-of-polycarp-to-the-philippians",
+          "source_units": 16,
+          "source_blocks": 55,
+          "changed_body_blocks": 4,
+          "structural_validation": "complete",
+          "txt": "bible/translation/history-patristics/output/004_坡旅甲致腓立比人书.txt",
+          "txt_sha256": "0d76896e56500d898dedd8832a1b5d27ab89a9c1ee96aa44b410ad268e97c580"
+        },
+        {
+          "book_id": "martyrdom-of-polycarp",
+          "source_units": 23,
+          "source_blocks": 78,
+          "changed_body_blocks": 4,
+          "structural_validation": "complete",
+          "txt": "bible/translation/history-patristics/output/005_坡旅甲殉道记.txt",
+          "txt_sha256": "faac1c0413986407094a0c677e4d46136d2a5ca57145d50155a79bcbcea4c492"
+        },
+        {
+          "book_id": "epistle-of-mathetes-to-diognetus",
+          "source_units": 13,
+          "source_blocks": 114,
+          "changed_body_blocks": 10,
+          "structural_validation": "complete",
+          "txt": "bible/translation/history-patristics/output/006_门徒致丢格那妥书.txt",
+          "txt_sha256": "578f1182de9a4457e0774e01c36db645d897326709e628dbe3303a10ebfaf149"
+        },
+        {
+          "book_id": "exposition-of-the-oracles-of-the-lord",
+          "source_units": 2,
+          "source_blocks": 67,
+          "changed_body_blocks": 2,
+          "structural_validation": "complete",
+          "txt": "bible/translation/history-patristics/output/007_主言解说.txt",
+          "txt_sha256": "6cd7dce2c4946aa762f256417d0d2f0e862e57a8e7cc6c53478c78b975b8f25e"
+        }
+      ],
+      "book_entries": 7,
+      "source_units": 240,
+      "changed_body_blocks": 68
+    },
+    "apostolic_fathers_previous_project": {
+      "books": [
+        {
+          "book_id": "didache",
+          "source_units": 17,
+          "source_blocks": 119,
+          "changed_body_blocks": 5,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/043_十二使徒遗训.txt",
+          "txt_sha256": "ca48fda38bcaa46f544ce35744d9ace58018299459dd19dfddb08b45f7058d48"
+        },
+        {
+          "book_id": "epistle-of-barnabas",
+          "source_units": 22,
+          "source_blocks": 217,
+          "changed_body_blocks": 10,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/047_巴拿巴书信.txt",
+          "txt_sha256": "bee415c00297648ff2f9393165d57d6fdbe3a12404d55c92125d035a77e30212"
+        },
+        {
+          "book_id": "the-shepherd-of-hermas",
+          "source_units": 4,
+          "source_blocks": 981,
+          "changed_body_blocks": 18,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/052_黑马牧人书.txt",
+          "txt_sha256": "5e39800cdd7144b0958e1b1edf1a4165e73ab5dfcc7e537c1d419fab80f53844"
+        }
+      ],
+      "book_entries": 3,
+      "source_units": 43,
+      "changed_body_blocks": 33
+    },
+    "apocrypha": {
+      "books": [
+        {
+          "book_id": "apocryphal-esther",
+          "source_units": 7,
+          "source_blocks": 106,
+          "changed_body_blocks": 0,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/001_以斯帖补篇.txt",
+          "txt_sha256": "76b2424c53ed553f6bbc1fdfae73b00126872d580c69f60802947f3b5405e962"
+        },
+        {
+          "book_id": "apocryphal-daniel",
+          "source_units": 7,
+          "source_blocks": 185,
+          "changed_body_blocks": 3,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/003_但以理补篇.txt",
+          "txt_sha256": "35c6573cf7e63d087578aa0052b8c8075598c39f97646dbf57282636c61f3ff6"
+        },
+        {
+          "book_id": "tobit",
+          "source_units": 15,
+          "source_blocks": 260,
+          "changed_body_blocks": 5,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/005_多比传.txt",
+          "txt_sha256": "a444b82c9852ca214098dd73049b733ebd606a9c12bba4c1e4599b47bbd8f486"
+        },
+        {
+          "book_id": "judith",
+          "source_units": 17,
+          "source_blocks": 357,
+          "changed_body_blocks": 6,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/006_犹滴传.txt",
+          "txt_sha256": "a1bad1be0ffdfb33d957ec28a65c4e7d89e07c0b1553054eef1abc822ee5cbec"
+        },
+        {
+          "book_id": "wisdom",
+          "source_units": 20,
+          "source_blocks": 458,
+          "changed_body_blocks": 25,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/007_所罗门智训.txt",
+          "txt_sha256": "93955ccc7a3a37cfb64c128d00c12c96a8f2f61f76d9d32653c06a48c15ed334"
+        },
+        {
+          "book_id": "sirach",
+          "source_units": 52,
+          "source_blocks": 1447,
+          "changed_body_blocks": 26,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/008_便西拉智训.txt",
+          "txt_sha256": "7ba5b527fc8c56d9f022f25ee01980faee77c6cbe53fb25c00e58c69addbd467"
+        },
+        {
+          "book_id": "1-baruch",
+          "source_units": 6,
+          "source_blocks": 222,
+          "changed_body_blocks": 9,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/009_巴录一书.txt",
+          "txt_sha256": "8f0235d54bfc97006c0e1b8a6df40af8d80eda5bb029a7174083620a658718c6"
+        },
+        {
+          "book_id": "1-maccabees",
+          "source_units": 17,
+          "source_blocks": 942,
+          "changed_body_blocks": 8,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/010_马加比一书.txt",
+          "txt_sha256": "9a44d7c0f74276fc28ec5ac4ecaac914642c2f2a162351e4fa4cfc04983e4b40"
+        },
+        {
+          "book_id": "2-maccabees",
+          "source_units": 16,
+          "source_blocks": 572,
+          "changed_body_blocks": 11,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/011_马加比二书.txt",
+          "txt_sha256": "140eb21c4d6d63a9e7001531d6e798cfadd5bf35478f06cb2f7cc80298d7607a"
+        },
+        {
+          "book_id": "1-esdras",
+          "source_units": 10,
+          "source_blocks": 460,
+          "changed_body_blocks": 2,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/012_以斯拉一书.txt",
+          "txt_sha256": "eb80c2a23a2c1343e0e667de5ef97f7f571d78876561eab7a288fe2f7a271de7"
+        },
+        {
+          "book_id": "2-esdras",
+          "source_units": 17,
+          "source_blocks": 963,
+          "changed_body_blocks": 17,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/013_以斯拉二书.txt",
+          "txt_sha256": "c48ec50e42ae421d4f04e9f6e37263ae7792765970247e32203b97c8df2bc435"
+        },
+        {
+          "book_id": "prayer-of-manasseh",
+          "source_units": 2,
+          "source_blocks": 18,
+          "changed_body_blocks": 1,
+          "structural_validation": "complete",
+          "txt": "bible/translation/output/016_玛拿西祷词.txt",
+          "txt_sha256": "199de1e9dcf5a3f1d987cfb2708561c429ac6a733bb55b2f8b817104b3746a82"
+        }
+      ],
+      "book_entries": 12,
+      "source_units": 186,
+      "changed_body_blocks": 113
+    }
+  },
+  "totals": {
+    "book_entries": 22,
+    "source_units": 469,
+    "changed_body_blocks": 214
+  },
+  "reference_limitations": [
+    "以斯拉一书：第3、4章有完整对应中文；第5章仅1—6节；第1章为平行经文摘录；第2及6—9章只有转引或未返回正文。全部英文与现译已校读，不将其称作全九章三方核对。",
+    "以斯帖补编参考独有解梦段在指定英文范围外，未补入。",
+    "两列1933经文不默认视为独立译本。",
+    "历史教父网站只覆盖使徒教父选集；不同编次和异读依逐项记录处理。"
+  ],
+  "checks": {
+    "canonical_books_changed": false,
+    "source_fingerprints_and_block_order_unchanged": true,
+    "all_reviewed_units_validate": true,
+    "txt_rebuild_byte_identical": true,
+    "full_chinese_web_pages_committed": false
+  }
+}

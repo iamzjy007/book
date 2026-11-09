@@ -146,7 +146,12 @@
     }
   ],
   "references": [
-    "bible/基督教典外文献（共10册）_手机版.txt：32865—32888；参考措辞，以英文内容、分节及亲属关系为准。"
+    "bible/基督教典外文献（共10册）_手机版.txt：32865—32888；参考措辞，以英文内容、分节及亲属关系为准。",
+    {
+      "source": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=5",
+      "location": "第5章第6节附注对第6章的转引",
+      "use": "网页采用转引/节录，无本章次经正文；仅核查参考覆盖并重读英文与现译，不宣称全章三方对照。"
+    }
   ],
   "notes": [
     "6:18/20 Sanabassarus按上下文与本卷对应人物采用“设巴萨”；6:1 英文为易多的孙子，按英文保留。"

@@ -1,0 +1,1393 @@
+{
+  "book_id": "seven-epistles-of-ignatius",
+  "scope": "七书信全部99单元；英文控制内容，FHL仅供对照，不复制参考译文",
+  "reviewed_units": [
+    {
+      "unit": "cH8G",
+      "label": "SEVEN EPISTLES OF IGNATIUS",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=001",
+      "reference_correspondence": "英文编者目录与导言，网站无对应段落；核对英文及现译，不以正文第1章代替导言。",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ]
+    },
+    {
+      "unit": "cH8Z",
+      "label": "TO THE EPHESIANS",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=000",
+      "reference_correspondence": "卷首问候语已与网站第0章逐块对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cH98",
+      "label": "CHAPTER 1",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=001",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cH9G",
+      "label": "CHAPTER 2",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=002",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cH9S",
+      "label": "CHAPTER 3",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=003",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHA0",
+      "label": "CHAPTER 4",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=004",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHA8",
+      "label": "CHAPTER 5",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=005",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHAG",
+      "label": "CHAPTER 6",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=006",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHAS",
+      "label": "CHAPTER 7",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=007",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHB0",
+      "label": "CHAPTER 8",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=008",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHB8",
+      "label": "CHAPTER 9",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=009",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHBG",
+      "label": "CHAPTER 10",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=010",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHBS",
+      "label": "CHAPTER 11",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=011",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHC0",
+      "label": "CHAPTER 12",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=012",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHC8",
+      "label": "CHAPTER 13",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=013",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHCG",
+      "label": "CHAPTER 14",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=014",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHCS",
+      "label": "CHAPTER 15",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=015",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHD0",
+      "label": "CHAPTER 16",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=016",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHD8",
+      "label": "CHAPTER 17",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=017",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHDG",
+      "label": "CHAPTER 18",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=018",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHDS",
+      "label": "CHAPTER 19",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=019",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHE0",
+      "label": "CHAPTER 20",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=020",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHE8",
+      "label": "CHAPTER 21",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%A5%E5%BC%97%E6%89%80%E4%BA%BA%E4%B9%A6&chap=021",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHEG",
+      "label": "TO THE MAGNESIANS",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=000",
+      "reference_correspondence": "卷首问候语已与网站第0章逐块对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHES",
+      "label": "CHAPTER 1",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=001",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHF0",
+      "label": "CHAPTER 2",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=002",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHF8",
+      "label": "CHAPTER 3",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=003",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHFG",
+      "label": "CHAPTER 4",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=004",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHFS",
+      "label": "CHAPTER 5",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=005",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHG0",
+      "label": "CHAPTER 6",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=006",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHG8",
+      "label": "CHAPTER 7",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=007",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHGG",
+      "label": "CHAPTER 8",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=008",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHGS",
+      "label": "CHAPTER 9",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=009",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHH0",
+      "label": "CHAPTER 10",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=010",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHH8",
+      "label": "CHAPTER 11",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=011",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHHG",
+      "label": "CHAPTER 12",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=012",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHHS",
+      "label": "CHAPTER 13",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=013",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHJ0",
+      "label": "CHAPTER 14",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=014",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHJ8",
+      "label": "CHAPTER 15",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E9%A9%AC%E5%86%85%E5%A4%8F%E4%BA%BA%E4%B9%A6&chap=015",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHJG",
+      "label": "TO THE TRALLIANS",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=000",
+      "reference_correspondence": "卷首问候语已与网站第0章逐块对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHJS",
+      "label": "CHAPTER 1",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=001",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHK1",
+      "label": "CHAPTER 2",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=002",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHK9",
+      "label": "CHAPTER 3",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=003",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHKH",
+      "label": "CHAPTER 4",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=004",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHKT",
+      "label": "CHAPTER 5",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=005",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHM1",
+      "label": "CHAPTER 6",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=006",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHM9",
+      "label": "CHAPTER 7",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=007",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHMH",
+      "label": "CHAPTER 8",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=008",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHMT",
+      "label": "CHAPTER 9",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=009",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHN1",
+      "label": "CHAPTER 10",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=010",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHN9",
+      "label": "CHAPTER 11",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=011",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHNH",
+      "label": "CHAPTER 12",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=012",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHNT",
+      "label": "CHAPTER 13",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E4%BB%96%E6%8B%89%E5%8B%92%E4%BA%BA%E4%B9%A6&chap=013",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHP1",
+      "label": "TO THE ROMANS",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=000",
+      "reference_correspondence": "卷首问候语已与网站第0章逐块对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHPA",
+      "label": "CHAPTER 1",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=001",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHPJ",
+      "label": "CHAPTER 2",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=002",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHPU",
+      "label": "CHAPTER 3",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=003",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHR2",
+      "label": "CHAPTER 4",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=004",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHRA",
+      "label": "CHAPTER 5",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=005",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHRJ",
+      "label": "CHAPTER 6",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=006",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHRU",
+      "label": "CHAPTER 7",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=007",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHS2",
+      "label": "CHAPTER 8",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=008",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHSA",
+      "label": "CHAPTER 9",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=009",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHSJ",
+      "label": "CHAPTER 10",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E7%BD%97%E9%A9%AC%E4%BA%BA%E4%B9%A6&chap=010",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHSU",
+      "label": "TO THE PHILADELPHIANS",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2448&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "卷首问候语已与网站第0章逐块对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHT2",
+      "label": "CHAPTER 1",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2449&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHTA",
+      "label": "CHAPTER 2",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2451&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHTJ",
+      "label": "CHAPTER 3",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2453&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHTU",
+      "label": "CHAPTER 4",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2456&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHU2",
+      "label": "CHAPTER 5",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2457&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHUA",
+      "label": "CHAPTER 6",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2459&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHUJ",
+      "label": "CHAPTER 7",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2462&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHUU",
+      "label": "CHAPTER 8",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2464&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHV2",
+      "label": "CHAPTER 9",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2466&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHVA",
+      "label": "CHAPTER 10",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2468&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHVJ",
+      "label": "CHAPTER 11",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?id=2470&VERSION1=afhuang&TABFLAG=2",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHVU",
+      "label": "TO THE SMYRNAEANS",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=000",
+      "reference_correspondence": "卷首问候语已与网站第0章逐块对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHW2",
+      "label": "CHAPTER 1",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=001",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHWA",
+      "label": "CHAPTER 2",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=002",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHWJ",
+      "label": "CHAPTER 3",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=003",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHWU",
+      "label": "CHAPTER 4",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=004",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHX2",
+      "label": "CHAPTER 5",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=005",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHXA",
+      "label": "CHAPTER 6",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=006",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHXJ",
+      "label": "CHAPTER 7",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=007",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHXU",
+      "label": "CHAPTER 8",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=008",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHY2",
+      "label": "CHAPTER 9",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=009",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHYA",
+      "label": "CHAPTER 10",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=010",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHYJ",
+      "label": "CHAPTER 11",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=011",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHYU",
+      "label": "CHAPTER 12",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=012",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHZ2",
+      "label": "CHAPTER 13",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%A3%AB%E6%AF%8F%E6%8B%BF%E4%BA%BA%E4%B9%A6&chap=013",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cHZA",
+      "label": "TO POLYCARP",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=000",
+      "reference_correspondence": "卷首问候语已与网站第0章逐块对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002"
+      ]
+    },
+    {
+      "unit": "cHZJ",
+      "label": "CHAPTER 1",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=001",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cHZU",
+      "label": "CHAPTER 2",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=002",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cJ02",
+      "label": "CHAPTER 3",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=003",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cJ0A",
+      "label": "CHAPTER 4",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=004",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cJ0J",
+      "label": "CHAPTER 5",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=005",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cJ0U",
+      "label": "CHAPTER 6",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=006",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003"
+      ]
+    },
+    {
+      "unit": "cJ12",
+      "label": "CHAPTER 7",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=007",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "unit": "cJ1A",
+      "label": "CHAPTER 8",
+      "reference_url": "https://bkbible.fhl.net/gbdoc/AF/readaf.php?VERSION1=afhuang&TABFLAG=2&chineses=%E4%BC%8A%E6%A0%BC%E9%82%A3%E4%B8%A2%E8%87%B4%E5%9D%A1%E6%97%85%E7%94%B2%E4%B9%A6&chap=008",
+      "reference_correspondence": "正文逐章对照",
+      "blocks_checked": [
+        "p0001",
+        "p0002",
+        "p0003",
+        "p0004"
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "unit": "cH9S",
+      "block": "p0002",
+      "before": "我不是以为自己算得什么，才来命令你们。虽然我为这名的缘故受捆绑，却还没有在耶稣基督里得以完全。［因为］如今，我才开始作门徒；我向你们说话，如同对同学说话。我应当受你们训练，在信心、劝戒、坚忍和宽容上，预备这场争战。",
+      "after": "我并不是以命令的口吻对你们说话，仿佛自己是什么重要人物。虽然我为这名的缘故受捆绑，却还没有在耶稣基督里得以完全。［因为］如今，我才开始作门徒；我向你们说话，如同对同学说话。我应当受你们训练，在信心、劝戒、坚忍和宽容上，预备这场争战。",
+      "reason": "英文I do not command否定命令行为，旧译容易变成仅否定命令动机；独立按英文重写。"
+    },
+    {
+      "unit": "cHC0",
+      "block": "p0003",
+      "before": "那些正在走向为神而死之路的人，以你们为大道。你们与保罗在奥秘中同作伙伴；他得以成圣，得了美好见证，配受一切赞许。我愿在到神那里去的时候，被看为跟随他的脚踪。他在每封信里，都在基督耶稣里提到你们。",
+      "after": "你们是那些正赴死归向神之人所经过的大道。你们与保罗在奥秘中同作伙伴；他得以成圣，得了美好见证，配受一切赞许。我愿在到神那里去的时候，被看为跟随他的脚踪。他在每封信里，都在基督耶稣里提到你们。",
+      "reason": "按英文high-road与on their way to die to God理清意象，消除旧译绕口关系，不补入参考本的被杀。"
+    },
+    {
+      "unit": "cHCS",
+      "block": "p0002",
+      "before": "宁可静默而实有所是，也不要空谈而名不副实。教导是美好的事，只要说话的人，亲自实行［所教导的］。有一位教师，祂说了，事就成了；甚至祂在静默中所作的，也配得过父。",
+      "after": "宁可沉默而有实质，也不要空谈而名不副实。教导是美好的事，只要说话的人，亲自实行［所教导的］。有一位教师，祂说了，事就成了；甚至祂在静默中所作的，也配得过父。",
+      "reason": "英文to be与not to be对照，去除不自然的哲学式硬译，未扩大为额外行为。"
+    },
+    {
+      "unit": "cHD0",
+      "block": "p0003",
+      "before": "在肉身方面作这种事的人，尚且被处死；若有人用邪恶的教训，败坏那耶稣基督为之钉十字架、对神的信仰，岂不更当受刑吗？这样的人，污秽了自己，必进入不灭的火；听从他的人，也必如此。",
+      "after": "在肉身方面作这种事的人，尚且被处死；若有人用邪恶的教训，败坏对神的信仰，而耶稣基督正是为这信仰被钉十字架，岂不更当受刑吗？这样的人，污秽了自己，必进入不灭的火；听从他的人，也必如此。",
+      "reason": "理清faith与关系从句，保留作者论断，消除多重前置修饰。"
+    },
+    {
+      "unit": "cHDS",
+      "block": "p0003",
+      "before": "那么，它们怎样向历世显明呢？天上［［或天空中］］有一颗星显现，比一切星都明亮，光辉难以言喻，奇异得令人惊叹。其余星群和日月，在它周围组成诗班，然而那颗星本身的光辉，远远胜过它们。众者困惑，不知这与自己截然不同的奇异景象，从何而来。",
+      "after": "那么，它们怎样向历世显明呢？天上［［或天空中］］有一颗星显现，比一切星都明亮，光辉难以言喻，奇异得令人惊叹。其余星群和日月，在它周围组成诗班，然而那颗星本身的光辉，远远胜过它们。这奇异景象与众星如此不同，究竟从何而来，令人困惑。",
+      "reason": "英文there was perplexity未指定众星自己困惑；避免旧译众者/自己擅定主体。"
+    },
+    {
+      "unit": "cHH0",
+      "block": "p0002",
+      "before": "所以，让我们不要对祂的良善毫无感受。祂若照我们所行的，仿效我们待祂的方式待我们，我们就灭亡了。因此，我们既作了祂的门徒，就当学习，过与基督信仰相称的生活。凡在这名之外，以别的名自称的，就不属神。",
+      "after": "所以，让我们不要对祂的良善毫无感受。祂若也照我们所行的来行事，我们就灭亡了。因此，我们既作了祂的门徒，就当学习，过与基督信仰相称的生活。凡在这名之外，以别的名自称的，就不属神。",
+      "reason": "according to our deeds指我们的行为，原译额外限缩为我们待神的方式；恢复英文范围并使句式自然。"
+    },
+    {
+      "unit": "cHK1",
+      "block": "p0004",
+      "before": "同样，那些服事耶稣基督奥秘的执事，也必须在各方面，使众人喜悦。他们不是伺候饮食的人，而是神教会的执事。所以，他们应当防备过失，如同防备火一样。",
+      "after": "同样，那些服事耶稣基督奥秘的执事，也必须在各方面，使众人喜悦。他们不是伺候饮食的人，而是神教会的执事。所以，他们应当躲避责难，如同躲避火一样。",
+      "reason": "blame为责难而非过失本身，参考对照也支持此义。"
+    },
+    {
+      "unit": "cHN1",
+      "block": "p0002",
+      "before": "但若真如某些不敬神、也就是不信的人所说，祂只是在表面上受苦——这些人自己才徒有其表——我为什么受捆绑？为什么还渴望与野兽搏斗？这样，我就是徒然赴死，也实在是在说谎，反对主。",
+      "after": "但若真如某些不敬神、也就是不信的人所说，祂只是在表面上受苦——这些人自己才徒有其表——我为什么受捆绑？为什么还渴望与野兽搏斗？这样，我就是徒然赴死，也实在是在为主作虚假的见证。",
+      "reason": "lie against the Lord在受难真假论证中指有关主的虚假见证，不是两个独立行为说谎及反对主。"
+    },
+    {
+      "unit": "cHNH",
+      "block": "p0002",
+      "before": "我在士每拿，与你们问安，同在这里的神的众教会也向你们问安；他们在各方面，无论身体还是心灵，都使我得着舒畅。",
+      "after": "我在士每拿，向你们问安，同在这里的神的众教会也向你们问安；他们在各方面，无论身体还是心灵，都使我得着舒畅。",
+      "reason": "改正问安的介词误写。"
+    },
+    {
+      "unit": "cHNH",
+      "block": "p0003",
+      "before": "我为耶稣基督所带的锁链，恳求我能到神那里去，也劝勉你们：要持守和睦，彼此一同祷告。你们各人，尤其是长老，理当使监督的心灵欢喜，尊荣父，〔也尊荣〕耶稣基督和众使徒。",
+      "after": "我为耶稣基督身带锁链，恳求自己能到神那里去。这锁链也劝勉你们：要持守和睦，彼此一同祷告。你们各人，尤其是长老，理当使监督的心灵欢喜，尊荣父，〔也尊荣〕耶稣基督和众使徒。",
+      "reason": "恳求的主体是作者，锁链为劝勉的拟人主语；原译误将恳求也挂在锁链上。"
+    },
+    {
+      "unit": "cHPJ",
+      "block": "p0003",
+      "before": "我只求你们容许我，趁祭坛还预备着，将自己〔如〕奠祭倾倒给神，使你们在爱中组成歌队，在耶稣基督里向父歌唱；因为神召来东方的叙利亚监督，准许他出现在西方。从世界向神落下，是美好的，好使我向祂升起。",
+      "after": "我只求你们容许我，趁祭坛还预备着，将自己〔如〕奠祭浇奠给神，使你们在爱中组成歌队，在耶稣基督里向父歌唱；因为神召来东方的叙利亚监督，准许他出现在西方。从世界向神落下，是美好的，好使我向祂升起。",
+      "reason": "祭礼libation使用浇奠，区别凡有血气语境的浇灌，表达更准确。"
+    },
+    {
+      "unit": "cHPU",
+      "block": "p0002",
+      "before": "你们从不吝于待人，曾作别人的教师。我所盼望的，是你们以教师身份所授的教训，仍然有效。",
+      "after": "你们从不嫉妒任何人，曾作别人的教师。我所盼望的，是你们以教师身份所授的教训，仍然有效。",
+      "reason": "grudge anyone在此为嫉妒别人所得而非吝啬待人，结合前章不拦阻作者的论证及参考本核实。"
+    },
+    {
+      "unit": "cHUJ",
+      "block": "p0002",
+      "before": "虽然有些人想在肉身的事上欺骗我，圣灵却不能被欺骗，因为祂出于神；祂知道自己从哪里来、往哪里去，也察透隐藏的事。我在你们中间时曾大声呼喊，用响亮的声音，就是神自己的声音说：“要听从监督、长老团和执事。”",
+      "after": "虽然有些人想用人的手段欺骗我，圣灵却不能被欺骗，因为祂出于神；祂知道自己从哪里来、往哪里去，也察透隐藏的事。我在你们中间时曾大声呼喊，用响亮的声音，就是神自己的声音说：“要听从监督、长老团和执事。”",
+      "reason": "after the flesh与下文圣灵对照，指属人的层面，不是专指有关肉身的事情。"
+    },
+    {
+      "unit": "cHVA",
+      "block": "p0002",
+      "before": "因着你们的祷告，以及在基督耶稣里温柔的关怀，我已经得到消息：叙利亚安提阿的教会如今平安了。你们作为神的教会，理当委派一位执事，作神的使者前往那里，在他们聚集时致贺，将荣耀归给那名。",
+      "after": "我已经得到消息：你们的祷告，以及在基督耶稣里温柔的关怀，蒙了应允，叙利亚安提阿的教会如今平安了。你们作为神的教会，理当委派一位执事，作神的使者前往那里，在他们聚集时致贺，将荣耀归给那名。",
+      "reason": "应允祷告指教会恢复平安，非作者得到消息；调整修饰关系。"
+    },
+    {
+      "unit": "cHVJ",
+      "block": "p0003",
+      "before": "特罗亚的弟兄们以爱向你们问安。我也从这里，借布鲁斯之手写信给你们。他是以弗所人和士每拿人为表示尊重，差来陪伴我的。主必尊荣他们，就是耶稣基督；他们在身体、灵魂和心灵中，借着信、爱与和睦，将盼望寄托于祂。愿你们在我们共同的盼望基督耶稣里安好。",
+      "after": "特罗亚的弟兄们以爱向你们问安。我也从这里，借布鲁斯之手写信给你们。他是以弗所人和士每拿人为表示尊重，差来陪伴我的。主耶稣基督必尊荣他们；他们在身体、灵魂和心灵中，借着信、爱与和睦，将盼望寄托于祂。愿你们在我们共同的盼望基督耶稣里安好。",
+      "reason": "原句同位语隔在他们之后，易误指他们是耶稣基督，调整为自然语序。"
+    },
+    {
+      "unit": "cHYA",
+      "block": "p0002",
+      "before": "斐罗和赖乌斯·阿伽托普斯为神的事工跟随我；你们把他们当作神的仆役接待，行得很好。他们也为你们感谢主，因为你们在各方面都使他们得着舒畅。你们必不失去任何赏报。",
+      "after": "斐罗和赖乌斯·阿伽托普斯为神的事工跟随我；你们把他们当作神的仆役接待，行得很好。他们也为你们感谢主，因为你们在各方面都使他们得着舒畅。你们必不会有所损失。",
+      "reason": "英文Nothing will be lost未限定赏报，参考对照支持泛指不受损失，撤去额外限缩。"
+    },
+    {
+      "unit": "cHYU",
+      "block": "p0003",
+      "before": "我奉耶稣基督的名，在祂的肉和血、祂的受难与复活中，在神与众人合一里，向你们敬虔的监督、可敬的长老团、〔以及〕我的同工众执事，并你们每一个人和全体问安；祂的受难与复活，既关乎肉身，也关乎灵。愿恩典、怜悯、平安、忍耐，常与你们同在。",
+      "after": "我奉耶稣基督的名，在祂的肉和血、祂的受难与复活中，在与神、与你们彼此的合一里，向你们敬虔的监督、可敬的长老团、〔以及〕我的同工众执事，并你们每一个人和全体问安；祂的受难与复活，既关乎肉身，也关乎灵。愿恩典、怜悯、平安、忍耐，常与你们同在。",
+      "reason": "of God and of yourselves指神及收信者，不是泛指众人，也不应暗示神与全人类已合一。"
+    },
+    {
+      "unit": "cHZJ",
+      "block": "p0003",
+      "before": "我凭你所披戴的恩典劝你，要继续向前奔跑，劝勉众人，使他们得救。无论身体还是心灵，都要尽心殷勤，使你的职分显明为真实。务要顾念合一，没有什么比合一更好。要担待众人，如同主担待你；要在爱中容忍众人，正如你已经在行的。",
+      "after": "我凭你所披戴的恩典劝你，要继续向前奔跑，劝勉众人，使他们得救。无论身体还是心灵，都要尽心殷勤，尽好你的职分。务要顾念合一，没有什么比合一更好。要担待众人，如同主担待你；要在爱中容忍众人，正如你已经在行的。",
+      "reason": "vindicate your office结合殷勤行职指胜任职分，原译显明为真实生硬且误导为验证任职真伪。"
+    },
+    {
+      "unit": "cJ02",
+      "block": "p0003",
+      "before": "要比现在更加殷勤，察看时令，等候那超乎一切时令的永恒者。祂本不能被看见，却为我们成为可见的；祂本不可触及，不能受苦，却为我们受苦，在各样事上，为我们忍耐。",
+      "after": "要比现在更加殷勤，察验时势，等候那超乎一切时势的永恒者。祂本不能被看见，却为我们成为可见的；祂本不可触及，不能受苦，却为我们受苦，在各样事上，为我们忍耐。",
+      "reason": "seasons在教会处境与永恒者对照中指时势，不限于节令或季节。"
+    }
+  ],
+  "retained_variants": [
+    {
+      "unit": "cH98",
+      "reason": "英文为心被神的血点燃，参考本作领受新生命；保留英文意象，不据参考换版本。"
+    },
+    {
+      "unit": "cHA8",
+      "reason": "英文altar precinct明指祭坛区域；保留，不改参考本圣所。"
+    },
+    {
+      "unit": "cHB0",
+      "reason": "英文lust与参考本纷争不同，保留私欲。"
+    },
+    {
+      "unit": "cHB8",
+      "reason": "英文明确windlass，保留绞盘机械比喻；不简化为参考本高举。"
+    },
+    {
+      "unit": "cHAS",
+      "reason": "英文they are hard to heal语法所指仍保留原文；参考本明确伤口是解释性展开，不据其补写。"
+    },
+    {
+      "unit": "cHBS",
+      "reason": "of which may I be partaker英文可就近指prayer，参考本指锁链；未以中文参考消除底本歧义，现译暂保留就近指代。"
+    },
+    {
+      "unit": "cHDG",
+      "reason": "英文outcast、continuous life与参考本祭品、永生不同，依英文保留被弃之物、永存生命。"
+    },
+    {
+      "unit": "cHDS",
+      "reason": "英文taken in hand表示着手，保留已经展开，不改参考本快要实现。"
+    },
+    {
+      "unit": "cHF0",
+      "reason": "英文是透过代表看见全体，参考本表述方向不同；保留英文。"
+    },
+    {
+      "unit": "cHG0",
+      "reason": "英文长老与使徒议会对应，执事另列；保留三重区分，不照参考页面的合并关系改写。"
+    },
+    {
+      "unit": "cHG8",
+      "reason": "英文one temple even God、one altar even one Jesus Christ保留同位关系；不改参考本上帝的一座殿。"
+    },
+    {
+      "unit": "cHHS",
+      "reason": "参考本顺服句带有在肉身中一语；指定英文无此限定，现译不增入。"
+    },
+    {
+      "unit": "cHK1",
+      "reason": "参考本第二节作到他面前，指定英文为be found in Him，保留在祂里面。"
+    },
+    {
+      "unit": "cHM1",
+      "reason": "英文明确写假装诚实以欺骗人，参考本概括为不值得信靠；保留英文具体行为。"
+    },
+    {
+      "unit": "cHN9",
+      "reason": "参考本作头不能出生，英文为不能有头而没有肢体，现译遵从英文。"
+    },
+    {
+      "unit": "cHPU",
+      "reason": "参考本作愿意行出来，英文only say it but also desire it为说与愿意，现译保留英文。"
+    },
+    {
+      "unit": "cHR2",
+      "reason": "参考本使徒排序保罗彼得，英文彼得保罗；正文依英文顺序。"
+    },
+    {
+      "unit": "cHRA",
+      "reason": "参考本刑罚清单有额外项目，指定英文仅列现译诸项，不增补。"
+    },
+    {
+      "unit": "cHRU",
+      "reason": "英文lust含欲望义，保留私欲钉十字架的译法，不将参考倾慕直接套入。"
+    },
+    {
+      "unit": "cHTJ",
+      "reason": "参考本支持filtering为筛选净化的正面形象；英文具体所指仍未解释，保留筛选译文及原有待核注，不改成纷争。"
+    },
+    {
+      "unit": "cHTU",
+      "reason": "英文one flesh of our Lord是主的一个肉身，参考本句式将身体与主同位，现译保留英文关系。"
+    },
+    {
+      "unit": "cHVJ",
+      "reason": "英文明确as I trust the Lord will receive you未来时，参考本为已接待，保留英文。"
+    },
+    {
+      "unit": "cHVU",
+      "reason": "英文bearing holy treasures保留承载圣洁珍宝，不套参考披戴圣洁。"
+    },
+    {
+      "unit": "cHWA",
+      "reason": "英文raised Himself明确主动自使复起，且末句are为现在时，保留这些表达，不依参考未来时改动。"
+    },
+    {
+      "unit": "cHXA",
+      "reason": "参考本受关怀者名单另有得释放的人，英文无此项，不增入。"
+    },
+    {
+      "unit": "cHY2",
+      "reason": "英文May God reward you为愿神报答，不同于参考神是赏赐，保留英文句式。"
+    },
+    {
+      "unit": "cHYA",
+      "reason": "英文perfect faithfulness为完全信实，参考作盼望，保留底本。"
+    },
+    {
+      "unit": "cHYJ",
+      "reason": "complicity本身措辞疑难，参考以自觉解释不能决定英文原词，保留已有译注；proper bulk依英文规模，不据参考泛化群体生活。"
+    },
+    {
+      "unit": "cJ0A",
+      "reason": "英文Seek out all men by name为按名寻访，不据参考缩成仅能叫出姓名；after the Lord可能次序义，保留既有除主以外而不贸然改成仿效。"
+    },
+    {
+      "unit": "cJ0J",
+      "reason": "参考本将hold discourse about these理解为劝人远避，英文仅作讲论这些事；保留正文及疑难注，不擅增劝戒内容。"
+    },
+    {
+      "unit": "cJ0U",
+      "reason": "英文devoted非明确赎价，保留献身，不套参考赎价。"
+    },
+    {
+      "unit": "cJ1A",
+      "reason": "参考本称Epitropus的寡妇，英文明确wife故保留妻子；差遣使者和其余教会寄信为英文并列关系，不以参考句式合并。"
+    }
+  ],
+  "access_notes": [
+    "非拉铁非书通过chineses菜单参数请求错误返回革利免一书；已从罗马书末章的下一页导航取得非拉铁非第0章id=2448，逐章循链接抓取并核对实际书名及正文，报告使用真实ID链接。",
+    "其余七书信问候语使用chap=000，与正文分开核对。",
+    "只借鉴参考本辨析句意；报告未引录网页译文。"
+  ],
+  "status": "completed",
+  "validation": {
+    "units": 99,
+    "changed_blocks": 19,
+    "unique_changed_units": 18,
+    "complete": 99,
+    "errors": [],
+    "reference_chapters": 91,
+    "reference_salutations": 7,
+    "editor_intro_without_reference": 1
+  }
+}

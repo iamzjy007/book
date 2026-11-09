@@ -1,0 +1,1280 @@
+{
+  "worker": "dydi_d",
+  "date": "2026-11-09",
+  "method": "英文内容控制；逐章查看现译与FHL c1933/chdc，按实际内容映射；不以下载作为核读；不抄录参考正文。",
+  "chapters": [
+    {
+      "book": "tobit",
+      "chapter": 1,
+      "unit": "c8A5",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=1",
+      "returned_title": "多比传",
+      "reference_rows": 22,
+      "reviewed": true,
+      "observations": [
+        "全部22节三方核读。英文Enemessar、heifer Baal、55日、第三个十分之一等不同于参考，不替换名称、对象和数值。参考较长地理及家谱说明不补入。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 2,
+      "unit": "c8AC",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=2",
+      "returned_title": "多比传",
+      "reference_rows": 14,
+      "reviewed": true,
+      "observations": [
+        "全部14节三方核读。英文2:10为until I went，参考为阿基加尔赴以马吕，保留第一人称；失明四年及供养两年不在英文不增补。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 3,
+      "unit": "c8AK",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=3",
+      "returned_title": "多比传",
+      "reference_rows": 17,
+      "reviewed": true,
+      "observations": [
+        "全17节核读。第7—9节英文父亲婢女与参考母亲不同；自缢细节、祷告词长短亦不同，未补。恶灵结尾英文bind，保留捆绑。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 4,
+      "unit": "c8AU",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=4",
+      "returned_title": "多比传",
+      "reference_rows": 21,
+      "reviewed": true,
+      "observations": [
+        "全21节核读。第8节英文少有仍施舍而参考缩短；第13节naughtiness保留败坏不换空闲；第17节墓上饼与参考舍财埋葬不同；第19节nation保留列国。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 5,
+      "unit": "c8B1",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=5",
+      "returned_title": "多比传",
+      "reference_rows": 22,
+      "reviewed": true,
+      "observations": [
+        "全22节核读。参考有20年、契约拆分、里程及较长见面对白，英文没有，不添；第16节英文狗随行保留；第18节废物与参考祭物异读保留。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 6,
+      "unit": "c8B8",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=6",
+      "returned_title": "多比传",
+      "reference_rows": 17,
+      "reviewed": true,
+      "observations": [
+        "全17节核读。洗身/吞少年与参考洗脚/吞脚不同；第9节英文拉基，第6节亚巴他拿，保留地名不调和；前后婚期先归来后今夜矛盾亦不改。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 7,
+      "unit": "c8BF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=7",
+      "returned_title": "多比传",
+      "reference_rows": 18,
+      "reviewed": true,
+      "observations": [
+        "全18节核读。迎客为撒拉、问询为流珥，与参考父亲迎客/母亲问不同。婚约书写英文指流珥，不改妻子写；第17节 received tears 含义不明确，不凭参考抹去。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "unit": "c8BP",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=8",
+      "returned_title": "多比传",
+      "reference_rows": 21,
+      "reviewed": true,
+      "observations": [
+        "全21节核读。第19节英文十四日婚筵而参考牛羊备宴，保留底本。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 9,
+      "unit": "c8BX",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=9",
+      "returned_title": "多比传",
+      "reference_rows": 6,
+      "reviewed": true,
+      "observations": [
+        "全6节核读。英文一个仆人两骆驼，参考四仆及两/四骆驼，不混合数目；英文结尾多比雅祝妻，与参考加百尔长祝词不同。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 10,
+      "unit": "c8C4",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=10",
+      "returned_title": "多比传",
+      "reference_rows": 12,
+      "reviewed": true,
+      "observations": [
+        "全12节核读。英文母亲白日不食保留；英文第11节短祝词、第12节称弟兄等不据较长参考添加儿孙及托付细节。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 11,
+      "unit": "c8CB",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=11",
+      "returned_title": "多比传",
+      "reference_rows": 18,
+      "reviewed": true,
+      "observations": [
+        "英文全19节核读，参考18节。开头参考甘色林，英文仅尼尼微不加；第19节七日婚筵参考无，保留；拿斯巴不换拿答。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 12,
+      "unit": "c8CJ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=12",
+      "returned_title": "多比传",
+      "reference_rows": 22,
+      "reviewed": true,
+      "observations": [
+        "逐段核对1—22节。参考祷告与公义处未列英文的禁食；英文七位天使呈上祷告等细节保留，未据参考缩减。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 13,
+      "unit": "c8CT",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=13",
+      "returned_title": "多比传",
+      "reference_rows": 18,
+      "reviewed": true,
+      "observations": [
+        "逐段核对本章。参考对城门、列国与后裔的铺陈与英文长度不同；主的称号及街道等按英文保留，未移入参考扩文。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "tobit",
+      "chapter": 14,
+      "unit": "c8D0",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%AF%94&chap=14",
+      "returned_title": "多比传",
+      "reference_rows": 15,
+      "reviewed": true,
+      "observations": [
+        "逐段核对本章。英文失明58岁、失明8年、158岁去世、多比雅127岁，与参考62岁、112岁及117岁不同，保留底本数字。",
+        "英文约拿、玛拿西、尼布甲尼撒与亚哈随鲁，与参考拿鸿、亚希加及只列尼布甲尼撒不同，按英文保留，不据参考统一。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 1,
+      "unit": "c8DG",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=1",
+      "returned_title": "犹滴传",
+      "reference_rows": 16,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—16节；尺寸、王年与120日一致。参考把Chelod作迦勒底，英文保留本身族名，未据参考替换。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 2,
+      "unit": "c8DR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=2",
+      "returned_title": "犹滴传",
+      "reference_rows": 28,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—28节。参考以方位“北边”解释left hand，英文现译保持其表述；slain保留被杀者，不随参考作受伤者。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 3,
+      "unit": "c8DY",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=3",
+      "returned_title": "犹滴传",
+      "reference_rows": 10,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—10节。第8节参考邱坛与英文borders有异，未用参考覆盖英文；击鼓符合timbrels，未随参考鸣锣。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 4,
+      "unit": "c8E5",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=4",
+      "returned_title": "犹滴传",
+      "reference_rows": 15,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—15节。第15节英文为祈求眷顾，参考译作已赐恩，保留祈求语气；地名按英文而非参考音译表替换。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 5,
+      "unit": "c8EC",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=5",
+      "returned_title": "犹滴传",
+      "reference_rows": 24,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—24节，迁徙、悖逆与成败条件链均保留；参考17节忌邪不替换英文恨恶不义。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 6,
+      "unit": "c8EK",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=6",
+      "returned_title": "犹滴传",
+      "reference_rows": 21,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—21节。第2节英文以法莲而参考亚扪；第4节英文burn them up而参考践踏，现译按英文保留。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 7,
+      "unit": "c8EU",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=7",
+      "returned_title": "犹滴传",
+      "reference_rows": 32,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—32节。兵数17万及1万2千、围城34日与五日期限均核对；28节英文要求照今日所说的行，参考否定句疑异，未覆盖英文。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 8,
+      "unit": "c8F1",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=8",
+      "returned_title": "犹滴传",
+      "reference_rows": 36,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—36节。家谱依英文，未以参考音译改写；27节保留并未像先祖受火炼、而是受管教的区别。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 9,
+      "unit": "c8F8",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=9",
+      "returned_title": "犹滴传",
+      "reference_rows": 14,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—14节。保留英文少数/弱小、被弃等祷告对象区别；计谋两处原文明确deceit，恢复欺瞒含义，不将祷告人的手段美化。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 10,
+      "unit": "c8FF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=10",
+      "returned_title": "犹滴传",
+      "reference_rows": 23,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—23节。parched corn是烘谷而非参考炒米；第15节英文已救命，保持完成意义而非参考劝将来投降。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 11,
+      "unit": "c8FP",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=11",
+      "returned_title": "犹滴传",
+      "reference_rows": 23,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—23节，保留犹滴声称真话的叙事张力，不作事实旁白；12节参考括注饮血为解释增文，未加入。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 12,
+      "unit": "c8FX",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=12",
+      "returned_title": "犹滴传",
+      "reference_rows": 20,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—20节。洗浴、洁净、禁食与第四日宴会关系符合底本；保留男女亲近的含蓄措辞，不扩展为参考直述交接。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 13,
+      "unit": "c8G4",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=13",
+      "returned_title": "犹滴传",
+      "reference_rows": 20,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—20节。按英文保留主动推落尸体、绕过山谷，以及16节已发生的迷惑，不随参考将其作将来。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 14,
+      "unit": "c8GB",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=14",
+      "returned_title": "犹滴传",
+      "reference_rows": 19,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—19节。亚基奥昏厥而非死亡符合英文与随后苏醒；14—15节保留英文敲门及门槛，不随参考拍手及床垫板。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 15,
+      "unit": "c8GJ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=15",
+      "returned_title": "犹滴传",
+      "reference_rows": 14,
+      "reviewed": true,
+      "observations": [
+        "逐节核对。英文止13节；参考15:14对应英文16:1，不漏译、不重复搬入。参考无花果冠与英文橄榄枝冠不同，保留英文。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "judith",
+      "chapter": 16,
+      "unit": "c8GT",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%BB%B4&chap=16",
+      "returned_title": "犹滴传",
+      "reference_rows": 25,
+      "reviewed": true,
+      "observations": [
+        "逐段核对1—25节；参考15:14对应英文16:1，参考16:1—7对应英文16:2—8前段，参考16:8为英文16:8后段，之后恢复同号。",
+        "英文16:11把惊恐逃跑连于软弱者，参考改敌人；英文16:12妇人的儿子/逃亡者儿女，与参考婢女/逃奴有异，未据参考擅自改写。",
+        "结尾105岁、哀悼7日与欢宴3月已核对。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 1,
+      "unit": "c9DX",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=1",
+      "returned_title": "以斯拉续编上卷",
+      "reference_rows": 107,
+      "reviewed": true,
+      "observations": [
+        "核读英文58节及现译，并按叙事比照网页。网页虽标以斯拉续编上卷第一章，107行实为代下35—36、王下23—24的合并引文，并非本卷逐节译文；前19行对应逾越节，20—27行对应约西亚之死，28—48行对应诸王及被掳，51—107行另载列王记平行叙事，未加入本书。",
+        "英文第9节700牛犊、15节撒迦利亚及伊得努、28节先知耶利米、38节撒利乌及从埃及带回、43节子名Jehoiakim及18岁，与网页平行正典不同；现译照英文保留，不据正典改名或数字。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": false,
+      "review_status": "parallel_canonical_extract_compared_not_same_chapter_text"
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 2,
+      "unit": "c9E5",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=2",
+      "returned_title": "以斯拉续编上卷",
+      "reference_rows": 1,
+      "reviewed": true,
+      "observations": [
+        "英文30节及现译已全章校读；网页仅一条转引说明（1—15参拉1、16—30参拉4:7—24），没有次经本章译文。状态为仅底本校读/参考转引，不算逐节三方对照完成。",
+        "英文器皿分项相加5469，与总数5469一致；保留本书特有数目、名录及圣殿/城墙叙事。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": false,
+      "review_status": "source_translation_checked_reference_cross_reference_only"
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 3,
+      "unit": "c9ED",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=3",
+      "returned_title": "以斯拉续编上卷",
+      "reference_rows": 24,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—24节。网页合并1—2；第4节参考把惊醒连到三个少年，英文为第3节王醒来，按英文保留。",
+        "第21节talk by talents采用可理解的夸富措辞，未按参考概述删去他连得意象。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 4,
+      "unit": "c9EN",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=4",
+      "returned_title": "以斯拉续编上卷",
+      "reference_rows": 63,
+      "reviewed": true,
+      "observations": [
+        "逐节核对1—63节；参考合并51—52。17节英文制衣细节、29节Barticus父名、44节古列许愿毁灭巴比伦、52节seventeen均依英文保留；参考省略或另一版本措辞未移入。",
+        "妇女/君王/酒/真理的论证层次及先施政后感谢的叙事已校读，未发现需据参考改动处。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": true,
+      "review_status": "full_chapter_three_way_checked"
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 5,
+      "unit": "c9EX",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=5",
+      "returned_title": "以斯拉续编上卷",
+      "reference_rows": 6,
+      "reviewed": true,
+      "observations": [
+        "英文73节及现译全章校读；网页只含1—6节正文，第6节末列后半卷转引，7—73没有次经中文正文。仅1—6完成逐节三方对照，其余底本校读。",
+        "英文5节额外列约雅金、6节只说正月而未说初一，按英文保留；名录、数字、祭礼和建殿阻碍未据正典替换。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": false,
+      "review_status": "partial_three_way_verses_1_6_remaining_source_checked"
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 6,
+      "unit": "c9F5",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=6",
+      "returned_title": null,
+      "reference_rows": 0,
+      "reviewed": true,
+      "review_status": "source_translation_checked_reference_body_unavailable",
+      "reference_note_url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=5",
+      "observations": [
+        "英文34节及现译全章校读；网页第6章实际返回查不到资料。第5章6节附注只引读拉5及6:1—12，无本章次经译文。",
+        "保留本书司库/总督称谓、60肘尺寸与金银器皿，并保留英文奠祭、没收财产等措辞，不据正典调换。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": false
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 7,
+      "unit": "c9FD",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=7",
+      "returned_title": null,
+      "reference_rows": 0,
+      "reviewed": true,
+      "review_status": "source_translation_checked_reference_body_unavailable",
+      "reference_note_url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=5",
+      "observations": [
+        "英文15节及现译全章校读；网页第7章实际返回查不到资料。第5章6节附注只引读拉6:13—22，无本章次经译文。",
+        "保留亚达月23日〔或初3日〕的英文异读和末节亚述王，不据其他版本统一。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": false
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 8,
+      "unit": "c9FN",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=8",
+      "returned_title": null,
+      "reference_rows": 0,
+      "reviewed": true,
+      "review_status": "source_translation_checked_reference_body_unavailable",
+      "reference_note_url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=5",
+      "observations": [
+        "英文96节及现译全章校读；网页第8章实际返回查不到资料。第5章6节附注只引读拉7:1—10:5，无本章次经译文。",
+        "家谱、归回名单、金银称重、诏书及以斯拉认罪全部保留；未据正典更换本书的人名、祭牲数目与第66节平安祭。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": false
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 9,
+      "unit": "c9FX",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=9",
+      "returned_title": null,
+      "reference_rows": 0,
+      "reviewed": true,
+      "review_status": "source_translation_checked_reference_body_unavailable",
+      "reference_note_url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E6%8B%89%E4%B8%8A&chap=5",
+      "observations": [
+        "英文55节及现译全章校读；网页第9章实际返回查不到资料。第5章6节附注转引拉10:6—44和尼8:1—12，未列本卷9:37对应，无本章次经中文正文。",
+        "名录及读律法叙事按英文；第14节承担此事、第52节主使人得尊荣等未据正典改为相反或不同的措辞。"
+      ],
+      "validation": [
+        "complete",
+        null
+      ],
+      "source_translation_checked": true,
+      "three_way_full_chapter": false
+    }
+  ],
+  "changes": [
+    {
+      "book": "tobit",
+      "chapter": 2,
+      "unit": "c8AC",
+      "block": "p0002",
+      "before": "就是七七的圣节",
+      "after": "就是神圣的七七节",
+      "reason": "seven weeks 所指节日有标准中文名，原七七的圣节不自然。"
+    },
+    {
+      "book": "tobit",
+      "chapter": 5,
+      "unit": "c8B1",
+      "block": "p0013",
+      "before": "大亚拿尼亚",
+      "after": "名望卓著的亚拿尼亚",
+      "reason": "great 修饰人物声望，不是姓名的一部分；参考提示名人，按英文独立重述。"
+    },
+    {
+      "book": "tobit",
+      "chapter": 5,
+      "unit": "c8B1",
+      "block": "p0014",
+      "before": "大示玛雅",
+      "after": "名望卓著的示玛雅",
+      "reason": "同一段谱系介绍 great 的声望意义。"
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "unit": "c8BP",
+      "block": "p0011",
+      "before": "免得这人也死了",
+      "after": "恐怕这人也会死",
+      "reason": "lest 此处为所忧惧的可能，挖坟非防止死亡；原译因果失当。"
+    },
+    {
+      "book": "tobit",
+      "chapter": 8,
+      "unit": "c8BP",
+      "block": "p0022",
+      "before": "那时，他可以带着自己一半的财物，平安回到父亲那里。他又说：“余下的，等我和妻子死后，也归给你。”",
+      "after": "那时，多比雅可以带着流珥一半的财物，平安回到父亲那里。流珥又说：“余下的，等我和妻子死后，也归给你。”",
+      "reason": "his goods 为岳父产业，现译自己错误指向女婿；参考结尾支持归属。",
+      "cross_qa_followup": "显明流珥为后句发言者，消除上一句主语多比雅造成的指代歧义。"
+    },
+    {
+      "book": "judith",
+      "chapter": 2,
+      "unit": "c8DR",
+      "block": "p0006",
+      "before": "勇力自信的人",
+      "after": "自恃勇力的人",
+      "reason": "men who trust in their strength，调整不自然的汉语搭配。"
+    },
+    {
+      "book": "judith",
+      "chapter": 5,
+      "unit": "c8EC",
+      "block": "p0006",
+      "before": "我必将这住在你驻地附近山中的百姓，实情告诉你。",
+      "after": "我必将这住在你驻地附近山中之百姓的实情告诉你。",
+      "reason": "修复宾语中断导致的汉语病句，保留原文位置关系。"
+    },
+    {
+      "book": "judith",
+      "chapter": 8,
+      "unit": "c8F1",
+      "block": "p0032",
+      "before": "愿主降雨",
+      "after": "主必降雨",
+      "reason": "英文will send断言，与参考也相符；旧译愿改变为祈愿语气，恢复确信陈述。"
+    },
+    {
+      "book": "judith",
+      "chapter": 9,
+      "unit": "c8F8",
+      "block": "p0011",
+      "before": "借我口中的计谋",
+      "after": "借我口中的诳言",
+      "reason": "deceit of my lips是言语欺骗，参考亦明确诳妄，不能只译中性计谋。"
+    },
+    {
+      "book": "judith",
+      "chapter": 9,
+      "unit": "c8F8",
+      "block": "p0014",
+      "before": "我的言语和计谋",
+      "after": "我的言语和欺瞒",
+      "reason": "speech and deceit明确包含欺瞒，恢复原文力度。"
+    },
+    {
+      "book": "judith",
+      "chapter": 11,
+      "unit": "c8FP",
+      "block": "p0020",
+      "before": "我必领你穿过犹太，直达耶路撒冷，在城中为你设立宝座。你要驱赶他们，如同赶无牧人的羊；连狗也不敢在你面前张口。这些事我已预先得知，有人向我显明，又差我来告诉你。”",
+      "after": "我必领你穿过犹太，直达耶路撒冷，在城中为你设立宝座。你要驱赶他们，如同赶无牧人的羊；连狗也不敢在你面前张口。我已预先得知这些事；这些事也已向我显明。我受差遣，来告诉你。”",
+      "reason": "英文被动未指明人的施事者，去掉旧译额外加入的“有人”，避免将神谕说成由人告知。",
+      "cross_qa_followup": "调整被动陈述的汉语衔接，不另加施事者。"
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 3,
+      "unit": "c9ED",
+      "block": "p0007",
+      "before": "颈上挂金链",
+      "after": "颈上挂链子",
+      "reason": "英文仅chain，未说明链子为金；参考锦索也不支持金，去掉无根据材质。"
+    },
+    {
+      "book": "1-esdras",
+      "chapter": 9,
+      "unit": "c9FX",
+      "block": "p0020",
+      "before": "约萨达的儿子耶书亚的子孙和他的亲属中，有玛特拉、以利亚撒、约利布和约亚丹。",
+      "after": "约撒答的儿子耶书亚的子孙和他的亲属中，有玛特拉、以利亚撒、约利布和约亚丹。",
+      "reason": "本书同一Josedek在5:5、6:2等已用约撒答，核读名录时统一此单处异写；并非根据参考增改世系。"
+    }
+  ],
+  "reference_version_check": {
+    "method": "逐段主比照c1933，并核对chdc与其有差异的文字；同文部分不重复抄录。",
+    "findings": [
+      "多比9:5 c1933四骆驼、chdc两骆驼；按英文保留本书数目。",
+      "犹滴两列大部分差异为异体字、代词或录入错误，未将驴兵等错字纳入译文。",
+      "拉上chdc第1—2章列为空，第3章首另列1—2章转引；4:51—52两列分节不同；5:6的后卷转引只见c1933。"
+    ]
+  },
+  "intro_review": [
+    {
+      "book": "tobit",
+      "unit": "c89V",
+      "review_status": "English_intro_and_translation_checked_no_FHL_counterpart",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8D7",
+      "review_status": "English_intro_and_translation_checked_no_FHL_counterpart",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9DH",
+      "review_status": "English_intro_and_translation_checked_no_FHL_counterpart",
+      "validation": [
+        "complete",
+        null
+      ]
+    }
+  ],
+  "validation": [
+    {
+      "book": "tobit",
+      "unit": "c89V",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8A5",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8AC",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8AK",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8AU",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8B1",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8B8",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8BF",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8BP",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8BX",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8C4",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8CB",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8CJ",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8CT",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "tobit",
+      "unit": "c8D0",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8D7",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8DG",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8DR",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8DY",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8E5",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8EC",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8EK",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8EU",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8F1",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8F8",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8FF",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8FP",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8FX",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8G4",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8GB",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8GJ",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "judith",
+      "unit": "c8GT",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9DH",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9DX",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9E5",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9ED",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9EN",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9EX",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9F5",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9FD",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9FN",
+      "validation": [
+        "complete",
+        null
+      ]
+    },
+    {
+      "book": "1-esdras",
+      "unit": "c9FX",
+      "validation": [
+        "complete",
+        null
+      ]
+    }
+  ],
+  "scope": [
+    "tobit",
+    "judith",
+    "1-esdras"
+  ],
+  "handoff": {
+    "2-esdras": "转交lori_b；未核读、未改正式JSON，不计本记录完成数。"
+  },
+  "summary": {
+    "chapters_source_translation_checked": 39,
+    "full_chapters_three_way_checked": 32,
+    "partial_chapter_three_way_checked": 1,
+    "parallel_extract_chapter": 1,
+    "cross_reference_only_chapters": 5,
+    "intros_source_checked": 3,
+    "units_validated": 42,
+    "changes": 13,
+    "all_units_complete": true
+  },
+  "second_pass": "重新检查13处改动的底本意义、指代和行文；核对39章记录无重复，并对42单元逐一调用validate，均complete。"
+}

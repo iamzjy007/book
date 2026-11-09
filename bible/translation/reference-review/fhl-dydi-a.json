@@ -1,0 +1,801 @@
+{
+  "book_id": "sirach",
+  "versions": [
+    "c1933",
+    "chdc"
+  ],
+  "method": "逐章阅读指定英文、现译与FHL两列中文。相同内容合并显示以对照，两列差异单列；不以参考的底本和编号覆盖指定英文。",
+  "chapters": [
+    {
+      "chapter": 1,
+      "unit_id": "c8PR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=1",
+      "source_sha256": "dc06753ecbe317288d16e210cbaa52d1a79619ae67f8063efe697329f9b8b33f",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0010",
+          "before": "他创造了智慧，察看并量度她，又将她倾注在他一切所造的之中。",
+          "after": "他创造了智慧，察看并量度她，又将她倾注在他所造的万物之中。",
+          "reason": "修正所造的之中的语法缺口，保留倾注意象。"
+        }
+      ],
+      "retained_differences": [
+        "网页1:1合并序言，chdc网页开端有残缺，不把序言补入英文第1章；英文1:5、7、21为省略号，参考古卷加句不补入。",
+        "1:19英文察看量度、如雨赐知识与参考杖柱不同，依英文。1:10 freely是白白赐予，不改无限量。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 2,
+      "unit_id": "c8PZ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=2",
+      "source_sha256": "ef81d84ea5288475dc442ff8433de1169424ed03b025ec366d12a40698585df5",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "2:3英文末后兴盛非参考世途聪明；2:6修直道路是对人命令，非参考神使道路平直；2:12明确两条路，非一般歧途；2:18无参考主圣名与行为附句，不补。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 3,
+      "unit_id": "c8R7",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=3",
+      "source_sha256": "dff18a14d2a522df26a2d1d9a116688ce148d4eb4d5834a96e4a30557c35414a",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0004",
+          "before": "孝敬父亲的，必得赎罪。",
+          "after": "孝敬父亲的，必为罪赎罪。",
+          "reason": "make atonement for sins是主动赎罪，原必得赎罪改为主动，忠实保留本书的赎罪观念。"
+        }
+      ],
+      "retained_differences": [
+        "3:19英文省略不补参考加句；3:17英文蒙悦纳的人爱你，与参考比施舍者更蒙爱有别；3:20尊荣非显隐秘；3:26爱危险终死亡，不套参考爱善得善；3:29智者渴望听众，不改听者喜爱智慧；3:30kindness不限定周济。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 4,
+      "unit_id": "c8RF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=4",
+      "source_sha256": "5698f35d468901b5f20b3b2b3448eca33720934869d27cb9922bfb65fe413bdf",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "4:10英文爱胜母亲，不改参考救免灭亡；4:15—19英文第三人称，保留她，不改第一人称；4:15审判列国非真理审判；4:25无知蒙羞不同于参考在神前谦卑；4:30 suspicious保留猜疑。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 5,
+      "unit_id": "c8RR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=5",
+      "source_sha256": "9630321063a5135a89fb3c48d0de6909b04623579b8958c3b41940b3ebc5324a",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "5:3主向你报应，不改为替受迫者伸冤；5:9保留英文双舌罪人末句；5:15 ignorant按无知，不改参考恶意。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 6,
+      "unit_id": "c8RZ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=6",
+      "source_sha256": "737114377a020daaa9e9abe47748bf2ed92694ad04dcfca4d5702dcdce29b8f4",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0025",
+          "before": "把脚伸进她的锁链，把颈项套入她的项链。",
+          "after": "把脚伸进她的锁链，把颈项套入她的链索。",
+          "reason": "此处chain延续约束管教的意象，原译项链提前改成装饰物；后文才转为荣耀饰物。"
+        }
+      ],
+      "retained_differences": [
+        "6:2英文公牛意象保留，不按参考空耗能力删去；6:16英文救命良药非上帝保护；6:17朋友像本人而非待朋友如己；6:30 purple保留紫色，非参考蓝色。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 7,
+      "unit_id": "c8S7",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=7",
+      "source_sha256": "769a9ab80605c4924e74d59f9b8ca8477873000f76a203489ff089336cea5ff3",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0035",
+          "before": "不可缺席于哭泣的人中间；要与哀恸的人一同哀恸。",
+          "after": "不可不顾哭泣的人；要与哀恸的人一同哀恸。",
+          "reason": "be lacking to在此是不给哭者支持，原译缺席于人中间生硬且偏场所；用不顾表达关怀的缺失。"
+        }
+      ],
+      "retained_differences": [
+        "7:17英文火与虫保留，不从参考改为人的希望朽烂或补括号内容；7:23屈颈管教非使子女结婚；7:31肩膀非右腿；7:36言语与永恒，不改凡事与临终日期。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 8,
+      "unit_id": "c8SF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=8",
+      "source_sha256": "618016a1ebe4cfbb2affcc6bee87bf06fca98004d0fcddcf08b6cd14eb541185",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "8:4粗人戏谑辱及祖先，不改参考公正言语；8:13担保超过能力非为更强者担保；8:14判决者为他们，不改审判官亲自判己；8:19英文return you a favor特殊读法保留及原疑义说明，不套参考损失利益。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 9,
+      "unit_id": "c8SR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=9",
+      "source_sha256": "bf4684a9165ee9dca2615377bb000d3aa98a292b429ca123b5389598eb7490d9",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0002",
+          "before": "不可嫉妒你怀中的妻，免得反而教她恶事，来对付你。",
+          "after": "不可猜忌你怀中的妻，免得反而教她恶事，来对付你。",
+          "reason": "婚姻语境jealous over是猜忌配偶，嫉妒容易误指羡慕妻子的优势。"
+        },
+        {
+          "block_id": "p0019",
+          "before": "多言的人在城中是危险；说话鲁莽的人必被憎恨。",
+          "after": "多言的人会给城邑带来危险；说话鲁莽的人必被憎恨。",
+          "reason": "修正人在城中是危险的中文搭配，保留对城邑造成危险的意思。"
+        }
+      ],
+      "retained_differences": [
+        "9:7英文solitary为僻静处，非宽敞处；9:13保留城垛险处意象，不合并成网罗。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 10,
+      "unit_id": "c8SZ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=10",
+      "source_sha256": "d5b03e2ecb1ccde396ba43d6d81c822a0cd814feae0bb52c7e72f5b72e4ac154",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "10:5英文人兴盛与文士，不改治理权与立法者；10:9保留my第一人称；10:15英文有全文不按参考并上节删除；10:21英文省略不补古卷；10:22富足/尊贵/贫穷不同于参考侨民等；10:31按英文一节保留两反问，参考c1933拆为31—32。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 11,
+      "unit_id": "c8T7",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=11",
+      "source_sha256": "e4ea4217ab7acd9fcc2c4e67b9840bd23f3088f4a09c1e1857c8f714116165a3",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0004",
+          "before": "蜜蜂在飞禽中虽小，所酿的却是最上等的甘甜之物。",
+          "after": "蜜蜂在能飞的生物中虽小，所酿的却是最上等的甘甜之物。",
+          "reason": "flying creatures包含昆虫，原译飞禽将范围误限定为鸟类。"
+        }
+      ],
+      "retained_differences": [
+        "11:4不夸服饰与参考不嘲笑丧服不同；11:5君王坐地非受压者登位；11:15—16英文省略不补；11:28 children保留儿女，不改末日。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 12,
+      "unit_id": "c8TF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=12",
+      "source_sha256": "508a18ce1efb6fa3213273712de6fb35ace13d13aef9e635461a51bbe1b95e2c",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "12:3英文行恶者与不施舍者不得善，非向恶人施舍无报；12:4—7按英文原分节完整保留；12:9敌人愁苦非装朋友；12:15英文短暂同在后离开，不改露狠毒。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 13,
+      "unit_id": "c8TR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=13",
+      "source_sha256": "99c444de0a0c641cd397bde3f94e70a77e759443794611a521c91e41e4f5cdd1",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0003",
+          "before": "不可担负超过力量的重担，也不可与比你更有权势、更富足的人结交。陶罐与铁锅能有什么交情？铁锅一碰，陶罐就要粉碎。",
+          "after": "不可担负超过力量的重担，也不可与比你更有权势、更富足的人结交。陶罐与锅能有什么交情？锅一碰，陶罐就要粉碎。",
+          "reason": "英文kettle未指定铁，删除原译擅加材质；亦不从中文参考另加铜。"
+        }
+      ],
+      "retained_differences": [
+        "13:12英文不守秘密者，不替换成暴虐官吏的扩写；13:14英文省略不补古卷；13:24贫穷在不敬虔者口中成恶，不改妄为致穷；13:26编箴言需思索，非默想生忧。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 14,
+      "unit_id": "c8TZ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=14",
+      "source_sha256": "c27f5c632af41cacad389087bd9809b326d1d47210c9e693c533933757a3c80c",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0012",
+          "before": "我儿，要按你所有的善待自己，也要将配得的祭物献给主。",
+          "after": "我儿，要按你所有的善待自己，也要将合宜的祭物献给主。",
+          "reason": "worthy offerings是合宜配献的祭物，原译配得的祭物中文受事关系生硬。"
+        }
+      ],
+      "retained_differences": [
+        "14:10不加入参考慈善者食物增多的附句；14:11保留英文献祭句，参考无此；14:26children明确儿女，不改鸟巢；14:27 glory保留荣耀，不改居所。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 15,
+      "unit_id": "c8U7",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=15",
+      "source_sha256": "e2637d0a39b8d8baa5ba7ca7c82e33f0e4b910109c9cd631474e66dc6b63137b",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "15:11英文you不作参考神创造；15:19对象敬畏者非全部受造物；15:20犯罪非说谎。15:15 good pleasure依自由选择上下文保留甘愿，不添神作为主语。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 16,
+      "unit_id": "c8UF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=16",
+      "source_sha256": "200a588a58cf06b1b399689a2039fe687e32bdbee8d9a820b6dbb83b0e47dff4",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0005",
+          "before": "因一个明达的人，城邑可以兴盛；恶人的族类，却必荒凉。",
+          "after": "因一个明达的人，城邑可以住满居民；恶人的族类，却必荒凉。",
+          "reason": "populated具体指人口聚居，原兴盛过于泛化；与下半荒凉相对。"
+        }
+      ],
+      "retained_differences": [
+        "16:7 giants保留巨人不改君王；16:15主使王刚硬的因果不依参考倒转；16:16准绳分明暗保留，不作分给人；16:20—22英文神奥秘作为的读法，不补参考罪人自述。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 17,
+      "unit_id": "c8UR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=17",
+      "source_sha256": "5e3bc9b99ec101d5460921b122ca0565307ccdc74f4ba9253cb7977d820a8cdc",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "17:5/16/18/21英文有正文，保留，虽chdc空缺、c1933标古卷；17:23报答对象不擅定恶人；17:27是阴间谁赞美的反问，不改神不喜爱死人；17:30—32保留英文人并非不朽及恶人思血肉，不用中文不同读法。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 18,
+      "unit_id": "c8UZ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=18",
+      "source_sha256": "798d6c534c0206539d81148120dc633b09a72b4c63035188907e6e9b1c46c407",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0002",
+          "before": "那永远长存者，一同创造了万有。",
+          "after": "那永远长存者，将万有一并造就。",
+          "reason": "in common修饰所造万有，原一同创造易使人误会有另一位共同创造者。"
+        },
+        {
+          "block_id": "p0004",
+          "before": "他用手引领世界，万物都顺服他。他是万有的王，他的能力使圣洁与不圣洁的分别。",
+          "after": "他用手引领世界，万物都顺服他。他是万有的王，他以能力分别圣洁与不圣洁的。",
+          "reason": "理顺separates的中文动宾结构，原使圣洁与不圣洁的分别不自然。"
+        }
+      ],
+      "retained_differences": [
+        "18:3英文完整统治世界与圣俗分别，不补改参考短古卷句；18:16露水善言对比，不改参考言语贬低施舍；18:19英文学习说话而非备战；18:28感谢寻得智慧的人，非主。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 19,
+      "unit_id": "c8V7",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=19",
+      "source_sha256": "d18542f08a6abb694a1258ba39c6d9c545e859bc5ec81133626cb6ee89aeb8e9",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "19:5英文心中享乐而非喜作恶，保留；19:8若不披露构成自己的罪才披露，保留条件方向；19:13—14可能未做未说，不改参考预防式命令；19:18—19/21英文有文而chdc无文，完整保留。19:23英文缺智慧，不改参考愚笨但不犯罪。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 20,
+      "unit_id": "c8VF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=20",
+      "source_sha256": "4d8148a20b8b5795be170cef3fdcf67b170f83f21f23ebdbd4c789916aa0b34a",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "20:3按指定英文保留独立句；20:4保留太监欲夺贞洁，不改为生子；20:12同一人后付七倍，不改另一个人；20:19非参考无盐羊尾比喻；20:22不确定自杀方式，不从参考补自杀。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 21,
+      "unit_id": "c8VR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=21",
+      "source_sha256": "1d8f44038940e25c8fec9530aabcd48d7bc0ae7e2b9ce87f6b102a33250de188",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "21:10英文铺石路与参考不铺石相反，依英文；21:18无知人无义闲谈非智慧知识如火炭；21:20—21笑声和金饰次序依英文，不按参考颠倒；21:25外人嘴唇忧伤的特殊读法保留；21:27 Satan明确撒但，不改仇人。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 22,
+      "unit_id": "c8VZ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=22",
+      "source_sha256": "eeedb40fd7a0e53f8dc25710a517ab2e101a73fcd32634cda2ef913ae4ae1002",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0017",
+          "before": "紧紧接合在房屋中的梁木，不因震动而松脱；照周详谋略坚立的心，到了时候也不惧怕。",
+          "after": "紧紧接合在房屋中的梁木，不因震动而松脱；适时依着周详谋略坚立的心，也必不惧怕。",
+          "reason": "in due season修饰心被坚立，原译到了时候也不惧怕误将时间移到不惧怕上。"
+        }
+      ],
+      "retained_differences": [
+        "22:7—10英文愚人教导在前、儿女教养在后，与c1933古卷布局和chdc不同，保持英文序；22:18篱笆非小石；22:19心情显露非友谊断绝；22:26我是受害者他被防备，不按参考互换施害受害者。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 23,
+      "unit_id": "c8W7",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=23",
+      "source_sha256": "a293eab09bc6af30e50cb5dd0192c8932e998164b42594983aa730bdc8bfc188",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "23:1英文有祷文，chdc缺/c1933古卷，保留；23:13—14粗话和父母次序依英文；23:10英文持续鞭打非参考拷问；23:18保留至高者不记念罪的自述，非未想及神。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 24,
+      "unit_id": "c8WF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=24",
+      "source_sha256": "9f4913f8c36424ea98316e76c66bf8661c07f6282e9ee0aa2686bacb7490d470",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0022",
+          "before": "吃我的，必更加饥饿；喝我的，必更加渴慕。",
+          "after": "吃我的，仍想再吃；喝我的，仍想再喝。",
+          "reason": "hungry/thirsty for more表达继续渴望智慧，原更加饥饿易误解为食用后饥饿程度恶化；仍保留吃喝意象与重复。"
+        }
+      ],
+      "retained_differences": [
+        "24:5—8依英文独立节，不跟c1933合并；24:13黑门柏树非锡安橄榄；24:18/24英文有全文，不因chdc空缺删去；24:27light明确光而非参考尼罗河，不换河名。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 25,
+      "unit_id": "c8WR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=25",
+      "source_sha256": "ff15991509eb344ac91d7e28f521b91839567f97c208555971c512cb3e1d296e",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "25:5 old men为老人非君王；25:8无不用牛驴耕地句，不补；25:9—10得明辨/智慧非得朋友；25:15英文蛇头、仇敌怒气，不改蛇毒、妇女怒气；25:19愿罪人当得分归她非愿罪人娶她；25:21美色非财利。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 26,
+      "unit_id": "c8WZ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=26",
+      "source_sha256": "151fcbf332a626e8c11a7d7b63244ed1b47939cd2563f804553d9e57b3fb45bb",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "26:2 brave保留勇毅；26:5第四件祈求非更惊恐；26:18英文含胸膛而非仅足；26:22英文行淫妻给情人死亡，不加塔上掷下比喻；26:28主将人交刀剑的确定语气，不改参考愿望。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 27,
+      "unit_id": "c8X7",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=27",
+      "source_sha256": "2bce63ec0ffacb556e6a1c43bfaf55f4a60f73d963e6780f9eb76717f606b75a",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "27:1英文thing indifferent为无关紧要的事，不套参考谋利；27:18毁仇敌比喻而非毁家产；27:22无人使其转离非知者远避；27:25诡诈一击致伤不补自受害。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 28,
+      "unit_id": "c8XF",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=28",
+      "source_sha256": "c9fe35f4375e44bb2079510aad44ea80fe5eeda6b11b75e3ecd136441c9c749f",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0026",
+          "before": "也要为你的话预备天平和法码，为你的口设门和闩。",
+          "after": "也要为你的话预备天平和砝码，为你的口设门和闩。",
+          "reason": "纠正衡量器具砝码的错字。"
+        }
+      ],
+      "retained_differences": [
+        "28:24—25按英文将财物与金银、言语与门闩分组，不照参考交叉分节；28:14—15保留third person舌头，不据现代第三者联想改写事件。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 29,
+      "unit_id": "c8XR",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=29",
+      "source_sha256": "87fa1961c919ee4ede7a463bac711e307e506cefb31e5002ce0639193055da93",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "29:6债主收回一半算意外收获，依英文上下文，不把代词混作借者；29:9需要与空手句保留；29:12affliction为患难非罪孽；29:23不补参考漂流听骂附句；29:25保留主动待客给饮而未获感谢。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 30,
+      "unit_id": "c8XZ",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=30",
+      "source_sha256": "41f2eeacf2777e1d88d09bb70ac6ba26756ff94ad9357f83f1c3b67ed90594be",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "30:10咬牙切齿指教子失当的懊恼，不套地狱哀哭切齿；30:18英文坟墓非参考神像祭坛；30:19患难者非富人；30:25照英文心与饮食关系，不补安眠。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 31,
+      "unit_id": "c8Y7",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=31",
+      "source_sha256": "357787479e9d6b844103182d1323f0928daef0e04d9b034bcb44ee2be75fd6aa",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0019",
+          "before": "为礼貌起见，要先停筷；不可贪得无厌，免得冒犯人。",
+          "after": "为礼貌起见，要先停止进食；不可贪得无厌，免得冒犯人。",
+          "reason": "leave off指停止进食；停筷引入古代地中海场景没有的器具。"
+        },
+        {
+          "block_id": "p0023",
+          "before": "你若勉强自己吃了下去，就在席间起来，便得舒缓。",
+          "after": "你若被迫进食，就在席间起来，便得舒缓。",
+          "reason": "恢复have been forced被动，避免改作主动勉强自己；英文未明言呕吐，不补参考读法。"
+        }
+      ],
+      "retained_differences": [
+        "31:14—15两译与英文排列不同，保留英文分节；31:21未补吐出食物；31:26保留钢铁炉中淬炼比喻；31:31英文债务不泛化为争论。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 32,
+      "unit_id": "c8YH",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=32",
+      "source_sha256": "dc2289d1e7bf12b0b63a1bdb5d2b89f074e5c72f7d5eb52a7f7104ccb9206120",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "32:5—6按英文宝石名红宝石、绿宝石，不随参考替换；32:10lightning为闪电非冰雹；32:16义行如光不同于暗中引导；32:18保留英文长读；32:19做后不反悔是劝诫，不改为结果预言；32:22自己的儿女非狭路；32:23依英文信赖自己的心。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 33,
+      "unit_id": "c8YT",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=33",
+      "source_sha256": "daad1f1321165df8504b128814ae535a4edf021e75324b14bca2ae2d17e50f59",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "33:3oracle不强制具体化为乌陵；33:16后来醒来却先于众人，保留英文叙次；33:19家庭财产权的历史语境保留；33:24—31奴役及刑罚如实保留，33:25得安歇主语为主人；33:31保留英文blood所指付出代价，不以参考短读删除。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 34,
+      "unit_id": "c8Z1",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=34",
+      "source_sha256": "aec1c1b801833ce9cc19b727235bee7b5b39430e9aa90733a070c6e7267a4466",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "34:5保留妇人临产比喻；34:11所知超过所言不同于参考遇险；34:13fear敬畏不改寻求；34:19英文平息罪所引怒气不同于直接赦罪；34:22剥夺生计不缩为偷财。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 35,
+      "unit_id": "c8Z9",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=35",
+      "source_sha256": "3bdbbf9090acf57824a18160880775ee766570fd8a4306e5a05374d13ee7fdc6",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "35:2报答恩惠非泛称施恩；35:8初熟出产非一般祭物；35:16事奉神的人不改为寡妇苦情；35:18列国不同于傲慢人；35:20神施苦的主语保持。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 36,
+      "unit_id": "c8ZH",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=36",
+      "source_sha256": "7d66e41257df9c277f92ff60726bb819567a6742b0598e7a4b5c23e8e1ea3d5c",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "36:4显圣显大不增加参考刑罚释义；36:8记念誓言和述说大能不同于参考反问；36:11神收百姓为产业，不改为百姓承业；36:14圣言及百姓不同于参考圣殿；36:17保留亚伦祝福；36:19猎物非主赐美味；36:21比较女子优劣，不倒置为女子偏爱何男子；36:26保留两次信任反问。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 37,
+      "unit_id": "c8ZT",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=37",
+      "source_sha256": "104777fe09f8f8a8e22e50b7c6e589f158ef5429bbbbe8367162886378489c2d",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "37:5保留为温饱劳作而持盾的英文读法；37:6心中记念及富足时不忘，不补战利品；37:9站在近旁非远处；37:11懦夫、买主、雇工完工等逐项按英文，不套参考异读；37:17心意转变非计谋根本；37:20食物非快乐；37:21因缺智慧未获恩，不倒置因果；37:24—25英文先祝福后以色列年日；37:30腹痛非情欲。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 38,
+      "unit_id": "c901",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=38",
+      "source_sha256": "e7abf50ee6f576403ea556295dc662516fccbfa3384351e0fa5bd755aa765b9a",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "38:5药木功效与英文上下文连贯，不改为主权能；38:6人得荣耀非人赞美神；38:11保留as one that is not及既有疑义说明；38:15落在医生手里，非骄傲拒医；38:19穷苦生活令人心痛，不补咒诅；38:23得安慰的劝告对象是活人；38:24智慧来自闲暇，非增加他人智慧；38:30塑陶过程不引参考驼背异读；38:32维系城市寄居往来非工匠免饥；38:34保留劳作即祷告。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 39,
+      "unit_id": "c909",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=39",
+      "source_sha256": "9414299a242450d7c3ec47bbf79270550a74d399858e788f8985155d3a1e51e9",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0008",
+          "before": "主必引导他的谋略和知识，他必默想主的奥秘。",
+          "after": "他必善用自己的谋略和知识，默想主的奥秘。",
+          "reason": "承接智慧人连续行为的主语；原译另立主为首句施事，英文没有明确切换，参考亦以智慧人为主语。"
+        }
+      ],
+      "retained_differences": [
+        "39:11死后更增名声的英文保留；39:13玫瑰非柏木，39:14乳香非利巴嫩香木；39:17水立成垒非日升落；39:20不添参考救恩无限附句；39:22未明指尼罗河或伯拉河；39:23水变咸非水田变卤地；39:25恶物为罪人非善恶均可得；39:29死亡非瘟疫；39:30无参考仓库附句。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 40,
+      "unit_id": "c90H",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=40",
+      "source_sha256": "4b5bac541a9b161224d8b61db326ace15efba5deafbd05b74420bd8e4ad8ec5d",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0017",
+          "before": "长在各处水边和河岸的芦苇，必比百草先被拔除。",
+          "after": "长在各处水边和河岸的莎草，必比百草先被拔除。",
+          "reason": "sedge为莎草类，原译芦苇混淆植物；参考菖蒲亦不与英文相同。"
+        }
+      ],
+      "retained_differences": [
+        "40:9逐项灾祸按英文不套参考白症大旱；40:11水归海非灵归天；40:14张手施予与施暴者败落不改岩石滚落；40:18劳作知足非饮酒；40:19妻子非智慧且不增加耕牛句；40:20爱智慧非朋友；40:22禾苗非花；40:26振奋不强加傲慢；40:30乞讨非贪食好酒。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 41,
+      "unit_id": "c90T",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=41",
+      "source_sha256": "c9de063e00e38f17a1408dbcfbd85ed465c8f190c9894c0a5b1b958a4367598a",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "41:5儿女出入恶人住处非产业；41:6产业消失及羞辱不改政权剥夺；41:9出生死亡皆咒诅，不增参考繁殖害人及恶人倒下带来欢乐；41:11罪人恶名消失非敬虔者名长存；41:16保留指定英文反问；41:17—18在父母君王等面前的罪行，不误作父母君王自身犯该罪；41:20—24排列及章界不套参考，42:1参考合并内容仍属英文41章。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 42,
+      "unit_id": "c911",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=42",
+      "source_sha256": "d16f747a3811e7feb208b27829f23491b4e1ab4a5ec76ee0f5897d292c9fe19a",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0022",
+          "before": "祂从亘古直到永远，凭智慧安排了大能的作为；这些不能增添，也不能减少，祂不需要任何谋士。",
+          "after": "祂从亘古直到永远，凭智慧安排了大能的作为；这些作为既未增添，也未减少，祂也不曾需要任何谋士。",
+          "reason": "Nothing has been added/nor diminished陈述既成状态，原译不能增减转成能力或禁令；保留英文时态关系。"
+        }
+      ],
+      "retained_differences": [
+        "42:3朋友遗产赠与非一般分产；42:8老人争竞非淫妇；42:10chdc较c1933增行差及未婚孕句，与英文相近仍按英文排序；42:11无格子窗附句；42:12劝告受话者目光非禁止女儿与男子妇女交谈；42:14原作者性别评价忠实保留；42:17神未赋足够能力尽述，保留否定不以参考括注反转；42:23万物顺服附句保留。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 43,
+      "unit_id": "c919",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=43",
+      "source_sha256": "454fbdcee27f4af8eca201672be7bd41de944f5449760caf043e30b03fcc1e48",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "43:2报信的太阳按拟人保留；43:4三倍热力未删；43:6—8月圆缺分节依英文，非1933合并；43:13降雪与闪电全保留；43:16—17山震南风、雷北风顺序依英文；43:19荆棘尖刺非蓝宝石；43:24海上危险非海广大；43:25海怪不添拉哈伯名；43:26以航海人作his上下文先行词，非参考天使；43:27He is all保留不扩释根原。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 44,
+      "unit_id": "c91H",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=44",
+      "source_sha256": "7b8120624e25ec329514a81bf58c2feeac548dc8409261c1fcb4a6dd42e47bf5",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "44:10怜悯义行并非条件性的若敬虔；44:12后裔坚立而非后裔守约；44:16归向神榜样不变为智慧奇迹；44:17代替世人的晦涩措辞保留既有译注，不套洪水止息；44:23雅各福约产业保留；参考44:24在英文45:1，不重复补在本章。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 45,
+      "unit_id": "c91T",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=45",
+      "source_sha256": "4aca12c1bc5b173791a5e90ac5392fad2f8265cda2cfb734ad757ae81a1caa62",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0013",
+          "before": "冠冕上有金冠，像刻印章一样刻着“圣洁”；这是尊贵的装饰、精巧的杰作，悦人眼目，华美可爱。",
+          "after": "头巾上有金冠，像刻印章一样刻着“圣洁”；这是尊贵的装饰、精巧的杰作，悦人眼目，华美可爱。",
+          "reason": "区分miter祭司头巾与gold crown金冠，避免两层同称冠冕的含混；不补参考刻文中英文没有的神名。"
+        }
+      ],
+      "retained_differences": [
+        "45:2众圣者非与神同荣耀；45:3使奇事止息非使奇事发生；45:9金石榴按英文不据正典祭服材质改色；45:10Lights and Perfections沿乌陵土明既注；45:12只刻圣洁不增加归耶和华；45:16Your people人称保留；45:20—21初熟果与饼分节依英文，不换为燔祭陈设饼；45:23百姓背离非把守关口；45:25不补称颂命令附句。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 46,
+      "unit_id": "c921",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=46",
+      "source_sha256": "7c34f2de28174a3f5957145dd786c88b85548bf0ded3913e3c3c5cdb7b2ac5e0",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0012",
+          "before": "那些士师，每一位都奉主的名而行；他们的心不随从邪淫，也不偏离主。愿他们的名蒙福！",
+          "after": "还有那些士师，每一位各按其名；他们的心不随从邪淫，也不偏离主。愿他们的名蒙福！",
+          "reason": "everyone by His Name处为逐一提名士师；原译补奉主的名而行改变列举结构，英文也无而行之意，不因大写His机械增补神学动作。"
+        },
+        {
+          "block_id": "p0018",
+          "before": "主就从天上打雷，使人大大听见他的声音。",
+          "after": "主就从天上打雷，使自己的声音轰然传出。",
+          "reason": "with a mighty sound修饰发声方式，原译大大听见搭配生硬；改为雷声的具体表现。"
+        }
+      ],
+      "retained_differences": [
+        "46:4日头退后，虽与约书亚正典及参考停住不同，不调和；46:8英文六十万，不随参考六千万；46:13无参考从母胎分别为圣及祭司职分附句；46:18推罗首领依英文保留；46:19离世前非躺在床上；46:20死后预言按原叙事保留。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 47,
+      "unit_id": "c929",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=47",
+      "source_sha256": "7ca0f1365afe7798ce042fa7032d0b2f7ddd078a9ea9f5584a794efaca0ee962",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "47:6无明确妇女主语，不补；47:9仅歌唱与音乐，不补指定竖琴；47:14泛江河不指尼罗河；47:17interpretations为解说而非谜语；47:18英文奉神之名聚财，不借参考拆为享受神名；47:20后裔非床榻，第一人称忧伤保留；47:23罗波安与耶罗波安名字按英文明确，不省略或补诅咒名字句；47:25末句独立保留。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 48,
+      "unit_id": "c92H",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=48",
+      "source_sha256": "9acba85f63c59c4ac912432d91f9bb8ca89a196a2e81d63cb3932efab9f6db5e",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0023",
+          "before": "因为希西家行主所喜悦的事，坚定地走他祖大卫所行的道，正如先知以赛亚所吩咐的；以赛亚所见的异象伟大而可信。",
+          "after": "因为希西家行主所喜悦的事，坚定地走他祖大卫所行的道，正如先知以赛亚所吩咐的；以赛亚是伟大的先知，在异象上忠信可靠。",
+          "reason": "Who was great and faithful的先行词是以赛亚，不是异象；恢复对先知本人的评价。"
+        }
+      ],
+      "retained_differences": [
+        "48:9火马之车而非火焰军；48:10以利亚是施行责备和平息怒气者，不省为日期来到；48:11因爱荣美及我们也必活的英文，不以参考替换为先知如今仍活；48:12不补参考双倍奇事；48:13睡后身体预言保留；48:18保留差遣及离去；48:21使者毁灭非瘟疫。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 49,
+      "unit_id": "c92T",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=49",
+      "source_sha256": "92d68cd30f141688612777aafe02d28c06a7499dc1911bcf39a5655cccbca213",
+      "reviewed": true,
+      "changes": [],
+      "retained_differences": [
+        "49:2带民回转非为背教忧伤；49:8基路伯车上荣耀异象保留；49:9暴风仇敌的整节异读不以参考约伯替换；49:10英文he及既有说明保留，不因参考改为复数先知主语；49:12使圣民高举，不改为重建圣殿；49:15保留约瑟治理同胞等长读；49:16闪塞特亚当，不加参考以诺。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 50,
+      "unit_id": "c931",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=50",
+      "source_sha256": "a47895500f3bf80375f7f9acf650a71c258083ef6799ad636e661332e586eec2",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0002",
+          "before": "大祭司奥尼阿斯的儿子西门，在世时修缮圣殿，在他的日子坚固殿宇。",
+          "after": "大祭司西门，奥尼阿斯的儿子，在世时修缮圣殿，在他的日子坚固殿宇。",
+          "reason": "明确the great priest指本章主角西门，避免原句结构把大祭司只附在奥尼阿斯身上；英文父名仍保留不随参考改耶哥南。"
+        }
+      ],
+      "retained_differences": [
+        "50:3英文diminished及铜池有残损嫌疑，保留现译与既有待核说明，不单凭参考改为开掘；50:8乳香树非利巴嫩；50:10柏树非野油树；50:12棕树非杨柳；50:20称颂主非直接为民祝福；50:21单数主语及宣告祝福非民接受赦罪；50:23喜乐心非智慧心；50:24整节求怜悯拯救异于参考西门非尼哈盟约，不拼接；50:26撒玛利亚非西珥；50:27作者谱系原文含混，保留既注不照参考重新排列；50:29主光引导非敬畏即生命。"
+      ],
+      "validation": "complete"
+    },
+    {
+      "chapter": 51,
+      "unit_id": "c939",
+      "url": "https://bkbible.fhl.net/gbdoc/new/readsub.php?VERSION1=c1933&VERSION2=chdc&TABFLAG=1&chineses=%E4%BE%BF&chap=51",
+      "source_sha256": "464309753aaa441a7f8b4b46e57b7db5cfa8f12d0cf24493dfa5f8959c622bfc",
+      "reviewed": true,
+      "changes": [
+        {
+          "block_id": "p0016",
+          "before": "我在圣殿前求得她，直到末了，我仍要寻求她。",
+          "after": "我在圣殿前祈求智慧，直到末了，我仍要寻求她。",
+          "reason": "asked for只说明祈求，不表示已求得；消除原译提前断言得着的含义。"
+        }
+      ],
+      "retained_differences": [
+        "51:3咬牙拟吞人的凶暴，不套地狱哀哭切齿；51:6王前毁谤保留；51:10Father of my Lord保留既注，不据中文改成我的父；51:12c1933有长篇感恩连祷，chdc与英文无此段，不增译入正文；51:14圣殿前非年少；51:19为不识智慧悲哀，未加参考入室门句；51:22舌头为奖赏非因嘴唇受赏；51:28付银求学异于参考人数少，亦不因51:25免费调整；51:29喜乐在神怜悯非学生；51:30时候来到前做工，不改秉公义，并不增参考跋文作者谱系。"
+      ],
+      "validation": "complete"
+    }
+  ]
+}
