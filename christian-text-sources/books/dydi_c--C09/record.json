@@ -49,9 +49,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "诸王荣耀Budge旧英译：正文第一章及全书导航",
+        "url": "https://sacred-texts.com/book/the-kebra-nagast/1-concerning-the-glory-of-kings",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "E. A. Wallis Budge英译，1922传统",
+        "coverage": "作品117章，网站另将书前、索引等分作130个导航项；不是古书130章",
+        "verification": "实际打开第一章正文与完整导航；旧/chr/kn路径现重定向新阅读器，脚本旧域访问曾403。",
+        "accessed": "2026-11-10",
+        "rights_note": "站点标Public domain；仅保存在线路径。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:43.938299+00:00",
@@ -94,10 +106,16 @@
         "url": "https://betamasaheft.awhamburg.de/works/LIT1709Kebran/main",
         "final_url": "https://betamasaheft.awhamburg.de/works/LIT1709Kebran/main",
         "result": "HTTP 200；。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Kebra Nagast Budge full text; Sacred Texts old URL redirect",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:43.938299+00:00",
+    "next_action": "补吉兹原文Bezold旧校本；翻译前抽核末章和页码，保留117正文与网站130项目之区别。",
+    "updated_at": "2026-11-10T05:57:13.783890+00:00",
     "discovery_pass_done": true
   }
 }

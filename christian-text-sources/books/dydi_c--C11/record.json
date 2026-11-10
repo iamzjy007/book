@@ -42,9 +42,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Fetha Nagast英译扫描候选",
+        "url": "https://archive.org/details/fetha-nagast-english-translation",
+        "kind": "scan_candidate",
+        "language": "英语",
+        "edition": "题名Fetha Nagast；具体印次／译者须看版权页",
+        "coverage": "IA题名命中候选，暂未核正文或版源",
+        "verification": "已取得IA候选元数据；不因可见题名自动视为取得全书。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "Tzadua／Strauss正式版本书目",
+        "url": "https://scholarship.law.columbia.edu/books/180/",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "2009版，译文初版1968",
+        "coverage": "哥伦比亚页面只有书目和介绍；Files栏没有可直接下载正文",
+        "verification": "实际核页面链接，未发现正文文件。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:45.540470+00:00",
@@ -67,10 +90,16 @@
         "url": "https://scholarship.law.columbia.edu/books/180/",
         "final_url": "https://scholarship.law.columbia.edu/books/180/",
         "result": "HTTP 200；\"The Fetha Nagast/The Law of the Kings\" by Paulos Tzadua and Peter L. Strauss。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Fetha Nagast English full text; Fetha Guidi archive",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:45.540470+00:00",
+    "next_action": "打开候选版权页核Tzadua／Strauss版及正文范围；并查Guidi旧吉兹校本／意译，保留版本差别。",
+    "updated_at": "2026-11-10T05:57:13.784745+00:00",
     "discovery_pass_done": true
   }
 }

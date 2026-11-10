@@ -48,9 +48,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "版本史与俄译定位论文",
+        "url": "https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/view/9578",
+        "kind": "metadata",
+        "language": "英语摘要／格鲁吉亚语论文",
+        "edition": "Sophio Guliashvili, 2018；列Marr1911、Peeters1923、Lang1956及Zeteishvili1999",
+        "coverage": "研究入口，未取得古书正文；Lang版为节译／转述须另核",
+        "verification": "实读摘要、版本列表及论文下载入口。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:56.868562+00:00",
@@ -74,10 +86,16 @@
         "url": "https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/view/9578",
         "final_url": "https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/view/9578",
         "result": "HTTP 200；New Russian Translation of “The Life of Grigol Khandzteli”\n\t\t\t\t\t\t\t| The Kartvelologist  - A Bilingual  Peer-reviewed, Academic Journal of  Georgian Studies。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Grigol Khandzteli text English; TITUS Merchule; Lang online translation",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:56.868562+00:00",
+    "next_action": "优先找Marr1911格鲁吉亚原文与俄译扫描，再核Peeters拉丁版；不要把Lang155—165页节述当全部原作。",
+    "updated_at": "2026-11-10T05:57:13.786966+00:00",
     "discovery_pass_done": true
   }
 }

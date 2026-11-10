@@ -42,9 +42,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "耶柔米古拉丁译本：帕科米乌斯会规",
+        "url": "https://www.ora-et-labora.net/regulapachomii.html",
+        "kind": "fulltext",
+        "language": "拉丁语（古译）",
+        "edition": "Jerome拉丁译，Migne PL23 cols.59—86D，1845传统",
+        "coverage": "前言及Praecepta、Instituta、Judicia、Leges等；不是原作科普特语全家族",
+        "verification": "从Early Medieval Monasticism学术目录追到实际拉丁正文，已核各分部标题。",
+        "accessed": "2026-11-10",
+        "rights_note": "网页注明数字文本曾取自Chadwyck-Healey数据库；仅留在线路径，择出版底本时回到旧印本。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:41.565572+00:00",
@@ -80,10 +92,16 @@
         "url": "https://litpress.org/Products/CS046/Pachomian-Koinonia-2",
         "final_url": "https://litpress.org/Products/CS046/Pachomian-Koinonia-2",
         "result": "HTTP 200；Pachomian Koinonia 2: Pachomian Chronicles and Rules: Translated and annotated by Armand Veilleux OCSO, Foreword by Adalbert de Vogüé OSB : 9780879079468: litpress.org : Paperback。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Pachomius Regula Jerome Latin text; academic directory → ora-et-labora",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:41.565572+00:00",
+    "next_action": "核Boon Pachomiana Latina 1932 pp.1—74原版，并补科普特及希腊见证；注明使用古拉丁译本。",
+    "updated_at": "2026-11-10T05:57:13.782897+00:00",
     "discovery_pass_done": true
   }
 }

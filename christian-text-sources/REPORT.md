@@ -4,14 +4,15 @@
 
 | 状态 | 条数 |
 |---|---|
-| 部分正文可直达 | 14 |
-| 正文可直达 | 5 |
-| 仅书目／版本入口 | 7 |
-| 扫描入口待核 | 6 |
+| 部分正文可直达 | 16 |
+| 正文可直达 | 12 |
+| 仅书目／版本入口 | 11 |
+| 扫描入口待核 | 8 |
 | 访问受阻 | 1 |
-| 待检索 | 77 |
+| 待版本复核 | 2 |
+| 待检索 | 60 |
 
-下一任务：`dydi_c:C01`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
+下一任务：`dydi_d:evagrius-praktikos`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
 
 ## 统计边界
 
@@ -26,3 +27,4 @@
 - [001-initialized.md](sessions/001-initialized.md)
 - [002-syriac-arabic.md](sessions/002-syriac-arabic.md)
 - [003-apocrypha.md](sessions/003-apocrypha.md)
+- [004-oriental.md](sessions/004-oriental.md)

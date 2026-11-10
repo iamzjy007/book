@@ -49,9 +49,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "劳苏斯史1918旧英译正文",
+        "url": "https://www.tertullian.org/fathers/palladius_lausiac_02_text.htm",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "W. K. Lowther Clarke, The Lausiac History of Palladius, 1918",
+        "coverage": "译文pp.35—180；目录含书信、序言及编号各章",
+        "verification": "已实读目录与正文；区别于Palladius Dialogue on Life of Chrysostom。",
+        "accessed": "2026-11-10",
+        "rights_note": "站点列作可自由复制旧译；本轮仅保存链接。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:39.817917+00:00",
@@ -94,10 +106,16 @@
         "url": "https://www.cambridge.org/core/books/the-lausiac-history-of-palladius/388E95FC17CDD6A304DBC047E5E657D3",
         "final_url": "https://www.cambridge.org/core/books/the-lausiac-history-of-palladius/388E95FC17CDD6A304DBC047E5E657D3",
         "result": "HTTP 200；The Lausiac History of Palladius。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Palladius Lausiac History English tertullian",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:39.817917+00:00",
+    "next_action": "取得Butler希腊校本并核缩本／长本关系，现代Wortley译本不与1918旧译混记。",
+    "updated_at": "2026-11-10T05:57:13.781811+00:00",
     "discovery_pass_done": true
   }
 }

@@ -1,109 +1,7 @@
 {
   "schema": 1,
-  "next_task": "dydi_c:C01",
+  "next_task": "dydi_d:evagrius-praktikos",
   "tasks": [
-    {
-      "id": "dydi_c:C01",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C01/record.json"
-    },
-    {
-      "id": "dydi_c:C02",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C02/record.json"
-    },
-    {
-      "id": "dydi_c:C03",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C03/record.json"
-    },
-    {
-      "id": "dydi_c:C04",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C04/record.json"
-    },
-    {
-      "id": "dydi_c:C05",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C05/record.json"
-    },
-    {
-      "id": "dydi_c:C06",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C06/record.json"
-    },
-    {
-      "id": "dydi_c:C07",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C07/record.json"
-    },
-    {
-      "id": "dydi_c:C09",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C09/record.json"
-    },
-    {
-      "id": "dydi_c:C10",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C10/record.json"
-    },
-    {
-      "id": "dydi_c:C11",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C11/record.json"
-    },
-    {
-      "id": "dydi_c:C12",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C12/record.json"
-    },
-    {
-      "id": "dydi_c:C13",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C13/record.json"
-    },
-    {
-      "id": "dydi_c:C14",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C14/record.json"
-    },
-    {
-      "id": "dydi_c:C15",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C15/record.json"
-    },
-    {
-      "id": "dydi_c:C16",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C16/record.json"
-    },
-    {
-      "id": "dydi_c:C17",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C17/record.json"
-    },
-    {
-      "id": "dydi_c:C18",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_c--C18/record.json"
-    },
     {
       "id": "dydi_d:evagrius-praktikos",
       "status": "queued",
@@ -631,6 +529,66 @@
       "status": "partial_online",
       "next_action": "追奥地利国家图书馆影像和较新Kraus校本；原文重构与实存字母分开。",
       "record_path": "books/dydi_b--B18/record.json"
+    },
+    {
+      "id": "dydi_c:C01",
+      "status": "partial_online",
+      "next_action": "逐字母核完PG65 cols.71—440，另取原文校本扫描；不要与系统集合并。",
+      "record_path": "books/dydi_c--C01/record.json"
+    },
+    {
+      "id": "dydi_c:C02",
+      "status": "metadata_only",
+      "next_action": "追希腊系统集SC387/474/498或早期拉丁Verba seniorum；先比对编排，不能用字母集替代。",
+      "record_path": "books/dydi_c--C02/record.json"
+    },
+    {
+      "id": "dydi_c:C05",
+      "status": "metadata_only",
+      "next_action": "追Greek Historia monachorum与Rufinus拉丁改写分别的旧校本；新生成英文译文不能替代既有底本。",
+      "record_path": "books/dydi_c--C05/record.json"
+    },
+    {
+      "id": "dydi_c:C07",
+      "status": "needs_review",
+      "next_action": "取得Besa科普特旧版／Leipoldt或Amélineau本；核叙利亚文本与其关系，再判断可译范围。",
+      "record_path": "books/dydi_c--C07/record.json"
+    },
+    {
+      "id": "dydi_c:C10",
+      "status": "scan_candidate",
+      "next_action": "先列Senodos构件矩阵，把Horner具体条号映射到既有使徒传统；再查未覆盖构件，不能合成一部假定全书。",
+      "record_path": "books/dydi_c--C10/record.json"
+    },
+    {
+      "id": "dydi_c:C11",
+      "status": "scan_candidate",
+      "next_action": "打开候选版权页核Tzadua／Strauss版及正文范围；并查Guidi旧吉兹校本／意译，保留版本差别。",
+      "record_path": "books/dydi_c--C11/record.json"
+    },
+    {
+      "id": "dydi_c:C12",
+      "status": "metadata_only",
+      "next_action": "从CAe2598链接追具体手稿号和可读影像；IA该限定查询0命中，仅说明此检索范围，不代表全文不存在。",
+      "record_path": "books/dydi_c--C12/record.json"
+    },
+    {
+      "id": "dydi_c:C13",
+      "status": "partial_online",
+      "next_action": "核TITUS章节总数和末章，并保留1909版页行号；现代Thomson英译另核权限和覆盖。",
+      "record_path": "books/dydi_c--C13/record.json"
+    },
+    {
+      "id": "dydi_c:C16",
+      "status": "needs_review",
+      "next_action": "取得格鲁吉亚原文及Lang或新译对应；用亚美尼亚长／短本作对照，不能无说明替代。",
+      "record_path": "books/dydi_c--C16/record.json"
+    },
+    {
+      "id": "dydi_c:C17",
+      "status": "metadata_only",
+      "next_action": "优先找Marr1911格鲁吉亚原文与俄译扫描，再核Peeters拉丁版；不要把Lang155—165页节述当全部原作。",
+      "record_path": "books/dydi_c--C17/record.json"
     }
   ]
 }

@@ -49,9 +49,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "埃兹尼克1853法译：全文与分卷导航",
+        "url": "https://fr.wikisource.org/wiki/R%C3%A9futation_des_sectes/Texte_entier",
+        "kind": "fulltext",
+        "language": "法语",
+        "edition": "Paul-Émile Le Vaillant de Florival译，1853",
+        "coverage": "四卷Réfutation des sectes及附录；原语是亚美尼亚语",
+        "verification": "打开单页全文及Livre1，核编译来源、分卷和正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "1853旧译；电子转录按维基文库页所示许可署名引用。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:53.538511+00:00",
@@ -75,10 +87,16 @@
         "url": "https://www.finna.fi/Record/fikka.1217299?lng=en-gb",
         "final_url": "https://www.finna.fi/Record/fikka.1217299?lng=en-gb",
         "result": "HTTP 200；A treatise On God written in Armenian by Eznik of Kolb (floruit c. 430-c. 450) | The National Library | Finna.fi。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Eznik Refutation sectes1853 numérisé; Wikisource",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:53.538511+00:00",
+    "next_action": "核1853扫描底本与较新原语校本；现代研究题名De Deo与传统题名对应不拆为两部。",
+    "updated_at": "2026-11-10T05:57:13.785846+00:00",
     "discovery_pass_done": true
   }
 }

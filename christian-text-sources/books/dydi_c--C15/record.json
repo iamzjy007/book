@@ -49,9 +49,36 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Samuelian英译95祷文阅读器",
+        "url": "https://www.arak29.org/stgregoryofnarek/book.php?id=10&parent_id=10",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "Thomas J. Samuelian；2001初版，站点导言含2017／2021修订说明",
+        "coverage": "导航列95祷文及colophon；抽核第9、48、95正文",
+        "verification": "实际打开祷文页面，已读译者导言与修订说明；不冒充Terian2021版。",
+        "accessed": "2026-11-10",
+        "rights_note": "现代译者／项目公开阅读版；翻译出版使用条件另核。",
+        "sample_urls": [
+          "https://www.arak29.org/stgregoryofnarek/book.php?parent_id=49&type=2&type_1=none",
+          "https://www.arak29.org/stgregoryofnarek/book.php?parent_id=96&type=2&type_1=none"
+        ]
+      },
+      {
+        "label": "Clerus对照入口（部分祷文）",
+        "url": "https://www.clerus.org/bibliaclerusonline/en/edi.htm",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Clerus online所载Gregory Narek Prayers；具体版次另核",
+        "coverage": "当前页面包含开头数篇，后续分页另查",
+        "verification": "实际读取正文；单页不能代表95篇全收。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:54.835270+00:00",
@@ -75,10 +102,16 @@
         "url": "https://armunicat.nla.am/cgi-bin/koha/opac-detail.pl?biblionumber=1838496&query_desc=",
         "final_url": "https://armunicat.nla.am/cgi-bin/koha/opac-detail.pl?biblionumber=1838496&query_desc=",
         "result": "HTTP 403；Just a moment...；实际为人机验证，不是资源内容。。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Gregory Narek Book Prayers online; arak29 Samuelian",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:54.835270+00:00",
+    "next_action": "补古典亚美尼亚语校本，并核95篇逐篇页面是否齐全；与原书目Terian译本保持版本区别。",
+    "updated_at": "2026-11-10T05:57:13.786190+00:00",
     "discovery_pass_done": true
   }
 }

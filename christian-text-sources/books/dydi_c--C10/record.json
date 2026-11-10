@@ -49,9 +49,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Senodos构件候选：Horner1904使徒条例",
+        "url": "https://archive.org/details/statutesapostle00unkngoog",
+        "kind": "scan_candidate",
+        "language": "吉兹语／阿拉伯语／英语等",
+        "edition": "G. Horner, The Statutes of the Apostles; or Canones ecclesiastici, 1904",
+        "coverage": "只涵盖Senodos相关构件，不能等同Senodos全体",
+        "verification": "IA按具体题名检索命中唯一1904版本，作者和多语范围已核；尚未读扫描正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "作品身份CAe2317",
+        "url": "https://cae.ethiopicist.com/works/2317/",
+        "kind": "metadata",
+        "language": "吉兹语作品身份",
+        "edition": "CAe2317 / LIT2317Senodo",
+        "coverage": "身份记录及XML外链，不是原作正文",
+        "verification": "实读作品身份页，原研究引用仍保留。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:44.754905+00:00",
@@ -75,10 +98,16 @@
         "url": "https://iris.uniroma1.it/handle/11573/1693213",
         "final_url": "https://iris.uniroma1.it/handle/11573/1693213",
         "result": "HTTP 200；The Critical Edition of the Ethiopic Senodos. Some Preliminary Remarks。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Senodos Horner1904 archive; IA title Statutes of the Apostles",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:44.754905+00:00",
+    "next_action": "先列Senodos构件矩阵，把Horner具体条号映射到既有使徒传统；再查未覆盖构件，不能合成一部假定全书。",
+    "updated_at": "2026-11-10T05:57:13.784313+00:00",
     "discovery_pass_done": true
   }
 }

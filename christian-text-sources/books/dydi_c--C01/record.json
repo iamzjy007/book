@@ -49,9 +49,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "希腊字母集：α—γ与英译对照",
+        "url": "https://ldysinger.com/%40texts/0400_apophth/greek_alph/01_Introd_alpha-gamma.htm",
+        "kind": "partial",
+        "language": "希腊语／英语",
+        "edition": "希腊原文PG65 cols.71—440传统；英译Benedicta Ward",
+        "coverage": "当前打开导言及α—γ部分；不据单页声称整个字母集齐全",
+        "verification": "已读取页题、版源及希腊／英语正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "现代英译权利须另核；优先原语旧校本。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:36.767665+00:00",
@@ -75,10 +87,16 @@
         "url": "https://opac.uibe.edu.cn/opac/book/b0ced071c2573523dde3333cdc069f16",
         "final_url": "https://opac.uibe.edu.cn/opac/book/b0ced071c2573523dde3333cdc069f16",
         "result": "HTTP 503；。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Apophthegmata alphabetic Greek text online; Dysinger Greek alphabetic",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:36.767665+00:00",
+    "next_action": "逐字母核完PG65 cols.71—440，另取原文校本扫描；不要与系统集合并。",
+    "updated_at": "2026-11-10T05:57:13.780004+00:00",
     "discovery_pass_done": true
   }
 }

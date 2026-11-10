@@ -1,16 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T05:53:29.609900+00:00",
+  "updated_at": "2026-11-10T05:57:40.508716+00:00",
   "total": 110,
   "counts": {
-    "partial_online": 14,
-    "fulltext_online": 5,
-    "metadata_only": 7,
-    "scan_candidate": 6,
+    "partial_online": 16,
+    "fulltext_online": 12,
+    "metadata_only": 11,
+    "scan_candidate": 8,
     "blocked": 1,
-    "queued": 77
+    "needs_review": 2,
+    "queued": 60
   },
-  "next_task": "dydi_c:C01",
+  "next_task": "dydi_d:evagrius-praktikos",
   "background_process": false,
   "record_files_are_authoritative": true,
   "resume_instruction": "先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。"

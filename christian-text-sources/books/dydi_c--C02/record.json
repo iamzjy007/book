@@ -43,9 +43,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "系统集正式英译入口",
+        "url": "https://litpress.org/Products/CS240P/The-Book-of-the-Elders",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "John Wortley, The Book of the Elders, CS240",
+        "coverage": "现代系统集版本；没有取得对应开放正文",
+        "verification": "出版社介绍实读，IA精确题名初检未命中。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:37.574643+00:00",
@@ -62,10 +74,16 @@
         "url": "https://litpress.org/Products/CS240P/The-Book-of-the-Elders",
         "final_url": "https://litpress.org/Products/CS240P/The-Book-of-the-Elders",
         "result": "HTTP 200；The Book of the Elders: Sayings of the Desert Fathers: The Systematic Collection: Translated by John Wortley; Foreword by Bernard Flusin: 9780879076900: litpress.org : Paperback。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Apophthegmata Systematic Collection full text; IA精确题名",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:37.574643+00:00",
+    "next_action": "追希腊系统集SC387/474/498或早期拉丁Verba seniorum；先比对编排，不能用字母集替代。",
+    "updated_at": "2026-11-10T05:57:13.780799+00:00",
     "discovery_pass_done": true
   }
 }

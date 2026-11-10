@@ -48,9 +48,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "TITUS亚美尼亚语原文第一章",
+        "url": "https://www.titus.uni-frankfurt.de/texte/etcs/arm/agath/agath001.htm",
+        "kind": "partial",
+        "language": "古典亚美尼亚语",
+        "edition": "Ter-Mkrtčʿean／Kanayancʿ, Tiflis1909；TITUS电子文本",
+        "coverage": "已打开第1章；目录其余章待逐项检查",
+        "verification": "实际读取亚美尼亚语正文、1909底本和TITUS录入说明。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:48.019067+00:00",
@@ -81,10 +93,16 @@
         "url": "https://iucat.iu.edu/iuk/3528414",
         "final_url": "https://iucat.iu.edu/iuk/3528414",
         "result": "HTTP 200；History of the Armenians | Search Results | IUCAT Kokomo !。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Agathangelos History Armenians full text; TITUS Agathangelos",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:48.019067+00:00",
+    "next_action": "核TITUS章节总数和末章，并保留1909版页行号；现代Thomson英译另核权限和覆盖。",
+    "updated_at": "2026-11-10T05:57:13.785454+00:00",
     "discovery_pass_done": true
   }
 }

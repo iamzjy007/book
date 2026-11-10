@@ -50,9 +50,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "吉兹Josippon作品身份与异名",
+        "url": "https://cae.ethiopicist.com/works/2598/",
+        "kind": "metadata",
+        "language": "吉兹语传统",
+        "edition": "CAe2598 / LIT2598ZenaAy",
+        "coverage": "Zenā ʾAyhud等身份；不是犹太古史全文",
+        "verification": "已打开作品页，确认存在吉兹题名及BetaMasaheft／GitHub入口；未取得正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:46.810749+00:00",
@@ -76,10 +88,16 @@
         "url": "https://catalogue.bnf.fr/ark%3A/12148/cb165216156",
         "final_url": "https://catalogue.bnf.fr/ark%3A/12148/cb165216156",
         "result": "HTTP 200；Notice de titre conventionnel \"Josippon\" | Accueil | Catalogue général | BnF- Bibliothèque nationale de France。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Ethiopic Josippon Dillmann text; IA title Josippon language gez",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:46.810749+00:00",
+    "next_action": "从CAe2598链接追具体手稿号和可读影像；IA该限定查询0命中，仅说明此检索范围，不代表全文不存在。",
+    "updated_at": "2026-11-10T05:57:13.785054+00:00",
     "discovery_pass_done": true
   }
 }

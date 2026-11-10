@@ -48,9 +48,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "needs_review",
+    "searched": true,
+    "resources": [
+      {
+        "label": "亚美尼亚长本的英文译文（相关异本）",
+        "url": "https://www.attalus.org/armenian/smam1.htm",
+        "kind": "partial",
+        "language": "英语（译自亚美尼亚语）",
+        "edition": "Fr. Krikor Maksoudian, The Passion of Saint Shushanik, 1999",
+        "coverage": "长亚美尼亚本；原目录关注格鲁吉亚本，不能视为同一底本",
+        "verification": "已读导言和长本正文，目录另列短本，标明非格鲁吉亚语原文。",
+        "accessed": "2026-11-10",
+        "rights_note": "站点标仅非商业教育／研究用途。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:55.548833+00:00",
@@ -74,10 +86,16 @@
         "url": "https://opac.sciencelib.ge/cgi-bin/koha/opac-detail.pl?biblionumber=649227",
         "final_url": "https://opac.sciencelib.ge/cgi-bin/koha/opac-detail.pl?biblionumber=649227",
         "result": "HTTP 200；Details for: \n    Lives and legends of the Georgian saints / \n\n\n\n\n\n\n › ეროვნული სამეცნიერო ბიბლიოთეკა : National Science Library catalog。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Shushanik Lang text online; Attalus Passion Saint Shushanik",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:55.548833+00:00",
+    "next_action": "取得格鲁吉亚原文及Lang或新译对应；用亚美尼亚长／短本作对照，不能无说明替代。",
+    "updated_at": "2026-11-10T05:57:13.786660+00:00",
     "discovery_pass_done": true
   }
 }
