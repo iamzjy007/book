@@ -1,0 +1,247 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb12",
+  "title": "居普良案录",
+  "status": "translated_self_reviewed",
+  "expected_units": 33,
+  "next_unit": null,
+  "next_action": "该底本正文已全部译毕并由译者自校；保留review.md待核项，日后据新证据修订，不重复初译。",
+  "units": [
+    {
+      "id": "I.1",
+      "source_locator": "Gebhardt 1902, p. 124, I.1",
+      "source_anchor": "Imperatore Valeriano quartum",
+      "status": "self_reviewed",
+      "translation_sha256": "f4b7db7c4d154b5ea45038ef006022965d3a79afc428def72b01fa97e38b6e0f"
+    },
+    {
+      "id": "I.2",
+      "source_locator": "Gebhardt 1902, p. 124, I.2",
+      "source_anchor": "Christianus sum et episcopus",
+      "status": "self_reviewed",
+      "translation_sha256": "d16276044592a69529c8e8585bc23fd27b067b6a75d4f2ed75e338a892d571a3"
+    },
+    {
+      "id": "I.3",
+      "source_locator": "Gebhardt 1902, p. 124, I.3",
+      "source_anchor": "Bona uoluntas, quae deum nouit",
+      "status": "self_reviewed",
+      "translation_sha256": "d4c7ddba8e12c658877220273a879884eb0ca9a72f4e72cdac88e9513fa45369"
+    },
+    {
+      "id": "I.4",
+      "source_locator": "Gebhardt 1902, p. 124, I.4",
+      "source_anchor": "exsul ad urbem Curubitanam",
+      "status": "self_reviewed",
+      "translation_sha256": "d84af115986d5f472a39b883417a80d27b842f5850a24a13f3e4e18532ab5765"
+    },
+    {
+      "id": "I.5",
+      "source_locator": "Gebhardt 1902, p. 124—125, I.5",
+      "source_anchor": "Non solum de episcopis",
+      "status": "self_reviewed",
+      "translation_sha256": "d3455af8c634e17a8f7a28e2fcdddb65f8303dd4c144b2b1f6570f11ad8e4b02"
+    },
+    {
+      "id": "I.6",
+      "source_locator": "Gebhardt 1902, p. 125, I.6",
+      "source_anchor": "Legibus uestris bene atque utiliter",
+      "status": "self_reviewed",
+      "translation_sha256": "e3dd09d0666b92fb47753d0d951274085ddfa01fcf4c971090c51af222b288d3"
+    },
+    {
+      "id": "I.7",
+      "source_locator": "Gebhardt 1902, p. 125, I.7",
+      "source_anchor": "Cum disciplina prohibeat",
+      "status": "self_reviewed",
+      "translation_sha256": "8058944649dfb2509a1bed93894a1c8aedfc64cc0189a7f9b461e356a1c0e553"
+    },
+    {
+      "id": "I.8",
+      "source_locator": "Gebhardt 1902, p. 125, I.8",
+      "source_anchor": "ne in aliquibus locis conciliabula fiant",
+      "status": "self_reviewed",
+      "translation_sha256": "df502fc26f791dd0330861d77c1c37fbdc65326b75932b9d3340bb423aa3aef9"
+    },
+    {
+      "id": "II.1",
+      "source_locator": "Gebhardt 1902, p. 125, II.1",
+      "source_anchor": "Tunc Paternus proconsul iussit",
+      "status": "self_reviewed",
+      "translation_sha256": "169f7aad62cd3b712f0fb698c2e36ee996f67341f4fedeb0f7cc6513b57fc0ae"
+    },
+    {
+      "id": "II.2",
+      "source_locator": "Gebhardt 1902, p. 125, II.2",
+      "source_anchor": "Cyprianus sanctus martyr electus a deo",
+      "status": "self_reviewed",
+      "translation_sha256": "d40bb80a621b15b6fefa03359fdf3c7f7e9fc35d7ea05da72e8cd268850d82f7"
+    },
+    {
+      "id": "II.3",
+      "source_locator": "Gebhardt 1902, p. 125, II.3",
+      "source_anchor": "repente idibus Septembris Tusco et Basso",
+      "status": "self_reviewed",
+      "translation_sha256": "f73e2aec8e0d13206981ffe0319076f59a7cca3ce38bdcea57175ab2fb4e10b1"
+    },
+    {
+      "id": "II.4",
+      "source_locator": "Gebhardt 1902, p. 125—126, II.4",
+      "source_anchor": "in curriculum eum leuauerunt",
+      "status": "self_reviewed",
+      "translation_sha256": "a783da862d4a127debec6bc63547db3e6c4a4f177211c8354021f3274955afb9"
+    },
+    {
+      "id": "II.5",
+      "source_locator": "Gebhardt 1902, p. 126, II.5",
+      "source_anchor": "in aliam diem Cyprianum sibi reseruari",
+      "status": "self_reviewed",
+      "translation_sha256": "b9b2de801ece3eeed01eaa25b7756a77c0a78f652cff5dc82dde4f1ff216be6e"
+    },
+    {
+      "id": "II.6",
+      "source_locator": "Gebhardt 1902, p. 126, II.6",
+      "source_anchor": "ductus ad principem et stratorem",
+      "status": "self_reviewed",
+      "translation_sha256": "cbc916df3fede05cfc30a005df6e9d8d801b2d717a55859db6904a1094a51916"
+    },
+    {
+      "id": "II.7",
+      "source_locator": "Gebhardt 1902, p. 126, II.7",
+      "source_anchor": "custodiri puellas praecepit",
+      "status": "self_reviewed",
+      "translation_sha256": "b688afef4132f85bf00041acc67e82ba24d582be0e2c8759c68d6fae3e2b5cd7"
+    },
+    {
+      "id": "III.1",
+      "source_locator": "Gebhardt 1902, p. 126, III.1",
+      "source_anchor": "altera die octaua decima kalendarum Octobrium",
+      "status": "self_reviewed",
+      "translation_sha256": "64aa002e1d90c1e5c9c87dfa78c807ce2d0e3a0254e6797cf069df204cfe45fd"
+    },
+    {
+      "id": "III.2",
+      "source_locator": "Gebhardt 1902, p. 126, III.2",
+      "source_anchor": "in atrio Sauciolo sedenti",
+      "status": "self_reviewed",
+      "translation_sha256": "70d156f1888d55c5cd0c6eefce3c92948c0181062a1c38f1dd9b7b003dd34c9c"
+    },
+    {
+      "id": "III.3",
+      "source_locator": "Gebhardt 1902, p. 126, III.3",
+      "source_anchor": "Tu es Thascius Cyprianus?",
+      "status": "self_reviewed",
+      "translation_sha256": "4fe42b0e3852d1f239acd582b7a0ee447a2fc21d627e385328df27d4a8874872"
+    },
+    {
+      "id": "III.4",
+      "source_locator": "Gebhardt 1902, p. 126, III.4",
+      "source_anchor": "Tu papam te sacrilegae mentis hominibus praebuisti?",
+      "status": "self_reviewed",
+      "translation_sha256": "d4e857033dfee4740a6b25b0869b27b69d04d5dda1da65b53e8824c38613f3c5"
+    },
+    {
+      "id": "III.5",
+      "source_locator": "Gebhardt 1902, p. 126, III.5",
+      "source_anchor": "Iusserunt te sacratissimi imperatores caeremoniari",
+      "status": "self_reviewed",
+      "translation_sha256": "364ca0c12e06be7bc5bb4c095f49331932cb6c865c1642431cc87204bee7f5c0"
+    },
+    {
+      "id": "III.6",
+      "source_locator": "Gebhardt 1902, p. 126, III.6",
+      "source_anchor": "in re tam iusta nulla est consultatio",
+      "status": "self_reviewed",
+      "translation_sha256": "7c01d913c497addb4b1e8c342c9754618927de1ab494e921eb7acb1c331062fa"
+    },
+    {
+      "id": "IV.1",
+      "source_locator": "Gebhardt 1902, p. 126—127, IV.1",
+      "source_anchor": "sententiam uix et aegre dixit",
+      "status": "self_reviewed",
+      "translation_sha256": "f8f9121895714508478e36c779b0eea017b74f501721166966bc23f9cbe0b379"
+    },
+    {
+      "id": "IV.2",
+      "source_locator": "Gebhardt 1902, p. 127, IV.2",
+      "source_anchor": "sanguine tuo sancietur disciplina",
+      "status": "self_reviewed",
+      "translation_sha256": "c70e434e10f87523a4706eee54f76e83fa28f6fb7797f802ec91528684e7f3e1"
+    },
+    {
+      "id": "IV.3",
+      "source_locator": "Gebhardt 1902, p. 127, IV.3",
+      "source_anchor": "Thascium Cyprianum gladio animaduerti placet",
+      "status": "self_reviewed",
+      "translation_sha256": "873418d3a5ff3c6faa69bf472ce72b71468c94fe399744041015cde11c194b25"
+    },
+    {
+      "id": "V.1",
+      "source_locator": "Gebhardt 1902, p. 127, V.1",
+      "source_anchor": "Et nos cum ipso decollemur",
+      "status": "self_reviewed",
+      "translation_sha256": "b9aa045dbb445b4e17a02d33324d060a021ba1fed3a5e5b8235fd8e43aaf24b6"
+    },
+    {
+      "id": "V.2",
+      "source_locator": "Gebhardt 1902, p. 127, V.2",
+      "source_anchor": "se lacerna byrro exspoliauit",
+      "status": "self_reviewed",
+      "translation_sha256": "76921687b26ec3f08b4727add716eb31d7f9f2976efdfe4be0a75bfb249550e7"
+    },
+    {
+      "id": "V.3",
+      "source_locator": "Gebhardt 1902, p. 127, V.3",
+      "source_anchor": "in linea stetit",
+      "status": "self_reviewed",
+      "translation_sha256": "10f29a5ee97038f3616ce9cfcfb7dd2551ff423dd1db89b5ffa888c6af181c43"
+    },
+    {
+      "id": "V.4",
+      "source_locator": "Gebhardt 1902, p. 127, V.4",
+      "source_anchor": "uiginti quinque aureos darent",
+      "status": "self_reviewed",
+      "translation_sha256": "2fbf499c66a72352959b518f5f71ff163d37e70358c35e2fa07449593ff2af08"
+    },
+    {
+      "id": "V.5",
+      "source_locator": "Gebhardt 1902, p. 127, V.5",
+      "source_anchor": "oculos sibi texit",
+      "status": "self_reviewed",
+      "translation_sha256": "e7546da642bef70aaccaae38f64cdd33fac6124a18b0165318f3ca0291faa791"
+    },
+    {
+      "id": "V.6",
+      "source_locator": "Gebhardt 1902, p. 127, V.6",
+      "source_anchor": "Iulianus presbyter et Iulianus subdiaconus",
+      "status": "self_reviewed",
+      "translation_sha256": "353ffe25b21d6e67c738bfb33cbd0946f5b18c04ce7b530a69dbbbd0fef7b1ab"
+    },
+    {
+      "id": "V.7",
+      "source_locator": "Gebhardt 1902, p. 127, V.7",
+      "source_anchor": "propter gentilium curiositatem",
+      "status": "self_reviewed",
+      "translation_sha256": "b3ba1f98733ec8e07c4c65c90c139f54288ee85175e70953c9dbe74f00ff799b"
+    },
+    {
+      "id": "V.8",
+      "source_locator": "Gebhardt 1902, p. 127—128, V.8",
+      "source_anchor": "ad areas Macrobii Candidiani procuratoris",
+      "status": "self_reviewed",
+      "translation_sha256": "d02d7515157f76998f939e4de519b2227eb2290524020f41c233fb4c3cad92a6"
+    },
+    {
+      "id": "VI.1",
+      "source_locator": "Gebhardt 1902, p. 128, VI.1",
+      "source_anchor": "regnante uero domino nostro Iesu Christo",
+      "status": "self_reviewed",
+      "translation_sha256": "c0652a5af8ebcf3e563872aae034ad4bfba08afe8de4d8546aba76868b543897"
+    }
+  ],
+  "review": {
+    "type": "translator_self_review",
+    "date": "2026-11-10",
+    "scope": "全文对照页图，核说话人、条件、否定、章段连续性、推测标记及术语；仍有待核项见review.md"
+  }
+}

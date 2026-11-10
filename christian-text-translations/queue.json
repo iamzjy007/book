@@ -8,24 +8,51 @@
       "id": "lori_b:lb09",
       "slug": "lori_b--lb09",
       "title": "西里坦殉道者案录",
-      "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "status": "translated_self_reviewed",
+      "next_action": "该底本正文已全部译毕并由译者自校；保留review.md待核项，日后据新证据修订，不重复初译。",
+      "original_language": "拉丁文",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "短篇殉道记正文"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb09/record.json",
+      "source_next_action": "从Gebhardt1902 pp22–26补拉丁及希腊异本；核Robinson初刊年份。"
     },
     {
       "order": 2,
       "id": "lori_b:lb12",
       "slug": "lori_b--lb12",
       "title": "居普良案录",
-      "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "status": "translated_self_reviewed",
+      "next_action": "该底本正文已全部译毕并由译者自校；保留review.md待核项，日后据新证据修订，不重复初译。",
+      "original_language": "拉丁文",
+      "available_languages": [
+        "拉丁语"
+      ],
+      "coverage_to_verify": [
+        "XI，印页124–128，Acta S. Cypriani"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb12/record.json",
+      "source_next_action": "补现代长短两本编号、BHL及校本；保留叙事与司法记录的区别。"
     },
     {
       "order": 3,
       "id": "lori_b:lb10",
       "slug": "lori_b--lb10",
       "title": "游斯丁及同伴殉道案录",
-      "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "status": "translated_self_reviewed",
+      "next_action": "该底本正文已全部译毕并由译者自校；保留review.md待核项，日后据新证据修订，不重复初译。",
+      "original_language": "希腊文，多个修订本",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "第I–V章；具体recension待与希腊三异本核对"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb10/record.json",
+      "source_next_action": "用Gebhardt1902或现代Musurillo比对recension，不能用Justin护教文代替殉道记。"
     },
     {
       "order": 4,
@@ -33,7 +60,16 @@
       "slug": "lori_b--lb15",
       "title": "塞巴斯特四十殉道者遗嘱",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先读原档案；核Gebhardt 1902印页166—170（IA页图n182—n186）全部希腊遗嘱正文及末尾，勿把171页起的Martyrium合入。确认全文后冻结章段表，从首段翻译并逐段自校。",
+      "original_language": "希腊文",
+      "available_languages": [
+        "希腊语"
+      ],
+      "coverage_to_verify": [
+        "XVI，印页166–170；后续171起的Martyrium是另一作品"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb15/record.json",
+      "source_next_action": "逐页对照166–170，补Bonwetsch所据见证与后续校本。"
     },
     {
       "order": 5,
@@ -41,7 +77,16 @@
       "slug": "lori_b--lb13",
       "title": "皮奥尼乌斯殉道记",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：逐页核96–114希腊文并对照Musurillo／Robert校本；不采网络新AI英译代替既有校本。",
+      "original_language": "希腊文",
+      "available_languages": [
+        "希腊语"
+      ],
+      "coverage_to_verify": [
+        "VIII，印页96–114，Martyrium Pionii"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb13/record.json",
+      "source_next_action": "逐页核96–114希腊文并对照Musurillo／Robert校本；不采网络新AI英译代替既有校本。"
     },
     {
       "order": 6,
@@ -49,7 +94,16 @@
       "slug": "lori_a--guigo-ladder",
       "title": "修士天梯",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：以README所链PL影像逐段核误字和完整性，再选SC163或其他校本；不能与John Climacus混同。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "拉丁语"
+      ],
+      "coverage_to_verify": [
+        "致Gervasius书信、十三章及结语16段；作者自述逐步转录，须与PL扫描核末尾"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--guigo-ladder/record.json",
+      "source_next_action": "以README所链PL影像逐段核误字和完整性，再选SC163或其他校本；不能与John Climacus混同。"
     },
     {
       "order": 7,
@@ -57,7 +111,16 @@
       "slug": "lori_a--augustine-happy-life",
       "title": "论幸福生活",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核电子本所据印本／勘误，补CSEL或CCSL现代校本页码对应。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "拉丁语"
+      ],
+      "coverage_to_verify": [
+        "独卷De beata vita，含章／节编号"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--augustine-happy-life/record.json",
+      "source_next_action": "核电子本所据印本／勘误，补CSEL或CCSL现代校本页码对应。"
     },
     {
       "order": 8,
@@ -65,7 +128,16 @@
       "slug": "lori_a--ambrose-death",
       "title": "论死亡之善",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "拉丁语"
+      ],
+      "coverage_to_verify": [
+        "独立作品正文；XML中translation／apparatus为占位，不含现代英译或完整校勘装置"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--ambrose-death/record.json",
+      "source_next_action": "校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。"
     },
     {
       "order": 9,
@@ -73,7 +145,16 @@
       "slug": "lori_a--ambrose-isaac",
       "title": "论以撒或灵魂",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "拉丁语"
+      ],
+      "coverage_to_verify": [
+        "独立作品正文；XML中translation／apparatus为占位，不含现代英译或完整校勘装置"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--ambrose-isaac/record.json",
+      "source_next_action": "校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。"
     },
     {
       "order": 10,
@@ -81,7 +162,20 @@
       "slug": "dydi_a--east-isaac-i",
       "title": "尼尼微的以撒：修道讲论第一集",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：翻译前核全书页序、章号和原文对应；优先使用可核的旧版扫描，OCR只供定位。",
+      "original_language": "叙利亚语；另有希腊译传",
+      "available_languages": [
+        "英语",
+        "叙利亚语",
+        "叙利亚语／英语"
+      ],
+      "coverage_to_verify": [
+        "第一集对应Bedjan正文传统；syri.ac列82章导航",
+        "以撒第一集旧版文本；不代替第二、第三集",
+        "第一集1—82章并列原文和英译链接；另列II、III版本"
+      ],
+      "source_record": "christian-text-sources/books/dydi_a--east-isaac-i/record.json",
+      "source_next_action": "翻译前核全书页序、章号和原文对应；优先使用可核的旧版扫描，OCR只供定位。"
     },
     {
       "order": 11,
@@ -89,7 +183,16 @@
       "slug": "dydi_a--east-sahdona-perfection",
       "title": "萨赫多纳：成全之书",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：定位该卷中成全之书的首末页，另列5封信及雅各附录；比对后出的CSCO校本及新残片。",
+      "original_language": "叙利亚语",
+      "available_languages": [
+        "叙利亚语（拉丁题名）"
+      ],
+      "coverage_to_verify": [
+        "现存成全之书、短作及附录；古书本身残缺，不能称原作无缺全本"
+      ],
+      "source_record": "christian-text-sources/books/dydi_a--east-sahdona-perfection/record.json",
+      "source_next_action": "定位该卷中成全之书的首末页，另列5封信及雅各附录；比对后出的CSCO校本及新残片。"
     },
     {
       "order": 12,
@@ -97,7 +200,16 @@
       "slug": "dydi_a--east-governors",
       "title": "院长之书（修道史）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补取同套卷1叙利亚语原文，建立英译页码对应，OCR需重新识别校订。",
+      "original_language": "叙利亚语",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "英译卷；原叙利亚语卷须另取"
+      ],
+      "source_record": "christian-text-sources/books/dydi_a--east-governors/record.json",
+      "source_next_action": "补取同套卷1叙利亚语原文，建立英译页码对应，OCR需重新识别校订。"
     },
     {
       "order": 13,
@@ -105,7 +217,18 @@
       "slug": "dydi_a--east-timothy-mahdi",
       "title": "提摩太一世与马赫迪哈里发的对话",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补叙利亚语原文及新版差异，避免把历史对话当逐字速记。",
+      "original_language": "叙利亚语原作；阿拉伯语改编传本",
+      "available_languages": [
+        "英语",
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "正文pp.16—90；序言另页；不是新版本The Patriarch and the Caliph",
+        "导言、编者及文本历史"
+      ],
+      "source_record": "christian-text-sources/books/dydi_a--east-timothy-mahdi/record.json",
+      "source_next_action": "补叙利亚语原文及新版差异，避免把历史对话当逐字速记。"
     },
     {
       "order": 14,
@@ -113,7 +236,18 @@
       "slug": "dydi_b--B16",
       "title": "亚戴之教训",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核扫描版叙利亚原文及英译对应；与仓库已有亚伯加书信建立重叠关系。",
+      "original_language": "待进一步核实",
+      "available_languages": [
+        "英语",
+        "叙利亚语／英语"
+      ],
+      "coverage_to_verify": [
+        "扩展本英译直至作品结束；不是仅亚伯加书信",
+        "同版原文与英译全卷候选"
+      ],
+      "source_record": "christian-text-sources/books/dydi_b--B16/record.json",
+      "source_next_action": "核扫描版叙利亚原文及英译对应；与仓库已有亚伯加书信建立重叠关系。"
     },
     {
       "order": 15,
@@ -121,7 +255,16 @@
       "slug": "dydi_c--C03",
       "title": "安东尼传",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文并核章号；中文已有出版线索，另作版本对照。",
+      "original_language": "希腊语；另有古拉丁、叙利亚、科普特等见证",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "Life of Antony，序言与编号正文"
+      ],
+      "source_record": "christian-text-sources/books/dydi_c--C03/record.json",
+      "source_next_action": "补希腊原文并核章号；中文已有出版线索，另作版本对照。"
     },
     {
       "order": 16,
@@ -129,7 +272,16 @@
       "slug": "dydi_c--C04",
       "title": "劳苏斯史",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：取得Butler希腊校本并核缩本／长本关系，现代Wortley译本不与1918旧译混记。",
+      "original_language": "希腊语；有长短本与叙利亚等译传",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "译文pp.35—180；目录含书信、序言及编号各章"
+      ],
+      "source_record": "christian-text-sources/books/dydi_c--C04/record.json",
+      "source_next_action": "取得Butler希腊校本并核缩本／长本关系，现代Wortley译本不与1918旧译混记。"
     },
     {
       "order": 17,
@@ -137,7 +289,16 @@
       "slug": "dydi_c--C06",
       "title": "帕科米乌斯会规",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核Boon Pachomiana Latina 1932 pp.1—74原版，并补科普特及希腊见证；注明使用古拉丁译本。",
+      "original_language": "科普特语形成背景，经希腊语传至拉丁；现存规则为复合传承",
+      "available_languages": [
+        "拉丁语（古译）"
+      ],
+      "coverage_to_verify": [
+        "前言及Praecepta、Instituta、Judicia、Leges等；不是原作科普特语全家族"
+      ],
+      "source_record": "christian-text-sources/books/dydi_c--C06/record.json",
+      "source_next_action": "核Boon Pachomiana Latina 1932 pp.1—74原版，并补科普特及希腊见证；注明使用古拉丁译本。"
     },
     {
       "order": 18,
@@ -145,7 +306,16 @@
       "slug": "dydi_c--C09",
       "title": "诸王荣耀",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补吉兹原文Bezold旧校本；翻译前抽核末章和页码，保留117正文与网站130项目之区别。",
+      "original_language": "吉兹语；序跋中的跨语翻译来源主张不能当作已证实逐级谱系",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "作品117章，网站另将书前、索引等分作130个导航项；不是古书130章"
+      ],
+      "source_record": "christian-text-sources/books/dydi_c--C09/record.json",
+      "source_next_action": "补吉兹原文Bezold旧校本；翻译前抽核末章和页码，保留117正文与网站130项目之区别。"
     },
     {
       "order": 19,
@@ -153,7 +323,16 @@
       "slug": "dydi_c--C14",
       "title": "埃兹尼克《论神／驳异端》",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核1853扫描底本与较新原语校本；现代研究题名De Deo与传统题名对应不拆为两部。",
+      "original_language": "古典亚美尼亚语，利用希腊/叙利亚思想资源",
+      "available_languages": [
+        "法语"
+      ],
+      "coverage_to_verify": [
+        "四卷Réfutation des sectes及附录；原语是亚美尼亚语"
+      ],
+      "source_record": "christian-text-sources/books/dydi_c--C14/record.json",
+      "source_next_action": "核1853扫描底本与较新原语校本；现代研究题名De Deo与传统题名对应不拆为两部。"
     },
     {
       "order": 20,
@@ -161,7 +340,18 @@
       "slug": "dydi_c--C15",
       "title": "纳雷克的格列高利《哀祷书》",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补古典亚美尼亚语校本，并核95篇逐篇页面是否齐全；与原书目Terian译本保持版本区别。",
+      "original_language": "古典亚美尼亚语",
+      "available_languages": [
+        "英语",
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "导航列95祷文及colophon；抽核第9、48、95正文",
+        "当前页面包含开头数篇，后续分页另查"
+      ],
+      "source_record": "christian-text-sources/books/dydi_c--C15/record.json",
+      "source_next_action": "补古典亚美尼亚语校本，并核95篇逐篇页面是否齐全；与原书目Terian译本保持版本区别。"
     },
     {
       "order": 21,
@@ -169,7 +359,16 @@
       "slug": "dydi_c--C18",
       "title": "马什托茨传",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补古典亚美尼亚语长本原文，核Norehad译本印本出处及章号，与Miloyan新版分列。",
+      "original_language": "古典亚美尼亚语",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "01.html=I—VI、02.html=VII—XV、03.html=XVI—XXIX"
+      ],
+      "source_record": "christian-text-sources/books/dydi_c--C18/record.json",
+      "source_next_action": "补古典亚美尼亚语长本原文，核Norehad译本印本出处及章号，与Miloyan新版分列。"
     },
     {
       "order": 22,
@@ -177,7 +376,16 @@
       "slug": "dydi_d--evagrius-praktikos",
       "title": "修行论（实践篇）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
+      "original_language": "希腊语；另有古译本",
+      "available_languages": [
+        "希腊语／英语"
+      ],
+      "coverage_to_verify": [
+        "序言及Praktikos百章；最终逐章比对待做"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--evagrius-praktikos/record.json",
+      "source_next_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。"
     },
     {
       "order": 23,
@@ -185,7 +393,16 @@
       "slug": "dydi_d--evagrius-gnostikos",
       "title": "属灵知识者（认识者篇）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
+      "original_language": "希腊原作仅存约半篇残文；完整50章靠叙利亚与亚美尼亚古译传承。",
+      "available_languages": [
+        "希腊语／英语"
+      ],
+      "coverage_to_verify": [
+        "Gnostikos五十章；希腊栏包含从叙利亚语回译，不应全部当希腊原件"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--evagrius-gnostikos/record.json",
+      "source_next_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。"
     },
     {
       "order": 24,
@@ -193,7 +410,16 @@
       "slug": "dydi_d--evagrius-on-prayer",
       "title": "论祈祷一百五十三章",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
+      "original_language": "希腊语；署名传承需据校本核",
+      "available_languages": [
+        "希腊语／英语"
+      ],
+      "coverage_to_verify": [
+        "序言及153章；注意网页字符编码和分栏"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--evagrius-on-prayer/record.json",
+      "source_next_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。"
     },
     {
       "order": 25,
@@ -201,7 +427,16 @@
       "slug": "dydi_d--maximus-love",
       "title": "论爱四百章",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语（外文译本）"
+      ],
+      "coverage_to_verify": [
+        "序言和四组百章，页面原文结构已核"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--maximus-love/record.json",
+      "source_next_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。"
     },
     {
       "order": 26,
@@ -209,7 +444,16 @@
       "slug": "dydi_d--maximus-ascetic-life",
       "title": "修行生活",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语（外文译本）"
+      ],
+      "coverage_to_verify": [
+        "对应Logos asketikos正文及注释"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--maximus-ascetic-life/record.json",
+      "source_next_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。"
     },
     {
       "order": 27,
@@ -217,7 +461,16 @@
       "slug": "dydi_d--maximus-mystagogy",
       "title": "教会奥秘释义",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语（外文译本）"
+      ],
+      "coverage_to_verify": [
+        "导言、I—XXIV和结论"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--maximus-mystagogy/record.json",
+      "source_next_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。"
     },
     {
       "order": 28,
@@ -225,7 +478,16 @@
       "slug": "dydi_d--maximus-thalassios",
       "title": "答塔拉修经文疑问",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语（外文译本）"
+      ],
+      "coverage_to_verify": [
+        "导言及问题1—65；不与Quaestiones et dubia混同"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--maximus-thalassios/record.json",
+      "source_next_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。"
     },
     {
       "order": 29,
@@ -233,7 +495,16 @@
       "slug": "dydi_d--symeon-ethical",
       "title": "伦理讲论（论神秘生活）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语（外文译本）"
+      ],
+      "coverage_to_verify": [
+        "网页神学讲论与伦理讲论；伦理讲论1—15，英文SVS分3册须另作对应"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--symeon-ethical/record.json",
+      "source_next_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。"
     },
     {
       "order": 30,
@@ -241,7 +512,16 @@
       "slug": "dydi_d--diadochos-hundred",
       "title": "属灵知识与分辨一百章",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文及该俄译编译者／印年，核100章与10定义边界。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语"
+      ],
+      "coverage_to_verify": [
+        "对应百章修行论，另有俄文Philokalia版本须分开"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--diadochos-hundred/record.json",
+      "source_next_action": "补希腊原文及该俄译编译者／印年，核100章与10定义边界。"
     },
     {
       "order": 31,
@@ -249,7 +529,16 @@
       "slug": "dydi_d--isaiah-asceticon",
       "title": "以赛亚修行讲论",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核29篇与原希腊修订本关系、版源印年，并补叙利亚传本差异。",
+      "original_language": "希腊语传统；另有叙利亚等传本",
+      "available_languages": [
+        "俄语"
+      ],
+      "coverage_to_verify": [
+        "作者目录列29篇，正文按篇编排；不同Greek/Syriac Asceticon修订本另核"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--isaiah-asceticon/record.json",
+      "source_next_action": "核29篇与原希腊修订本关系、版源印年，并补叙利亚传本差异。"
     },
     {
       "order": 32,
@@ -257,7 +546,16 @@
       "slug": "dydi_d--hesychios-watchfulness",
       "title": "论警醒与圣洁",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语（外文译本）"
+      ],
+      "coverage_to_verify": [
+        "独立作品章节；不同版本编号与作者称谓需对照"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--hesychios-watchfulness/record.json",
+      "source_next_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。"
     },
     {
       "order": 33,
@@ -265,7 +563,16 @@
       "slug": "dydi_d--mark-spiritual-law",
       "title": "论属灵律法二百章",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核201／200编号差异，取得希腊校本并记译者／印本。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语"
+      ],
+      "coverage_to_verify": [
+        "此版201条；原目录称200条，须对照不同编号和序言拆分，不能静默统一"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--mark-spiritual-law/record.json",
+      "source_next_action": "核201／200编号差异，取得希腊校本并记译者／印本。"
     },
     {
       "order": 34,
@@ -273,7 +580,16 @@
       "slug": "dydi_d--palamas-triads",
       "title": "为圣静修者辩护三组三论",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊校本及此俄译者、出版年，核三组三论全篇与英文选译边界。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语"
+      ],
+      "coverage_to_verify": [
+        "三个triads各三部分；网页含长篇正文和注释，非SVS英译选段"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--palamas-triads/record.json",
+      "source_next_action": "补希腊校本及此俄译者、出版年，核三组三论全篇与英文选译边界。"
     },
     {
       "order": 35,
@@ -281,7 +597,16 @@
       "slug": "dydi_d--nikephoros-watchfulness",
       "title": "论警醒与守心",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "original_language": "希腊语",
+      "available_languages": [
+        "俄语（外文译本）"
+      ],
+      "coverage_to_verify": [
+        "本卷尼基弗鲁斯守心全文段落；含其引述各教父材料"
+      ],
+      "source_record": "christian-text-sources/books/dydi_d--nikephoros-watchfulness/record.json",
+      "source_next_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。"
     },
     {
       "order": 36,
@@ -289,7 +614,16 @@
       "slug": "lori_a--cassian-conferences",
       "title": "会谈录（又译对谈录）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：逐篇核版源和Latin CSEL原文，建立章节对应；现代Ramsey译本与旧译分列。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "Conferences1—24；抽核首末会谈"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--cassian-conferences/record.json",
+      "source_next_action": "逐篇核版源和Latin CSEL原文，建立章节对应；现代Ramsey译本与旧译分列。"
     },
     {
       "order": 37,
@@ -297,7 +631,16 @@
       "slug": "lori_a--cassian-institutes",
       "title": "修院制度与八种恶习的医治",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：逐篇核版源和Latin CSEL原文，建立章节对应；现代Ramsey译本与旧译分列。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "Institutes Books I—XII；抽核首末卷"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--cassian-institutes/record.json",
+      "source_next_action": "逐篇核版源和Latin CSEL原文，建立章节对应；现代Ramsey译本与旧译分列。"
     },
     {
       "order": 38,
@@ -305,7 +648,16 @@
       "slug": "lori_a--augustine-catechizing",
       "title": "论教导初学者",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补拉丁原文，核章号；与现代Morality and Christian Asceticism的译文分列。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "De catechizandis rudibus正文及章节"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--augustine-catechizing/record.json",
+      "source_next_action": "补拉丁原文，核章号；与现代Morality and Christian Asceticism的译文分列。"
     },
     {
       "order": 39,
@@ -313,7 +665,16 @@
       "slug": "lori_a--augustine-letter130",
       "title": "致普罗巴论祈祷（书信130）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：优先映射仓库已有原文／中译，核拉丁Ep.130；不当新增未收作品重复翻译。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "完整Letter130条目；原研究已确认仓库现有书信集收本信"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--augustine-letter130/record.json",
+      "source_next_action": "优先映射仓库已有原文／中译，核拉丁Ep.130；不当新增未收作品重复翻译。"
     },
     {
       "order": 40,
@@ -321,7 +682,16 @@
       "slug": "lori_a--gregory-moralia",
       "title": "约伯记伦理释义",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补拉丁原文与1844各印本卷版权页；逐书核正文和缺注，现代Kerns译本另列。",
+      "original_language": "拉丁语",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "35书目录、Book1和Book35正文已核；网站提示部分注释尚补"
+      ],
+      "source_record": "christian-text-sources/books/lori_a--gregory-moralia/record.json",
+      "source_next_action": "补拉丁原文与1844各印本卷版权页；逐书核正文和缺注，现代Kerns译本另列。"
     },
     {
       "order": 41,
@@ -329,7 +699,16 @@
       "slug": "lori_b--lb01",
       "title": "使徒传统／使徒遗传",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补拉丁、科普特、阿拉伯等见证及现代重构差异；不得将Easton重构当唯一原文。",
+      "original_language": "希腊原本重构；拉丁、科普特、阿拉伯、吉兹等见证",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "该重构本的译文及说明；不是一份完整存世希腊抄本"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb01/record.json",
+      "source_next_action": "补拉丁、科普特、阿拉伯等见证及现代重构差异；不得将Easton重构当唯一原文。"
     },
     {
       "order": 42,
@@ -337,7 +716,18 @@
       "slug": "lori_b--lb02",
       "title": "使徒遗范／使徒训诲",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补Gibson叙利亚文卷，按章与Connolly校勘，现代译文使用另核。",
+      "original_language": "希腊原作片段；叙利亚为主要见证，另拉丁等",
+      "available_languages": [
+        "英语",
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "26章译文；网站说明不含长导论",
+        "本版英译；叙利亚文另卷"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb02/record.json",
+      "source_next_action": "补Gibson叙利亚文卷，按章与Connolly校勘，现代译文使用另核。"
     },
     {
       "order": 43,
@@ -345,7 +735,16 @@
       "slug": "lori_b--lb03",
       "title": "希波律陀教规",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：对照后续校本和编号；原归属希波吕托不是著者已证实。",
+      "original_language": "现存阿拉伯文；一般认为经科普特译自希腊",
+      "available_languages": [
+        "阿拉伯语／拉丁语"
+      ],
+      "coverage_to_verify": [
+        "旧版全卷，阿拉伯文与拉丁译文、序论及注释"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb03/record.json",
+      "source_next_action": "对照后续校本和编号；原归属希波吕托不是著者已证实。"
     },
     {
       "order": 44,
@@ -353,7 +752,16 @@
       "slug": "lori_b--lb04",
       "title": "我主遗训／主的遗嘱",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补Rahmani1899叙利亚文本与拉丁译文，核章节对应。",
+      "original_language": "原作希腊，叙利亚等译本；新识别希腊残片",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "两卷译文及注释"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb04/record.json",
+      "source_next_action": "补Rahmani1899叙利亚文本与拉丁译文，核章节对应。"
     },
     {
       "order": 45,
@@ -361,7 +769,16 @@
       "slug": "lori_b--lb05",
       "title": "特姆伊斯撒拉皮翁祷文集",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补Wobbermin希腊文校本并逐祷编号；本卷不是全套希腊原文。",
+      "original_language": "希腊文",
+      "available_languages": [
+        "英语／少量希腊语"
+      ],
+      "coverage_to_verify": [
+        "30篇祈祷的该版英译及导论／注释"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb05/record.json",
+      "source_next_action": "补Wobbermin希腊文校本并逐祷编号；本卷不是全套希腊原文。"
     },
     {
       "order": 46,
@@ -369,7 +786,16 @@
       "slug": "lori_b--lb06",
       "title": "亚他那修教规（科普特—阿拉伯传统）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：分开阿拉伯107条与科普特残存范围，提取原文时核对扫描；不因题署认定亚他那修亲著。",
+      "original_language": "科普特与阿拉伯传本",
+      "available_languages": [
+        "阿拉伯语／科普特语／英语"
+      ],
+      "coverage_to_verify": [
+        "阿拉伯与科普特见证及英译、校注"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb06/record.json",
+      "source_next_action": "分开阿拉伯107条与科普特残存范围，提取原文时核对扫描；不因题署认定亚他那修亲著。"
     },
     {
       "order": 47,
@@ -377,7 +803,16 @@
       "slug": "lori_b--lb07",
       "title": "埃格里亚游记／圣地朝圣记",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补电子转录所据校本和古抄本；现存正文可读不等于无缺古书。",
+      "original_language": "拉丁文",
+      "available_languages": [
+        "拉丁语"
+      ],
+      "coverage_to_verify": [
+        "现存正文I–XXIII与XXIV–XLIX；原作首尾缺损"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb07/record.json",
+      "source_next_action": "补电子转录所据校本和古抄本；现存正文可读不等于无缺古书。"
     },
     {
       "order": 48,
@@ -385,7 +820,16 @@
       "slug": "lori_b--lb08",
       "title": "波尔多朝圣者行程",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：以Perseus stoa0329.stoa001.opp-lat1或CSEL校本补校地名。",
+      "original_language": "拉丁文",
+      "available_languages": [
+        "拉丁语"
+      ],
+      "coverage_to_verify": [
+        "本页拉丁行程；需后续与CSEL或CCSL的章节／地名比对"
+      ],
+      "source_record": "christian-text-sources/books/lori_b--lb08/record.json",
+      "source_next_action": "以Perseus stoa0329.stoa001.opp-lat1或CSEL校本补校地名。"
     },
     {
       "order": 49,
@@ -393,7 +837,16 @@
       "slug": "root--teachings-silvanus",
       "title": "西尔瓦努斯训言（暂译）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：核Janssens科普特／法译校本版次及现有中文文集是否收录，补原语并核英译授权。",
+      "original_language": "存世萨希迪科普特语；推定希腊原作",
+      "available_languages": [
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "NHC VII,4对应英译；文本残缺按方括号保留"
+      ],
+      "source_record": "christian-text-sources/books/root--teachings-silvanus/record.json",
+      "source_next_action": "核Janssens科普特／法译校本版次及现有中文文集是否收录，补原语并核英译授权。"
     },
     {
       "order": 50,
@@ -401,7 +854,18 @@
       "slug": "root--pistis-sophia",
       "title": "皮斯提斯·索菲亚（信心与智慧；暂译）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补Askew科普特原文旧版／影像及现代Schmidt-MacDermot对照；核中文文集实际范围。",
+      "original_language": "科普特语传本；与希腊原作的关系待核",
+      "available_languages": [
+        "英语",
+        "德语"
+      ],
+      "coverage_to_verify": [
+        "该版六部编排的全卷英译；现代校本编排可能不同",
+        "Pistis Sophia印页1–256；后续Jeu及无题作品分开"
+      ],
+      "source_record": "christian-text-sources/books/root--pistis-sophia/record.json",
+      "source_next_action": "补Askew科普特原文旧版／影像及现代Schmidt-MacDermot对照；核中文文集实际范围。"
     },
     {
       "order": 51,
@@ -409,7 +873,20 @@
       "slug": "root--books-jeu",
       "title": "耶乌诸书／耶乌二书（暂译）",
       "status": "needs_completeness_check",
-      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：补Schmidt1892科普特校本及Bruce96图式，核2019Crégheur结构重辨；不是纳戈玛第出土抄本。",
+      "original_language": "科普特语，Bruce抄本家族",
+      "available_languages": [
+        "德语",
+        "英语",
+        "英语"
+      ],
+      "coverage_to_verify": [
+        "Die beiden Bücher des Jeû印页257–329；330起祈祷附录、335起无题作品，不能全混作Jeu",
+        "导论、篇章提要及选段；网页虽名Books of Jeu，并非两书全译",
+        "Bruce96身份、校本与译本导航"
+      ],
+      "source_record": "christian-text-sources/books/root--books-jeu/record.json",
+      "source_next_action": "补Schmidt1892科普特校本及Bruce96图式，核2019Crégheur结构重辨；不是纳戈玛第出土抄本。"
     }
   ]
 }

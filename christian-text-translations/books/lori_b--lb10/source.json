@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "source_record": "christian-text-sources/books/lori_b--lb10/record.json",
+  "edition": "Oscar von Gebhardt (ed.), Acta martyrum selecta, Berlin: Verlag von Alexander Duncker, 1902",
+  "work_title": "游斯丁及同伴殉道案录",
+  "language": "希腊语",
+  "translation_basis": "直接据所列古代原语校本翻译；未据现代外文译本转译",
+  "accessed": "2026-11-10",
+  "printed_pages": "18—21",
+  "source_urls": [
+    "https://archive.org/details/actamartyrumsel00gebhgoog",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n34.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n35.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n36.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n37.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg"
+  ],
+  "artifacts": [
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n34.jpg",
+      "printed_page": 18,
+      "sha256": "fd1764cc711b348cbbd7f5aaf503dcb6e03088888618f9a690abb7d46e492170",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n35.jpg",
+      "printed_page": 19,
+      "sha256": "c438cf278f74dac9435206d9e3ad847dc1cce777e91259f537853e65624abef1",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n36.jpg",
+      "printed_page": 20,
+      "sha256": "8f2caf6dd4d0ec8d1f9ad45ad61c29509416c9a8a4948fa91e0184229487babc",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n37.jpg",
+      "printed_page": 21,
+      "sha256": "008388a2e7fad98d1c9eb6eb381e02d0cafd9d5d17914d0eabf1d22e456df84f",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg",
+      "printed_page": "title page",
+      "sha256": "85e35af4f6439f7ce8ac8eba1abf3fb7e90639ce2dc452bba052ec3964a81064",
+      "role": "题页已目视核读：Berlin, Verlag von Alexander Duncker, 1902"
+    }
+  ],
+  "completeness": {
+    "verified": true,
+    "scope": "1902版第III项I—VI章32段全部正文，含收殓及末尾Amen；原英译五章不作为本次章号。",
+    "method": "按页图连续核读全部指定篇幅、章段与终段；只取该项正文，不把校勘脚注和相邻异本并入。",
+    "limits": "主文有校者改读及不顺句法，正文以拟补明确标出；未核全部手稿，recension确切标签待核。"
+  },
+  "rights_basis": "古代原作及1902年旧版校本；不复制现代译本。仅保留定位、锚点、页图哈希及中文译文。",
+  "review_level": "译者逐句自校，非独立专家审定"
+}

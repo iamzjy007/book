@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb10",
+  "title": "游斯丁及同伴殉道案录",
+  "status": "translated_self_reviewed",
+  "expected_units": 32,
+  "next_unit": null,
+  "next_action": "该底本正文已全部译毕并由译者自校；保留review.md待核项，日后据新证据修订，不重复初译。",
+  "units": [
+    {
+      "id": "I.1",
+      "source_locator": "Gebhardt 1902, p. 18, I.1",
+      "source_anchor": "Ἐν τῷ καιρῷ τῶν ἀνόμων ὑπερμάχων",
+      "status": "self_reviewed",
+      "translation_sha256": "cc8e28f7840f2ce112a2f3c7d0893704e8ed5d65388aff9b01e79f75747d60e9"
+    },
+    {
+      "id": "I.2",
+      "source_locator": "Gebhardt 1902, p. 18, I.2",
+      "source_anchor": "συλληφθέντες οὖν οἱ ἅγιοι ἄνδρες",
+      "status": "self_reviewed",
+      "translation_sha256": "9bc33ec5eccef8303126ad410000b6c675ee7e00fbe0df729c7cf7c0997e8189"
+    },
+    {
+      "id": "II.1",
+      "source_locator": "Gebhardt 1902, p. 18, II.1",
+      "source_anchor": "Πρῶτον πείσθητι τοῖς θεοῖς",
+      "status": "self_reviewed",
+      "translation_sha256": "771bcc33811325a0589bd691ac8226782dfd3daecd3847b39d1466e796934c9c"
+    },
+    {
+      "id": "II.2",
+      "source_locator": "Gebhardt 1902, p. 18, II.2",
+      "source_anchor": "Ἄμεμπτον καὶ ἀκατάγνωστον",
+      "status": "self_reviewed",
+      "translation_sha256": "43c7a2b7ad1f140aa7b8ca4167344198499b3f31d4dd50fdc48be1e3133e3456"
+    },
+    {
+      "id": "II.3",
+      "source_locator": "Gebhardt 1902, p. 18, II.3",
+      "source_anchor": "Ποίους λόγους μεταχειρίζεις;",
+      "status": "self_reviewed",
+      "translation_sha256": "f02d7527cc958b48e9ad230f0aba81eb6fffe73e4dc63fd4114b9646e3f5ec3c"
+    },
+    {
+      "id": "II.4",
+      "source_locator": "Gebhardt 1902, p. 18, II.4",
+      "source_anchor": "Ἐκεῖνοί σε ἀρέσκουσιν οἱ λόγοι",
+      "status": "self_reviewed",
+      "translation_sha256": "d2cd32c9dc513229897710490d12e4b782b7360abd39612c2031a38130c0d2b9"
+    },
+    {
+      "id": "II.5",
+      "source_locator": "Gebhardt 1902, p. 18—19, II.5",
+      "source_anchor": "κύριον Ἰησοῦν Χριστὸν παῖδα θεοῦ",
+      "status": "self_reviewed",
+      "translation_sha256": "37ef4f79fd68d5a5cfa380d7186be14552e6ffc6ff1e7106a13c73043e5d0301"
+    },
+    {
+      "id": "II.6",
+      "source_locator": "Gebhardt 1902, p. 19, II.6",
+      "source_anchor": "προφητικήν τινα δύναμιν ὁμολογῶν",
+      "status": "self_reviewed",
+      "translation_sha256": "30928e7e015a10f69e39735727981d9d31ca8e49e564429d53e8f56b358877d2"
+    },
+    {
+      "id": "II.7",
+      "source_locator": "Gebhardt 1902, p. 19, II.7",
+      "source_anchor": "θεοῦ υἱὸν ὄντα",
+      "status": "self_reviewed",
+      "translation_sha256": "9a375e9902886ee0e4b0fd48ba8a0dd457494aceab3e4388a5ff2e7fad87a5fe"
+    },
+    {
+      "id": "III.1",
+      "source_locator": "Gebhardt 1902, p. 19, III.1",
+      "source_anchor": "ὁ θεὸς τῶν Χριστιανῶν τόπῳ οὐ περιγράφεται",
+      "status": "self_reviewed",
+      "translation_sha256": "f3ba0283769d215823d477d9aef2138e9bfc5872abd85308af0af2b0add61345"
+    },
+    {
+      "id": "III.2",
+      "source_locator": "Gebhardt 1902, p. 19, III.2",
+      "source_anchor": "εἰς ποῖον τόπον ἀθροίζεις τοὺς μαθητάς σου",
+      "status": "self_reviewed",
+      "translation_sha256": "1557708e83fdaf93255cd2393daf3a4c10834b83b485ee7eb9efb086fb896a63"
+    },
+    {
+      "id": "III.3",
+      "source_locator": "Gebhardt 1902, p. 19, III.3",
+      "source_anchor": "Μαρτίνου τοῦ Τιμοθίνου βαλανείου",
+      "status": "self_reviewed",
+      "translation_sha256": "8cde46c5ca87b0e331404e271ed991a456806c0e735d6c566ced01cdc07a9f04"
+    },
+    {
+      "id": "III.4",
+      "source_locator": "Gebhardt 1902, p. 19, III.4",
+      "source_anchor": "Ναί, Χριστιανός εἰμι",
+      "status": "self_reviewed",
+      "translation_sha256": "fce577c3800d35bea9e860f005fd3dc9a55246c0266b8a47bb0264203dd27a5f"
+    },
+    {
+      "id": "IV.1",
+      "source_locator": "Gebhardt 1902, p. 19, IV.1",
+      "source_anchor": "Χριστιανός εἰμι θεοῦ κελεύσει",
+      "status": "self_reviewed",
+      "translation_sha256": "e343ba6779eac3e52779b08bc08f6091ab58e61820694967a77f8018697bc640"
+    },
+    {
+      "id": "IV.2",
+      "source_locator": "Gebhardt 1902, p. 19, IV.2",
+      "source_anchor": "Χριστιανή εἰμι τῇ τοῦ θεοῦ δωρεᾷ",
+      "status": "self_reviewed",
+      "translation_sha256": "1bf42b5c21d21e3dd9c3ab52e9d2f4dc6b403b963928c6032eb84dfb67af905e"
+    },
+    {
+      "id": "IV.3",
+      "source_locator": "Gebhardt 1902, p. 19—20, IV.3",
+      "source_anchor": "Εὐέλπιστος, δοῦλος Καίσαρος",
+      "status": "self_reviewed",
+      "translation_sha256": "bcadc0153100d7b7c13c243961b9e60010000932eeec4241d7c359fd4a53c41a"
+    },
+    {
+      "id": "IV.4",
+      "source_locator": "Gebhardt 1902, p. 20, IV.4",
+      "source_anchor": "τὸν γὰρ αὐτὸν θεὸν σέβομαι",
+      "status": "self_reviewed",
+      "translation_sha256": "a23416e3e96df443c1bfdc6ddf6ec48f121980b1889dcbfdd6ef2dcc4eddc74c"
+    },
+    {
+      "id": "IV.5",
+      "source_locator": "Gebhardt 1902, p. 20, IV.5",
+      "source_anchor": "Ἤμην Χριστιανὸς καὶ ἔσομαι",
+      "status": "self_reviewed",
+      "translation_sha256": "36550c8bd0e464a5c545ad2dd713ddbd00b3116aafb2c087513bedb88d8fb9a6"
+    },
+    {
+      "id": "IV.6",
+      "source_locator": "Gebhardt 1902, p. 20, IV.6",
+      "source_anchor": "τὴν καλὴν ταύτην ὁμολογίαν",
+      "status": "self_reviewed",
+      "translation_sha256": "6e1e17265ed80f58c9da3ac10f879e150afcb83169149945058c8a7e8ddfff97"
+    },
+    {
+      "id": "IV.7",
+      "source_locator": "Gebhardt 1902, p. 20, IV.7",
+      "source_anchor": "Ἐν τῇ Καππαδοκίᾳ",
+      "status": "self_reviewed",
+      "translation_sha256": "aaf0e53f16cb751a77172ce4a1baef2a353d6ee20e89145060178ef093340f50"
+    },
+    {
+      "id": "IV.8",
+      "source_locator": "Gebhardt 1902, p. 20, IV.8",
+      "source_anchor": "πατήρ ἐστιν ὁ Χριστός",
+      "status": "self_reviewed",
+      "translation_sha256": "412a2001dc8dfc7db1ce3dbf489686b6b629ef8adc1e9789f61a124effdc2e5b"
+    },
+    {
+      "id": "IV.9",
+      "source_locator": "Gebhardt 1902, p. 20, IV.9",
+      "source_anchor": "οὐδὲ σὺ εὐσεβεῖς;",
+      "status": "self_reviewed",
+      "translation_sha256": "1205c45477b1858c1e435ff4c2a9932bdd8cfa099b79d947bf6eab5d921ac669"
+    },
+    {
+      "id": "V.1",
+      "source_locator": "Gebhardt 1902, p. 20, V.1",
+      "source_anchor": "ἐὰν μαστιγωθεὶς ἀποκεφαλισθῇς",
+      "status": "self_reviewed",
+      "translation_sha256": "84211a124966fee060e99ad919293ae90d5e33643a4a71ce925d6d7ed8181646"
+    },
+    {
+      "id": "V.2",
+      "source_locator": "Gebhardt 1902, p. 20, V.2",
+      "source_anchor": "Ἐλπίζω ἕξειν αὐτοῦ τὰ δώματα",
+      "status": "self_reviewed",
+      "translation_sha256": "f8e752ab468b4a9e0d756170e84bc478c4434d276b97732272c63d0c4e302b07"
+    },
+    {
+      "id": "V.3",
+      "source_locator": "Gebhardt 1902, p. 20—21, V.3",
+      "source_anchor": "Οὐχ ὑπονοῶ, ἀλλ᾽ ἐπίσταμαι",
+      "status": "self_reviewed",
+      "translation_sha256": "a55b7fbbb97b99d025a9ef2a9f5e13ada07cfd5417d8a237d4c4e9c65ee3245c"
+    },
+    {
+      "id": "V.4",
+      "source_locator": "Gebhardt 1902, p. 21, V.4",
+      "source_anchor": "Οὐδεὶς εὖ φρονῶν",
+      "status": "self_reviewed",
+      "translation_sha256": "565f580bbad2be937dab5b45e3c72636960c18a0b500e85475f81926f1e15e81"
+    },
+    {
+      "id": "V.5",
+      "source_locator": "Gebhardt 1902, p. 21, V.5",
+      "source_anchor": "τιμωρηθήσεσθε ἀνηλεῶς",
+      "status": "self_reviewed",
+      "translation_sha256": "36cd9a23024f25005756439cdbde9c3fdaa058e344c99f354a95a383ef4c861e"
+    },
+    {
+      "id": "V.6",
+      "source_locator": "Gebhardt 1902, p. 21, V.6",
+      "source_anchor": "Δι᾽ εὐχῆς ἔχομεν",
+      "status": "self_reviewed",
+      "translation_sha256": "99a6e8d459d2f9ed1053beb60de2f13d1db7376feabb5d25dd8bd691780293f0"
+    },
+    {
+      "id": "V.7",
+      "source_locator": "Gebhardt 1902, p. 21, V.7",
+      "source_anchor": "εἰδώλοις οὐ θύομεν",
+      "status": "self_reviewed",
+      "translation_sha256": "d9978209912bf72bbd4184891e3ace80b4c6d0e3875f47550e7241e04d183a62"
+    },
+    {
+      "id": "V.8",
+      "source_locator": "Gebhardt 1902, p. 21, V.8",
+      "source_anchor": "κεφαλικὴν ἀποτιννύντες δίκην",
+      "status": "self_reviewed",
+      "translation_sha256": "506cbc30d0323f35bb18ba686d128489532761c62bce5b98a9d3493f24e243cf"
+    },
+    {
+      "id": "VI.1",
+      "source_locator": "Gebhardt 1902, p. 21, VI.1",
+      "source_anchor": "δοξασθέντες τὸν θεόν",
+      "status": "self_reviewed",
+      "translation_sha256": "773a3df7121508e2bc1408d38a809a958f18f0eb2624f70fa08687a571231f1d"
+    },
+    {
+      "id": "VI.2",
+      "source_locator": "Gebhardt 1902, p. 21, VI.2",
+      "source_anchor": "συνεργασάσης αὐτοῖς τῆς χάριτος",
+      "status": "self_reviewed",
+      "translation_sha256": "b63191e0714e265860b142d5ed586ca3dae92371142aaee8d71503cf16f0643a"
+    }
+  ],
+  "review": {
+    "type": "translator_self_review",
+    "date": "2026-11-10",
+    "scope": "全文对照页图，核说话人、条件、否定、章段连续性、推测标记及术语；仍有待核项见review.md"
+  }
+}

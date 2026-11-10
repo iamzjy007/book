@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "source_record": "christian-text-sources/books/lori_b--lb09/record.json",
+  "edition": "Oscar von Gebhardt (ed.), Acta martyrum selecta, Berlin: Verlag von Alexander Duncker, 1902",
+  "work_title": "西里坦殉道者案录",
+  "language": "拉丁语",
+  "translation_basis": "直接据所列古代原语校本翻译；未据现代外文译本转译",
+  "accessed": "2026-11-10",
+  "printed_pages": "22—26",
+  "source_urls": [
+    "https://archive.org/details/actamartyrumsel00gebhgoog",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n38.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n39.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n40.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n41.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n42.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg"
+  ],
+  "artifacts": [
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n38.jpg",
+      "printed_page": 22,
+      "sha256": "8548cdd11aace5fbb4a5d8fb8efede49655630719bee9101dbb130be4909a080",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n39.jpg",
+      "printed_page": 23,
+      "sha256": "df2470847896d895249965a5067f6a2367bf4722a320af07582cfd71d6e5fe42",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n40.jpg",
+      "printed_page": 24,
+      "sha256": "7d6ae35caca7b4e9924c5f0270b435c308fe65eaf48f1e9b6d896d4b5d545540",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n41.jpg",
+      "printed_page": 25,
+      "sha256": "d54fb1176cce616547042256c79feacf6952efc6699d0d6154b5f0e2d4cf727e",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n42.jpg",
+      "printed_page": 26,
+      "sha256": "62edf31b4e6cdafa5310e1470eff3d953a6384ebd657d2732cb25f681b30d3a7",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg",
+      "printed_page": "title page",
+      "sha256": "85e35af4f6439f7ce8ac8eba1abf3fb7e90639ce2dc452bba052ec3964a81064",
+      "role": "题页已目视核读：Berlin, Verlag von Alexander Duncker, 1902"
+    }
+  ],
+  "completeness": {
+    "verified": true,
+    "scope": "1902版第IV项拉丁主文1—17段，含末句处决叙述；不含并排希腊异本或校勘脚注。",
+    "method": "按页图连续核读全部指定篇幅、章段与终段；只取该项正文，不把校勘脚注和相邻异本并入。",
+    "limits": "存在执政官姓名、称号及结尾异读；仅保证所选版本正文全篇已核，不宣称所有异本一致。"
+  },
+  "rights_basis": "古代原作及1902年旧版校本；不复制现代译本。仅保留定位、锚点、页图哈希及中文译文。",
+  "review_level": "译者逐句自校，非独立专家审定"
+}

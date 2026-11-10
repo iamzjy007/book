@@ -110,12 +110,29 @@ def main():
     next_unit = bookrecords[next_task]['next_unit'] if next_task in bookrecords else ('verify_source' if next_task else None)
     newprogress = dict(progress, completed_books=completed, reviewed_units=reviewed, registered_units=total, active_books=active, next_task=next_task, next_unit=next_unit)
     newqueue = dict(queue, tasks=derived)
+    labels = {'needs_completeness_check': '待完整性核验', 'ready': '可译', 'translating': '翻译中', 'translated_self_reviewed': '全文译毕并自校', 'deferred_incomplete': '残缺／范围暂缓', 'blocked_source': '核源受阻'}
+    catalog = ['# 翻译候选及阶段成果总目录', '', '本表由 scripts/check.py --refresh 生成。51条仅为正文入口候选；当前已译3篇等实时计数以progress为准。其余59条保留输入状态，不当作已取得完整正文。', '', '## 翻译候选队列', '', '| 顺序 | 作品 | 原语 | 状态 | 原档案 |', '|---:|---|---|---|---|']
+    snapshot = {r['id']: r for r in records}
+    for t in derived:
+        r = snapshot[t['id']]
+        title = f"[{t['title']}](books/{t['slug']}/translation.md)" if t['status'] == 'translated_self_reviewed' else t['title']
+        catalog.append(f"| {t['order']} | {title} | {r['original_language']} | {labels.get(t['status'], t['status'])} | [底本档案](../{r['record_path']}) |")
+    catalog += ['', '## 本轮未纳入翻译的59条', '', '| 作品 | 原获取状态 | 原档案 |', '|---|---|---|']
+    for r in records:
+        if r['id'] not in candidates:
+            catalog.append(f"| {r['title']} | {r['acquisition_status']} | [原档案](../{r['record_path']}) |")
+    catalogtext = '\n'.join(catalog) + '\n'
     if args.refresh:
         write_atomic(ROOT / 'queue.json', newqueue)
         write_atomic(ROOT / 'progress.json', newprogress)
+        catalogpath = ROOT / 'CATALOG.md'
+        temp = catalogpath.with_name('CATALOG.md.tmp')
+        temp.write_text(catalogtext, encoding='utf-8')
+        temp.replace(catalogpath)
     else:
         assert newqueue == queue, 'queue stale; run --refresh'
         assert newprogress == progress, 'progress stale; run --refresh'
+        assert (ROOT / 'CATALOG.md').read_text() == catalogtext, 'catalog stale; run --refresh'
     print(json.dumps(dict(ok=True, records=110, candidates=51, completed_books=completed, reviewed_units=reviewed, registered_units=total, next_task=next_task, next_unit=next_unit), ensure_ascii=False))
 
 if __name__ == '__main__':

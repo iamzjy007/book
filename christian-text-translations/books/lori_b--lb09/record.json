@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb09",
+  "title": "西里坦殉道者案录",
+  "status": "translated_self_reviewed",
+  "expected_units": 17,
+  "next_unit": null,
+  "next_action": "该底本正文已全部译毕并由译者自校；保留review.md待核项，日后据新证据修订，不重复初译。",
+  "units": [
+    {
+      "id": "1",
+      "source_locator": "Gebhardt 1902, p. 22, §1",
+      "source_anchor": "Praesente bis et Claudiano consulibus",
+      "status": "self_reviewed",
+      "translation_sha256": "ae01ce4b9a8c7f0d30a882c52220832b6ee1ed727fba82ca56362eab8a6f77d1"
+    },
+    {
+      "id": "2",
+      "source_locator": "Gebhardt 1902, p. 22—23, §2",
+      "source_anchor": "Numquam malefecimus",
+      "status": "self_reviewed",
+      "translation_sha256": "715106e323f643460aedd09407568f2709efead9ac7dc8d74b73d216be68f50a"
+    },
+    {
+      "id": "3",
+      "source_locator": "Gebhardt 1902, p. 23, §3",
+      "source_anchor": "Et nos religiosi sumus",
+      "status": "self_reviewed",
+      "translation_sha256": "0c67e1e76eec7c65dd50ac90dfe63438cc52c6a3df70cbb2aaa2253b49bb0837"
+    },
+    {
+      "id": "4",
+      "source_locator": "Gebhardt 1902, p. 23, §4",
+      "source_anchor": "dico mysterium simplicitatis",
+      "status": "self_reviewed",
+      "translation_sha256": "eb1feb08504ea1c7f7e4a3af984ba4b0c2c41443bd7ede0da3eb649045a89655"
+    },
+    {
+      "id": "5",
+      "source_locator": "Gebhardt 1902, p. 23, §5",
+      "source_anchor": "Initianti tibi mala de sacris nostris",
+      "status": "self_reviewed",
+      "translation_sha256": "7ab7855c76b3050634623aeacfb07a28abeffe7a85c77f06d1746f61de39b609"
+    },
+    {
+      "id": "6",
+      "source_locator": "Gebhardt 1902, p. 23—24, §6",
+      "source_anchor": "Ego imperium huius saeculi non cognosco",
+      "status": "self_reviewed",
+      "translation_sha256": "60e50ec04a8b6288edad4c78953869b373fad829611a13307ab5098cfab50e68"
+    },
+    {
+      "id": "7",
+      "source_locator": "Gebhardt 1902, p. 24, §7",
+      "source_anchor": "Desinite huius esse persuasionis",
+      "status": "self_reviewed",
+      "translation_sha256": "4c8a3282ae63a6637e60076171705fd584797310c1aa362b0a31ea13ec430bf6"
+    },
+    {
+      "id": "8",
+      "source_locator": "Gebhardt 1902, p. 24, §8",
+      "source_anchor": "Nolite huius dementiae esse participes",
+      "status": "self_reviewed",
+      "translation_sha256": "cc1e7ec01f734e4dc9fbe87ec7e833b32e79392a94f510241f462477178d63c1"
+    },
+    {
+      "id": "9",
+      "source_locator": "Gebhardt 1902, p. 24, §9",
+      "source_anchor": "Honorem Caesari quasi Caesari",
+      "status": "self_reviewed",
+      "translation_sha256": "47ac24d34fed36732cc8eb4bcea98e88257c1a7ce2c6439c20d3d0a97a224cca"
+    },
+    {
+      "id": "10",
+      "source_locator": "Gebhardt 1902, p. 24, §10",
+      "source_anchor": "Perseueras Christianus?",
+      "status": "self_reviewed",
+      "translation_sha256": "430ccdaccacbab7d69985c7bbe74429b32e4a71a4e913d6277d1d9c44d9c0d30"
+    },
+    {
+      "id": "11",
+      "source_locator": "Gebhardt 1902, p. 25, §11",
+      "source_anchor": "Numquid ad deliberandum spatium uultis?",
+      "status": "self_reviewed",
+      "translation_sha256": "af4a8a50b594a7ed5d8fa6e6d8c9b9e7bc41aaedc964a3ab919461d49952b658"
+    },
+    {
+      "id": "12",
+      "source_locator": "Gebhardt 1902, p. 25, §12",
+      "source_anchor": "Libri et epistulae Pauli uiri iusti",
+      "status": "self_reviewed",
+      "translation_sha256": "a637275648c99a71442ebfb3b21ed276ff3b9bbe18cdbb513f3f30973493d1bc"
+    },
+    {
+      "id": "13",
+      "source_locator": "Gebhardt 1902, p. 25, §13",
+      "source_anchor": "Moram XXX dierum habete",
+      "status": "self_reviewed",
+      "translation_sha256": "245a51ff436d9d67a2ecc63cd7a204263777082c8347b03c612bb8d6306adb54"
+    },
+    {
+      "id": "14",
+      "source_locator": "Gebhardt 1902, p. 25—26, §14",
+      "source_anchor": "decretum ex tabella recitauit",
+      "status": "self_reviewed",
+      "translation_sha256": "f8d77c239f3505f40d382645482c35ed6790b173781437038afd544d3c65a136"
+    },
+    {
+      "id": "15",
+      "source_locator": "Gebhardt 1902, p. 26, §15",
+      "source_anchor": "Hodie martyres in caelis sumus",
+      "status": "self_reviewed",
+      "translation_sha256": "ddabfc0f99ad2fbee4333d0d7e468ea910c4fef5b49457412c87f0f8323d39f2"
+    },
+    {
+      "id": "16",
+      "source_locator": "Gebhardt 1902, p. 26, §16",
+      "source_anchor": "per praeconem dici iussit",
+      "status": "self_reviewed",
+      "translation_sha256": "43b0ca381d66c7d2ed0443abe32c33c5a2b6f76d57bc8e8460f18e38fcb15911"
+    },
+    {
+      "id": "17",
+      "source_locator": "Gebhardt 1902, p. 26, §17",
+      "source_anchor": "et statim decollati sunt pro nomine Christi",
+      "status": "self_reviewed",
+      "translation_sha256": "a54532c269a815bd55221d1e44718ab979832dd0bd17c6cb01da48052b5b061d"
+    }
+  ],
+  "review": {
+    "type": "translator_self_review",
+    "date": "2026-11-10",
+    "scope": "全文对照页图，核说话人、条件、否定、章段连续性、推测标记及术语；仍有待核项见review.md"
+  }
+}

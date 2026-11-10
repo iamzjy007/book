@@ -33,8 +33,8 @@
         }
       ],
       "next_source_action": "逐一核1—23篇内容及Parisot卷1、2扫描，选定原文底本；英译目前只是8篇。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-isaac-i",
@@ -66,8 +66,8 @@
         }
       ],
       "next_source_action": "翻译前核全书页序、章号和原文对应；优先使用可核的旧版扫描，OCR只供定位。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_a:east-isaac-ii",
@@ -93,8 +93,8 @@
         }
       ],
       "next_source_action": "检索Brock CSCO 554/555原文与英译的馆藏可读版；另核II.1—3及四百则，不能拿I集代替。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-isaac-iii",
@@ -114,8 +114,8 @@
         }
       ],
       "next_source_action": "查CSCO 637/638可读本及手稿开放影像；必须独立于第一、第二集。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-john-dalyatha",
@@ -141,8 +141,8 @@
         }
       ],
       "next_source_action": "从Harvard Ms Syr 115取得书信叶56v—97r影像；核对Beulay校本编号。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-john-solitary",
@@ -162,8 +162,8 @@
         }
       ],
       "next_source_action": "追查Dedering 1936原文校本及出版社授权样章；同作者其他作品不能替代。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-joseph-stages",
@@ -183,8 +183,8 @@
         }
       ],
       "next_source_action": "检索PO 45.2/202与旧署Philoxenus的Olinder 1950版；核独立文本，不采用有关三阶段的研究论文充当原作。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-sahdona-perfection",
@@ -204,8 +204,8 @@
         }
       ],
       "next_source_action": "定位该卷中成全之书的首末页，另列5封信及雅各附录；比对后出的CSCO校本及新残片。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_a:east-steps",
@@ -225,8 +225,8 @@
         }
       ],
       "next_source_action": "直接查看扫描卷的正文起页与末页、30篇目录；核实后升级正文可直达。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-mingana-mystics",
@@ -246,8 +246,8 @@
         }
       ],
       "next_source_action": "继续查1934卷7机构开放扫描；馆藏ID已明确，勿用第6卷或McGinn同名书。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-governors",
@@ -267,8 +267,8 @@
         }
       ],
       "next_source_action": "补取同套卷1叙利亚语原文，建立英译页码对应，OCR需重新识别校订。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_a:east-abuqurrah-icons",
@@ -288,8 +288,8 @@
         }
       ],
       "next_source_action": "查阿拉伯语旧版与BL Or.4950 ff.198r—237v／Sinai Arabic 330 ff.315r—356r影像，或取得出版社阅读版。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-ammar-proof",
@@ -315,8 +315,8 @@
         }
       ],
       "next_source_action": "打开Mikhail13PhD.pdf核附录与译文范围；另找Hayek阿拉伯语校本。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-ammar-questions",
@@ -336,8 +336,8 @@
         }
       ],
       "next_source_action": "查阿拉伯语题名كتاب المسائل والأجوبة及Hayek版本；与Kitab al-Burhan分开，不采用同名现代问答书。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_a:east-timothy-mahdi",
@@ -363,8 +363,8 @@
         }
       ],
       "next_source_action": "补叙利亚语原文及新版差异，避免把历史对话当逐字速记。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_b:B01",
@@ -384,8 +384,8 @@
         }
       ],
       "next_source_action": "核每段引用原语及现代归类，分开希伯来人与拿撒勒派片段。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B02",
@@ -405,8 +405,8 @@
         }
       ],
       "next_source_action": "取得Jerome等原语引文；与B01去重，并核现代译文使用条件。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B03",
@@ -426,8 +426,8 @@
         }
       ],
       "next_source_action": "回到Stromateis原语和章号；保持希腊与科普特同名书区别。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B04",
@@ -447,8 +447,8 @@
         }
       ],
       "next_source_action": "补取原刊Oxyrhynchus Papyri 5中840的原文与图版。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B05",
@@ -468,8 +468,8 @@
         }
       ],
       "next_source_action": "查Oxyrhynchus Papyri 10 pp.1—10及图版，不把与840相邻列目当连续正文。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B06",
@@ -489,8 +489,8 @@
         }
       ],
       "next_source_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B07",
@@ -510,8 +510,8 @@
         }
       ],
       "next_source_action": "核Panarion 30希腊原文及每段上下文，保留教父转述性质。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B08",
@@ -531,8 +531,8 @@
         }
       ],
       "next_source_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B09",
@@ -552,8 +552,8 @@
         }
       ],
       "next_source_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B10",
@@ -579,8 +579,8 @@
         }
       ],
       "next_source_action": "先核Jacoby所收旧残片；找2017作者存档／机构阅读版再确定残页顺序，不能用旧题名推定二世纪。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B11",
@@ -606,8 +606,8 @@
         }
       ],
       "next_source_action": "打开Vassiliev pp.10—22及Bonwetsch 1897版；另找可用James旧英译镜像。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B12",
@@ -627,8 +627,8 @@
         }
       ],
       "next_source_action": "抽查上述正文起末页并保留各传本界限；James对此书仅摘要，不能当全文替代。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B13",
@@ -648,8 +648,8 @@
         }
       ],
       "next_source_action": "查Mingana Woodbrooke Studies 2中Lament of Mary阿拉伯／英译pp.163—240；另列吉兹版本，不创建不存在的独立完整科普特福音。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B14",
@@ -675,8 +675,8 @@
         }
       ],
       "next_source_action": "核Bonnet旧版实际范围，再取后发现的Xenophontos传本校本；不能以ANF局部当新全译底本。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B15",
@@ -702,8 +702,8 @@
         }
       ],
       "next_source_action": "取得Usener 1877 pp.7—13或上述PG正文；区分希腊家族与拉丁伪署坡旅克拉底。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B16",
@@ -729,8 +729,8 @@
         }
       ],
       "next_source_action": "核扫描版叙利亚原文及英译对应；与仓库已有亚伯加书信建立重叠关系。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_b:B17",
@@ -750,8 +750,8 @@
         }
       ],
       "next_source_action": "打开牛津项目文件逐面核图，配1994原刊转录；归彼得福音只能作为假说。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_b:B18",
@@ -771,8 +771,8 @@
         }
       ],
       "next_source_action": "追奥地利国家图书馆影像和较新Kraus校本；原文重构与实存字母分开。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C01",
@@ -792,8 +792,8 @@
         }
       ],
       "next_source_action": "逐字母核完PG65 cols.71—440，另取原文校本扫描；不要与系统集合并。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C02",
@@ -813,8 +813,8 @@
         }
       ],
       "next_source_action": "追希腊系统集SC387/474/498或早期拉丁Verba seniorum；先比对编排，不能用字母集替代。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C03",
@@ -834,8 +834,8 @@
         }
       ],
       "next_source_action": "补希腊原文并核章号；中文已有出版线索，另作版本对照。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_c:C04",
@@ -855,8 +855,8 @@
         }
       ],
       "next_source_action": "取得Butler希腊校本并核缩本／长本关系，现代Wortley译本不与1918旧译混记。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_c:C05",
@@ -876,8 +876,8 @@
         }
       ],
       "next_source_action": "追Greek Historia monachorum与Rufinus拉丁改写分别的旧校本；新生成英文译文不能替代既有底本。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C06",
@@ -897,8 +897,8 @@
         }
       ],
       "next_source_action": "核Boon Pachomiana Latina 1932 pp.1—74原版，并补科普特及希腊见证；注明使用古拉丁译本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_c:C07",
@@ -924,8 +924,8 @@
         }
       ],
       "next_source_action": "取得Besa科普特旧版／Leipoldt或Amélineau本；核叙利亚文本与其关系，再判断可译范围。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C09",
@@ -945,8 +945,8 @@
         }
       ],
       "next_source_action": "补吉兹原文Bezold旧校本；翻译前抽核末章和页码，保留117正文与网站130项目之区别。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_c:C10",
@@ -972,8 +972,8 @@
         }
       ],
       "next_source_action": "先列Senodos构件矩阵，把Horner具体条号映射到既有使徒传统；再查未覆盖构件，不能合成一部假定全书。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C11",
@@ -999,8 +999,8 @@
         }
       ],
       "next_source_action": "打开候选版权页核Tzadua／Strauss版及正文范围；并查Guidi旧吉兹校本／意译，保留版本差别。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C12",
@@ -1020,8 +1020,8 @@
         }
       ],
       "next_source_action": "从CAe2598链接追具体手稿号和可读影像；IA该限定查询0命中，仅说明此检索范围，不代表全文不存在。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C13",
@@ -1041,8 +1041,8 @@
         }
       ],
       "next_source_action": "核TITUS章节总数和末章，并保留1909版页行号；现代Thomson英译另核权限和覆盖。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C14",
@@ -1062,8 +1062,8 @@
         }
       ],
       "next_source_action": "核1853扫描底本与较新原语校本；现代研究题名De Deo与传统题名对应不拆为两部。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_c:C15",
@@ -1089,8 +1089,8 @@
         }
       ],
       "next_source_action": "补古典亚美尼亚语校本，并核95篇逐篇页面是否齐全；与原书目Terian译本保持版本区别。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_c:C16",
@@ -1110,8 +1110,8 @@
         }
       ],
       "next_source_action": "取得格鲁吉亚原文及Lang或新译对应；用亚美尼亚长／短本作对照，不能无说明替代。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C17",
@@ -1131,8 +1131,8 @@
         }
       ],
       "next_source_action": "优先找Marr1911格鲁吉亚原文与俄译扫描，再核Peeters拉丁版；不要把Lang155—165页节述当全部原作。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_c:C18",
@@ -1152,8 +1152,8 @@
         }
       ],
       "next_source_action": "补古典亚美尼亚语长本原文，核Norehad译本印本出处及章号，与Miloyan新版分列。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:evagrius-praktikos",
@@ -1173,8 +1173,8 @@
         }
       ],
       "next_source_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:evagrius-gnostikos",
@@ -1194,8 +1194,8 @@
         }
       ],
       "next_source_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:evagrius-kephalaia-gnostika",
@@ -1215,8 +1215,8 @@
         }
       ],
       "next_source_action": "核六百则的各章缺漏、S1/S2及回译标志，追Guillaumont PO28.1原校本。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_d:evagrius-on-prayer",
@@ -1236,8 +1236,8 @@
         }
       ],
       "next_source_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:evagrius-antirrhetikos",
@@ -1257,8 +1257,8 @@
         }
       ],
       "next_source_action": "补原叙利亚语／Frankenberg旧版及全部条号；不把选篇当完整Talking Back。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_d:maximus-love",
@@ -1278,8 +1278,8 @@
         }
       ],
       "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:maximus-ascetic-life",
@@ -1299,8 +1299,8 @@
         }
       ],
       "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:maximus-mystagogy",
@@ -1320,8 +1320,8 @@
         }
       ],
       "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:maximus-ambigua",
@@ -1347,8 +1347,8 @@
         }
       ],
       "next_source_action": "核两分部所据印本、编号和完整性；现代合卷要求登录，不将其HTTP200算取得。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_d:maximus-thalassios",
@@ -1368,8 +1368,8 @@
         }
       ],
       "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:symeon-catecheses",
@@ -1389,8 +1389,8 @@
         }
       ],
       "next_source_action": "追EPE或SC96/104/113教理讲道集，打开正文；Theophan的Slova编排可能不同，不能直接代替。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_d:symeon-ethical",
@@ -1410,8 +1410,8 @@
         }
       ],
       "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:symeon-hymns",
@@ -1431,8 +1431,8 @@
         }
       ],
       "next_source_action": "核首末首正文及全部60首，与现代希腊校本和SVS版所收篇目比较；不是原研究Terian等别本。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_d:diadochos-hundred",
@@ -1452,8 +1452,8 @@
         }
       ],
       "next_source_action": "补希腊原文及该俄译编译者／印年，核100章与10定义边界。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:isaiah-asceticon",
@@ -1473,8 +1473,8 @@
         }
       ],
       "next_source_action": "核29篇与原希腊修订本关系、版源印年，并补叙利亚传本差异。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:hesychios-watchfulness",
@@ -1494,8 +1494,8 @@
         }
       ],
       "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:mark-spiritual-law",
@@ -1515,8 +1515,8 @@
         }
       ],
       "next_source_action": "核201／200编号差异，取得希腊校本并记译者／印本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:climacus-ladder",
@@ -1536,8 +1536,8 @@
         }
       ],
       "next_source_action": "逐阶核1—30及致牧者，补希腊原文和俄译印本；与Guigo修士天梯严格区分。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "dydi_d:palamas-triads",
@@ -1557,8 +1557,8 @@
         }
       ],
       "next_source_action": "补希腊校本及此俄译者、出版年，核三组三论全篇与英文选译边界。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "dydi_d:nikephoros-watchfulness",
@@ -1578,8 +1578,8 @@
         }
       ],
       "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:cassian-conferences",
@@ -1599,8 +1599,8 @@
         }
       ],
       "next_source_action": "逐篇核版源和Latin CSEL原文，建立章节对应；现代Ramsey译本与旧译分列。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:cassian-institutes",
@@ -1620,8 +1620,8 @@
         }
       ],
       "next_source_action": "逐篇核版源和Latin CSEL原文，建立章节对应；现代Ramsey译本与旧译分列。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:ambrose-isaac",
@@ -1641,8 +1641,8 @@
         }
       ],
       "next_source_action": "校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:ambrose-death",
@@ -1662,8 +1662,8 @@
         }
       ],
       "next_source_action": "校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:ambrose-flight",
@@ -1689,8 +1689,8 @@
         }
       ],
       "next_source_action": "实读Ancient Library候选并追CSEL32.2 pp.162起校本扫描，不能拿Notre Dame的De paenitentia替代。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:augustine-happy-life",
@@ -1710,8 +1710,8 @@
         }
       ],
       "next_source_action": "核电子本所据印本／勘误，补CSEL或CCSL现代校本页码对应。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:augustine-catechizing",
@@ -1731,8 +1731,8 @@
         }
       ],
       "next_source_action": "补拉丁原文，核章号；与现代Morality and Christian Asceticism的译文分列。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:augustine-letter130",
@@ -1752,8 +1752,8 @@
         }
       ],
       "next_source_action": "优先映射仓库已有原文／中译，核拉丁Ep.130；不当新增未收作品重复翻译。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:gregory-moralia",
@@ -1773,8 +1773,8 @@
         }
       ],
       "next_source_action": "补拉丁原文与1844各印本卷版权页；逐书核正文和缺注，现代Kerns译本另列。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:gregory-song",
@@ -1794,8 +1794,8 @@
         }
       ],
       "next_source_action": "核出版社样章是否含原作正文；追PL79／CCSL144原语文本，并将Bede辑录与Gregory独立释义分开。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:william-golden",
@@ -1821,8 +1821,8 @@
         }
       ],
       "next_source_action": "打开PL184 cols.307—354，注意旧署Guigo等历史归属；核SC223现代校本，建立归属说明。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:william-love",
@@ -1842,8 +1842,8 @@
         }
       ],
       "next_source_action": "追PL180中作者作品及Liber beati Bernardi de amore旧署名；核具体栏号后取正文。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:guigo-ladder",
@@ -1863,8 +1863,8 @@
         }
       ],
       "next_source_action": "以README所链PL影像逐段核误字和完整性，再选SC163或其他校本；不能与John Climacus混同。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_a:aelred-mirror",
@@ -1884,8 +1884,8 @@
         }
       ],
       "next_source_action": "换PL195图书馆扫描验证501—620D；原站恢复后重试该作品HTML入口。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:aelred-friendship",
@@ -1905,8 +1905,8 @@
         }
       ],
       "next_source_action": "核是否包含完整三卷与原校本来源；原研究中文正式出版已知，新增原语仅作对读。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:gertrud-exercises",
@@ -1926,8 +1926,8 @@
         }
       ],
       "next_source_action": "查Solesmes旧版对应卷的公开扫描和7练习页码；与Loyola同名Spiritual Exercises排除。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:dhuoda-handbook",
@@ -1947,8 +1947,8 @@
         }
       ],
       "next_source_action": "换Édouard Bondurand1887旧版扫描，核全书卷次；用旧异名Dodana／Duodena扩检。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:bede-song",
@@ -1968,8 +1968,8 @@
         }
       ],
       "next_source_action": "换PL91或CCSL119A对应扫描／阅读版；不要把第6卷Gregory摘录当Gregory独立原作全本。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_a:anselm-prayers",
@@ -1989,8 +1989,8 @@
         }
       ],
       "next_source_action": "打开版权页／目录，逐篇与Schmitt／Wilmart真作清单对照；旧署Anselm作品并非均真作。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_b:lb01",
@@ -2010,8 +2010,8 @@
         }
       ],
       "next_source_action": "补拉丁、科普特、阿拉伯等见证及现代重构差异；不得将Easton重构当唯一原文。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb02",
@@ -2037,8 +2037,8 @@
         }
       ],
       "next_source_action": "补Gibson叙利亚文卷，按章与Connolly校勘，现代译文使用另核。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb03",
@@ -2058,8 +2058,8 @@
         }
       ],
       "next_source_action": "对照后续校本和编号；原归属希波吕托不是著者已证实。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb04",
@@ -2079,8 +2079,8 @@
         }
       ],
       "next_source_action": "补Rahmani1899叙利亚文本与拉丁译文，核章节对应。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb05",
@@ -2100,8 +2100,8 @@
         }
       ],
       "next_source_action": "补Wobbermin希腊文校本并逐祷编号；本卷不是全套希腊原文。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb06",
@@ -2121,8 +2121,8 @@
         }
       ],
       "next_source_action": "分开阿拉伯107条与科普特残存范围，提取原文时核对扫描；不因题署认定亚他那修亲著。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb07",
@@ -2142,8 +2142,8 @@
         }
       ],
       "next_source_action": "补电子转录所据校本和古抄本；现存正文可读不等于无缺古书。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb08",
@@ -2163,8 +2163,8 @@
         }
       ],
       "next_source_action": "以Perseus stoa0329.stoa001.opp-lat1或CSEL校本补校地名。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb09",
@@ -2184,8 +2184,8 @@
         }
       ],
       "next_source_action": "从Gebhardt1902 pp22–26补拉丁及希腊异本；核Robinson初刊年份。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb10",
@@ -2205,8 +2205,8 @@
         }
       ],
       "next_source_action": "用Gebhardt1902或现代Musurillo比对recension，不能用Justin护教文代替殉道记。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb11",
@@ -2226,8 +2226,8 @@
         }
       ],
       "next_source_action": "补希腊原文Eusebius HE V.1–2，界定叙述过渡与原信引文。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_b:lb12",
@@ -2247,8 +2247,8 @@
         }
       ],
       "next_source_action": "补现代长短两本编号、BHL及校本；保留叙事与司法记录的区别。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb13",
@@ -2268,8 +2268,8 @@
         }
       ],
       "next_source_action": "逐页核96–114希腊文并对照Musurillo／Robert校本；不采网络新AI英译代替既有校本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb14",
@@ -2289,8 +2289,8 @@
         }
       ],
       "next_source_action": "实际下载核题页、Passio题名、首尾和印页，再找Franchi de’ Cavalieri希腊校本；排除Hrotsvitha《Dulcitius》和现代圣徒传。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "lori_b:lb15",
@@ -2310,8 +2310,8 @@
         }
       ],
       "next_source_action": "逐页对照166–170，补Bonwetsch所据见证与后续校本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "lori_b:lb16",
@@ -2331,8 +2331,8 @@
         }
       ],
       "next_source_action": "目视印页21–25及图版，补Oxford馆藏原图并核许可；区别现代歌曲改编。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "root:teachings-silvanus",
@@ -2352,8 +2352,8 @@
         }
       ],
       "next_source_action": "核Janssens科普特／法译校本版次及现有中文文集是否收录，补原语并核英译授权。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "root:interpretation-knowledge",
@@ -2373,8 +2373,8 @@
         }
       ],
       "next_source_action": "补Funk/Painchaud/Thomassen2010科普特／法译校本，按抄本页行编损缺表。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "root:apocryphon-john",
@@ -2394,8 +2394,8 @@
         }
       ],
       "next_source_action": "先确定该译文的recension／底本，再取得短本NHIII,1与BG2；Gnosis四本对勘入口受阻可重试。",
-      "translation_status": "out_of_current_scope",
-      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。",
+      "initial_translation_status": "out_of_current_scope"
     },
     {
       "id": "root:pistis-sophia",
@@ -2421,8 +2421,8 @@
         }
       ],
       "next_source_action": "补Askew科普特原文旧版／影像及现代Schmidt-MacDermot对照；核中文文集实际范围。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     },
     {
       "id": "root:books-jeu",
@@ -2454,8 +2454,9 @@
         }
       ],
       "next_source_action": "补Schmidt1892科普特校本及Bruce96图式，核2019Crégheur结构重辨；不是纳戈玛第出土抄本。",
-      "translation_status": "needs_completeness_check",
-      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。",
+      "initial_translation_status": "needs_completeness_check"
     }
-  ]
+  ],
+  "note": "仅为建档时输入快照；实时翻译状态以books/*/record.json及派生queue/progress为准。51条fulltext_online不是51部完整原作。"
 }

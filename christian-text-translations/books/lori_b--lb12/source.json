@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "source_record": "christian-text-sources/books/lori_b--lb12/record.json",
+  "edition": "Oscar von Gebhardt (ed.), Acta martyrum selecta, Berlin: Verlag von Alexander Duncker, 1902",
+  "work_title": "居普良案录",
+  "language": "拉丁语",
+  "translation_basis": "直接据所列古代原语校本翻译；未据现代外文译本转译",
+  "accessed": "2026-11-10",
+  "printed_pages": "124—128",
+  "source_urls": [
+    "https://archive.org/details/actamartyrumsel00gebhgoog",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n140.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n141.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n142.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n143.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n144.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg"
+  ],
+  "artifacts": [
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n140.jpg",
+      "printed_page": 124,
+      "sha256": "b7bf5911ed956a1d896f47c206682950f530d9d8e50491712749fa49d396e837",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n141.jpg",
+      "printed_page": 125,
+      "sha256": "be33a8d948da926498e1312426119493f90ab66b07078f39eececb0a5fcbbfd8",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n142.jpg",
+      "printed_page": 126,
+      "sha256": "68e71115fa81f1b44c7f322f0b56f9465ebbab05db056183bd4e9b684d82cebb",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n143.jpg",
+      "printed_page": 127,
+      "sha256": "35df97e2eca91a60aa0fdc7288f6c5625bdebc1758a87140d1babf71f33b528a",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n144.jpg",
+      "printed_page": 128,
+      "sha256": "4cc23e07514a95a618c777ba90910814cad5b0a6a80a1814bacb8e8c7906c14a",
+      "role": "已目视核读的正文页图；下载临时副本不入库"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg",
+      "printed_page": "title page",
+      "sha256": "85e35af4f6439f7ce8ac8eba1abf3fb7e90639ce2dc452bba052ec3964a81064",
+      "role": "题页已目视核读：Berlin, Verlag von Alexander Duncker, 1902"
+    }
+  ],
+  "completeness": {
+    "verified": true,
+    "scope": "1902版第XI项I—VI章全部正文，33单元，含VI章颂词。",
+    "method": "按页图连续核读全部指定篇幅、章段与终段；只取该项正文，不把校勘脚注和相邻异本并入。",
+    "limits": "完整性限定于所选校本；官职、服饰、地名及异读未全部解决，不将校勘注当正文。"
+  },
+  "rights_basis": "古代原作及1902年旧版校本；不复制现代译本。仅保留定位、锚点、页图哈希及中文译文。",
+  "review_level": "译者逐句自校，非独立专家审定"
+}
