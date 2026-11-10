@@ -2,6 +2,7 @@
 
 本目录承接古代文献研究110条及 `research/modern-christian-resources` 的65条阶段性资源，共175条获取档案。当前优先执行近现代资源的内容获取，原研究目录保留。65条包括书籍、作者、事工、刊物与数字馆藏，不等于65本书。
 
+- [近现代进度页](MODERN-PROGRESS.md)：本次65条资源的状态、正文与样章入口。
 - [总目录](CATALOG.md)：按书目查看获取状态和正文入口。
 - [进度](progress.json)、[执行计划](PLAN.md)、[继续协议](CONTINUATION.md)、[队列](queue.json)：支持跨会话续接。
 - `books/<稳定ID>/README.md`：每条独立档案；`record.json` 保存作品身份、版本、内容范围、核验过程、下一步。

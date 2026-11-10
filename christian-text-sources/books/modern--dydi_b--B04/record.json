@@ -55,11 +55,40 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.988825+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Alistair Begg：How Great a Salvation!完整讲章文字稿",
+        "url": "https://www.truthforlife.org/resources/sermon/how-great-a-salvation/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Truth For Life，讲章ID 3771，1 Peter 1:1—12；页面日期2025-01-04",
+        "coverage": "单篇Sermon Transcript从开场祷告至结束祷告及44条注；不是整套讲章库",
+        "verification": "实际从官网首页追原讲章，核ID、日期和文字稿首尾；音视频未播放对时，页面日期不能自动视为录制日期。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "content_unit_status": "fulltext_online",
+        "object_id": "3771",
+        "page_date": "2025-01-04"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:24:04.671482+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.truthforlife.org/",
+        "result": "实际官网首页节目链接追到原讲章，不止读取首页简介。"
+      },
+      {
+        "date": "2026-11-10T09:24:04.671484+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.truthforlife.org/resources/sermon/how-great-a-salvation/",
+        "result": "实际读文字稿首尾与44条注，记录ID3771和页面日期。"
+      }
+    ],
+    "next_action": "下一项可从The Stranger’s Hope系列ID16007取下篇；原始录制日期及音频与稿件对应待核，节目分Part1/2与原讲章分开。",
+    "updated_at": "2026-11-10T09:24:04.671476+00:00",
+    "discovery_pass_done": true
   }
 }

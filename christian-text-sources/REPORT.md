@@ -1,16 +1,16 @@
 # 内容获取阶段报告
 
-更新：2026-11-10T09:22:50.127801+00:00。共175条档案，当前执行来源：modern-christian-resources。
+更新：2026-11-10T09:25:12.042937+00:00。共175条档案，当前执行来源：modern-christian-resources。
 
 | 状态 | 条数 |
 |---|---|
-| 部分正文可直达 | 34 |
+| 部分正文可直达 | 39 |
 | 正文可直达 | 51 |
 | 仅书目／版本入口 | 23 |
 | 扫描入口待核 | 11 |
 | 访问受阻 | 4 |
 | 待版本复核 | 2 |
-| 待检索 | 50 |
+| 待检索 | 45 |
 
 ## 按研究来源统计
 
@@ -22,11 +22,11 @@
 | ancient-christian-literature | 扫描入口待核 | 11 |
 | ancient-christian-literature | 访问受阻 | 4 |
 | ancient-christian-literature | 待版本复核 | 2 |
-| modern-christian-resources | 部分正文可直达 | 8 |
+| modern-christian-resources | 部分正文可直达 | 13 |
 | modern-christian-resources | 仅书目／版本入口 | 7 |
-| modern-christian-resources | 待检索 | 50 |
+| modern-christian-resources | 待检索 | 45 |
 
-下一任务：`modern:dydi_b:B01`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
+下一任务：`modern:dydi_b:B06`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
 
 ## 统计边界
 
@@ -50,3 +50,4 @@
 - [010-modern-books-1.md](sessions/010-modern-books-1.md)
 - [011-modern-books-2.md](sessions/011-modern-books-2.md)
 - [012-modern-books-3.md](sessions/012-modern-books-3.md)
+- [013-modern-ministry-1.md](sessions/013-modern-ministry-1.md)

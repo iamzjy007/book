@@ -73,11 +73,37 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.988667+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Ligonier：The Prayer of the Lord具页码原书节选",
+        "url": "https://www.ligonier.org/posts/the-prayer-of-the-lord-by-rc-sproul",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "官方帖子2009-06-01；R. C. Sproul同名著作的介绍、书评及Excerpts",
+        "coverage": "实际可读原书pp.4—122之间若干非连续节选；未取得全书或全章",
+        "verification": "实际打开Excerpts并核页码；把书评与原书摘录区分，不把网页16min read视为全书。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:24:04.670920+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.ligonier.org/learn/articles/what-is-prayer",
+        "result": "初试页面不可访问，转官方站内原题检索。"
+      },
+      {
+        "date": "2026-11-10T09:24:04.670922+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.ligonier.org/posts/the-prayer-of-the-lord-by-rc-sproul",
+        "result": "原题+prayer检索后实际打开官方帖子，核多处带页码原书节选，未取整书。"
+      }
+    ],
+    "next_action": "由帖末原样章链接或出版社正式书页追The Prayer of the Lord具体ISBN与全章试读；Renewing Your Mind另以节目ID／日期建单期记录。",
+    "updated_at": "2026-11-10T09:24:04.670913+00:00",
+    "discovery_pass_done": true
   }
 }

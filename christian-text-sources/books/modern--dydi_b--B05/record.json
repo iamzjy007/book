@@ -82,11 +82,68 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.989007+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "What Is the Bible?具体视频与下载导航",
+        "url": "https://bibleproject.com/videos/what-is-bible/",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "How to Read the Bible系列，Episode 1，页面标5:15",
+        "coverage": "具体一集的完整视频、Script References及Study Notes下载入口",
+        "verification": "旧/explore/video路径跳至/videos/what-is-bible/；实际打开Downloads，未播放全片。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      },
+      {
+        "label": "官方3页Script References：逐字对话及出处",
+        "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Script%20References/What_Is_The_Bible_Script-References.pdf",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "BibleProject官方视频页Transcript所链接的Script References PDF；发布日期未核",
+        "coverage": "3页PDF，Tim／Jon对话与引用；仅这一集，未覆盖其他视频、播客或中文对应",
+        "verification": "从视频页点击Transcript实际打开PDF，核题名、发言人和正文首尾。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "content_unit_status": "fulltext_online",
+        "pdf_pages": 3
+      },
+      {
+        "label": "官方5页Video Study Notes",
+        "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Study%20Notes/What_Is_the_Bible_Study_Notes.pdf",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "BibleProject该集官方配套Study Notes，发布日期未核",
+        "coverage": "5页视频研读资料；与3页对话稿分开",
+        "verification": "从视频页实际点击并打开PDF，确认是Study Notes而非对话稿或整本圣经。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "pdf_pages": 5
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:24:04.671737+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://bibleproject.com/explore/video/what-is-bible/",
+        "result": "实际旧路径重定向到具体视频页，记录5:15及Episode1。"
+      },
+      {
+        "date": "2026-11-10T09:24:04.671739+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Script%20References/What_Is_The_Bible_Script-References.pdf",
+        "result": "实际打开3页Transcript链接并核Tim／Jon对话。"
+      },
+      {
+        "date": "2026-11-10T09:24:04.671741+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Study%20Notes/What_Is_the_Bible_Study_Notes.pdf",
+        "result": "实际打开5页配套笔记，不混同视频稿。"
+      }
+    ],
+    "next_action": "下一集The Story of the Bible继续核视频稿；当前单集英文资料已定位，中文对应和发布时间仍待核。",
+    "updated_at": "2026-11-10T09:24:04.671732+00:00",
+    "discovery_pass_done": true
   }
 }

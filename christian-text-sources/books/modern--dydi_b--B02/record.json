@@ -125,11 +125,50 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.988403+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "TGC：Sam Storms论The Love of God完整单篇",
+        "url": "https://www.thegospelcoalition.org/essay/the-love-of-god/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "TGC Essays，署Sam Storms；页面未核首发日期",
+        "coverage": "完整单篇含Definition、Summary、正文、Further Reading；不是全部站点资源",
+        "verification": "实际读作者、正文各节、结尾与阅读书目，不止搜索摘要。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "TGC Foundation Documents原文",
+        "url": "https://www.thegospelcoalition.org/about/foundation-documents/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "官网Foundation Documents；访问日期2026-11-10，修订时间待核",
+        "coverage": "Preamble、Confessional Statement、Theological Vision for Ministry的页面正文",
+        "verification": "实际打开并核三部分正文；只作为机构文本，不当作一本书。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "content_unit_status": "fulltext_online"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:24:04.670182+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.thegospelcoalition.org/about/foundation-documents/",
+        "result": "沿机构入口实际核文件正文并追The Love of God。"
+      },
+      {
+        "date": "2026-11-10T09:24:04.670184+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.thegospelcoalition.org/essay/the-love-of-god/",
+        "result": "实际打开Sam Storms署名及正文至末尾参考书目；首发时间未核。"
+      }
+    ],
+    "next_action": "后续按主题取得具体文章／Themelios卷期；先查官方中文对应及文章首发／修订时间，避免已译重复。",
+    "updated_at": "2026-11-10T09:24:04.670173+00:00",
+    "discovery_pass_done": true
   }
 }

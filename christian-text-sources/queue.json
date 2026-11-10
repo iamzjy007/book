@@ -1,53 +1,8 @@
 {
   "schema": 1,
   "active_scope": "modern-christian-resources",
-  "next_task": "modern:dydi_b:B01",
+  "next_task": "modern:dydi_b:B06",
   "tasks": [
-    {
-      "id": "modern:dydi_b:B01",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B01/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 123,
-      "updated_at": "2026-11-10T09:17:54.988220+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B02",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B02/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 124,
-      "updated_at": "2026-11-10T09:17:54.988403+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B03",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B03/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 125,
-      "updated_at": "2026-11-10T09:17:54.988667+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B04",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B04/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 126,
-      "updated_at": "2026-11-10T09:17:54.988825+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B05",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B05/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 127,
-      "updated_at": "2026-11-10T09:17:54.989007+00:00"
-    },
     {
       "id": "modern:dydi_b:B06",
       "status": "queued",
@@ -587,6 +542,51 @@
       "scope": "modern-christian-resources",
       "sequence": 174,
       "updated_at": "2026-11-10T09:22:50.034756+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B01",
+      "status": "partial_online",
+      "next_action": "继续取得官方PDF并核版权／目录／首末章；当前只核到完整单篇文章。下一次不要反复打开已核文章，优先处理PDF大小／HTTP403。",
+      "record_path": "books/modern--dydi_b--B01/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 123,
+      "updated_at": "2026-11-10T09:24:04.669329+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B02",
+      "status": "partial_online",
+      "next_action": "后续按主题取得具体文章／Themelios卷期；先查官方中文对应及文章首发／修订时间，避免已译重复。",
+      "record_path": "books/modern--dydi_b--B02/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 124,
+      "updated_at": "2026-11-10T09:24:04.670173+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B03",
+      "status": "partial_online",
+      "next_action": "由帖末原样章链接或出版社正式书页追The Prayer of the Lord具体ISBN与全章试读；Renewing Your Mind另以节目ID／日期建单期记录。",
+      "record_path": "books/modern--dydi_b--B03/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 125,
+      "updated_at": "2026-11-10T09:24:04.670913+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B04",
+      "status": "partial_online",
+      "next_action": "下一项可从The Stranger’s Hope系列ID16007取下篇；原始录制日期及音频与稿件对应待核，节目分Part1/2与原讲章分开。",
+      "record_path": "books/modern--dydi_b--B04/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 126,
+      "updated_at": "2026-11-10T09:24:04.671476+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B05",
+      "status": "partial_online",
+      "next_action": "下一集The Story of the Bible继续核视频稿；当前单集英文资料已定位，中文对应和发布时间仍待核。",
+      "record_path": "books/modern--dydi_b--B05/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 127,
+      "updated_at": "2026-11-10T09:24:04.671732+00:00"
     },
     {
       "id": "dydi_a:east-aphrahat",

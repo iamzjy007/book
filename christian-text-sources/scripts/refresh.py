@@ -11,9 +11,12 @@ def write_text(path, value):
 
 def run():
     manifest=json.loads((ROOT/'inventory/manifest.json').read_text())
-    counts=collections.Counter(); rows=[]; queue=[]; ids=set()
+    counts=collections.Counter(); rows=[]; queue=[]; ids=set(); sequences=set(); paths=set()
     for item in manifest['records']:
         path=ROOT/item['path']; rec=json.loads(path.read_text()); rid=rec['id']; assert rid not in ids; ids.add(rid)
+        assert rid == item['id'] and rec['sequence'] == item['sequence'], rid
+        assert item['sequence'] not in sequences and item['path'] not in paths, rid
+        sequences.add(item['sequence']); paths.add(item['path'])
         a=rec['acquisition']; r=rec['source_record']; assert a['status'] in LABELS; counts[a['status']]+=1
         if a['status']=='fulltext_online': assert any(x['kind']=='fulltext' for x in a['resources']), rid
         if a['status']=='partial_online': assert any(x['kind']=='partial' for x in a['resources']), rid
@@ -52,11 +55,19 @@ def run():
                              '' if q['status']=='queued' else q['updated_at'], q['sequence']))
     write_text(ROOT/'CATALOG.md', f'# 原始内容获取总目录\n\n共{len(ids)}条资源档案，涵盖古代与近现代研究；包括书籍、作者、事工、期刊和馆藏入口，不能统称为完整书籍。按在线路径保存，具体范围见各档案。\n\n| 序号 | 书目档案 | 获取状态 | 正文／扫描入口 |\n|---|---|---|---|\n'+'\n'.join(rows)+'\n')
     scope_counts={}
+    modern_rows=[]
     for item in manifest['records']:
         rec=json.loads((ROOT/item['path']).read_text())
         scope=rec.get('provenance',{}).get('scope','ancient-christian-literature')
         stats=scope_counts.setdefault(scope, collections.Counter())
         stats[rec['acquisition']['status']]+=1
+        if scope=='modern-christian-resources':
+            a=rec['acquisition']; r=rec['source_record']
+            links='；'.join(f"[{x['label']}]({x['url']})" for x in a['resources']) or '尚未执行内容获取，原研究出处见独立档案'
+            modern_rows.append(f"| {item['sequence']:03d} | [{r['title_zh']}]({item['path'].replace('record.json','README.md')}) | {r.get('record_kind','')} | {LABELS[a['status']]} | {links} |")
+    if modern_rows:
+        summary=scope_counts['modern-christian-resources']
+        write_text(ROOT/'MODERN-PROGRESS.md', '# 近现代资源内容获取进度\n\n' + f"共{sum(summary.values())}条去重资源；已初检{sum(summary.values())-summary.get('queued',0)}条、待初检{summary.get('queued',0)}条。部分正文{summary.get('partial_online',0)}条、仅书目／版本入口{summary.get('metadata_only',0)}条。书籍、作者、文章平台、期刊及馆藏分列；单篇全文不代表全站或全书取得。\n\n" + f"下一任务：`{queue[0]['id'] if queue else None}`。断点以[queue.json](queue.json)、各条record及[最新阶段报告](REPORT.md)为准。\n\n" + '| 序号 | 资源档案 | 原研究类型 | 获取状态 | 已核资源及渠道 |\n|---|---|---|---|---|\n'+'\n'.join(modern_rows)+'\n')
     save(ROOT/'queue.json',{'schema':1,'active_scope':active,'next_task':queue[0]['id'] if queue else None,'tasks':queue})
     save(ROOT/'progress.json',{'schema':1,'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'total':len(ids),'active_scope':active,'scope_counts':{k:dict(v) for k,v in scope_counts.items()},'counts':dict(counts),'next_task':queue[0]['id'] if queue else None,'background_process':False,'record_files_are_authoritative':True,'initial_pass_complete':not counts.get('queued',0),'direct_text_records':counts.get('fulltext_online',0)+counts.get('partial_online',0),'no_verified_text_records':sum(counts.get(k,0) for k in ['metadata_only','scan_candidate','blocked','needs_review']),'resume_instruction':'先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。'})
     print(json.dumps({'total':len(ids),'active_scope':active,'scope_counts':{k:dict(v) for k,v in scope_counts.items()},'counts':dict(counts),'next_task':queue[0]['id'] if queue else None},ensure_ascii=False))

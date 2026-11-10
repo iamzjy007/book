@@ -126,11 +126,11 @@
 | 120 | [Justo L. González — 作者与历史神学书目入口](books/modern--dydi_a--gonzalez-author/README.md) | 部分正文可直达 | [Logos/Biblia：思想史卷III限量预览](https://biblia.com/api/plugins/embeddedpreview?historybuttons=false&layout=minimal&navigationbox=false&resourceName=LLS%3A9781426721939&sharebutton=false) |
 | 121 | [Dorothy Day — Catholic Worker作者资源入口](books/modern--dydi_a--day-author/README.md) | 部分正文可直达 | [House of Hospitality：序与第1章](https://catholicworker.org/436-html/)；[From Union Square to Rome：第1章](https://catholicworker.org/201-plain-htm/)；[The Eleventh Virgin：首末章正文](https://catholicworker.org/the-eleventh-virgin-part-one-chapter-1-2/) |
 | 122 | [Alexander Schmemann — For the Life of the World](books/modern--dydi_a--schmemann-life/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
-| 123 | [Desiring God / John Piper](books/modern--dydi_b--B01/README.md) | 待检索 | 见档案中的既有出处 |
-| 124 | [The Gospel Coalition（美国版）](books/modern--dydi_b--B02/README.md) | 待检索 | 见档案中的既有出处 |
-| 125 | [Ligonier Ministries / Renewing Your Mind](books/modern--dydi_b--B03/README.md) | 待检索 | 见档案中的既有出处 |
-| 126 | [Truth For Life / Alistair Begg](books/modern--dydi_b--B04/README.md) | 待检索 | 见档案中的既有出处 |
-| 127 | [BibleProject](books/modern--dydi_b--B05/README.md) | 待检索 | 见档案中的既有出处 |
+| 123 | [Desiring God / John Piper](books/modern--dydi_b--B01/README.md) | 部分正文可直达 | [John Piper：How to Read the Bible for Yourself完整单篇](https://www.desiringgod.org/articles/how-to-read-the-bible-for-yourself) |
+| 124 | [The Gospel Coalition（美国版）](books/modern--dydi_b--B02/README.md) | 部分正文可直达 | [TGC：Sam Storms论The Love of God完整单篇](https://www.thegospelcoalition.org/essay/the-love-of-god/)；[TGC Foundation Documents原文](https://www.thegospelcoalition.org/about/foundation-documents/) |
+| 125 | [Ligonier Ministries / Renewing Your Mind](books/modern--dydi_b--B03/README.md) | 部分正文可直达 | [Ligonier：The Prayer of the Lord具页码原书节选](https://www.ligonier.org/posts/the-prayer-of-the-lord-by-rc-sproul) |
+| 126 | [Truth For Life / Alistair Begg](books/modern--dydi_b--B04/README.md) | 部分正文可直达 | [Alistair Begg：How Great a Salvation!完整讲章文字稿](https://www.truthforlife.org/resources/sermon/how-great-a-salvation/) |
+| 127 | [BibleProject](books/modern--dydi_b--B05/README.md) | 部分正文可直达 | [官方3页Script References：逐字对话及出处](https://d1bsmz3sdihplr.cloudfront.net/media/Script%20References/What_Is_The_Bible_Script-References.pdf)；[官方5页Video Study Notes](https://d1bsmz3sdihplr.cloudfront.net/media/Study%20Notes/What_Is_the_Bible_Study_Notes.pdf) |
 | 128 | [Grace to You / John MacArthur](books/modern--dydi_b--B06/README.md) | 待检索 | 见档案中的既有出处 |
 | 129 | [In Touch Ministries / Charles Stanley](books/modern--dydi_b--B07/README.md) | 待检索 | 见档案中的既有出处 |
 | 130 | [Insight for Living / Chuck Swindoll](books/modern--dydi_b--B08/README.md) | 待检索 | 见档案中的既有出处 |

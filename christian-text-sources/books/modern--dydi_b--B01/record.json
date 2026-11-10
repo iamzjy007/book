@@ -82,11 +82,62 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.988220+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "John Piper：How to Read the Bible for Yourself完整单篇",
+        "url": "https://www.desiringgod.org/articles/how-to-read-the-bible-for-yourself",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "官方文章，John Piper，2015-03-17",
+        "coverage": "单篇文章三大部分及细分项可读；相对于整个Desiring God平台仅是已核样本",
+        "verification": "实际打开具名／日期与正文到第3部分及文末；不代表全站已获取。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "Don’t Waste Your Life书目及官方PDF候选",
+        "url": "https://www.desiringgod.org/books/dont-waste-your-life",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "书目页列2010 Crossway；PDF版次尚未核定",
+        "coverage": "原书官方PDF候选定位，不能认定全书已取得",
+        "verification": "书目页可读；PDF网页工具因20,050,608字节超限失败，脚本两域名均403。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "direct_file": "https://document.desiringgod.org/don-t-waste-your-life-en.pdf"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:24:04.669351+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.desiringgod.org/books/dont-waste-your-life",
+        "result": "实际打开书目；记录2010 Crossway但不把此版次自动套给PDF。"
+      },
+      {
+        "date": "2026-11-10T09:24:04.669355+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.desiringgod.org/books/dont-waste-your-life.pdf",
+        "result": "搜索官方PDF后实际打开：网页工具报告20,050,608字节超限；直接请求403。"
+      },
+      {
+        "date": "2026-11-10T09:24:04.669357+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://document.desiringgod.org/don-t-waste-your-life-en.pdf",
+        "result": "网页工具同样超限；直接请求403，带原查询参数重试也403；不宣称全文已取。"
+      },
+      {
+        "date": "2026-11-10T09:24:04.669358+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.desiringgod.org/articles/how-to-read-the-bible-for-yourself",
+        "result": "实际打开官方完整文章，以单篇正文样本保存。"
+      }
+    ],
+    "next_action": "继续取得官方PDF并核版权／目录／首末章；当前只核到完整单篇文章。下一次不要反复打开已核文章，优先处理PDF大小／HTTP403。",
+    "updated_at": "2026-11-10T09:24:04.669329+00:00",
+    "discovery_pass_done": true
   }
 }

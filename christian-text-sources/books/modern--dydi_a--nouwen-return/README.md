@@ -23,11 +23,11 @@
 
 使用／权利：保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。
 
-### [PRH/Doubleday纸本及电子书渠道](https://www.penguinrandomhouse.com/books/122877/the-return-of-the-prodigal-son-by-henri-jm-nouwen/)
+### [PRH/Image 1994纸本及电子书渠道](https://www.penguinrandomhouse.com/books/122877/the-return-of-the-prodigal-son-by-henri-jm-nouwen/)
 
 类型：`metadata`；语种：英语。
 
-版本：纸本ISBN 9780385473071；具体格式以页面所选版本为准。
+版本：Image，1994-03-01纸本，ISBN 9780385473071，160页；与作者协会所列1992原版分开。
 
 覆盖范围：书目与正式购买渠道，当前可读取页面未见原书excerpt。
 
