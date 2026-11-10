@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "id": "lori_a:bede-song",
+  "sequence": 88,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:bede-song",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "雅歌注释",
+    "original_title": "In Cantica canticorum",
+    "author_or_attribution": "尊者比德",
+    "date": "8世纪前期",
+    "language": "拉丁语",
+    "synopsis": "将雅歌作为基督与教会关系的经文加以解释。",
+    "value": "补充比德史家身份之外的读经与默观传统。",
+    "cautions": "应区别比德独立注释和他从格列高利著作摘编的材料；现代选集附历史与讲章不另算本作。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "有中文选译线索；本作品具体选段待核",
+      "certainty": "中低：ACCS书目提及作者相关释经，不足认定本作完整翻译",
+      "search_queries": [
+        "比德 雅歌 中文"
+      ],
+      "leads": [
+        {
+          "url": "https://www.eslite.com/product/10072302132683119181006",
+          "finding": "中文ACCS电子书，林梓凤译，校园书房，2022年电子版；简介列大贵格利和比德为雅歌注释来源。未把二手选译视为两部全译。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "校園書房《箴言、傳道書、雅歌》选辑线索；待索引逐页确认引文出自哪部作品",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://www.paulistpress.com/bookproduct/0591-5-the-venerable-bede/",
+        "edition": "Arthur Holder译编，The Venerable Bede: On the Song of Songs and Selected Writings，2011；平装ISBN9780809147007。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "bede-song",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

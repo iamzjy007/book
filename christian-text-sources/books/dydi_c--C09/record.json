@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C09",
+  "sequence": 41,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C09",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "诸王荣耀",
+    "original_title": "Kǝbra nagaśt / Kebra Nagast",
+    "author_or_attribution": "与Yeshaq编纂传统相关；非所罗门时代亲历史",
+    "date": "现形主要为14世纪初；材料有更早层次",
+    "language": "吉兹语；序跋中的跨语翻译来源主张不能当作已证实逐级谱系",
+    "synopsis": "示巴女王、孟尼利克、约柜与王权谱系的叙事。",
+    "value": {
+      "historical": "埃塞俄比亚王权与宗教身份史价值高，不是古以色列历史直接证据。",
+      "spiritual": "可读神学叙事与约的想象；不列通用灵修首选。"
+    },
+    "cautions": "与Yeshaq编纂传统相关；非所罗门时代亲历史",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "Beta主站本轮502，只取得索引；Bonn书目页实际打开。",
+      "不因在埃塞俄比亚受尊崇便宣布所有教会承认为圣经正典。"
+    ],
+    "sources": [
+      {
+        "url": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/7639171",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://betamasaheft.awhamburg.de/works/LIT1709Kebran/main",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C09",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

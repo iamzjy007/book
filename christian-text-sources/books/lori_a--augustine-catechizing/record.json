@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "id": "lori_a:augustine-catechizing",
+  "sequence": 77,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:augustine-catechizing",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "论教导初学者",
+    "original_title": "De catechizandis rudibus",
+    "author_or_attribution": "希波的奥古斯丁",
+    "date": "约399—400",
+    "language": "拉丁语",
+    "synopsis": "回应执事教导初来者的难处，讨论叙述救恩历史、听者状态和教导者的喜乐。",
+    "value": "不仅是教义摘要，也是理解倦怠、同理与牧养语言的早期文献。",
+    "cautions": "归属稳定；rudes是初学者，不能翻成愚笨者或把本书误认论基督教教义。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "history-patristics manifest中augustine-of-hippo-4th-to-5th-centuries为180单元，toc_labels除卷首外均EPISTLE/CHAPTER；未列本专著。不能把已有作者名当作全集。两份参考TXT题名检索见reference_txt_checks。",
+    "chinese_availability": {
+      "status": "未查得明确正式版本",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "奥古斯丁 初学者 教理"
+      ],
+      "leads": [
+        {
+          "url": "https://sophronius.org/codex/ccc.zh?path=z278z1",
+          "finding": "中文教理转载引用本书，属引用线索，不是专著中译出版记录。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://www.focolaremedia.com/bookstore/morality-and-christian-asceticism",
+        "edition": "New City Press / Focolare Media，Morality and Christian Asceticism I/10，2023，ISBN9781565485792；目录列此作。Raymond Canning译另见2006独行本书目。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "augustine-catechizing",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

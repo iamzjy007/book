@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "id": "lori_a:aelred-friendship",
+  "sequence": 85,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:aelred-friendship",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "属灵友情礼赞／论属灵友谊",
+    "original_title": "De spiritali amicitia",
+    "author_or_attribution": "里沃的艾尔雷德",
+    "date": "12世纪中后期，约1160年代定稿",
+    "language": "拉丁语",
+    "synopsis": "分三卷讨论友情的根源、成果以及成熟友谊的条件。",
+    "value": "提供把古典友谊传统放入基督徒生活的具体材料。",
+    "cautions": "真实作品；须区别现代评注与原三卷；不是爱德之镜改名。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "已核实香港正式中文出版",
+      "certainty": "高：出版社书目、译者、ISBN及三卷目录",
+      "search_queries": [
+        "艾爾雷德 友誼 出版"
+      ],
+      "leads": [
+        {
+          "url": "https://www.cclc.org.hk/product/屬靈友情禮讚/",
+          "finding": "标题Spiritual Friendship明确；黎子鹏译，三卷俱列。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "香港基督教文艺出版社2011年2月，黎子鹏译，ISBN9789622942042",
+      "online": "出版社简介与目录，未读全译文",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "出版社页有销售入口；未检查配送或下单"
+    },
+    "priority": "中文已出版，可先阅读",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://www.cclc.org.hk/product/屬靈友情禮讚/",
+        "edition": "黎子鹏译、丹尼斯·比利评注，基督教文艺出版社，香港2011，ISBN9789622942042。",
+        "actual_read": "实读出版社书目信息、简介和三卷目录",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "aelred-friendship",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B18",
+  "sequence": 33,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B18",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "法尤姆残片",
+    "original_title": "Fayyum Fragment / P. Vindob. G 2325",
+    "author_or_attribution": "仅七行希腊文，平行可14:27–30；原作书名与成书年代未定。本轮未核机构古文字断代，故不填写确切抄本年代。归彼得福音的重构高度有争议。",
+    "date": "仅七行希腊文，平行可14:27–30；原作书名与成书年代未定。本轮未核机构古文字断代，故不填写确切抄本年代。归彼得福音的重构高度有争议。",
+    "language": "待进一步核实",
+    "synopsis": "七行残文涉及耶稣预告门徒离散和彼得否认，与马可受难前的预告相近。",
+    "value": {
+      "historical": "显示福音语句在残片中的压缩或转述，能训练对不完整证据的判断。",
+      "spiritual": "内容短且破损，优先学术附录，灵修增益有限。"
+    },
+    "cautions": "仅七行希腊文，平行可14:27–30；原作书名与成书年代未定。本轮未核机构古文字断代，故不填写确切抄本年代。归彼得福音的重构高度有争议。",
+    "repository_status": "未见独立收录，待版本级复查",
+    "repository_evidence": "两manifest无Fayyum标题；063范围不含；彼得福音及063正式JSON未命中2325/Fay；中文总集所查多种音译无命中。",
+    "chinese_availability": "中文总集与manifest未检得此编号或独立标题；并非证明全库绝无引述。未核中文商业出版ISBN。",
+    "priority": "暂列有据的候选，不把它与彼得福音视为确定同书。下一步核奥地利国家图书馆原始目录及OUP校订。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://gospelmanuscripts.wordpress.com/greek-mss/p-vindob-g-2325/",
+        "institution": "Gospel Manuscripts专题网站（非馆藏机构；仅作学术书目入口）",
+        "read_scope": "完整短条目及Foster/Kraus参考书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B18",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

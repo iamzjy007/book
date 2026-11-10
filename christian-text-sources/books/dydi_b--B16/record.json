@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B16",
+  "sequence": 31,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B16",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "亚戴之教训",
+    "original_title": "Doctrine / Teaching of Addai",
+    "author_or_attribution": "叙利亚晚古代作品，通常置4世纪末至5世纪初；讲述1世纪的伊得撒建教，故事年代不是写作年代。",
+    "date": "叙利亚晚古代作品，通常置4世纪末至5世纪初；讲述1世纪的伊得撒建教，故事年代不是写作年代。",
+    "language": "待进一步核实",
+    "synopsis": "讲述亚伯加求医、亚戴到伊得撒传道医治，以及当地教会的教训与继承安排。",
+    "value": {
+      "historical": "伊得撒身份、教会传承及基督肖像传统的重要材料。",
+      "spiritual": "宣教与服事可研读；城池永不被征服的传说不作普遍神应许。"
+    },
+    "cautions": "叙利亚晚古代作品，通常置4世纪末至5世纪初；讲述1世纪的伊得撒建教，故事年代不是写作年代。",
+    "repository_status": "相关文本已收；扩展全本未确认",
+    "repository_evidence": "正式044 epistles-of-king-abgar-and-jesus与优西比乌教会史已有书信故事；中文总集47201–47207介绍亚戴之教训，不证明103节全译。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "补收须选择叙利亚扩展本，并注明与已有亚伯加书信重叠。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B16",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

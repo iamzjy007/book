@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C06",
+  "sequence": 39,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C06",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "帕科米乌斯会规",
+    "original_title": "Praecepta / Rule of Pachomius",
+    "author_or_attribution": "归帕科米乌斯及团体传统；应分四组规则与继任者规条，不当作现代单卷自传",
+    "date": "4世纪规则传统；耶柔米拉丁译本404年",
+    "language": "科普特语形成背景，经希腊语传至拉丁；现存规则为复合传承",
+    "synopsis": "规范劳动、祈祷、财物和团体秩序的会规。",
+    "value": {
+      "historical": "共住修道组织与经济生活基础资料。",
+      "spiritual": "共同生活与服事价值高，日常条款不宜无差别移用于当代。"
+    },
+    "cautions": "归帕科米乌斯及团体传统；应分四组规则与继任者规条，不当作现代单卷自传",
+    "repository_status": "源EPUB Pachom命中c1AMM书信57、c1GJT等人物提及；不是会规。两manifest与参考TXT未见独立会规。",
+    "repository_evidence": "源EPUB Pachom命中c1AMM书信57、c1GJT等人物提及；不是会规。两manifest与参考TXT未见独立会规。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "若采用Koinonia全集，卷1传记、卷2会规、卷3书信训言须分别登记，避免全三卷当一篇古作。"
+    ],
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS046/Pachomian-Koinonia-2",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C06",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B14",
+  "sequence": 29,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B14",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "腓力行传",
+    "original_title": "Acts of Philip",
+    "author_or_attribution": "晚古代复合行传，通常归4世纪编纂层（精确分层需专门研究）；15行传中第10、11开头及14–15部分缺失，非完整15篇皆存。",
+    "date": "晚古代复合行传，通常归4世纪编纂层（精确分层需专门研究）；15行传中第10、11开头及14–15部分缺失，非完整15篇皆存。",
+    "language": "待进一步核实",
+    "synopsis": "叙述腓力与同伴旅行传道、医治和驱魔，以及禁欲教导、奇兽故事与殉道。",
+    "value": {
+      "historical": "研究女性同工马利亚姆妮、禁欲与奇迹小说；不可把幻想旅行直接作为腓力传记。",
+      "spiritual": "勇气、怜悯与不以恶报恶有比较价值；强烈禁欲和惩罚奇迹须置回时代。"
+    },
+    "cautions": "晚古代复合行传，通常归4世纪编纂层（精确分层需专门研究）；15行传中第10、11开头及14–15部分缺失，非完整15篇皆存。",
+    "repository_status": "未见独立译本",
+    "repository_evidence": "中文参考TXT第231章47738起有《腓力福音》；两manifest均无独立Acts of Philip条目。腓力福音不是腓力行传；中文总集题名检索未见腓力行传。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "较高补收优先级，与Gospel of Philip严格分开。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B14",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C01",
+  "sequence": 34,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C01",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "沙漠教父语录：字母集",
+    "original_title": "Apophthegmata Patrum, Alphabetical Collection",
+    "author_or_attribution": "匿名编者按长老姓名编排，含女修道者；不同语录集不能相互等同",
+    "date": "4—5世纪素材，约5—6世纪编集；非单一作者同时成书",
+    "language": "希腊语字母编集；背景有科普特语口传及后来的叙利亚、拉丁等译传",
+    "synopsis": "长老短语、问答和生活故事。",
+    "value": {
+      "historical": "修道社会与劝诫实践的重要材料；非逐句现场实录。",
+      "spiritual": "谦卑、辨识、不论断与恒忍，阅读价值高；极端苦行须置于原情境。"
+    },
+    "cautions": "匿名编者按长老姓名编排，含女修道者；不同语录集不能相互等同",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "published_verified",
+      "finding": "陈廷忠中译，Benedicta Ward英译，《沙漠教父言行录》，北京三联书店2012，ISBN9787108041463；对外经贸大学馆录明确含《安东尼传》。字母集对应关系需再核版权页/目录，不能据此认定系统集也译全。",
+      "url": "https://opac.uibe.edu.cn/opac/book/b0ced071c2573523dde3333cdc069f16"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "须取得拟用版目录和版权页后确定具体翻译/收录范围。"
+    ],
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS059/The-Sayings-Of-The-Desert-Fathers",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://opac.uibe.edu.cn/opac/book/b0ced071c2573523dde3333cdc069f16",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C01",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

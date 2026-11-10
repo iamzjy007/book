@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "id": "root:apocryphon-john",
+  "sequence": 108,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "root:apocryphon-john",
+    "area": "科普特启示及伦理文献",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "约翰秘传／约翰密传",
+    "original_title": "Apocryphon of John / Le Livre des secrets de Jean",
+    "author_or_attribution": "伪托约翰，作者不详",
+    "date": "古代作品；各层与长短本断代待核",
+    "language": "科普特语多个传本；希腊原作关系须看校本",
+    "synopsis": "以约翰受启示的框架呈现宇宙起源与救赎，是理解相关思想传统的重要对照。",
+    "value": "历史研究优先；不把其中宇宙论直接视为早期教会共同信仰或耶稣原始语录。",
+    "cautions": "短本NH III,1／BG,2与长本应分辨；现代法译书目不等同古代原作。",
+    "repository_status": "not_located_as_standalone_in_manifest",
+    "repository_evidence": "manifest只有正典John、Acts of John等不同作品，不能据John同名判已有；参考TXT需进一步异名排查。",
+    "chinese_availability": {
+      "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+      "evidence": [
+        {
+          "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+          "level": "search_index_only_open_403",
+          "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+        },
+        {
+          "url": "https://book.douban.com/subject/36663348/",
+          "level": "search_index_only",
+          "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+        }
+      ],
+      "confidence": "collection_lead_only",
+      "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+    },
+    "priority": "P2",
+    "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。",
+    "sources": [
+      {
+        "url": "https://www.pulaval.com/livres/le-livre-des-secrets-de-jean-recension-breve-nh-iii-1-et-bg-2-bcnh-textes-no-35",
+        "publisher": "拉瓦尔大学出版社",
+        "actually_read": "Funk／Barc、短本NH III,1及BG,2、2012、408页、ISBN9782763793801；页面无完整作品导论",
+        "access": "readable_page",
+        "checked_date_beijing": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/root.json",
+    "worker_entry_id": "apocryphon-john",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

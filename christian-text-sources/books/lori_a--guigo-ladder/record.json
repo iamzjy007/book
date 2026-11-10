@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "id": "lori_a:guigo-ladder",
+  "sequence": 83,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:guigo-ladder",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "修士天梯",
+    "original_title": "Scala claustralium / Epistola de vita contemplativa",
+    "author_or_attribution": "Guigo II（吉戈／纪果二世）",
+    "date": "12世纪后半，具体年待核",
+    "language": "拉丁语",
+    "synopsis": "以诵读、默想、祈祷、默观四级阐述经文阅读的内在过程。",
+    "value": "短而集中，适合作为研究西方圣言诵读传统的入门。",
+    "cautions": "须区别Guigo I及约翰·克里马克斯的天梯；现代合册附十二默想，不计为天梯正文。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "中文介绍已确认；正式完整中译未确认",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "圭戈 修士 天梯 出版",
+        "古果 天梯",
+        "Guigo 中文 聖讀"
+      ],
+      "leads": [
+        {
+          "url": "https://www.sbofmhk.org/pub/body/cpray/c8_lectio_divina/index.html",
+          "finding": "搜索返回内容明确吉戈与修士天梯及四步；直连timeout。"
+        },
+        {
+          "url": "https://theology.catholic.org.tw/J/data.php?id=829&tpl=1",
+          "finding": "搜索结果提及纪果及四步，属介绍文章；未核全页。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "思高圣经学会和辅仁神学院有圣言诵读介绍，不能算原作全译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS048/Ladder-of-Monks-and-Twelve-Meditations",
+        "edition": "Edmund Colledge、James Walsh译，CS48，1981，ISBN9780879077488。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "guigo-ladder",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

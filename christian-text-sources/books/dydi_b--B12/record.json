@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B12",
+  "sequence": 27,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B12",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "巴多罗买复活记",
+    "original_title": "Book of Bartholomew / Book on the Resurrection of Christ",
+    "author_or_attribution": "科普特使徒回忆录，多修订本残存；NASSCAL列主要抄本9–11世纪，不能沿中文简介把这些现存抄本统一说成5–7世纪。原作精确年代待研究。",
+    "date": "科普特使徒回忆录，多修订本残存；NASSCAL列主要抄本9–11世纪，不能沿中文简介把这些现存抄本统一说成5–7世纪。原作精确年代待研究。",
+    "language": "待进一步核实",
+    "synopsis": "科普特叙事描绘耶稣战胜死亡、天使颂歌、复活显现，以及多马使儿子复生。",
+    "value": {
+      "historical": "研究埃及复活礼仪、天使颂歌、圣餐与多马故事的接受史。",
+      "spiritual": "诗歌可作比较性灵修阅读；传奇场景需与正典叙述区别。"
+    },
+    "cautions": "科普特使徒回忆录，多修订本残存；NASSCAL列主要抄本9–11世纪，不能沿中文简介把这些现存抄本统一说成5–7世纪。原作精确年代待研究。",
+    "repository_status": "中文简介及目录已有；正文覆盖未确定",
+    "repository_evidence": "总集第217章47322附近介绍本书，正文随即转入Questions；54228再列卷名，不能据此证明全译。两manifest无独立卷。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "与Questions分立；先核中文完整出版卷与各科普特修订本。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-bartholomew/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B12",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

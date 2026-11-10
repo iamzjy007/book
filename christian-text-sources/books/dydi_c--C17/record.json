@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C17",
+  "sequence": 49,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C17",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "汉兹塔的格里戈尔传",
+    "original_title": "Life of Grigol Khandzteli / Vita of Gregory of Khandzta",
+    "author_or_attribution": "Giorgi Merchule；唯一存本11/12世纪的具体定年有异说",
+    "date": "Giorgi Merchule951年；958—966有后增段",
+    "language": "古格鲁吉亚语",
+    "synopsis": "修道院建设、文化教育与格里戈尔及门徒的生活。",
+    "value": {
+      "historical": "格鲁吉亚语言、礼仪、政治与修道网络的重要资料。",
+      "spiritual": "团体生活和教育服事价值高；国族修辞须辨。"
+    },
+    "cautions": "Giorgi Merchule；唯一存本11/12世纪的具体定年有异说",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "学院条目明确Lang为paraphrased，须寻找核实2015新译的完整性与刊印资料。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.georgianencyclopedia.ge/ka/form_eng/558",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/view/9578",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C17",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

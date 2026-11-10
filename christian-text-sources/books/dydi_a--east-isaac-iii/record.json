@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "id": "dydi_a:east-isaac-iii",
+  "sequence": 4,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_a:east-isaac-iii",
+    "area": "叙利亚与阿拉伯传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "尼尼微的以撒：第三集",
+    "original_title": "Terza Collezione / Third Collection",
+    "author_or_attribution": "归于尼尼微的以撒",
+    "date": "原作传统7世纪；本集传抄史另核",
+    "language": "叙利亚语；部分阿拉伯见证",
+    "synopsis": "近代重见的另一组讲论。",
+    "value": "补充以撒传承的文本范围。",
+    "cautions": "晚抄本不等于晚期原作；单篇归属仍须查看校勘导言。",
+    "repository_status": "未见独立收录（目录及限定关键词核查）",
+    "repository_evidence": {
+      "manifests": [
+        "bible/translation/manifest.json",
+        "bible/translation/history-patristics/manifest.json"
+      ],
+      "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+      "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+      "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+    },
+    "chinese_availability": {
+      "status": "未知",
+      "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+      "confidence": "低",
+      "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+      "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+      "full_translation_verified": false
+    },
+    "priority": "P2",
+    "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+    "sources": [
+      {
+        "url": "https://www.syri.ac/bibliography/1537586297",
+        "publisher": "syri.ac / Peeters书目",
+        "actually_read": true,
+        "read_scope": "2011书目及底本、部分见证、意译卷说明",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_a.json",
+    "worker_entry_id": "east-isaac-iii",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

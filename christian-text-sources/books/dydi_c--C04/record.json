@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C04",
+  "sequence": 37,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C04",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "劳苏斯史",
+    "original_title": "Historia Lausiaca / The Lausiac History",
+    "author_or_attribution": "帕拉迪乌斯；献给劳苏斯，勿与匿名《埃及修士史》混同",
+    "date": "约419—420年；所记旅行多在4世纪末",
+    "language": "希腊语；有长短本与叙利亚等译传",
+    "synopsis": "访问修士、女修道者与赞助人的短传。",
+    "value": {
+      "historical": "修道网络、女性角色和宫廷关系的重要史料；奇迹和榜样修辞仍需甄别。",
+      "spiritual": "呈现多样的修道榜样，可与语录集互补。"
+    },
+    "cautions": "帕拉迪乌斯；献给劳苏斯，勿与匿名《埃及修士史》混同",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "出版社简介有把旅行时代写成撰书时代的模糊表述；此表区分两者。",
+      "检索劳苏斯史/劳苏卡史中文仅见介绍，完整译本未核实。"
+    ],
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS252P",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://www.cambridge.org/core/books/the-lausiac-history-of-palladius/388E95FC17CDD6A304DBC047E5E657D3",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C04",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

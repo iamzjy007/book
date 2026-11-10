@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb08",
+  "sequence": 97,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_b:lb08",
+    "area": "礼仪、教规与殉道",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "波尔多朝圣者行程",
+    "original_title": "Itinerarium Burdigalense",
+    "author_or_attribution": "记333年行程；匿名",
+    "date": "记333年行程；匿名",
+    "language": "拉丁文",
+    "synopsis": "道路站点与早期圣地地理，和埃格里亚互补。",
+    "value": "道路站点与早期圣地地理，和埃格里亚互补。",
+    "cautions": "记333年行程；匿名",
+    "repository_status": "无独立manifest；与Egeria是不同作品。",
+    "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+    "chinese_availability": "not_verified",
+    "priority": "待进一步核实",
+    "next": "核现代拉丁版及路线地名；中文本轮未作充分单项检索。",
+    "sources": [
+      {
+        "url": "https://catalogue.nli.ie/Record/vtls000174510",
+        "actually_read": "爱尔兰国家图书馆目录检索：Aubrey Stewart译、C.W.Wilson注",
+        "limits": "搜索所得馆藏元数据，未读全文"
+      }
+    ],
+    "worker_record": "workers/lori_b.json",
+    "worker_entry_id": "lb08",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

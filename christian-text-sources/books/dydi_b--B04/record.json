@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B04",
+  "sequence": 19,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B04",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "俄克喜林库斯840残片",
+    "original_title": "P. Oxy. 840",
+    "author_or_attribution": "实为羊皮纸小叶；晚古代抄本。NASSCAL正文与清单分别列4–5世纪、3–4世纪，古文字日期应待专门核实。",
+    "date": "实为羊皮纸小叶；晚古代抄本。NASSCAL正文与清单分别列4–5世纪、3–4世纪，古文字日期应待专门核实。",
+    "language": "待进一步核实",
+    "synopsis": "残叶记耶稣在圣殿与祭司争论洁净，比较外在洗濯与内里的污秽。",
+    "value": {
+      "historical": "耶稣与祭司洁净争论的文本史材料；不能仅凭场景证明独立历史事件。",
+      "spiritual": "可比较内外洁净主题，残篇不适合独立灵修纲要。"
+    },
+    "cautions": "实为羊皮纸小叶；晚古代抄本。NASSCAL正文与清单分别列4–5世纪、3–4世纪，古文字日期应待专门核实。",
+    "repository_status": "已收部分",
+    "repository_evidence": "fragmentary-gospels/cMCB p0048–p0067，旧标题Oxyrhynchus Gospel Fragment 1。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "标题标明840及羊皮纸；网站概要把池中沐浴者说成耶稣，现存源文实为对话祭司，应以文本为准。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-840/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B04",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

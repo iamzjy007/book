@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "id": "lori_a:william-golden",
+  "sequence": 81,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:william-golden",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "金书：致蒙迪厄弟兄书",
+    "original_title": "Epistola ad fratres de Monte Dei / Epistola aurea",
+    "author_or_attribution": "圣蒂埃里的威廉",
+    "date": "约1144—1145",
+    "language": "拉丁语",
+    "synopsis": "由日常训练进入内心专注和爱中的成长，面向独修团体。",
+    "value": "是修道院与平信徒接受史均重要的实践指南。",
+    "cautions": "曾误归伯尔纳或加尔都西会Guigo；现出版社明确归威廉。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "未查得明确正式版本",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "聖蒂埃里 威廉 金書 出版",
+        "聖蒂埃里 金書",
+        "William of Saint Thierry 中文 出版"
+      ],
+      "leads": [
+        {
+          "url": "https://www.sanmin.com.tw/product/index/004701693",
+          "finding": "检索命中同作者英文The Enigma of Faith外文销售页；既非本作品，也非中文译本，不能拿来证明中文已有。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CF012/The-Golden-Epistle",
+        "edition": "Theodore Berkeley译，J.M.Déchanet导言，CF12，1971，ISBN9780879077129。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "william-golden",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

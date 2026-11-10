@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C14",
+  "sequence": 46,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C14",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "埃兹尼克《论神／驳异端》",
+    "original_title": "Eznik of Kołb, Ełc ałandocʿ / De Deo",
+    "author_or_attribution": "埃兹尼克；唯一1280抄本无原题，驳异端/论神皆后世题名",
+    "date": "5世纪中叶，约440年代",
+    "language": "古典亚美尼亚语，利用希腊/叙利亚思想资源",
+    "synopsis": "讨论恶、自由意志及反对二元论等立场。",
+    "value": {
+      "historical": "早期亚美尼亚神学与伊朗宗教互动的重要论辩材料，敌对描述需另证。",
+      "spiritual": "适合神学辨析，不是连续祷告手册。"
+    },
+    "cautions": "埃兹尼克；唯一1280抄本无原题，驳异端/论神皆后世题名",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "Finna正文403，仅索引书目；Iranica学术条目实际阅读。",
+      "不能把De Deo与Refutation of Sects当两本不同作品。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.iranicaonline.org/articles/eznik-of-kolb/",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://www.finna.fi/Record/fikka.1217299?lng=en-gb",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C14",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

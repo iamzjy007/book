@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B08",
+  "sequence": 23,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B08",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "俄克喜林库斯5575耶稣语录",
+    "original_title": "P. Oxy. 5575",
+    "author_or_attribution": "编辑者依古文字学定抄本为2世纪；早期发掘所得，2023首次刊布，非2023才出土。作者、原书名及文本关系未明。",
+    "date": "编辑者依古文字学定抄本为2世纪；早期发掘所得，2023首次刊布，非2023才出土。作者、原书名及文本关系未明。",
+    "language": "待进一步核实",
+    "synopsis": "残叶汇集耶稣语录，涉及不忧虑衣食、天父养活飞鸟，以及禁食和安息日。",
+    "value": {
+      "historical": "同叶呈现对观及多马平行语句，是研究流动语录传统的重要新增材料。",
+      "spiritual": "关于忧虑与天国可比较研读；不能把平行关系宣称为多马原本已获发现。"
+    },
+    "cautions": "编辑者依古文字学定抄本为2世纪；早期发掘所得，2023首次刊布，非2023才出土。作者、原书名及文本关系未明。",
+    "repository_status": "未见收录",
+    "repository_evidence": "两manifest无5575；063正文所辨为840、1224、Egerton，不含此片。中文总集检索无编号。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "高优先级短篇增补，须保留残缺标记与编辑者不确定判断。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-5575/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B08",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

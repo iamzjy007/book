@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B13",
+  "sequence": 28,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B13",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "所谓迦玛烈福音／马利亚哀悼讲章",
+    "original_title": "So-called Gospel of Gamaliel / Homily on the Lament of Mary",
+    "author_or_attribution": "“科普特迦玛烈福音”是近代重构假设；Suciu 2012依据BL Or.7027 f.75将材料归回马利亚哀悼讲章并否定假定独立科普特福音。载体有科普特、阿拉伯、埃塞俄比亚传统，年代须分版本。",
+    "date": "“科普特迦玛烈福音”是近代重构假设；Suciu 2012依据BL Or.7027 f.75将材料归回马利亚哀悼讲章并否定假定独立科普特福音。载体有科普特、阿拉伯、埃塞俄比亚传统，年代须分版本。",
+    "language": "待进一步核实",
+    "synopsis": "现存相关片段记彼拉多调查耶稣坟墓、寿衣与尸体，叙事中以迦玛烈的声音作证。",
+    "value": {
+      "historical": "研究受难文学与彼拉多形象，以及错误书名如何形成。",
+      "spiritual": "悲悼与盼望可研读；叙事中的反犹描写应作历史批判，不推广为群体指责。"
+    },
+    "cautions": "“科普特迦玛烈福音”是近代重构假设；Suciu 2012依据BL Or.7027 f.75将材料归回马利亚哀悼讲章并否定假定独立科普特福音。载体有科普特、阿拉伯、埃塞俄比亚传统，年代须分版本。",
+    "repository_status": "中文参考已收片段；未入正式译本",
+    "repository_evidence": "总集第216章47297–47312有简介、译文及缺文说明；两manifest无独立标题。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "优先修书目归属，不能宣称新增一部已证实的古代福音。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://journals.sub.uni-hamburg.de/aethiopica/article/view/659",
+        "institution": "汉堡大学 Aethiopica",
+        "read_scope": "论文元数据与摘要",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B13",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

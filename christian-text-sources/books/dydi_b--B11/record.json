@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B11",
+  "sequence": 26,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B11",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "巴多罗买提问",
+    "original_title": "Questions of Bartholomew",
+    "author_or_attribution": "多版本启示问答；希腊、拉丁、斯拉夫见证，存本多为中世纪。原作年代未定，中文简介给2–6世纪宽范围不可当精确结论。",
+    "date": "多版本启示问答；希腊、拉丁、斯拉夫见证，存本多为中世纪。原作年代未定，中文简介给2–6世纪宽范围不可当精确结论。",
+    "language": "待进一步核实",
+    "synopsis": "巴多罗买向耶稣、马利亚及撒但问话，探问降阴间、基督降生和邪恶的起源。",
+    "value": {
+      "historical": "研究基督降阴间、马利亚及撒但起源传统与问答体的演变。",
+      "spiritual": "可读其救赎盼望，但天使数字与魔鬼叙事不可直接转为教义事实。"
+    },
+    "cautions": "多版本启示问答；希腊、拉丁、斯拉夫见证，存本多为中世纪。原作年代未定，中文简介给2–6世纪宽范围不可当精确结论。",
+    "repository_status": "中文参考已收正文；未入正式译本",
+    "repository_evidence": "总集第217章47314起，47326正文至47400附近；两manifest无独立条目。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "不是未有中文；可在版权许可下独立新译，必须选定具体版本，勿拼合。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/questions-of-bartholomew/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B11",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

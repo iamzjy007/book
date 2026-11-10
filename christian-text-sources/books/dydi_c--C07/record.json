@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C07",
+  "sequence": 40,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C07",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "谢努特传",
+    "original_title": "Life of Shenoute / Vita Sinuthii",
+    "author_or_attribution": "传统归弟子继任者Besa；不是谢努特本人的《教规》或《讲论》",
+    "date": "谢努特卒后，5世纪起传承，现存版本有后期层累",
+    "language": "科普特语，多版本；Bell英译具体所据版本须版权/导论续核",
+    "synopsis": "科普特白修院领袖的圣徒传。",
+    "value": {
+      "historical": "可补希腊拉丁中心视野；宗教冲突与权威描写尤其值得批判阅读。",
+      "spiritual": "灵修价值有，但强制与暴力情节不应美化成普遍德行。"
+    },
+    "cautions": "传统归弟子继任者Besa；不是谢努特本人的《教规》或《讲论》",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "历史补缺优先，灵修阅读宜附导读",
+    "next": [
+      "须取得拟用版目录和版权页后确定具体翻译/收录范围。"
+    ],
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS073/The-Life-of-Shenoute",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C07",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "id": "lori_a:dhuoda-handbook",
+  "sequence": 87,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:dhuoda-handbook",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "给威廉的手册（暂译）",
+    "original_title": "Liber manualis",
+    "author_or_attribution": "杜奥达（Dhuoda）",
+    "date": "841—843",
+    "language": "拉丁语",
+    "synopsis": "母亲在与儿子分离的处境中写下关于信仰、家族和行为的指导。",
+    "value": "罕见加洛林时期女性自述与家庭灵修文献，也显示信仰和政治忠诚的紧张。",
+    "cautions": "作者归属稳定；旧拉丁传本有缺陷，1950年代发现更好见证；应选现代校本。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "未查得明确正式版本",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "杜奧達 書",
+        "杜奥达 手册",
+        "Dhuoda 中文 出版 手册"
+      ],
+      "leads": [
+        {
+          "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010712658",
+          "finding": "检索命中日本国会图书馆日译书母が子に与うる遺訓の書；不是中译。中文二手转载提及多达《人生指南》，需回溯正式论文，不列出版证实。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://www.cuapress.org/9780813209388/handbook-for-william/",
+        "edition": "Carol Neel译，CUA Press平装1999，ISBN9780813209388；基于Riché1975校本，后记考虑1991修订。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "dhuoda-handbook",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

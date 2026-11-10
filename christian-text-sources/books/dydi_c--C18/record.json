@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C18",
+  "sequence": 50,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C18",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "马什托茨传",
+    "original_title": "Koriwn, Life of Mashtotsʿ",
+    "author_or_attribution": "科里温／Koriun，弟子传记兼颂赞；传本和修辞不能简化成完全客观实录",
+    "date": "5世纪，马什托茨440年死后不久",
+    "language": "古典亚美尼亚语",
+    "synopsis": "字母创制者的宣教、教育与圣经翻译工作。",
+    "value": {
+      "historical": "亚美尼亚文字文化、翻译及教会发展的基础文献。",
+      "spiritual": "服务语言与教导的榜样价值高，非修道操作手册。"
+    },
+    "cautions": "科里温／Koriun，弟子传记兼颂赞；传本和修辞不能简化成完全客观实录",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "BnF记录实际核定版次、语种、译者；正文未下载/翻译。"
+    ],
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb47129275n",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://koha.ysu.am/bib/422131",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C18",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

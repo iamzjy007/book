@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C10",
+  "sequence": 42,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C10",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "Senodos教规集",
+    "original_title": "Senodos / Maṣḥafa Senodos (CAe2317)",
+    "author_or_attribution": "多篇教规礼仪合集，含伪使徒归名及非使徒文献",
+    "date": "中古编成，有晚古及阿克苏姆材料；非单一年份",
+    "language": "吉兹语；阿拉伯中介与更早希腊译传的层次须逐篇判定",
+    "synopsis": "关于职分、礼仪和共同体秩序的汇编。",
+    "value": {
+      "historical": "教会法、礼仪与文本迁移的高价值资料。",
+      "spiritual": "以制度史为主，部分训诫可读；不宜整卷归为灵修经典。"
+    },
+    "cautions": "多篇教规礼仪合集，含伪使徒归名及非使徒文献",
+    "repository_status": "旧046 apostolic-church-order与其同属教规传统，不等于Senodos全体；当前未见同名合集。需逐构件比对才能界定素材重合。",
+    "repository_evidence": "旧046 apostolic-church-order与其同属教规传统，不等于Senodos全体；当前未见同名合集。需逐构件比对才能界定素材重合。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "保留候选，先做构件目录核实",
+    "next": [
+      "Beta主站502，CAe镜像实际核别名；Bausi论文仅书目摘要。",
+      "正典范围需精确到构件，不称整部所有内容皆圣经；此项版本构成核实仍属第二阶段。"
+    ],
+    "sources": [
+      {
+        "url": "https://cae.ethiopicist.com/works/2317/",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://iris.uniroma1.it/handle/11573/1693213",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C10",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

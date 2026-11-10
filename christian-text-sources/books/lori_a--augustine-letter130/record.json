@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "id": "lori_a:augustine-letter130",
+  "sequence": 78,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:augustine-letter130",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "致普罗巴论祈祷（书信130）",
+    "original_title": "Epistula 130 ad Probam",
+    "author_or_attribution": "希波的奥古斯丁",
+    "date": "约411—412；项目标412",
+    "language": "拉丁语",
+    "synopsis": "回应普罗巴关于祈祷的请求，辨析应当求什么、祈祷的渴望及主祷文。",
+    "value": "既有平信徒处境又有内在祷告神学；可从已译材料提取主题阅读入口。",
+    "cautions": "真实书信；现代单册标题是主题描述，不另算失传专著。",
+    "repository_status": "已有：指定书信正文已译",
+    "repository_evidence": "history-patristics/manifest.json c1CCU末题署EPISTLE CXXX (AD412)，随后c1CEB至c1CHV第1—15章，c1CJ2开头第16章；实际读取各正式zh JSON首尾确认。未在本轮复核英拉全文完整性。",
+    "chinese_availability": {
+      "status": "未查得明确正式版本",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "奥古斯丁 普罗巴 书信"
+      ],
+      "leads": [],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "已有，可先利用",
+    "next": "已有译文可提取主题索引；跨版本审查时区分412/411年代差异，不重复启动整篇翻译。",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/fathers/1102130.htm",
+        "edition": "NPNF第一系列第1卷旧英译的NewAdvent镜像；不算独立现代译本。",
+        "actual_read": "读题署、开头论祈祷及章节结构；不下载全文",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "augustine-letter130",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

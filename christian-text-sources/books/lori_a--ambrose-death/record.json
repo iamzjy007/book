@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "id": "lori_a:ambrose-death",
+  "sequence": 74,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:ambrose-death",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "论死亡之善",
+    "original_title": "De bono mortis",
+    "author_or_attribution": "米兰的安波罗修",
+    "date": "4世纪后半；各篇细年待核",
+    "language": "拉丁语",
+    "synopsis": "以死亡、灵魂和将来盼望为主题的劝勉与经文解释。",
+    "value": "可用于研究古代安慰传统，须区分其灵魂观与现代死亡心理论。",
+    "cautions": "归属安波罗修；本轮未核各篇确切成书年或讲章/书面著作之分。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "history-patristics manifest中ambrose-of-milan-4th-century仅3单元：卷首c19VG、书信c19VP/c1A1G，列Epistles XVII—LXIII选信，未列本专著；旧manifest对应相同作者材料。两份参考TXT题名检索见reference_txt_checks。",
+    "chinese_availability": {
+      "status": "未查得明确正式版本",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "安波羅修 以撒 靈魂 死亡 出版"
+      ],
+      "leads": [],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
+        "edition": "Michael P. McHugh译 Seven Exegetical Works，Fathers of the Church65；目录明确列三篇。年份：BiblioVault作1970，NiI/OpenLibrary记录1972，待实物版权页核定。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "ambrose-death",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

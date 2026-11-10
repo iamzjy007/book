@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "id": "root:interpretation-knowledge",
+  "sequence": 107,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "root:interpretation-knowledge",
+    "area": "科普特启示及伦理文献",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "灵知的解释（暂译）",
+    "original_title": "Interpretation of Knowledge / L’interprétation de la Gnose (NHC XI,1)",
+    "author_or_attribution": "佚名",
+    "date": "古代晚期；具体断代待核，不由2010年现代校本日期倒推",
+    "language": "科普特语存本；原作语言关系待校本导论确认",
+    "synopsis": "讨论群体中的嫉妒与纷争，借基督受苦及教会身体的形象劝人忍耐。",
+    "value": "可研究非主流基督教团体如何解释共同体生活；灵修借鉴须同时理解其神学语境。",
+    "cautions": "出版社介绍将其置于瓦伦廷派或受其影响的环境；不当作普遍教父共识。",
+    "repository_status": "not_located_in_checked_inventory",
+    "repository_evidence": "两manifest无独立题名；参考TXT章节索引未定位；仍须核其他译名。",
+    "chinese_availability": {
+      "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+      "evidence": [
+        {
+          "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+          "level": "search_index_only_open_403",
+          "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+        },
+        {
+          "url": "https://book.douban.com/subject/36663348/",
+          "level": "search_index_only",
+          "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+        }
+      ],
+      "confidence": "collection_lead_only",
+      "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+    },
+    "priority": "P2",
+    "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。",
+    "sources": [
+      {
+        "url": "https://www.pulaval.com/livres/l-interpretation-de-la-gnose-nh-xi-1-bcnh-textes-no-34",
+        "publisher": "拉瓦尔大学出版社",
+        "actually_read": "2010年Funk/Painchaud/Thomassen校本、ISBN9782763789835及内容／文本环境介绍",
+        "access": "readable_page",
+        "checked_date_beijing": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/root.json",
+    "worker_entry_id": "interpretation-knowledge",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

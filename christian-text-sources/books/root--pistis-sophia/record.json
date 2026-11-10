@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "id": "root:pistis-sophia",
+  "sequence": 109,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "root:pistis-sophia",
+    "area": "科普特启示及伦理文献",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "皮斯提斯·索菲亚（信心与智慧；暂译）",
+    "original_title": "Pistis Sophia",
+    "author_or_attribution": "佚名；以复活后的耶稣与门徒对话为框架",
+    "date": "古代晚期，具体层次断代待专门校本",
+    "language": "科普特语传本；与希腊原作的关系待核",
+    "synopsis": "包含索菲亚的困境、祈求及救助叙事，并呈现耶稣教导的后期接受形式。",
+    "value": "适合研究悔改祷告与相关团体思想；不直接推荐为跨宗派共同灵修规范。",
+    "cautions": "不同于正典索菲亚智慧题材；非目击门徒的已证实笔录。",
+    "repository_status": "reference_title_only_text_explicitly_omitted",
+    "repository_evidence": "参考TXT第202章（约46103行）明确“皮斯特斯·索菲椏（文本略）”；不是已有全文。",
+    "chinese_availability": {
+      "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+      "evidence": [
+        {
+          "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+          "level": "search_index_only_open_403",
+          "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+        },
+        {
+          "url": "https://book.douban.com/subject/36663348/",
+          "level": "search_index_only",
+          "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+        }
+      ],
+      "confidence": "collection_lead_only",
+      "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+    },
+    "priority": "P2",
+    "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。",
+    "sources": [
+      {
+        "url": "https://www.degruyterbrill.com/document/isbn/9789004301191/html",
+        "publisher": "Brill／De Gruyter Brill",
+        "actually_read": "Erin Evans2015研究专著介绍，讨论两作品、洗礼／上升／伦理主题；这是现代研究，不是古代原作译本",
+        "access": "readable_page",
+        "checked_date_beijing": "2026-11-10"
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb33446670k",
+        "publisher": "法国国家图书馆",
+        "actually_read": "Schmidt1905德译合订书目、卷题及子目；馆录有作者与原语著录疑点，不能未经复核照抄",
+        "access": "readable_page",
+        "checked_date_beijing": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/root.json",
+    "worker_entry_id": "pistis-sophia",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

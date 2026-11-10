@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B15",
+  "sequence": 30,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B15",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "提摩太行传",
+    "original_title": "Acts of Timothy",
+    "author_or_attribution": "晚古代殉道与地方教会起源叙事；一些希腊本提356遗骸迁移，不能把此层当1世纪见证。常归5世纪，但本轮尚未核专门断代论证。",
+    "date": "晚古代殉道与地方教会起源叙事；一些希腊本提356遗骸迁移，不能把此层当1世纪见证。常归5世纪，但本轮尚未核专门断代论证。",
+    "language": "待进一步核实",
+    "synopsis": "讲述提摩太在以弗所牧养及遇害，并穿插约翰整理福音书、被放逐和归来的传说。",
+    "value": {
+      "historical": "以弗所教会、圣徒崇敬与四福音来源传说的接受史价值。",
+      "spiritual": "忠心与殉道主题可阅读，不把约翰整理三福音传说当正典形成实录。"
+    },
+    "cautions": "晚古代殉道与地方教会起源叙事；一些希腊本提356遗骸迁移，不能把此层当1世纪见证。常归5世纪，但本轮尚未核专门断代论证。",
+    "repository_status": "未见独立译本",
+    "repository_evidence": "两manifest无题名；中文总集提摩太行传精确检索未见。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "篇幅较小，适合补收；须区分希腊家族和拉丁伪署坡旅克拉底。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B15",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

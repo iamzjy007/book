@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb16",
+  "sequence": 105,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_b:lb16",
+    "area": "礼仪、教规与殉道",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "俄克喜林库斯赞美诗（P.Oxy. XV 1786）",
+    "original_title": "Oxyrhynchus Hymn, P.Oxy. XV 1786",
+    "author_or_attribution": "3世纪末纸草见证，作者匿名",
+    "date": "3世纪末纸草见证，作者匿名",
+    "language": "希腊文及古希腊音乐记谱",
+    "synopsis": "罕见带记谱的早期基督教赞歌；文本残缺和音乐复原需分开。",
+    "value": "罕见带记谱的早期基督教赞歌；文本残缺和音乐复原需分开。",
+    "cautions": "3世纪末纸草见证，作者匿名",
+    "repository_status": "无独立manifest；odes-of-peace不是这件纸草。",
+    "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+    "chinese_availability": "not_verified",
+    "priority": "待进一步核实",
+    "next": "核纸草标识和馆藏图像许可；中文网络歌曲译配不等于古文校译。",
+    "sources": [
+      {
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb44478840j",
+        "actually_read": "法国国家图书馆目录搜索摘要：Cosgrove, An Ancient Christian Hymn with Musical Notation",
+        "limits": "书目线索；未看纸草图像或释读"
+      }
+    ],
+    "worker_record": "workers/lori_b.json",
+    "worker_entry_id": "lb16",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

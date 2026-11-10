@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B06",
+  "sequence": 21,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B06",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "埃格顿未知福音",
+    "original_title": "Egerton Gospel",
+    "author_or_attribution": "P.Egerton 2与P.Köln VI 255属同一抄本相关残叶；目录将见证列2世纪，精确古文字年代仍有研究争议。成书早于抄本但不能反推为使徒目击记录。",
+    "date": "P.Egerton 2与P.Köln VI 255属同一抄本相关残叶；目录将见证列2世纪，精确古文字年代仍有研究争议。成书早于抄本但不能反推为使徒目击记录。",
+    "language": "待进一步核实",
+    "synopsis": "残片记耶稣与权贵争辩经文、医治麻风病人、回答纳税试探及约旦河边的神迹。",
+    "value": {
+      "historical": "比较约翰与对观传统的交叉关系及残片重构方法。",
+      "spiritual": "洁净、税银与经文争辩可作研读材料；复原文字须显式区分。"
+    },
+    "cautions": "P.Egerton 2与P.Köln VI 255属同一抄本相关残叶；目录将见证列2世纪，精确古文字年代仍有研究争议。成书早于抄本但不能反推为使徒目击记录。",
+    "repository_status": "已收部分",
+    "repository_evidence": "fragmentary-gospels/cMCB p0080–p0108，Unknown Gospel；是否充分纳入1987公布的科隆接片尚需逐行版本核对。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "升级版本核对，不能作为从未收录新书重复制作。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B06",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

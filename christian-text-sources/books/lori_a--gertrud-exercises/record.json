@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "id": "lori_a:gertrud-exercises",
+  "sequence": 86,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:gertrud-exercises",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "灵修操练（暂译）",
+    "original_title": "Exercitia spiritualia",
+    "author_or_attribution": "赫尔夫塔的大格特鲁德",
+    "date": "13世纪末",
+    "language": "拉丁语",
+    "synopsis": "围绕献身与礼仪组织祷文、赞歌和默想。",
+    "value": "女性修道者的祈祷语言，与教父阅读和共同礼仪互相贯通。",
+    "cautions": "应区别哈克伯恩的同名女院长；不与依纳爵神操混淆，也不把赫尔夫塔直接说成法律隶属熙笃会。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "未查得明确正式版本",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "葛特露 神操",
+        "格特鲁德 灵修 出版",
+        "Gertrude 神操 中文"
+      ],
+      "leads": [],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CF049P/Spiritual-Exercises",
+        "edition": "Gertrud Jaron Lewis、Jack Lewis译，CF49，1989，ISBN9780879074494。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "gertrud-exercises",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

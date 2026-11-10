@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb09",
+  "sequence": 98,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_b:lb09",
+    "area": "礼仪、教规与殉道",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "西里坦殉道者案录",
+    "original_title": "Acta martyrum Scillitanorum",
+    "author_or_attribution": "叙事事件180年；现存文本层次年代不能直接等同事件年",
+    "date": "叙事事件180年；现存文本层次年代不能直接等同事件年",
+    "language": "拉丁文",
+    "synopsis": "短篇审讯叙事，北非基督徒身份研究。",
+    "value": "短篇审讯叙事，北非基督徒身份研究。",
+    "cautions": "叙事事件180年；现存文本层次年代不能直接等同事件年",
+    "repository_status": "两manifest无独立标题；未穷尽史书引文。",
+    "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+    "chinese_availability": "web_mention_only",
+    "priority": "待进一步核实",
+    "next": "核拉丁诸版本；现命中个人中文介绍，不宣称已有完整正式译本。",
+    "sources": [
+      {
+        "url": "https://openlibrary.org/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
+        "actually_read": "Claremont神学院MARC镜像；实际读041/245/260/505/546字段，确认Musurillo1972目录与希腊/拉丁英译对照",
+        "limits": "证明出版与收录，不证明所有传记早期成书或司法档案真实性"
+      },
+      {
+        "url": "https://chunsheng-huangchunsheng.blogspot.com/2022/07/?m=0",
+        "actually_read": "检索命中西里坦殉道者介绍",
+        "limits": "个人网页；未核有无完整译文、授权或版本"
+      }
+    ],
+    "worker_record": "workers/lori_b.json",
+    "worker_entry_id": "lb09",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

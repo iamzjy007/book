@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C02",
+  "sequence": 35,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C02",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "沙漠教父语录：系统集",
+    "original_title": "Apophthegmata Patrum, Systematic Collection / The Book of the Elders",
+    "author_or_attribution": "匿名编者；与字母集及匿名集有大量交叉，但编次与增删不同",
+    "date": "出版社说明初编约500—575，后有修订，不能等同4世纪原口述",
+    "language": "希腊语主题编集；多语版本需分清",
+    "synopsis": "按美德与修道议题分类的语录文集。",
+    "value": {
+      "historical": "研究语录的编纂与教导体系；不宜与字母集双计完全独立素材。",
+      "spiritual": "适合专题灵修与对读，强度高。"
+    },
+    "cautions": "匿名编者；与字母集及匿名集有大量交叉，但编次与增删不同",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "中文Ward译本不能直接作为本系统集中文全译的证明。",
+      "若书目仅取一部入门语录集，优先字母集，系统集列进阶。"
+    ],
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS240P/The-Book-of-the-Elders",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C02",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

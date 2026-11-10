@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "id": "root:teachings-silvanus",
+  "sequence": 106,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "root:teachings-silvanus",
+    "area": "科普特启示及伦理文献",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "西尔瓦努斯训言（暂译）",
+    "original_title": "Teachings of Silvanus / Les Leçons de Silvanos (NHC VII,4)",
+    "author_or_attribution": "佚名，题署Silvanus",
+    "date": "年代有分歧；Janssens主张希腊原作约2世纪末，此为具体学者意见",
+    "language": "存世萨希迪科普特语；推定希腊原作",
+    "synopsis": "以导师劝勉弟子的形式讨论智慧、节制及以内心归向基督。",
+    "value": "兼具伦理劝勉与早期亚历山大式基督教思想史价值；可优先评估。",
+    "cautions": "不能确认新约西拉亲著；其与所谓诺斯替思想的关系有讨论，不能因出土地点统一贴标签。",
+    "repository_status": "not_located_in_checked_inventory",
+    "repository_evidence": "两manifest未见独立题名；参考TXT标题索引及题名变体关键词未定位，尚非全文语义去重。",
+    "chinese_availability": {
+      "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+      "evidence": [
+        {
+          "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+          "level": "search_index_only_open_403",
+          "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+        },
+        {
+          "url": "https://book.douban.com/subject/36663348/",
+          "level": "search_index_only",
+          "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+        }
+      ],
+      "confidence": "collection_lead_only",
+      "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+    },
+    "priority": "P1",
+    "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。",
+    "sources": [
+      {
+        "url": "https://www.pulaval.com/livres/les-lecons-de-silvanos-nh-vii-4-bcnh-textes-no-13",
+        "publisher": "拉瓦尔大学出版社",
+        "actually_read": "题名、Janssens、ISBN9782763770260、内容介绍、归属和日期论点；网页列1990出版，旧书目有1983，版次待核",
+        "access": "readable_page",
+        "checked_date_beijing": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/root.json",
+    "worker_entry_id": "teachings-silvanus",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

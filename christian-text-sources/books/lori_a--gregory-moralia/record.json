@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "id": "lori_a:gregory-moralia",
+  "sequence": 79,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:gregory-moralia",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "约伯记伦理释义",
+    "original_title": "Moralia in Iob",
+    "author_or_attribution": "大格列高利（大额我略）",
+    "date": "约578—595，分期完成",
+    "language": "拉丁语",
+    "synopsis": "由约伯记展开德行、试探、苦难与默观的多层释经。",
+    "value": "中世纪拉丁灵修重要资源；书量大，宜先做主题索引。",
+    "cautions": "归属稳定；要区分35卷原作、后世摘编与现代多册装订。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "未查得明确正式版本",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "格列高利 約伯 出版"
+      ],
+      "leads": [
+        {
+          "url": "https://gregory.nehemiah-theolibrary.org/1%20簡介/緒論_Prolegomena",
+          "finding": "搜索命中中文教父资料绪论介绍Moralia；未据此认定35卷已中译。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS249H",
+        "edition": "Brian Kerns译，Mark DelCogliano导言；Cistercian Studies249，2014，第1册ISBN9780879071493；页面列全套六册。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "gregory-moralia",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

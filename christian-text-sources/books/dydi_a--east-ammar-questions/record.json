@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "id": "dydi_a:east-ammar-questions",
+  "sequence": 14,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_a:east-ammar-questions",
+    "area": "叙利亚与阿拉伯传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "阿马尔·巴士里：问答之书",
+    "original_title": "The Book of Questions and Answers",
+    "author_or_attribution": "阿马尔·巴士里 ʿAmmār al-Baṣrī",
+    "date": "9世纪",
+    "language": "阿拉伯语",
+    "synopsis": "以问答回应基督教教义方面的诘难。",
+    "value": "可与同作者《论证之书》比较体裁和论证方法。",
+    "cautions": "本轮仅核两原作及现代合刊，不断言每项议题都见于两书各自。",
+    "repository_status": "未见独立收录（目录及限定关键词核查）",
+    "repository_evidence": {
+      "manifests": [
+        "bible/translation/manifest.json",
+        "bible/translation/history-patristics/manifest.json"
+      ],
+      "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+      "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+      "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+    },
+    "chinese_availability": {
+      "status": "未知",
+      "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+      "confidence": "低",
+      "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+      "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+      "full_translation_verified": false
+    },
+    "priority": "P2",
+    "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+    "sources": [
+      {
+        "url": "https://gorgiaspress.com/ammar-al-basris-arabic-apologetics",
+        "publisher": "Gorgias Press",
+        "actually_read": true,
+        "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_a.json",
+    "worker_entry_id": "east-ammar-questions",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

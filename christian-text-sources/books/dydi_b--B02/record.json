@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B02",
+  "sequence": 17,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B02",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "拿撒勒派福音",
+    "original_title": "Gospel of the Nazarenes",
+    "author_or_attribution": "现代据耶柔米等引文划出的假设性文本；与希伯来人福音是一书、两书还是三书的问题未定。",
+    "date": "现代据耶柔米等引文划出的假设性文本；与希伯来人福音是一书、两书还是三书的问题未定。",
+    "language": "待进一步核实",
+    "synopsis": "辑录耶柔米等所引耶稣言行，如枯手匠人的求医、主祷文措辞及受难细节。",
+    "value": {
+      "historical": "研究耶柔米如何理解犹太基督徒的福音及马太传统。",
+      "spiritual": "怜悯、祷告等片段可供比较阅读，但不能补写缺失教训。"
+    },
+    "cautions": "现代据耶柔米等引文划出的假设性文本；与希伯来人福音是一书、两书还是三书的问题未定。",
+    "repository_status": "已收部分",
+    "repository_evidence": "fragmentary-gospels/cMCB p0021–p0039；总集45829仅目录项。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "书目应保留重构性质，不算一部新发现完整原典。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-nazarenes/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B02",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

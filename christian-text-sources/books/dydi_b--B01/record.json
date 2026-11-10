@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B01",
+  "sequence": 16,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B01",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "希伯来人福音",
+    "original_title": "Gospel of the Hebrews",
+    "author_or_attribution": "教父引文辑佚；通常讨论为早期作品，确切成书年与原语言未定，不能把引文载体的年代当原作年代。",
+    "date": "教父引文辑佚；通常讨论为早期作品，确切成书年与原语言未定，不能把引文载体的年代当原作年代。",
+    "language": "待进一步核实",
+    "synopsis": "残存引文涉及耶稣受洗、圣灵、向雅各显现及寻找真理等言行，不能据此还原全书。",
+    "value": {
+      "historical": "观察犹太耶稣信仰传统及雅各、圣灵等形象；引文归属须逐条标注。",
+      "spiritual": "可比较弟兄相爱与复活盼望；残片不足建立完整教义。"
+    },
+    "cautions": "教父引文辑佚；通常讨论为早期作品，确切成书年与原语言未定，不能把引文载体的年代当原作年代。",
+    "repository_status": "已收部分",
+    "repository_evidence": "fragmentary-gospels/cMCB p0001–p0020；中文总集45827仅目录项。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "先整理现有引文来源，不重译一部假定完整的书。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-hebrews/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B01",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

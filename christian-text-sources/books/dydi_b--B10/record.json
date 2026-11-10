@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B10",
+  "sequence": 25,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B10",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "柏林—斯特拉斯堡外典（旧称救主福音）",
+    "original_title": "Berlin-Strasbourg Apocryphon",
+    "author_or_attribution": "两组科普特残本：斯特拉斯堡约6世纪、柏林约7–8世纪。Suciu 2017主张成于451后，反对旧2世纪福音定位；这是需明署的研究主张。",
+    "date": "两组科普特残本：斯特拉斯堡约6世纪、柏林约7–8世纪。Suciu 2017主张成于451后，反对旧2世纪福音定位；这是需明署的研究主张。",
+    "language": "待进一步核实",
+    "synopsis": "残文记救主受捕前教导门徒、向父祈祷，并与门徒围成圈跳舞、颂赞十字架。",
+    "value": {
+      "historical": "反映科普特使徒回忆录、十架礼仪及耶稣形象的晚古代发展。",
+      "spiritual": "十架祷告可比较灵修传统，但不当成使徒亲笔或新增耶稣史实。"
+    },
+    "cautions": "两组科普特残本：斯特拉斯堡约6世纪、柏林约7–8世纪。Suciu 2017主张成于451后，反对旧2世纪福音定位；这是需明署的研究主张。",
+    "repository_status": "未见独立译本",
+    "repository_evidence": "两manifest无题名；中文总集的与救主的对话是另一拿戈玛第作品，不可抵算；218章其他科普特故事不等于整部本书。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "先用2017校订确定残页顺序，不以1999宣传标题决定年代。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/",
+        "institution": "Mohr Siebeck学术出版社",
+        "read_scope": "书籍简介/作者论旨（检索返回全文简介，未读书内全文）",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B10",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

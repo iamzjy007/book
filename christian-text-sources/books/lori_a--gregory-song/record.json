@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "id": "lori_a:gregory-song",
+  "sequence": 80,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:gregory-song",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "雅歌释义（及后世所辑相关摘录）",
+    "original_title": "Expositio in Canticum canticorum",
+    "author_or_attribution": "大格列高利；后世摘编由Paterius、比德、圣蒂埃里的威廉编",
+    "date": "原释义6世纪末；摘编跨数世纪",
+    "language": "拉丁语",
+    "synopsis": "用雅歌图像讨论灵魂归向神及教会生活；现代版并收散见他作的相关解释。",
+    "value": "便于观察格列高利思想如何传入中世纪默观传统。",
+    "cautions": "现代合册不是作者亲写的一部完整雅歌注释；原释义和后编花选必须分层。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "有中文选译线索；本作品具体选段待核",
+      "certainty": "中低：ACCS书目提及作者相关释经，不足认定本作完整翻译",
+      "search_queries": [
+        "Gregory 雅歌 中文 出版"
+      ],
+      "leads": [
+        {
+          "url": "https://www.eslite.com/product/10072302132683119181006",
+          "finding": "中文ACCS电子书，林梓凤译，校园书房，2022年电子版；简介列大贵格利和比德为雅歌注释来源。未把二手选译视为两部全译。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "校園書房《箴言、傳道書、雅歌》选辑线索；待索引逐页确认引文出自哪部作品",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS244E/On-the-Song-of-Songs",
+        "edition": "Mark DelCogliano译注，Cistercian Studies244，2012，eISBN9780879077693。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "gregory-song",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

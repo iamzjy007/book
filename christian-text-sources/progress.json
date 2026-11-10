@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "updated_at": "2026-11-10T05:45:16.711894+00:00",
+  "total": 110,
+  "counts": {
+    "queued": 110
+  },
+  "next_task": "dydi_a:east-aphrahat",
+  "background_process": false,
+  "record_files_are_authoritative": true,
+  "resume_instruction": "先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。"
+}

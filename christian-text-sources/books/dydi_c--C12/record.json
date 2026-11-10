@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C12",
+  "sequence": 44,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C12",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "埃塞俄比亚约西蓬／犹太人史",
+    "original_title": "Zenā ʾAyhud / Ethiopic Josippon (CAe2598)",
+    "author_or_attribution": "匿名中古史书传统，伪托/误认约瑟夫斯；不是Flavius Josephus原作",
+    "date": "希伯来Josippon为10世纪中叶；吉兹转译常置中古，具体年代待专门研究",
+    "language": "希伯来原作经阿拉伯传至吉兹；不能以希伯来英文新译直接等同吉兹版本",
+    "synopsis": "重述第二圣殿时期犹太历史的广泛流传文本。",
+    "value": {
+      "historical": "犹太、伊斯兰及东方基督教知识流动价值高；与古史事实需分层。",
+      "spiritual": "以历史和殉道记忆为主，不是首选祷告读本。"
+    },
+    "cautions": "匿名中古史书传统，伪托/误认约瑟夫斯；不是Flavius Josephus原作",
+    "repository_status": "history022《犹太古史》、023《驳阿庇安》不能充作Josippon；当前两manifest无本作，源EPUB题名零命中。",
+    "repository_evidence": "history022《犹太古史》、023《驳阿庇安》不能充作Josippon；当前两manifest无本作，源EPUB题名零命中。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "保留候选，需明确吉兹版本后再安排",
+    "next": [
+      "Beta主站502，已核CAe镜像。",
+      "书目身份确认，吉兹底本选择仍未完成；年代范围不强断。",
+      "宗派正典地位另须针对具体清单考证。"
+    ],
+    "sources": [
+      {
+        "url": "https://cae.ethiopicist.com/works/2598/",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://catalogue.bnf.fr/ark%3A/12148/cb165216156",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C12",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B17",
+  "sequence": 32,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B17",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "俄克喜林库斯4009残片",
+    "original_title": "P. Oxy. 4009",
+    "author_or_attribution": "希腊纸草残叶，抄本约2–3世纪；1993刊布。归彼得福音仅为假说，第一人称不足证实作者；背面大幅复原争议尤大。",
+    "date": "希腊纸草残叶，抄本约2–3世纪；1993刊布。归彼得福音仅为假说，第一人称不足证实作者；背面大幅复原争议尤大。",
+    "language": "待进一步核实",
+    "synopsis": "正面残文保存羊、狼与被杀后不必惧怕的语录；背面仅余少量难以连贯的词句。",
+    "value": {
+      "historical": "研究耶稣关于羊狼、惧怕与杀害的语录流传，及与革利免后书的平行。",
+      "spiritual": "残缺过多，适合经文比较而非独立灵修篇章。"
+    },
+    "cautions": "希腊纸草残叶，抄本约2–3世纪；1993刊布。归彼得福音仅为假说，第一人称不足证实作者；背面大幅复原争议尤大。",
+    "repository_status": "未见此残片独立收录",
+    "repository_evidence": "063所辨残片为840、1224、Egerton；gospel-of-peter及fragmentary-gospels正式JSON检索4009无命中。已有彼得福音不等于已含所有疑似见证。",
+    "chinese_availability": "中文总集与manifest未检得此编号或独立标题；并非证明全库绝无引述。未核中文商业出版ISBN。",
+    "priority": "可作为带疑问标识的短篇补收，不并入彼得福音正文冒充确定章节。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-4009/",
+        "institution": "NASSCAL，Mark G. Bilby编",
+        "read_scope": "概要及手稿、校勘书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B17",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

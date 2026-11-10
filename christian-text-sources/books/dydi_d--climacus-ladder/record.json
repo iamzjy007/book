@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "id": "dydi_d:climacus-ladder",
+  "sequence": 68,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_d:climacus-ladder",
+    "area": "希腊与拜占庭灵修",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "神圣攀登的天梯",
+    "original_title": "Klimax / The Ladder of Divine Ascent",
+    "author_or_attribution": "西乃的约翰（John Climacus）",
+    "date": "约六末至七世纪；具体年争议",
+    "language": "希腊语",
+    "synopsis": "以三十阶组织舍弃、德行、警醒、祈祷与爱。",
+    "value": {
+      "historical": "拜占庭修道教育、图像与礼仪接受史的代表。",
+      "spiritual": "兼有具体生活警醒与高级静修教导；读者应区分修院规训和普遍伦理。"
+    },
+    "cautions": "不可与典外《雅各天梯》或布尔加科夫Jacob’s Ladder合并；SVS页六世纪断代过简，应续核学术导论。",
+    "repository_status": {
+      "status": "not_identified_as_complete_work_in_checked_manifests",
+      "evidence": [
+        "bible/translation/manifest.json sections+units+toc_labels检索",
+        "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+        "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+      ],
+      "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+    },
+    "repository_evidence": {
+      "status": "not_identified_as_complete_work_in_checked_manifests",
+      "evidence": [
+        "bible/translation/manifest.json sections+units+toc_labels检索",
+        "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+        "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+      ],
+      "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+    },
+    "chinese_availability": {
+      "greek_group_search": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "eastern_group_evidence": {
+        "status": "published_verified",
+        "finding": "汉语基督教文化研究所原出版目录列《神圣攀登的天梯》ISBN9789628911837；教会书店列许列民译、繁体、2012-06。页数馆商资料408/367不同，不强行统一，待版权页。"
+      },
+      "qualification": "两组调查合并；已有中文出版线索见东方组记录，不再仅以未核实概括。"
+    },
+    "priority": "高",
+    "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。",
+    "sources": [
+      {
+        "id": "ladder",
+        "url": "https://svspress.com/the-ladder-of-divine-ascent/",
+        "institution_or_publisher": "SVS Press书店/Holy Transfiguration Monastery",
+        "access_date_beijing": "2026-11-10",
+        "actual_read": "The Ladder of Divine Ascent，274页，ISBN9780943405032；三十阶及西乃院长身份。",
+        "limitations": "页面称六世纪作者；古代生卒及成书年份另有争议，本记录采用约六末至七世纪而不依营销文强定。"
+      },
+      {
+        "url": "https://www.paulistpress.com/bookproduct/2330-4-john-climacus/",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      },
+      {
+        "url": "https://iscs.org.hk/Common/Reader/Channel/ShowPage.jsp?Charset=gb2312&Cid=159&Pid=16&Version=0&page=0",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://orthodoxbookshop.asia/zh-hans/product/the-ladder-of-divine-ascent_2",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_d.json",
+    "worker_entry_id": "climacus-ladder",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+    "supplementary_records": [
+      {
+        "worker_record": "workers/dydi_c.json",
+        "worker_entry_id": "C08",
+        "chinese_availability": {
+          "status": "published_verified",
+          "finding": "汉语基督教文化研究所原出版目录列《神圣攀登的天梯》ISBN9789628911837；教会书店列许列民译、繁体、2012-06。页数馆商资料408/367不同，不强行统一，待版权页。"
+        },
+        "repository_status": "旧028 ladder-of-jacob/参考TXT133章是另作；本书未见篇目。与dydi_d重复候选，由root合并计一次。"
+      }
+    ]
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

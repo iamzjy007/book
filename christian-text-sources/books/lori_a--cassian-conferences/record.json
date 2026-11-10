@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "id": "lori_a:cassian-conferences",
+  "sequence": 71,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:cassian-conferences",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "会谈录（又译对谈录）",
+    "original_title": "Conlationes / Collationes patrum",
+    "author_or_attribution": "约翰·卡西安",
+    "date": "约420年代",
+    "language": "拉丁语",
+    "synopsis": "以作者与日耳曼努斯同埃及长老交谈的框架，讨论心的洁净、明辨与祈祷。",
+    "value": "连接埃及修道经验与拉丁西方传统；适合研究祷告与行动的关系。",
+    "cautions": "作者归属通常接受；对话是整理成文，不应当成现场逐字记录。恩典争论及第13谈需保留历史语境。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "两个manifest作品/作者标题未列此作；两份参考TXT题名检索见reference_txt_checks。本轮未以所有异名全文穷检引用。",
+    "chinese_availability": {
+      "status": "中文课程介绍与部分引文已确认；正式全译未确认",
+      "certainty": "有限检索；不是未出版结论",
+      "search_queries": [
+        "卡西安 會談錄 出版",
+        "卡西安 修道 準則 出版"
+      ],
+      "leads": [
+        {
+          "url": "https://pedia.cloud.edu.tw/Entry/Detail/?search=卡西安&title=卡西安",
+          "finding": "台湾教育百科词条有作品中文名与年代，是介绍，不是中译本出版记录。"
+        },
+        {
+          "url": "https://www.gcdfl.org/posts/ajia/2025-10-06-latin10-cassian/",
+          "finding": "dydi_a提供线索后本代理独立打开，读作者日期、作品目录及Inst序言7/Con1、5、13引用范围；只认课程与部分中译引文。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "本轮未查得明确正式版本；未穷检",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "袁永甲2025课程有标注卷章的中文引文，非全译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "所列英文出版社页可作为购买入口；本轮未下单、不保证跨区库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://www.paulistpress.com/bookproduct/0484-9-57-john-cassian/",
+        "edition": "Boniface Ramsey译，The Conferences，ACW57，1997；ISBN9780809104840；年份另以Lancaster馆目交叉。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "cassian-conferences",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

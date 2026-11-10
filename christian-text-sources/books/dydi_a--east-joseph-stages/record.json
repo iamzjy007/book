@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "id": "dydi_a:east-joseph-stages",
+  "sequence": 7,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_a:east-joseph-stages",
+    "area": "叙利亚与阿拉伯传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "若瑟·哈扎亚：论修道生活的三个阶段书信",
+    "original_title": "Lettre sur les trois étapes de la vie monastique",
+    "author_or_attribution": "若瑟·哈扎亚 Joseph Ḥazzāyā（先见者若瑟）",
+    "date": "8世纪",
+    "language": "叙利亚语",
+    "synopsis": "系统讨论修道生命的阶段。",
+    "value": "东方教会灵修体系的重要候选。",
+    "cautions": "旧归属及与Philoxenus名下传本关系须读批判导言，不能只看书名。",
+    "repository_status": "未见独立收录（目录及限定关键词核查）",
+    "repository_evidence": {
+      "manifests": [
+        "bible/translation/manifest.json",
+        "bible/translation/history-patristics/manifest.json"
+      ],
+      "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+      "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+      "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+    },
+    "chinese_availability": {
+      "status": "未知",
+      "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+      "confidence": "低",
+      "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+      "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+      "full_translation_verified": false
+    },
+    "priority": "P1",
+    "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+    "sources": [
+      {
+        "url": "https://ci.nii.ac.jp/ncid/BA26622382",
+        "publisher": "日本国立信息学研究所 CiNii Books",
+        "actually_read": true,
+        "read_scope": "作者、编者、1992出版、叙法语种及PO卷号",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://syri.ac/joseph-%E1%B8%A5azzaya-letter-three-stages",
+        "publisher": "syri.ac",
+        "actually_read": true,
+        "read_scope": "2016在编俄译项目页，明确Published? No",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_a.json",
+    "worker_entry_id": "east-joseph-stages",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

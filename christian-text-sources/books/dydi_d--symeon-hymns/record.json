@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "id": "dydi_d:symeon-hymns",
+  "sequence": 63,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_d:symeon-hymns",
+    "area": "希腊与拜占庭灵修",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "神爱颂歌",
+    "original_title": "Hymns of Divine Eros",
+    "author_or_attribution": "新神学家西默盎",
+    "date": "约十一世纪初；编集层次待核",
+    "language": "希腊诗歌",
+    "synopsis": "以第一人称诗歌谈悔改、神光、渴慕与神人相遇。",
+    "value": {
+      "historical": "拜占庭宗教诗歌、自我表达与神秘神学交会的重要材料。",
+      "spiritual": "展现祈祷的情感和身体维度，宜保留诗体。"
+    },
+    "cautions": "不能将诗中第一人称每句都直接当传记；新英希版2026出版资讯只核网页，未核实物。",
+    "repository_status": {
+      "status": "not_identified_as_complete_work_in_checked_manifests",
+      "evidence": [
+        "bible/translation/manifest.json sections+units+toc_labels检索",
+        "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+        "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+      ],
+      "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+    },
+    "repository_evidence": {
+      "status": "not_identified_as_complete_work_in_checked_manifests",
+      "evidence": [
+        "bible/translation/manifest.json sections+units+toc_labels检索",
+        "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+        "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+      ],
+      "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+    },
+    "chinese_availability": {
+      "mainland_formal": "未核实",
+      "hongkong_taiwan": "未核实",
+      "online_translation": "未定位可核实的本作品完整译文",
+      "library_or_availability": "本轮未核实中文馆藏/在售",
+      "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+      "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+    },
+    "priority": "高",
+    "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。",
+    "sources": [
+      {
+        "id": "symeon_hymn",
+        "url": "https://svspress.com/hymns-of-divine-eros-pps-longer-works/",
+        "institution_or_publisher": "St Vladimir’s Seminary Press",
+        "access_date_beijing": "2026-11-10",
+        "actual_read": "John A. McGuckin译，2026，934页，ISBN9780881418019；页面标2026-11-01发行及首次英希对照。",
+        "limitations": "按2026-11-10页面信息；未查实馆藏入藏及实物到货，不以标价等于可立即购买。"
+      },
+      {
+        "id": "symeon_eth",
+        "url": "https://svspress.com/on-the-mystical-life-the-ethical-discourses-st-symeon-the-new-theologian-volume-i-the-church-and-the-last-things/",
+        "institution_or_publisher": "St Vladimir’s Seminary Press",
+        "access_date_beijing": "2026-11-10",
+        "actual_read": "Alexander Golitzin译，卷I PPS14，193页，ISBN9780881411423；卷I教会圣礼末世，卷II德行，卷III忏悔书信及生平神学导论。",
+        "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+      }
+    ],
+    "worker_record": "workers/dydi_d.json",
+    "worker_entry_id": "symeon-hymns",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

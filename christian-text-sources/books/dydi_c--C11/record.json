@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C11",
+  "sequence": 43,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C11",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "诸王之法",
+    "original_title": "Fǝtḥa Nägäśt / Fetha Nagast",
+    "author_or_attribution": "与Ibn al-Assal法典传统相关；教会法与民法复合文本",
+    "date": "13世纪阿拉伯汇编背景；吉兹译传一般置15—16世纪，确切时间仍议",
+    "language": "阿拉伯语法典背景，吉兹语译本",
+    "synopsis": "处理教会事务及世俗法律的法典。",
+    "value": {
+      "historical": "埃塞俄比亚法制史基础文献；历史价值远高于日常灵修实用性。",
+      "spiritual": "有宗教伦理背景，法律惩罚不可直接当作当代灵修规范。"
+    },
+    "cautions": "与Ibn al-Assal法典传统相关；教会法与民法复合文本",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "历史法律补缺",
+    "next": [
+      "须取得拟用版目录和版权页后确定具体翻译/收录范围。"
+    ],
+    "sources": [
+      {
+        "url": "https://scholarship.law.columbia.edu/books/180/",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C11",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

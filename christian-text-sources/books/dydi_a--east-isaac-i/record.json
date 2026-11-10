@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "id": "dydi_a:east-isaac-i",
+  "sequence": 2,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_a:east-isaac-i",
+    "area": "叙利亚与阿拉伯传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "尼尼微的以撒：修道讲论第一集",
+    "original_title": "Ascetical Homilies / First Part",
+    "author_or_attribution": "尼尼微的以撒 Isaac of Nineveh",
+    "date": "7世纪",
+    "language": "叙利亚语；另有希腊译传",
+    "synopsis": "讲论独处、谦卑、祈祷与怜悯。",
+    "value": "高灵修优先候选，须建立各语言章号对应。",
+    "cautions": "不能与安提阿的以撒或仓库《以撒遗训》混同。",
+    "repository_status": "未见独立收录（目录及限定关键词核查）",
+    "repository_evidence": {
+      "manifests": [
+        "bible/translation/manifest.json",
+        "bible/translation/history-patristics/manifest.json"
+      ],
+      "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+      "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+      "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+    },
+    "chinese_availability": {
+      "status": "中文全译未知",
+      "evidence": "检索“尼尼微 以撒 中文 出版/书 译”，所得人物介绍不能证明完整译本；阿弗哈特专题中文文章亦提及此作者。",
+      "confidence": "低",
+      "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+      "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+      "full_translation_verified": false
+    },
+    "priority": "P1",
+    "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+    "sources": [
+      {
+        "url": "https://syri.ac/brock/isaac",
+        "publisher": "syri.ac / Sebastian Brock bibliography",
+        "actually_read": true,
+        "read_scope": "第一、第二、第三部分及选译书目；未下载所链全书",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_a.json",
+    "worker_entry_id": "east-isaac-i",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

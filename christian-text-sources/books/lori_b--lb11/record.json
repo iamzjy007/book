@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb11",
+  "sequence": 100,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_b:lb11",
+    "area": "礼仪、教规与殉道",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "里昂与维埃纳教会书信",
+    "original_title": "Epistula ecclesiarum Lugdunensis et Viennensis",
+    "author_or_attribution": "记177年逼迫；教会集体书信，由4世纪史书保存",
+    "date": "记177年逼迫；教会集体书信，由4世纪史书保存",
+    "language": "希腊文，主要保存在优西比乌",
+    "synopsis": "群体记忆、女性殉道者与史书引文关系。",
+    "value": "群体记忆、女性殉道者与史书引文关系。",
+    "cautions": "记177年逼迫；教会集体书信，由4世纪史书保存",
+    "repository_status": "the-ecclesiastical-history已在仓库：属高概率已有嵌入文本，不能列为全新缺卷。",
+    "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+    "chinese_availability": "embedded_translation_likely",
+    "priority": "待进一步核实",
+    "next": "先定位现译教会史第五卷对应，独立抽编应标摘录而不重复翻译。",
+    "sources": [
+      {
+        "url": "https://openlibrary.org/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
+        "actually_read": "Claremont神学院MARC镜像；实际读041/245/260/505/546字段，确认Musurillo1972目录与希腊/拉丁英译对照",
+        "limits": "证明出版与收录，不证明所有传记早期成书或司法档案真实性"
+      }
+    ],
+    "worker_record": "workers/lori_b.json",
+    "worker_entry_id": "lb11",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

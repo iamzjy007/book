@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "id": "lori_a:augustine-happy-life",
+  "sequence": 76,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_a:augustine-happy-life",
+    "area": "拉丁西方传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "论幸福生活",
+    "original_title": "De beata vita",
+    "author_or_attribution": "希波的奥古斯丁",
+    "date": "386",
+    "language": "拉丁语",
+    "synopsis": "以家人朋友共聚的对话讨论幸福及对神的寻求。",
+    "value": "展示悔改初期哲学生活与信望爱的结合，也保留母亲莫尼卡参与思考的声音。",
+    "cautions": "可靠奥古斯丁作品；勿与塞涅卡同名作品混淆。",
+    "repository_status": "未确认收录",
+    "repository_evidence": "history-patristics manifest中augustine-of-hippo-4th-to-5th-centuries为180单元，toc_labels除卷首外均EPISTLE/CHAPTER；未列本专著。不能把已有作者名当作全集。两份参考TXT题名检索见reference_txt_checks。",
+    "chinese_availability": {
+      "status": "已核实大陆出版合集中收录",
+      "certainty": "中高：正规书商书目明确篇名，未核实物完整性",
+      "search_queries": [
+        "奧古斯丁 論幸福生活 出版"
+      ],
+      "leads": [
+        {
+          "url": "https://www.sanmin.com.tw/product/index/006535400",
+          "finding": "实际打开并读取ISBN、出版社、译者、2019日期及篇目；商品简介误称作者古希腊哲学家，不采此说。"
+        }
+      ],
+      "search_date_beijing": "2026-11-10",
+      "mainland": "《论秩序：奥古斯丁早期作品选》，石敏敏译，中国社会科学出版社，2019，ISBN9787520302968，目录/简介列论幸福生活",
+      "hong_kong_taiwan": "本轮未查得明确正式版本；未穷检",
+      "online": "未核实全文中译",
+      "library_availability": "未对中国国家图书馆、台湾国家图书馆逐项系统检索",
+      "purchase_availability": "三民页面提供此大陆书销售线索；不保证库存"
+    },
+    "priority": "高",
+    "next": "核中国国家图书馆、台湾国家图书馆及香港高校联合目录的作者异名与选集目录；再查校本前言。",
+    "sources": [
+      {
+        "url": "https://yalebooks.yale.edu/book/9780300238525/on-the-happy-life/",
+        "edition": "Michael P. Foley译，Yale UP，2019；ISBN9780300238525。",
+        "actual_read": "出版社或机构书目正文及简介",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/lori_a.json",
+    "worker_entry_id": "augustine-happy-life",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

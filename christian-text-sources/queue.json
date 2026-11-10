@@ -1,0 +1,666 @@
+{
+  "schema": 1,
+  "next_task": "dydi_a:east-aphrahat",
+  "tasks": [
+    {
+      "id": "dydi_a:east-aphrahat",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-aphrahat/record.json"
+    },
+    {
+      "id": "dydi_a:east-isaac-i",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-isaac-i/record.json"
+    },
+    {
+      "id": "dydi_a:east-isaac-ii",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-isaac-ii/record.json"
+    },
+    {
+      "id": "dydi_a:east-isaac-iii",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-isaac-iii/record.json"
+    },
+    {
+      "id": "dydi_a:east-john-dalyatha",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-john-dalyatha/record.json"
+    },
+    {
+      "id": "dydi_a:east-john-solitary",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-john-solitary/record.json"
+    },
+    {
+      "id": "dydi_a:east-joseph-stages",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-joseph-stages/record.json"
+    },
+    {
+      "id": "dydi_a:east-sahdona-perfection",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-sahdona-perfection/record.json"
+    },
+    {
+      "id": "dydi_a:east-steps",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-steps/record.json"
+    },
+    {
+      "id": "dydi_a:east-mingana-mystics",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-mingana-mystics/record.json"
+    },
+    {
+      "id": "dydi_a:east-governors",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-governors/record.json"
+    },
+    {
+      "id": "dydi_a:east-abuqurrah-icons",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-abuqurrah-icons/record.json"
+    },
+    {
+      "id": "dydi_a:east-ammar-proof",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-ammar-proof/record.json"
+    },
+    {
+      "id": "dydi_a:east-ammar-questions",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-ammar-questions/record.json"
+    },
+    {
+      "id": "dydi_a:east-timothy-mahdi",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_a--east-timothy-mahdi/record.json"
+    },
+    {
+      "id": "dydi_b:B01",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B01/record.json"
+    },
+    {
+      "id": "dydi_b:B02",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B02/record.json"
+    },
+    {
+      "id": "dydi_b:B03",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B03/record.json"
+    },
+    {
+      "id": "dydi_b:B04",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B04/record.json"
+    },
+    {
+      "id": "dydi_b:B05",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B05/record.json"
+    },
+    {
+      "id": "dydi_b:B06",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B06/record.json"
+    },
+    {
+      "id": "dydi_b:B07",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B07/record.json"
+    },
+    {
+      "id": "dydi_b:B08",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B08/record.json"
+    },
+    {
+      "id": "dydi_b:B09",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B09/record.json"
+    },
+    {
+      "id": "dydi_b:B10",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B10/record.json"
+    },
+    {
+      "id": "dydi_b:B11",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B11/record.json"
+    },
+    {
+      "id": "dydi_b:B12",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B12/record.json"
+    },
+    {
+      "id": "dydi_b:B13",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B13/record.json"
+    },
+    {
+      "id": "dydi_b:B14",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B14/record.json"
+    },
+    {
+      "id": "dydi_b:B15",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B15/record.json"
+    },
+    {
+      "id": "dydi_b:B16",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B16/record.json"
+    },
+    {
+      "id": "dydi_b:B17",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B17/record.json"
+    },
+    {
+      "id": "dydi_b:B18",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_b--B18/record.json"
+    },
+    {
+      "id": "dydi_c:C01",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C01/record.json"
+    },
+    {
+      "id": "dydi_c:C02",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C02/record.json"
+    },
+    {
+      "id": "dydi_c:C03",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C03/record.json"
+    },
+    {
+      "id": "dydi_c:C04",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C04/record.json"
+    },
+    {
+      "id": "dydi_c:C05",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C05/record.json"
+    },
+    {
+      "id": "dydi_c:C06",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C06/record.json"
+    },
+    {
+      "id": "dydi_c:C07",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C07/record.json"
+    },
+    {
+      "id": "dydi_c:C09",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C09/record.json"
+    },
+    {
+      "id": "dydi_c:C10",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C10/record.json"
+    },
+    {
+      "id": "dydi_c:C11",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C11/record.json"
+    },
+    {
+      "id": "dydi_c:C12",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C12/record.json"
+    },
+    {
+      "id": "dydi_c:C13",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C13/record.json"
+    },
+    {
+      "id": "dydi_c:C14",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C14/record.json"
+    },
+    {
+      "id": "dydi_c:C15",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C15/record.json"
+    },
+    {
+      "id": "dydi_c:C16",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C16/record.json"
+    },
+    {
+      "id": "dydi_c:C17",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C17/record.json"
+    },
+    {
+      "id": "dydi_c:C18",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_c--C18/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-praktikos",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--evagrius-praktikos/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-gnostikos",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--evagrius-gnostikos/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-kephalaia-gnostika",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--evagrius-kephalaia-gnostika/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-on-prayer",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--evagrius-on-prayer/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-antirrhetikos",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--evagrius-antirrhetikos/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-love",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--maximus-love/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-ascetic-life",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--maximus-ascetic-life/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-mystagogy",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--maximus-mystagogy/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-ambigua",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--maximus-ambigua/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-thalassios",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--maximus-thalassios/record.json"
+    },
+    {
+      "id": "dydi_d:symeon-catecheses",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--symeon-catecheses/record.json"
+    },
+    {
+      "id": "dydi_d:symeon-ethical",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--symeon-ethical/record.json"
+    },
+    {
+      "id": "dydi_d:symeon-hymns",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--symeon-hymns/record.json"
+    },
+    {
+      "id": "dydi_d:diadochos-hundred",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--diadochos-hundred/record.json"
+    },
+    {
+      "id": "dydi_d:isaiah-asceticon",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--isaiah-asceticon/record.json"
+    },
+    {
+      "id": "dydi_d:hesychios-watchfulness",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--hesychios-watchfulness/record.json"
+    },
+    {
+      "id": "dydi_d:mark-spiritual-law",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--mark-spiritual-law/record.json"
+    },
+    {
+      "id": "dydi_d:climacus-ladder",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--climacus-ladder/record.json"
+    },
+    {
+      "id": "dydi_d:palamas-triads",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--palamas-triads/record.json"
+    },
+    {
+      "id": "dydi_d:nikephoros-watchfulness",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/dydi_d--nikephoros-watchfulness/record.json"
+    },
+    {
+      "id": "lori_a:cassian-conferences",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--cassian-conferences/record.json"
+    },
+    {
+      "id": "lori_a:cassian-institutes",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--cassian-institutes/record.json"
+    },
+    {
+      "id": "lori_a:ambrose-isaac",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--ambrose-isaac/record.json"
+    },
+    {
+      "id": "lori_a:ambrose-death",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--ambrose-death/record.json"
+    },
+    {
+      "id": "lori_a:ambrose-flight",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--ambrose-flight/record.json"
+    },
+    {
+      "id": "lori_a:augustine-happy-life",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--augustine-happy-life/record.json"
+    },
+    {
+      "id": "lori_a:augustine-catechizing",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--augustine-catechizing/record.json"
+    },
+    {
+      "id": "lori_a:augustine-letter130",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--augustine-letter130/record.json"
+    },
+    {
+      "id": "lori_a:gregory-moralia",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--gregory-moralia/record.json"
+    },
+    {
+      "id": "lori_a:gregory-song",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--gregory-song/record.json"
+    },
+    {
+      "id": "lori_a:william-golden",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--william-golden/record.json"
+    },
+    {
+      "id": "lori_a:william-love",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--william-love/record.json"
+    },
+    {
+      "id": "lori_a:guigo-ladder",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--guigo-ladder/record.json"
+    },
+    {
+      "id": "lori_a:aelred-mirror",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--aelred-mirror/record.json"
+    },
+    {
+      "id": "lori_a:aelred-friendship",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--aelred-friendship/record.json"
+    },
+    {
+      "id": "lori_a:gertrud-exercises",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--gertrud-exercises/record.json"
+    },
+    {
+      "id": "lori_a:dhuoda-handbook",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--dhuoda-handbook/record.json"
+    },
+    {
+      "id": "lori_a:bede-song",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--bede-song/record.json"
+    },
+    {
+      "id": "lori_a:anselm-prayers",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_a--anselm-prayers/record.json"
+    },
+    {
+      "id": "lori_b:lb01",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb01/record.json"
+    },
+    {
+      "id": "lori_b:lb02",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb02/record.json"
+    },
+    {
+      "id": "lori_b:lb03",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb03/record.json"
+    },
+    {
+      "id": "lori_b:lb04",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb04/record.json"
+    },
+    {
+      "id": "lori_b:lb05",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb05/record.json"
+    },
+    {
+      "id": "lori_b:lb06",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb06/record.json"
+    },
+    {
+      "id": "lori_b:lb07",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb07/record.json"
+    },
+    {
+      "id": "lori_b:lb08",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb08/record.json"
+    },
+    {
+      "id": "lori_b:lb09",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb09/record.json"
+    },
+    {
+      "id": "lori_b:lb10",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb10/record.json"
+    },
+    {
+      "id": "lori_b:lb11",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb11/record.json"
+    },
+    {
+      "id": "lori_b:lb12",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb12/record.json"
+    },
+    {
+      "id": "lori_b:lb13",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb13/record.json"
+    },
+    {
+      "id": "lori_b:lb14",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb14/record.json"
+    },
+    {
+      "id": "lori_b:lb15",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb15/record.json"
+    },
+    {
+      "id": "lori_b:lb16",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/lori_b--lb16/record.json"
+    },
+    {
+      "id": "root:teachings-silvanus",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/root--teachings-silvanus/record.json"
+    },
+    {
+      "id": "root:interpretation-knowledge",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/root--interpretation-knowledge/record.json"
+    },
+    {
+      "id": "root:apocryphon-john",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/root--apocryphon-john/record.json"
+    },
+    {
+      "id": "root:pistis-sophia",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/root--pistis-sophia/record.json"
+    },
+    {
+      "id": "root:books-jeu",
+      "status": "queued",
+      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+      "record_path": "books/root--books-jeu/record.json"
+    }
+  ]
+}

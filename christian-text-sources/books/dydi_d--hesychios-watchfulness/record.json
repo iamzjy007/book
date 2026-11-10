@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "dydi_d:hesychios-watchfulness",
+  "sequence": 66,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_d:hesychios-watchfulness",
+    "area": "希腊与拜占庭灵修",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "论警醒与圣洁",
+    "original_title": "On Watchfulness and Holiness, addressed to Theodoulos",
+    "author_or_attribution": "司祭赫西基奥斯（Hesychios）；常称西乃人",
+    "date": "日期有争议；暂列拜占庭时期，不硬定五世纪",
+    "language": "希腊语",
+    "synopsis": "短章讲心灵警醒、恶念的进入及耶稣祷文。",
+    "value": {
+      "historical": "反映尼普西斯（警醒）与心祷结合的传统。",
+      "spiritual": "为反省注意力、情绪与祈祷提供连续操练框架。"
+    },
+    "cautions": "不能直接当作五世纪耶路撒冷同名释经家。已核2007希英读本馆藏目录有此原作选段；作者年代及独立校本仍待查，不能用选段本充全书。",
+    "repository_status": {
+      "status": "not_identified_as_complete_work_in_checked_manifests",
+      "evidence": [
+        "bible/translation/manifest.json sections+units+toc_labels检索",
+        "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+        "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+      ],
+      "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+    },
+    "repository_evidence": {
+      "status": "not_identified_as_complete_work_in_checked_manifests",
+      "evidence": [
+        "bible/translation/manifest.json sections+units+toc_labels检索",
+        "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+        "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+      ],
+      "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+    },
+    "chinese_availability": {
+      "mainland_formal": "未核实",
+      "hongkong_taiwan": "未核实",
+      "online_translation": "未定位可核实的本作品完整译文",
+      "library_or_availability": "本轮未核实中文馆藏/在售",
+      "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+      "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+    },
+    "priority": "中",
+    "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。",
+    "sources": [
+      {
+        "id": "hes_reader",
+        "url": "https://openlibrary.org/books/OL17926254M.json",
+        "institution_or_publisher": "Open Library（馆藏MARC聚合）",
+        "access_date_beijing": "2026-11-10",
+        "actual_read": "Rodney A. Whitacre编A Patristic Greek Reader，Hendrickson2007，ISBN9781598560435，279页；MARC目录明确含Hesychios the Priest, On watchfulness and holiness；这只是选读本，非赫西基奥斯全书。",
+        "limitations": "只读取书目及出版说明，未取得作品全文；不把简介当逐字校勘。"
+      },
+      {
+        "id": "phil_toc",
+        "url": "https://en.wikipedia.org/wiki/Philokalia",
+        "institution_or_publisher": "Wikipedia目录入口（低于出版社和校本）",
+        "access_date_beijing": "2026-11-10",
+        "actual_read": "只取分卷作品题名导航：卷1 Hesychios、Diadochos、Mark、Isaiah；卷4 Nikephoros。",
+        "limitations": "目录线索不是古本校勘证据；Hesychios/Nikephoros需出版社详目或图书馆TOC补核。"
+      },
+      {
+        "id": "phil1",
+        "url": "https://www.faber.co.uk/product/9780571130139-the-philokalia/",
+        "institution_or_publisher": "Faber & Faber",
+        "access_date_beijing": "2026-11-10",
+        "actual_read": "第1卷，ISBN9780571130139，平装1983-02-28；希腊原选集初刊1782，收四至十五世纪诸作品。",
+        "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+      }
+    ],
+    "worker_record": "workers/dydi_d.json",
+    "worker_entry_id": "hesychios-watchfulness",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

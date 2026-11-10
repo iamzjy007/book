@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C05",
+  "sequence": 38,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C05",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "埃及修士史",
+    "original_title": "Historia monachorum in Aegypto / History of the Monks in Egypt",
+    "author_or_attribution": "希腊文本匿名，不把鲁菲努斯当希腊原作确定作者",
+    "date": "约394—395年旅行之后，4世纪末",
+    "language": "希腊语；鲁菲努斯拉丁译改本需区别",
+    "synopsis": "巴勒斯坦修士赴埃及探访修道群体的叙事。",
+    "value": {
+      "historical": "近同时代朝圣与修道形象资料，需留意希腊/拉丁改写。",
+      "spiritual": "见证、接待和修道生活的叙事价值高。"
+    },
+    "cautions": "希腊文本匿名，不把鲁菲努斯当希腊原作确定作者",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "中文《埃及修士史》有时亦泛指帕拉迪乌斯，必须依原题名与作者分辨。"
+    ],
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/CS034/The-Lives-of-the-Desert-Fathers",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C05",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

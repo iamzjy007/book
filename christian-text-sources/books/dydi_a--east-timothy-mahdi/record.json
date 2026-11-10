@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "id": "dydi_a:east-timothy-mahdi",
+  "sequence": 15,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_a:east-timothy-mahdi",
+    "area": "叙利亚与阿拉伯传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "提摩太一世与马赫迪哈里发的对话",
+    "original_title": "Dialogue with al-Mahdi / The Patriarch and the Caliph",
+    "author_or_attribution": "提摩太一世 Timothy I及后续传本编纂者",
+    "date": "对话背景781年；现核阿拉伯节本16世纪",
+    "language": "叙利亚语原作；阿拉伯语改编传本",
+    "synopsis": "记录基督徒领袖与阿拔斯哈里发的宗教论辩。",
+    "value": "研究伊斯兰统治下的基督徒公共身份。",
+    "cautions": "不能视为无加工的宫廷逐字笔录；“第一位聂斯托利宗主教”的出版社措辞不采。",
+    "repository_status": "未见独立收录（目录及限定关键词核查）",
+    "repository_evidence": {
+      "manifests": [
+        "bible/translation/manifest.json",
+        "bible/translation/history-patristics/manifest.json"
+      ],
+      "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+      "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+      "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+    },
+    "chinese_availability": {
+      "status": "未知",
+      "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+      "confidence": "低",
+      "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+      "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+      "full_translation_verified": false
+    },
+    "priority": "P1",
+    "next": "先并列完整叙文版本与16世纪阿拉伯节本，决定编目对象和差异说明。",
+    "sources": [
+      {
+        "url": "https://press.uchicago.edu/ucp/books/book/distributed/P/bo25174014.html",
+        "publisher": "University of Chicago Press（代销Brigham Young University）",
+        "actually_read": true,
+        "read_scope": "编译者、2016版权、阿拉伯节本范围与简介",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_a.json",
+    "worker_entry_id": "east-timothy-mahdi",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

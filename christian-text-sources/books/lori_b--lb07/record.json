@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb07",
+  "sequence": 96,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_b:lb07",
+    "area": "礼仪、教规与殉道",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "埃格里亚游记／圣地朝圣记",
+    "original_title": "Itinerarium Egeriae / Peregrinatio",
+    "author_or_attribution": "4世纪末女性朝圣者记述；具体旅行年代须据研究，不以单一传统断年",
+    "date": "4世纪末女性朝圣者记述；具体旅行年代须据研究，不以单一传统断年",
+    "language": "拉丁文",
+    "synopsis": "旅行、耶路撒冷礼仪与口语拉丁的重要材料。",
+    "value": "旅行、耶路撒冷礼仪与口语拉丁的重要材料。",
+    "cautions": "4世纪末女性朝圣者记述；具体旅行年代须据研究，不以单一传统断年",
+    "repository_status": "两manifest无独立条目；阿布加书信/圣地片段引用不构成完整游记。",
+    "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+    "chinese_availability": "web_mention_only",
+    "priority": "待进一步核实",
+    "next": "核中文译名异体及港台图书馆；选2018评注与拉丁校本，不把2020当独立新译。",
+    "sources": [
+      {
+        "url": "https://bmcr.brynmawr.edu/2021/2021.11.48/",
+        "actually_read": "BMCR Dennis Trout书评全文：2020拉英对照版与2018英译关系",
+        "limits": "书评，非古文全本；两版本同一译者系，不算双独立译本"
+      },
+      {
+        "url": "https://gospelchina.cn/article-detail/259.html",
+        "actually_read": "搜索命中《大斋期的圣周传统和礼仪实践（下）》提埃格里亚游记",
+        "limits": "仅介绍/引用线索，不是已确认完整译本"
+      }
+    ],
+    "worker_record": "workers/lori_b.json",
+    "worker_entry_id": "lb07",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

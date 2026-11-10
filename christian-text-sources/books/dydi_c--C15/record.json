@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C15",
+  "sequence": 47,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C15",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "纳雷克的格列高利《哀祷书》",
+    "original_title": "Matean Ołbergutʿean / Book of Lamentation",
+    "author_or_attribution": "纳雷克的格列高利；与同作者颂歌、节期作品分开",
+    "date": "约1001—1003，10世纪末至11世纪初",
+    "language": "古典亚美尼亚语",
+    "synopsis": "95篇诗体祈祷，论悔罪、慈悲、医治与盼望。",
+    "value": {
+      "historical": "亚美尼亚宗教诗学和祈祷接受史重要作品。",
+      "spiritual": "灵修价值极高，强烈自责语调应与恩典和盼望整篇同读。"
+    },
+    "cautions": "纳雷克的格列高利；与同作者颂歌、节期作品分开",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "不要把2016年Festal Works误记为本祈祷书译本。",
+      "中文检索出现圣人介绍及祷词链接，不足以确认完整95篇已出版。"
+    ],
+    "sources": [
+      {
+        "url": "https://litpress.org/Products/E8489/From-the-Depths-of-the-Heart",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://armunicat.nla.am/cgi-bin/koha/opac-detail.pl?biblionumber=1838496&query_desc=",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C15",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

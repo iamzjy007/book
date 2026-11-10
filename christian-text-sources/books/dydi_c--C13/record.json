@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C13",
+  "sequence": 45,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C13",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "阿伽坦格洛斯《亚美尼亚史》",
+    "original_title": "Agathangelos, History of the Armenians",
+    "author_or_attribution": "署阿伽坦格洛斯并自称亲历者，但成书晚于所述，系多传统编成",
+    "date": "现存亚美尼亚形态5世纪后半，叙述4世纪归信",
+    "language": "古典亚美尼亚语；A与V不同版本族及希腊/阿拉伯等转译",
+    "synopsis": "格列高利启蒙者、王室归信与建立教会的叙事。",
+    "value": {
+      "historical": "民族教会记忆与文学史价值高；不能无批判作4世纪编年史。",
+      "spiritual": "坚忍与归信主题丰富，需区分神迹、国族叙事及史实。"
+    },
+    "cautions": "署阿伽坦格洛斯并自称亲历者，但成书晚于所述，系多传统编成",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "Thomson的历史可靠性评价较严厉，应与版本材料一起呈现，不把整卷简单标为无价值。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.iranicaonline.org/articles/agathangelos/",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://iucat.iu.edu/iuk/3528414",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C13",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

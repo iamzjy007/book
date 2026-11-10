@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "id": "dydi_d:nikephoros-watchfulness",
+  "sequence": 70,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_d:nikephoros-watchfulness",
+    "area": "希腊与拜占庭灵修",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "论警醒与守心",
+    "original_title": "On Watchfulness and the Guarding of the Heart",
+    "author_or_attribution": "修士尼基弗鲁斯（Nikephoros/Nicephorus the Hesychast）",
+    "date": "十三世纪后半，精确归属待核",
+    "language": "希腊语",
+    "synopsis": "汇引早期父老并讨论心灵注意及心祷训练。",
+    "value": {
+      "historical": "是帕拉玛之前静修方法传播的重要线索。",
+      "spiritual": "有助理解具身祈祷及传统中的导师角色；不能抽离修道语境机械应用。"
+    },
+    "cautions": "本轮只核Philokalia目录入口；人物身份、引文编集层次及某些身体方法段落需专门校本研究；不得混为Pseudo-Symeon方法篇。",
+    "repository_status": {
+      "status": "not_identified_as_complete_work_in_checked_manifests",
+      "evidence": [
+        "bible/translation/manifest.json sections+units+toc_labels检索",
+        "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+        "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+      ],
+      "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+    },
+    "repository_evidence": {
+      "status": "not_identified_as_complete_work_in_checked_manifests",
+      "evidence": [
+        "bible/translation/manifest.json sections+units+toc_labels检索",
+        "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+        "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+      ],
+      "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+    },
+    "chinese_availability": {
+      "mainland_formal": "未核实",
+      "hongkong_taiwan": "未核实",
+      "online_translation": "未定位可核实的本作品完整译文",
+      "library_or_availability": "本轮未核实中文馆藏/在售",
+      "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+      "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+    },
+    "priority": "中",
+    "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。",
+    "sources": [
+      {
+        "id": "phil_toc",
+        "url": "https://en.wikipedia.org/wiki/Philokalia",
+        "institution_or_publisher": "Wikipedia目录入口（低于出版社和校本）",
+        "access_date_beijing": "2026-11-10",
+        "actual_read": "只取分卷作品题名导航：卷1 Hesychios、Diadochos、Mark、Isaiah；卷4 Nikephoros。",
+        "limitations": "目录线索不是古本校勘证据；Hesychios/Nikephoros需出版社详目或图书馆TOC补核。"
+      },
+      {
+        "id": "phil4",
+        "url": "https://svspress.com/the-philokalia-volume-iv/",
+        "institution_or_publisher": "SVS Press书店/Faber & Faber",
+        "access_date_beijing": "2026-11-10",
+        "actual_read": "1995，458页，ISBN9780571193820；原希腊英译及西默盎、静修与帕拉玛内容介绍。",
+        "limitations": "页面误写希腊初刊1982；采用Faber主页1782，不照抄此误。"
+      }
+    ],
+    "worker_record": "workers/dydi_d.json",
+    "worker_entry_id": "nikephoros-watchfulness",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

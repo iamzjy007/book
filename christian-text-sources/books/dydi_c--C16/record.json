@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C16",
+  "sequence": 48,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C16",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "舒沙尼克殉道记",
+    "original_title": "Martyrdom of Saint Shushanik",
+    "author_or_attribution": "Iakob Khutsesi/Tsurtaveli，自述近身祭司；现形有残缺和改动",
+    "date": "约476—483，现存最早抄本10世纪",
+    "language": "古格鲁吉亚语；另有亚美尼亚版本传统",
+    "synopsis": "舒沙尼克在丈夫改宗及政治压力下坚持信仰、受虐与殉道。",
+    "value": {
+      "historical": "5世纪高加索宗教、家庭和萨珊政治关系的重要近同时代文本。",
+      "spiritual": "信仰坚忍的力量高；不能以殉道故事合理化家暴或要求受害者不求助。"
+    },
+    "cautions": "Iakob Khutsesi/Tsurtaveli，自述近身祭司；现形有残缺和改动",
+    "repository_status": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "repository_evidence": "两manifest无独立作品条目；参考TXT篇目及源EPUB题名关键词未检出。可列新增候选，不宣称所有散见引文皆无。",
+    "chinese_availability": {
+      "status": "not_verified",
+      "finding": "本轮未核实可明确识别的中文完整译本；不等于没有出版。"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "Lang馆目录为合集中篇；本轮未核译文完整性，先不称全译。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.georgianencyclopedia.ge/ka/form_eng/977",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://opac.sciencelib.ge/cgi-bin/koha/opac-detail.pl?biblionumber=649227",
+        "accessed": "2026-11-10",
+        "actual_scope": "仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。",
+        "access_level": "search_result_metadata_only"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C16",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

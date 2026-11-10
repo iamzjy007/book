@@ -1,0 +1,556 @@
+{
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_catalog_sha256": "20f4501b4c3edb75cc2775a643aef2b4d95fefbf176cb0bcaa9761d8a2c8aca4",
+  "records": [
+    {
+      "id": "dydi_a:east-aphrahat",
+      "sequence": 1,
+      "path": "books/dydi_a--east-aphrahat/record.json"
+    },
+    {
+      "id": "dydi_a:east-isaac-i",
+      "sequence": 2,
+      "path": "books/dydi_a--east-isaac-i/record.json"
+    },
+    {
+      "id": "dydi_a:east-isaac-ii",
+      "sequence": 3,
+      "path": "books/dydi_a--east-isaac-ii/record.json"
+    },
+    {
+      "id": "dydi_a:east-isaac-iii",
+      "sequence": 4,
+      "path": "books/dydi_a--east-isaac-iii/record.json"
+    },
+    {
+      "id": "dydi_a:east-john-dalyatha",
+      "sequence": 5,
+      "path": "books/dydi_a--east-john-dalyatha/record.json"
+    },
+    {
+      "id": "dydi_a:east-john-solitary",
+      "sequence": 6,
+      "path": "books/dydi_a--east-john-solitary/record.json"
+    },
+    {
+      "id": "dydi_a:east-joseph-stages",
+      "sequence": 7,
+      "path": "books/dydi_a--east-joseph-stages/record.json"
+    },
+    {
+      "id": "dydi_a:east-sahdona-perfection",
+      "sequence": 8,
+      "path": "books/dydi_a--east-sahdona-perfection/record.json"
+    },
+    {
+      "id": "dydi_a:east-steps",
+      "sequence": 9,
+      "path": "books/dydi_a--east-steps/record.json"
+    },
+    {
+      "id": "dydi_a:east-mingana-mystics",
+      "sequence": 10,
+      "path": "books/dydi_a--east-mingana-mystics/record.json"
+    },
+    {
+      "id": "dydi_a:east-governors",
+      "sequence": 11,
+      "path": "books/dydi_a--east-governors/record.json"
+    },
+    {
+      "id": "dydi_a:east-abuqurrah-icons",
+      "sequence": 12,
+      "path": "books/dydi_a--east-abuqurrah-icons/record.json"
+    },
+    {
+      "id": "dydi_a:east-ammar-proof",
+      "sequence": 13,
+      "path": "books/dydi_a--east-ammar-proof/record.json"
+    },
+    {
+      "id": "dydi_a:east-ammar-questions",
+      "sequence": 14,
+      "path": "books/dydi_a--east-ammar-questions/record.json"
+    },
+    {
+      "id": "dydi_a:east-timothy-mahdi",
+      "sequence": 15,
+      "path": "books/dydi_a--east-timothy-mahdi/record.json"
+    },
+    {
+      "id": "dydi_b:B01",
+      "sequence": 16,
+      "path": "books/dydi_b--B01/record.json"
+    },
+    {
+      "id": "dydi_b:B02",
+      "sequence": 17,
+      "path": "books/dydi_b--B02/record.json"
+    },
+    {
+      "id": "dydi_b:B03",
+      "sequence": 18,
+      "path": "books/dydi_b--B03/record.json"
+    },
+    {
+      "id": "dydi_b:B04",
+      "sequence": 19,
+      "path": "books/dydi_b--B04/record.json"
+    },
+    {
+      "id": "dydi_b:B05",
+      "sequence": 20,
+      "path": "books/dydi_b--B05/record.json"
+    },
+    {
+      "id": "dydi_b:B06",
+      "sequence": 21,
+      "path": "books/dydi_b--B06/record.json"
+    },
+    {
+      "id": "dydi_b:B07",
+      "sequence": 22,
+      "path": "books/dydi_b--B07/record.json"
+    },
+    {
+      "id": "dydi_b:B08",
+      "sequence": 23,
+      "path": "books/dydi_b--B08/record.json"
+    },
+    {
+      "id": "dydi_b:B09",
+      "sequence": 24,
+      "path": "books/dydi_b--B09/record.json"
+    },
+    {
+      "id": "dydi_b:B10",
+      "sequence": 25,
+      "path": "books/dydi_b--B10/record.json"
+    },
+    {
+      "id": "dydi_b:B11",
+      "sequence": 26,
+      "path": "books/dydi_b--B11/record.json"
+    },
+    {
+      "id": "dydi_b:B12",
+      "sequence": 27,
+      "path": "books/dydi_b--B12/record.json"
+    },
+    {
+      "id": "dydi_b:B13",
+      "sequence": 28,
+      "path": "books/dydi_b--B13/record.json"
+    },
+    {
+      "id": "dydi_b:B14",
+      "sequence": 29,
+      "path": "books/dydi_b--B14/record.json"
+    },
+    {
+      "id": "dydi_b:B15",
+      "sequence": 30,
+      "path": "books/dydi_b--B15/record.json"
+    },
+    {
+      "id": "dydi_b:B16",
+      "sequence": 31,
+      "path": "books/dydi_b--B16/record.json"
+    },
+    {
+      "id": "dydi_b:B17",
+      "sequence": 32,
+      "path": "books/dydi_b--B17/record.json"
+    },
+    {
+      "id": "dydi_b:B18",
+      "sequence": 33,
+      "path": "books/dydi_b--B18/record.json"
+    },
+    {
+      "id": "dydi_c:C01",
+      "sequence": 34,
+      "path": "books/dydi_c--C01/record.json"
+    },
+    {
+      "id": "dydi_c:C02",
+      "sequence": 35,
+      "path": "books/dydi_c--C02/record.json"
+    },
+    {
+      "id": "dydi_c:C03",
+      "sequence": 36,
+      "path": "books/dydi_c--C03/record.json"
+    },
+    {
+      "id": "dydi_c:C04",
+      "sequence": 37,
+      "path": "books/dydi_c--C04/record.json"
+    },
+    {
+      "id": "dydi_c:C05",
+      "sequence": 38,
+      "path": "books/dydi_c--C05/record.json"
+    },
+    {
+      "id": "dydi_c:C06",
+      "sequence": 39,
+      "path": "books/dydi_c--C06/record.json"
+    },
+    {
+      "id": "dydi_c:C07",
+      "sequence": 40,
+      "path": "books/dydi_c--C07/record.json"
+    },
+    {
+      "id": "dydi_c:C09",
+      "sequence": 41,
+      "path": "books/dydi_c--C09/record.json"
+    },
+    {
+      "id": "dydi_c:C10",
+      "sequence": 42,
+      "path": "books/dydi_c--C10/record.json"
+    },
+    {
+      "id": "dydi_c:C11",
+      "sequence": 43,
+      "path": "books/dydi_c--C11/record.json"
+    },
+    {
+      "id": "dydi_c:C12",
+      "sequence": 44,
+      "path": "books/dydi_c--C12/record.json"
+    },
+    {
+      "id": "dydi_c:C13",
+      "sequence": 45,
+      "path": "books/dydi_c--C13/record.json"
+    },
+    {
+      "id": "dydi_c:C14",
+      "sequence": 46,
+      "path": "books/dydi_c--C14/record.json"
+    },
+    {
+      "id": "dydi_c:C15",
+      "sequence": 47,
+      "path": "books/dydi_c--C15/record.json"
+    },
+    {
+      "id": "dydi_c:C16",
+      "sequence": 48,
+      "path": "books/dydi_c--C16/record.json"
+    },
+    {
+      "id": "dydi_c:C17",
+      "sequence": 49,
+      "path": "books/dydi_c--C17/record.json"
+    },
+    {
+      "id": "dydi_c:C18",
+      "sequence": 50,
+      "path": "books/dydi_c--C18/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-praktikos",
+      "sequence": 51,
+      "path": "books/dydi_d--evagrius-praktikos/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-gnostikos",
+      "sequence": 52,
+      "path": "books/dydi_d--evagrius-gnostikos/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-kephalaia-gnostika",
+      "sequence": 53,
+      "path": "books/dydi_d--evagrius-kephalaia-gnostika/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-on-prayer",
+      "sequence": 54,
+      "path": "books/dydi_d--evagrius-on-prayer/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-antirrhetikos",
+      "sequence": 55,
+      "path": "books/dydi_d--evagrius-antirrhetikos/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-love",
+      "sequence": 56,
+      "path": "books/dydi_d--maximus-love/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-ascetic-life",
+      "sequence": 57,
+      "path": "books/dydi_d--maximus-ascetic-life/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-mystagogy",
+      "sequence": 58,
+      "path": "books/dydi_d--maximus-mystagogy/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-ambigua",
+      "sequence": 59,
+      "path": "books/dydi_d--maximus-ambigua/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-thalassios",
+      "sequence": 60,
+      "path": "books/dydi_d--maximus-thalassios/record.json"
+    },
+    {
+      "id": "dydi_d:symeon-catecheses",
+      "sequence": 61,
+      "path": "books/dydi_d--symeon-catecheses/record.json"
+    },
+    {
+      "id": "dydi_d:symeon-ethical",
+      "sequence": 62,
+      "path": "books/dydi_d--symeon-ethical/record.json"
+    },
+    {
+      "id": "dydi_d:symeon-hymns",
+      "sequence": 63,
+      "path": "books/dydi_d--symeon-hymns/record.json"
+    },
+    {
+      "id": "dydi_d:diadochos-hundred",
+      "sequence": 64,
+      "path": "books/dydi_d--diadochos-hundred/record.json"
+    },
+    {
+      "id": "dydi_d:isaiah-asceticon",
+      "sequence": 65,
+      "path": "books/dydi_d--isaiah-asceticon/record.json"
+    },
+    {
+      "id": "dydi_d:hesychios-watchfulness",
+      "sequence": 66,
+      "path": "books/dydi_d--hesychios-watchfulness/record.json"
+    },
+    {
+      "id": "dydi_d:mark-spiritual-law",
+      "sequence": 67,
+      "path": "books/dydi_d--mark-spiritual-law/record.json"
+    },
+    {
+      "id": "dydi_d:climacus-ladder",
+      "sequence": 68,
+      "path": "books/dydi_d--climacus-ladder/record.json"
+    },
+    {
+      "id": "dydi_d:palamas-triads",
+      "sequence": 69,
+      "path": "books/dydi_d--palamas-triads/record.json"
+    },
+    {
+      "id": "dydi_d:nikephoros-watchfulness",
+      "sequence": 70,
+      "path": "books/dydi_d--nikephoros-watchfulness/record.json"
+    },
+    {
+      "id": "lori_a:cassian-conferences",
+      "sequence": 71,
+      "path": "books/lori_a--cassian-conferences/record.json"
+    },
+    {
+      "id": "lori_a:cassian-institutes",
+      "sequence": 72,
+      "path": "books/lori_a--cassian-institutes/record.json"
+    },
+    {
+      "id": "lori_a:ambrose-isaac",
+      "sequence": 73,
+      "path": "books/lori_a--ambrose-isaac/record.json"
+    },
+    {
+      "id": "lori_a:ambrose-death",
+      "sequence": 74,
+      "path": "books/lori_a--ambrose-death/record.json"
+    },
+    {
+      "id": "lori_a:ambrose-flight",
+      "sequence": 75,
+      "path": "books/lori_a--ambrose-flight/record.json"
+    },
+    {
+      "id": "lori_a:augustine-happy-life",
+      "sequence": 76,
+      "path": "books/lori_a--augustine-happy-life/record.json"
+    },
+    {
+      "id": "lori_a:augustine-catechizing",
+      "sequence": 77,
+      "path": "books/lori_a--augustine-catechizing/record.json"
+    },
+    {
+      "id": "lori_a:augustine-letter130",
+      "sequence": 78,
+      "path": "books/lori_a--augustine-letter130/record.json"
+    },
+    {
+      "id": "lori_a:gregory-moralia",
+      "sequence": 79,
+      "path": "books/lori_a--gregory-moralia/record.json"
+    },
+    {
+      "id": "lori_a:gregory-song",
+      "sequence": 80,
+      "path": "books/lori_a--gregory-song/record.json"
+    },
+    {
+      "id": "lori_a:william-golden",
+      "sequence": 81,
+      "path": "books/lori_a--william-golden/record.json"
+    },
+    {
+      "id": "lori_a:william-love",
+      "sequence": 82,
+      "path": "books/lori_a--william-love/record.json"
+    },
+    {
+      "id": "lori_a:guigo-ladder",
+      "sequence": 83,
+      "path": "books/lori_a--guigo-ladder/record.json"
+    },
+    {
+      "id": "lori_a:aelred-mirror",
+      "sequence": 84,
+      "path": "books/lori_a--aelred-mirror/record.json"
+    },
+    {
+      "id": "lori_a:aelred-friendship",
+      "sequence": 85,
+      "path": "books/lori_a--aelred-friendship/record.json"
+    },
+    {
+      "id": "lori_a:gertrud-exercises",
+      "sequence": 86,
+      "path": "books/lori_a--gertrud-exercises/record.json"
+    },
+    {
+      "id": "lori_a:dhuoda-handbook",
+      "sequence": 87,
+      "path": "books/lori_a--dhuoda-handbook/record.json"
+    },
+    {
+      "id": "lori_a:bede-song",
+      "sequence": 88,
+      "path": "books/lori_a--bede-song/record.json"
+    },
+    {
+      "id": "lori_a:anselm-prayers",
+      "sequence": 89,
+      "path": "books/lori_a--anselm-prayers/record.json"
+    },
+    {
+      "id": "lori_b:lb01",
+      "sequence": 90,
+      "path": "books/lori_b--lb01/record.json"
+    },
+    {
+      "id": "lori_b:lb02",
+      "sequence": 91,
+      "path": "books/lori_b--lb02/record.json"
+    },
+    {
+      "id": "lori_b:lb03",
+      "sequence": 92,
+      "path": "books/lori_b--lb03/record.json"
+    },
+    {
+      "id": "lori_b:lb04",
+      "sequence": 93,
+      "path": "books/lori_b--lb04/record.json"
+    },
+    {
+      "id": "lori_b:lb05",
+      "sequence": 94,
+      "path": "books/lori_b--lb05/record.json"
+    },
+    {
+      "id": "lori_b:lb06",
+      "sequence": 95,
+      "path": "books/lori_b--lb06/record.json"
+    },
+    {
+      "id": "lori_b:lb07",
+      "sequence": 96,
+      "path": "books/lori_b--lb07/record.json"
+    },
+    {
+      "id": "lori_b:lb08",
+      "sequence": 97,
+      "path": "books/lori_b--lb08/record.json"
+    },
+    {
+      "id": "lori_b:lb09",
+      "sequence": 98,
+      "path": "books/lori_b--lb09/record.json"
+    },
+    {
+      "id": "lori_b:lb10",
+      "sequence": 99,
+      "path": "books/lori_b--lb10/record.json"
+    },
+    {
+      "id": "lori_b:lb11",
+      "sequence": 100,
+      "path": "books/lori_b--lb11/record.json"
+    },
+    {
+      "id": "lori_b:lb12",
+      "sequence": 101,
+      "path": "books/lori_b--lb12/record.json"
+    },
+    {
+      "id": "lori_b:lb13",
+      "sequence": 102,
+      "path": "books/lori_b--lb13/record.json"
+    },
+    {
+      "id": "lori_b:lb14",
+      "sequence": 103,
+      "path": "books/lori_b--lb14/record.json"
+    },
+    {
+      "id": "lori_b:lb15",
+      "sequence": 104,
+      "path": "books/lori_b--lb15/record.json"
+    },
+    {
+      "id": "lori_b:lb16",
+      "sequence": 105,
+      "path": "books/lori_b--lb16/record.json"
+    },
+    {
+      "id": "root:teachings-silvanus",
+      "sequence": 106,
+      "path": "books/root--teachings-silvanus/record.json"
+    },
+    {
+      "id": "root:interpretation-knowledge",
+      "sequence": 107,
+      "path": "books/root--interpretation-knowledge/record.json"
+    },
+    {
+      "id": "root:apocryphon-john",
+      "sequence": 108,
+      "path": "books/root--apocryphon-john/record.json"
+    },
+    {
+      "id": "root:pistis-sophia",
+      "sequence": 109,
+      "path": "books/root--pistis-sophia/record.json"
+    },
+    {
+      "id": "root:books-jeu",
+      "sequence": 110,
+      "path": "books/root--books-jeu/record.json"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "id": "dydi_a:east-mingana-mystics",
+  "sequence": 10,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_a:east-mingana-mystics",
+    "area": "叙利亚与阿拉伯传统",
+    "record_kind": "modern_anthology_gateway",
+    "title_zh": "早期基督教神秘家文选（版本入口）",
+    "original_title": "Early Christian Mystics / Woodbrooke Studies 7",
+    "author_or_attribution": "古代多作者；Alphonse Mingana编译",
+    "date": "原文7—8世纪；现代集子",
+    "language": "叙利亚语原文；英语译文",
+    "synopsis": "收西门、达迪绍、阿卜迪绍、若瑟、亚伯拉罕五位东方教会作者作品。",
+    "value": "可作为未独立列入作者的目录研究入口。",
+    "cautions": "不可把五位作者自动拆成五部已核定古书；与若瑟条目潜在重叠。 同名McGinn夫妇现代神秘主义读物不等于Mingana本。",
+    "repository_status": "未见独立收录（目录及限定关键词核查）",
+    "repository_evidence": {
+      "manifests": [
+        "bible/translation/manifest.json",
+        "bible/translation/history-patristics/manifest.json"
+      ],
+      "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+      "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+      "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+    },
+    "chinese_availability": {
+      "status": "未知",
+      "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+      "confidence": "低",
+      "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+      "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+      "full_translation_verified": false
+    },
+    "priority": "P2",
+    "next": "先核目录和原刊年代，给具体篇目建立去重关系；本项不计为新增古代原作。",
+    "sources": [
+      {
+        "url": "https://gorgiaspress.com/early-christian-mystics",
+        "publisher": "Gorgias Press",
+        "actually_read": true,
+        "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_a.json",
+    "worker_entry_id": "east-mingana-mystics",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

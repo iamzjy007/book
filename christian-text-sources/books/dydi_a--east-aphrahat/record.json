@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "id": "dydi_a:east-aphrahat",
+  "sequence": 1,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_a:east-aphrahat",
+    "area": "叙利亚与阿拉伯传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "论证集（二十三篇论文）",
+    "original_title": "Demonstrations",
+    "author_or_attribution": "阿弗拉哈特 Aphrahat",
+    "date": "337、344、345年",
+    "language": "叙利亚语",
+    "synopsis": "讨论信、禁食、祈祷与教会处境，并包含对犹太教的论辩。",
+    "value": "可补足罗马帝国之外的早期波斯基督教声音。",
+    "cautions": "勿将现代译者Adam Lehto列为原作者；论辩须保留历史语境。",
+    "repository_status": "未见独立收录（目录及限定关键词核查）",
+    "repository_evidence": {
+      "manifests": [
+        "bible/translation/manifest.json",
+        "bible/translation/history-patristics/manifest.json"
+      ],
+      "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+      "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+      "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+    },
+    "chinese_availability": {
+      "status": "有中文研究及引文；完整译本未知",
+      "evidence": "实读中国基督教理学协会2021-02-04转载袁永甲《叙利亚教父阿弗哈特论心在圣祷中的作用》，注明来源《世代》第12期。其称23篇《论文》，属于专题文章，不是23篇全译。",
+      "url": "https://www.ccaa2009.com/2021/02/blog-post.html",
+      "queries": [
+        "阿弗哈特 袁永甲 圣祷",
+        "site.worldcat.org 尼尼微 以撒 阿弗拉哈特"
+      ],
+      "confidence": "对研究文章高；对完整译本未知",
+      "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+      "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+      "full_translation_verified": false
+    },
+    "priority": "P1",
+    "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+    "sources": [
+      {
+        "url": "https://gorgiaspress.com/the-demonstrations-of-aphrahat-the-persian-sage",
+        "publisher": "Gorgias Press",
+        "actually_read": true,
+        "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.ccaa2009.com/2021/02/blog-post.html",
+        "publisher": "中国基督教理学协会（转载《世代》）",
+        "actually_read": true,
+        "read_scope": "文章开头、作者、刊源与23篇作品说明",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_a.json",
+    "worker_entry_id": "east-aphrahat",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

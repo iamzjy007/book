@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "dydi_b:B09",
+  "sequence": 24,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_b:B09",
+    "area": "耶稣、福音残篇与使徒传统",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "马可秘密福音引文／致提阿多罗书",
+    "original_title": "Secret Gospel of Mark / Letter to Theodore",
+    "author_or_attribution": "1958所见为17世纪印本末页上的18世纪希腊手抄信，信自称革利免作品。古代内容真实性、现代伪造可能与马可关系均有争论，不能径定为2世纪文本。",
+    "date": "1958所见为17世纪印本末页上的18世纪希腊手抄信，信自称革利免作品。古代内容真实性、现代伪造可能与马可关系均有争论，不能径定为2世纪文本。",
+    "language": "待进一步核实",
+    "synopsis": "所谓革利免书信引用两段较长马可文本，记少年人复活、受教及耶稣不接待几位妇女。",
+    "value": {
+      "historical": "适合研究文献鉴定和近代学术论争；真实性未决，不能当历史耶稣确定资料。",
+      "spiritual": "不推荐作独立灵修来源；可作审慎读经与证据辨析案例。"
+    },
+    "cautions": "1958所见为17世纪印本末页上的18世纪希腊手抄信，信自称革利免作品。古代内容真实性、现代伪造可能与马可关系均有争论，不能径定为2世纪文本。",
+    "repository_status": "中文参考已收两段正文；未入正式独立译本",
+    "repository_evidence": "总集第211章46626–46644，题为马可的神秘福音，含简介和两段引文。已实读；先前仅搜秘密/秘传的阴性结果作废。两manifest无独立条目。",
+    "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+    "priority": "不算全新缺书；可独立整理致提阿多罗书上下文与真伪论争说明，不宣称发现被删的原始马可。",
+    "next": "待进一步核实",
+    "sources": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/secret-gospel-of-mark/",
+        "institution": "NASSCAL（北美基督教外典研究学会）",
+        "read_scope": "条目概要、手稿与版本书目",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "worker_record": "workers/dydi_b.json",
+    "worker_entry_id": "B09",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

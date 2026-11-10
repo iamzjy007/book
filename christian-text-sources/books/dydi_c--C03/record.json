@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "id": "dydi_c:C03",
+  "sequence": 36,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "dydi_c:C03",
+    "area": "沙漠与东方诸教会",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "安东尼传",
+    "original_title": "Vita Antonii / Life of Antony",
+    "author_or_attribution": "传统归亚他那修；作品是圣徒传与神学榜样塑造，不是现代传记",
+    "date": "约356年后不久，通常定为357—360前后",
+    "language": "希腊语；另有古拉丁、叙利亚、科普特等见证",
+    "synopsis": "叙述安东尼弃产、旷野争战、教导及晚年。",
+    "value": {
+      "historical": "修道起源及亚他那修对修道权威的塑造，历史价值高但需辨圣徒传修辞。",
+      "spiritual": "祷告、辨灵和舍弃的经典；不宜将每项实践当普遍规范。"
+    },
+    "cautions": "传统归亚他那修；作品是圣徒传与神学榜样塑造，不是现代传记",
+    "repository_status": "history029虽有亚他那修书信合集，逐源单元检索未见本传；全EPUB亦未命中Life of Antony/Anthony。不能因同作者已有而判已收。",
+    "repository_evidence": "history029虽有亚他那修书信合集，逐源单元检索未见本传；全EPUB亦未命中Life of Antony/Anthony。不能因同作者已有而判已收。",
+    "chinese_availability": {
+      "status": "published_verified",
+      "finding": "陈廷忠中译，Benedicta Ward英译，《沙漠教父言行录》，北京三联书店2012，ISBN9787108041463；对外经贸大学馆录明确含《安东尼传》。字母集对应关系需再核版权页/目录，不能据此认定系统集也译全。",
+      "url": "https://opac.uibe.edu.cn/opac/book/b0ced071c2573523dde3333cdc069f16"
+    },
+    "priority": "建议纳入",
+    "next": [
+      "中文已经出版，可先采购查阅；无需重复造同名新译。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.paulistpress.com/bookproduct/2295-2-athanasius/",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      },
+      {
+        "url": "https://opac.uibe.edu.cn/opac/book/b0ced071c2573523dde3333cdc069f16",
+        "accessed": "2026-11-10",
+        "actual_scope": "书目/目录/出版说明或学术条目；非全书核读",
+        "access_level": "opened_metadata_page"
+      }
+    ],
+    "worker_record": "workers/dydi_c.json",
+    "worker_entry_id": "C03",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}

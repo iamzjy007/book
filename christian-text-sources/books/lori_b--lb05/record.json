@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb05",
+  "sequence": 94,
+  "source_catalog": "research/christian-literature-catalog/catalog.json",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_record": {
+    "id": "lori_b:lb05",
+    "area": "礼仪、教规与殉道",
+    "record_kind": "work_or_text_collection_record",
+    "title_zh": "特姆伊斯撒拉皮翁祷文集",
+    "original_title": "Euchologion / Sacramentary of Sarapion of Thmuis",
+    "author_or_attribution": "4世纪埃及材料，传统系于撒拉皮翁；逐祷文归属须另核",
+    "date": "4世纪埃及材料，传统系于撒拉皮翁；逐祷文归属须另核",
+    "language": "希腊文",
+    "synopsis": "圣餐、洗礼、按立及祝福祷文；可作礼仪用语比较。",
+    "value": "圣餐、洗礼、按立及祝福祷文；可作礼仪用语比较。",
+    "cautions": "4世纪埃及材料，传统系于撒拉皮翁；逐祷文归属须另核",
+    "repository_status": "已有serapion-of-antioch不是本作者；不可因同名判已有。",
+    "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+    "chinese_availability": "not_verified",
+    "priority": "待进一步核实",
+    "next": "优先取正式祷文校本目录和作者归属讨论；不从现代礼仪反推古文。",
+    "sources": [
+      {
+        "url": "https://academic.oup.com/jts/article-abstract/os-I/1/88/1673649",
+        "actually_read": "JTS书目搜索结果：The Sacramentary of Serapion of Thmuis",
+        "limits": "仅书目线索；本轮未读论文全文"
+      }
+    ],
+    "worker_record": "workers/lori_b.json",
+    "worker_entry_id": "lb05",
+    "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
+    "updated_at": null
+  }
+}
