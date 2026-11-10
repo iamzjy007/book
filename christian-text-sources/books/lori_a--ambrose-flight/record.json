@@ -47,9 +47,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "De fuga saeculi版本及校本",
+        "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
+        "kind": "metadata",
+        "language": "拉丁原作／现代英译版本",
+        "edition": "Seven Exegetical Works英译；原文另查CSEL32.2",
+        "coverage": "已定位现代英译卷所收本篇，未核定开放原语电子版",
+        "verification": "搜索命中Ancient Library拉丁页面，尚未核其所据校本；Notre Dame当前列目不含本篇。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "拉丁正文候选页面",
+        "url": "https://ancientlibrary.net/ambrose-de-fuga-saeculi/",
+        "kind": "edition_gateway",
+        "language": "拉丁语",
+        "edition": "页面题名De Fuga Saeculi；电子版底本未核",
+        "coverage": "搜索结果显示拉丁文本，尚未实际打开核版源",
+        "verification": "只作为候选，不计为取得全文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:22.821158+00:00",
@@ -85,10 +108,16 @@
         "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
         "final_url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
         "result": "HTTP 200；Seven Exegetical Works  (9780813200651): Saint Ambrose and Michael P. McHugh - BiblioVault。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Ambrose De fuga saeculi Latin text",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:22.821158+00:00",
+    "next_action": "实读Ancient Library候选并追CSEL32.2 pp.162起校本扫描，不能拿Notre Dame的De paenitentia替代。",
+    "updated_at": "2026-11-10T06:08:21.035035+00:00",
     "discovery_pass_done": true
   }
 }

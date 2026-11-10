@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T06:02:40.257380+00:00",
+  "updated_at": "2026-11-10T06:11:27.169670+00:00",
   "total": 110,
   "counts": {
-    "partial_online": 21,
-    "fulltext_online": 26,
-    "metadata_only": 12,
-    "scan_candidate": 8,
-    "blocked": 1,
+    "partial_online": 22,
+    "fulltext_online": 35,
+    "metadata_only": 16,
+    "scan_candidate": 10,
+    "blocked": 4,
     "needs_review": 2,
-    "queued": 40
+    "queued": 21
   },
-  "next_task": "lori_a:cassian-conferences",
+  "next_task": "lori_b:lb01",
   "background_process": false,
   "record_files_are_authoritative": true,
   "resume_instruction": "先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。"

@@ -52,9 +52,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Webb1903旧英译扫描候选",
+        "url": "https://archive.org/details/devotionssainta00ansegoog",
+        "kind": "scan_candidate",
+        "language": "英语",
+        "edition": "C. C. J. Webb, The Devotions of Saint Anselm, 1903",
+        "coverage": "包含祈祷／默想、Proslogion及其他材料，具体真作范围待核",
+        "verification": "IA具体题名检索返回此ID、作者及1903年份；尚未核正文页和目录。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:36.555608+00:00",
@@ -71,10 +83,16 @@
         "url": "https://www.penguinrandomhouse.com/books/260876/prayers-and-meditations-of-st-anselm-with-the-proslogion-by-anselm-of-aosta/",
         "final_url": "https://www.penguinrandomhouse.com/books/260876/prayers-and-meditations-of-st-anselm-with-the-proslogion-by-anselm-of-aosta/",
         "result": "HTTP 200；Prayers and Meditations of St. Anselm with the Proslogion by Anselm of Aosta: 9780140442786 | PenguinRandomHouse.com: Books。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Anselm Prayers Meditations1903; IA Devotions Saint Anselm",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:36.555608+00:00",
+    "next_action": "打开版权页／目录，逐篇与Schmitt／Wilmart真作清单对照；旧署Anselm作品并非均真作。",
+    "updated_at": "2026-11-10T06:08:21.041700+00:00",
     "discovery_pass_done": true
   }
 }

@@ -49,9 +49,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Solesmes拉丁旧版书目",
+        "url": "https://catalogue.bnf.fr/ark%3A/12148/cb30918287h",
+        "kind": "metadata",
+        "language": "拉丁语",
+        "edition": "Sanctae Gertrudis…Legatus divinae pietatis; accedunt Exercitia spiritualia，Solesmes编旧版",
+        "coverage": "须定位附收Exercitia的具体卷及7练习；Legatus本体不能替代",
+        "verification": "BnF检索定位旧版；IA该题名加Gertrud限定无结果，未取得正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:33.563392+00:00",
@@ -90,10 +102,16 @@
         "url": "https://litpress.org/Products/CF049P/Spiritual-Exercises",
         "final_url": "https://litpress.org/Products/CF049P/Spiritual-Exercises",
         "result": "HTTP 200；Spiritual Exercises: : Gertrud the Great of Helfta; Translated, with an Introduction, by Gertrud Jaron Lewis and Jack Lewis : 9780879074494: litpress.org : Paperback。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Gertrudis Exercitia spiritualia Latin online; Gallica; IA Legatus title",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:33.563392+00:00",
+    "next_action": "查Solesmes旧版对应卷的公开扫描和7练习页码；与Loyola同名Spiritual Exercises排除。",
+    "updated_at": "2026-11-10T06:08:21.040264+00:00",
     "discovery_pass_done": true
   }
 }

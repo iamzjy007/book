@@ -47,9 +47,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "blocked",
+    "searched": true,
+    "resources": [
+      {
+        "label": "爱德之镜PL195拉丁版入口（受阻）",
+        "url": "https://www.documentacatholicaomnia.eu/04z/z_1110-1167__Aelredus_Rievallensis_Abbas__Speculum_Charitatis__MLT.pdf.html",
+        "kind": "restricted",
+        "language": "拉丁语",
+        "edition": "Migne PL195 cols.501—620D",
+        "coverage": "对应Speculum Charitatis，搜索索引有版源与文件大小；实际访问失败",
+        "verification": "页面搜索可定位；本轮直接请求503／网页工具超时，未取得PDF正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:31.603924+00:00",
@@ -73,10 +85,16 @@
         "url": "https://litpress.org/Products/CF017/Mirror-of-Charity",
         "final_url": "https://litpress.org/Products/CF017/Mirror-of-Charity",
         "result": "HTTP 200；Mirror of Charity: : Aelred of Rievaulx; Translated by Elizabeth Connor OCSO, Introduction and notes by Charles Dumont OCSO : 9780879077174: litpress.org : Paperback。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Aelred Speculum Charitatis full text; Documenta Catholica Omnia",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:31.603924+00:00",
+    "next_action": "换PL195图书馆扫描验证501—620D；原站恢复后重试该作品HTML入口。",
+    "updated_at": "2026-11-10T06:08:21.039185+00:00",
     "discovery_pass_done": true
   }
 }

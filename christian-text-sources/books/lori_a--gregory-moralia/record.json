@@ -52,9 +52,25 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Moralia35卷旧英译阅读器",
+        "url": "https://www.lectionarycentral.com/gregorymoraliaindex.html",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "Oxford John Henry Parker／Rivington，1844等旧英译；网页按3印本卷、35书编排",
+        "coverage": "35书目录、Book1和Book35正文已核；网站提示部分注释尚补",
+        "verification": "实际打开大小写正确的总目录及首末书；大写GregoryMoraliaIndex旧URL本轮404。",
+        "accessed": "2026-11-10",
+        "rights_note": "旧版原译；本轮仅留在线阅读与站点提供的文件入口。",
+        "sample_urls": [
+          "https://www.lectionarycentral.com/GregoryMoralia/Book01.html",
+          "https://www.lectionarycentral.com/GregoryMoralia/Book35.html"
+        ]
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:26.906606+00:00",
@@ -93,10 +109,16 @@
         "url": "https://litpress.org/Products/CS249H",
         "final_url": "https://litpress.org/Products/CS249H",
         "result": "HTTP 200；Moral Reflections on the Book of Job, Volume 1 : Preface and Books 1-5: Gregory the Great; Translated by Brian Kerns, OCSO; Introduction by Mark DelCogliano : 9780879071493: litpress.org : Hardcover with Dust Jacket。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Gregory Moralia Job Bliss online full text",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:26.906606+00:00",
+    "next_action": "补拉丁原文与1844各印本卷版权页；逐书核正文和缺注，现代Kerns译本另列。",
+    "updated_at": "2026-11-10T06:08:21.036895+00:00",
     "discovery_pass_done": true
   }
 }

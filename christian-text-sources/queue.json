@@ -1,121 +1,7 @@
 {
   "schema": 1,
-  "next_task": "lori_a:cassian-conferences",
+  "next_task": "lori_b:lb01",
   "tasks": [
-    {
-      "id": "lori_a:cassian-conferences",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--cassian-conferences/record.json"
-    },
-    {
-      "id": "lori_a:cassian-institutes",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--cassian-institutes/record.json"
-    },
-    {
-      "id": "lori_a:ambrose-isaac",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--ambrose-isaac/record.json"
-    },
-    {
-      "id": "lori_a:ambrose-death",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--ambrose-death/record.json"
-    },
-    {
-      "id": "lori_a:ambrose-flight",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--ambrose-flight/record.json"
-    },
-    {
-      "id": "lori_a:augustine-happy-life",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--augustine-happy-life/record.json"
-    },
-    {
-      "id": "lori_a:augustine-catechizing",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--augustine-catechizing/record.json"
-    },
-    {
-      "id": "lori_a:augustine-letter130",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--augustine-letter130/record.json"
-    },
-    {
-      "id": "lori_a:gregory-moralia",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--gregory-moralia/record.json"
-    },
-    {
-      "id": "lori_a:gregory-song",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--gregory-song/record.json"
-    },
-    {
-      "id": "lori_a:william-golden",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--william-golden/record.json"
-    },
-    {
-      "id": "lori_a:william-love",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--william-love/record.json"
-    },
-    {
-      "id": "lori_a:guigo-ladder",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--guigo-ladder/record.json"
-    },
-    {
-      "id": "lori_a:aelred-mirror",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--aelred-mirror/record.json"
-    },
-    {
-      "id": "lori_a:aelred-friendship",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--aelred-friendship/record.json"
-    },
-    {
-      "id": "lori_a:gertrud-exercises",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--gertrud-exercises/record.json"
-    },
-    {
-      "id": "lori_a:dhuoda-handbook",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--dhuoda-handbook/record.json"
-    },
-    {
-      "id": "lori_a:bede-song",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--bede-song/record.json"
-    },
-    {
-      "id": "lori_a:anselm-prayers",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_a--anselm-prayers/record.json"
-    },
     {
       "id": "lori_b:lb01",
       "status": "queued",
@@ -505,6 +391,66 @@
       "status": "partial_online",
       "next_action": "逐阶核1—30及致牧者，补希腊原文和俄译印本；与Guigo修士天梯严格区分。",
       "record_path": "books/dydi_d--climacus-ladder/record.json"
+    },
+    {
+      "id": "lori_a:ambrose-flight",
+      "status": "metadata_only",
+      "next_action": "实读Ancient Library候选并追CSEL32.2 pp.162起校本扫描，不能拿Notre Dame的De paenitentia替代。",
+      "record_path": "books/lori_a--ambrose-flight/record.json"
+    },
+    {
+      "id": "lori_a:gregory-song",
+      "status": "metadata_only",
+      "next_action": "核出版社样章是否含原作正文；追PL79／CCSL144原语文本，并将Bede辑录与Gregory独立释义分开。",
+      "record_path": "books/lori_a--gregory-song/record.json"
+    },
+    {
+      "id": "lori_a:william-golden",
+      "status": "scan_candidate",
+      "next_action": "打开PL184 cols.307—354，注意旧署Guigo等历史归属；核SC223现代校本，建立归属说明。",
+      "record_path": "books/lori_a--william-golden/record.json"
+    },
+    {
+      "id": "lori_a:william-love",
+      "status": "metadata_only",
+      "next_action": "追PL180中作者作品及Liber beati Bernardi de amore旧署名；核具体栏号后取正文。",
+      "record_path": "books/lori_a--william-love/record.json"
+    },
+    {
+      "id": "lori_a:aelred-mirror",
+      "status": "blocked",
+      "next_action": "换PL195图书馆扫描验证501—620D；原站恢复后重试该作品HTML入口。",
+      "record_path": "books/lori_a--aelred-mirror/record.json"
+    },
+    {
+      "id": "lori_a:aelred-friendship",
+      "status": "partial_online",
+      "next_action": "核是否包含完整三卷与原校本来源；原研究中文正式出版已知，新增原语仅作对读。",
+      "record_path": "books/lori_a--aelred-friendship/record.json"
+    },
+    {
+      "id": "lori_a:gertrud-exercises",
+      "status": "metadata_only",
+      "next_action": "查Solesmes旧版对应卷的公开扫描和7练习页码；与Loyola同名Spiritual Exercises排除。",
+      "record_path": "books/lori_a--gertrud-exercises/record.json"
+    },
+    {
+      "id": "lori_a:dhuoda-handbook",
+      "status": "blocked",
+      "next_action": "换Édouard Bondurand1887旧版扫描，核全书卷次；用旧异名Dodana／Duodena扩检。",
+      "record_path": "books/lori_a--dhuoda-handbook/record.json"
+    },
+    {
+      "id": "lori_a:bede-song",
+      "status": "blocked",
+      "next_action": "换PL91或CCSL119A对应扫描／阅读版；不要把第6卷Gregory摘录当Gregory独立原作全本。",
+      "record_path": "books/lori_a--bede-song/record.json"
+    },
+    {
+      "id": "lori_a:anselm-prayers",
+      "status": "scan_candidate",
+      "next_action": "打开版权页／目录，逐篇与Schmitt／Wilmart真作清单对照；旧署Anselm作品并非均真作。",
+      "record_path": "books/lori_a--anselm-prayers/record.json"
     }
   ]
 }

@@ -52,9 +52,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "属灵友谊拉丁文本候选阅读页",
+        "url": "https://www.apotre.org/livres/aelred-de-spirituali-amicitia",
+        "kind": "partial",
+        "language": "拉丁语",
+        "edition": "Apôtre网页转录；具体印本出处待核",
+        "coverage": "已读取序言及拉丁正文部分；全三卷覆盖尚未确认",
+        "verification": "实际打开文本，网页长度约56000字符，不因题名就称完整三卷。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:32.565770+00:00",
@@ -71,10 +83,16 @@
         "url": "https://www.cclc.org.hk/product/屬靈友情禮讚/",
         "final_url": "https://www.cclc.org.hk/product/%E5%B1%AC%E9%9D%88%E5%8F%8B%E6%83%85%E7%A6%AE%E8%AE%9A/",
         "result": "HTTP 200；屬靈友情禮讚 – 基督教文藝出版社。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Aelred De spirituali amicitia Latin text; Apotre",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:32.565770+00:00",
+    "next_action": "核是否包含完整三卷与原校本来源；原研究中文正式出版已知，新增原语仅作对读。",
+    "updated_at": "2026-11-10T06:08:21.039798+00:00",
     "discovery_pass_done": true
   }
 }

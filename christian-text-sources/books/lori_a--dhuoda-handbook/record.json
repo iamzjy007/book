@@ -54,9 +54,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "blocked",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Liber manualis拉丁旧版入口（受阻）",
+        "url": "https://www.documentacatholicaomnia.eu/04z/z_0790-0840__Dodana_Sive_Duodena_%5BDhuoda%5D__Liber_Manualis__MLT.pdf.html",
+        "kind": "restricted",
+        "language": "拉丁语",
+        "edition": "Dhuoda旧题Dodana sive Duodena，Migne系电子扫描",
+        "coverage": "作品正文PDF候选；完整范围尚待核",
+        "verification": "搜索索引明确标题；脚本503，网页工具超时，未读PDF。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:34.554113+00:00",
@@ -73,10 +85,16 @@
         "url": "https://www.cuapress.org/9780813209388/handbook-for-william/",
         "final_url": "https://www.cuapress.org/9780813209388/handbook-for-william/",
         "result": "HTTP 200；Handbook for William - CUAPress。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Dhuoda Liber manualis Latin full text online",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:34.554113+00:00",
+    "next_action": "换Édouard Bondurand1887旧版扫描，核全书卷次；用旧异名Dodana／Duodena扩检。",
+    "updated_at": "2026-11-10T06:08:21.040668+00:00",
     "discovery_pass_done": true
   }
 }

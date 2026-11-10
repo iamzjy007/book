@@ -54,9 +54,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "PL184旧版扫描入口候选",
+        "url": "https://www.documentacatholicaomnia.eu/20vs/104_migne_pl/1815-1875%2C_Migne%2C_Patrologia_Latina_184_%28AD_1859%29_Bibliotheca_Bloderiana%2C_MLT.pdf",
+        "kind": "scan_candidate",
+        "language": "拉丁语",
+        "edition": "Migne PL184 cols.307—354；旧本署名历史有误",
+        "coverage": "Epistola ad fratres de Monte Dei应在该栏；导言299—307不能替代正文",
+        "verification": "Cambridge原始文献目录确认卷栏；搜索定位PDF，但本轮未逐页读取该大卷。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "现代英译版本",
+        "url": "https://litpress.org/Products/CF012/The-Golden-Epistle",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "Theodore Berkeley译，CF12",
+        "coverage": "现代译本入口",
+        "verification": "已实读出版社页。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:28.737743+00:00",
@@ -86,10 +109,16 @@
         "url": "https://litpress.org/Products/CF012/The-Golden-Epistle",
         "final_url": "https://litpress.org/Products/CF012/The-Golden-Epistle",
         "result": "HTTP 200；The Golden Epistle: : William of Saint Thierry; Translated by Theodore Berkeley OCSO; Introduction by J. M. Déchanet OSB : 9780879077129: litpress.org : Paperback。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "William Epistola aurea Latin text; Cambridge Cistercian primary sources",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:28.737743+00:00",
+    "next_action": "打开PL184 cols.307—354，注意旧署Guigo等历史归属；核SC223现代校本，建立归属说明。",
+    "updated_at": "2026-11-10T06:08:21.037794+00:00",
     "discovery_pass_done": true
   }
 }

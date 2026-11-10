@@ -47,9 +47,22 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "De Bono Mortis拉丁语TEI/XML",
+        "url": "https://github.com/Mythologos/Notre-Dame-Digitized-Latin-Collection/blob/977a0ba28582eb32b3c83c8933d97efb689fb0b6/data/stoa0022/stoa020/stoa0022.stoa020.nd-dlc-lat1.xml",
+        "kind": "fulltext",
+        "language": "拉丁语",
+        "edition": "Karl Schenkl编，CSEL32.1；1962重印本；Notre Dame数字化2025",
+        "coverage": "独立作品正文；XML中translation／apparatus为占位，不含现代英译或完整校勘装置",
+        "verification": "通过GitHub读取完整XML，核title/author/editor、sourceDesc、正文和尾部；固定commit防路径变动。",
+        "accessed": "2026-11-10",
+        "rights_note": "数字文本明确CC BY-NC-SA4.0；仅留在线路径，古典原作与现代电子版许可分开。",
+        "direct_file": "https://raw.githubusercontent.com/Mythologos/Notre-Dame-Digitized-Latin-Collection/977a0ba28582eb32b3c83c8933d97efb689fb0b6/data/stoa0022/stoa020/stoa0022.stoa020.nd-dlc-lat1.xml"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:21.648832+00:00",
@@ -79,10 +92,16 @@
         "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
         "final_url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
         "result": "HTTP 200；Seven Exegetical Works  (9780813200651): Saint Ambrose and Michael P. McHugh - BiblioVault。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Ambrose De Bono Mortis Latin text; Notre Dame digitized collection",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:21.648832+00:00",
+    "next_action": "校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。",
+    "updated_at": "2026-11-10T06:08:21.034617+00:00",
     "discovery_pass_done": true
   }
 }

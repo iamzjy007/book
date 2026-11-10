@@ -58,9 +58,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "修士天梯拉丁电子转录",
+        "url": "https://github.com/calebmolstad/scala-claustralium/blob/30df8f5ddb93655767f74c4527dc3950e88ba4aa/scala-claustralium.md",
+        "kind": "fulltext",
+        "language": "拉丁语",
+        "edition": "calebmolstad据Patrologia Latina转录；固定commit30df8f5；非批判校本",
+        "coverage": "致Gervasius书信、十三章及结语16段；作者自述逐步转录，须与PL扫描核末尾",
+        "verification": "通过GitHub实际读完整Markdown及README；保留其非学术校本声明和原扫描链接。",
+        "accessed": "2026-11-10",
+        "rights_note": "原作旧版；本轮仅留路径，不将电子转录标成学术定本。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:30.667965+00:00",
@@ -83,10 +95,16 @@
         "url": "https://litpress.org/Products/CS048/Ladder-of-Monks-and-Twelve-Meditations",
         "final_url": "https://litpress.org/Products/CS048/Ladder-of-Monks-and-Twelve-Meditations",
         "result": "HTTP 200；Ladder of Monks and Twelve Meditations: : Guigo II; Translated by Edmund Colledge and James Walsh: 9780879077488: litpress.org : Paperback。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Guigo Scala claustralium Latin text online; GitHub Scala",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:30.667965+00:00",
+    "next_action": "以README所链PL影像逐段核误字和完整性，再选SC163或其他校本；不能与John Climacus混同。",
+    "updated_at": "2026-11-10T06:08:21.038818+00:00",
     "discovery_pass_done": true
   }
 }

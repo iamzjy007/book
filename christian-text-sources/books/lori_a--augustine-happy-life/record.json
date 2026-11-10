@@ -52,9 +52,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "论幸福生活拉丁正文",
+        "url": "https://www.augustinus.it/latino/felicita/felicita_testo.htm",
+        "kind": "fulltext",
+        "language": "拉丁语",
+        "edition": "Augustinus.it电子本；站点导航指PL32",
+        "coverage": "独卷De beata vita，含章／节编号",
+        "verification": "从frameset逐层追到真正正文文件，实际读取Latin全文页面；index.htm和index2.htm本身不含正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:23.528879+00:00",
@@ -91,10 +103,16 @@
         "url": "https://yalebooks.yale.edu/book/9780300238525/on-the-happy-life/",
         "final_url": "https://yalebooks.yale.edu/book/9780300238525/on-the-happy-life/",
         "result": "HTTP 200；On the Happy Life。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Augustine De beata vita Latin; Augustinus.it frame → felicita_testo",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:23.528879+00:00",
+    "next_action": "核电子本所据印本／勘误，补CSEL或CCSL现代校本页码对应。",
+    "updated_at": "2026-11-10T06:08:21.035551+00:00",
     "discovery_pass_done": true
   }
 }

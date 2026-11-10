@@ -53,9 +53,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "爱的本性与尊严版本入口",
+        "url": "https://litpress.org/Products/CF030/The-Nature-and-Dignity-of-Love",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "CF30现代英译；拉丁原题De natura et dignitate amoris",
+        "coverage": "作品版本信息；未取得正文",
+        "verification": "出版社已读取；BnF统一题名检索显示存在多个异题，不能拆成新书。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:29.666293+00:00",
@@ -72,10 +84,16 @@
         "url": "https://litpress.org/Products/CF030/The-Nature-and-Dignity-of-Love",
         "final_url": "https://litpress.org/Products/CF030/The-Nature-and-Dignity-of-Love",
         "result": "HTTP 200；The Nature and Dignity of Love: : William of Saint Thierry; Translated by Thomas X. Davis; Introduction by David N. Bell: 9780879079307: litpress.org : Paperback。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "William Nature Dignity Love Latin online; BnF De natura dignitate amoris",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:29.666293+00:00",
+    "next_action": "追PL180中作者作品及Liber beati Bernardi de amore旧署名；核具体栏号后取正文。",
+    "updated_at": "2026-11-10T06:08:21.038342+00:00",
     "discovery_pass_done": true
   }
 }

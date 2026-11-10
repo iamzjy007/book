@@ -4,15 +4,15 @@
 
 | 状态 | 条数 |
 |---|---|
-| 部分正文可直达 | 21 |
-| 正文可直达 | 26 |
-| 仅书目／版本入口 | 12 |
-| 扫描入口待核 | 8 |
-| 访问受阻 | 1 |
+| 部分正文可直达 | 22 |
+| 正文可直达 | 35 |
+| 仅书目／版本入口 | 16 |
+| 扫描入口待核 | 10 |
+| 访问受阻 | 4 |
 | 待版本复核 | 2 |
-| 待检索 | 40 |
+| 待检索 | 21 |
 
-下一任务：`lori_a:cassian-conferences`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
+下一任务：`lori_b:lb01`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
 
 ## 统计边界
 
@@ -29,3 +29,4 @@
 - [003-apocrypha.md](sessions/003-apocrypha.md)
 - [004-oriental.md](sessions/004-oriental.md)
 - [005-greek-byzantine.md](sessions/005-greek-byzantine.md)
+- [006-latin.md](sessions/006-latin.md)

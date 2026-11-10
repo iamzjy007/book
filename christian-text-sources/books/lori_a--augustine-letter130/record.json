@@ -47,9 +47,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "致普罗巴第130信旧英译",
+        "url": "https://www.newadvent.org/fathers/1102130.htm",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "J. G. Cunningham译，NPNF第一辑1卷，1887",
+        "coverage": "完整Letter130条目；原研究已确认仓库现有书信集收本信",
+        "verification": "本轮再次实际打开正文核编号与收信人。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:25.694849+00:00",
@@ -66,10 +78,16 @@
         "url": "https://www.newadvent.org/fathers/1102130.htm",
         "final_url": "https://www.newadvent.org/fathers/1102130.htm",
         "result": "HTTP 200；CHURCH FATHERS: Letter 130 (St. Augustine)。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "New Advent fathers1102130复核",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:25.694849+00:00",
+    "next_action": "优先映射仓库已有原文／中译，核拉丁Ep.130；不当新增未收作品重复翻译。",
+    "updated_at": "2026-11-10T06:08:21.036484+00:00",
     "discovery_pass_done": true
   }
 }
