@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "tasks": [
+    {
+      "id": "versions",
+      "title": "具体书籍版本、作者与中文馆藏核查",
+      "status": "pending",
+      "cursor": {
+        "record_id": "dydi_a:willard-renovation",
+        "last_verified_url": "https://www.cc-us.org/shop/c9789622086753/",
+        "date": "2026-11-10",
+        "scope": "商品书目元数据，不是正文"
+      },
+      "next": "核天道出版社或图书馆对应ISBN9789622086753；比对中英文版本目录。"
+    },
+    {
+      "id": "feeds",
+      "title": "首批媒体RSS/newsletter/播客和真实更新游标",
+      "status": "pending",
+      "cursor": null,
+      "next": "从第一阶段对应worker记录所列next开始，保存实际网页或作品位置"
+    },
+    {
+      "id": "archives",
+      "title": "档案collection级到series/folder/手稿级映射",
+      "status": "pending",
+      "cursor": null,
+      "next": "从第一阶段对应worker记录所列next开始，保存实际网页或作品位置"
+    },
+    {
+      "id": "reading",
+      "title": "代表性全文阅读及专题资料包",
+      "status": "pending",
+      "cursor": null,
+      "next": "从第一阶段对应worker记录所列next开始，保存实际网页或作品位置"
+    },
+    {
+      "id": "editorial",
+      "title": "六个系列各形成一张选题卡",
+      "status": "pending",
+      "cursor": null,
+      "next": "从第一阶段对应worker记录所列next开始，保存实际网页或作品位置",
+      "existing_examples": "EDITORIAL-PILOTS.md已有3张示例，未完成六个系列资料包。"
+    },
+    {
+      "id": "global",
+      "title": "非美国和非英语资源扩展",
+      "status": "pending",
+      "cursor": null,
+      "next": "从第一阶段对应worker记录所列next开始，保存实际网页或作品位置"
+    },
+    {
+      "id": "gaps",
+      "title": "五旬节/灵恩、全球南方和少数群体覆盖复核",
+      "status": "pending",
+      "cursor": null,
+      "next": "从第一阶段对应worker记录所列next开始，保存实际网页或作品位置"
+    },
+    {
+      "id": "rights",
+      "title": "拟引用文章版本及转载/翻译条件逐项核定",
+      "status": "pending",
+      "cursor": null,
+      "next": "从第一阶段对应worker记录所列next开始，保存实际网页或作品位置"
+    }
+  ],
+  "next_task": "versions"
+}

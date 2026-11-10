@@ -1,0 +1,400 @@
+{
+  "worker": "dydi_d",
+  "date": "2026-11-10",
+  "date_timezone": "Asia/Shanghai",
+  "scope": "第一阶段美国英文灵修资源入口研究，12项；实读官方网页，非全文阅读／比较神学评审。美国机构可服务全球；未将每项都称美国作者。",
+  "items": [
+    {
+      "id": "d01",
+      "title": "Renovaré",
+      "kind": "持续媒体／操练与培训入口",
+      "tradition": "跨宗派基督教；创办者 Richard J. Foster，兼顾福音派、圣洁、默观等传统",
+      "description": "1988年创办，提供属灵塑造文章、播客、书单、小组课程和培训。",
+      "value": "可从免费六课课程进入，再用书单追溯不同传统；不是单一教派权威文集。",
+      "sources": [
+        {
+          "url": "https://renovare.org/",
+          "read_scope": "首页资源、课程及邮件频率",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://renovare.org/about",
+          "read_scope": "成立、六种传统、使命及信仰告白",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "已见邮件登记；Renovaré Weekly 明确每周五。课程首页标免费，培训项目费用未核。",
+      "update_evidence": "首页标新播客 Michael Stewart Robb；未核单集发布日期。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "核课程使用许可、读书会／培训费用与中文授权。"
+    },
+    {
+      "id": "d02",
+      "title": "The Upper Room",
+      "kind": "日修刊物／持续平台",
+      "tradition": "卫斯理／联合卫理公会背景；跨宗派服务",
+      "description": "1935年始于每日灵修指南，现有读经、祈祷、Disciplines、Sight Psalms 及培训资源。",
+      "value": "适合短篇每日灵修和共同祷告；兼顾全球普通信徒的生活经验。",
+      "sources": [
+        {
+          "url": "https://www.upperroom.org/",
+          "read_scope": "首页日期、栏目、订阅及语言说明",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://www.upperroom.org/about",
+          "read_scope": "1935年、UMC Discipleship Ministries、Tennessee法人及跨宗派使命",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "页面有 Subscribe、Subscriptions、Free Newsletters；尚未核纸本／数字订阅具体档位。",
+      "update_evidence": "实见 Daily Devotional 与 Disciplines 日期 2026-11-09。",
+      "chinese_status": "官方称30多种语言，所读页面未列明中文版本；中文具体机构及现行订阅需核。",
+      "next": "进入 International Editions 查中文合作方；确认不同栏目付费边界。"
+    },
+    {
+      "id": "d03",
+      "title": "Jesuits.org — Ignatian Spirituality",
+      "kind": "官方灵修入口／播客与邮件",
+      "tradition": "天主教耶稣会；美国及加拿大耶稣会网络",
+      "description": "介绍省察、分辨、神操与默观行动，连接 JesuitPrayer 和依纳爵资源。",
+      "value": "适合核对依纳爵操练的实际含义；能将短篇练习与神操历史背景连接。",
+      "sources": [
+        {
+          "url": "https://www.jesuits.org/spirituality/",
+          "read_scope": "灵修说明、Examen、神操、周刊及播客链接",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "Now Discern This 标每周反思，页面底部可选择该邮件；另有 weekly podcast 订阅说明。",
+      "update_evidence": "核实站方承诺周频，未核最近一期实际发布日期。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "实读一篇省察指导和一期播客，核负责机构及中文神操版本。"
+    },
+    {
+      "id": "d04",
+      "title": "Ancient Faith Ministries",
+      "kind": "东正教广播／播客／出版入口",
+      "tradition": "北美安提阿东正教总教区祝福下运作；泛东正教服务",
+      "description": "集合直播、播客、每日灵修、书店及活动，含英语讲道与音乐频道。",
+      "value": "可接触当代东正教祷告、读经和牧养；各节目作者观点不应自动等同全教会正式教导。",
+      "sources": [
+        {
+          "url": "https://www.ancientfaith.com/",
+          "read_scope": "节目标题、日期、日修、书店和新闻邮件",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://www.ancientfaith.com/about/",
+          "read_scope": "使命及教区关系、读者支持",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "General Newsletters／Sowing Seeds 登记可见；节目及书籍的具体付费和RSS尚未逐个核。",
+      "update_evidence": "Orthodoxy Live Mailbag Edition 日期2026-11-08；主页显示多项新节目。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "挑一个祷告系列查主持背景、完整节目索引及RSS。"
+    },
+    {
+      "id": "d05",
+      "title": "Shalem Institute for Spiritual Formation",
+      "kind": "默观培训／灵修指导入口",
+      "tradition": "基督教默观根源的开放型灵修机构；不是特定宗派官方教义机关",
+      "description": "位于 Washington, DC，提供默观生活与领导培训、退修及灵修导师查找。",
+      "value": "适合希望从阅读进入有陪伴实践者；评估课程时应进一步核导师和跨宗教参与范围。",
+      "sources": [
+        {
+          "url": "https://shalem.org/",
+          "read_scope": "使命、地址、课程、导师入口和邮件清单",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "已见 Join Our Mailing List；课程收费／资助链接可见但未核金额或邮件频率。",
+      "update_evidence": "首页有2026活动与新执行主任公告，但 Vision 文字仍为2025；不据此称所有栏目持续更新。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "实读课程介绍、师资、机构历史及信仰定位，确认适合的参与者。"
+    },
+    {
+      "id": "d06",
+      "title": "Center for Action and Contemplation (CAC)",
+      "kind": "默观日修／播客／在线课程",
+      "tradition": "Richard Rohr创办；天主教方济各会背景、跨传统默观取向",
+      "description": "1987年成立，强调默观与社会行动的联系，经营 Daily Meditations、播客、Living School 及课程。",
+      "value": "可研究当代默观如何连接个人转化、怜悯与社会责任；需按作者和课程辨别立场。",
+      "sources": [
+        {
+          "url": "https://cac.org/",
+          "read_scope": "日修、播客、课程、新闻及邮件",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://cac.org/about/about-the-center-for-action-and-contemplation/",
+          "read_scope": "成立、使命及价值声明",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "首页有邮件登记及 News from New Mexico；未核所有邮件的频率与课程费用。",
+      "update_evidence": "页面有11月13日和12月4—6日活动预告；这些是预告，不算已完成活动。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "核 Daily Meditations 邮件频率和近期文章署名；查中文著作是否为对应作品。"
+    },
+    {
+      "id": "d07",
+      "title": "IgnatianSpirituality.com / dotMagis",
+      "kind": "出版机构灵修网站／博客",
+      "tradition": "天主教依纳爵灵修；Loyola Press",
+      "description": "提供神操、省察、分辨、在线退修、祈祷及多作者博客。",
+      "value": "适合按主题循序学习，和耶稣会总入口有联系，但属于独立网站资源，不能当作两份独立神学证据。",
+      "sources": [
+        {
+          "url": "https://www.ignatianspirituality.com/",
+          "read_scope": "栏目、近期标题、作者、页脚Loyola Press版权",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "本轮首页未核实电子邮件或RSS订阅机制。",
+      "update_evidence": "首页列出分步骤省察系列和多篇新标题，498页博客索引；未核具体发布日期或固定更新频率。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "从 About This Site 的实际链接核出版背景；抽读退修使用说明及订阅页。"
+    },
+    {
+      "id": "d08",
+      "title": "Celebration of Discipline: The Path to Spiritual Growth — Richard J. Foster",
+      "kind": "书籍",
+      "tradition": "贵格会背景作者／跨宗派基督教属灵操练",
+      "description": "按内在、外在、群体三类组织默想、祈祷、禁食、学习、简朴、独处、顺服、服事、认罪、敬拜、引导及庆祝。",
+      "value": "把古典操练组织成现代读者可用框架，适合作为书目入门；操练不是得救功德的自动流程。",
+      "sources": [
+        {
+          "url": "https://renovare.org/books/celebration-of-discipline",
+          "read_scope": "作者组织书目、三类十二操练、作者说明及购买链接",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "不适用：书籍。页面链接纸本、有声书、研读指南与课程，版本ISBN未核。",
+      "update_evidence": "书目页面标1988；不将该标记当成原作首次出版日期。",
+      "chinese_status": "《属灵操练礼赞》为后续检索线索；本轮未读中文出版社版权／ISBN页，不能据此确立某一译版。",
+      "next": "核原版首次出版与周年修订关系，追查中文版本译者、ISBN和再版。"
+    },
+    {
+      "id": "d09",
+      "title": "Give Us This Day",
+      "kind": "天主教每月祈祷刊物／每日邮件",
+      "tradition": "天主教本笃会；Liturgical Press / Saint John’s Abbey",
+      "description": "美国明尼苏达州 Collegeville 本笃会出版机构的日常祷告刊物。",
+      "value": "可将每日经文反思与晨晚祷相连，适合礼仪性读经者。",
+      "sources": [
+        {
+          "url": "https://giveusthisday.org/",
+          "read_scope": "月刊、出版机构、每日邮件、日期和订阅入口",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "官网明确月刊，可 Subscribe／Renew／Digital Login；Daily Prayer 邮件提供每期精选内容。未核价格。",
+      "update_evidence": "最近实见2026-11-09晨祷代求，另有11月7日和6日条目。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "核数字／纸本／应用程序各档、地区限制及经文译本。"
+    },
+    {
+      "id": "d10",
+      "title": "New Seeds of Contemplation — Thomas Merton",
+      "kind": "书籍",
+      "tradition": "天主教熙笃会／特拉普修道传统",
+      "description": "以默观、内在生命、自由与爱为中心的现代灵修散文。",
+      "value": "适合从操练方法进一步反省默观的目标；书目应区别于早期 Seeds of Contemplation。",
+      "sources": [
+        {
+          "url": "https://www.ndbooks.com/book/new-seeds-of-contemplation/",
+          "read_scope": "New Directions官方简介、2007纸本及电子版出版数据",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "不适用：书籍；纸本与电子购买入口可见。",
+      "update_evidence": "所核版2007-11-01，纸本ISBN9780811217248，296页；不是据此推定原作1960年代首版日期。",
+      "chinese_status": "《默观的新苗》等中文题名需另行核出版社，当前只作检索线索，不将英文书的存在等同中文授权版存在。",
+      "next": "核初版和新增Sue Monk Kidd导言关系；核中文版权页。官网误列Fiction分类不用于定义作品体裁。"
+    },
+    {
+      "id": "d11",
+      "title": "Practicing the Way",
+      "kind": "属灵塑造课程／书籍与实践工具入口",
+      "tradition": "当代美国福音派及跨教会属灵塑造；John Mark Comer相关事工",
+      "description": "提供八课导论、安息日等九类操练、Rule of Life Builder、播客及相关书籍。",
+      "value": "适合小组连续实践与反馈；官网强调群体使用而非独自完成技巧清单。",
+      "sources": [
+        {
+          "url": "https://www.practicingtheway.org/",
+          "read_scope": "课程、九操练、免费账户、邮件及群体使用说明",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "可登记 regular emails／occasional updates，无固定周频承诺；官网称账户及资源免费，实体书和产品另有购买链接。",
+      "update_evidence": "首页标新书 Into the Quiet 已可购买，未核出版日期或播客最近更新日期。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "进一步核美国法人信息、账户隐私、下载材料许可及中文资源覆盖。"
+    },
+    {
+      "id": "d12",
+      "title": "Emotionally Healthy Discipleship",
+      "kind": "门徒训练／领导力播客与课程",
+      "tradition": "美国跨宗派福音派背景；Pete 与 Geri Scazzero",
+      "description": "将祈祷、独处、安静、安息与情绪健康、关系及教会领导结合。",
+      "value": "有助补足只重知识或工作成果的灵修观；不是临床心理治疗替代品。",
+      "sources": [
+        {
+          "url": "https://www.emotionallyhealthy.org/",
+          "read_scope": "使命、创办者、实践重点、最新播客及邮件",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://www.emotionallyhealthy.org/emotionally-healthy-spirituality-conference-online-may-1st-2nd/",
+          "read_scope": "2009年Queens New Life Fellowship历史活动；仅核美国历史连接，非当前活动",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "首页明确 Weekly Insights 登记；课程和书籍有销售入口，费用及中文授权另核。",
+      "update_evidence": "实见播客 Jesus’ Four Great Reversals 日期2026-10-27；2009活动不计本轮近期更新。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "核 Emotionally Healthy Spirituality具体书版与中文译名／译者；查课程与书籍的范围差别。"
+    }
+  ],
+  "queries": [
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Renovaré",
+      "urls": [
+        "https://renovare.org/",
+        "https://renovare.org/about"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "The Upper Room",
+      "urls": [
+        "https://www.upperroom.org/",
+        "https://www.upperroom.org/about"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Jesuits.org — Ignatian Spirituality",
+      "urls": [
+        "https://www.jesuits.org/spirituality/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Ancient Faith Ministries",
+      "urls": [
+        "https://www.ancientfaith.com/",
+        "https://www.ancientfaith.com/about/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Shalem Institute for Spiritual Formation",
+      "urls": [
+        "https://shalem.org/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Center for Action and Contemplation (CAC)",
+      "urls": [
+        "https://cac.org/",
+        "https://cac.org/about/about-the-center-for-action-and-contemplation/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "IgnatianSpirituality.com / dotMagis",
+      "urls": [
+        "https://www.ignatianspirituality.com/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Celebration of Discipline: The Path to Spiritual Growth — Richard J. Foster",
+      "urls": [
+        "https://renovare.org/books/celebration-of-discipline"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Give Us This Day",
+      "urls": [
+        "https://giveusthisday.org/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "New Seeds of Contemplation — Thomas Merton",
+      "urls": [
+        "https://www.ndbooks.com/book/new-seeds-of-contemplation/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Practicing the Way",
+      "urls": [
+        "https://www.practicingtheway.org/"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "method": "direct official-site URL retrieval and linked-page navigation",
+      "query": "Emotionally Healthy Discipleship",
+      "urls": [
+        "https://www.emotionallyhealthy.org/",
+        "https://www.emotionallyhealthy.org/emotionally-healthy-spirituality-conference-online-may-1st-2nd/"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://dwillard.org/books/the-spirit-of-the-disciplines",
+      "result": "HTTP 202空正文，不能核书目"
+    },
+    {
+      "url": "https://renovare.org/books/the-spirit-of-the-disciplines",
+      "result": "404"
+    },
+    {
+      "url": "https://www.ssje.org/word/",
+      "result": "202空正文，未列入12项"
+    },
+    {
+      "url": "https://litpress.org/Products/GTDE/Give-Us-This-Day",
+      "result": "返回通用产品列表，后改用giveusthisday.org成功核实"
+    },
+    {
+      "url": "https://www.ignatianspirituality.com/about-us/",
+      "result": "404，未凭猜测补机构详情"
+    },
+    {
+      "url": "https://shalem.org/about-shalem/",
+      "result": "404，具体历史和定位待下一轮"
+    },
+    {
+      "url": "https://www.emotionallyhealthy.org/emotionally-healthy-spirituality/",
+      "result": "跳至2009旧会议页；只作历史证据，另读主页核最新内容"
+    }
+  ],
+  "limitations": [
+    "没有测试真实订阅、注册、付款或RSS播放；订阅证据为页面公开说明。",
+    "中文版本是另一个需核证层面；未把熟悉译名当作正式出版证据，也未断言无中文。",
+    "未下载书籍全文；未保存网站全文至仓库。",
+    "无搜索引擎结果用于事实支持；queries记录真实直接检索/导航，非虚构关键词搜索。"
+  ]
+}

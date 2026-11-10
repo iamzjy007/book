@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "date": "2026-11-10",
+  "phase": "phase_1",
+  "status": "completed_for_scope",
+  "stats": {
+    "raw_records": 68,
+    "merged_duplicates": 3,
+    "catalog_entries": 65,
+    "distinct_source_urls": 119,
+    "groups": {
+      "书籍与作者": 12,
+      "事工与讲章": 12,
+      "档案与数字馆藏": 10,
+      "跨传统灵修": 10,
+      "刊物与持续媒体": 11,
+      "多元作者与宣教": 10
+    }
+  },
+  "full_books_read": 0,
+  "articles_published": 0,
+  "topic_card_examples": 3,
+  "next_task": "versions",
+  "next_record": "dydi_a:willard-renovation",
+  "cursor": "已核官方书目及中文书店版本线索；下一步中文出版社／馆藏及目录比对，见原始记录sources。",
+  "background_research_running": false,
+  "scheduled_monitoring_installed": false,
+  "quota_balance_accessible": false,
+  "git_status_note": "以git log和远端main实际提交为准；不预填推送成功"
+}

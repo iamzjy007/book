@@ -1,0 +1,324 @@
+{
+  "worker": "dydi_b",
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "status": "first_stage_complete",
+  "scope": "12个美国英语基督教事工资源入口；官网实际核读，未订阅、未全文下载",
+  "items": [
+    {
+      "id": "B01",
+      "title": "Desiring God / John Piper",
+      "kind": "文章、讲章、问答与灵修播客",
+      "tradition": "福音派；自述Christian Hedonism，以在基督里的喜乐为核心；更细宗派立场应读其信仰声明。",
+      "description": "围绕经文、基督徒生活与宣教发布文章，提供Ask Pastor John、Look at the Book与Solid Joys。",
+      "value": "适合短篇灵修与逐段释经，可同时比较音频和文字。",
+      "sources": [
+        {
+          "url": "https://www.desiringgod.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.desiringgod.org/about",
+          "read_scope": "使命、教师及资源免费声明"
+        },
+        {
+          "url": "https://www.desiringgod.org/podcasts",
+          "read_scope": "实际列Apple/Spotify及RSS入口"
+        },
+        {
+          "url": "https://www.desiringgod.org/translations",
+          "read_scope": "中文栏目及TGC China链接"
+        }
+      ],
+      "update_evidence": "首页见2026-11-09 Light + Truth、11-08文章；首页亦列11-11未来项，未把未来日期算已发布。",
+      "subscription": "播客页已核RSS及平台入口；具体feed XML未测试。",
+      "chinese_status": "官网Translations明确列Chinese并链接TGC China；不表示每期播客均有中文。",
+      "access_and_cost": "About明确站内资源免费、主要由捐款支持；外部纸书购买另计。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B02",
+      "title": "The Gospel Coalition（美国版）",
+      "kind": "多作者文章、书评、讲座、播客",
+      "tradition": "官网自述改革宗传统的牧师与教会联盟。",
+      "description": "聚合神学、教会生活、文化及牧养文章，设Themelios和多个主题播客。",
+      "value": "覆盖面广，适合建立按主题追踪的阅读清单；各作者论点仍须单独辨析。",
+      "sources": [
+        {
+          "url": "https://www.thegospelcoalition.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.thegospelcoalition.org/about/",
+          "read_scope": "Overview及Foundation Documents，明确改革宗定位"
+        }
+      ],
+      "update_evidence": "本轮首页所读片段未获得可用单篇发布日期；不据版权年或Upcoming大会推断更新频率。",
+      "subscription": "官网导航确认Newsletters与Podcasts入口；/newsletters/直开403，频率及表单细节待核。",
+      "chinese_status": "官网美国版导航明确链接简体tgcchinese.org和正体tc.tgcchinese.org。",
+      "access_and_cost": "公开文章栏目可读；另设书店、会议与cohorts，收费与否逐项核，未泛称全部免费。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B03",
+      "title": "Ligonier Ministries / Renewing Your Mind",
+      "kind": "教义文章、讲章、广播与播客",
+      "tradition": "官网明确改革宗神学；R.C. Sproul创立，现由多位教师延续。",
+      "description": "以神的圣洁和系统性圣经教导为核心，提供文章、灵修、系列课程及每日广播。",
+      "value": "适合建立教义框架；历史录音和现任教师节目应分别识别。",
+      "sources": [
+        {
+          "url": "https://www.ligonier.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://about.ligonier.org/",
+          "read_scope": "创办历史、改革宗定位及教师团"
+        },
+        {
+          "url": "https://www.renewingyourmind.org/",
+          "read_scope": "2026-11-09节目页、Email/Podcast入口与Sproul1939–2017说明"
+        }
+      ],
+      "update_evidence": "Renewing Your Mind页题名标2026-11-09 The Knight’s Map；为当前播出日期，不是Sproul当日新讲。",
+      "subscription": "主站Stay in Touch邮箱入口；广播官网Ways to Listen含Email、Podcast、App。",
+      "chinese_status": "本轮未核中文官方站，待核；不能因此说无中文。",
+      "access_and_cost": "公开广播可听；主站另有书店、Tabletalk杂志及Connect，不能全部视为免费，具体订购价待核。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B04",
+      "title": "Truth For Life / Alistair Begg",
+      "kind": "释经讲章、广播、文章、灵修",
+      "tradition": "新教福音派圣经教导事工；本轮未进一步核完整宗派声明。",
+      "description": "提供Alistair Begg讲章库、圣经书卷系列，以及Begg和司布真灵修。",
+      "value": "适合连续聆听同一书卷与练习讲道结构；作者和广播日期易区分。",
+      "sources": [
+        {
+          "url": "https://www.truthforlife.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        }
+      ],
+      "update_evidence": "首页明确文章Sermons on the Protestant Reformation标2026-10-21；November9读经仅月日，不单独当完整年日期。",
+      "subscription": "页脚邮箱内容/免费账号管理订阅入口已见；RSS地址待核。",
+      "chinese_status": "官网有Translated Resources入口，中文覆盖未打开核实。",
+      "access_and_cost": "公开讲章/节目入口；书店标at cost，另有捐款索取书籍，不等于所有商品免费。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B05",
+      "title": "BibleProject",
+      "kind": "圣经主题视频、长篇对谈播客、课程、文章",
+      "tradition": "跨宗派基督教教育；强调圣经是指向耶稣的统一故事，不将其当成特定宗派官方立场。",
+      "description": "由Tim Mackie与Jon Collins等制作圣经书卷概览和主题研究，播客解释视频背后的释经讨论。",
+      "value": "适合先把握书卷结构，再深入主题与经文互文；视频简化论点宜配长篇讨论。",
+      "sources": [
+        {
+          "url": "https://bibleproject.com/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://bibleproject.com/about/",
+          "read_scope": "机构自述及免费众筹资源"
+        },
+        {
+          "url": "https://bibleproject.com/podcasts/shows/the-bible-project-podcast/",
+          "read_scope": "实际节目列表及日期"
+        },
+        {
+          "url": "https://bibleproject.com/languages/",
+          "read_scope": "简体、繁体普通话和粤语入口"
+        }
+      ],
+      "update_evidence": "播客页见2026-11-09诗篇3专题与11-02问答；这是具体节目发布证据。",
+      "subscription": "播客页有App Store/Google Play及官方App收听入口；RSS和邮件入口本轮待核。",
+      "chinese_status": "官方语言页明确列Mandarin Simple/Traditional及Cantonese；不能推断所有英文播客已有中文。",
+      "access_and_cost": "About明确视频、播客、文章和课程为免费资源，众筹支持。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B06",
+      "title": "Grace to You / John MacArthur",
+      "kind": "讲章档案、广播、灵修、问答播客",
+      "tradition": "保守新教逐节释经事工；详细末世论和恩赐立场须另读声明。",
+      "description": "保存MacArthur经文讲章，按经节与主题提供音视频、文章和日用灵修。",
+      "value": "长年讲章档案适合查某段经文；要区分旧讲章原日期与新播出安排。",
+      "sources": [
+        {
+          "url": "https://www.gty.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        }
+      ],
+      "update_evidence": "首页精选讲章标2014-03-23、1998-01-04、1985-10-13；日课仅November10。可证档案有日期，不足证本轮新讲章日期。",
+      "subscription": "首页明确Emailed Content可订灵修、新讲章通知及广播；Podcasts入口已核，feed未测。",
+      "chinese_status": "本轮未核官方中文资源，待核。",
+      "access_and_cost": "公开播放讲章和文章入口；独立Shop售书、研读材料，非全部资源免费。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B07",
+      "title": "In Touch Ministries / Charles Stanley",
+      "kind": "灵修文章、广播、讲道视频",
+      "tradition": "福音派牧养与生活应用取向；Charles Stanley为创办人，非把现播内容都视为本人新作。",
+      "description": "以信靠、祷告、顺服与生活困境为主题，每日灵修搭配广播及每周讲章。",
+      "value": "适合短时日用灵修和陪伴性聆听；精确释经研究可配其他来源。",
+      "sources": [
+        {
+          "url": "https://www.intouch.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        }
+      ],
+      "update_evidence": "首页日课及广播标2026-11-09；staff Bible Study标11-08；每周讲章标11-07，均为页面发布日期。",
+      "subscription": "官网明确Free Weekly Newsletter、Daily Devotions Email及Free Monthly Devotional；纸本寄送地区条件未核。",
+      "chinese_status": "官网语言选择存在；中文具体内容及更新频率待核。",
+      "access_and_cost": "免费周邮件/月灵修明确；Store售卖商品另计，未办理领取或订阅。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B08",
+      "title": "Insight for Living / Chuck Swindoll",
+      "kind": "广播、文章库、日用灵修、查经",
+      "tradition": "福音派圣经教导；本轮仅据官方使命，不细分宗派。",
+      "description": "提供Swindoll讲道广播、按书卷/主题查找的材料及Insight for Today日课。",
+      "value": "适合把叙事讲道与生活应用连接，也能按主题找辅导性文章。",
+      "sources": [
+        {
+          "url": "https://insight.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://insight.org/resources/daily-devotional",
+          "read_scope": "近三个月日课列表、日期及邮件说明"
+        }
+      ],
+      "update_evidence": "日课God’s Required Course: Forgiveness标2026-11-09，前数日亦逐日列出。",
+      "subscription": "首页表单可选Daily Devotionals、Weekly Insights及偶发通知；未填表。",
+      "chinese_status": "有International Offices入口，本轮未核中文分支，待核。",
+      "access_and_cost": "公开广播和文章可访问；书店售书、CD、workbooks及部分讲章产品，不能笼统全免。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B09",
+      "title": "Got Questions Ministries / GotQuestions.org",
+      "kind": "圣经问答文章、音视频与播客",
+      "tradition": "官方明确福音派、神学保守、无宗派的教会辅助事工。",
+      "description": "按经文、教义和生活问题组织短篇答问，并提供提问与每周问题邮件。",
+      "value": "适合问题索引和初步释经线索；答案代表其神学立场，不等于跨传统学术共识。",
+      "sources": [
+        {
+          "url": "https://www.gotquestions.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.gotquestions.org/about.html",
+          "read_scope": "官方身份、内容审阅机制及商业链接披露"
+        },
+        {
+          "url": "https://www.gotquestions.org/donate.html",
+          "read_scope": "仅核官方Colorado Springs美国通信地址"
+        }
+      ],
+      "update_evidence": "首页last updated为2026-11-09；这是页面更新戳，不等于所有文章当日修订。About标2026-04-20。",
+      "subscription": "首页及About明确Question of the Week邮件订阅；具体RSS未核。",
+      "chinese_status": "About说有translations，中文专题未打开核查，待核。",
+      "access_and_cost": "在线问答公开可读；推荐资源有Amazon/Logos分销链接，购书不在免费内容范围。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B10",
+      "title": "9Marks",
+      "kind": "牧养文章、书评、期刊、播客与课程",
+      "tradition": "福音派健康教会取向，强调释经、会籍与纪律；本轮不将所有参与者归为同一宗派。",
+      "description": "围绕讲道、悔改、会籍、门训及教会治理向牧者与会众提供材料。",
+      "value": "适合地方教会实践研究；制度建议须结合本地宗派与法律环境判断。",
+      "sources": [
+        {
+          "url": "https://www.9marks.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.9marks.org/about/",
+          "read_scope": "九项重点、季度刊与课程介绍"
+        },
+        {
+          "url": "https://www.9marks.org/contact/",
+          "read_scope": "官方Washington DC通信地址"
+        }
+      ],
+      "update_evidence": "首页文章标2026-11-06/11-04；Priscilla Talk第75期标2026-11-09。",
+      "subscription": "官网有Podcasts入口；英文newsletter及可直接导入RSS本轮待核。",
+      "chinese_status": "官网导航明确简体cn.9marks.org和繁体tc.9marks.org。",
+      "access_and_cost": "首页明确Free Online Courses；公开文章/播客，书店商品另收费。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B11",
+      "title": "BibleThinker / Mike Winger",
+      "kind": "长篇视频释经、专题研究、直播问答与播客",
+      "tradition": "新教福音派个人教师事工；官网说没有自有已发表信仰声明，Winger认同其所属教会声明，但该教会不隶属本事工。",
+      "description": "以Mike Winger为主要讲员，结合逐节释经、护教及伦理问题长篇问答。",
+      "value": "能看到论证过程和经文分析；批判其他传统的内容宜配被讨论方原始材料。",
+      "sources": [
+        {
+          "url": "https://biblethinker.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://biblethinker.org/meet-mike/",
+          "read_scope": "教师身份、免费宗旨、美国Bellflower地址及不隶属当地教会说明"
+        }
+      ],
+      "update_evidence": "首页列Q&A Ep83、Ep82但所读文本没有发布日期；不由编号推断2026更新频率。",
+      "subscription": "官网说明可通过主要播客平台收听；RSS/email入口未核。",
+      "chinese_status": "本轮未核官方中文翻译渠道；第三方字幕不自动认作授权译本。",
+      "access_and_cost": "About明确免费教学内容；由支持者资助，未发现必须付费才可收听条件。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    },
+    {
+      "id": "B12",
+      "title": "Reasonable Faith / William Lane Craig",
+      "kind": "护教文章、每周问答、播客、讲座与辩论",
+      "tradition": "福音派哲学护教；Craig的论证及神学模型应与其他福音派立场区别。",
+      "description": "讨论神存在、历史耶稣、科学与信仰、苦难及基督教教义，另有Defenders课程播客。",
+      "value": "适合深入哲学论证与信仰问难；技术术语较多，非主要短篇日用灵修。",
+      "sources": [
+        {
+          "url": "https://www.reasonablefaith.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.reasonablefaith.org/writings/question-answer/",
+          "read_scope": "实际问答目录及日期"
+        }
+      ],
+      "update_evidence": "问答1016标2026-11-02，1015为10-26，1014为10-19；明确近月有发布。",
+      "subscription": "首页有newsletter signup、多个播客及In the Arena feed链接；未测试feed内容。",
+      "chinese_status": "官网有Translations入口但直开403；中文覆盖待核，不据此说无。",
+      "access_and_cost": "官网公开文章、播客；Equip明确entirely FREE课程，外部书籍价格未核。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  ],
+  "search_log": {
+    "date": "2026-11-10",
+    "method": "多数直接访问所列官网；读栏目、About、订阅入口和日期证据，不声称听完节目。",
+    "queries": [
+      "site.desiringgod.org \"Minneapolis\" \"Address\"",
+      "site.ligonier.org \"Sanford\" \"32771\"",
+      "site.bibleproject.com \"Portland\" \"972\"",
+      "site.insight.org \"Frisco\" \"75034\""
+    ],
+    "failures": [
+      "TGC /newsletters/和/contact/返回403；仅确认导航入口。",
+      "ReasonableFaith /translations返回403；中文覆盖未核。",
+      "部分猜测contact路径无法访问，未把它们列作实际读取依据。",
+      "web click旧ref发生错误路由（跳GotQuestions图标/9Marks越文），弃用相关结果并改直接URL访问。"
+    ],
+    "limits": [
+      "正式分类以官网自述为准；多站只核首页，宗派细分未全部查信仰告白。",
+      "美国归属按已知事工身份及可核官网美国联系地址/美国版；并非逐家法人注册审计。",
+      "免费网页不等于可自由转载翻译，具体许可须另核。",
+      "仅见Last updated或旧讲章日期的条目已标明，不推断持续更新速度。",
+      "中文未知写待核，不能把未查到当不存在。"
+    ]
+  }
+}

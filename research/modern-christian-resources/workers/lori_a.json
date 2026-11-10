@@ -1,0 +1,437 @@
+{
+  "worker": "lori_a",
+  "date": "2026-11-10",
+  "date_timezone": "Asia/Shanghai",
+  "scope": "12个美国英文期刊／网络媒体／博客／订阅频道，跨福音派、主流新教、天主教、东正教及共同体传统",
+  "status": "completed_first_pass",
+  "method": "实际读取官网机构、首页或订阅页；不是全文内容质量审计。区分自述立场、可观察访问权益与未核项目，不按影响力评级。未付费、未订阅、未下载全书。",
+  "items": [
+    {
+      "id": "la01",
+      "title": "Christianity Today",
+      "kind": "新闻杂志／神学与文化评论／邮件通讯",
+      "tradition": "美国跨宗派福音派",
+      "description": "1956年由葛培理创办；官网分新闻、思想、神学、教会生活、文化等栏目。",
+      "value": "可比较福音派报道与署名评论；栏目、证据和作者需分别判断，品牌知名度不等于每篇可靠。",
+      "sources": [
+        {
+          "url": "https://www.christianitytoday.com/",
+          "read_scope": "首页栏目导航",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.christianitytoday.com/about/",
+          "read_scope": "创办历史、机构定位",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.christianitytoday.com/newsletters/",
+          "read_scope": "免费邮件栏目、频率、三项Substack迁移提示、简繁中文入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://zh.christianitytoday.com/",
+          "read_scope": "官方中文首页及文章入口",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有免费邮件通讯及付费杂志／数字访问；免费邮件不自动等于网站全文权限。通讯页列明部分栏目迁往Substack，其他传统邮件仍保留；未把迁移推广至全部栏目。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 通讯页明确Daily Briefing按日、CT Leaders按周、中文按月。",
+      "chinese_status": "已确认官方简体中文站；通讯页有CT中文简体／繁体每月订阅入口。并非英文全部内容同步翻译。",
+      "next": "另核数字方案当前权益与最近新闻日期；按具体栏目评估选稿。"
+    },
+    {
+      "id": "la02",
+      "title": "The Christian Century",
+      "kind": "杂志／教会公共议题评论／书评／讲道资源",
+      "tradition": "美国进步取向、普世教会立场，与主流新教传统关系密切",
+      "description": "独立非营利刊物，自述具有进步与普世教会视野，内容涵盖教会、社会、文学与讲道。",
+      "value": "适合与福音派杂志对读同一议题；其进步立场需与具体事实报道区分。",
+      "sources": [
+        {
+          "url": "https://www.christiancentury.org/",
+          "read_scope": "首页栏目和文章标题",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.christiancentury.org/about",
+          "read_scope": "机构立场及历史",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.christiancentury.org/signup/subscribe-24-95",
+          "read_scope": "订阅页数字版及纸刊含数字权限的入门方案",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "数字访问和纸刊含数字访问为付费方案；本次读到入门优惠，不将促销价当永久标准。另有邮件入口；各邮件与高级讲道资源权益仍须逐项核实。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核下一期日期；分别核普通邮件和Sunday’s Coming Premium权益。"
+    },
+    {
+      "id": "la03",
+      "title": "Sojourners",
+      "kind": "新闻与意见杂志／公共信仰／社会行动相关媒体",
+      "tradition": "美国基督教社会公义与和平倡议传统",
+      "description": "以信仰讨论种族、经济、性别、环境与和平议题；机构同时从事倡议。",
+      "value": "有助研究社会公义取向的基督徒公共行动；新闻报道、意见及SojoAction倡议不能混为中立新闻。",
+      "sources": [
+        {
+          "url": "https://sojo.net/",
+          "read_scope": "新闻、Living Faith等栏目及通讯入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://sojo.net/about/about-sojourners",
+          "read_scope": "使命与社会议题定位",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.sojo.net/magazine/subscribe",
+          "read_scope": "纸刊加数字、数字年／月方案及全文权益",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有免费每周通讯；杂志和无限数字文章访问为付费方案。未核所有灵修产品是否包含在普通订阅内。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核最近刊期及Liberating the Word独立订阅权益。"
+    },
+    {
+      "id": "la04",
+      "title": "First Things",
+      "kind": "宗教公共哲学评论杂志／书评／网络文章",
+      "tradition": "美国宗教保守取向的跨传统讨论，含天主教、新教及犹太作者",
+      "description": "由Institute on Religion and Public Life出版，强调宗教参与公共哲学；并非只收单一宗派声音。",
+      "value": "适合政治神学、伦理与文化争论；不应把编辑立场当作所有基督徒共同立场。",
+      "sources": [
+        {
+          "url": "https://firstthings.com/",
+          "read_scope": "主题及作者栏目",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://firstthings.com/about/",
+          "read_scope": "出版机构、Neuhaus与创刊历史、纽约办公信息",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://firstthings.com/subscribe/",
+          "read_scope": "数字／综合方案、档案权限及每年10期说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有付费数字与综合订阅，含档案访问等权益；每年10期纸刊。首页邮件入口不代表其所有内容免费。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 订阅页载每年10期，这是刊期说明而非最新一期日期。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核最新刊期、邮件与全文付费边界；另选一篇事实性文章交叉查证。"
+    },
+    {
+      "id": "la05",
+      "title": "America: The Jesuit Review",
+      "kind": "杂志／新闻／神学与文化评论／祈祷资源／播客",
+      "tradition": "美国耶稣会天主教",
+      "description": "覆盖教会和梵蒂冈新闻、美国公共生活、圣经与灵修，并有Jesuitical等播客。",
+      "value": "适合观察美国耶稣会公共信仰；教会新闻、作者评论及祈祷栏目应分开使用。",
+      "sources": [
+        {
+          "url": "https://www.americamagazine.org/",
+          "read_scope": "首页栏目、播客和当期入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.americamagazine.org/about/",
+          "read_scope": "Jesuit Review定位及2026年11月当期导航",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.americamagazine.org/subscribe/",
+          "read_scope": "纸刊与无限数字访问权益",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有付费纸刊／数字访问，纸刊方案含数字权益；邮件与公开入口不等于全文免费。没有实际下单。",
+      "update_evidence": "实读官网当期导航为2026年11月；核查日2026-11-10。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "进一步核新闻与灵修邮件各自免费范围。"
+    },
+    {
+      "id": "la06",
+      "title": "Commonweal",
+      "kind": "评论杂志／公共议题／文学与艺术书评",
+      "tradition": "美国独立、平信徒主持的天主教刊物",
+      "description": "1924年创办，讨论信仰、公共事务和艺术；不宜当作每日灵修刊物或官方教会训导。",
+      "value": "适合观察平信徒天主教知识生活，尤其信仰与文化争论；也须辨别评论与事实。",
+      "sources": [
+        {
+          "url": "https://www.commonwealmagazine.org/",
+          "read_scope": "首页栏目",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.commonwealmagazine.org/about",
+          "read_scope": "独立平信徒定位、历史及机构资助方式",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.commonwealmagazine.org/subscribe",
+          "read_scope": "实际跳转订购页；数字及纸刊方案、促销与续费区别、邮件入口",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "纸刊和数字访问付费，另有邮件入口。订购页促销与自动续费金额不同；本清单不把促销报价当持续成本。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核当前刊期与免费文章配额；专门查中文授权译介。"
+    },
+    {
+      "id": "la07",
+      "title": "Plough",
+      "kind": "季刊／文化与灵修文章／公共信仰／邮件通讯",
+      "tradition": "源自Bruderhof共同体、重视登山宝训；作者跨宗派",
+      "description": "由1920年创立、现设纽约州Walden的Plough Publishing House出版；兼有英国与澳大利亚机构。",
+      "value": "适合共同生活、非暴力、工作与信仰及文学阅读；其共同体传统为解读编辑选择的重要背景。",
+      "sources": [
+        {
+          "url": "https://www.plough.com/",
+          "read_scope": "首页与栏目",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.plough.com/about-us",
+          "read_scope": "Bruderhof背景、创立历史及美国所在地",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.plough.com/subscribe",
+          "read_scope": "数字、纸刊加数字及会员方案、无限网站访问权益",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有免费通讯入口，但无限网站阅读列为付费权益；数字、纸刊加数字及会员方案须区别。纸刊为季刊，不应沿旧印象称全站免费。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 订阅页说明季刊／每年4期。",
+      "chinese_status": "本轮定向检索site.plough.com Chinese 中文未确认官方中文频道；未穷检中文图书和授权译介。",
+      "next": "核最新刊期，另查具体中文书目，不把未检得视为无出版。"
+    },
+    {
+      "id": "la08",
+      "title": "The Gospel Coalition (TGC)",
+      "kind": "网络文章／圣经与神学普及／牧养资源／书评／邮件通讯",
+      "tradition": "美国起源的改革宗福音派牧者与教会联盟",
+      "description": "官网以信仰告白及神学异象作为联盟基础，内容分圣经、神学、教会、文化与生活等。",
+      "value": "适合牧养和系统性神学普及；一般网站文章不等于同行评审论文，也不代表所有福音派。",
+      "sources": [
+        {
+          "url": "https://www.thegospelcoalition.org/",
+          "read_scope": "栏目及官方简繁中文链接",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.thegospelcoalition.org/about/",
+          "read_scope": "改革宗联盟定位与信仰文件入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.thegospelcoalition.org/newsletters/",
+          "read_scope": "Daily、Weekly、Pastor、Savor等频率及登记表",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.tgcchinese.org/",
+          "read_scope": "实际中文首页、简繁语言菜单及文章分类",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "公开文章入口与邮件登记可免费使用；本次未购买或核完图书、课程及活动等另列产品的价格。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 邮件页明确Daily工作日、Weekly每周、Savor每月等不同频率。",
+      "chinese_status": "已实读官方简体中文站，英文和中文站均链接正體中文；有文章、问答、书评等，不假定全部英文同步翻译。",
+      "next": "对照具体中英文章确认译者和授权说明；学术期刊Themelios若另收录应单列。"
+    },
+    {
+      "id": "la09",
+      "title": "Mere Orthodoxy",
+      "kind": "网络长文／季刊／播客／Substack入口",
+      "tradition": "美国新教思想与文化评论，重视经典基督教传统",
+      "description": "围绕信仰、德性、知识及公共文化写作，含Mere Fidelity播客、季刊与会员社区。",
+      "value": "适合较长篇的文化神学论证与思想讨论；论证质量须逐篇判断，不把经典正统自我定位当学术认证。",
+      "sources": [
+        {
+          "url": "https://mereorthodoxy.com/",
+          "read_scope": "文章、期刊、播客、Substack与RSS入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://mereorthodoxy.com/about/",
+          "read_scope": "使命及编辑介绍",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://mereorthodoxy.com/membership/",
+          "read_scope": "会员年费、季刊、档案及社区权益",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有公开网络内容；会员方案本次页面为100美元／年，含季刊及档案等，另有终身方案。Substack是否拥有同等权益待核，价格可能变化。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 会员页说明季刊。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核最新期刊日期及Substack免费／付费与网站会员关系。"
+    },
+    {
+      "id": "la10",
+      "title": "Baptist News Global",
+      "kind": "新闻网站／分析／意见／聚合新闻",
+      "tradition": "美国独立浸信会背景、普世教会取向",
+      "description": "读者支持的独立媒体，继承Associated Baptist Press与Religious Herald传统；网站分别标注News、Opinion、Analysis、Curated。",
+      "value": "可补浸信会公共生活视角；使用时保留栏目标签，聚合报道需要追到原始媒体。",
+      "sources": [
+        {
+          "url": "https://baptistnews.com/",
+          "read_scope": "首页栏目及新闻入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://baptistnews.com/more/about/",
+          "read_scope": "历史、读者资助及Baptist／ecumenical自述",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "实际访问首页及机构页无需付费；有捐助模式，但没有穷尽测试文章付费墙。猜测的newsletter路径访问失败，邮件收费与正式登记路径待核。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "从当前首页重新定位正式邮件登记链接；抽查报道原始来源及最近日期。"
+    },
+    {
+      "id": "la11",
+      "title": "Public Orthodoxy",
+      "kind": "研究中心公共写作网站／神学与时事评论",
+      "tradition": "美国Fordham大学东正教研究中心；跨东正教辖区、普世讨论",
+      "description": "2015年创设，以可读的公共文章连接研究者与公众；官网明确不同于中心的同行评审期刊。",
+      "value": "适合了解东正教内部多元公共讨论；不能把文章当某宗主教区官方立场或自动视为同行评审成果。",
+      "sources": [
+        {
+          "url": "https://publicorthodoxy.org/",
+          "read_scope": "首页最新文章、日期及语言菜单",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://publicorthodoxy.org/about/",
+          "read_scope": "Fordham归属、2015年创设、与学术期刊区别和非辖区机关说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "实际首页与机构介绍公开可读；本轮未发现其付费阅读方案，未穷检其他中心出版物或邮件权益。",
+      "update_evidence": "首页实见Mother Agapia文章The Living Stones of the Holy Land标注2026-11-02；访问2026-11-10，不将此等同核完所有更新。",
+      "chinese_status": "当前实读菜单为英语、希腊语、俄语、乌克兰语，未见中文入口；未穷检独立中文译介。",
+      "next": "核邮件登记和不同语言是否同文同步；学术期刊须单独评价。"
+    },
+    {
+      "id": "la12",
+      "title": "Mockingbird (Mbird)",
+      "kind": "博客／杂志／播客／文化与灵修写作",
+      "tradition": "美国宗教改革取向，受路德与英国宗教改革影响；无正式宗派隶属",
+      "description": "以日常生活、流行文化、文学、心理和幽默讨论律法与福音、十字架和恩典；FAQ明示没有正式宗派隶属。",
+      "value": "适合生活经验与福音的随笔阅读；心理或新闻论述仍须另查专业证据，不宜作为纯新闻或学术期刊。",
+      "sources": [
+        {
+          "url": "https://mbird.com/",
+          "read_scope": "首页文章、日期、杂志和播客入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://mbird.com/new-here/",
+          "read_scope": "正确的机构介绍页；连接信仰与日常生活",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://mbird.com/faq/",
+          "read_scope": "主题、神学倾向及宗派隶属说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "博客及FAQ实际公开可读，杂志通过商店提供；本次未核杂志订阅的当前价格和邮寄条款，也未实际订阅。",
+      "update_evidence": "首页实见Stephen H. Chen、Melvin Woods文章日期11.9.26，即2026-11-09；杂志Issue 29预订条目标注11.3.26。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核杂志与邮件方案；不要因作者背景把机构误标为圣公会官方媒体。"
+    }
+  ],
+  "search_log": [
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.christianitytoday.com about evangelical subscription newsletters"
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.christiancentury.org about us subscribe newsletter"
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.sojo.net about sojourners mission subscribe"
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.firstthings.com about subscription newsletter"
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.mbird.com \"What is Mockingbird\" \"About\""
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.commonwealmagazine.org \"About Commonweal\""
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.baptistnews.com \"About\" \"independent\""
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.plough.com \"Chinese\" 中文"
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.christianitytoday.com \"简体中文\""
+    },
+    {
+      "date": "2026-11-10",
+      "timezone": "Asia/Shanghai",
+      "query": "site.thegospelcoalition.org chinese"
+    }
+  ],
+  "access_log_notes": [
+    {
+      "url": "https://religionnews.com/",
+      "result": "官网首页及about尝试返回403，本轮未将RNS计入完成项，改核Baptist News Global。"
+    },
+    {
+      "url": "https://www.commonwealmagazine.org/about-us",
+      "result": "网页工具不能访问，改用实际成功的/about。"
+    },
+    {
+      "url": "https://mbird.com/about/",
+      "result": "跳到2022文章而非机构介绍，改用/new-here/和/faq/。"
+    },
+    {
+      "url": "https://mbird.com/",
+      "result": "urllib尝试403；网页工具成功实读，记录依据后者。"
+    },
+    {
+      "url": "https://baptistnews.com/newsletter/",
+      "result": "猜测路径经网页工具访问失败，不据此推论没有邮件服务。"
+    }
+  ],
+  "limitations": [
+    "除明确列出的CT、TGC与Plough外，未对各媒体逐项专门做中文出版检索。",
+    "更新证据不齐的条目标记待核；邮件频率或季刊频率不能代替实际最新发布日期。",
+    "订阅信息仅反映实读页面，不保证不同国家、促销或后续续费价格不变。"
+  ]
+}

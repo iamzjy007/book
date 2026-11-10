@@ -1,0 +1,162 @@
+{
+  "date_beijing": "2026-11-10",
+  "queries": [
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.wheaton.edu Billy Graham archives digital collections",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.library.yale.edu Day Missions digital collections",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.moody.edu archives digital",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.pitts.emory.edu digital collections",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.library.princeton.edu theological seminary digital collections",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.hartfordinternational.edu library archives digital collections",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.history.pcusa.org digital collections",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.congregationallibrary.org digital archives",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.asburyseminary.edu archives digital collections",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query": "site.library.duke.edu religion digital collections sermons",
+      "engine": "connected web search",
+      "followup": "实际打开URL与读到范围见items.sources"
+    }
+  ],
+  "opened_pages": [
+    {
+      "url": "https://www.wheaton.edu/about-wheaton/museums-library-and-collections/wheaton-archives-and-special-collections/research/billy-graham-resources",
+      "read_scope": "实读馆藏6、8、15、74、285、590等概述与目录入口",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://exhibits.archives.wheaton.edu/",
+      "read_scope": "实读数字展览范围与CSV/JSON元数据下载说明",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://library.moody.edu/collections/archives/moody/",
+      "read_scope": "实读Correspondence、Sermon Envelopes、Newspaper Clippings及部分书信数字化说明",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://library.moody.edu/collections/archives/policies-and-guidelines/",
+      "read_scope": "实读阅览登记、不外借、复制与再利用条件",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://collections.carli.illinois.edu/digital/collection/mbi_dlm",
+      "read_scope": "实际打开仅返回Javascript Required；未核影像",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://web.library.yale.edu/divinity/day-missions-collection-periodicals-listing",
+      "read_scope": "实读扫描缺期说明及全部期刊题名列表",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://www.hartfordinternational.edu/library/archives-and-special-collections",
+      "read_scope": "实读档案年代、CTDA/CAO/旧找寻指南三类入口及预约条款",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://ctdigitalarchive.org/node/3947356",
+      "read_scope": "实际打开失败：工具报告not accessible；数字化内容范围依据母机构说明",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://digital.pitts.emory.edu/s/digital-collections/item-set/7333",
+      "read_scope": "实读馆藏范围、finding aid链接及1792年Sarah书信等列表元数据；未读信件正文",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://commons.ptsem.edu/faq",
+      "read_scope": "实读开放访问、权利筛选、未数字化原因、OCR误差及图像PDF说明",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://pcusa.org/historical-society/collections/digital-collections",
+      "read_scope": "实读Pearl范围、主题、Cannon项目及2023年RNS资助说明",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://congregationallibrary.org/nehh",
+      "read_scope": "实读年代、文献种类、转录覆盖及原藏地分散说明",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://place.asburyseminary.edu/specialcollections/",
+      "read_scope": "实读开放范围及具体馆藏清单",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://place.asburyseminary.edu/limitedaccess/",
+      "read_scope": "实读Limited Access仅本校师生员工访问的规定",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://divinity.duke.edu/news/duke-chapel-recordings-collection?language=en",
+      "read_scope": "实读馆藏范围、选取标准及元数据/转录工作说明",
+      "accessed_beijing": "2026-11-10"
+    },
+    {
+      "url": "https://chapel.duke.edu/livingtradition/",
+      "read_scope": "实际打开无可读行；搜索摘要范围1942—2002，与另文1946—2002不同，待核对象时间覆盖",
+      "accessed_beijing": "2026-11-10"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://ctdigitalarchive.org/node/3947356",
+      "result": "web open not accessible"
+    },
+    {
+      "url": "https://collections.carli.illinois.edu/digital/collection/mbi_dlm",
+      "result": "仅Javascript Required，无对象展开"
+    },
+    {
+      "url": "https://chapel.duke.edu/livingtradition/",
+      "result": "web open无可读行；改核神学院新闻页"
+    }
+  ],
+  "full_text_downloads": 0
+}

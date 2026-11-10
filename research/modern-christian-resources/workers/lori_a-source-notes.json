@@ -1,0 +1,187 @@
+{
+  "worker": "lori_a",
+  "date": "2026-11-10",
+  "note": "官网实读范围索引；详细分析见lori_a.json，不保留长篇网页原文。",
+  "sources": [
+    {
+      "url": "https://www.christianitytoday.com/",
+      "read_scope": "首页栏目导航",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.christianitytoday.com/about/",
+      "read_scope": "创办历史、机构定位",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.christianitytoday.com/newsletters/",
+      "read_scope": "免费邮件栏目、频率、三项Substack迁移提示、简繁中文入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://zh.christianitytoday.com/",
+      "read_scope": "官方中文首页及文章入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.christiancentury.org/",
+      "read_scope": "首页栏目和文章标题",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.christiancentury.org/about",
+      "read_scope": "机构立场及历史",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.christiancentury.org/signup/subscribe-24-95",
+      "read_scope": "订阅页数字版及纸刊含数字权限的入门方案",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://sojo.net/",
+      "read_scope": "新闻、Living Faith等栏目及通讯入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://sojo.net/about/about-sojourners",
+      "read_scope": "使命与社会议题定位",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.sojo.net/magazine/subscribe",
+      "read_scope": "纸刊加数字、数字年／月方案及全文权益",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://firstthings.com/",
+      "read_scope": "主题及作者栏目",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://firstthings.com/about/",
+      "read_scope": "出版机构、Neuhaus与创刊历史、纽约办公信息",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://firstthings.com/subscribe/",
+      "read_scope": "数字／综合方案、档案权限及每年10期说明",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.americamagazine.org/",
+      "read_scope": "首页栏目、播客和当期入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.americamagazine.org/about/",
+      "read_scope": "Jesuit Review定位及2026年11月当期导航",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.americamagazine.org/subscribe/",
+      "read_scope": "纸刊与无限数字访问权益",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.commonwealmagazine.org/",
+      "read_scope": "首页栏目",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.commonwealmagazine.org/about",
+      "read_scope": "独立平信徒定位、历史及机构资助方式",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.commonwealmagazine.org/subscribe",
+      "read_scope": "实际跳转订购页；数字及纸刊方案、促销与续费区别、邮件入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.plough.com/",
+      "read_scope": "首页与栏目",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.plough.com/about-us",
+      "read_scope": "Bruderhof背景、创立历史及美国所在地",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.plough.com/subscribe",
+      "read_scope": "数字、纸刊加数字及会员方案、无限网站访问权益",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.thegospelcoalition.org/",
+      "read_scope": "栏目及官方简繁中文链接",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.thegospelcoalition.org/about/",
+      "read_scope": "改革宗联盟定位与信仰文件入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.thegospelcoalition.org/newsletters/",
+      "read_scope": "Daily、Weekly、Pastor、Savor等频率及登记表",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://www.tgcchinese.org/",
+      "read_scope": "实际中文首页、简繁语言菜单及文章分类",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://mereorthodoxy.com/",
+      "read_scope": "文章、期刊、播客、Substack与RSS入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://mereorthodoxy.com/about/",
+      "read_scope": "使命及编辑介绍",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://mereorthodoxy.com/membership/",
+      "read_scope": "会员年费、季刊、档案及社区权益",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://baptistnews.com/",
+      "read_scope": "首页栏目及新闻入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://baptistnews.com/more/about/",
+      "read_scope": "历史、读者资助及Baptist／ecumenical自述",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://publicorthodoxy.org/",
+      "read_scope": "首页最新文章、日期及语言菜单",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://publicorthodoxy.org/about/",
+      "read_scope": "Fordham归属、2015年创设、与学术期刊区别和非辖区机关说明",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://mbird.com/",
+      "read_scope": "首页文章、日期、杂志和播客入口",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://mbird.com/new-here/",
+      "read_scope": "正确的机构介绍页；连接信仰与日常生活",
+      "accessed": "2026-11-10"
+    },
+    {
+      "url": "https://mbird.com/faq/",
+      "read_scope": "主题、神学倾向及宗派隶属说明",
+      "accessed": "2026-11-10"
+    }
+  ]
+}

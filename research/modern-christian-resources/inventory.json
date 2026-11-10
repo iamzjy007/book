@@ -1,0 +1,18 @@
+{
+  "baseline": "9e185826ef5824af97d69cc63ad40016450e352b",
+  "existing_root_files": [
+    "DYDI_Messages_001-020_zh.txt",
+    "DYDI_Messages_Declaring_Your_Destiny.epub",
+    "DYDI_Messages_Declaring_Your_Destiny.txt",
+    "DYDI_Messages_Declaring_Your_Destiny_zh.epub",
+    "DYDI_Messages_Declaring_Your_Destiny_zh.txt",
+    "Daily_Words_The_Lords_Glory_with_Lori.epub",
+    "Daily_Words_The_Lords_Glory_with_Lori.txt",
+    "Daily_Words_The_Lords_Glory_with_Lori_zh.epub",
+    "Daily_Words_The_Lords_Glory_with_Lori_zh.txt",
+    "sample.txt",
+    "sample_zh.txt",
+    "translate.txt"
+  ],
+  "limits": "文件名初查；DYDI与Lori已有原文/中文成品，不能当本轮新发现。作者/事工关系仍需核正式来源。"
+}

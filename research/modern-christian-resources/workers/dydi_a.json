@@ -1,0 +1,271 @@
+{
+  "worker": "dydi_a",
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "status": "第一阶段12项完成；非穷尽",
+  "scope": "美国英文近现代基督教作品/作者入口，含明确标示的移民与跨北美边界；按内容价值初筛，不按畅销或获奖宣称权威。",
+  "items": [
+    {
+      "id": "willard-renovation",
+      "title": "Dallas Willard — Renovation of the Heart（心灵的重塑）",
+      "kind": "单著",
+      "tradition": "美国新教灵命塑造；跨宗派读者",
+      "description": "讨论整个人的品格如何在门徒生活中转变。官方书目列NavPress2002原版，另有英国修改版与配套课程，不能混为同版。",
+      "value": "适合细察行为习惯、内心及群体关系之间的联系；不将作者营销赞誉作为效果证据。",
+      "sources": [
+        {
+          "url": "https://dwillard.org/resources/books/renovation-of-the-heart",
+          "read_scope": "作者事工书目、2002版本、简介与Chinese链接",
+          "actually_read": true,
+          "date": "2026-11-10"
+        },
+        {
+          "url": "https://www.cc-us.org/shop/c9789622086753/",
+          "read_scope": "实际读中英对应题名、作者译者、出版社日期ISBN",
+          "actually_read": true
+        }
+      ],
+      "chinese_status": "已核中文：证主美国书店列《心靈的重塑》，谭晴译，天道书楼，2006-7，ISBN9789622086753；这是香港出版社版本线索，不证明大陆正式出版。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    },
+    {
+      "id": "foster-celebration",
+      "title": "Richard J. Foster — Celebration of Discipline（属灵操练礼赞）",
+      "kind": "单著",
+      "tradition": "美国贵格会背景、跨宗派灵修",
+      "description": "按不同维度组织基督徒操练；作者机构同时列独立学习指南与DVD课程，后者不等于原书。",
+      "value": "提供操练主题索引；各传统对默想等做法的解释须分别理解。",
+      "sources": [
+        {
+          "url": "https://renovare.org/books/celebration-of-discipline",
+          "read_scope": "书目简介、作者、独立附属课程链接",
+          "actually_read": true,
+          "date": "2026-11-10"
+        },
+        {
+          "url": "https://shop.campus.org.tw/ProductDetails.aspx?productID=000146647",
+          "read_scope": "中英对应题名、作者、出版社及停版状态",
+          "actually_read": true
+        }
+      ],
+      "chinese_status": "已核中文：校园书店列《屬靈操練禮讚》，Richard J. Foster、学生福音团契出版社；旧商品标停版，不能说当前可买，也不能把台湾书店当出版社所在地证据。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    },
+    {
+      "id": "merton-new-seeds",
+      "title": "Thomas Merton — New Seeds of Contemplation",
+      "kind": "修订扩充的默想集",
+      "tradition": "美国熙笃会严格派/天主教默观",
+      "description": "New Seeds是1962对1949 Seeds的修订扩充，现代版本另有Sue Monk Kidd导言；不是她合著。",
+      "value": "兼具文学与默观价值，需保留修院和天主教语境。",
+      "sources": [
+        {
+          "url": "https://www.ndbooks.com/book/new-seeds-of-contemplation/",
+          "read_scope": "作者、书目及内容介绍；网站Fiction分类不据以判定为小说",
+          "actually_read": true,
+          "date": "2026-11-10"
+        },
+        {
+          "url": "https://www.ndbooks.com/book/seeds-of-contemplation/",
+          "read_scope": "1949/1962版本沿革及including Chinese说明",
+          "actually_read": true
+        }
+      ],
+      "chinese_status": "出版社另页明说有中文翻译；本轮未核中文题名、译者或版次。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    },
+    {
+      "id": "norris-cloister",
+      "title": "Kathleen Norris — The Cloister Walk",
+      "kind": "灵修回忆/随笔",
+      "tradition": "美国新教作者接触本笃会生活",
+      "description": "写一位有新教背景的已婚女性在明尼苏达St John’s Abbey两次居住的体验。",
+      "value": "适合比较诗歌、读经、祈祷节律与日常生活，不是修院正式会规。",
+      "sources": [
+        {
+          "url": "https://www.penguinrandomhouse.com/books/348284/the-cloister-walk-by-kathleen-norris/",
+          "read_scope": "出版社简介及1997平装版本资料；不把此日期当首版",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    },
+    {
+      "id": "peterson-angles",
+      "title": "Eugene H. Peterson — Working the Angles: The Shape of Pastoral Integrity",
+      "kind": "牧职灵修单著",
+      "tradition": "美国新教牧养传统",
+      "description": "以祈祷、读经、属灵指导讨论牧职的核心，批评只看经营绩效的教会观。",
+      "value": "可用于教牧反省；三项结构是一位作者的论证而非所有传统的唯一牧职定义。",
+      "sources": [
+        {
+          "url": "https://www.eerdmans.com/9781467419185/working-the-angles/",
+          "read_scope": "出版社标题、副题、作者、简介及版本信息",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    },
+    {
+      "id": "thurman-disinherited",
+      "title": "Howard Thurman — Jesus and the Disinherited",
+      "kind": "神学/社会灵修单著",
+      "tradition": "美国黑人基督教及非暴力传统",
+      "description": "从贫困和被剥夺权利者的处境理解耶稣与福音。",
+      "value": "为个人灵修加入受压迫者经验；并非单纯的生活成功指南。",
+      "sources": [
+        {
+          "url": "https://www.beacon.org/Jesus-and-the-Disinherited-P2449.aspx",
+          "read_scope": "出版社作者、简介及1996平装资料；未把重印年当初版",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    },
+    {
+      "id": "nouwen-return",
+      "title": "Henri Nouwen — The Return of the Prodigal Son: A Story of Homecoming",
+      "kind": "艺术与圣经默想单著",
+      "tradition": "荷兰出生天主教司铎；在美国任教、加拿大晚年服事，属跨大西洋/北美传播边界",
+      "description": "围绕伦勃朗画作及浪子比喻的个人反思。",
+      "value": "可连接图像阅读与灵修；不是严格逐节释经，也不是伦勃朗著作。",
+      "sources": [
+        {
+          "url": "https://www.henrinouwen.org/books/the-return-of-the-prodigal-son?rq=prodigal+son",
+          "read_scope": "作者官方协会书目与副题、画作关系",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "已尝试“浪子回頭 盧雲 校園”查询，本轮未取得可核中文版本页，不能据常见中文译名断言具体版次。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    },
+    {
+      "id": "kelly-testament",
+      "title": "Thomas R. Kelly — A Testament of Devotion（机构引文入口）",
+      "kind": "作者/作品资源入口，非完整书目定版",
+      "tradition": "美国贵格会；本入口由英国贵格会收录",
+      "description": "贵格会Faith & Practice2.10标明美国俄亥俄出生作者，并引用1941文本。",
+      "value": "可从内在敬拜与回应神的主题切入；官方节引不等于完整书。",
+      "sources": [
+        {
+          "url": "https://qfp.quaker.org.uk/passage/2-10/",
+          "read_scope": "作者身份、作品称谓与节引出处；没有下载全文",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "先查完整书目、身后编集沿革和章节范围，再查中文版本。"
+    },
+    {
+      "id": "cone-cross",
+      "title": "James H. Cone — The Cross and the Lynching Tree",
+      "kind": "神学单著",
+      "tradition": "美国黑人解放神学；与非裔教会历史相关",
+      "description": "将十字架与美国私刑历史放在一起反思。",
+      "value": "适合研究信仰、种族暴力和希望之间的张力；不是全部黑人基督教观点的总代表。",
+      "sources": [
+        {
+          "url": "https://orbisbooks.com/collections/great-reading-for-black-history-month/products/the-cross-and-the-lynching-tree",
+          "read_scope": "出版社作品题名、ISBN及内容/书评区；不以奖项作论证正确性的证明",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    },
+    {
+      "id": "gonzalez-author",
+      "title": "Justo L. González — 作者与历史神学书目入口",
+      "kind": "作者资源入口",
+      "tradition": "联合卫理公会；美国拉丁裔神学教育网络",
+      "description": "IVP作者页列其三卷History of Christian Thought及两卷The Story of Christianity，并说明其任教和拉丁裔教育工作。",
+      "value": "可用来建立教会历史读书路径；两套历史著作不能并成同书，也不能把作者页所有推荐书都算其著作。",
+      "sources": [
+        {
+          "url": "https://shop.ivpress.com/justo-l-gonzalez",
+          "read_scope": "作者传记、宗派及两套著作的名称/卷数",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "分别核两套书各版及中文书名对应；本条不以作者页代替逐卷书目。"
+    },
+    {
+      "id": "day-author",
+      "title": "Dorothy Day — Catholic Worker作者资源入口",
+      "kind": "作者/运动机构入口",
+      "tradition": "美国天主教工人运动；非暴力与款待传统",
+      "description": "机构介绍Day与Peter Maurin创办运动和报纸，提供作者生平与写作研究方向。",
+      "value": "有助连接祈祷、社会行动与共同生活；网站后人介绍不自动算Day原著。",
+      "sources": [
+        {
+          "url": "https://catholicworker.org/dorothy-day/",
+          "read_scope": "机构作者生平、报纸与运动介绍；未读取或下载全部文章",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "由机构索引定位The Long Loneliness等具体原作及日记/后人选集，分开登记，再核中文版本。"
+    },
+    {
+      "id": "schmemann-life",
+      "title": "Alexander Schmemann — For the Life of the World",
+      "kind": "礼仪神学单著",
+      "tradition": "美国东正教神学院背景；移民神学传统",
+      "description": "通过东正教礼仪理解生活与世界，讨论世俗主义。2018新版本增加导言、注释和索引。",
+      "value": "可为新教和天主教读者提供明确不同的礼仪神学视角，不抹平教义差别。",
+      "sources": [
+        {
+          "url": "https://svspress.com/for-the-life-of-the-world-new-edition/",
+          "read_scope": "SVS官方页2018版本、作者任职及作品介绍；未将用户评论中的缺音频段落当已验证事实",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    }
+  ],
+  "queries": [
+    "site.ivpress.com renovation of the heart Dallas Willard",
+    "site.harpercollins.com celebration discipline Richard Foster",
+    "site.navarrepress.com Thomas Merton new seeds contemplation",
+    "site.avemariapress.com the cloister walk Kathleen Norris",
+    "site.ivpress.com life together Bonhoeffer",
+    "site.eerdmans.com working the angles Eugene Peterson",
+    "site.beacon.org Jesus Disinherited Howard Thurman",
+    "site.harpercollins.com Dorothy Day Long Loneliness",
+    "site.henrinouwen.org return prodigal son book",
+    "site.fgcquaker.org Thomas Kelly Testament Devotion",
+    "site.orbisbooks.com cross lynching tree Cone",
+    "site.harpercollins.com Justo Gonzalez story Christianity",
+    "site.barbarabrowntaylor.com altar world",
+    "Dorothy Day Long Loneliness publisher HarperOne official",
+    "Barbara Brown Taylor An Altar in the World official book",
+    "Justo Gonzalez Story Christianity publisher official",
+    "Richard Foster Celebration Discipline renovare book",
+    "site.svspress.com for the life of the world Schmemann",
+    "屬靈操練禮讚 出版 校園",
+    "浪子回頭 盧雲 校園",
+    "心靈的重塑 魏樂德"
+  ],
+  "access_failures": [
+    {
+      "url": "https://www.barbarabrowntaylor.com/",
+      "result": "web工具不可访问，本轮未立条"
+    }
+  ],
+  "limitations": "只实读机构介绍/书目元数据；未下载全书、未翻译。大部分中文条目未查，未知不是未出版；销售状态随时变化。",
+  "next_cursor": "从中文版本核对开始：先Willard/Foster具体版次、Merton中文书名与新旧集区别，再补其余9项中文查询；Kelly完整编集书目待核。"
+}
