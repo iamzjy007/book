@@ -50,8 +50,39 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:21.648832+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"De bono mortis\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22De+bono+mortis%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 2,
+        "candidates": [
+          {
+            "creator": "Ambrosius",
+            "identifier": "csel-32-1",
+            "title": "AMBROSE OF MILAN. Exameron. De paradiso. De Cain et Abel. De Noe. De Abraham. De Isaac. De bono mortis",
+            "year": 1897
+          },
+          {
+            "creator": "William theodore wiesner,",
+            "identifier": "sambrosiidebonom0000will",
+            "title": "S.ambrosii de bono mortis",
+            "year": 1970
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
+        "final_url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
+        "result": "HTTP 200；Seven Exegetical Works  (9780813200651): Saint Ambrose and Michael P. McHugh - BiblioVault。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:21.648832+00:00",
+    "discovery_pass_done": true
   }
 }

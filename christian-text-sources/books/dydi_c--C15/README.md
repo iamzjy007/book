@@ -20,6 +20,9 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:46:54.835270+00:00：title:("Matean Ołbergutʿean") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://litpress.org/Products/E8489/From-the-Depths-of-the-Heart — HTTP 200；From the Depths of the Heart: Annotated Translation of the Prayers of St. Gregory of Narek: Abraham Terian: 9780814684894: litpress.org : eBook。本检查不确认正文。
+- 2026-11-10：https://armunicat.nla.am/cgi-bin/koha/opac-detail.pl?biblionumber=1838496&query_desc= — HTTP 403；Just a moment...；实际为人机验证，不是资源内容。。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

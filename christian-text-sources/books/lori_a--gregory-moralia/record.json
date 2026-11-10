@@ -55,8 +55,48 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:26.906606+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Moralia in Iob\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Moralia+in+Iob%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 7,
+        "candidates": [
+          {
+            "creator": "Gregory the Great",
+            "identifier": "RenFrag.25_20",
+            "title": "Smith Med/Ren Frag. 25, Moralia in Iob",
+            "year": 1140
+          },
+          {
+            "creator": "Gregory the Great",
+            "identifier": "RenFrag.20_20",
+            "title": "Smith Med/Ren Frag. 20, Moralia in Iob",
+            "year": 1300
+          },
+          {
+            "creator": [
+              "Grzegorz I (papież",
+              "ok. 540-604)"
+            ],
+            "identifier": "jbc.bj.uj.edu.pl.NDIGORP058713",
+            "title": "Tabula super Moralia Gregorii Magni super librum Iob. Moralia sive Expositio in Iob;Moralia in Iob",
+            "year": 1400
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://litpress.org/Products/CS249H",
+        "final_url": "https://litpress.org/Products/CS249H",
+        "result": "HTTP 200；Moral Reflections on the Book of Job, Volume 1 : Preface and Books 1-5: Gregory the Great; Translated by Brian Kerns, OCSO; Introduction by Mark DelCogliano : 9780879071493: litpress.org : Hardcover with Dust Jacket。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:26.906606+00:00",
+    "discovery_pass_done": true
   }
 }

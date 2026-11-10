@@ -52,8 +52,52 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:43.938299+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Kǝbra nagaśt\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22K%C7%9Dbra+naga%C5%9Bt%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 6,
+        "candidates": [
+          {
+            "identifier": "kebranagastqueen0000unse",
+            "title": "The Kebra nagast : the Queen of Sheba and her only son Menyelek",
+            "year": 2007
+          },
+          {
+            "creator": [
+              "Anonymous",
+              "E. A. Wallis Budge, translator"
+            ],
+            "identifier": "budge-1922-kebra-nagast",
+            "title": "Kebra Nagast [The Glory of Kings]"
+          },
+          {
+            "creator": "E. A. Wallis Budge",
+            "identifier": "kebranagast",
+            "title": "Kebra Nagast: The Queen of Sheba and Her Only Son Menyelek"
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/7639171",
+        "final_url": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/7639171",
+        "result": "HTTP 200；Verifying your browser；实际为人机验证，不是资源内容。。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://betamasaheft.awhamburg.de/works/LIT1709Kebran/main",
+        "final_url": "https://betamasaheft.awhamburg.de/works/LIT1709Kebran/main",
+        "result": "HTTP 200；。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:43.938299+00:00",
+    "discovery_pass_done": true
   }
 }

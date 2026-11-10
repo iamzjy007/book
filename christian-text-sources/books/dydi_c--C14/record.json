@@ -52,8 +52,33 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:53.538511+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Eznik of Kołb, Ełc ałandocʿ\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Eznik+of+Ko%C5%82b%2C+E%C5%82c+a%C5%82andoc%CA%BF%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 0,
+        "candidates": [],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.iranicaonline.org/articles/eznik-of-kolb/",
+        "final_url": "https://www.iranicaonline.org/articles/eznik-of-kolb/",
+        "result": "HTTP 200；EZNIK OF KOŁB - Encyclopaedia Iranica。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.finna.fi/Record/fikka.1217299?lng=en-gb",
+        "final_url": "https://www.finna.fi/Record/fikka.1217299?lng=en-gb",
+        "result": "HTTP 200；A treatise On God written in Armenian by Eznik of Kolb (floruit c. 430-c. 450) | The National Library | Finna.fi。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:53.538511+00:00",
+    "discovery_pass_done": true
   }
 }

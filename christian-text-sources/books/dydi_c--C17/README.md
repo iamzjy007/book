@@ -20,6 +20,10 @@ Giorgi Merchule；唯一存本11/12世纪的具体定年有异说
 
 ## 检索记录与断点
 
+- 2026-11-10T05:46:56.868562+00:00：title:("Life of Grigol Khandzteli") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://www.georgianencyclopedia.ge/ka/form_eng/558 — HTTP 200；Giorgi Merchule。本检查不确认正文。
+- 2026-11-10：https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/view/9578 — HTTP 200；New Russian Translation of “The Life of Grigol Khandzteli”
+							| The Kartvelologist  - A Bilingual  Peer-reviewed, Academic Journal of  Georgian Studies。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

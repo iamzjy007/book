@@ -89,8 +89,69 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:58.588646+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Praktikos\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Praktikos%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 7,
+        "candidates": [
+          {
+            "creator": [
+              "Šopauskas, Jonas (1900–1968)",
+              "Lašas, Vladas (1892-1966)"
+            ],
+            "identifier": "lasas-sopauskis-fiziologijos-praktikos-darbai-1932",
+            "title": "Fiziologijos praktikos darbai: vadovėlis studentams",
+            "year": 1932
+          },
+          {
+            "creator": "Butkevičius, Filypas (1887–1934)",
+            "identifier": "butkevicius-ivadas-i-analitine-chemija-1932",
+            "title": "Įvadas į analitinę chemiją: praktikos darbų vadovėlis",
+            "year": 1932
+          },
+          {
+            "creator": "Regelis, Konstantinas / Regel, Constantin von (1890-1970",
+            "identifier": "regel.-1926-gamtos",
+            "title": "Gamtos mokslas ir praktika (iš botanikos mokslo praktikos)",
+            "year": 1926
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.ldysinger.com/Evagrius/01_introd.htm",
+        "final_url": "https://www.ldysinger.com/Evagrius/01_introd.htm",
+        "result": "HTTP 200；Evagrius-Introduction。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.ldysinger.com/Evagrius/00b_nav.htm",
+        "final_url": "https://www.ldysinger.com/Evagrius/00b_nav.htm",
+        "result": "HTTP 200；Evagrius - navigation。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://svspress.com/praktikos-and-chapters-on-prayer-the/",
+        "final_url": "https://svspress.com/praktikos-and-chapters-on-prayer-the/",
+        "result": "HTTP 200；Praktikos and Chapters on Prayer, The。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://svspress.com/evagrius-of-pontus-the-greek-ascetic-corpus/",
+        "final_url": "https://svspress.com/evagrius-of-pontus-the-greek-ascetic-corpus/",
+        "result": "HTTP 200；Evagrius of Pontus: The Greek Ascetic Corpus。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:58.588646+00:00",
+    "discovery_pass_done": true
   }
 }

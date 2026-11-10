@@ -21,6 +21,10 @@ Brakke现代译本2009不是古原作日期；500余条情境不宜直接当作�
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:02.773239+00:00：title:("Antirrhetikos") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://sourceschretiennes.org/collection/SC-640 — HTTP 200；SC 640 – Évagre le Pontique, Antirrhétique | Sources Chrétiennes。本检查不确认正文。
+- 2026-11-10：https://litpress.org/Products/CS229P/Evagrius-of-Pontus-Talking-Back — HTTP 200；Talking Back: A Monastic Handbook for Combating Demons: Evagrius of Pontus; Translated with an Introduction by David Brakke : 9780879073299: litpress.org : Paperback。本检查不确认正文。
+- 2026-11-10：https://www.ldysinger.com/Evagrius/00b_nav.htm — HTTP 200；Evagrius - navigation。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

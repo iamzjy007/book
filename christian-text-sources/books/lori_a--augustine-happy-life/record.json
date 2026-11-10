@@ -55,8 +55,46 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:23.528879+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"De beata vita\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22De+beata+vita%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 6,
+        "candidates": [
+          {
+            "creator": [
+              "Augustine, Saint, Bishop of Hippo",
+              "Knöll, Pius"
+            ],
+            "identifier": "sanctiaureliaugu00auguuoft",
+            "title": "Sancti Aureli Augustini Contra academicos libri tres. De beata vita liber unus. De ordine libri duo",
+            "year": 1922
+          },
+          {
+            "identifier": "augustin-sfantul-opera-omnia-vol.-6-de-magistro-de-beata-vita-limba-romana",
+            "title": "Augustin, Sfantul Opera Omnia ( Vol. 6) De Magistro De Beata Vita (limba Romana)"
+          },
+          {
+            "creator": "Gregorius : Nyssenus santo (santo)",
+            "identifier": "bub_gb_Dkm2oDAqNTsC",
+            "title": "Gregorii Nyseni Conciones quinque de oratione Domini. Eiusdem conciones octo de beata vita comparanda. Omnes a Petro Galesinio conuersae. His adiuncta est ad eodem Nyseni vita e veteribus auctoribus collecta",
+            "year": 1563
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://yalebooks.yale.edu/book/9780300238525/on-the-happy-life/",
+        "final_url": "https://yalebooks.yale.edu/book/9780300238525/on-the-happy-life/",
+        "result": "HTTP 200；On the Happy Life。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:23.528879+00:00",
+    "discovery_pass_done": true
   }
 }

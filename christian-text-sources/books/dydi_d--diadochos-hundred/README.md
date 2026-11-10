@@ -20,6 +20,9 @@ Complete Works现代书不只这100章；与其他归名作品应分立，避免
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:12.685918+00:00：title:("On Spiritual Knowledge and Discrimination:100 Texts") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://litpress.org/Products/CS239P/Following-the-Footsteps-of-the-Invisible — HTTP 200；Following the Footsteps of the Invisible: The Complete Works of Diadochus of Photikë: Cliff Ermatinger: 9780879072391: litpress.org : Paperback。本检查不确认正文。
+- 2026-11-10：https://en.wikipedia.org/wiki/Philokalia — HTTP 200；Philokalia - Wikipedia。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

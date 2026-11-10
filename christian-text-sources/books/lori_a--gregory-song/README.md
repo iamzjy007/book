@@ -19,6 +19,8 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:27.701817+00:00：title:("Expositio in Canticum canticorum") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://litpress.org/Products/CS244E/On-the-Song-of-Songs — HTTP 200；On the Song of Songs: : Gregory the Great; Translation and Introduction by Mark DelCogliano : 9780879077693: litpress.org : eBook。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

@@ -101,8 +101,60 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:15.608470+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Klimax\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Klimax%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 23,
+        "candidates": [
+          {
+            "identifier": "manualzilla-id-5732529",
+            "title": "Klimax DS installation manual"
+          },
+          {
+            "identifier": "gov.uscourts.cod.240756",
+            "title": "Geiger v. KLIMAX, LLC"
+          },
+          {
+            "identifier": "manualzilla-id-7274199",
+            "title": "Linn Klimax DS MP3 Player User Manual"
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://svspress.com/the-ladder-of-divine-ascent/",
+        "final_url": "https://svspress.com/the-ladder-of-divine-ascent/",
+        "result": "HTTP 200；The Ladder of Divine Ascent。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.paulistpress.com/bookproduct/2330-4-john-climacus/",
+        "final_url": "https://www.paulistpress.com/bookproduct/2330-4-john-climacus/",
+        "result": "HTTP 200；John Climacus - Paulist Press。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://iscs.org.hk/Common/Reader/Channel/ShowPage.jsp?Charset=gb2312&Cid=159&Pid=16&Version=0&page=0",
+        "final_url": "https://iscs.org.hk/Common/Reader/Channel/ShowPage.jsp?Charset=gb2312&Cid=159&Pid=16&Version=0&page=0",
+        "result": "HTTP 200；。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://orthodoxbookshop.asia/zh-hans/product/the-ladder-of-divine-ascent_2",
+        "final_url": "https://orthodoxbookshop.asia/zh-hans/product/the-ladder-of-divine-ascent_2",
+        "result": "HTTP 200；神聖攀登的天梯  — 东正教书店。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:15.608470+00:00",
+    "discovery_pass_done": true
   }
 }

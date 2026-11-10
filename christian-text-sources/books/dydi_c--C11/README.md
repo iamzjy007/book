@@ -19,6 +19,8 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:46:45.540470+00:00：title:("Fǝtḥa Nägäśt") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://scholarship.law.columbia.edu/books/180/ — HTTP 200；"The Fetha Nagast/The Law of the Kings" by Paulos Tzadua and Peter L. Strauss。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

@@ -65,8 +65,44 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:08.595863+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Catecheses\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Catecheses%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 18,
+        "candidates": [
+          {
+            "identifier": "jbc.bj.uj.edu.pl.NDIGSTDR002044",
+            "title": "Catecheses Sive Institvtiones Dvodecim. De Septem Sacramentis, & Sacrificio Missæ, & de funeribus Exequiis",
+            "year": 1570
+          },
+          {
+            "creator": "Cyrillus : Hierosolymitanus santo (santo)",
+            "identifier": "bub_gb__ZC9y-Jt-CYC",
+            "title": "Sancti Cyrilli archiepiscopi Hierosolymitani catecheses mystagogicæ quarta et quinta De corpore et sanguine domini et de sacra liturgia et communione Cyrillus Hierosolymitanus",
+            "year": 1861
+          },
+          {
+            "creator": "Cyrillus : Hierosolymitanus santo (santo)",
+            "identifier": "bub_gb_lzVIR0pd2ooC",
+            "title": "S. patris nostri Cyrilli archiepiscopi Hierosolymorum, Catecheses illuminatorum Hierosolymis 18. et 5. mystagogicae. Quae tempore quidem Hieronymi & Damasceni extabant, ... nunc primùm Latinitate donatae in lucem prodeunt. Ioanne Grodecio ... interprete",
+            "year": 1564
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://svspress.com/symeon-the-new-theologian-the-discourses/",
+        "final_url": "https://svspress.com/symeon-the-new-theologian-the-discourses/",
+        "result": "HTTP 200；Symeon the New Theologian: The Discourses。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:08.595863+00:00",
+    "discovery_pass_done": true
   }
 }

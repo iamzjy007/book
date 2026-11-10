@@ -20,6 +20,10 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:46:44.754905+00:00：title:("Senodos") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://cae.ethiopicist.com/works/2317/ — HTTP 200；CAe 2317 | 
+      Mazgaba Maṣāḥəft。本检查不确认正文。
+- 2026-11-10：https://iris.uniroma1.it/handle/11573/1693213 — HTTP 200；The Critical Edition of the Ethiopic Senodos. Some Preliminary Remarks。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

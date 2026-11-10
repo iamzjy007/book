@@ -81,8 +81,62 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:00.568532+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Kephalaia Gnostika\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Kephalaia+Gnostika%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 3,
+        "candidates": [
+          {
+            "creator": "Diadochus, Bishop of Photice, 5th cent",
+            "identifier": "diadochouepiskop00diad",
+            "title": "[Diadochou episkopou Photikes tes Epeirou tou Illyrikou kephalaia gnostika 100.] [microform] Sancti Diadochi episcopi Photicensis De perfectione spirituali capita centum;",
+            "year": 1912
+          },
+          {
+            "creator": [
+              "Proclus, ca. 410-485",
+              "Weis, J. E. (Johannes Evangelista), b. 1870"
+            ],
+            "identifier": "diadochouepiskop00procuoft",
+            "title": "Diadochou Episkopou Photikes tes Epeirou tou Illyrikou kephalaia gnostika r' = Sancti Diadochi episcopi Photicensis De perfectione spirituali capita centum : textus graeci ad fidem codd. mss. editionem criticam et quasi principem curavit",
+            "year": 1912
+          },
+          {
+            "creator": "Evagrius, Ponticus, 345?-399, author",
+            "identifier": "evagriuskephalai0000evag",
+            "title": "Evagrius, Kephalaia gnostika : a new translation of the unreformed text from the Syriac",
+            "year": 2015
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://openlibrary.org/books/OL28411845M.json",
+        "final_url": "https://openlibrary.org/books/OL28411845M.json",
+        "result": "HTTP 200；。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.ldysinger.com/Evagrius/00b_nav.htm",
+        "final_url": "https://www.ldysinger.com/Evagrius/00b_nav.htm",
+        "result": "HTTP 200；Evagrius - navigation。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.ldysinger.com/Evagrius/01_introd.htm",
+        "final_url": "https://www.ldysinger.com/Evagrius/01_introd.htm",
+        "result": "HTTP 200；Evagrius-Introduction。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:00.568532+00:00",
+    "discovery_pass_done": true
   }
 }

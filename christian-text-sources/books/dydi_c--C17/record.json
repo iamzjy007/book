@@ -51,8 +51,33 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:56.868562+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Life of Grigol Khandzteli\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Life+of+Grigol+Khandzteli%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 0,
+        "candidates": [],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.georgianencyclopedia.ge/ka/form_eng/558",
+        "final_url": "https://www.georgianencyclopedia.ge/ka/form_eng/558",
+        "result": "HTTP 200；Giorgi Merchule。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/view/9578",
+        "final_url": "https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/view/9578",
+        "result": "HTTP 200；New Russian Translation of “The Life of Grigol Khandzteli”\n\t\t\t\t\t\t\t| The Kartvelologist  - A Bilingual  Peer-reviewed, Academic Journal of  Georgian Studies。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:56.868562+00:00",
+    "discovery_pass_done": true
   }
 }

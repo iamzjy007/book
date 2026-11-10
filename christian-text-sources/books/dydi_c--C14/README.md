@@ -20,6 +20,9 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:46:53.538511+00:00：title:("Eznik of Kołb, Ełc ałandocʿ") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://www.iranicaonline.org/articles/eznik-of-kolb/ — HTTP 200；EZNIK OF KOŁB - Encyclopaedia Iranica。本检查不确认正文。
+- 2026-11-10：https://www.finna.fi/Record/fikka.1217299?lng=en-gb — HTTP 200；A treatise On God written in Armenian by Eznik of Kolb (floruit c. 430-c. 450) | The National Library | Finna.fi。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

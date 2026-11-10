@@ -23,6 +23,12 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:01.630471+00:00：title:("De oratione") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://sourceschretiennes.org/collection/SC-589 — HTTP 200；SC 589 – Évagre le Pontique, Chapitres sur la prière | Sources Chrétiennes。本检查不确认正文。
+- 2026-11-10：https://svspress.com/praktikos-and-chapters-on-prayer-the/ — HTTP 200；Praktikos and Chapters on Prayer, The。本检查不确认正文。
+- 2026-11-10：https://svspress.com/evagrius-of-pontus-the-greek-ascetic-corpus/ — HTTP 200；Evagrius of Pontus: The Greek Ascetic Corpus。本检查不确认正文。
+- 2026-11-10：https://www.ldysinger.com/Evagrius/01_introd.htm — HTTP 200；Evagrius-Introduction。本检查不确认正文。
+- 2026-11-10：https://en.wikipedia.org/wiki/Philokalia — HTTP 200；Philokalia - Wikipedia。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 
