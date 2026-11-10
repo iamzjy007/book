@@ -56,11 +56,31 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先查完整书目、身后编集沿革和章节范围，再查中文版本。",
-    "updated_at": "2026-11-10T09:17:54.987210+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "英国贵格会Qf&p 2.10：Kelly原作节引",
+        "url": "https://qfp.quaker.org.uk/passage/2-10/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Quaker faith & practice第五版，2.10，署Thomas R Kelly，1941；介绍称引Testament of devotion",
+        "coverage": "该书两段节引，附作者生平；未取得全书五篇及编者材料",
+        "verification": "实际读到两段原作文字与署名年；不是单纯书介，也不足以确认全书具体版页。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:21:47.057847+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://qfp.quaker.org.uk/passage/2-10/",
+        "result": "实际打开第五版2.10，确认有具名节引；仅计partial。"
+      }
+    ],
+    "next_action": "追A Testament of Devotion完整五篇、Douglas Steere编辑／传记与正式电子书；先确定ISBN和正文结构。",
+    "updated_at": "2026-11-10T09:21:47.057840+00:00",
+    "discovery_pass_done": true
   }
 }

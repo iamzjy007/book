@@ -56,11 +56,48 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-    "updated_at": "2026-11-10T09:17:54.986871+00:00"
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Henri Nouwen Society原书与阅读指南",
+        "url": "https://www.henrinouwen.org/books/the-return-of-the-prodigal-son?rq=prodigal+son",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "作者协会列Random House 1992；另有有声书、出版社及Discussion Guide链接",
+        "coverage": "书介及辅助资料入口；不是原书正文",
+        "verification": "实读原题、副题、出版说明，追Visit the publisher website；未把导读当原作。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      },
+      {
+        "label": "PRH/Doubleday纸本及电子书渠道",
+        "url": "https://www.penguinrandomhouse.com/books/122877/the-return-of-the-prodigal-son-by-henri-jm-nouwen/",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "纸本ISBN 9780385473071；具体格式以页面所选版本为准",
+        "coverage": "书目与正式购买渠道，当前可读取页面未见原书excerpt",
+        "verification": "从作者协会外链实际打开，核产品身份，未取得章节正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:21:47.057533+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.henrinouwen.org/books/the-return-of-the-prodigal-son?rq=prodigal+son",
+        "result": "实读书介与版本、中文存在说明，追出版社外链。"
+      },
+      {
+        "date": "2026-11-10T09:21:47.057535+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.penguinrandomhouse.com/books/122877/the-return-of-the-prodigal-son-by-henri-jm-nouwen/",
+        "result": "实际打开出版社书目，未见可读取Excerpt。"
+      }
+    ],
+    "next_action": "通过正式电子书或馆藏按ISBN取得完整书；作者协会Discussion Guide作为辅助资料另核，中文已出版线索仍保留。",
+    "updated_at": "2026-11-10T09:21:47.057526+00:00",
+    "discovery_pass_done": true
   }
 }

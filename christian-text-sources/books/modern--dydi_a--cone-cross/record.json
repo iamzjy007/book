@@ -56,11 +56,31 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-    "updated_at": "2026-11-10T09:17:54.987395+00:00"
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Orbis官方书目与购买入口",
+        "url": "https://orbisbooks.com/collections/great-reading-for-black-history-month/products/the-cross-and-the-lynching-tree",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "James H. Cone；Orbis，纸本ISBN 9781626980051，220页",
+        "coverage": "书介、书评与购买入口；未核章节正文",
+        "verification": "实际打开题名、ISBN和页数，未把书评／宣传引文视为原书样章。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:21:47.058216+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://orbisbooks.com/collections/great-reading-for-black-history-month/products/the-cross-and-the-lynching-tree",
+        "result": "沿原研究出处实读，核版本，未取得原书正文。"
+      }
+    ],
+    "next_action": "以ISBN追出版社电子书、馆藏借阅或授权原书样章，记录具体章节与页码。",
+    "updated_at": "2026-11-10T09:21:47.058210+00:00",
+    "discovery_pass_done": true
   }
 }

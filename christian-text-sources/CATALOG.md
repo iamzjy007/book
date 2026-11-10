@@ -119,11 +119,11 @@
 | 113 | [Thomas Merton — New Seeds of Contemplation](books/modern--dydi_a--merton-new-seeds/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
 | 114 | [Kathleen Norris — The Cloister Walk](books/modern--dydi_a--norris-cloister/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
 | 115 | [Eugene H. Peterson — Working the Angles: The Shape of Pastoral Integrity](books/modern--dydi_a--peterson-angles/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
-| 116 | [Howard Thurman — Jesus and the Disinherited](books/modern--dydi_a--thurman-disinherited/README.md) | 待检索 | 见档案中的既有出处 |
-| 117 | [Henri Nouwen — The Return of the Prodigal Son: A Story of Homecoming](books/modern--dydi_a--nouwen-return/README.md) | 待检索 | 见档案中的既有出处 |
-| 118 | [Thomas R. Kelly — A Testament of Devotion（机构引文入口）](books/modern--dydi_a--kelly-testament/README.md) | 待检索 | 见档案中的既有出处 |
-| 119 | [James H. Cone — The Cross and the Lynching Tree](books/modern--dydi_a--cone-cross/README.md) | 待检索 | 见档案中的既有出处 |
-| 120 | [Justo L. González — 作者与历史神学书目入口](books/modern--dydi_a--gonzalez-author/README.md) | 待检索 | 见档案中的既有出处 |
+| 116 | [Howard Thurman — Jesus and the Disinherited](books/modern--dydi_a--thurman-disinherited/README.md) | 部分正文可直达 | [CAC刊载原书第3—5页节选](https://cac.org/daily-meditations/why-are-you-here-2019-07-25/) |
+| 117 | [Henri Nouwen — The Return of the Prodigal Son: A Story of Homecoming](books/modern--dydi_a--nouwen-return/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 118 | [Thomas R. Kelly — A Testament of Devotion（机构引文入口）](books/modern--dydi_a--kelly-testament/README.md) | 部分正文可直达 | [英国贵格会Qf&p 2.10：Kelly原作节引](https://qfp.quaker.org.uk/passage/2-10/) |
+| 119 | [James H. Cone — The Cross and the Lynching Tree](books/modern--dydi_a--cone-cross/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 120 | [Justo L. González — 作者与历史神学书目入口](books/modern--dydi_a--gonzalez-author/README.md) | 部分正文可直达 | [Logos/Biblia：思想史卷III限量预览](https://biblia.com/api/plugins/embeddedpreview?historybuttons=false&layout=minimal&navigationbox=false&resourceName=LLS%3A9781426721939&sharebutton=false) |
 | 121 | [Dorothy Day — Catholic Worker作者资源入口](books/modern--dydi_a--day-author/README.md) | 待检索 | 见档案中的既有出处 |
 | 122 | [Alexander Schmemann — For the Life of the World](books/modern--dydi_a--schmemann-life/README.md) | 待检索 | 见档案中的既有出处 |
 | 123 | [Desiring God / John Piper](books/modern--dydi_b--B01/README.md) | 待检索 | 见档案中的既有出处 |

@@ -1,53 +1,8 @@
 {
   "schema": 1,
   "active_scope": "modern-christian-resources",
-  "next_task": "modern:dydi_a:thurman-disinherited",
+  "next_task": "modern:dydi_a:day-author",
   "tasks": [
-    {
-      "id": "modern:dydi_a:thurman-disinherited",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--thurman-disinherited/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 116,
-      "updated_at": "2026-11-10T09:17:54.986690+00:00"
-    },
-    {
-      "id": "modern:dydi_a:nouwen-return",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--nouwen-return/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 117,
-      "updated_at": "2026-11-10T09:17:54.986871+00:00"
-    },
-    {
-      "id": "modern:dydi_a:kelly-testament",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先查完整书目、身后编集沿革和章节范围，再查中文版本。",
-      "record_path": "books/modern--dydi_a--kelly-testament/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 118,
-      "updated_at": "2026-11-10T09:17:54.987210+00:00"
-    },
-    {
-      "id": "modern:dydi_a:cone-cross",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--cone-cross/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 119,
-      "updated_at": "2026-11-10T09:17:54.987395+00:00"
-    },
-    {
-      "id": "modern:dydi_a:gonzalez-author",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：分别核两套书各版及中文书名对应；本条不以作者页代替逐卷书目。",
-      "record_path": "books/modern--dydi_a--gonzalez-author/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 120,
-      "updated_at": "2026-11-10T09:17:54.987628+00:00"
-    },
     {
       "id": "modern:dydi_a:day-author",
       "status": "queued",
@@ -587,6 +542,51 @@
       "scope": "modern-christian-resources",
       "sequence": 115,
       "updated_at": "2026-11-10T09:20:39.488011+00:00"
+    },
+    {
+      "id": "modern:dydi_a:thurman-disinherited",
+      "status": "partial_online",
+      "next_action": "按ISBN取得完整阅读版；节选可继续对读，但须核1976版与1996版页码对应。",
+      "record_path": "books/modern--dydi_a--thurman-disinherited/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 116,
+      "updated_at": "2026-11-10T09:21:47.057127+00:00"
+    },
+    {
+      "id": "modern:dydi_a:nouwen-return",
+      "status": "metadata_only",
+      "next_action": "通过正式电子书或馆藏按ISBN取得完整书；作者协会Discussion Guide作为辅助资料另核，中文已出版线索仍保留。",
+      "record_path": "books/modern--dydi_a--nouwen-return/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 117,
+      "updated_at": "2026-11-10T09:21:47.057526+00:00"
+    },
+    {
+      "id": "modern:dydi_a:kelly-testament",
+      "status": "partial_online",
+      "next_action": "追A Testament of Devotion完整五篇、Douglas Steere编辑／传记与正式电子书；先确定ISBN和正文结构。",
+      "record_path": "books/modern--dydi_a--kelly-testament/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 118,
+      "updated_at": "2026-11-10T09:21:47.057840+00:00"
+    },
+    {
+      "id": "modern:dydi_a:cone-cross",
+      "status": "metadata_only",
+      "next_action": "以ISBN追出版社电子书、馆藏借阅或授权原书样章，记录具体章节与页码。",
+      "record_path": "books/modern--dydi_a--cone-cross/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 119,
+      "updated_at": "2026-11-10T09:21:47.058210+00:00"
+    },
+    {
+      "id": "modern:dydi_a:gonzalez-author",
+      "status": "partial_online",
+      "next_action": "分别取得思想史三卷及The Story of Christianity两卷阅读版；已定位2014一卷修订本，不混同；卷III预览只含前置材料。",
+      "record_path": "books/modern--dydi_a--gonzalez-author/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 120,
+      "updated_at": "2026-11-10T09:21:47.058460+00:00"
     },
     {
       "id": "dydi_a:east-aphrahat",

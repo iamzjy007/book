@@ -56,11 +56,48 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-    "updated_at": "2026-11-10T09:17:54.986690+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Beacon 1996纸本及正规购买渠道",
+        "url": "https://www.beacon.org/Jesus-and-the-Disinherited-P2449.aspx",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "Beacon Press，1996-11-30，ISBN 9780807010297，124页",
+        "coverage": "版源与购买；Excerpt标签为空",
+        "verification": "实读书目并检查HTML，Excerpt与目录div无内容，未当试读。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      },
+      {
+        "label": "CAC刊载原书第3—5页节选",
+        "url": "https://cac.org/daily-meditations/why-are-you-here-2019-07-25/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "CAC 2019-07-25日修，注明引Howard Thurman，Beacon 1976版pp.3—5",
+        "coverage": "原书一段节选，含栏目导语；不是全书，也不是1996版页码依据",
+        "verification": "实际打开正文与底部书目引用；引文和Richard Rohr栏目框架须区分。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:21:47.057151+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.beacon.org/Jesus-and-the-Disinherited-P2449.aspx",
+        "result": "点击Excerpt后内容为空，检查HTML确认。"
+      },
+      {
+        "date": "2026-11-10T09:21:47.057155+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://cac.org/daily-meditations/why-are-you-here-2019-07-25/",
+        "result": "原题+excerpt检索后打开实际节选，核1976版pp.3—5引用。"
+      }
+    ],
+    "next_action": "按ISBN取得完整阅读版；节选可继续对读，但须核1976版与1996版页码对应。",
+    "updated_at": "2026-11-10T09:21:47.057127+00:00",
+    "discovery_pass_done": true
   }
 }

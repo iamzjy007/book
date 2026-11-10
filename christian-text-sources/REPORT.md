@@ -1,16 +1,16 @@
 # 内容获取阶段报告
 
-更新：2026-11-10T09:20:39.571919+00:00。共175条档案，当前执行来源：modern-christian-resources。
+更新：2026-11-10T09:21:47.148527+00:00。共175条档案，当前执行来源：modern-christian-resources。
 
 | 状态 | 条数 |
 |---|---|
-| 部分正文可直达 | 27 |
+| 部分正文可直达 | 30 |
 | 正文可直达 | 51 |
-| 仅书目／版本入口 | 20 |
+| 仅书目／版本入口 | 22 |
 | 扫描入口待核 | 11 |
 | 访问受阻 | 4 |
 | 待版本复核 | 2 |
-| 待检索 | 60 |
+| 待检索 | 55 |
 
 ## 按研究来源统计
 
@@ -22,11 +22,11 @@
 | ancient-christian-literature | 扫描入口待核 | 11 |
 | ancient-christian-literature | 访问受阻 | 4 |
 | ancient-christian-literature | 待版本复核 | 2 |
-| modern-christian-resources | 部分正文可直达 | 1 |
-| modern-christian-resources | 仅书目／版本入口 | 4 |
-| modern-christian-resources | 待检索 | 60 |
+| modern-christian-resources | 部分正文可直达 | 4 |
+| modern-christian-resources | 仅书目／版本入口 | 6 |
+| modern-christian-resources | 待检索 | 55 |
 
-下一任务：`modern:dydi_a:thurman-disinherited`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
+下一任务：`modern:dydi_a:day-author`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
 
 ## 统计边界
 
@@ -48,3 +48,4 @@
 - [008-initial-access-pass-complete.md](sessions/008-initial-access-pass-complete.md)
 - [009-modern-import.md](sessions/009-modern-import.md)
 - [010-modern-books-1.md](sessions/010-modern-books-1.md)
+- [011-modern-books-2.md](sessions/011-modern-books-2.md)
