@@ -62,9 +62,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Ambigua ad Thomam俄译",
+        "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/ambigvy_k_Fome/",
+        "kind": "partial",
+        "language": "俄语",
+        "edition": "Azbyka旧网络俄译；具体译者／印本下一轮核",
+        "coverage": "只代表致多马部分，另有致约翰部分",
+        "verification": "实际打开正文，不能由此声称全部Ambigua齐全。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "Ambigua ad Iohannem俄译",
+        "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/ambigvy_k_Ioannu/",
+        "kind": "partial",
+        "language": "俄语",
+        "edition": "Azbyka所标1—97，编号与现代校本关系待核",
+        "coverage": "致约翰部分；现代合卷另一链接要求登录",
+        "verification": "实际正文可读；合卷页面虽HTTP200实际为登录页。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:06.657927+00:00",
@@ -100,10 +123,16 @@
         "url": "https://openlibrary.org/works/OL21069997W/editions.json",
         "final_url": "https://openlibrary.org/works/OL21069997W/editions.json",
         "result": "HTTP 200；。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Azbyka Maximus Ambigua Thomam Iohannem full text",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:06.657927+00:00",
+    "next_action": "核两分部所据印本、编号和完整性；现代合卷要求登录，不将其HTTP200算取得。",
+    "updated_at": "2026-11-10T06:02:14.822413+00:00",
     "discovery_pass_done": true
   }
 }

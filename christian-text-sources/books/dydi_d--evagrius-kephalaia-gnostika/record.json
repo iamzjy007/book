@@ -78,9 +78,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "属灵知识章集六百则教学对照页",
+        "url": "https://www.ldysinger.com/Evagrius/02_Gno-Keph/10_KG_1-6_04-12-2020.htm",
+        "kind": "partial",
+        "language": "英语／希腊语片段及叙利亚传统",
+        "edition": "Luke Dysinger教学整理；版本须逐栏核",
+        "coverage": "页面列六卷导航；本轮读取第一至第三卷开头，未确认六卷所有条目齐全",
+        "verification": "实际正文已打开；不因1—6文件名自动升级整部已齐。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:00.568532+00:00",
@@ -133,10 +145,16 @@
         "url": "https://www.ldysinger.com/Evagrius/01_introd.htm",
         "final_url": "https://www.ldysinger.com/Evagrius/01_introd.htm",
         "result": "HTTP 200；Evagrius-Introduction。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Dysinger Kephalaia Gnostica → main frame",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:00.568532+00:00",
+    "next_action": "核六百则的各章缺漏、S1/S2及回译标志，追Guillaumont PO28.1原校本。",
+    "updated_at": "2026-11-10T06:02:14.817772+00:00",
     "discovery_pass_done": true
   }
 }

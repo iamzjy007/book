@@ -70,9 +70,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "属灵分辨一百章俄译",
+        "url": "https://azbyka.ru/otechnik/Diadoh_Fotiki/slovo-asketicheskoe-sto-glav/",
+        "kind": "fulltext",
+        "language": "俄语",
+        "edition": "Azbyka所载Слово аскетическое. Сто глав；具体印本见页末Источник，下一轮补完整书目",
+        "coverage": "对应百章修行论，另有俄文Philokalia版本须分开",
+        "verification": "实际打开正文与章号；不是有关作者的研究文章。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:12.685918+00:00",
@@ -96,10 +108,16 @@
         "url": "https://en.wikipedia.org/wiki/Philokalia",
         "final_url": "https://en.wikipedia.org/wiki/Philokalia",
         "result": "HTTP 200；Philokalia - Wikipedia。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Diadochos Sto glav full text; Azbyka Diadoh Fotiki",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:12.685918+00:00",
+    "next_action": "补希腊原文及该俄译编译者／印年，核100章与10定义边界。",
+    "updated_at": "2026-11-10T06:02:14.823961+00:00",
     "discovery_pass_done": true
   }
 }

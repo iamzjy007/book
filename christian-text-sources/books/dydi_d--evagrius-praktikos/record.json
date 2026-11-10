@@ -86,9 +86,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "修行论：希腊文与Dysinger英译",
+        "url": "https://www.ldysinger.com/Evagrius/01_Prak/01_Praktikos.htm",
+        "kind": "fulltext",
+        "language": "希腊语／英语",
+        "edition": "Luke Dysinger译；希腊文据SC171／PG40",
+        "coverage": "序言及Praktikos百章；最终逐章比对待做",
+        "verification": "实际打开正文、编译说明及章号；确认网页不只是框架导航。",
+        "accessed": "2026-11-10",
+        "rights_note": "Dysinger页面明确英译置于公共领域；希腊电子文本的校本细节另核。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:58.588646+00:00",
@@ -148,10 +160,16 @@
         "url": "https://svspress.com/evagrius-of-pontus-the-greek-ascetic-corpus/",
         "final_url": "https://svspress.com/evagrius-of-pontus-the-greek-ascetic-corpus/",
         "result": "HTTP 200；Evagrius of Pontus: The Greek Ascetic Corpus。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "修行论：希腊文与Dysinger英译；从原研究Dysinger框架追main正文文件",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:58.588646+00:00",
+    "next_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
+    "updated_at": "2026-11-10T06:02:14.815376+00:00",
     "discovery_pass_done": true
   }
 }

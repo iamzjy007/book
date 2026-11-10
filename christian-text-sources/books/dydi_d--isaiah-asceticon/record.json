@@ -70,9 +70,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "以赛亚修行讲论俄译",
+        "url": "https://azbyka.ru/otechnik/Isajja/duhovno-nravstvennye-slova/",
+        "kind": "fulltext",
+        "language": "俄语",
+        "edition": "Paisii Velichkovsky译传的网络版；具体印本下一轮核",
+        "coverage": "作者目录列29篇，正文按篇编排；不同Greek/Syriac Asceticon修订本另核",
+        "verification": "实际打开正文，作者目录确认本书等同Asceticon传统。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:13.118809+00:00",
@@ -109,10 +121,16 @@
         "url": "https://en.wikipedia.org/wiki/Philokalia",
         "final_url": "https://en.wikipedia.org/wiki/Philokalia",
         "result": "HTTP 200；Philokalia - Wikipedia。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Isaiah Asceticon full text; Azbyka Isajja",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:13.118809+00:00",
+    "next_action": "核29篇与原希腊修订本关系、版源印年，并补叙利亚传本差异。",
+    "updated_at": "2026-11-10T06:02:14.824433+00:00",
     "discovery_pass_done": true
   }
 }

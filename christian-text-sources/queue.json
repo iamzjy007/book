@@ -1,127 +1,7 @@
 {
   "schema": 1,
-  "next_task": "dydi_d:evagrius-praktikos",
+  "next_task": "lori_a:cassian-conferences",
   "tasks": [
-    {
-      "id": "dydi_d:evagrius-praktikos",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--evagrius-praktikos/record.json"
-    },
-    {
-      "id": "dydi_d:evagrius-gnostikos",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--evagrius-gnostikos/record.json"
-    },
-    {
-      "id": "dydi_d:evagrius-kephalaia-gnostika",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--evagrius-kephalaia-gnostika/record.json"
-    },
-    {
-      "id": "dydi_d:evagrius-on-prayer",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--evagrius-on-prayer/record.json"
-    },
-    {
-      "id": "dydi_d:evagrius-antirrhetikos",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--evagrius-antirrhetikos/record.json"
-    },
-    {
-      "id": "dydi_d:maximus-love",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--maximus-love/record.json"
-    },
-    {
-      "id": "dydi_d:maximus-ascetic-life",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--maximus-ascetic-life/record.json"
-    },
-    {
-      "id": "dydi_d:maximus-mystagogy",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--maximus-mystagogy/record.json"
-    },
-    {
-      "id": "dydi_d:maximus-ambigua",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--maximus-ambigua/record.json"
-    },
-    {
-      "id": "dydi_d:maximus-thalassios",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--maximus-thalassios/record.json"
-    },
-    {
-      "id": "dydi_d:symeon-catecheses",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--symeon-catecheses/record.json"
-    },
-    {
-      "id": "dydi_d:symeon-ethical",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--symeon-ethical/record.json"
-    },
-    {
-      "id": "dydi_d:symeon-hymns",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--symeon-hymns/record.json"
-    },
-    {
-      "id": "dydi_d:diadochos-hundred",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--diadochos-hundred/record.json"
-    },
-    {
-      "id": "dydi_d:isaiah-asceticon",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--isaiah-asceticon/record.json"
-    },
-    {
-      "id": "dydi_d:hesychios-watchfulness",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--hesychios-watchfulness/record.json"
-    },
-    {
-      "id": "dydi_d:mark-spiritual-law",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--mark-spiritual-law/record.json"
-    },
-    {
-      "id": "dydi_d:climacus-ladder",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--climacus-ladder/record.json"
-    },
-    {
-      "id": "dydi_d:palamas-triads",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--palamas-triads/record.json"
-    },
-    {
-      "id": "dydi_d:nikephoros-watchfulness",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_d--nikephoros-watchfulness/record.json"
-    },
     {
       "id": "lori_a:cassian-conferences",
       "status": "queued",
@@ -589,6 +469,42 @@
       "status": "metadata_only",
       "next_action": "优先找Marr1911格鲁吉亚原文与俄译扫描，再核Peeters拉丁版；不要把Lang155—165页节述当全部原作。",
       "record_path": "books/dydi_c--C17/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-kephalaia-gnostika",
+      "status": "partial_online",
+      "next_action": "核六百则的各章缺漏、S1/S2及回译标志，追Guillaumont PO28.1原校本。",
+      "record_path": "books/dydi_d--evagrius-kephalaia-gnostika/record.json"
+    },
+    {
+      "id": "dydi_d:evagrius-antirrhetikos",
+      "status": "partial_online",
+      "next_action": "补原叙利亚语／Frankenberg旧版及全部条号；不把选篇当完整Talking Back。",
+      "record_path": "books/dydi_d--evagrius-antirrhetikos/record.json"
+    },
+    {
+      "id": "dydi_d:maximus-ambigua",
+      "status": "partial_online",
+      "next_action": "核两分部所据印本、编号和完整性；现代合卷要求登录，不将其HTTP200算取得。",
+      "record_path": "books/dydi_d--maximus-ambigua/record.json"
+    },
+    {
+      "id": "dydi_d:symeon-catecheses",
+      "status": "metadata_only",
+      "next_action": "追EPE或SC96/104/113教理讲道集，打开正文；Theophan的Slova编排可能不同，不能直接代替。",
+      "record_path": "books/dydi_d--symeon-catecheses/record.json"
+    },
+    {
+      "id": "dydi_d:symeon-hymns",
+      "status": "partial_online",
+      "next_action": "核首末首正文及全部60首，与现代希腊校本和SVS版所收篇目比较；不是原研究Terian等别本。",
+      "record_path": "books/dydi_d--symeon-hymns/record.json"
+    },
+    {
+      "id": "dydi_d:climacus-ladder",
+      "status": "partial_online",
+      "next_action": "逐阶核1—30及致牧者，补希腊原文和俄译印本；与Guigo修士天梯严格区分。",
+      "record_path": "books/dydi_d--climacus-ladder/record.json"
     }
   ]
 }

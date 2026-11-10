@@ -70,9 +70,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "帕拉马三组三论俄译",
+        "url": "https://azbyka.ru/otechnik/Grigorij_Palama/triady-v-zashhitu-svjashhenno-bezmolvstvujushhih/",
+        "kind": "fulltext",
+        "language": "俄语",
+        "edition": "Azbyka所载Триады в защиту священно-безмолвствующих；具体版次待核",
+        "coverage": "三个triads各三部分；网页含长篇正文和注释，非SVS英译选段",
+        "verification": "实际读取目录、第一组三部分及完整长页；未逐段校勘。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:16.651226+00:00",
@@ -96,10 +108,16 @@
         "url": "https://svspress.com/gregory-palamas-the-triads/",
         "final_url": "https://svspress.com/gregory-palamas-the-triads/",
         "result": "HTTP 200；Gregory Palamas: The Triads。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Palamas Triads full text; Azbyka Grigorij Palama",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:16.651226+00:00",
+    "next_action": "补希腊校本及此俄译者、出版年，核三组三论全篇与英文选译边界。",
+    "updated_at": "2026-11-10T06:02:14.826359+00:00",
     "discovery_pass_done": true
   }
 }

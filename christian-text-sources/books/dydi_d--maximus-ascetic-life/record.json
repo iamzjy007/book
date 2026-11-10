@@ -70,9 +70,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "修行生活俄译",
+        "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/slovo-o-podvizhnicheskoj-zhizni/",
+        "kind": "fulltext",
+        "language": "俄语（外文译本）",
+        "edition": "A. I. Sidorov，Избранные творения, Palomnik, Moscow2004",
+        "coverage": "对应Logos asketikos正文及注释",
+        "verification": "实际读取正文结构及页面Источник版源；未逐句与希腊校本比较。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:04.789958+00:00",
@@ -109,10 +121,16 @@
         "url": "https://svspress.com/four-hundred-chapters-on-love/",
         "final_url": "https://svspress.com/four-hundred-chapters-on-love/",
         "result": "HTTP 200；Four Hundred Chapters on Love。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Azbyka作者作品目录 → 具体正文和Источник；修行生活俄译",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:04.789958+00:00",
+    "next_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+    "updated_at": "2026-11-10T06:02:14.818983+00:00",
     "discovery_pass_done": true
   }
 }

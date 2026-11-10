@@ -98,9 +98,25 @@
     ]
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "神圣攀登的天梯俄译阅读器",
+        "url": "https://azbyka.ru/otechnik/Ioann_Lestvichnik/lestvitsa-ili-skrizhali-dukhovnye/",
+        "kind": "partial",
+        "language": "俄语",
+        "edition": "Azbyka所载Лествица；具体印本页末来源下一轮核",
+        "coverage": "导航含30阶与另附致牧者；抽到第30阶和致牧者，未逐阶核完",
+        "verification": "已打开目录及末段子页；网站36个页面包括书前，不等同36阶。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。",
+        "sample_urls": [
+          "https://azbyka.ru/otechnik/Ioann_Lestvichnik/lestvitsa-ili-skrizhali-dukhovnye/35",
+          "https://azbyka.ru/otechnik/Ioann_Lestvichnik/lestvitsa-ili-skrizhali-dukhovnye/36"
+        ]
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:15.608470+00:00",
@@ -151,10 +167,16 @@
         "url": "https://orthodoxbookshop.asia/zh-hans/product/the-ladder-of-divine-ascent_2",
         "final_url": "https://orthodoxbookshop.asia/zh-hans/product/the-ladder-of-divine-ascent_2",
         "result": "HTTP 200；神聖攀登的天梯  — 东正教书店。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Ladder Divine Ascent full text; Azbyka Ioann Lestvichnik",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:15.608470+00:00",
+    "next_action": "逐阶核1—30及致牧者，补希腊原文和俄译印本；与Guigo修士天梯严格区分。",
+    "updated_at": "2026-11-10T06:02:14.825423+00:00",
     "discovery_pass_done": true
   }
 }

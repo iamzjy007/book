@@ -62,9 +62,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "西面希腊文／现代希腊译文合集入口",
+        "url": "https://azbyka.ru/otechnik/Simeon_Novyj_Bogoslov/sochinenija-prp-simeona-novogo-bogoslova-na-grecheskom-jazyke/",
+        "kind": "edition_gateway",
+        "language": "古希腊语／现代希腊语",
+        "edition": "EPE系列西面作品卷A等；所含Catecheses范围待核",
+        "coverage": "目前只核到合集下载导航；不能算已读取教理讲道集正文",
+        "verification": "作者目录有作品分类；个别第18讲页实际提示尚待OCR。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:08.595863+00:00",
@@ -99,10 +111,16 @@
         "url": "https://svspress.com/symeon-the-new-theologian-the-discourses/",
         "final_url": "https://svspress.com/symeon-the-new-theologian-the-discourses/",
         "result": "HTTP 200；Symeon the New Theologian: The Discourses。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Symeon Catecheses Discourses full text; Azbyka Greek works",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:08.595863+00:00",
+    "next_action": "追EPE或SC96/104/113教理讲道集，打开正文；Theophan的Slova编排可能不同，不能直接代替。",
+    "updated_at": "2026-11-10T06:02:14.822817+00:00",
     "discovery_pass_done": true
   }
 }

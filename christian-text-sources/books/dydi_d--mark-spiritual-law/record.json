@@ -70,9 +70,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "属灵律法俄译正文",
+        "url": "https://azbyka.ru/otechnik/Mark_Podvizhnik/slovo-1-e-o-zakone-duhovnom/",
+        "kind": "fulltext",
+        "language": "俄语",
+        "edition": "Azbyka所载Слово1-е. О законе духовном；页内标希腊Περὶ νόμου πνευματικοῦ",
+        "coverage": "此版201条；原目录称200条，须对照不同编号和序言拆分，不能静默统一",
+        "verification": "已实读正文及网站201章说明，确为同题作品。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:14.566261+00:00",
@@ -96,10 +108,16 @@
         "url": "https://en.wikipedia.org/wiki/Philokalia",
         "final_url": "https://en.wikipedia.org/wiki/Philokalia",
         "result": "HTTP 200；Philokalia - Wikipedia。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Mark Spiritual Law full text; Azbyka Mark Podvizhnik",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:14.566261+00:00",
+    "next_action": "核201／200编号差异，取得希腊校本并记译者／印本。",
+    "updated_at": "2026-11-10T06:02:14.824903+00:00",
     "discovery_pass_done": true
   }
 }

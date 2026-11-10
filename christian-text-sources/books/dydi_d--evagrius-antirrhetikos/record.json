@@ -78,9 +78,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "反驳恶念八类选篇",
+        "url": "https://www.ldysinger.com/Evagrius/07_Antirrhet/01_antirrhetikos_selections.htm",
+        "kind": "partial",
+        "language": "英语／希腊语对照材料",
+        "edition": "Luke Dysinger；部分据Frankenberg叙利亚文版及相关译本",
+        "coverage": "标题明示Selections；按八类恶念列选篇，不是八卷全部条目",
+        "verification": "实际打开正文与版源注释。",
+        "accessed": "2026-11-10",
+        "rights_note": "网页英译标公共领域；引用他译和原文仍逐项核底本。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:02.773239+00:00",
@@ -111,10 +123,16 @@
         "url": "https://www.ldysinger.com/Evagrius/00b_nav.htm",
         "final_url": "https://www.ldysinger.com/Evagrius/00b_nav.htm",
         "result": "HTTP 200；Evagrius - navigation。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Dysinger Antirrhetikos selections; Litpress Talking Back",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:02.773239+00:00",
+    "next_action": "补原叙利亚语／Frankenberg旧版及全部条号；不把选篇当完整Talking Back。",
+    "updated_at": "2026-11-10T06:02:14.818171+00:00",
     "discovery_pass_done": true
   }
 }
