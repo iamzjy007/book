@@ -1,0 +1,139 @@
+{
+  "schema": 1,
+  "date_beijing": "2026-11-10",
+  "task": "eclavis-systematic",
+  "scope": "索引开头连续12项，包括无链接占位和复合条目；A字母尚未扫完。",
+  "records": [
+    {
+      "ordinal": 1,
+      "ecca": "984",
+      "title": "Aberdeen Ostracon",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "decision": "unresolved_index_only",
+      "evidence": "索引无作品页链接，只有ECCA984及星号；本批不确定年代、语言、物件号或内容，不新建已核作品。"
+    },
+    {
+      "ordinal": 2,
+      "ecca": "177",
+      "title": "Act of Peter",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/act-of-peter/",
+      "decision": "reference_contains_text",
+      "record_id": "eclavis_a01:ECCA-177",
+      "evidence": "bible/基督教典外文献（共10册）_手机版.txt 第249章，49654–49674行“彼得的女儿”已逐段查看；正式acts-of-peter为题页+41章，不能仅凭标题认定包含本短篇。"
+    },
+    {
+      "ordinal": 3,
+      "ecca": "690",
+      "title": "Act of Peter in Azotus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/act-of-peter-in-azotus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a01:ECCA-690",
+      "evidence": "两manifest题名及中文参考章节索引无Azotus/Ashdod/阿锁都/阿实突独立项；阴性结果不证明全库不存在。"
+    },
+    {
+      "ordinal": 4,
+      "ecca": "455",
+      "title": "Acts and Death of James, Son of Zebedee",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-and-death-of-james-son-of-zebedee/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a01:ECCA-455",
+      "evidence": "manifest与中文章节索引未见此题；《雅各原始福音》《雅各藏经》均为不同作品。"
+    },
+    {
+      "ordinal": 5,
+      "ecca": "788",
+      "title": "Acts of Andrew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a01:ECCA-788",
+      "evidence": "bible/translation/manifest.json: acts-of-andrew，073_安得烈行传，19单元；中文参考第251章49888行起，实读简介与版本说明。"
+    },
+    {
+      "ordinal": 6,
+      "ecca": "750",
+      "title": "Acts of Andrew (Latin)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-latin/",
+      "decision": "composite_relation_do_not_count_as_new_work",
+      "evidence": "已读条目；贵格利Miracles of Andrew与Passion或Epistle of Achaea的组合，保留文本层关系，不重复作为全新原作。",
+      "resources": [
+        {
+          "url": "https://digi.vatlib.it/view/MSS_Vat.lat.5771",
+          "resource_type": "manuscript_viewer",
+          "language": "拉丁语",
+          "edition": "Vat.lat.5771",
+          "location": "e-Clavis列ff.6v–8v",
+          "verified": "已打开DigiVatLib viewer外壳",
+          "limits": "未读取图像或确定卷内各构件边界；不能称全文已得。",
+          "checked_date_beijing": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "ordinal": 7,
+      "ecca": "319",
+      "title": "Acts of Andrew and Bartholomew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-and-bartholomew/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a01:ECCA-319",
+      "evidence": "manifest和中文参考章节索引未见组合题名；不能以《安得烈行传》或《巴多罗买提问》代替。"
+    },
+    {
+      "ordinal": 8,
+      "ecca": "517",
+      "title": "Acts of Andrew and Matthias",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-and-matthias/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a01:ECCA-517",
+      "evidence": "bible/translation/manifest.json: acts-of-andrew-and-matthias，077_安得烈与马提亚行传，题页+4章。"
+    },
+    {
+      "ordinal": 9,
+      "ecca": "464",
+      "title": "Acts of Andrew and Paul",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-and-paul/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a01:ECCA-464",
+      "evidence": "两manifest及中文参考章节索引未见此组合；现有《保罗行传》《安得烈行传》不能抵算。"
+    },
+    {
+      "ordinal": 10,
+      "ecca": "161",
+      "title": "Acts of Andrew and Philemon",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-and-philemon/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a01:ECCA-161",
+      "evidence": "两manifest及中文参考章节索引未见Philemon/腓利门组合；保罗致腓利门书是不同作品。"
+    },
+    {
+      "ordinal": 11,
+      "ecca": "764",
+      "title": "Acts of Aquila",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-aquila/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a01:ECCA-764",
+      "evidence": "两manifest及中文参考章节索引未见Aquila/亚居拉独立条目；伪革利免文学有联系而非同一书。"
+    },
+    {
+      "ordinal": 12,
+      "ecca": "422",
+      "title": "Acts of Barnabas",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-barnabas/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a01:ECCA-422",
+      "evidence": "bible/translation/manifest.json: acts-of-barnabas，079_巴拿巴行传，题页+7章。"
+    }
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Acts of Barnabas",
+    "last_completed_ecca": "422",
+    "next_title": "Acts of Bartholomew",
+    "next_ecca": "709",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/",
+    "pagination": "索引为单页；使用相邻题名与ECCA定位，无页码或虚构cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984仅索引占位",
+      "Acts of Andrew (Latin) ECCA750为复合选集关系，后续回查其构件及手稿。"
+    ]
+  }
+}

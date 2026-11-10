@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "id": "2026-11-10-eclavis-a01",
+  "date_beijing": "2026-11-10",
+  "base_commit": "5a07a59b8f203c6be49d0bf6ebe5fc9167419cfa",
+  "task": "eclavis-systematic",
+  "status": "completed_batch",
+  "researcher": "current_session_single_worker",
+  "restoration_checks": {
+    "original_worker_snapshots_match": true,
+    "original_worktree_clean": true,
+    "separate_running_research_process_found": false
+  },
+  "counts": {
+    "index_positions_scanned": 12,
+    "new_catalog_records": 10,
+    "formal_inventory_existing": 3,
+    "reference_contains_text": 1,
+    "candidate_inventory_unconfirmed": 6,
+    "composite_relationship_not_counted": 1,
+    "unresolved_index_only": 1
+  },
+  "sources_and_queries": "workers/eclavis_a01.json",
+  "scan_log": "eclavis-scan.json",
+  "resource_report": "RESOURCE-PATHS-A01.md",
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Acts of Barnabas",
+    "last_completed_ecca": "422",
+    "next_title": "Acts of Bartholomew",
+    "next_ecca": "709",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/",
+    "pagination": "索引为单页；使用相邻题名与ECCA定位，无页码或虚构cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984仅索引占位",
+      "Acts of Andrew (Latin) ECCA750为复合选集关系，后续回查其构件及手稿。"
+    ]
+  },
+  "publication_status": "成果已在本地核查；提交后以Git远端实际提交号为准，日志不预填推送成功。",
+  "limits": [
+    "A字母尚未扫描完成。",
+    "目录总120条不是120部新书或无中文译本。",
+    "没有会话结束后自动延续的后台进程。"
+  ]
+}

@@ -11,3 +11,7 @@
 任务不会自行读取套餐余额：当前没有可用的额度百分比接口，不能保证剩3%自动停。每批存档；真实额度或环境中断时保留断点并说明。日志、认领标签和队列不是后台服务；是否有代理运行须另外验证。
 
 如需从已存工作记录重建目录，在仓库根目录运行 `python research/christian-literature-catalog/refresh.py`。它只汇总存档，不执行网络检索。
+
+## 最新续查（2026-11-10，A01）
+
+已从e-Clavis索引开头连续核查12项，新增10条作品调查，当前汇总120条（含正式已有和参考已收作品，不是120部新缺书）。本批可用入口、具体页码及访问限制见 [资源路径报告](RESOURCE-PATHS-A01.md)；完整扫描与断点见 [eclavis-scan.json](eclavis-scan.json)。下一项为Acts of Bartholomew（ECCA709），A字母尚未完成。初建的PHASE-1-REPORT和SHORTLIST仍作为第一阶段历史快照保留。

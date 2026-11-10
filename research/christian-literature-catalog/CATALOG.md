@@ -1,8 +1,8 @@
-# 第一阶段书目目录
+# 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **110条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **120条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+本批资源直达与访问限制见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -2710,3 +2710,285 @@
 - [法国国家图书馆](https://catalogue.bnf.fr/ark:/12148/cb33446670k) — Schmidt1905德译合订书目、卷题及子目；馆录有作者与原语著录疑点，不能未经复核照抄
 
 [完整调查记录](workers/root.json)，条目 `books-jeu`。
+
+## e-Clavis系统扫描续查
+
+### 彼得行实（科普特短篇／彼得的女儿）
+
+- **原题：** Act of Peter / Act Petri fragmentum copticum
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 现存柏林P.8502抄本为5世纪；原作年代未确定
+- **语言：** 科普特语；一般认为译自希腊语，原语有少数异议
+
+讲述彼得医治又使女儿恢复瘫痪、解释童贞保护，并把遗赠土地变卖周济穷人。
+
+**价值：** historical：研究身体、童贞及彼得权威；与较长《彼得行传》的关系有争议。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 研究身体、童贞及彼得权威；与较长《彼得行传》的关系有争议。
+
+**仓库情况：** 中文参考已含现存短篇正文；未见独立正式条目
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：bible/基督教典外文献（共10册）_手机版.txt 第249章，49654–49674行“彼得的女儿”已逐段查看；正式acts-of-peter为题页+41章，不能仅凭标题认定包含本短篇。
+
+**下一步：** 先建立参考正文与BG8502.4映射，不作为全新缺书重译。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/act-of-peter/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [Carl Schmidt, Die alten Petrusakten, 1903](https://archive.org/download/diealtenpetrusa00schmgoog/diealtenpetrusa00schmgoog.pdf) — IA metadata HTTP200核题名；PDF Range HTTP206，%PDF-头确认；本批未读该扫描本相应页；页码由e-Clavis版本书目定位，现代编排关系须复核。
+- [Internet Archive metadata API](https://archive.org/metadata/diealtenpetrusa00schmgoog) — HTTP200，核题名、PDF/OCR文件清单；非阅读扫描全文。
+
+资源路径：[Carl Schmidt, Die alten Petrusakten, 1903](https://archive.org/download/diealtenpetrusa00schmgoog/diealtenpetrusa00schmgoog.pdf) — 原文pp.3–7，德译pp.7–10；IA metadata HTTP200核题名；PDF Range HTTP206，%PDF-头确认；本批未读该扫描本相应页；页码由e-Clavis版本书目定位，现代编排关系须复核。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-177`。
+
+### 彼得在阿锁都（阿实突）行实
+
+- **原题：** Act of Peter in Azotus / Actus Petri Azoti
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 唯一见证Angelica gr.108为11–12世纪；条目提出较早断代，尚未独立核实
+- **语言：** 希腊语
+
+彼得识破伪装天使的魔鬼，在七日中逐一审问，末尾转为对共同体的伦理劝勉。
+
+**价值：** historical：研究罪、试探与个人责任；不能直接作为使徒亲笔史实。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 研究罪、试探与个人责任；不能直接作为使徒亲笔史实。
+
+**仓库情况：** 本批所查清单及题名未命中；正文覆盖待核
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：两manifest题名及中文参考章节索引无Azotus/Ashdod/阿锁都/阿实突独立项；阴性结果不证明全库不存在。
+
+**下一步：** 取得2006年希腊校本或2020年英文译本；原页403后仅检索返回内容可读。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/act-of-peter-in-azotus/) — 原页返回403；实际读到搜索返回的条目概要、版本及译本书目；不是直接页面访问成功
+
+资源路径：[Bovon/Bouvier, Apocrypha17 (2006), pp.9–54；Pardee, NTA More Noncanonical Scriptures2 (2020), pp.264–277](https://www.nasscal.com/e-clavis-christian-apocrypha/act-of-peter-in-azotus/) — Angelica gr.108, ff.266v–269r；搜索返回条目正文和书目；直接打开403；未取得校本或译文全文，不能把检索返回当全文阅读成功。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-690`。
+
+### 西庇太之子雅各行传与死难
+
+- **原题：** Acts and Death of James, Son of Zebedee / Acta et mors Iacobi Zebedaei
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 长本Paris gr.1534为11–12世纪；短本Patmos736为14世纪；原作年代待查
+- **语言：** 希腊语，长短两型
+
+把雅各和约翰追随耶稣、家产处置、传道及雅各殉道串为一传，并利用优西比乌等材料。
+
+**价值：** historical：研究拜占庭使徒传记与经史材料重组；叙事有希律人物混淆。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 研究拜占庭使徒传记与经史材料重组；叙事有希律人物混淆。
+
+**仓库情况：** 所查库存未见对应独立项
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：manifest与中文章节索引未见此题；《雅各原始福音》《雅各藏经》均为不同作品。
+
+**下一步：** 定位Ebersolt1902希腊文pp.6–10及法译pp.11–18；短本另查Halkin1983。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-and-death-of-james-son-of-zebedee/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [Grübler1904对Ebersolt1902的书评](https://www.persee.fr/doc/reg_0035-2039_1904_num_17_73_6220_t1_0125_0000_1) — 实际读书评标题、出版信息及所述手稿来源；此URL为书评，不能当Ebersolt全书；开放校本路径尚未定位。
+
+资源路径：[Grübler1904对Ebersolt1902的书评](https://www.persee.fr/doc/reg_0035-2039_1904_num_17_73_6220_t1_0125_0000_1) — 原书希腊文pp.6–10；法译pp.11–18；实际读书评标题、出版信息及所述手稿来源；此URL为书评，不能当Ebersolt全书；开放校本路径尚未定位。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-455`。
+
+### 安得烈行传（版本补证）
+
+- **原题：** Acts of Andrew / Acta Andreae
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 早期原作确切年代本批未复核；存世见证时代各异
+- **语言：** 希腊语残片及多语见证；拉丁摘要参与重构
+
+安得烈的传道、教导及受难保存在不同见证中；完整原书不存，重构需区分摘要与殉道文本。
+
+**价值：** historical：有助于区分早期行传、贵格利摘要和独立殉道版本；不能把现代拼合当完整原卷。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 有助于区分早期行传、贵格利摘要和独立殉道版本；不能把现代拼合当完整原卷。
+
+**仓库情况：** 正式工程已有；另有中文参考正文
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：bible/translation/manifest.json: acts-of-andrew，073_安得烈行传，19单元；中文参考第251章49888行起，实读简介与版本说明。
+
+**下一步：** 比对现有18章译文的版本覆盖，再决定是否补梵蒂冈808等见证。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [M.R.James, The Apocryphal New Testament, 1924](https://www.earlychristianwritings.com/text/actsandrew.html) — 实际查看网页题头、导论、若干分段及版本说明；为旧版重构译文，非原书完整存世全文；网页古老断代不作为本批定年证据。
+
+资源路径：[M.R.James, The Apocryphal New Testament, 1924](https://www.earlychristianwritings.com/text/actsandrew.html) — 网页导论、贵格利摘要、梵蒂冈残篇及受难拼合；实际查看网页题头、导论、若干分段及版本说明；为旧版重构译文，非原书完整存世全文；网页古老断代不作为本批定年证据。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-788`。
+
+### 安得烈与巴多罗买行传
+
+- **原题：** Acts of Andrew and Bartholomew / Acta Andrae et Bartholomaei
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 原作年代待查；各语种见证不能共享一个抄本日期
+- **语言：** 科普特语、阿拉伯语、吉兹语及部分希腊语
+
+使徒传道受难并与犬首人同行，最后建教会和施洗；各语种的篇章范围并不一致。
+
+**价值：** historical：重要于东方使徒传说和跨语传播；希腊文本仅对应第三部分，犬首人属传奇。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 重要于东方使徒传说和跨语传播；希腊文本仅对应第三部分，犬首人属传奇。
+
+**仓库情况：** 所查库存未见对应独立项
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：manifest和中文参考章节索引未见组合题名；不能以《安得烈行传》或《巴多罗买提问》代替。
+
+**下一步：** 以Lewis1904阿拉伯系英译pp.11–25作可读入口，后续与科普特残片及吉兹文本比对。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-and-bartholomew/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [Agnes Smith Lewis, The Mythological Acts of the Apostles, 1904](https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf) — 实际读取PDF目录、开头与p.24–25检索定位；总324PDF页；未逐页通读；与希腊第三部分及科普特残片不同。
+- [同版；不同扫描副本](https://archive.org/download/mythologicalacts00lewi/mythologicalacts00lewi.pdf) — IA metadata200及PDF206头确认；此副本未测PDF页码偏移。
+
+资源路径：[Agnes Smith Lewis, The Mythological Acts of the Apostles, 1904](https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf#page=63) — 印本pp.11–25；PDF零基索引62为印本p.11；实际读取PDF目录、开头与p.24–25检索定位；总324PDF页；未逐页通读；与希腊第三部分及科普特残片不同。
+
+资源路径：[同版；不同扫描副本](https://archive.org/download/mythologicalacts00lewi/mythologicalacts00lewi.pdf) — 按印本pp.11–25定位，不沿用另一PDF偏移；IA metadata200及PDF206头确认；此副本未测PDF页码偏移。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-319`。
+
+### 安得烈与马提亚行传（版本补证）
+
+- **原题：** Acts of Andrew and Matthias / Acta Andreae et Matthiae in urbe anthropophagorum
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 专业条目通常归为4–5世纪独立传统；不是早期《安得烈行传》可直接拼接的一章
+- **语言：** 希腊语及多种古译
+
+安得烈奉命赴食人城救出马提亚，受拷打后使城中居民归信。
+
+**价值：** historical：适合研究使徒传奇的流传；别名中Matthew/Matthias需消歧。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 适合研究使徒传奇的流传；别名中Matthew/Matthias需消歧。
+
+**仓库情况：** 正式工程已有
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：bible/translation/manifest.json: acts-of-andrew-and-matthias，077_安得烈与马提亚行传，题页+4章。
+
+**下一步：** 以Walker英译和现有四章逐段核对；Lewis阿拉伯系版本不宜直接覆盖希腊系。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-and-matthias/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [Alexander Walker旧译，New Advent转录](https://www.newadvent.org/fathers/0820.htm) — 实际打开，核对可见正文若干段及出处；未逐行比现有四章；不同古译仍须分列。
+
+资源路径：[Alexander Walker旧译，New Advent转录](https://www.newadvent.org/fathers/0820.htm) — 网页正文；实际打开，核对可见正文若干段及出处；未逐行比现有四章；不同古译仍须分列。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-517`。
+
+### 安得烈与保罗行传
+
+- **原题：** Acts of Andrew and Paul / Acta Andreae et Pauli
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 2023校本作者提出4–7世纪可能范围；单一MONB.DN见证为10–12世纪
+- **语言：** 科普特语残本
+
+安得烈分水，保罗叙述冥府中犹大的遭遇，两位使徒施行神迹并与反对者冲突。
+
+**价值：** historical：研究冥府游历与犹大传统；含反犹太人的叙事，应标明文学及历史背景。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 研究冥府游历与犹大传统；含反犹太人的叙事，应标明文学及历史背景。
+
+**仓库情况：** 所查库存未见对应独立项
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：两manifest及中文参考章节索引未见此组合；现有《保罗行传》《安得烈行传》不能抵算。
+
+**下一步：** 优先核2023科普特新校本；公开预览只覆盖论文开头及部分校文，不能标全文已得。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-and-paul/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [Bull/Kocar in Parabiblica Coptica, 2023](https://www.mohrsiebeck.com/en/book/parabiblica-coptica-9783161620867/) — 实际打开出版社记录，并交叉核公开预览题页与目录；出版入口不等于已取得全书。
+- [同版，ISBN9783161620867；电子版9783161622243](https://api.pageplace.de/preview/DT0400.9783161622243_A48137356/preview-9783161622243_A48137356.pdf) — 实际读取预览题页、作者简介、论文简介、手稿说明与校文开头；不是论文或全书全文；预览页26为文件末尾。
+
+资源路径：[Bull/Kocar in Parabiblica Coptica, 2023](https://www.mohrsiebeck.com/en/book/parabiblica-coptica-9783161620867/) — 论文pp.3–30；实际打开出版社记录，并交叉核公开预览题页与目录；出版入口不等于已取得全书。
+
+资源路径：[同版，ISBN9783161620867；电子版9783161622243](https://api.pageplace.de/preview/DT0400.9783161622243_A48137356/preview-9783161622243_A48137356.pdf) — 预览26PDF页；论文自PDF索引13开始，可见简介及校文开头；实际读取预览题页、作者简介、论文简介、手稿说明与校文开头；不是论文或全书全文；预览页26为文件末尾。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-464`。
+
+### 安得烈与腓利门行传
+
+- **原题：** Acts of Andrew and Philemon / Acta Andreae et Philemonis
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** Miroshnikov2017提出初作5或6世纪，末段为后加；这是具名研究判断
+- **语言：** 科普特语残片、阿拉伯语、吉兹语
+
+腓利门以歌声使异教祭司归信；后续叙述复活神迹、总督归信，以及另一组儿童事件。
+
+**价值：** historical：研究唱诵、使徒传奇和跨语文本；Lewis阿拉伯系仅前两段，不能代表科普特全残篇。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 研究唱诵、使徒传奇和跨语文本；Lewis阿拉伯系仅前两段，不能代表科普特全残篇。
+
+**仓库情况：** 所查库存未见对应独立项
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：两manifest及中文参考章节索引未见Philemon/腓利门组合；保罗致腓利门书是不同作品。
+
+**下一步：** Lewis1904英译pp.1–10可先读；完整科普特见证须回查Miroshnikov2017 pp.9–83及2018图版。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-and-philemon/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [Agnes Smith Lewis, The Mythological Acts of the Apostles, 1904](https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf) — 实际读PDF目录、含Philemon的段落及p.10收尾；覆盖阿拉伯系两节，不能代替包括后加末段的全部科普特残篇。
+- [Ivan Miroshnikov, Apocrypha28 (2017), pp.9–83](https://researchportal.helsinki.fi/fi/publications/the-iacts-of-andrew-and-philemoni-in-sahidic-coptic/) — 实际读赫尔辛基大学记录及DOI；AELAC摘要另行核对；此机构页未提供已验证的开放PDF。
+- [AELAC／洛桑大学托管](https://wp.unil.ch/aelac/apocrypha-28-2017/) — 实际读Miroshnikov文章摘要，核5–6世纪断代及后加末段的具名研究观点；未读论文全文。
+
+资源路径：[Agnes Smith Lewis, The Mythological Acts of the Apostles, 1904](https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf#page=53) — 印本pp.1–10；PDF零基索引52为印本p.1；实际读PDF目录、含Philemon的段落及p.10收尾；覆盖阿拉伯系两节，不能代替包括后加末段的全部科普特残篇。
+
+资源路径：[Ivan Miroshnikov, Apocrypha28 (2017), pp.9–83](https://researchportal.helsinki.fi/fi/publications/the-iacts-of-andrew-and-philemoni-in-sahidic-coptic/) — DOI10.1484/J.APOCRA.5.115427；实际读赫尔辛基大学记录及DOI；AELAC摘要另行核对；此机构页未提供已验证的开放PDF。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-161`。
+
+### 亚居拉行传
+
+- **原题：** Acts of Aquila / Acta Aquilas
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 存世Paris gr.1219为11世纪；原作成书年代本批未定
+- **语言：** 希腊语
+
+结合亚居拉、百基拉、彼得和保罗的传教故事，最后叙述亚居拉家人的殉道及纪念地点。
+
+**价值：** historical：有助理解礼仪纪念和家族传说；与《使徒行传》人物关系不应自动当史实。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 有助理解礼仪纪念和家族传说；与《使徒行传》人物关系不应自动当史实。
+
+**仓库情况：** 所查库存未见对应独立项
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：两manifest及中文参考章节索引未见Aquila/亚居拉独立条目；伪革利免文学有联系而非同一书。
+
+**下一步：** 定位Ebersolt1902希腊文pp.47–55及法译pp.56–66；尚未验证该书开放全文。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-aquila/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [Grübler1904对Ebersolt1902的书评](https://www.persee.fr/doc/reg_0035-2039_1904_num_17_73_6220_t1_0125_0000_1) — 实际读书评，确认Paris gr.1219来源及1902书目信息；只有书目入口，未获得原书开放扫描。
+
+资源路径：[Grübler1904对Ebersolt1902的书评](https://www.persee.fr/doc/reg_0035-2039_1904_num_17_73_6220_t1_0125_0000_1) — 原书希腊文pp.47–55；法译pp.56–66；实际读书评，确认Paris gr.1219来源及1902书目信息；只有书目入口，未获得原书开放扫描。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-764`。
+
+### 巴拿巴行传（版本补证）
+
+- **原题：** Acts of Barnabas / Acta Barnabae apostoli
+- **作者／归属：** 匿名／使徒归托传统；非认定使徒亲笔
+- **年代：** 古代作品确切年代本批未独立定年；现存见证见专业目录
+- **语言：** 希腊语；另有拉丁、斯拉夫见证
+
+自称约翰马可叙述，与巴拿巴赴塞浦路斯传道，记巴拿巴殉道及马可处理遗体。
+
+**价值：** historical：研究塞浦路斯使徒传统与书卷作为圣物；不能与《巴拿巴书信》混同。；spiritual：以比较研究为主；本批不据传奇情节建立教义。
+
+**文本注意：** 研究塞浦路斯使徒传统与书卷作为圣物；不能与《巴拿巴书信》混同。
+
+**仓库情况：** 正式工程已有
+
+**中文线索：** mainland：本批未检索国家图书馆及大陆出版社，待查。；hong_kong_taiwan：本批未检索港台出版目录，待查。；online_or_repository：bible/translation/manifest.json: acts-of-barnabas，079_巴拿巴行传，题页+7章。
+
+**下一步：** 对照Walker旧英译与Bonnet系现代译本，记录现有译本底本，不新增重复翻译。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-barnabas/) — 实际读取专业条目的概要及版本书目；未通读所列现代版本
+- [Alexander Walker旧译，New Advent转录](https://www.newadvent.org/fathers/0817.htm) — 实际打开题头、正文可见段落及出处；未逐字校勘，不能据此断言现有七章与本页完全一致。
+
+资源路径：[Alexander Walker旧译，New Advent转录](https://www.newadvent.org/fathers/0817.htm) — 全文网页入口；实际打开题头、正文可见段落及出处；未逐字校勘，不能据此断言现有七章与本页完全一致。
+
+[完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-422`。

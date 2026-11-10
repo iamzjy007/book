@@ -59,11 +59,28 @@
     {
       "id": "eclavis-systematic",
       "title": "NASSCAL e-Clavis逐字母／文类扫描",
-      "status": "pending",
+      "status": "in_progress",
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-      "cursor": null,
-      "next": "首轮重点条目已查，其余从索引按次序建立作品级排除／候选记录",
-      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+      "cursor": {
+        "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+        "last_completed_title": "Acts of Barnabas",
+        "last_completed_ecca": "422",
+        "next_title": "Acts of Bartholomew",
+        "next_ecca": "709",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/",
+        "pagination": "索引为单页；使用相邻题名与ECCA定位，无页码或虚构cursor。",
+        "unresolved_before_cursor": [
+          "Aberdeen Ostracon ECCA984仅索引占位",
+          "Acts of Andrew (Latin) ECCA750为复合选集关系，后续回查其构件及手稿。"
+        ]
+      },
+      "next": "从Acts of Bartholomew（ECCA709）继续；回查ECCA984占位及750组合构件；本批12项不代表A字母完成。",
+      "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
+      "completed_batches": [
+        "2026-11-10-eclavis-a01"
+      ],
+      "last_batch_records_scanned": 12,
+      "assigned_worker": "current_session_single_worker"
     },
     {
       "id": "syriac-systematic",

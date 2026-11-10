@@ -4,13 +4,26 @@
     "catalog_ids_unique": true,
     "every_record_has_title_and_original_title": true,
     "every_record_has_resolved_source_urls": true,
-    "known_climacus_duplicate_merged": true
+    "known_climacus_duplicate_merged": true,
+    "new_scan_sequence_twelve_unique": true,
+    "new_worker_records_ten": true,
+    "new_resource_locators_have_verification_and_limits": true,
+    "all_saved_json_parse": true
   },
   "counts": {
-    "worker_records": 111,
-    "catalogue_records_after_one_merge": 110,
+    "worker_records": 121,
+    "catalogue_records_after_one_merge": 120,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 132
+    "unique_source_urls": 154
   },
-  "limits": "这是文件结构、来源入口及已知重复校验，不证明所有书目信息无误，也不是全网或大陆出版情况的穷尽查证。"
+  "limits": "这是文件结构、来源入口及已知重复校验，不证明所有书目信息无误，也不是全网或大陆出版情况的穷尽查证。",
+  "followup_counts": {
+    "index_positions_scanned": 12,
+    "new_catalog_records": 10,
+    "formal_inventory_existing": 3,
+    "reference_contains_text": 1,
+    "candidate_inventory_unconfirmed": 6,
+    "composite_relationship_not_counted": 1,
+    "unresolved_index_only": 1
+  }
 }
