@@ -33,9 +33,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Justin等人殉道记旧英译",
+        "url": "https://www.tertullian.org/fathers2/ANF-01/anf01-54.htm",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "M. Dods译，Ante-Nicene Fathers I，旧英译",
+        "coverage": "第I–V章；具体recension待与希腊三异本核对",
+        "verification": "200；全文读取题署、五章及处决／安葬终段。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:46.579085+00:00",
@@ -52,10 +64,16 @@
         "url": "https://openlibrary.org/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
         "final_url": "https://openlibrary.org/verify_human?next=/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
         "result": "HTTP 200；Human Verification | Open Library；实际为人机验证，不是资源内容。。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:46.579085+00:00",
+    "next_action": "用Gebhardt1902或现代Musurillo比对recension，不能用Justin护教文代替殉道记。",
+    "updated_at": "2026-11-10T06:14:53.578960+00:00",
     "discovery_pass_done": true
   }
 }

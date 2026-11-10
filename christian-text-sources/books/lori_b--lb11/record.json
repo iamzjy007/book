@@ -33,9 +33,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "优西比乌所引里昂／维埃纳教会书信",
+        "url": "https://www.newadvent.org/fathers/250105.htm",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Arthur Cushman McGiffert译，NPNF II.1，1890，Church History V.1–2",
+        "coverage": "保存于教会史第五卷前两章的书信引文；不是独立完整原书",
+        "verification": "200；实际打开第五卷正文，前两章为教会书信引述；其余章节属于教会史不能并为本信。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:47.531799+00:00",
@@ -52,10 +64,16 @@
         "url": "https://openlibrary.org/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
         "final_url": "https://openlibrary.org/verify_human?next=/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
         "result": "HTTP 200；Human Verification | Open Library；实际为人机验证，不是资源内容。。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:47.531799+00:00",
+    "next_action": "补希腊原文Eusebius HE V.1–2，界定叙述过渡与原信引文。",
+    "updated_at": "2026-11-10T06:14:53.579212+00:00",
     "discovery_pass_done": true
   }
 }

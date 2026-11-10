@@ -33,9 +33,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Cooper与Maclean旧英译",
+        "url": "https://archive.org/details/cu31924029296170",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "James Cooper and Arthur John Maclean, The Testament of Our Lord, Edinburgh: T. & T. Clark, 1902",
+        "coverage": "两卷译文及注释",
+        "verification": "元数据题页与开放OCR200；PDF下载200、312页，读取PDF81/101/141页实际译文（卷I17–18、I26、II6–7）。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:40.617952+00:00",
@@ -69,10 +81,16 @@
         "url": "https://www.ucl.ac.uk/social-historical-sciences/testamentum-domini",
         "final_url": "https://www.ucl.ac.uk/social-historical-sciences/testamentum-domini",
         "result": "HTTP 200；Testamentum Domini | UCL Faculty of Social & Historical Sciences。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:40.617952+00:00",
+    "next_action": "补Rahmani1899叙利亚文本与拉丁译文，核章节对应。",
+    "updated_at": "2026-11-10T06:14:53.576978+00:00",
     "discovery_pass_done": true
   }
 }

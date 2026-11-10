@@ -1,103 +1,7 @@
 {
   "schema": 1,
-  "next_task": "lori_b:lb01",
+  "next_task": "root:teachings-silvanus",
   "tasks": [
-    {
-      "id": "lori_b:lb01",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb01/record.json"
-    },
-    {
-      "id": "lori_b:lb02",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb02/record.json"
-    },
-    {
-      "id": "lori_b:lb03",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb03/record.json"
-    },
-    {
-      "id": "lori_b:lb04",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb04/record.json"
-    },
-    {
-      "id": "lori_b:lb05",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb05/record.json"
-    },
-    {
-      "id": "lori_b:lb06",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb06/record.json"
-    },
-    {
-      "id": "lori_b:lb07",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb07/record.json"
-    },
-    {
-      "id": "lori_b:lb08",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb08/record.json"
-    },
-    {
-      "id": "lori_b:lb09",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb09/record.json"
-    },
-    {
-      "id": "lori_b:lb10",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb10/record.json"
-    },
-    {
-      "id": "lori_b:lb11",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb11/record.json"
-    },
-    {
-      "id": "lori_b:lb12",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb12/record.json"
-    },
-    {
-      "id": "lori_b:lb13",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb13/record.json"
-    },
-    {
-      "id": "lori_b:lb14",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb14/record.json"
-    },
-    {
-      "id": "lori_b:lb15",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb15/record.json"
-    },
-    {
-      "id": "lori_b:lb16",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/lori_b--lb16/record.json"
-    },
     {
       "id": "root:teachings-silvanus",
       "status": "queued",
@@ -451,6 +355,24 @@
       "status": "scan_candidate",
       "next_action": "打开版权页／目录，逐篇与Schmitt／Wilmart真作清单对照；旧署Anselm作品并非均真作。",
       "record_path": "books/lori_a--anselm-prayers/record.json"
+    },
+    {
+      "id": "lori_b:lb11",
+      "status": "partial_online",
+      "next_action": "补希腊原文Eusebius HE V.1–2，界定叙述过渡与原信引文。",
+      "record_path": "books/lori_b--lb11/record.json"
+    },
+    {
+      "id": "lori_b:lb14",
+      "status": "scan_candidate",
+      "next_action": "实际下载核题页、Passio题名、首尾和印页，再找Franchi de’ Cavalieri希腊校本；排除Hrotsvitha《Dulcitius》和现代圣徒传。",
+      "record_path": "books/lori_b--lb14/record.json"
+    },
+    {
+      "id": "lori_b:lb16",
+      "status": "partial_online",
+      "next_action": "目视印页21–25及图版，补Oxford馆藏原图并核许可；区别现代歌曲改编。",
+      "record_path": "books/lori_b--lb16/record.json"
     }
   ]
 }

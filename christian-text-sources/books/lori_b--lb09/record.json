@@ -38,9 +38,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Scillitan殉道记旧英译",
+        "url": "https://www.earlychristianwritings.com/text/scillitan.html",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "页面题署翻译J. A. Robinson、导论Andrew Rutherfurd；网站导航称Roberts-Donaldson不可直接当译者",
+        "coverage": "短篇殉道记正文",
+        "verification": "200；读取开头审讯、判决及终段Amen；题名、译者以正文题署记录。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:45.761806+00:00",
@@ -64,10 +76,16 @@
         "url": "https://chunsheng-huangchunsheng.blogspot.com/2022/07/?m=0",
         "final_url": "https://chunsheng-huangchunsheng.blogspot.com/2022/07/?m=0",
         "result": "HTTP 200；a Pilgrim 天路客: 2022/07。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:45.761806+00:00",
+    "next_action": "从Gebhardt1902 pp22–26补拉丁及希腊异本；核Robinson初刊年份。",
+    "updated_at": "2026-11-10T06:14:53.578637+00:00",
     "discovery_pass_done": true
   }
 }

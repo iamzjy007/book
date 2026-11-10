@@ -33,9 +33,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "P.Oxy.XV1786原刊扫描",
+        "url": "https://archive.org/details/oxyrhynchuspapyr15gren",
+        "kind": "partial",
+        "language": "希腊语／古乐谱／英语注释",
+        "edition": "B. P. Grenfell & A. S. Hunt, The Oxyrhynchus Papyri XV, London: Egypt Exploration Society, 1922",
+        "coverage": "编号1786，印页21–25及图版；纸草原本已残缺",
+        "verification": "元数据系列年份误标1898，以卷XV1922题页为准；开放OCR读取1786标题及希腊文、乐谱讨论至印页25；未目视图版，乐谱与残字不得以OCR当校本。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:52.767904+00:00",
@@ -52,10 +64,16 @@
         "url": "https://catalogue.bnf.fr/ark:/12148/cb44478840j",
         "final_url": "https://catalogue.bnf.fr/ark:/12148/cb44478840j",
         "result": "HTTP 200；Notice bibliographique An ancient Christian hymn with musical notation : papyrus Oxyrhynchus 1786 : text and commentary / Charles H. Cosgrove | Accueil | Catalogue général | BnF- Bibliothèque nationale de France。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:52.767904+00:00",
+    "next_action": "目视印页21–25及图版，补Oxford馆藏原图并核许可；区别现代歌曲改编。",
+    "updated_at": "2026-11-10T06:14:53.580629+00:00",
     "discovery_pass_done": true
   }
 }

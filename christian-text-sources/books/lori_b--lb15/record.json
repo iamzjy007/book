@@ -33,9 +33,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Gebhardt希腊遗嘱正文",
+        "url": "https://archive.org/details/actamartyrumsel00gebhgoog",
+        "kind": "fulltext",
+        "language": "希腊语",
+        "edition": "Oscar von Gebhardt, Acta martyrum selecta, Leipzig, 1902",
+        "coverage": "XVI，印页166–170；后续171起的Martyrium是另一作品",
+        "verification": "目视PDF183页=印页166题名、署名及正文；OCR166–170可定位。严格区别紧接的四十殉道者殉道记与教父称颂。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:51.547376+00:00",
@@ -52,10 +64,16 @@
         "url": "https://openlibrary.org/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
         "final_url": "https://openlibrary.org/verify_human?next=/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
         "result": "HTTP 200；Human Verification | Open Library；实际为人机验证，不是资源内容。。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:51.547376+00:00",
+    "next_action": "逐页对照166–170，补Bonwetsch所据见证与后续校本。",
+    "updated_at": "2026-11-10T06:14:53.580376+00:00",
     "discovery_pass_done": true
   }
 }

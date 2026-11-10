@@ -38,9 +38,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Easton旧英译PDF",
+        "url": "https://gospelstudies.org.uk/earlychurch/pdf/e-books/easton_b-s/apostolic-tradition-hippolytus.pdf",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "Burton Scott Easton, The Apostolic Tradition of Hippolytus, Cambridge, 1934",
+        "coverage": "该重构本的译文及说明；不是一份完整存世希腊抄本",
+        "verification": "PDF实际200，119页；读取PDF第50页Translation第14–16节及第100页注释；入口书目网页年份字段错乱，以PDF题页核版。普通请求403，带研究User-Agent可访问。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:37.670290+00:00",
@@ -71,10 +83,16 @@
         "url": "https://www.cclc.org.hk/product/尼西亞前期教父選集/",
         "final_url": "https://www.cclc.org.hk/product/%E5%B0%BC%E8%A5%BF%E4%BA%9E%E5%89%8D%E6%9C%9F%E6%95%99%E7%88%B6%E9%81%B8%E9%9B%86/",
         "result": "HTTP 404；找不到符合條件的頁面 – 基督教文藝出版社。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:37.670290+00:00",
+    "next_action": "补拉丁、科普特、阿拉伯等见证及现代重构差异；不得将Easton重构当唯一原文。",
+    "updated_at": "2026-11-10T06:14:53.575392+00:00",
     "discovery_pass_done": true
   }
 }

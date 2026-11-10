@@ -33,9 +33,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Riedel与Crum多语旧校本",
+        "url": "https://archive.org/details/thecanonsofathan00rieduoft",
+        "kind": "fulltext",
+        "language": "阿拉伯语／科普特语／英语",
+        "edition": "Wilhelm Riedel & W. E. Crum, The Canons of Athanasius of Alexandria, London/Oxford: Williams and Norgate, 1904",
+        "coverage": "阿拉伯与科普特见证及英译、校注",
+        "verification": "元数据与题页核1904；PDF200共266页，实际提取PDF81/101页阿拉伯文与PDF141页英译（印页37）。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:42.612550+00:00",
@@ -75,10 +87,16 @@
         "url": "https://guides.library.yale.edu/ancientchristianity/manuals",
         "final_url": "https://guides.library.yale.edu/ancientchristianity/manuals",
         "result": "HTTP 200；Ecclesial Manuals - Early Christianity and Patristics - Yale University Library Research Guides at Yale University。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:42.612550+00:00",
+    "next_action": "分开阿拉伯107条与科普特残存范围，提取原文时核对扫描；不因题署认定亚他那修亲著。",
+    "updated_at": "2026-11-10T06:14:53.577634+00:00",
     "discovery_pass_done": true
   }
 }

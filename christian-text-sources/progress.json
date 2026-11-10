@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T06:11:27.169670+00:00",
+  "updated_at": "2026-11-10T06:15:06.621284+00:00",
   "total": 110,
   "counts": {
-    "partial_online": 22,
-    "fulltext_online": 35,
+    "partial_online": 24,
+    "fulltext_online": 48,
     "metadata_only": 16,
-    "scan_candidate": 10,
+    "scan_candidate": 11,
     "blocked": 4,
     "needs_review": 2,
-    "queued": 21
+    "queued": 5
   },
-  "next_task": "lori_b:lb01",
+  "next_task": "root:teachings-silvanus",
   "background_process": false,
   "record_files_are_authoritative": true,
   "resume_instruction": "先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。"

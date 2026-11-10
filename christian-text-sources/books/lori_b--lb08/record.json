@@ -33,9 +33,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "波尔多行程拉丁转录",
+        "url": "https://la.wikisource.org/wiki/Itinerarium_(PL08)",
+        "kind": "fulltext",
+        "language": "拉丁语",
+        "edition": "PL8电子转录，Wikisource据Corpus Corporum；旧版断代说明保留不直接采信",
+        "coverage": "本页拉丁行程；需后续与CSEL或CCSL的章节／地名比对",
+        "verification": "200；实际打开约1.5万字符的拉丁路线，核Burdigala至Arelate等里程与后段，网页题署saeculo V不替代原研究333年行程断代。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:44.757362+00:00",
@@ -59,10 +71,16 @@
         "url": "https://catalogue.nli.ie/Record/vtls000174510",
         "final_url": "https://catalogue.nli.ie/Record/vtls000174510",
         "result": "HTTP 200；Holdings: Itinerary from Bordeaux to Jerusalem / :: Library Catalog。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:44.757362+00:00",
+    "next_action": "以Perseus stoa0329.stoa001.opp-lat1或CSEL校本补校地名。",
+    "updated_at": "2026-11-10T06:14:53.578332+00:00",
     "discovery_pass_done": true
   }
 }

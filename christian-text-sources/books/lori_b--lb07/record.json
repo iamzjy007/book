@@ -38,9 +38,25 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "拉丁正文两部分",
+        "url": "https://www.thelatinlibrary.com/egeria.html",
+        "kind": "fulltext",
+        "language": "拉丁语",
+        "edition": "The Latin Library电子转录；底本校本／编辑待补",
+        "coverage": "现存正文I–XXIII与XXIV–XLIX；原作首尾缺损",
+        "verification": "两个子页均200，约6万及5万字符；分别读取I章缺文标记、XXIV章礼仪叙述及XLIX结尾残缺。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。",
+        "parts": [
+          "https://www.thelatinlibrary.com/egeria1.html",
+          "https://www.thelatinlibrary.com/egeria2.html"
+        ]
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:43.769598+00:00",
@@ -71,10 +87,16 @@
         "url": "https://gospelchina.cn/article-detail/259.html",
         "final_url": "https://gospelchina.cn/article-detail/259.html",
         "result": "HTTP 200；大斋期的圣周传统和礼仪实践（下）。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:43.769598+00:00",
+    "next_action": "补电子转录所据校本和古抄本；现存正文可读不等于无缺古书。",
+    "updated_at": "2026-11-10T06:14:53.578020+00:00",
     "discovery_pass_done": true
   }
 }

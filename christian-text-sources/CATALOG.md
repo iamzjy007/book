@@ -93,22 +93,22 @@
 | 087 | [给威廉的手册（暂译）](books/lori_a--dhuoda-handbook/README.md) | 访问受阻 | 见档案中的既有出处 |
 | 088 | [雅歌注释](books/lori_a--bede-song/README.md) | 访问受阻 | 见档案中的既有出处 |
 | 089 | [祈祷与默想](books/lori_a--anselm-prayers/README.md) | 扫描入口待核 | [Webb1903旧英译扫描候选](https://archive.org/details/devotionssainta00ansegoog) |
-| 090 | [使徒传统／使徒遗传](books/lori_b--lb01/README.md) | 待检索 | 见档案中的既有出处 |
-| 091 | [使徒遗范／使徒训诲](books/lori_b--lb02/README.md) | 待检索 | 见档案中的既有出处 |
-| 092 | [希波律陀教规](books/lori_b--lb03/README.md) | 待检索 | 见档案中的既有出处 |
-| 093 | [我主遗训／主的遗嘱](books/lori_b--lb04/README.md) | 待检索 | 见档案中的既有出处 |
-| 094 | [特姆伊斯撒拉皮翁祷文集](books/lori_b--lb05/README.md) | 待检索 | 见档案中的既有出处 |
-| 095 | [亚他那修教规（科普特—阿拉伯传统）](books/lori_b--lb06/README.md) | 待检索 | 见档案中的既有出处 |
-| 096 | [埃格里亚游记／圣地朝圣记](books/lori_b--lb07/README.md) | 待检索 | 见档案中的既有出处 |
-| 097 | [波尔多朝圣者行程](books/lori_b--lb08/README.md) | 待检索 | 见档案中的既有出处 |
-| 098 | [西里坦殉道者案录](books/lori_b--lb09/README.md) | 待检索 | 见档案中的既有出处 |
-| 099 | [游斯丁及同伴殉道案录](books/lori_b--lb10/README.md) | 待检索 | 见档案中的既有出处 |
-| 100 | [里昂与维埃纳教会书信](books/lori_b--lb11/README.md) | 待检索 | 见档案中的既有出处 |
-| 101 | [居普良案录](books/lori_b--lb12/README.md) | 待检索 | 见档案中的既有出处 |
-| 102 | [皮奥尼乌斯殉道记](books/lori_b--lb13/README.md) | 待检索 | 见档案中的既有出处 |
-| 103 | [阿加佩、喀俄尼亚与伊瑞妮殉道记](books/lori_b--lb14/README.md) | 待检索 | 见档案中的既有出处 |
-| 104 | [塞巴斯特四十殉道者遗嘱](books/lori_b--lb15/README.md) | 待检索 | 见档案中的既有出处 |
-| 105 | [俄克喜林库斯赞美诗（P.Oxy. XV 1786）](books/lori_b--lb16/README.md) | 待检索 | 见档案中的既有出处 |
+| 090 | [使徒传统／使徒遗传](books/lori_b--lb01/README.md) | 正文可直达 | [Easton旧英译PDF](https://gospelstudies.org.uk/earlychurch/pdf/e-books/easton_b-s/apostolic-tradition-hippolytus.pdf) |
+| 091 | [使徒遗范／使徒训诲](books/lori_b--lb02/README.md) | 正文可直达 | [Connolly英译正文](https://www.earlychristianwritings.com/text/didascalia.html)；[Gibson 1903旧英译扫描](https://archive.org/details/didascaliaaposto00gibsuoft) |
+| 092 | [希波律陀教规](books/lori_b--lb03/README.md) | 正文可直达 | [Haneberg阿拉伯文及拉丁译本](https://archive.org/details/CanonesStHippolyti) |
+| 093 | [我主遗训／主的遗嘱](books/lori_b--lb04/README.md) | 正文可直达 | [Cooper与Maclean旧英译](https://archive.org/details/cu31924029296170) |
+| 094 | [特姆伊斯撒拉皮翁祷文集](books/lori_b--lb05/README.md) | 正文可直达 | [Wordsworth祈祷书旧英译](https://archive.org/details/bishopsarapionsp06sera) |
+| 095 | [亚他那修教规（科普特—阿拉伯传统）](books/lori_b--lb06/README.md) | 正文可直达 | [Riedel与Crum多语旧校本](https://archive.org/details/thecanonsofathan00rieduoft) |
+| 096 | [埃格里亚游记／圣地朝圣记](books/lori_b--lb07/README.md) | 正文可直达 | [拉丁正文两部分](https://www.thelatinlibrary.com/egeria.html) |
+| 097 | [波尔多朝圣者行程](books/lori_b--lb08/README.md) | 正文可直达 | [波尔多行程拉丁转录](https://la.wikisource.org/wiki/Itinerarium_(PL08)) |
+| 098 | [西里坦殉道者案录](books/lori_b--lb09/README.md) | 正文可直达 | [Scillitan殉道记旧英译](https://www.earlychristianwritings.com/text/scillitan.html) |
+| 099 | [游斯丁及同伴殉道案录](books/lori_b--lb10/README.md) | 正文可直达 | [Justin等人殉道记旧英译](https://www.tertullian.org/fathers2/ANF-01/anf01-54.htm) |
+| 100 | [里昂与维埃纳教会书信](books/lori_b--lb11/README.md) | 部分正文可直达 | [优西比乌所引里昂／维埃纳教会书信](https://www.newadvent.org/fathers/250105.htm) |
+| 101 | [居普良案录](books/lori_b--lb12/README.md) | 正文可直达 | [Gebhardt旧校本内拉丁正文](https://archive.org/details/actamartyrumsel00gebhgoog) |
+| 102 | [皮奥尼乌斯殉道记](books/lori_b--lb13/README.md) | 正文可直达 | [Gebhardt旧校本内希腊正文](https://archive.org/details/actamartyrumsel00gebhgoog) |
+| 103 | [阿加佩、喀俄尼亚与伊瑞妮殉道记](books/lori_b--lb14/README.md) | 扫描入口待核 | [Ruinart拉丁殉道集扫描候选](https://www.liberius.net/livres/Selecta_martyrum_acta_%28tomus_primus%29_000000437.pdf) |
+| 104 | [塞巴斯特四十殉道者遗嘱](books/lori_b--lb15/README.md) | 正文可直达 | [Gebhardt希腊遗嘱正文](https://archive.org/details/actamartyrumsel00gebhgoog) |
+| 105 | [俄克喜林库斯赞美诗（P.Oxy. XV 1786）](books/lori_b--lb16/README.md) | 部分正文可直达 | [P.Oxy.XV1786原刊扫描](https://archive.org/details/oxyrhynchuspapyr15gren) |
 | 106 | [西尔瓦努斯训言（暂译）](books/root--teachings-silvanus/README.md) | 待检索 | 见档案中的既有出处 |
 | 107 | [灵知的解释（暂译）](books/root--interpretation-knowledge/README.md) | 待检索 | 见档案中的既有出处 |
 | 108 | [约翰秘传／约翰密传](books/root--apocryphon-john/README.md) | 待检索 | 见档案中的既有出处 |

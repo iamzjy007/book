@@ -38,9 +38,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Gebhardt旧校本内希腊正文",
+        "url": "https://archive.org/details/actamartyrumsel00gebhgoog",
+        "kind": "fulltext",
+        "language": "希腊语",
+        "edition": "Oscar von Gebhardt, Acta martyrum selecta, Leipzig, 1902",
+        "coverage": "VIII，印页96–114，Martyrium Pionii",
+        "verification": "目视PDF113页=印页96题名及开头；OCR续页可读，卷目录列下一项115页；不是Pionius所传Life of Polycarp。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:50.779143+00:00",
@@ -64,10 +76,16 @@
         "url": "https://wkxb.sicnu.edu.cn/Publish/201103/林中泽.pdf",
         "final_url": "https://wkxb.sicnu.edu.cn/Publish/201103/%E6%9E%97%E4%B8%AD%E6%B3%BD.pdf",
         "result": "HTTP 404；404 Not Found。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题／作者＋full text；Early Christian Writings、Tertullian、Latin Library、Internet Archive、旧版目录定向检索；逐项打开正文／OCR／PDF抽查",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:50.779143+00:00",
+    "next_action": "逐页核96–114希腊文并对照Musurillo／Robert校本；不采网络新AI英译代替既有校本。",
+    "updated_at": "2026-11-10T06:14:53.579828+00:00",
     "discovery_pass_done": true
   }
 }
