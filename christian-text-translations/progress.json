@@ -4,14 +4,14 @@
   "total_records": 110,
   "fulltext_candidates": 51,
   "completed_books": 4,
-  "reviewed_units": 97,
+  "reviewed_units": 106,
   "next_task": "lori_b:lb13",
-  "next_unit": "verify_source",
+  "next_unit": "VII.1-6",
   "background_process": false,
   "authority": "books/*/record.json；queue/progress为派生视图",
-  "last_milestone": "002-forty-martyrs-testament",
+  "last_milestone": "003-pionius-I-VI",
   "push_status": "以Git main历史和仓库外translation-delivery.json实际回执为准",
-  "registered_units": 97,
-  "active_books": 0,
-  "next_action": "核lori_b:lb13《皮奥尼乌斯殉道记》：Gebhardt 1902印页96—114（IA n112—n130）全篇及115页另起边界；核完冻结全部章段，从I.1译。"
+  "registered_units": 127,
+  "active_books": 1,
+  "next_action": "I—VI已译并自校9个工作单元（47个原编号段）；从VII.1-6续译。底本印页101末行起至102页，先核本章στρατηγός、ἐκκλησία集会语义、撒比娜笑与威胁卖入妓院的对话，勿漏跨页句；依冻结30单元接续。"
 }

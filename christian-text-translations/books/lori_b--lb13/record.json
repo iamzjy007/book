@@ -1,0 +1,206 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb13",
+  "title": "皮奥尼乌斯殉道记",
+  "status": "translating",
+  "expected_units": 30,
+  "next_unit": "VII.1-6",
+  "next_action": "I—VI已译并自校9个工作单元（47个原编号段）；从VII.1-6续译。底本印页101末行起至102页，先核本章στρατηγός、ἐκκλησία集会语义、撒比娜笑与威胁卖入妓院的对话，勿漏跨页句；依冻结30单元接续。",
+  "unit_policy": "以原章及连续编号段范围打包，每包保留全部原段号和分段，不拆句；较长章分包，均约600希腊词以内。工作单元数不等于原段落数。",
+  "units": [
+    {
+      "id": "I.1-2",
+      "source_locator": "Gebhardt 1902, p. 96, I.1-2",
+      "source_anchor": "Ταῖς μνείαις τῶν ἁγίων κοινωνεῖν",
+      "status": "self_reviewed",
+      "translation_sha256": "cc86ffa4112940fb729a3dee5dbf7fc071c06d283edab195c0d04c2ad04f4345"
+    },
+    {
+      "id": "II.1-4",
+      "source_locator": "Gebhardt 1902, p. 96–97, II.1-4",
+      "source_anchor": "Μηνὸς ἕκτου δευτέρᾳ ἐνισταμένου",
+      "status": "self_reviewed",
+      "translation_sha256": "32cff9cc7e405f5dd6b2b3834708b848bd10bf57400716a6c595008ac7682afd"
+    },
+    {
+      "id": "III.1-7",
+      "source_locator": "Gebhardt 1902, p. 97, III.1-7",
+      "source_anchor": "Προσευξαμένων δὲ αὐτῶν",
+      "status": "self_reviewed",
+      "translation_sha256": "75fee666c2cb086fbe5d29f57e9d8d527a5c48271757fcffb081eda9dda60437"
+    },
+    {
+      "id": "IV.1-7",
+      "source_locator": "Gebhardt 1902, p. 97–98, IV.1-7",
+      "source_anchor": "Ἔστησαν οὖν αὐτοὺς ἐν μέσῳ",
+      "status": "self_reviewed",
+      "translation_sha256": "09b30e3d6cce976adb629bc8e64e82f9b2a7527336e684f5fdb289bf8b0f7e55"
+    },
+    {
+      "id": "IV.8-13",
+      "source_locator": "Gebhardt 1902, p. 98–99, IV.8-13",
+      "source_anchor": "τίνων οὖν καταγελῶσιν οἱ Ἰουδαῖοι",
+      "status": "self_reviewed",
+      "translation_sha256": "4a3cf83fb5b76ff367de2c7420bcc923995d7a4e20c26810a2fa8f2f015ff5c5"
+    },
+    {
+      "id": "IV.14-19",
+      "source_locator": "Gebhardt 1902, p. 99, IV.14-19",
+      "source_anchor": "νομίσατε τὰ παρόντα ἅλωνι ὅμοια εἶναι",
+      "status": "self_reviewed",
+      "translation_sha256": "891b423e924299db1ba1bbd53e65c769b3b34226a96141db0ebe5022a41fa5bf"
+    },
+    {
+      "id": "IV.20-24",
+      "source_locator": "Gebhardt 1902, p. 100, IV.20-24",
+      "source_anchor": "εἶδον καὶ Θάλασσαν Νεκράν",
+      "status": "self_reviewed",
+      "translation_sha256": "d466a13aac5b2e48400f43b3dadf012ab5daf90a9a0eedf5b54f5cac07436f76"
+    },
+    {
+      "id": "V.1-5",
+      "source_locator": "Gebhardt 1902, p. 100–101, V.1-5",
+      "source_anchor": "Τούτων δὲ καὶ ἄλλων πολλῶν λεχθέντων",
+      "status": "self_reviewed",
+      "translation_sha256": "57864828f34e02bed1c1b73221357720859f8d56c8a863515f66c80bcd4b3a7c"
+    },
+    {
+      "id": "VI.1-5",
+      "source_locator": "Gebhardt 1902, p. 101, VI.1-5",
+      "source_anchor": "Ἀλέξανδρος δέ τις ἀγοραῖος",
+      "status": "self_reviewed",
+      "translation_sha256": "21eeffe2cd4ab312f3cb42254698d181bb8eae5a8f0d8c77b68013d6b27c9eef"
+    },
+    {
+      "id": "VII.1-6",
+      "source_locator": "Gebhardt 1902, p. 101–102, VII.1-6",
+      "source_anchor": "Τοῦ δὲ δήμου βουλομένου ἐκκλησίαν",
+      "status": "pending"
+    },
+    {
+      "id": "VIII.1-4",
+      "source_locator": "Gebhardt 1902, p. 102–103, VIII.1-4",
+      "source_anchor": "Πάλιν δὲ Πιονίῳ εἶπεν Πολέμων",
+      "status": "pending"
+    },
+    {
+      "id": "IX.1-9",
+      "source_locator": "Gebhardt 1902, p. 103–104, IX.1-9",
+      "source_anchor": "Εἶτα ἐπηρώτησεν ἐγγράφως",
+      "status": "pending"
+    },
+    {
+      "id": "X.1-8",
+      "source_locator": "Gebhardt 1902, p. 104, X.1-8",
+      "source_anchor": "Τούτων δὲ λεχθέντων ἀπήγαγον",
+      "status": "pending"
+    },
+    {
+      "id": "XI.1-7",
+      "source_locator": "Gebhardt 1902, p. 104–105, XI.1-7",
+      "source_anchor": "Ταῦτα εἰπόντος αὐτοῦ",
+      "status": "pending"
+    },
+    {
+      "id": "XII.1-8",
+      "source_locator": "Gebhardt 1902, p. 105–106, XII.1-8",
+      "source_anchor": "Ὅμως δ’ οὖν καὶ ἐν τῇ φυλακῇ",
+      "status": "pending"
+    },
+    {
+      "id": "XII.9-16",
+      "source_locator": "Gebhardt 1902, p. 106, XII.9-16",
+      "source_anchor": "ἐπληρώθη τὸ ῥῆμα τοῦ κυρίου Ἰησοῦ",
+      "status": "pending"
+    },
+    {
+      "id": "XIII.1-9",
+      "source_locator": "Gebhardt 1902, p. 106–107, XIII.1-9",
+      "source_anchor": "Ἀκούω δὲ ὅτι καί τινας ὑμῶν",
+      "status": "pending"
+    },
+    {
+      "id": "XIV.1-7",
+      "source_locator": "Gebhardt 1902, p. 107–108, XIV.1-7",
+      "source_anchor": "Ἐγὼ μὲν οὖν τοῦτο τὸ ψεῦσμα",
+      "status": "pending"
+    },
+    {
+      "id": "XIV.8-16",
+      "source_locator": "Gebhardt 1902, p. 108–109, XIV.8-16",
+      "source_anchor": "οὔκουν ὡς ἐκεῖνοι ὑπολαμβάνουσιν",
+      "status": "pending"
+    },
+    {
+      "id": "XV.1-7",
+      "source_locator": "Gebhardt 1902, p. 109, XV.1-7",
+      "source_anchor": "Ταῦτα δὲ αὐτοῦ λαλήσαντος",
+      "status": "pending"
+    },
+    {
+      "id": "XVI.1-6",
+      "source_locator": "Gebhardt 1902, p. 109–110, XVI.1-6",
+      "source_anchor": "Βοῶντα οὖν ἤγαγον αὐτὸν",
+      "status": "pending"
+    },
+    {
+      "id": "XVII.1-4",
+      "source_locator": "Gebhardt 1902, p. 110, XVII.1-4",
+      "source_anchor": "Καὶ πρὸς αὐτὸν Ῥουφῖνός τις",
+      "status": "pending"
+    },
+    {
+      "id": "XVIII.1-7",
+      "source_locator": "Gebhardt 1902, p. 110–111, XVIII.1-7",
+      "source_anchor": "Εἷς δέ τις τῶν ἐν ὑπεροχῇ",
+      "status": "pending"
+    },
+    {
+      "id": "XVIII.8-14",
+      "source_locator": "Gebhardt 1902, p. 111, XVIII.8-14",
+      "source_anchor": "τῷ δὲ Ἀσκληπιάδῃ Τερέντιος",
+      "status": "pending"
+    },
+    {
+      "id": "XIX.1-7",
+      "source_locator": "Gebhardt 1902, p. 111–112, XIX.1-7",
+      "source_anchor": "Μετὰ δὲ ταῦτα ἦλθεν ὁ ἀνθύπατος",
+      "status": "pending"
+    },
+    {
+      "id": "XIX.8-13",
+      "source_locator": "Gebhardt 1902, p. 112, XIX.8-13",
+      "source_anchor": "ἐπηρώτησε· Ποίας θεοσεβείας;",
+      "status": "pending"
+    },
+    {
+      "id": "XX.1-7",
+      "source_locator": "Gebhardt 1902, p. 112–113, XX.1-7",
+      "source_anchor": "Σιωπῶντι δὲ τῷ Πιονίῳ",
+      "status": "pending"
+    },
+    {
+      "id": "XXI.1-9",
+      "source_locator": "Gebhardt 1902, p. 113–114, XXI.1-9",
+      "source_anchor": "Ἀπελθόντος δὲ αὐτοῦ μετὰ σπουδῆς",
+      "status": "pending"
+    },
+    {
+      "id": "XXII.1-4",
+      "source_locator": "Gebhardt 1902, p. 114, XXII.1-4",
+      "source_anchor": "Τοῦτον βίον διανύσας",
+      "status": "pending"
+    },
+    {
+      "id": "XXIII.1",
+      "source_locator": "Gebhardt 1902, p. 114, XXIII.1",
+      "source_anchor": "Ταῦτα ἐπράχθη ἐπὶ ἀνθυπάτου",
+      "status": "pending"
+    }
+  ],
+  "review": {
+    "type": "translator_self_review",
+    "date": "2026-11-10",
+    "scope": "I—VI全部47个原编号段逐句对照扫描主文及版下注；复核否定、献祭／监禁对象、引语说话人、条件、编成锁链、圣饼和水、异文拟补及末尾限定分词。不代表独立专家审定或VII—XXIII译毕。"
+  }
+}

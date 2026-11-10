@@ -10,7 +10,7 @@
 | 2 | [居普良案录](books/lori_b--lb12/translation.md) | 拉丁文 | 全文译毕并自校 | [底本档案](../christian-text-sources/books/lori_b--lb12/record.json) |
 | 3 | [游斯丁及同伴殉道案录](books/lori_b--lb10/translation.md) | 希腊文，多个修订本 | 全文译毕并自校 | [底本档案](../christian-text-sources/books/lori_b--lb10/record.json) |
 | 4 | [塞巴斯特四十殉道者遗嘱](books/lori_b--lb15/translation.md) | 希腊文 | 全文译毕并自校 | [底本档案](../christian-text-sources/books/lori_b--lb15/record.json) |
-| 5 | 皮奥尼乌斯殉道记 | 希腊文 | 待完整性核验 | [底本档案](../christian-text-sources/books/lori_b--lb13/record.json) |
+| 5 | 皮奥尼乌斯殉道记 | 希腊文 | 翻译中 | [底本档案](../christian-text-sources/books/lori_b--lb13/record.json) |
 | 6 | 修士天梯 | 拉丁语 | 待完整性核验 | [底本档案](../christian-text-sources/books/lori_a--guigo-ladder/record.json) |
 | 7 | 论幸福生活 | 拉丁语 | 待完整性核验 | [底本档案](../christian-text-sources/books/lori_a--augustine-happy-life/record.json) |
 | 8 | 论死亡之善 | 拉丁语 | 待完整性核验 | [底本档案](../christian-text-sources/books/lori_a--ambrose-death/record.json) |

@@ -76,8 +76,8 @@
       "id": "lori_b:lb13",
       "slug": "lori_b--lb13",
       "title": "皮奥尼乌斯殉道记",
-      "status": "needs_completeness_check",
-      "next_action": "先核该版本全文首尾、全部章段及原作是否残缺；原语优先。核源重点：逐页核96–114希腊文并对照Musurillo／Robert校本；不采网络新AI英译代替既有校本。",
+      "status": "translating",
+      "next_action": "I—VI已译并自校9个工作单元（47个原编号段）；从VII.1-6续译。底本印页101末行起至102页，先核本章στρατηγός、ἐκκλησία集会语义、撒比娜笑与威胁卖入妓院的对话，勿漏跨页句；依冻结30单元接续。",
       "original_language": "希腊文",
       "available_languages": [
         "希腊语"

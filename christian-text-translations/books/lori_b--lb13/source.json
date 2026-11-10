@@ -1,0 +1,185 @@
+{
+  "schema": 1,
+  "source_record": "christian-text-sources/books/lori_b--lb13/record.json",
+  "edition": "Oscar von Gebhardt (ed.), Acta martyrum selecta, Berlin: Verlag von Alexander Duncker, 1902",
+  "work_title": "Μαρτύριον τοῦ ἁγίου Πιονίου τοῦ πρεσβυτέρου καὶ τῶν σὺν αὐτῷ",
+  "language": "希腊语",
+  "translation_basis": "直接据1902年希腊校本翻译；不据现代外语译本转译，不采用网络AI新译",
+  "accessed": "2026-11-10",
+  "printed_pages": "96—114",
+  "source_urls": [
+    "https://archive.org/details/actamartyrumsel00gebhgoog",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n11.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n15.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n112.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n113.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n114.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n115.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n116.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n117.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n118.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n119.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n120.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n121.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n122.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n123.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n124.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n125.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n126.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n127.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n128.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n129.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n130.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n131.jpg"
+  ],
+  "artifacts": [
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg",
+      "printed_page": "title page",
+      "sha256": "85e35af4f6439f7ce8ac8eba1abf3fb7e90639ce2dc452bba052ec3964a81064",
+      "role": "已目视核读：题页"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n11.jpg",
+      "printed_page": "VII",
+      "sha256": "fa9a2c62a6105276774c865b9afdb9111616034891ca8ac6dde268c456f638bb",
+      "role": "已目视核读：本篇版本序言"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n15.jpg",
+      "printed_page": "contents",
+      "sha256": "cb3939f2c9b4634759aaae00d529bcb11a42c01cb1aabd88dcdc6fe74dfdb4c4",
+      "role": "已目视核读：目录"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n112.jpg",
+      "printed_page": 96,
+      "sha256": "507e288743a04245742f264178685bd57673342b1cfb42d0ea7a9b6030bec86d",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n113.jpg",
+      "printed_page": 97,
+      "sha256": "f58f80935a22b3784e1296286504a650852d14b7aac61f4120359c6a7fecf55c",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n114.jpg",
+      "printed_page": 98,
+      "sha256": "3b1740573e5780bce6839f7a1ac5d6ca23976cb9ce1e01fa4b828ff5b2624bb2",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n115.jpg",
+      "printed_page": 99,
+      "sha256": "c60e757e893ff1f0c290400e2bf74eb33ff38720dd7b194c3fd49b8a2f350c00",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n116.jpg",
+      "printed_page": 100,
+      "sha256": "bc0ec197ac5ce26512b1605a90d9a8fc00cd191a13ffac66536838bd55da7649",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n117.jpg",
+      "printed_page": 101,
+      "sha256": "0378e9a07ae8cba30db8e415d500957545ca2eeba3a2d982168040c50fd19c0c",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n118.jpg",
+      "printed_page": 102,
+      "sha256": "d6ac05c42bae27c9fabd0485d3bff2bfb319a62be661f6836eb82cfe1e50bdbf",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n119.jpg",
+      "printed_page": 103,
+      "sha256": "b8c187a663a41840034a7eab86344ce44da7e36257ef97365e76f2710f9dcd8e",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n120.jpg",
+      "printed_page": 104,
+      "sha256": "7c04917c4960486e44cd8c493d918912992aa8bd98628f4df4507eaaa9e03183",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n121.jpg",
+      "printed_page": 105,
+      "sha256": "0062e3b0187ac3438437483f6dd6825bf82916a1332de4ebc1f5e04eedc9abf0",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n122.jpg",
+      "printed_page": 106,
+      "sha256": "6713ae50edb45e17030cd221c579e7d69677d449a4469815c25b8d96c16e942e",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n123.jpg",
+      "printed_page": 107,
+      "sha256": "195e1a129e5a3a68e7296df8c877f826d88859621bb0d805178abc3362073647",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n124.jpg",
+      "printed_page": 108,
+      "sha256": "8c2af1669fd4c20d029919198ba60c81b2ddc33aba5a7258d30b86d847704c29",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n125.jpg",
+      "printed_page": 109,
+      "sha256": "3b5a9c77d369131dd2c6e35d0bd0259b241b1c23d9cba6d9c1a4128d1b2352db",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n126.jpg",
+      "printed_page": 110,
+      "sha256": "8a6fcece5fe14a7bc8ab996c950a25e5ff443153bf4aeb997af310bc4946f1ed",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n127.jpg",
+      "printed_page": 111,
+      "sha256": "06356df7c0ded261037cce587aace12d5bf400f2990d832a6da46f6d2c2f798b",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n128.jpg",
+      "printed_page": 112,
+      "sha256": "bad0c0237776e7c5a29b9eeec4f8becd7913c13299a23aa6c72f7788c6618a17",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n129.jpg",
+      "printed_page": 113,
+      "sha256": "3fa6969e721fe50a95bd60c48c677698c7320640370b9a4feb0cb51c42eeb67c",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n130.jpg",
+      "printed_page": 114,
+      "sha256": "a29d54f76d2a4a7f6a451ac38427f2bbd9fbe406193ca38ac7e1ed557ff639a7",
+      "role": "已目视核读：正文连续页及章段范围"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n131.jpg",
+      "printed_page": 115,
+      "sha256": "2da1ca72675ff2c9a5ed2d2520a92d4cbe88d3572a0d475cc11d2c4aafe72b9c",
+      "role": "已目视核读：第IX项首面，排除范围"
+    }
+  ],
+  "completeness": {
+    "verified": true,
+    "scope": "第VIII项I—XXIII章全篇题署、主文及结尾纪年、颂词；按30个工作单元冻结，未译单元保持pending。",
+    "method": "目视核读十九页连续正文，核全部章序与编号段边界、114页末尾阿们及115页下一作品另起；目录及相关序言另核。",
+    "limits": "完整仅指该版本篇幅齐全，未证明作者归属、历史真实性及手稿无缺；未直接查验Musurillo/Robert校本或手稿，未把待核新版比较冒称完成。全卷260页勘误在此扫描缺收。后续单元的疑难、校者补字与异读须在翻译时逐项展开。"
+  },
+  "rights_basis": "古代原作及1902年旧校本；不复制现代外文译本。",
+  "review_level": "I—VI已逐句由译者自校；VII—XXIII仅核篇幅与编号，尚未翻译。",
+  "edition_lineage": "序言VII：从Archiv für slavische Philologie XVIII (Berlin 1896), p.156 ss.略改重印；本次未直接查阅1896年版，不移用前项的单手稿说明。"
+}
