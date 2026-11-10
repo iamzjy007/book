@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B11",
+  "sequence": 133,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B11",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "biblethinkermikewinger",
+      [
+        "https://biblethinker.org",
+        "https://biblethinker.org/meet-mike"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B11",
+    "title_zh": "BibleThinker / Mike Winger",
+    "original_title": "BibleThinker / Mike Winger",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "长篇视频释经、专题研究、直播问答与播客",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://biblethinker.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      },
+      {
+        "url": "https://biblethinker.org/meet-mike/",
+        "read_scope": "教师身份、免费宗旨、美国Bellflower地址及不隶属当地教会说明"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B11",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B11",
+      "title": "BibleThinker / Mike Winger",
+      "kind": "长篇视频释经、专题研究、直播问答与播客",
+      "tradition": "新教福音派个人教师事工；官网说没有自有已发表信仰声明，Winger认同其所属教会声明，但该教会不隶属本事工。",
+      "description": "以Mike Winger为主要讲员，结合逐节释经、护教及伦理问题长篇问答。",
+      "value": "能看到论证过程和经文分析；批判其他传统的内容宜配被讨论方原始材料。",
+      "sources": [
+        {
+          "url": "https://biblethinker.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://biblethinker.org/meet-mike/",
+          "read_scope": "教师身份、免费宗旨、美国Bellflower地址及不隶属当地教会说明"
+        }
+      ],
+      "update_evidence": "首页列Q&A Ep83、Ep82但所读文本没有发布日期；不由编号推断2026更新频率。",
+      "subscription": "官网说明可通过主要播客平台收听；RSS/email入口未核。",
+      "chinese_status": "本轮未核官方中文翻译渠道；第三方字幕不自动认作授权译本。",
+      "access_and_cost": "About明确免费教学内容；由支持者资助，未发现必须付费才可收听条件。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.989909+00:00"
+  }
+}

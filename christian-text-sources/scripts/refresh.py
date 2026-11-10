@@ -6,6 +6,9 @@ ROOT = Path(__file__).resolve().parents[1]
 LABELS={'queued':'待检索','fulltext_online':'正文可直达','partial_online':'部分正文可直达','scan_candidate':'扫描入口待核','metadata_only':'仅书目／版本入口','blocked':'访问受阻','needs_review':'待版本复核'}
 def save(path, obj):
     tmp=path.with_suffix(path.suffix+'.tmp'); tmp.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n'); tmp.replace(path)
+def write_text(path, value):
+    tmp=path.with_suffix(path.suffix+'.tmp'); tmp.write_text(value); tmp.replace(path)
+
 def run():
     manifest=json.loads((ROOT/'inventory/manifest.json').read_text())
     counts=collections.Counter(); rows=[]; queue=[]; ids=set()
@@ -40,11 +43,21 @@ def run():
         lines+=['','## 检索记录与断点','']
         for at in a['attempts']: lines.append(f"- {at.get('date','')}：{at.get('query',at.get('url',''))} — {at.get('result','')}")
         lines+=['',f"下一步：{a['next_action']}",'',f"数据：[record.json](record.json)。正文入口核实不代表逐字校勘或翻译已完成。",'']
-        (path.parent/'README.md').write_text('\n'.join(lines))
-        if a['status']!='fulltext_online': queue.append({'id':rid,'status':a['status'],'next_action':a['next_action'],'record_path':item['path']})
-    queue.sort(key=lambda q: (0 if q['status']=='queued' else 1, next(x['sequence'] for x in manifest['records'] if x['id']==q['id'])))
-    (ROOT/'CATALOG.md').write_text('# 原始内容获取总目录\n\n共110条原研究档案；一条不一定等于一部完整古书。按在线入口保存，无需下载即可继续阅读。\n\n| 序号 | 书目档案 | 获取状态 | 正文／扫描入口 |\n|---|---|---|---|\n'+'\n'.join(rows)+'\n')
-    save(ROOT/'queue.json',{'schema':1,'next_task':queue[0]['id'] if queue else None,'tasks':queue})
-    save(ROOT/'progress.json',{'schema':1,'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'total':len(ids),'counts':dict(counts),'next_task':queue[0]['id'] if queue else None,'background_process':False,'record_files_are_authoritative':True,'initial_pass_complete':not counts.get('queued',0),'direct_text_records':counts.get('fulltext_online',0)+counts.get('partial_online',0),'no_verified_text_records':sum(counts.get(k,0) for k in ['metadata_only','scan_candidate','blocked','needs_review']),'resume_instruction':'先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。'})
-    print(json.dumps({'total':len(ids),'counts':dict(counts),'next_task':queue[0]['id'] if queue else None},ensure_ascii=False))
+        write_text(path.parent/'README.md', '\n'.join(lines))
+        if a['status']!='fulltext_online': queue.append({'id':rid,'status':a['status'],'next_action':a['next_action'],'record_path':item['path'], 'scope':rec.get('provenance',{}).get('scope','ancient-christian-literature'), 'sequence':item['sequence'], 'updated_at':a.get('updated_at','')})
+    # New scope first; unfinished imported tasks survive every refresh. For revisits,
+    # oldest attempt first prevents repeatedly retrying the same blocked record.
+    active=manifest.get('active_scope')
+    queue.sort(key=lambda q: (0 if q['scope']==active else 1, 0 if q['status']=='queued' else 1,
+                             '' if q['status']=='queued' else q['updated_at'], q['sequence']))
+    write_text(ROOT/'CATALOG.md', f'# 原始内容获取总目录\n\n共{len(ids)}条资源档案，涵盖古代与近现代研究；包括书籍、作者、事工、期刊和馆藏入口，不能统称为完整书籍。按在线路径保存，具体范围见各档案。\n\n| 序号 | 书目档案 | 获取状态 | 正文／扫描入口 |\n|---|---|---|---|\n'+'\n'.join(rows)+'\n')
+    scope_counts={}
+    for item in manifest['records']:
+        rec=json.loads((ROOT/item['path']).read_text())
+        scope=rec.get('provenance',{}).get('scope','ancient-christian-literature')
+        stats=scope_counts.setdefault(scope, collections.Counter())
+        stats[rec['acquisition']['status']]+=1
+    save(ROOT/'queue.json',{'schema':1,'active_scope':active,'next_task':queue[0]['id'] if queue else None,'tasks':queue})
+    save(ROOT/'progress.json',{'schema':1,'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'total':len(ids),'active_scope':active,'scope_counts':{k:dict(v) for k,v in scope_counts.items()},'counts':dict(counts),'next_task':queue[0]['id'] if queue else None,'background_process':False,'record_files_are_authoritative':True,'initial_pass_complete':not counts.get('queued',0),'direct_text_records':counts.get('fulltext_online',0)+counts.get('partial_online',0),'no_verified_text_records':sum(counts.get(k,0) for k in ['metadata_only','scan_candidate','blocked','needs_review']),'resume_instruction':'先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。'})
+    print(json.dumps({'total':len(ids),'active_scope':active,'scope_counts':{k:dict(v) for k,v in scope_counts.items()},'counts':dict(counts),'next_task':queue[0]['id'] if queue else None},ensure_ascii=False))
 if __name__=='__main__': run()

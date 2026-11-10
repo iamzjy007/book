@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la07",
+  "sequence": 161,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la07",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "plough",
+      [
+        "https://plough.com",
+        "https://plough.com/about-us",
+        "https://plough.com/subscribe"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la07",
+    "title_zh": "Plough",
+    "original_title": "Plough",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "季刊／文化与灵修文章／公共信仰／邮件通讯",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.plough.com/",
+        "read_scope": "首页与栏目",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.plough.com/about-us",
+        "read_scope": "Bruderhof背景、创立历史及美国所在地",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.plough.com/subscribe",
+        "read_scope": "数字、纸刊加数字及会员方案、无限网站访问权益",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la07",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la07",
+      "title": "Plough",
+      "kind": "季刊／文化与灵修文章／公共信仰／邮件通讯",
+      "tradition": "源自Bruderhof共同体、重视登山宝训；作者跨宗派",
+      "description": "由1920年创立、现设纽约州Walden的Plough Publishing House出版；兼有英国与澳大利亚机构。",
+      "value": "适合共同生活、非暴力、工作与信仰及文学阅读；其共同体传统为解读编辑选择的重要背景。",
+      "sources": [
+        {
+          "url": "https://www.plough.com/",
+          "read_scope": "首页与栏目",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.plough.com/about-us",
+          "read_scope": "Bruderhof背景、创立历史及美国所在地",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.plough.com/subscribe",
+          "read_scope": "数字、纸刊加数字及会员方案、无限网站访问权益",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有免费通讯入口，但无限网站阅读列为付费权益；数字、纸刊加数字及会员方案须区别。纸刊为季刊，不应沿旧印象称全站免费。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 订阅页说明季刊／每年4期。",
+      "chinese_status": "本轮定向检索site.plough.com Chinese 中文未确认官方中文频道；未穷检中文图书和授权译介。",
+      "next": "核最新刊期，另查具体中文书目，不把未检得视为无出版。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核最新刊期，另查具体中文书目，不把未检得视为无出版。",
+    "updated_at": "2026-11-10T09:17:54.995364+00:00"
+  }
+}

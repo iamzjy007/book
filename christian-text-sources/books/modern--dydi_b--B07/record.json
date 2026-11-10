@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B07",
+  "sequence": 129,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B07",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "intouchministriescharlesstanley",
+      [
+        "https://intouch.org"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B07",
+    "title_zh": "In Touch Ministries / Charles Stanley",
+    "original_title": "In Touch Ministries / Charles Stanley",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "灵修文章、广播、讲道视频",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.intouch.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B07",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B07",
+      "title": "In Touch Ministries / Charles Stanley",
+      "kind": "灵修文章、广播、讲道视频",
+      "tradition": "福音派牧养与生活应用取向；Charles Stanley为创办人，非把现播内容都视为本人新作。",
+      "description": "以信靠、祷告、顺服与生活困境为主题，每日灵修搭配广播及每周讲章。",
+      "value": "适合短时日用灵修和陪伴性聆听；精确释经研究可配其他来源。",
+      "sources": [
+        {
+          "url": "https://www.intouch.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        }
+      ],
+      "update_evidence": "首页日课及广播标2026-11-09；staff Bible Study标11-08；每周讲章标11-07，均为页面发布日期。",
+      "subscription": "官网明确Free Weekly Newsletter、Daily Devotions Email及Free Monthly Devotional；纸本寄送地区条件未核。",
+      "chinese_status": "官网语言选择存在；中文具体内容及更新频率待核。",
+      "access_and_cost": "免费周邮件/月灵修明确；Store售卖商品另计，未办理领取或订阅。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.989312+00:00"
+  }
+}

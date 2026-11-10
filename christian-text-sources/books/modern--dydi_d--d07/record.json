@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d07",
+  "sequence": 151,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d07",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "ignatianspiritualitycomdotmagis",
+      [
+        "https://ignatianspirituality.com"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d07",
+    "title_zh": "IgnatianSpirituality.com / dotMagis",
+    "original_title": "IgnatianSpirituality.com / dotMagis",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "出版机构灵修网站／博客",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.ignatianspirituality.com/",
+        "read_scope": "栏目、近期标题、作者、页脚Loyola Press版权",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d07",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d07",
+      "title": "IgnatianSpirituality.com / dotMagis",
+      "kind": "出版机构灵修网站／博客",
+      "tradition": "天主教依纳爵灵修；Loyola Press",
+      "description": "提供神操、省察、分辨、在线退修、祈祷及多作者博客。",
+      "value": "适合按主题循序学习，和耶稣会总入口有联系，但属于独立网站资源，不能当作两份独立神学证据。",
+      "sources": [
+        {
+          "url": "https://www.ignatianspirituality.com/",
+          "read_scope": "栏目、近期标题、作者、页脚Loyola Press版权",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "本轮首页未核实电子邮件或RSS订阅机制。",
+      "update_evidence": "首页列出分步骤省察系列和多篇新标题，498页博客索引；未核具体发布日期或固定更新频率。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "从 About This Site 的实际链接核出版背景；抽读退修使用说明及订阅页。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：从 About This Site 的实际链接核出版背景；抽读退修使用说明及订阅页。",
+    "updated_at": "2026-11-10T09:17:54.993389+00:00"
+  }
+}

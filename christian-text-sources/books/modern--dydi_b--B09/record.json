@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B09",
+  "sequence": 131,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B09",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "gotquestionsministriesgotquestionsorg",
+      [
+        "https://gotquestions.org",
+        "https://gotquestions.org/about.html",
+        "https://gotquestions.org/donate.html"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B09",
+    "title_zh": "Got Questions Ministries / GotQuestions.org",
+    "original_title": "Got Questions Ministries / GotQuestions.org",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "圣经问答文章、音视频与播客",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.gotquestions.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      },
+      {
+        "url": "https://www.gotquestions.org/about.html",
+        "read_scope": "官方身份、内容审阅机制及商业链接披露"
+      },
+      {
+        "url": "https://www.gotquestions.org/donate.html",
+        "read_scope": "仅核官方Colorado Springs美国通信地址"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B09",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B09",
+      "title": "Got Questions Ministries / GotQuestions.org",
+      "kind": "圣经问答文章、音视频与播客",
+      "tradition": "官方明确福音派、神学保守、无宗派的教会辅助事工。",
+      "description": "按经文、教义和生活问题组织短篇答问，并提供提问与每周问题邮件。",
+      "value": "适合问题索引和初步释经线索；答案代表其神学立场，不等于跨传统学术共识。",
+      "sources": [
+        {
+          "url": "https://www.gotquestions.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.gotquestions.org/about.html",
+          "read_scope": "官方身份、内容审阅机制及商业链接披露"
+        },
+        {
+          "url": "https://www.gotquestions.org/donate.html",
+          "read_scope": "仅核官方Colorado Springs美国通信地址"
+        }
+      ],
+      "update_evidence": "首页last updated为2026-11-09；这是页面更新戳，不等于所有文章当日修订。About标2026-04-20。",
+      "subscription": "首页及About明确Question of the Week邮件订阅；具体RSS未核。",
+      "chinese_status": "About说有translations，中文专题未打开核查，待核。",
+      "access_and_cost": "在线问答公开可读；推荐资源有Amazon/Logos分销链接，购书不在免费内容范围。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.989603+00:00"
+  }
+}

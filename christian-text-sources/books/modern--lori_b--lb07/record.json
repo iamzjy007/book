@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "id": "modern:lori_b:lb07",
+  "sequence": 172,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_b:lb07",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "justocatherinegonzálezresourcecenteraeth",
+      [
+        "https://gonzalezcenter.org/digital-collections"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_b:lb07",
+    "title_zh": "Justo & Catherine González Resource Center / AETH",
+    "original_title": "Justo & Catherine González Resource Center / AETH",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "美国西语裔神学资源中心/数字收藏",
+    "area": "多元作者与宣教",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://gonzalezcenter.org/digital-collections",
+        "read_scope": "实际读英文收藏介绍、持续上传说明、登录/会员入口；另检索AETH英语2026通讯线索，未下载或读通讯全文。",
+        "access": "official page opened",
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_b:lb07",
+      "group": "多元作者与宣教",
+      "record_file": "workers/lori_b.json",
+      "id": "lb07",
+      "title": "Justo & Catherine González Resource Center / AETH",
+      "kind": "美国西语裔神学资源中心/数字收藏",
+      "tradition": "西语裔新教神学教育与女性神学教育；英西双语入口",
+      "description": "中心收藏Justo González讲道、查经、讲座及Catherine González独著和合著；官方明确持续上传。",
+      "value": "将美国拉丁裔历史、神学教育与女性作者纳入研究；注意英文界面中的材料可能是西语。",
+      "sources": [
+        {
+          "url": "https://gonzalezcenter.org/digital-collections",
+          "read_scope": "实际读英文收藏介绍、持续上传说明、登录/会员入口；另检索AETH英语2026通讯线索，未下载或读通讯全文。",
+          "access": "official page opened",
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "González个别著作中文出版须按书单核，不能据作者有中译推断档案全文有译；本轮未完成该核查。",
+      "updates": {
+        "evidence": "官网明确持续上传；部分访问与AETH会员/中心Friends相关，不是全免费。英文ECOS Q1 2026仅为检索线索。",
+        "subscribed_this_round": false
+      },
+      "next": "逐件确认语言和授权层级，优先挑实际英文讲座；不得将西语资源直接标为英文全文。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：逐件确认语言和授权层级，优先挑实际英文讲座；不得将西语资源直接标为英文全文。",
+    "updated_at": "2026-11-10T09:17:54.997816+00:00"
+  }
+}

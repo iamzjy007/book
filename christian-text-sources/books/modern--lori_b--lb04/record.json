@@ -1,0 +1,81 @@
+{
+  "schema": 1,
+  "id": "modern:lori_b:lb04",
+  "sequence": 169,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_b:lb04",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "christianitytodayctwomen与官方translations",
+      [
+        "https://christianitytoday.com/newsletters",
+        "https://christianitytoday.com/translations"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_b:lb04",
+    "title_zh": "Christianity Today：CT Women与官方Translations",
+    "original_title": "Christianity Today：CT Women与官方Translations",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "杂志栏目/邮件选读",
+    "area": "多元作者与宣教",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.christianitytoday.com/newsletters/",
+        "read_scope": "实际核CT Women Weekly及简繁中文Monthly字段、官网订阅表单；未实际提交订阅。",
+        "access": "official page opened",
+        "date": "2026-11-10"
+      },
+      {
+        "url": "https://www.christianitytoday.com/translations/",
+        "read_scope": "搜索返回官方说明：仅选定文章、多种语言；未逐篇核译",
+        "access": "search result"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_b:lb04",
+      "group": "多元作者与宣教",
+      "record_file": "workers/lori_b.json",
+      "id": "lb04",
+      "title": "Christianity Today：CT Women与官方Translations",
+      "kind": "杂志栏目/邮件选读",
+      "tradition": "美国福音派媒体；作者观点多元，非单一教派信条",
+      "description": "CT Women官方每周选读突出女性作者；同站提供简繁中文月度邮件。",
+      "value": "适合观察教会、家庭、门训与公共议题；比较新闻报道和作者评论，避免以栏目代表所有女性。",
+      "sources": [
+        {
+          "url": "https://www.christianitytoday.com/newsletters/",
+          "read_scope": "实际核CT Women Weekly及简繁中文Monthly字段、官网订阅表单；未实际提交订阅。",
+          "access": "official page opened",
+          "date": "2026-11-10"
+        },
+        {
+          "url": "https://www.christianitytoday.com/translations/",
+          "read_scope": "搜索返回官方说明：仅选定文章、多种语言；未逐篇核译",
+          "access": "search result"
+        }
+      ],
+      "chinese_status": "官方简体、繁体中文邮件已确认；只涵盖选文，不能假定CT Women全部已中译。",
+      "updates": {
+        "evidence": "每周CT Women；中文每月。官网还注明部分其他邮件迁至Substack，持续跟踪迁移。",
+        "subscribed_this_round": false
+      },
+      "next": "先查目标文章是否已有官方译文，再做原创中文评介；稿件注明报道/评论类型。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先查目标文章是否已有官方译文，再做原创中文评介；稿件注明报道/评论类型。",
+    "updated_at": "2026-11-10T09:17:54.997367+00:00"
+  }
+}

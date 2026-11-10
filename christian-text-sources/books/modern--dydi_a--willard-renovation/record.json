@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_a:willard-renovation",
+  "sequence": 111,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_a:willard-renovation",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "dallaswillardrenovationoftheheart心灵的重塑",
+      [
+        "https://cc-us.org/shop/c9789622086753",
+        "https://dwillard.org/resources/books/renovation-of-the-heart"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_a:willard-renovation",
+    "title_zh": "Dallas Willard — Renovation of the Heart（心灵的重塑）",
+    "original_title": "Dallas Willard — Renovation of the Heart（心灵的重塑）",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "单著",
+    "area": "书籍与作者",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://dwillard.org/resources/books/renovation-of-the-heart",
+        "read_scope": "作者事工书目、2002版本、简介与Chinese链接",
+        "actually_read": true,
+        "date": "2026-11-10"
+      },
+      {
+        "url": "https://www.cc-us.org/shop/c9789622086753/",
+        "read_scope": "实际读中英对应题名、作者译者、出版社日期ISBN",
+        "actually_read": true
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_a:willard-renovation",
+      "group": "书籍与作者",
+      "record_file": "workers/dydi_a.json",
+      "id": "willard-renovation",
+      "title": "Dallas Willard — Renovation of the Heart（心灵的重塑）",
+      "kind": "单著",
+      "tradition": "美国新教灵命塑造；跨宗派读者",
+      "description": "讨论整个人的品格如何在门徒生活中转变。官方书目列NavPress2002原版，另有英国修改版与配套课程，不能混为同版。",
+      "value": "适合细察行为习惯、内心及群体关系之间的联系；不将作者营销赞誉作为效果证据。",
+      "sources": [
+        {
+          "url": "https://dwillard.org/resources/books/renovation-of-the-heart",
+          "read_scope": "作者事工书目、2002版本、简介与Chinese链接",
+          "actually_read": true,
+          "date": "2026-11-10"
+        },
+        {
+          "url": "https://www.cc-us.org/shop/c9789622086753/",
+          "read_scope": "实际读中英对应题名、作者译者、出版社日期ISBN",
+          "actually_read": true
+        }
+      ],
+      "chinese_status": "已核中文：证主美国书店列《心靈的重塑》，谭晴译，天道书楼，2006-7，ISBN9789622086753；这是香港出版社版本线索，不证明大陆正式出版。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+    "updated_at": "2026-11-10T09:17:54.985261+00:00"
+  }
+}

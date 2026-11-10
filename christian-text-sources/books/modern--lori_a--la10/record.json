@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la10",
+  "sequence": 163,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la10",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "baptistnewsglobal",
+      [
+        "https://baptistnews.com",
+        "https://baptistnews.com/more/about"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la10",
+    "title_zh": "Baptist News Global",
+    "original_title": "Baptist News Global",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "新闻网站／分析／意见／聚合新闻",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://baptistnews.com/",
+        "read_scope": "首页栏目及新闻入口",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://baptistnews.com/more/about/",
+        "read_scope": "历史、读者资助及Baptist／ecumenical自述",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la10",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la10",
+      "title": "Baptist News Global",
+      "kind": "新闻网站／分析／意见／聚合新闻",
+      "tradition": "美国独立浸信会背景、普世教会取向",
+      "description": "读者支持的独立媒体，继承Associated Baptist Press与Religious Herald传统；网站分别标注News、Opinion、Analysis、Curated。",
+      "value": "可补浸信会公共生活视角；使用时保留栏目标签，聚合报道需要追到原始媒体。",
+      "sources": [
+        {
+          "url": "https://baptistnews.com/",
+          "read_scope": "首页栏目及新闻入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://baptistnews.com/more/about/",
+          "read_scope": "历史、读者资助及Baptist／ecumenical自述",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "实际访问首页及机构页无需付费；有捐助模式，但没有穷尽测试文章付费墙。猜测的newsletter路径访问失败，邮件收费与正式登记路径待核。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "从当前首页重新定位正式邮件登记链接；抽查报道原始来源及最近日期。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：从当前首页重新定位正式邮件登记链接；抽查报道原始来源及最近日期。",
+    "updated_at": "2026-11-10T09:17:54.995698+00:00"
+  }
+}

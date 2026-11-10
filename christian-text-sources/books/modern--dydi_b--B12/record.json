@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B12",
+  "sequence": 134,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B12",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "reasonablefaithwilliamlanecraig",
+      [
+        "https://reasonablefaith.org",
+        "https://reasonablefaith.org/writings/question-answer"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B12",
+    "title_zh": "Reasonable Faith / William Lane Craig",
+    "original_title": "Reasonable Faith / William Lane Craig",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "护教文章、每周问答、播客、讲座与辩论",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.reasonablefaith.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      },
+      {
+        "url": "https://www.reasonablefaith.org/writings/question-answer/",
+        "read_scope": "实际问答目录及日期"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B12",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B12",
+      "title": "Reasonable Faith / William Lane Craig",
+      "kind": "护教文章、每周问答、播客、讲座与辩论",
+      "tradition": "福音派哲学护教；Craig的论证及神学模型应与其他福音派立场区别。",
+      "description": "讨论神存在、历史耶稣、科学与信仰、苦难及基督教教义，另有Defenders课程播客。",
+      "value": "适合深入哲学论证与信仰问难；技术术语较多，非主要短篇日用灵修。",
+      "sources": [
+        {
+          "url": "https://www.reasonablefaith.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.reasonablefaith.org/writings/question-answer/",
+          "read_scope": "实际问答目录及日期"
+        }
+      ],
+      "update_evidence": "问答1016标2026-11-02，1015为10-26，1014为10-19；明确近月有发布。",
+      "subscription": "首页有newsletter signup、多个播客及In the Arena feed链接；未测试feed内容。",
+      "chinese_status": "官网有Translations入口但直开403；中文覆盖待核，不据此说无。",
+      "access_and_cost": "官网公开文章、播客；Equip明确entirely FREE课程，外部书籍价格未核。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.990096+00:00"
+  }
+}

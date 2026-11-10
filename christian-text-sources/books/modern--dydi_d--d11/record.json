@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d11",
+  "sequence": 153,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d11",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "practicingtheway",
+      [
+        "https://practicingtheway.org"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d11",
+    "title_zh": "Practicing the Way",
+    "original_title": "Practicing the Way",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "属灵塑造课程／书籍与实践工具入口",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.practicingtheway.org/",
+        "read_scope": "课程、九操练、免费账户、邮件及群体使用说明",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d11",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d11",
+      "title": "Practicing the Way",
+      "kind": "属灵塑造课程／书籍与实践工具入口",
+      "tradition": "当代美国福音派及跨教会属灵塑造；John Mark Comer相关事工",
+      "description": "提供八课导论、安息日等九类操练、Rule of Life Builder、播客及相关书籍。",
+      "value": "适合小组连续实践与反馈；官网强调群体使用而非独自完成技巧清单。",
+      "sources": [
+        {
+          "url": "https://www.practicingtheway.org/",
+          "read_scope": "课程、九操练、免费账户、邮件及群体使用说明",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "可登记 regular emails／occasional updates，无固定周频承诺；官网称账户及资源免费，实体书和产品另有购买链接。",
+      "update_evidence": "首页标新书 Into the Quiet 已可购买，未核出版日期或播客最近更新日期。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "进一步核美国法人信息、账户隐私、下载材料许可及中文资源覆盖。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：进一步核美国法人信息、账户隐私、下载材料许可及中文资源覆盖。",
+    "updated_at": "2026-11-10T09:17:54.993685+00:00"
+  }
+}

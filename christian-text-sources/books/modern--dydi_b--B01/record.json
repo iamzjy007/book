@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B01",
+  "sequence": 123,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B01",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "desiringgodjohnpiper",
+      [
+        "https://desiringgod.org",
+        "https://desiringgod.org/about",
+        "https://desiringgod.org/podcasts",
+        "https://desiringgod.org/translations"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B01",
+    "title_zh": "Desiring God / John Piper",
+    "original_title": "Desiring God / John Piper",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "文章、讲章、问答与灵修播客",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.desiringgod.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      },
+      {
+        "url": "https://www.desiringgod.org/about",
+        "read_scope": "使命、教师及资源免费声明"
+      },
+      {
+        "url": "https://www.desiringgod.org/podcasts",
+        "read_scope": "实际列Apple/Spotify及RSS入口"
+      },
+      {
+        "url": "https://www.desiringgod.org/translations",
+        "read_scope": "中文栏目及TGC China链接"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B01",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B01",
+      "title": "Desiring God / John Piper",
+      "kind": "文章、讲章、问答与灵修播客",
+      "tradition": "福音派；自述Christian Hedonism，以在基督里的喜乐为核心；更细宗派立场应读其信仰声明。",
+      "description": "围绕经文、基督徒生活与宣教发布文章，提供Ask Pastor John、Look at the Book与Solid Joys。",
+      "value": "适合短篇灵修与逐段释经，可同时比较音频和文字。",
+      "sources": [
+        {
+          "url": "https://www.desiringgod.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.desiringgod.org/about",
+          "read_scope": "使命、教师及资源免费声明"
+        },
+        {
+          "url": "https://www.desiringgod.org/podcasts",
+          "read_scope": "实际列Apple/Spotify及RSS入口"
+        },
+        {
+          "url": "https://www.desiringgod.org/translations",
+          "read_scope": "中文栏目及TGC China链接"
+        }
+      ],
+      "update_evidence": "首页见2026-11-09 Light + Truth、11-08文章；首页亦列11-11未来项，未把未来日期算已发布。",
+      "subscription": "播客页已核RSS及平台入口；具体feed XML未测试。",
+      "chinese_status": "官网Translations明确列Chinese并链接TGC China；不表示每期播客均有中文。",
+      "access_and_cost": "About明确站内资源免费、主要由捐款支持；外部纸书购买另计。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.988220+00:00"
+  }
+}

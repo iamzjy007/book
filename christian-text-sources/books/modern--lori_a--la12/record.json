@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la12",
+  "sequence": 165,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la12",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "mockingbirdmbird",
+      [
+        "https://mbird.com",
+        "https://mbird.com/faq",
+        "https://mbird.com/new-here"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la12",
+    "title_zh": "Mockingbird (Mbird)",
+    "original_title": "Mockingbird (Mbird)",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "博客／杂志／播客／文化与灵修写作",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://mbird.com/",
+        "read_scope": "首页文章、日期、杂志和播客入口",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://mbird.com/new-here/",
+        "read_scope": "正确的机构介绍页；连接信仰与日常生活",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://mbird.com/faq/",
+        "read_scope": "主题、神学倾向及宗派隶属说明",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la12",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la12",
+      "title": "Mockingbird (Mbird)",
+      "kind": "博客／杂志／播客／文化与灵修写作",
+      "tradition": "美国宗教改革取向，受路德与英国宗教改革影响；无正式宗派隶属",
+      "description": "以日常生活、流行文化、文学、心理和幽默讨论律法与福音、十字架和恩典；FAQ明示没有正式宗派隶属。",
+      "value": "适合生活经验与福音的随笔阅读；心理或新闻论述仍须另查专业证据，不宜作为纯新闻或学术期刊。",
+      "sources": [
+        {
+          "url": "https://mbird.com/",
+          "read_scope": "首页文章、日期、杂志和播客入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://mbird.com/new-here/",
+          "read_scope": "正确的机构介绍页；连接信仰与日常生活",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://mbird.com/faq/",
+          "read_scope": "主题、神学倾向及宗派隶属说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "博客及FAQ实际公开可读，杂志通过商店提供；本次未核杂志订阅的当前价格和邮寄条款，也未实际订阅。",
+      "update_evidence": "首页实见Stephen H. Chen、Melvin Woods文章日期11.9.26，即2026-11-09；杂志Issue 29预订条目标注11.3.26。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核杂志与邮件方案；不要因作者背景把机构误标为圣公会官方媒体。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核杂志与邮件方案；不要因作者背景把机构误标为圣公会官方媒体。",
+    "updated_at": "2026-11-10T09:17:54.996071+00:00"
+  }
+}

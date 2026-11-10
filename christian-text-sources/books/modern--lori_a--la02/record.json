@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la02",
+  "sequence": 156,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la02",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "thechristiancentury",
+      [
+        "https://christiancentury.org",
+        "https://christiancentury.org/about",
+        "https://christiancentury.org/signup/subscribe-24-95"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la02",
+    "title_zh": "The Christian Century",
+    "original_title": "The Christian Century",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "杂志／教会公共议题评论／书评／讲道资源",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.christiancentury.org/",
+        "read_scope": "首页栏目和文章标题",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.christiancentury.org/about",
+        "read_scope": "机构立场及历史",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.christiancentury.org/signup/subscribe-24-95",
+        "read_scope": "订阅页数字版及纸刊含数字权限的入门方案",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la02",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la02",
+      "title": "The Christian Century",
+      "kind": "杂志／教会公共议题评论／书评／讲道资源",
+      "tradition": "美国进步取向、普世教会立场，与主流新教传统关系密切",
+      "description": "独立非营利刊物，自述具有进步与普世教会视野，内容涵盖教会、社会、文学与讲道。",
+      "value": "适合与福音派杂志对读同一议题；其进步立场需与具体事实报道区分。",
+      "sources": [
+        {
+          "url": "https://www.christiancentury.org/",
+          "read_scope": "首页栏目和文章标题",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.christiancentury.org/about",
+          "read_scope": "机构立场及历史",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.christiancentury.org/signup/subscribe-24-95",
+          "read_scope": "订阅页数字版及纸刊含数字权限的入门方案",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "数字访问和纸刊含数字访问为付费方案；本次读到入门优惠，不将促销价当永久标准。另有邮件入口；各邮件与高级讲道资源权益仍须逐项核实。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核下一期日期；分别核普通邮件和Sunday’s Coming Premium权益。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核下一期日期；分别核普通邮件和Sunday’s Coming Premium权益。",
+    "updated_at": "2026-11-10T09:17:54.994262+00:00"
+  }
+}

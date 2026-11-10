@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la06",
+  "sequence": 160,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la06",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "commonweal",
+      [
+        "https://commonwealmagazine.org",
+        "https://commonwealmagazine.org/about",
+        "https://commonwealmagazine.org/subscribe"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la06",
+    "title_zh": "Commonweal",
+    "original_title": "Commonweal",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "评论杂志／公共议题／文学与艺术书评",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.commonwealmagazine.org/",
+        "read_scope": "首页栏目",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.commonwealmagazine.org/about",
+        "read_scope": "独立平信徒定位、历史及机构资助方式",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.commonwealmagazine.org/subscribe",
+        "read_scope": "实际跳转订购页；数字及纸刊方案、促销与续费区别、邮件入口",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la06",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la06",
+      "title": "Commonweal",
+      "kind": "评论杂志／公共议题／文学与艺术书评",
+      "tradition": "美国独立、平信徒主持的天主教刊物",
+      "description": "1924年创办，讨论信仰、公共事务和艺术；不宜当作每日灵修刊物或官方教会训导。",
+      "value": "适合观察平信徒天主教知识生活，尤其信仰与文化争论；也须辨别评论与事实。",
+      "sources": [
+        {
+          "url": "https://www.commonwealmagazine.org/",
+          "read_scope": "首页栏目",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.commonwealmagazine.org/about",
+          "read_scope": "独立平信徒定位、历史及机构资助方式",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.commonwealmagazine.org/subscribe",
+          "read_scope": "实际跳转订购页；数字及纸刊方案、促销与续费区别、邮件入口",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "纸刊和数字访问付费，另有邮件入口。订购页促销与自动续费金额不同；本清单不把促销报价当持续成本。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核当前刊期与免费文章配额；专门查中文授权译介。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核当前刊期与免费文章配额；专门查中文授权译介。",
+    "updated_at": "2026-11-10T09:17:54.995109+00:00"
+  }
+}

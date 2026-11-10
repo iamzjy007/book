@@ -551,6 +551,342 @@
       "id": "root:books-jeu",
       "sequence": 110,
       "path": "books/root--books-jeu/record.json"
+    },
+    {
+      "id": "modern:dydi_a:willard-renovation",
+      "sequence": 111,
+      "path": "books/modern--dydi_a--willard-renovation/record.json"
+    },
+    {
+      "id": "modern:dydi_a:foster-celebration",
+      "sequence": 112,
+      "path": "books/modern--dydi_a--foster-celebration/record.json"
+    },
+    {
+      "id": "modern:dydi_a:merton-new-seeds",
+      "sequence": 113,
+      "path": "books/modern--dydi_a--merton-new-seeds/record.json"
+    },
+    {
+      "id": "modern:dydi_a:norris-cloister",
+      "sequence": 114,
+      "path": "books/modern--dydi_a--norris-cloister/record.json"
+    },
+    {
+      "id": "modern:dydi_a:peterson-angles",
+      "sequence": 115,
+      "path": "books/modern--dydi_a--peterson-angles/record.json"
+    },
+    {
+      "id": "modern:dydi_a:thurman-disinherited",
+      "sequence": 116,
+      "path": "books/modern--dydi_a--thurman-disinherited/record.json"
+    },
+    {
+      "id": "modern:dydi_a:nouwen-return",
+      "sequence": 117,
+      "path": "books/modern--dydi_a--nouwen-return/record.json"
+    },
+    {
+      "id": "modern:dydi_a:kelly-testament",
+      "sequence": 118,
+      "path": "books/modern--dydi_a--kelly-testament/record.json"
+    },
+    {
+      "id": "modern:dydi_a:cone-cross",
+      "sequence": 119,
+      "path": "books/modern--dydi_a--cone-cross/record.json"
+    },
+    {
+      "id": "modern:dydi_a:gonzalez-author",
+      "sequence": 120,
+      "path": "books/modern--dydi_a--gonzalez-author/record.json"
+    },
+    {
+      "id": "modern:dydi_a:day-author",
+      "sequence": 121,
+      "path": "books/modern--dydi_a--day-author/record.json"
+    },
+    {
+      "id": "modern:dydi_a:schmemann-life",
+      "sequence": 122,
+      "path": "books/modern--dydi_a--schmemann-life/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B01",
+      "sequence": 123,
+      "path": "books/modern--dydi_b--B01/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B02",
+      "sequence": 124,
+      "path": "books/modern--dydi_b--B02/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B03",
+      "sequence": 125,
+      "path": "books/modern--dydi_b--B03/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B04",
+      "sequence": 126,
+      "path": "books/modern--dydi_b--B04/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B05",
+      "sequence": 127,
+      "path": "books/modern--dydi_b--B05/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B06",
+      "sequence": 128,
+      "path": "books/modern--dydi_b--B06/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B07",
+      "sequence": 129,
+      "path": "books/modern--dydi_b--B07/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B08",
+      "sequence": 130,
+      "path": "books/modern--dydi_b--B08/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B09",
+      "sequence": 131,
+      "path": "books/modern--dydi_b--B09/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B10",
+      "sequence": 132,
+      "path": "books/modern--dydi_b--B10/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B11",
+      "sequence": 133,
+      "path": "books/modern--dydi_b--B11/record.json"
+    },
+    {
+      "id": "modern:dydi_b:B12",
+      "sequence": 134,
+      "path": "books/modern--dydi_b--B12/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC01",
+      "sequence": 135,
+      "path": "books/modern--dydi_c--MC01/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC02",
+      "sequence": 136,
+      "path": "books/modern--dydi_c--MC02/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC03",
+      "sequence": 137,
+      "path": "books/modern--dydi_c--MC03/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC04",
+      "sequence": 138,
+      "path": "books/modern--dydi_c--MC04/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC05",
+      "sequence": 139,
+      "path": "books/modern--dydi_c--MC05/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC06",
+      "sequence": 140,
+      "path": "books/modern--dydi_c--MC06/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC07",
+      "sequence": 141,
+      "path": "books/modern--dydi_c--MC07/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC08",
+      "sequence": 142,
+      "path": "books/modern--dydi_c--MC08/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC09",
+      "sequence": 143,
+      "path": "books/modern--dydi_c--MC09/record.json"
+    },
+    {
+      "id": "modern:dydi_c:MC10",
+      "sequence": 144,
+      "path": "books/modern--dydi_c--MC10/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d01",
+      "sequence": 145,
+      "path": "books/modern--dydi_d--d01/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d02",
+      "sequence": 146,
+      "path": "books/modern--dydi_d--d02/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d03",
+      "sequence": 147,
+      "path": "books/modern--dydi_d--d03/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d04",
+      "sequence": 148,
+      "path": "books/modern--dydi_d--d04/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d05",
+      "sequence": 149,
+      "path": "books/modern--dydi_d--d05/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d06",
+      "sequence": 150,
+      "path": "books/modern--dydi_d--d06/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d07",
+      "sequence": 151,
+      "path": "books/modern--dydi_d--d07/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d09",
+      "sequence": 152,
+      "path": "books/modern--dydi_d--d09/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d11",
+      "sequence": 153,
+      "path": "books/modern--dydi_d--d11/record.json"
+    },
+    {
+      "id": "modern:dydi_d:d12",
+      "sequence": 154,
+      "path": "books/modern--dydi_d--d12/record.json"
+    },
+    {
+      "id": "modern:lori_a:la01",
+      "sequence": 155,
+      "path": "books/modern--lori_a--la01/record.json"
+    },
+    {
+      "id": "modern:lori_a:la02",
+      "sequence": 156,
+      "path": "books/modern--lori_a--la02/record.json"
+    },
+    {
+      "id": "modern:lori_a:la03",
+      "sequence": 157,
+      "path": "books/modern--lori_a--la03/record.json"
+    },
+    {
+      "id": "modern:lori_a:la04",
+      "sequence": 158,
+      "path": "books/modern--lori_a--la04/record.json"
+    },
+    {
+      "id": "modern:lori_a:la05",
+      "sequence": 159,
+      "path": "books/modern--lori_a--la05/record.json"
+    },
+    {
+      "id": "modern:lori_a:la06",
+      "sequence": 160,
+      "path": "books/modern--lori_a--la06/record.json"
+    },
+    {
+      "id": "modern:lori_a:la07",
+      "sequence": 161,
+      "path": "books/modern--lori_a--la07/record.json"
+    },
+    {
+      "id": "modern:lori_a:la09",
+      "sequence": 162,
+      "path": "books/modern--lori_a--la09/record.json"
+    },
+    {
+      "id": "modern:lori_a:la10",
+      "sequence": 163,
+      "path": "books/modern--lori_a--la10/record.json"
+    },
+    {
+      "id": "modern:lori_a:la11",
+      "sequence": 164,
+      "path": "books/modern--lori_a--la11/record.json"
+    },
+    {
+      "id": "modern:lori_a:la12",
+      "sequence": 165,
+      "path": "books/modern--lori_a--la12/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb01",
+      "sequence": 166,
+      "path": "books/modern--lori_b--lb01/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb02",
+      "sequence": 167,
+      "path": "books/modern--lori_b--lb02/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb03",
+      "sequence": 168,
+      "path": "books/modern--lori_b--lb03/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb04",
+      "sequence": 169,
+      "path": "books/modern--lori_b--lb04/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb05",
+      "sequence": 170,
+      "path": "books/modern--lori_b--lb05/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb06",
+      "sequence": 171,
+      "path": "books/modern--lori_b--lb06/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb07",
+      "sequence": 172,
+      "path": "books/modern--lori_b--lb07/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb08",
+      "sequence": 173,
+      "path": "books/modern--lori_b--lb08/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb09",
+      "sequence": 174,
+      "path": "books/modern--lori_b--lb09/record.json"
+    },
+    {
+      "id": "modern:lori_b:lb10",
+      "sequence": 175,
+      "path": "books/modern--lori_b--lb10/record.json"
     }
-  ]
+  ],
+  "additional_sources": {
+    "modern-christian-resources": {
+      "source_catalog": "research/modern-christian-resources/catalog.json",
+      "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+      "source_catalog_sha256": "d8d50eaaac7eff8347efeb42d139fab40dd5b7e6f0662b0af0810625739e0359",
+      "snapshot": "inventory/modern-source-catalog.json",
+      "mapping": "inventory/modern-import.json",
+      "input_count": 65
+    }
+  },
+  "active_scope": "modern-christian-resources"
 }

@@ -1,0 +1,344 @@
+{
+  "schema": 1,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "source_catalog_sha256": "d8d50eaaac7eff8347efeb42d139fab40dd5b7e6f0662b0af0810625739e0359",
+  "records": [
+    {
+      "catalog_id": "dydi_a:willard-renovation",
+      "target_id": "modern:dydi_a:willard-renovation",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:foster-celebration",
+      "target_id": "modern:dydi_a:foster-celebration",
+      "aliases": [
+        "dydi_d:d08"
+      ]
+    },
+    {
+      "catalog_id": "dydi_a:merton-new-seeds",
+      "target_id": "modern:dydi_a:merton-new-seeds",
+      "aliases": [
+        "dydi_d:d10"
+      ]
+    },
+    {
+      "catalog_id": "dydi_a:norris-cloister",
+      "target_id": "modern:dydi_a:norris-cloister",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:peterson-angles",
+      "target_id": "modern:dydi_a:peterson-angles",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:thurman-disinherited",
+      "target_id": "modern:dydi_a:thurman-disinherited",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:nouwen-return",
+      "target_id": "modern:dydi_a:nouwen-return",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:kelly-testament",
+      "target_id": "modern:dydi_a:kelly-testament",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:cone-cross",
+      "target_id": "modern:dydi_a:cone-cross",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:gonzalez-author",
+      "target_id": "modern:dydi_a:gonzalez-author",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:day-author",
+      "target_id": "modern:dydi_a:day-author",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_a:schmemann-life",
+      "target_id": "modern:dydi_a:schmemann-life",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B01",
+      "target_id": "modern:dydi_b:B01",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B02",
+      "target_id": "modern:dydi_b:B02",
+      "aliases": [
+        "lori_a:la08"
+      ]
+    },
+    {
+      "catalog_id": "dydi_b:B03",
+      "target_id": "modern:dydi_b:B03",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B04",
+      "target_id": "modern:dydi_b:B04",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B05",
+      "target_id": "modern:dydi_b:B05",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B06",
+      "target_id": "modern:dydi_b:B06",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B07",
+      "target_id": "modern:dydi_b:B07",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B08",
+      "target_id": "modern:dydi_b:B08",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B09",
+      "target_id": "modern:dydi_b:B09",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B10",
+      "target_id": "modern:dydi_b:B10",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B11",
+      "target_id": "modern:dydi_b:B11",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_b:B12",
+      "target_id": "modern:dydi_b:B12",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC01",
+      "target_id": "modern:dydi_c:MC01",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC02",
+      "target_id": "modern:dydi_c:MC02",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC03",
+      "target_id": "modern:dydi_c:MC03",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC04",
+      "target_id": "modern:dydi_c:MC04",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC05",
+      "target_id": "modern:dydi_c:MC05",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC06",
+      "target_id": "modern:dydi_c:MC06",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC07",
+      "target_id": "modern:dydi_c:MC07",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC08",
+      "target_id": "modern:dydi_c:MC08",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC09",
+      "target_id": "modern:dydi_c:MC09",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_c:MC10",
+      "target_id": "modern:dydi_c:MC10",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d01",
+      "target_id": "modern:dydi_d:d01",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d02",
+      "target_id": "modern:dydi_d:d02",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d03",
+      "target_id": "modern:dydi_d:d03",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d04",
+      "target_id": "modern:dydi_d:d04",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d05",
+      "target_id": "modern:dydi_d:d05",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d06",
+      "target_id": "modern:dydi_d:d06",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d07",
+      "target_id": "modern:dydi_d:d07",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d09",
+      "target_id": "modern:dydi_d:d09",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d11",
+      "target_id": "modern:dydi_d:d11",
+      "aliases": []
+    },
+    {
+      "catalog_id": "dydi_d:d12",
+      "target_id": "modern:dydi_d:d12",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la01",
+      "target_id": "modern:lori_a:la01",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la02",
+      "target_id": "modern:lori_a:la02",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la03",
+      "target_id": "modern:lori_a:la03",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la04",
+      "target_id": "modern:lori_a:la04",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la05",
+      "target_id": "modern:lori_a:la05",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la06",
+      "target_id": "modern:lori_a:la06",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la07",
+      "target_id": "modern:lori_a:la07",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la09",
+      "target_id": "modern:lori_a:la09",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la10",
+      "target_id": "modern:lori_a:la10",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la11",
+      "target_id": "modern:lori_a:la11",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_a:la12",
+      "target_id": "modern:lori_a:la12",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb01",
+      "target_id": "modern:lori_b:lb01",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb02",
+      "target_id": "modern:lori_b:lb02",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb03",
+      "target_id": "modern:lori_b:lb03",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb04",
+      "target_id": "modern:lori_b:lb04",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb05",
+      "target_id": "modern:lori_b:lb05",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb06",
+      "target_id": "modern:lori_b:lb06",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb07",
+      "target_id": "modern:lori_b:lb07",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb08",
+      "target_id": "modern:lori_b:lb08",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb09",
+      "target_id": "modern:lori_b:lb09",
+      "aliases": []
+    },
+    {
+      "catalog_id": "lori_b:lb10",
+      "target_id": "modern:lori_b:lb10",
+      "aliases": []
+    }
+  ],
+  "merged_source_aliases": {
+    "dydi_d:d08": "dydi_a:foster-celebration",
+    "dydi_d:d10": "dydi_a:merton-new-seeds",
+    "lori_a:la08": "dydi_b:B02"
+  }
+}

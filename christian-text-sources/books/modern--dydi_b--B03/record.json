@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B03",
+  "sequence": 125,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B03",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "ligonierministriesrenewingyourmind",
+      [
+        "https://about.ligonier.org",
+        "https://ligonier.org",
+        "https://renewingyourmind.org"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B03",
+    "title_zh": "Ligonier Ministries / Renewing Your Mind",
+    "original_title": "Ligonier Ministries / Renewing Your Mind",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "教义文章、讲章、广播与播客",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.ligonier.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      },
+      {
+        "url": "https://about.ligonier.org/",
+        "read_scope": "创办历史、改革宗定位及教师团"
+      },
+      {
+        "url": "https://www.renewingyourmind.org/",
+        "read_scope": "2026-11-09节目页、Email/Podcast入口与Sproul1939–2017说明"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B03",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B03",
+      "title": "Ligonier Ministries / Renewing Your Mind",
+      "kind": "教义文章、讲章、广播与播客",
+      "tradition": "官网明确改革宗神学；R.C. Sproul创立，现由多位教师延续。",
+      "description": "以神的圣洁和系统性圣经教导为核心，提供文章、灵修、系列课程及每日广播。",
+      "value": "适合建立教义框架；历史录音和现任教师节目应分别识别。",
+      "sources": [
+        {
+          "url": "https://www.ligonier.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://about.ligonier.org/",
+          "read_scope": "创办历史、改革宗定位及教师团"
+        },
+        {
+          "url": "https://www.renewingyourmind.org/",
+          "read_scope": "2026-11-09节目页、Email/Podcast入口与Sproul1939–2017说明"
+        }
+      ],
+      "update_evidence": "Renewing Your Mind页题名标2026-11-09 The Knight’s Map；为当前播出日期，不是Sproul当日新讲。",
+      "subscription": "主站Stay in Touch邮箱入口；广播官网Ways to Listen含Email、Podcast、App。",
+      "chinese_status": "本轮未核中文官方站，待核；不能因此说无中文。",
+      "access_and_cost": "公开广播可听；主站另有书店、Tabletalk杂志及Connect，不能全部视为免费，具体订购价待核。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.988667+00:00"
+  }
+}

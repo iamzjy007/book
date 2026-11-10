@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B02",
+  "sequence": 124,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B02",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "thegospelcoalition美国版",
+      [
+        "https://thegospelcoalition.org",
+        "https://thegospelcoalition.org/about"
+      ]
+    ],
+    "aliases": [
+      "lori_a:la08"
+    ]
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B02",
+    "title_zh": "The Gospel Coalition（美国版）",
+    "original_title": "The Gospel Coalition（美国版）",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "多作者文章、书评、讲座、播客",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.thegospelcoalition.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      },
+      {
+        "url": "https://www.thegospelcoalition.org/about/",
+        "read_scope": "Overview及Foundation Documents，明确改革宗定位"
+      },
+      {
+        "url": "https://www.thegospelcoalition.org/",
+        "read_scope": "栏目及官方简繁中文链接",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.thegospelcoalition.org/about/",
+        "read_scope": "改革宗联盟定位与信仰文件入口",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.thegospelcoalition.org/newsletters/",
+        "read_scope": "Daily、Weekly、Pastor、Savor等频率及登记表",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.tgcchinese.org/",
+        "read_scope": "实际中文首页、简繁语言菜单及文章分类",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B02",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B02",
+      "title": "The Gospel Coalition（美国版）",
+      "kind": "多作者文章、书评、讲座、播客",
+      "tradition": "官网自述改革宗传统的牧师与教会联盟。",
+      "description": "聚合神学、教会生活、文化及牧养文章，设Themelios和多个主题播客。",
+      "value": "覆盖面广，适合建立按主题追踪的阅读清单；各作者论点仍须单独辨析。",
+      "sources": [
+        {
+          "url": "https://www.thegospelcoalition.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://www.thegospelcoalition.org/about/",
+          "read_scope": "Overview及Foundation Documents，明确改革宗定位"
+        }
+      ],
+      "update_evidence": "本轮首页所读片段未获得可用单篇发布日期；不据版权年或Upcoming大会推断更新频率。",
+      "subscription": "官网导航确认Newsletters与Podcasts入口；/newsletters/直开403，频率及表单细节待核。",
+      "chinese_status": "官网美国版导航明确链接简体tgcchinese.org和正体tc.tgcchinese.org。",
+      "access_and_cost": "公开文章栏目可读；另设书店、会议与cohorts，收费与否逐项核，未泛称全部免费。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "supplemental_records": [
+        {
+          "catalog_id": "lori_a:la08",
+          "group": "刊物与持续媒体",
+          "record_file": "workers/lori_a.json",
+          "id": "la08",
+          "title": "The Gospel Coalition (TGC)",
+          "kind": "网络文章／圣经与神学普及／牧养资源／书评／邮件通讯",
+          "tradition": "美国起源的改革宗福音派牧者与教会联盟",
+          "description": "官网以信仰告白及神学异象作为联盟基础，内容分圣经、神学、教会、文化与生活等。",
+          "value": "适合牧养和系统性神学普及；一般网站文章不等于同行评审论文，也不代表所有福音派。",
+          "sources": [
+            {
+              "url": "https://www.thegospelcoalition.org/",
+              "read_scope": "栏目及官方简繁中文链接",
+              "accessed": "2026-11-10"
+            },
+            {
+              "url": "https://www.thegospelcoalition.org/about/",
+              "read_scope": "改革宗联盟定位与信仰文件入口",
+              "accessed": "2026-11-10"
+            },
+            {
+              "url": "https://www.thegospelcoalition.org/newsletters/",
+              "read_scope": "Daily、Weekly、Pastor、Savor等频率及登记表",
+              "accessed": "2026-11-10"
+            },
+            {
+              "url": "https://www.tgcchinese.org/",
+              "read_scope": "实际中文首页、简繁语言菜单及文章分类",
+              "accessed": "2026-11-10"
+            }
+          ],
+          "subscription": "公开文章入口与邮件登记可免费使用；本次未购买或核完图书、课程及活动等另列产品的价格。",
+          "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 邮件页明确Daily工作日、Weekly每周、Savor每月等不同频率。",
+          "chinese_status": "已实读官方简体中文站，英文和中文站均链接正體中文；有文章、问答、书评等，不假定全部英文同步翻译。",
+          "next": "对照具体中英文章确认译者和授权说明；学术期刊Themelios若另收录应单列。"
+        }
+      ]
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.988403+00:00"
+  }
+}

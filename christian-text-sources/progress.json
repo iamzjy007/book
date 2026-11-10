@@ -1,19 +1,34 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T06:16:30.879127+00:00",
-  "total": 110,
+  "updated_at": "2026-11-10T09:18:52.274679+00:00",
+  "total": 175,
+  "active_scope": "modern-christian-resources",
+  "scope_counts": {
+    "ancient-christian-literature": {
+      "partial_online": 26,
+      "fulltext_online": 51,
+      "metadata_only": 16,
+      "scan_candidate": 11,
+      "blocked": 4,
+      "needs_review": 2
+    },
+    "modern-christian-resources": {
+      "queued": 65
+    }
+  },
   "counts": {
     "partial_online": 26,
     "fulltext_online": 51,
     "metadata_only": 16,
     "scan_candidate": 11,
     "blocked": 4,
-    "needs_review": 2
+    "needs_review": 2,
+    "queued": 65
   },
-  "next_task": "dydi_a:east-aphrahat",
+  "next_task": "modern:dydi_a:willard-renovation",
   "background_process": false,
   "record_files_are_authoritative": true,
-  "initial_pass_complete": true,
+  "initial_pass_complete": false,
   "direct_text_records": 77,
   "no_verified_text_records": 33,
   "resume_instruction": "先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。"

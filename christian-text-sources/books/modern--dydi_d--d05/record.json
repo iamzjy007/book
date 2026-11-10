@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d05",
+  "sequence": 149,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d05",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "shaleminstituteforspiritualformation",
+      [
+        "https://shalem.org"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d05",
+    "title_zh": "Shalem Institute for Spiritual Formation",
+    "original_title": "Shalem Institute for Spiritual Formation",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "默观培训／灵修指导入口",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://shalem.org/",
+        "read_scope": "使命、地址、课程、导师入口和邮件清单",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d05",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d05",
+      "title": "Shalem Institute for Spiritual Formation",
+      "kind": "默观培训／灵修指导入口",
+      "tradition": "基督教默观根源的开放型灵修机构；不是特定宗派官方教义机关",
+      "description": "位于 Washington, DC，提供默观生活与领导培训、退修及灵修导师查找。",
+      "value": "适合希望从阅读进入有陪伴实践者；评估课程时应进一步核导师和跨宗教参与范围。",
+      "sources": [
+        {
+          "url": "https://shalem.org/",
+          "read_scope": "使命、地址、课程、导师入口和邮件清单",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "已见 Join Our Mailing List；课程收费／资助链接可见但未核金额或邮件频率。",
+      "update_evidence": "首页有2026活动与新执行主任公告，但 Vision 文字仍为2025；不据此称所有栏目持续更新。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "实读课程介绍、师资、机构历史及信仰定位，确认适合的参与者。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：实读课程介绍、师资、机构历史及信仰定位，确认适合的参与者。",
+    "updated_at": "2026-11-10T09:17:54.993068+00:00"
+  }
+}

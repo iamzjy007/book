@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d04",
+  "sequence": 148,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d04",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "ancientfaithministries",
+      [
+        "https://ancientfaith.com",
+        "https://ancientfaith.com/about"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d04",
+    "title_zh": "Ancient Faith Ministries",
+    "original_title": "Ancient Faith Ministries",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "东正教广播／播客／出版入口",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.ancientfaith.com/",
+        "read_scope": "节目标题、日期、日修、书店和新闻邮件",
+        "access_date": "2026-11-10"
+      },
+      {
+        "url": "https://www.ancientfaith.com/about/",
+        "read_scope": "使命及教区关系、读者支持",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d04",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d04",
+      "title": "Ancient Faith Ministries",
+      "kind": "东正教广播／播客／出版入口",
+      "tradition": "北美安提阿东正教总教区祝福下运作；泛东正教服务",
+      "description": "集合直播、播客、每日灵修、书店及活动，含英语讲道与音乐频道。",
+      "value": "可接触当代东正教祷告、读经和牧养；各节目作者观点不应自动等同全教会正式教导。",
+      "sources": [
+        {
+          "url": "https://www.ancientfaith.com/",
+          "read_scope": "节目标题、日期、日修、书店和新闻邮件",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://www.ancientfaith.com/about/",
+          "read_scope": "使命及教区关系、读者支持",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "General Newsletters／Sowing Seeds 登记可见；节目及书籍的具体付费和RSS尚未逐个核。",
+      "update_evidence": "Orthodoxy Live Mailbag Edition 日期2026-11-08；主页显示多项新节目。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "挑一个祷告系列查主持背景、完整节目索引及RSS。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：挑一个祷告系列查主持背景、完整节目索引及RSS。",
+    "updated_at": "2026-11-10T09:17:54.992832+00:00"
+  }
+}

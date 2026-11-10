@@ -1,9 +1,9 @@
 # 收到“继续”时的恢复协议
 
 1. 拉取／读取 `iamzjy007/book` 的main最新版本，先检查本地未提交修改和远端差异，保留未推成果。没有本地环境时从GitHub直接读取本目录。
-2. 读README、PLAN、REPORT、progress、queue及sessions最新报告；不执行原研究目录扩展新书目的队列，除非用户改变范围。
-3. `books/*/record.json` 是权威状态。运行scripts/refresh.py恢复任何已经落盘但未汇总的记录。不要按README或日志的旧计数覆盖新记录。
-4. 取queue.tasks中第一个queued项，按原sequence继续。全部初检后，优先短名单中partial／blocked／metadata／needs_review项，再处理其余未决项。fulltext_online条目可跳过一般性重复检索，后续仍需版本择定和翻译前校勘。
+2. 读README、PLAN、REPORT、progress、queue及sessions最新报告；当前执行近现代65条的内容获取，保留古代110条；不执行原研究目录扩展新书目的队列。
+3. `books/*/record.json` 是权威状态。先运行scripts/import_modern.py恢复可能先于manifest落盘的导入档案，再运行scripts/report.py恢复派生汇总；这两个命令均不访问正文网络。不要按README或日志的旧计数覆盖新记录。
+4. 取queue.tasks第一个任务继续：active_scope来源优先，其中queued按sequence排列；同来源初检完成后，按updated_at最早的未决项回访，避免某一受阻条目反复占据首位。fulltext_online条目可跳过一般性重复检索，后续仍需版本择定和翻译前校勘。
 5. 读目标record的attempts、resources、next_action。记录本次真实检索式、实际打开URL、语种、编译者／年代、覆盖范围、是否要求登录／借阅、访问时间。不可把HTTP成功或目录条目自动升级成全文。
 6. 有效新结果先原子写回record，重建派生文件；每3—5条或不超过一个传统批次提交成果。网络受阻也要持久化已知信息和具体替代路径。
 7. 推送main使用普通提交或GitHub push_files；禁止强推。成功后重新读取main最新提交SHA并核本批关键文件。若不可写，保存本地成果并明确未推送，不能声称完成。
@@ -12,8 +12,10 @@
 用户只需发送“继续”。若同仓库有其他任务，默认按此原始内容获取目录继续；完整指令可写“继续 christian-text-sources 的内容获取”。
 
 
-## 本阶段交接点（2026-11-10）
+## 当前交接点（近现代内容获取）
 
-110条的首轮人工定向检索均已完成，queued=0；并不表示所有作品均取得原语全文。下一任务由queue自动指向`dydi_a:east-aphrahat`：核Syriac Corpus其余21篇是否均有实际叙利亚正文，补电子校本依据，再决定是否升级状态。后续依次处理Isaac II／III的现代校本获取、John of Dalyatha样章之外的版本、John the Solitary与Joseph Hazzaya、Liber Graduum扫描正文页等。
+请读sessions中编号最大的阶段报告及progress.json的next_task，不能沿用历史报告里的旧断点。当前来源为 `modern-christian-resources`。近现代ID带 `modern:` 前缀，原ID和来源文件保存在provenance及inventory/modern-import.json。导入脚本可幂等重复运行，不覆盖已有获取状态；全量65条接入后不再重复建档。
 
-queue含59条需要继续补齐或核对的记录（26条已有部分正文，33条尚未核到正文）；各档案next_action给出具体下一步。先读008阶段日志再开新session009。对全文入口已经取得的51条，仍要在翻译前选择底本、核原语及权利；本项目尚未执行翻译。
+中断可发生在单条保存、汇总或推送之间：先保留本地文件，再核远端main；重建派生文件后，从queue取下一项。未保存完成的单条重新核查，已落盘的attempts、resources、updated_at和next_action是续接依据。每批推送后核远端SHA与关键文件；不依赖会话记忆。用户说“继续”即可执行本目录当前来源。
+
+旧交接点：古代110条首轮初检完成，59条仍需补齐，首项原为 `dydi_a:east-aphrahat`。当前不优先执行此历史断点；其具体next_action仍在原档案中保留。没有安装后台服务，会话结束后不会继续自行获取。

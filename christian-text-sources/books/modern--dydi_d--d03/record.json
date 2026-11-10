@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d03",
+  "sequence": 147,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d03",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "jesuitsorgignatianspirituality",
+      [
+        "https://jesuits.org/spirituality"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d03",
+    "title_zh": "Jesuits.org — Ignatian Spirituality",
+    "original_title": "Jesuits.org — Ignatian Spirituality",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "官方灵修入口／播客与邮件",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.jesuits.org/spirituality/",
+        "read_scope": "灵修说明、Examen、神操、周刊及播客链接",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d03",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d03",
+      "title": "Jesuits.org — Ignatian Spirituality",
+      "kind": "官方灵修入口／播客与邮件",
+      "tradition": "天主教耶稣会；美国及加拿大耶稣会网络",
+      "description": "介绍省察、分辨、神操与默观行动，连接 JesuitPrayer 和依纳爵资源。",
+      "value": "适合核对依纳爵操练的实际含义；能将短篇练习与神操历史背景连接。",
+      "sources": [
+        {
+          "url": "https://www.jesuits.org/spirituality/",
+          "read_scope": "灵修说明、Examen、神操、周刊及播客链接",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "Now Discern This 标每周反思，页面底部可选择该邮件；另有 weekly podcast 订阅说明。",
+      "update_evidence": "核实站方承诺周频，未核最近一期实际发布日期。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "实读一篇省察指导和一期播客，核负责机构及中文神操版本。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：实读一篇省察指导和一期播客，核负责机构及中文神操版本。",
+    "updated_at": "2026-11-10T09:17:54.992686+00:00"
+  }
+}

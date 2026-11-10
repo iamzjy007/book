@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la04",
+  "sequence": 158,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la04",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "firstthings",
+      [
+        "https://firstthings.com",
+        "https://firstthings.com/about",
+        "https://firstthings.com/subscribe"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la04",
+    "title_zh": "First Things",
+    "original_title": "First Things",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "宗教公共哲学评论杂志／书评／网络文章",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://firstthings.com/",
+        "read_scope": "主题及作者栏目",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://firstthings.com/about/",
+        "read_scope": "出版机构、Neuhaus与创刊历史、纽约办公信息",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://firstthings.com/subscribe/",
+        "read_scope": "数字／综合方案、档案权限及每年10期说明",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la04",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la04",
+      "title": "First Things",
+      "kind": "宗教公共哲学评论杂志／书评／网络文章",
+      "tradition": "美国宗教保守取向的跨传统讨论，含天主教、新教及犹太作者",
+      "description": "由Institute on Religion and Public Life出版，强调宗教参与公共哲学；并非只收单一宗派声音。",
+      "value": "适合政治神学、伦理与文化争论；不应把编辑立场当作所有基督徒共同立场。",
+      "sources": [
+        {
+          "url": "https://firstthings.com/",
+          "read_scope": "主题及作者栏目",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://firstthings.com/about/",
+          "read_scope": "出版机构、Neuhaus与创刊历史、纽约办公信息",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://firstthings.com/subscribe/",
+          "read_scope": "数字／综合方案、档案权限及每年10期说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有付费数字与综合订阅，含档案访问等权益；每年10期纸刊。首页邮件入口不代表其所有内容免费。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 订阅页载每年10期，这是刊期说明而非最新一期日期。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核最新刊期、邮件与全文付费边界；另选一篇事实性文章交叉查证。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核最新刊期、邮件与全文付费边界；另选一篇事实性文章交叉查证。",
+    "updated_at": "2026-11-10T09:17:54.994597+00:00"
+  }
+}

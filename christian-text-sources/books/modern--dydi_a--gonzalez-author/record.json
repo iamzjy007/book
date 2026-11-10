@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_a:gonzalez-author",
+  "sequence": 120,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_a:gonzalez-author",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "justolgonzález作者与历史神学书目入口",
+      [
+        "https://shop.ivpress.com/justo-l-gonzalez"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_a:gonzalez-author",
+    "title_zh": "Justo L. González — 作者与历史神学书目入口",
+    "original_title": "Justo L. González — 作者与历史神学书目入口",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "作者资源入口",
+    "area": "书籍与作者",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://shop.ivpress.com/justo-l-gonzalez",
+        "read_scope": "作者传记、宗派及两套著作的名称/卷数",
+        "actually_read": true,
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_a:gonzalez-author",
+      "group": "书籍与作者",
+      "record_file": "workers/dydi_a.json",
+      "id": "gonzalez-author",
+      "title": "Justo L. González — 作者与历史神学书目入口",
+      "kind": "作者资源入口",
+      "tradition": "联合卫理公会；美国拉丁裔神学教育网络",
+      "description": "IVP作者页列其三卷History of Christian Thought及两卷The Story of Christianity，并说明其任教和拉丁裔教育工作。",
+      "value": "可用来建立教会历史读书路径；两套历史著作不能并成同书，也不能把作者页所有推荐书都算其著作。",
+      "sources": [
+        {
+          "url": "https://shop.ivpress.com/justo-l-gonzalez",
+          "read_scope": "作者传记、宗派及两套著作的名称/卷数",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "分别核两套书各版及中文书名对应；本条不以作者页代替逐卷书目。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：分别核两套书各版及中文书名对应；本条不以作者页代替逐卷书目。",
+    "updated_at": "2026-11-10T09:17:54.987628+00:00"
+  }
+}

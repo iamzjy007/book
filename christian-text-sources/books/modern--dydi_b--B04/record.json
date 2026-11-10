@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B04",
+  "sequence": 126,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B04",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "truthforlifealistairbegg",
+      [
+        "https://truthforlife.org"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B04",
+    "title_zh": "Truth For Life / Alistair Begg",
+    "original_title": "Truth For Life / Alistair Begg",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "释经讲章、广播、文章、灵修",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.truthforlife.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B04",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B04",
+      "title": "Truth For Life / Alistair Begg",
+      "kind": "释经讲章、广播、文章、灵修",
+      "tradition": "新教福音派圣经教导事工；本轮未进一步核完整宗派声明。",
+      "description": "提供Alistair Begg讲章库、圣经书卷系列，以及Begg和司布真灵修。",
+      "value": "适合连续聆听同一书卷与练习讲道结构；作者和广播日期易区分。",
+      "sources": [
+        {
+          "url": "https://www.truthforlife.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        }
+      ],
+      "update_evidence": "首页明确文章Sermons on the Protestant Reformation标2026-10-21；November9读经仅月日，不单独当完整年日期。",
+      "subscription": "页脚邮箱内容/免费账号管理订阅入口已见；RSS地址待核。",
+      "chinese_status": "官网有Translated Resources入口，中文覆盖未打开核实。",
+      "access_and_cost": "公开讲章/节目入口；书店标at cost，另有捐款索取书籍，不等于所有商品免费。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.988825+00:00"
+  }
+}

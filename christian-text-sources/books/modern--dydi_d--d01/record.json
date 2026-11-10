@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d01",
+  "sequence": 145,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d01",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "renovaré",
+      [
+        "https://renovare.org",
+        "https://renovare.org/about"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d01",
+    "title_zh": "Renovaré",
+    "original_title": "Renovaré",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "持续媒体／操练与培训入口",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://renovare.org/",
+        "read_scope": "首页资源、课程及邮件频率",
+        "access_date": "2026-11-10"
+      },
+      {
+        "url": "https://renovare.org/about",
+        "read_scope": "成立、六种传统、使命及信仰告白",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d01",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d01",
+      "title": "Renovaré",
+      "kind": "持续媒体／操练与培训入口",
+      "tradition": "跨宗派基督教；创办者 Richard J. Foster，兼顾福音派、圣洁、默观等传统",
+      "description": "1988年创办，提供属灵塑造文章、播客、书单、小组课程和培训。",
+      "value": "可从免费六课课程进入，再用书单追溯不同传统；不是单一教派权威文集。",
+      "sources": [
+        {
+          "url": "https://renovare.org/",
+          "read_scope": "首页资源、课程及邮件频率",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://renovare.org/about",
+          "read_scope": "成立、六种传统、使命及信仰告白",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "已见邮件登记；Renovaré Weekly 明确每周五。课程首页标免费，培训项目费用未核。",
+      "update_evidence": "首页标新播客 Michael Stewart Robb；未核单集发布日期。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "核课程使用许可、读书会／培训费用与中文授权。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核课程使用许可、读书会／培训费用与中文授权。",
+    "updated_at": "2026-11-10T09:17:54.992362+00:00"
+  }
+}

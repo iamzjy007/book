@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_c:MC01",
+  "sequence": 135,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_c:MC01",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "惠顿学院billygraham相关档案与数字展览",
+      [
+        "https://exhibits.archives.wheaton.edu",
+        "https://wheaton.edu/about-wheaton/museums-library-and-collections/wheaton-archives-and-special-collections/research/billy-graham-resources"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_c:MC01",
+    "title_zh": "惠顿学院 Billy Graham 相关档案与数字展览",
+    "original_title": "惠顿学院 Billy Graham 相关档案与数字展览",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "个人/机构档案及数字展览",
+    "area": "档案与数字馆藏",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.wheaton.edu/about-wheaton/museums-library-and-collections/wheaton-archives-and-special-collections/research/billy-graham-resources",
+        "read_scope": "实读馆藏6、8、15、74、285、590等概述与目录入口",
+        "accessed_beijing": "2026-11-10"
+      },
+      {
+        "url": "https://exhibits.archives.wheaton.edu/",
+        "read_scope": "实读数字展览范围与CSV/JSON元数据下载说明",
+        "accessed_beijing": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_c:MC01",
+      "group": "档案与数字馆藏",
+      "record_file": "workers/dydi_c.json",
+      "id": "MC01",
+      "title": "惠顿学院 Billy Graham 相关档案与数字展览",
+      "kind": "个人/机构档案及数字展览",
+      "tradition": "美国福音派、跨宗派布道运动",
+      "description": "葛培理材料分布在多个全宗，包括个人文书、口述史、布道逐字稿、照片及《今日基督教》机构档案；不是单一完整葛培理全集。",
+      "value": "适合追踪20世纪布道、宗教媒体、洛桑运动及传记写作的档案依据。机构自述须与实际档案及其他立场互证。",
+      "sources": [
+        {
+          "url": "https://www.wheaton.edu/about-wheaton/museums-library-and-collections/wheaton-archives-and-special-collections/research/billy-graham-resources",
+          "read_scope": "实读馆藏6、8、15、74、285、590等概述与目录入口",
+          "accessed_beijing": "2026-11-10"
+        },
+        {
+          "url": "https://exhibits.archives.wheaton.edu/",
+          "read_scope": "实读数字展览范围与CSV/JSON元数据下载说明",
+          "accessed_beijing": "2026-11-10"
+        }
+      ],
+      "access": {
+        "catalog_and_online_content": "官方全宗目录入口与精选数字展览；不是全部档案影像开放。",
+        "download": "展览元数据CSV/JSON可下载；原件影像及音视频下载须逐件核，未验证。",
+        "onsite_or_restrictions": "未数字化或受限档案须向馆方确认阅览安排；本轮未核个别全宗限制。",
+        "verification_level": "官方说明页和馆藏元数据已读；未下载全文，未逐件测试所有阅览器"
+      },
+      "chinese_status": {
+        "status": "not_established",
+        "scope": "本轮核读的机构页面未确证该馆藏有整体中文译本或中文检索界面；未作穷尽中文书目检索。中国相关材料也不等于中文翻译。"
+      },
+      "next": [
+        "选定Collection 15/74，核开放限制与实际数字对象；不要把展览建站时间当档案年代。"
+      ]
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['选定Collection 15/74，核开放限制与实际数字对象；不要把展览建站时间当档案年代。']",
+    "updated_at": "2026-11-10T09:17:54.990260+00:00"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la05",
+  "sequence": 159,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la05",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "americathejesuitreview",
+      [
+        "https://americamagazine.org",
+        "https://americamagazine.org/about",
+        "https://americamagazine.org/subscribe"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la05",
+    "title_zh": "America: The Jesuit Review",
+    "original_title": "America: The Jesuit Review",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "杂志／新闻／神学与文化评论／祈祷资源／播客",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.americamagazine.org/",
+        "read_scope": "首页栏目、播客和当期入口",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.americamagazine.org/about/",
+        "read_scope": "Jesuit Review定位及2026年11月当期导航",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.americamagazine.org/subscribe/",
+        "read_scope": "纸刊与无限数字访问权益",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la05",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la05",
+      "title": "America: The Jesuit Review",
+      "kind": "杂志／新闻／神学与文化评论／祈祷资源／播客",
+      "tradition": "美国耶稣会天主教",
+      "description": "覆盖教会和梵蒂冈新闻、美国公共生活、圣经与灵修，并有Jesuitical等播客。",
+      "value": "适合观察美国耶稣会公共信仰；教会新闻、作者评论及祈祷栏目应分开使用。",
+      "sources": [
+        {
+          "url": "https://www.americamagazine.org/",
+          "read_scope": "首页栏目、播客和当期入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.americamagazine.org/about/",
+          "read_scope": "Jesuit Review定位及2026年11月当期导航",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.americamagazine.org/subscribe/",
+          "read_scope": "纸刊与无限数字访问权益",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有付费纸刊／数字访问，纸刊方案含数字权益；邮件与公开入口不等于全文免费。没有实际下单。",
+      "update_evidence": "实读官网当期导航为2026年11月；核查日2026-11-10。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "进一步核新闻与灵修邮件各自免费范围。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：进一步核新闻与灵修邮件各自免费范围。",
+    "updated_at": "2026-11-10T09:17:54.994835+00:00"
+  }
+}

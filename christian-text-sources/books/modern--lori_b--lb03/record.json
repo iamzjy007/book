@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "id": "modern:lori_b:lb03",
+  "sequence": 168,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_b:lb03",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "womanpreach",
+      [
+        "https://womanpreach.org/about"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_b:lb03",
+    "title_zh": "WomanPreach!",
+    "original_title": "WomanPreach!",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "讲道培训机构/作者社群",
+    "area": "多元作者与宣教",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.womanpreach.org/about",
+        "read_scope": "实际读Who We Are历史、What We Do及How We Do It；未把训练人数宣传当独立评估。",
+        "access": "official page opened",
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_b:lb03",
+      "group": "多元作者与宣教",
+      "record_file": "workers/lori_b.json",
+      "id": "lb03",
+      "title": "WomanPreach!",
+      "kind": "讲道培训机构/作者社群",
+      "tradition": "源于非裔美国女性讲道传统，跨宗派、重视处境和公义",
+      "description": "Valerie Bridgeman及emilie townes相关课程发展而来，提供密集课程、数字对话和社区作者写作，现接纳不同性别参与者。",
+      "value": "补足女性讲道人自身的方法与声音，而非只读他人对女性事奉的讨论。",
+      "sources": [
+        {
+          "url": "https://www.womanpreach.org/about",
+          "read_scope": "实际读Who We Are历史、What We Do及How We Do It；未把训练人数宣传当独立评估。",
+          "access": "official page opened",
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "未核得官方中文栏目；未作中文出版穷尽检索。",
+      "updates": {
+        "evidence": "项目/数字对话页面可持续跟踪；本轮未确认专属newsletter机制及频率。",
+        "subscribed_this_round": false
+      },
+      "next": "选择一位具名讲者与一场公开对话，核日期、讲者机构和是否有可引用文字稿。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：选择一位具名讲者与一场公开对话，核日期、讲者机构和是否有可引用文字稿。",
+    "updated_at": "2026-11-10T09:17:54.997204+00:00"
+  }
+}

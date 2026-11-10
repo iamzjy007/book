@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_a:merton-new-seeds",
+  "sequence": 113,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_a:merton-new-seeds",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "thomasmertonnewseedsofcontemplation",
+      [
+        "https://ndbooks.com/book/new-seeds-of-contemplation",
+        "https://ndbooks.com/book/seeds-of-contemplation"
+      ]
+    ],
+    "aliases": [
+      "dydi_d:d10"
+    ]
+  },
+  "source_record": {
+    "id": "modern:dydi_a:merton-new-seeds",
+    "title_zh": "Thomas Merton — New Seeds of Contemplation",
+    "original_title": "Thomas Merton — New Seeds of Contemplation",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "修订扩充的默想集",
+    "area": "书籍与作者",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.ndbooks.com/book/new-seeds-of-contemplation/",
+        "read_scope": "作者、书目及内容介绍；网站Fiction分类不据以判定为小说",
+        "actually_read": true,
+        "date": "2026-11-10"
+      },
+      {
+        "url": "https://www.ndbooks.com/book/seeds-of-contemplation/",
+        "read_scope": "1949/1962版本沿革及including Chinese说明",
+        "actually_read": true
+      },
+      {
+        "url": "https://www.ndbooks.com/book/new-seeds-of-contemplation/",
+        "read_scope": "New Directions官方简介、2007纸本及电子版出版数据",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_a:merton-new-seeds",
+      "group": "书籍与作者",
+      "record_file": "workers/dydi_a.json",
+      "id": "merton-new-seeds",
+      "title": "Thomas Merton — New Seeds of Contemplation",
+      "kind": "修订扩充的默想集",
+      "tradition": "美国熙笃会严格派/天主教默观",
+      "description": "New Seeds是1962对1949 Seeds的修订扩充，现代版本另有Sue Monk Kidd导言；不是她合著。",
+      "value": "兼具文学与默观价值，需保留修院和天主教语境。",
+      "sources": [
+        {
+          "url": "https://www.ndbooks.com/book/new-seeds-of-contemplation/",
+          "read_scope": "作者、书目及内容介绍；网站Fiction分类不据以判定为小说",
+          "actually_read": true,
+          "date": "2026-11-10"
+        },
+        {
+          "url": "https://www.ndbooks.com/book/seeds-of-contemplation/",
+          "read_scope": "1949/1962版本沿革及including Chinese说明",
+          "actually_read": true
+        }
+      ],
+      "chinese_status": "出版社另页明说有中文翻译；本轮未核中文题名、译者或版次。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。",
+      "supplemental_records": [
+        {
+          "catalog_id": "dydi_d:d10",
+          "group": "跨传统灵修",
+          "record_file": "workers/dydi_d.json",
+          "id": "d10",
+          "title": "New Seeds of Contemplation — Thomas Merton",
+          "kind": "书籍",
+          "tradition": "天主教熙笃会／特拉普修道传统",
+          "description": "以默观、内在生命、自由与爱为中心的现代灵修散文。",
+          "value": "适合从操练方法进一步反省默观的目标；书目应区别于早期 Seeds of Contemplation。",
+          "sources": [
+            {
+              "url": "https://www.ndbooks.com/book/new-seeds-of-contemplation/",
+              "read_scope": "New Directions官方简介、2007纸本及电子版出版数据",
+              "access_date": "2026-11-10"
+            }
+          ],
+          "subscription": "不适用：书籍；纸本与电子购买入口可见。",
+          "update_evidence": "所核版2007-11-01，纸本ISBN9780811217248，296页；不是据此推定原作1960年代首版日期。",
+          "chinese_status": "《默观的新苗》等中文题名需另行核出版社，当前只作检索线索，不将英文书的存在等同中文授权版存在。",
+          "next": "核初版和新增Sue Monk Kidd导言关系；核中文版权页。官网误列Fiction分类不用于定义作品体裁。"
+        }
+      ]
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+    "updated_at": "2026-11-10T09:17:54.986057+00:00"
+  }
+}

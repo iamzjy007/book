@@ -1,6 +1,6 @@
 # 原始内容获取总目录
 
-共110条原研究档案；一条不一定等于一部完整古书。按在线入口保存，无需下载即可继续阅读。
+共175条资源档案，涵盖古代与近现代研究；包括书籍、作者、事工、期刊和馆藏入口，不能统称为完整书籍。按在线路径保存，具体范围见各档案。
 
 | 序号 | 书目档案 | 获取状态 | 正文／扫描入口 |
 |---|---|---|---|
@@ -114,3 +114,68 @@
 | 108 | [约翰秘传／约翰密传](books/root--apocryphon-john/README.md) | 部分正文可直达 | [Wisse英译一个文本版本](https://www.earlychristianwritings.com/text/apocryphonjohn.html) |
 | 109 | [皮斯提斯·索菲亚（信心与智慧；暂译）](books/root--pistis-sophia/README.md) | 正文可直达 | [Mead1921旧英译扫描及OCR](https://archive.org/details/pistissophiagnos1921mead)；[Schmidt1905旧德译合订卷](https://archive.org/details/koptischgnostisc00schmuoft) |
 | 110 | [耶乌诸书／耶乌二书（暂译）](books/root--books-jeu/README.md) | 正文可直达 | [Schmidt1905两部Jeu旧德译](https://archive.org/details/koptischgnostisc00schmuoft)；[Bruce Codex导论及节译](https://www.earlychristianwritings.com/text/booksjeu.html) |
+| 111 | [Dallas Willard — Renovation of the Heart（心灵的重塑）](books/modern--dydi_a--willard-renovation/README.md) | 待检索 | 见档案中的既有出处 |
+| 112 | [Richard J. Foster — Celebration of Discipline（属灵操练礼赞）](books/modern--dydi_a--foster-celebration/README.md) | 待检索 | 见档案中的既有出处 |
+| 113 | [Thomas Merton — New Seeds of Contemplation](books/modern--dydi_a--merton-new-seeds/README.md) | 待检索 | 见档案中的既有出处 |
+| 114 | [Kathleen Norris — The Cloister Walk](books/modern--dydi_a--norris-cloister/README.md) | 待检索 | 见档案中的既有出处 |
+| 115 | [Eugene H. Peterson — Working the Angles: The Shape of Pastoral Integrity](books/modern--dydi_a--peterson-angles/README.md) | 待检索 | 见档案中的既有出处 |
+| 116 | [Howard Thurman — Jesus and the Disinherited](books/modern--dydi_a--thurman-disinherited/README.md) | 待检索 | 见档案中的既有出处 |
+| 117 | [Henri Nouwen — The Return of the Prodigal Son: A Story of Homecoming](books/modern--dydi_a--nouwen-return/README.md) | 待检索 | 见档案中的既有出处 |
+| 118 | [Thomas R. Kelly — A Testament of Devotion（机构引文入口）](books/modern--dydi_a--kelly-testament/README.md) | 待检索 | 见档案中的既有出处 |
+| 119 | [James H. Cone — The Cross and the Lynching Tree](books/modern--dydi_a--cone-cross/README.md) | 待检索 | 见档案中的既有出处 |
+| 120 | [Justo L. González — 作者与历史神学书目入口](books/modern--dydi_a--gonzalez-author/README.md) | 待检索 | 见档案中的既有出处 |
+| 121 | [Dorothy Day — Catholic Worker作者资源入口](books/modern--dydi_a--day-author/README.md) | 待检索 | 见档案中的既有出处 |
+| 122 | [Alexander Schmemann — For the Life of the World](books/modern--dydi_a--schmemann-life/README.md) | 待检索 | 见档案中的既有出处 |
+| 123 | [Desiring God / John Piper](books/modern--dydi_b--B01/README.md) | 待检索 | 见档案中的既有出处 |
+| 124 | [The Gospel Coalition（美国版）](books/modern--dydi_b--B02/README.md) | 待检索 | 见档案中的既有出处 |
+| 125 | [Ligonier Ministries / Renewing Your Mind](books/modern--dydi_b--B03/README.md) | 待检索 | 见档案中的既有出处 |
+| 126 | [Truth For Life / Alistair Begg](books/modern--dydi_b--B04/README.md) | 待检索 | 见档案中的既有出处 |
+| 127 | [BibleProject](books/modern--dydi_b--B05/README.md) | 待检索 | 见档案中的既有出处 |
+| 128 | [Grace to You / John MacArthur](books/modern--dydi_b--B06/README.md) | 待检索 | 见档案中的既有出处 |
+| 129 | [In Touch Ministries / Charles Stanley](books/modern--dydi_b--B07/README.md) | 待检索 | 见档案中的既有出处 |
+| 130 | [Insight for Living / Chuck Swindoll](books/modern--dydi_b--B08/README.md) | 待检索 | 见档案中的既有出处 |
+| 131 | [Got Questions Ministries / GotQuestions.org](books/modern--dydi_b--B09/README.md) | 待检索 | 见档案中的既有出处 |
+| 132 | [9Marks](books/modern--dydi_b--B10/README.md) | 待检索 | 见档案中的既有出处 |
+| 133 | [BibleThinker / Mike Winger](books/modern--dydi_b--B11/README.md) | 待检索 | 见档案中的既有出处 |
+| 134 | [Reasonable Faith / William Lane Craig](books/modern--dydi_b--B12/README.md) | 待检索 | 见档案中的既有出处 |
+| 135 | [惠顿学院 Billy Graham 相关档案与数字展览](books/modern--dydi_c--MC01/README.md) | 待检索 | 见档案中的既有出处 |
+| 136 | [穆迪圣经学院 D. L. Moody Collection](books/modern--dydi_c--MC02/README.md) | 待检索 | 见档案中的既有出处 |
+| 137 | [耶鲁 Day Missions Collection：宣教期刊数字化馆藏](books/modern--dydi_c--MC03/README.md) | 待检索 | 见档案中的既有出处 |
+| 138 | [Hartford International University：校史档案与刊物](books/modern--dydi_c--MC04/README.md) | 待检索 | 见档案中的既有出处 |
+| 139 | [Emory Pitts：Charles Wesley family papers 数字馆藏](books/modern--dydi_c--MC05/README.md) | 待检索 | 见档案中的既有出处 |
+| 140 | [Princeton Theological Seminary：Theological Commons](books/modern--dydi_c--MC06/README.md) | 待检索 | 见档案中的既有出处 |
+| 141 | [Presbyterian Historical Society：Pearl Digital Collections](books/modern--dydi_c--MC07/README.md) | 待检索 | 见档案中的既有出处 |
+| 142 | [Congregational Library：New England’s Hidden Histories](books/modern--dydi_c--MC08/README.md) | 待检索 | 见档案中的既有出处 |
+| 143 | [Asbury Theological Seminary：ePLACE Digital Collections and Exhibits](books/modern--dydi_c--MC09/README.md) | 待检索 | 见档案中的既有出处 |
+| 144 | [Duke University Chapel Recordings Digital Collection](books/modern--dydi_c--MC10/README.md) | 待检索 | 见档案中的既有出处 |
+| 145 | [Renovaré](books/modern--dydi_d--d01/README.md) | 待检索 | 见档案中的既有出处 |
+| 146 | [The Upper Room](books/modern--dydi_d--d02/README.md) | 待检索 | 见档案中的既有出处 |
+| 147 | [Jesuits.org — Ignatian Spirituality](books/modern--dydi_d--d03/README.md) | 待检索 | 见档案中的既有出处 |
+| 148 | [Ancient Faith Ministries](books/modern--dydi_d--d04/README.md) | 待检索 | 见档案中的既有出处 |
+| 149 | [Shalem Institute for Spiritual Formation](books/modern--dydi_d--d05/README.md) | 待检索 | 见档案中的既有出处 |
+| 150 | [Center for Action and Contemplation (CAC)](books/modern--dydi_d--d06/README.md) | 待检索 | 见档案中的既有出处 |
+| 151 | [IgnatianSpirituality.com / dotMagis](books/modern--dydi_d--d07/README.md) | 待检索 | 见档案中的既有出处 |
+| 152 | [Give Us This Day](books/modern--dydi_d--d09/README.md) | 待检索 | 见档案中的既有出处 |
+| 153 | [Practicing the Way](books/modern--dydi_d--d11/README.md) | 待检索 | 见档案中的既有出处 |
+| 154 | [Emotionally Healthy Discipleship](books/modern--dydi_d--d12/README.md) | 待检索 | 见档案中的既有出处 |
+| 155 | [Christianity Today](books/modern--lori_a--la01/README.md) | 待检索 | 见档案中的既有出处 |
+| 156 | [The Christian Century](books/modern--lori_a--la02/README.md) | 待检索 | 见档案中的既有出处 |
+| 157 | [Sojourners](books/modern--lori_a--la03/README.md) | 待检索 | 见档案中的既有出处 |
+| 158 | [First Things](books/modern--lori_a--la04/README.md) | 待检索 | 见档案中的既有出处 |
+| 159 | [America: The Jesuit Review](books/modern--lori_a--la05/README.md) | 待检索 | 见档案中的既有出处 |
+| 160 | [Commonweal](books/modern--lori_a--la06/README.md) | 待检索 | 见档案中的既有出处 |
+| 161 | [Plough](books/modern--lori_a--la07/README.md) | 待检索 | 见档案中的既有出处 |
+| 162 | [Mere Orthodoxy](books/modern--lori_a--la09/README.md) | 待检索 | 见档案中的既有出处 |
+| 163 | [Baptist News Global](books/modern--lori_a--la10/README.md) | 待检索 | 见档案中的既有出处 |
+| 164 | [Public Orthodoxy](books/modern--lori_a--la11/README.md) | 待检索 | 见档案中的既有出处 |
+| 165 | [Mockingbird (Mbird)](books/modern--lori_a--la12/README.md) | 待检索 | 见档案中的既有出处 |
+| 166 | [Duke Rubenstein：The Black Church档案入口](books/modern--lori_b--lb01/README.md) | 待检索 | 见档案中的既有出处 |
+| 167 | [Boston University：Howard与Sue Bailey Thurman档案](books/modern--lori_b--lb02/README.md) | 待检索 | 见档案中的既有出处 |
+| 168 | [WomanPreach!](books/modern--lori_b--lb03/README.md) | 待检索 | 见档案中的既有出处 |
+| 169 | [Christianity Today：CT Women与官方Translations](books/modern--lori_b--lb04/README.md) | 待检索 | 见档案中的既有出处 |
+| 170 | [Esau McCaulley：作者网站与Reading While Black](books/modern--lori_b--lb05/README.md) | 待检索 | 见档案中的既有出处 |
+| 171 | [Prasanta Verma：Beyond Ethnic Loneliness / IVP](books/modern--lori_b--lb06/README.md) | 待检索 | 见档案中的既有出处 |
+| 172 | [Justo & Catherine González Resource Center / AETH](books/modern--lori_b--lb07/README.md) | 待检索 | 见档案中的既有出处 |
+| 173 | [Overseas Ministries Study Center（OMSC）/ Princeton](books/modern--lori_b--lb08/README.md) | 待检索 | 见档案中的既有出处 |
+| 174 | [Terry M. Wildman / First Nations Version / IVP Indigenous Authors](books/modern--lori_b--lb09/README.md) | 待检索 | 见档案中的既有出处 |
+| 175 | [Missio Alliance：Writing Collective与Resource Hub](books/modern--lori_b--lb10/README.md) | 待检索 | 见档案中的既有出处 |

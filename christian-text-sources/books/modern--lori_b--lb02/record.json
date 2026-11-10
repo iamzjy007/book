@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "id": "modern:lori_b:lb02",
+  "sequence": 167,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_b:lb02",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "bostonuniversityhoward与suebaileythurman档案",
+      [
+        "https://bu.edu/library/explore-collections/special-collections-archives/howard-thurman-sue-bailey-thurman-collections"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_b:lb02",
+    "title_zh": "Boston University：Howard与Sue Bailey Thurman档案",
+    "original_title": "Boston University：Howard与Sue Bailey Thurman档案",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "大学档案/讲道录音",
+    "area": "多元作者与宣教",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.bu.edu/library/explore-collections/special-collections-archives/howard-thurman-sue-bailey-thurman-collections/",
+        "read_scope": "实际读收藏简介与finding aid/BU Digital Library链接；未听完整音频或读档案件。",
+        "access": "official page opened",
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_b:lb02",
+      "group": "多元作者与宣教",
+      "record_file": "workers/lori_b.json",
+      "id": "lb02",
+      "title": "Boston University：Howard与Sue Bailey Thurman档案",
+      "kind": "大学档案/讲道录音",
+      "tradition": "黑人基督教灵修、跨宗教及共同体实践；不代表所有黑人宗派",
+      "description": "波士顿大学收藏讲道、书稿、通信、照片和音频，并另设Sue Bailey Thurman材料。",
+      "value": "可以研究灵修与公共生活，也能避免把女性档案仅视为丈夫生平附录。",
+      "sources": [
+        {
+          "url": "https://www.bu.edu/library/explore-collections/special-collections-archives/howard-thurman-sue-bailey-thurman-collections/",
+          "read_scope": "实际读收藏简介与finding aid/BU Digital Library链接；未听完整音频或读档案件。",
+          "access": "official page opened",
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "检索Howard Thurman中文出版只命中若干台湾书店英文书；未证明没有中译。",
+      "updates": {
+        "evidence": "静态档案；官网数字馆藏入口可查新增，本轮未证实专题RSS/邮件。",
+        "subscribed_this_round": false
+      },
+      "next": "从一篇可定位的讲道入手，核录制日期、地点、档案号，文字稿须和录音对照。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：从一篇可定位的讲道入手，核录制日期、地点、档案号，文字稿须和录音对照。",
+    "updated_at": "2026-11-10T09:17:54.996402+00:00"
+  }
+}

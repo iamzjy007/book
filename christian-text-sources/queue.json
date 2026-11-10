@@ -1,360 +1,1123 @@
 {
   "schema": 1,
-  "next_task": "dydi_a:east-aphrahat",
+  "active_scope": "modern-christian-resources",
+  "next_task": "modern:dydi_a:willard-renovation",
   "tasks": [
+    {
+      "id": "modern:dydi_a:willard-renovation",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--willard-renovation/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 111,
+      "updated_at": "2026-11-10T09:17:54.985261+00:00"
+    },
+    {
+      "id": "modern:dydi_a:foster-celebration",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--foster-celebration/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 112,
+      "updated_at": "2026-11-10T09:17:54.985763+00:00"
+    },
+    {
+      "id": "modern:dydi_a:merton-new-seeds",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--merton-new-seeds/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 113,
+      "updated_at": "2026-11-10T09:17:54.986057+00:00"
+    },
+    {
+      "id": "modern:dydi_a:norris-cloister",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--norris-cloister/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 114,
+      "updated_at": "2026-11-10T09:17:54.986271+00:00"
+    },
+    {
+      "id": "modern:dydi_a:peterson-angles",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--peterson-angles/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 115,
+      "updated_at": "2026-11-10T09:17:54.986435+00:00"
+    },
+    {
+      "id": "modern:dydi_a:thurman-disinherited",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--thurman-disinherited/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 116,
+      "updated_at": "2026-11-10T09:17:54.986690+00:00"
+    },
+    {
+      "id": "modern:dydi_a:nouwen-return",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--nouwen-return/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 117,
+      "updated_at": "2026-11-10T09:17:54.986871+00:00"
+    },
+    {
+      "id": "modern:dydi_a:kelly-testament",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先查完整书目、身后编集沿革和章节范围，再查中文版本。",
+      "record_path": "books/modern--dydi_a--kelly-testament/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 118,
+      "updated_at": "2026-11-10T09:17:54.987210+00:00"
+    },
+    {
+      "id": "modern:dydi_a:cone-cross",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--cone-cross/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 119,
+      "updated_at": "2026-11-10T09:17:54.987395+00:00"
+    },
+    {
+      "id": "modern:dydi_a:gonzalez-author",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：分别核两套书各版及中文书名对应；本条不以作者页代替逐卷书目。",
+      "record_path": "books/modern--dydi_a--gonzalez-author/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 120,
+      "updated_at": "2026-11-10T09:17:54.987628+00:00"
+    },
+    {
+      "id": "modern:dydi_a:day-author",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：由机构索引定位The Long Loneliness等具体原作及日记/后人选集，分开登记，再核中文版本。",
+      "record_path": "books/modern--dydi_a--day-author/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 121,
+      "updated_at": "2026-11-10T09:17:54.987806+00:00"
+    },
+    {
+      "id": "modern:dydi_a:schmemann-life",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+      "record_path": "books/modern--dydi_a--schmemann-life/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 122,
+      "updated_at": "2026-11-10T09:17:54.988030+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B01",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B01/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 123,
+      "updated_at": "2026-11-10T09:17:54.988220+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B02",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B02/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 124,
+      "updated_at": "2026-11-10T09:17:54.988403+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B03",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B03/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 125,
+      "updated_at": "2026-11-10T09:17:54.988667+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B04",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B04/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 126,
+      "updated_at": "2026-11-10T09:17:54.988825+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B05",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B05/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 127,
+      "updated_at": "2026-11-10T09:17:54.989007+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B06",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B06/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 128,
+      "updated_at": "2026-11-10T09:17:54.989175+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B07",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B07/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 129,
+      "updated_at": "2026-11-10T09:17:54.989312+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B08",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B08/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 130,
+      "updated_at": "2026-11-10T09:17:54.989450+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B09",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B09/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 131,
+      "updated_at": "2026-11-10T09:17:54.989603+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B10",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B10/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 132,
+      "updated_at": "2026-11-10T09:17:54.989760+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B11",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B11/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 133,
+      "updated_at": "2026-11-10T09:17:54.989909+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B12",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+      "record_path": "books/modern--dydi_b--B12/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 134,
+      "updated_at": "2026-11-10T09:17:54.990096+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC01",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['选定Collection 15/74，核开放限制与实际数字对象；不要把展览建站时间当档案年代。']",
+      "record_path": "books/modern--dydi_c--MC01/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 135,
+      "updated_at": "2026-11-10T09:17:54.990260+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC02",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['浏览器核CARLI具体书信、图像和转录覆盖；区别本学院与Northfield Moody Center馆藏。']",
+      "record_path": "books/modern--dydi_c--MC02/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 136,
+      "updated_at": "2026-11-10T09:17:54.990438+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC03",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['以China’s Millions和West China Missionary News抽查卷期、永久链接与下载；逐卷记录缺页和OCR质量。']",
+      "record_path": "books/modern--dydi_c--MC03/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 137,
+      "updated_at": "2026-11-10T09:17:54.990620+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC04",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['重新测试CTDA；选一份Praxis元数据核页数与下载。成立年份网页导航1834与档案起始1833应区分。']",
+      "record_path": "books/modern--dydi_c--MC04/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 138,
+      "updated_at": "2026-11-10T09:17:54.990780+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC05",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['抽核一封1792-05-27书信的影像、转录和权利字段；核完整全宗与在线件数差。']",
+      "record_path": "books/modern--dydi_c--MC05/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 139,
+      "updated_at": "2026-11-10T09:17:54.991051+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC06",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['按Princeton期刊、宣教、讲道筛选具体版本；核PDF与OCR不一致处，不把OCR当校订文本。']",
+      "record_path": "books/modern--dydi_c--MC06/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 140,
+      "updated_at": "2026-11-10T09:17:54.991283+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC07",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['抽查中国宣教或Cannon具体对象，核下载、转录与版权；保留Pearl永久ID。']",
+      "record_path": "books/modern--dydi_c--MC07/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 141,
+      "updated_at": "2026-11-10T09:17:54.991442+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC08",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['选一份归信叙事/纪律记录核影像与转录差；记录原藏机构、日期、页码。']",
+      "record_path": "books/modern--dydi_c--MC08/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 142,
+      "updated_at": "2026-11-10T09:17:54.991597+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC09",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['优先抽查E. Stanley Jones及Hannah Whitall Smith；分别记录目录、数字正文、受限栏目。']",
+      "record_path": "books/modern--dydi_c--MC09/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 143,
+      "updated_at": "2026-11-10T09:17:54.991748+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC10",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['核最新库实际起止年代，区别早期1955—1995项目与后续扩充；抽核手稿、音频、字幕三者对应。']",
+      "record_path": "books/modern--dydi_c--MC10/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 144,
+      "updated_at": "2026-11-10T09:17:54.992157+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d01",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核课程使用许可、读书会／培训费用与中文授权。",
+      "record_path": "books/modern--dydi_d--d01/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 145,
+      "updated_at": "2026-11-10T09:17:54.992362+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d02",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：进入 International Editions 查中文合作方；确认不同栏目付费边界。",
+      "record_path": "books/modern--dydi_d--d02/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 146,
+      "updated_at": "2026-11-10T09:17:54.992525+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d03",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：实读一篇省察指导和一期播客，核负责机构及中文神操版本。",
+      "record_path": "books/modern--dydi_d--d03/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 147,
+      "updated_at": "2026-11-10T09:17:54.992686+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d04",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：挑一个祷告系列查主持背景、完整节目索引及RSS。",
+      "record_path": "books/modern--dydi_d--d04/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 148,
+      "updated_at": "2026-11-10T09:17:54.992832+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d05",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：实读课程介绍、师资、机构历史及信仰定位，确认适合的参与者。",
+      "record_path": "books/modern--dydi_d--d05/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 149,
+      "updated_at": "2026-11-10T09:17:54.993068+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d06",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核 Daily Meditations 邮件频率和近期文章署名；查中文著作是否为对应作品。",
+      "record_path": "books/modern--dydi_d--d06/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 150,
+      "updated_at": "2026-11-10T09:17:54.993232+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d07",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：从 About This Site 的实际链接核出版背景；抽读退修使用说明及订阅页。",
+      "record_path": "books/modern--dydi_d--d07/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 151,
+      "updated_at": "2026-11-10T09:17:54.993389+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d09",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核数字／纸本／应用程序各档、地区限制及经文译本。",
+      "record_path": "books/modern--dydi_d--d09/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 152,
+      "updated_at": "2026-11-10T09:17:54.993526+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d11",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：进一步核美国法人信息、账户隐私、下载材料许可及中文资源覆盖。",
+      "record_path": "books/modern--dydi_d--d11/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 153,
+      "updated_at": "2026-11-10T09:17:54.993685+00:00"
+    },
+    {
+      "id": "modern:dydi_d:d12",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核 Emotionally Healthy Spirituality具体书版与中文译名／译者；查课程与书籍的范围差别。",
+      "record_path": "books/modern--dydi_d--d12/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 154,
+      "updated_at": "2026-11-10T09:17:54.993885+00:00"
+    },
+    {
+      "id": "modern:lori_a:la01",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：另核数字方案当前权益与最近新闻日期；按具体栏目评估选稿。",
+      "record_path": "books/modern--lori_a--la01/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 155,
+      "updated_at": "2026-11-10T09:17:54.994088+00:00"
+    },
+    {
+      "id": "modern:lori_a:la02",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核下一期日期；分别核普通邮件和Sunday’s Coming Premium权益。",
+      "record_path": "books/modern--lori_a--la02/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 156,
+      "updated_at": "2026-11-10T09:17:54.994262+00:00"
+    },
+    {
+      "id": "modern:lori_a:la03",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核最近刊期及Liberating the Word独立订阅权益。",
+      "record_path": "books/modern--lori_a--la03/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 157,
+      "updated_at": "2026-11-10T09:17:54.994423+00:00"
+    },
+    {
+      "id": "modern:lori_a:la04",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核最新刊期、邮件与全文付费边界；另选一篇事实性文章交叉查证。",
+      "record_path": "books/modern--lori_a--la04/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 158,
+      "updated_at": "2026-11-10T09:17:54.994597+00:00"
+    },
+    {
+      "id": "modern:lori_a:la05",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：进一步核新闻与灵修邮件各自免费范围。",
+      "record_path": "books/modern--lori_a--la05/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 159,
+      "updated_at": "2026-11-10T09:17:54.994835+00:00"
+    },
+    {
+      "id": "modern:lori_a:la06",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核当前刊期与免费文章配额；专门查中文授权译介。",
+      "record_path": "books/modern--lori_a--la06/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 160,
+      "updated_at": "2026-11-10T09:17:54.995109+00:00"
+    },
+    {
+      "id": "modern:lori_a:la07",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核最新刊期，另查具体中文书目，不把未检得视为无出版。",
+      "record_path": "books/modern--lori_a--la07/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 161,
+      "updated_at": "2026-11-10T09:17:54.995364+00:00"
+    },
+    {
+      "id": "modern:lori_a:la09",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核最新期刊日期及Substack免费／付费与网站会员关系。",
+      "record_path": "books/modern--lori_a--la09/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 162,
+      "updated_at": "2026-11-10T09:17:54.995537+00:00"
+    },
+    {
+      "id": "modern:lori_a:la10",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：从当前首页重新定位正式邮件登记链接；抽查报道原始来源及最近日期。",
+      "record_path": "books/modern--lori_a--la10/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 163,
+      "updated_at": "2026-11-10T09:17:54.995698+00:00"
+    },
+    {
+      "id": "modern:lori_a:la11",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核邮件登记和不同语言是否同文同步；学术期刊须单独评价。",
+      "record_path": "books/modern--lori_a--la11/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 164,
+      "updated_at": "2026-11-10T09:17:54.995846+00:00"
+    },
+    {
+      "id": "modern:lori_a:la12",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核杂志与邮件方案；不要因作者背景把机构误标为圣公会官方媒体。",
+      "record_path": "books/modern--lori_a--la12/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 165,
+      "updated_at": "2026-11-10T09:17:54.996071+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb01",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先选一件教会自述书和一组照片，核馆藏号、拍摄/成文日期与权利栏。",
+      "record_path": "books/modern--lori_b--lb01/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 166,
+      "updated_at": "2026-11-10T09:17:54.996247+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb02",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：从一篇可定位的讲道入手，核录制日期、地点、档案号，文字稿须和录音对照。",
+      "record_path": "books/modern--lori_b--lb02/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 167,
+      "updated_at": "2026-11-10T09:17:54.996402+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb03",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：选择一位具名讲者与一场公开对话，核日期、讲者机构和是否有可引用文字稿。",
+      "record_path": "books/modern--lori_b--lb03/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 168,
+      "updated_at": "2026-11-10T09:17:54.997204+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb04",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先查目标文章是否已有官方译文，再做原创中文评介；稿件注明报道/评论类型。",
+      "record_path": "books/modern--lori_b--lb04/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 169,
+      "updated_at": "2026-11-10T09:17:54.997367+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb05",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：取得正版书后按章核论证，联系正式中文出版社目录查译名，勿将书介改写成读后评。",
+      "record_path": "books/modern--lori_b--lb05/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 170,
+      "updated_at": "2026-11-10T09:17:54.997527+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb06",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先读样章和书本，区分个人叙事、研究结论与牧养建议，不据书介提出临床判断。",
+      "record_path": "books/modern--lori_b--lb06/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 171,
+      "updated_at": "2026-11-10T09:17:54.997675+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb07",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：逐件确认语言和授权层级，优先挑实际英文讲座；不得将西语资源直接标为英文全文。",
+      "record_path": "books/modern--lori_b--lb07/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 172,
+      "updated_at": "2026-11-10T09:17:54.997816+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb08",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：从国际研究员讲座或IBMR综述选题，核作者当地背景与资料方法；用现机构地址，不沿过时Yale/New Haven归属。",
+      "record_path": "books/modern--lori_b--lb08/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 173,
+      "updated_at": "2026-11-10T09:17:54.997992+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb09",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：研究一处译法时并列原文/常规英译/项目说明；原住民身份按本人/官方所述，不外推所有部族。",
+      "record_path": "books/modern--lori_b--lb09/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 174,
+      "updated_at": "2026-11-10T09:17:54.998150+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb10",
+      "status": "queued",
+      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：优先读完整具名文章，核作者履历和引据；确认当前正式订阅入口后再列长期追踪。",
+      "record_path": "books/modern--lori_b--lb10/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 175,
+      "updated_at": "2026-11-10T09:17:54.998301+00:00"
+    },
     {
       "id": "dydi_a:east-aphrahat",
       "status": "partial_online",
       "next_action": "逐一核1—23篇内容及Parisot卷1、2扫描，选定原文底本；英译目前只是8篇。",
-      "record_path": "books/dydi_a--east-aphrahat/record.json"
+      "record_path": "books/dydi_a--east-aphrahat/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 1,
+      "updated_at": "2026-11-10T05:48:47.793412+00:00"
     },
     {
       "id": "dydi_a:east-isaac-ii",
       "status": "metadata_only",
       "next_action": "检索Brock CSCO 554/555原文与英译的馆藏可读版；另核II.1—3及四百则，不能拿I集代替。",
-      "record_path": "books/dydi_a--east-isaac-ii/record.json"
+      "record_path": "books/dydi_a--east-isaac-ii/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 3,
+      "updated_at": "2026-11-10T05:48:47.794526+00:00"
     },
     {
       "id": "dydi_a:east-isaac-iii",
       "status": "metadata_only",
       "next_action": "查CSCO 637/638可读本及手稿开放影像；必须独立于第一、第二集。",
-      "record_path": "books/dydi_a--east-isaac-iii/record.json"
+      "record_path": "books/dydi_a--east-isaac-iii/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 4,
+      "updated_at": "2026-11-10T05:48:47.794805+00:00"
     },
     {
       "id": "dydi_a:east-john-dalyatha",
       "status": "partial_online",
       "next_action": "从Harvard Ms Syr 115取得书信叶56v—97r影像；核对Beulay校本编号。",
-      "record_path": "books/dydi_a--east-john-dalyatha/record.json"
+      "record_path": "books/dydi_a--east-john-dalyatha/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 5,
+      "updated_at": "2026-11-10T05:48:47.795137+00:00"
     },
     {
       "id": "dydi_a:east-john-solitary",
       "status": "metadata_only",
       "next_action": "追查Dedering 1936原文校本及出版社授权样章；同作者其他作品不能替代。",
-      "record_path": "books/dydi_a--east-john-solitary/record.json"
+      "record_path": "books/dydi_a--east-john-solitary/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 6,
+      "updated_at": "2026-11-10T05:48:47.795409+00:00"
     },
     {
       "id": "dydi_a:east-joseph-stages",
       "status": "metadata_only",
       "next_action": "检索PO 45.2/202与旧署Philoxenus的Olinder 1950版；核独立文本，不采用有关三阶段的研究论文充当原作。",
-      "record_path": "books/dydi_a--east-joseph-stages/record.json"
+      "record_path": "books/dydi_a--east-joseph-stages/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 7,
+      "updated_at": "2026-11-10T05:48:47.795795+00:00"
     },
     {
       "id": "dydi_a:east-steps",
       "status": "scan_candidate",
       "next_action": "直接查看扫描卷的正文起页与末页、30篇目录；核实后升级正文可直达。",
-      "record_path": "books/dydi_a--east-steps/record.json"
+      "record_path": "books/dydi_a--east-steps/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 9,
+      "updated_at": "2026-11-10T05:48:47.796364+00:00"
     },
     {
       "id": "dydi_a:east-mingana-mystics",
       "status": "blocked",
       "next_action": "继续查1934卷7机构开放扫描；馆藏ID已明确，勿用第6卷或McGinn同名书。",
-      "record_path": "books/dydi_a--east-mingana-mystics/record.json"
+      "record_path": "books/dydi_a--east-mingana-mystics/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 10,
+      "updated_at": "2026-11-10T05:48:47.796680+00:00"
     },
     {
       "id": "dydi_a:east-abuqurrah-icons",
       "status": "metadata_only",
       "next_action": "查阿拉伯语旧版与BL Or.4950 ff.198r—237v／Sinai Arabic 330 ff.315r—356r影像，或取得出版社阅读版。",
-      "record_path": "books/dydi_a--east-abuqurrah-icons/record.json"
+      "record_path": "books/dydi_a--east-abuqurrah-icons/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 12,
+      "updated_at": "2026-11-10T05:48:47.797223+00:00"
     },
     {
       "id": "dydi_a:east-ammar-proof",
       "status": "metadata_only",
       "next_action": "打开Mikhail13PhD.pdf核附录与译文范围；另找Hayek阿拉伯语校本。",
-      "record_path": "books/dydi_a--east-ammar-proof/record.json"
+      "record_path": "books/dydi_a--east-ammar-proof/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 13,
+      "updated_at": "2026-11-10T05:48:47.797579+00:00"
     },
     {
       "id": "dydi_a:east-ammar-questions",
       "status": "metadata_only",
       "next_action": "查阿拉伯语题名كتاب المسائل والأجوبة及Hayek版本；与Kitab al-Burhan分开，不采用同名现代问答书。",
-      "record_path": "books/dydi_a--east-ammar-questions/record.json"
+      "record_path": "books/dydi_a--east-ammar-questions/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 14,
+      "updated_at": "2026-11-10T05:48:47.797843+00:00"
     },
     {
       "id": "dydi_b:B01",
       "status": "partial_online",
       "next_action": "核每段引用原语及现代归类，分开希伯来人与拿撒勒派片段。",
-      "record_path": "books/dydi_b--B01/record.json"
+      "record_path": "books/dydi_b--B01/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 16,
+      "updated_at": "2026-11-10T05:52:30.441955+00:00"
     },
     {
       "id": "dydi_b:B02",
       "status": "partial_online",
       "next_action": "取得Jerome等原语引文；与B01去重，并核现代译文使用条件。",
-      "record_path": "books/dydi_b--B02/record.json"
+      "record_path": "books/dydi_b--B02/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 17,
+      "updated_at": "2026-11-10T05:52:30.442328+00:00"
     },
     {
       "id": "dydi_b:B03",
       "status": "partial_online",
       "next_action": "回到Stromateis原语和章号；保持希腊与科普特同名书区别。",
-      "record_path": "books/dydi_b--B03/record.json"
+      "record_path": "books/dydi_b--B03/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 18,
+      "updated_at": "2026-11-10T05:52:30.442617+00:00"
     },
     {
       "id": "dydi_b:B04",
       "status": "partial_online",
       "next_action": "补取原刊Oxyrhynchus Papyri 5中840的原文与图版。",
-      "record_path": "books/dydi_b--B04/record.json"
+      "record_path": "books/dydi_b--B04/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 19,
+      "updated_at": "2026-11-10T05:52:30.443031+00:00"
     },
     {
       "id": "dydi_b:B05",
       "status": "partial_online",
       "next_action": "查Oxyrhynchus Papyri 10 pp.1—10及图版，不把与840相邻列目当连续正文。",
-      "record_path": "books/dydi_b--B05/record.json"
-    },
-    {
-      "id": "dydi_b:B06",
-      "status": "partial_online",
-      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
-      "record_path": "books/dydi_b--B06/record.json"
+      "record_path": "books/dydi_b--B05/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 20,
+      "updated_at": "2026-11-10T05:52:30.443408+00:00"
     },
     {
       "id": "dydi_b:B07",
       "status": "partial_online",
       "next_action": "核Panarion 30希腊原文及每段上下文，保留教父转述性质。",
-      "record_path": "books/dydi_b--B07/record.json"
-    },
-    {
-      "id": "dydi_b:B08",
-      "status": "partial_online",
-      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
-      "record_path": "books/dydi_b--B08/record.json"
-    },
-    {
-      "id": "dydi_b:B09",
-      "status": "partial_online",
-      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
-      "record_path": "books/dydi_b--B09/record.json"
-    },
-    {
-      "id": "dydi_b:B10",
-      "status": "scan_candidate",
-      "next_action": "先核Jacoby所收旧残片；找2017作者存档／机构阅读版再确定残页顺序，不能用旧题名推定二世纪。",
-      "record_path": "books/dydi_b--B10/record.json"
-    },
-    {
-      "id": "dydi_b:B11",
-      "status": "scan_candidate",
-      "next_action": "打开Vassiliev pp.10—22及Bonwetsch 1897版；另找可用James旧英译镜像。",
-      "record_path": "books/dydi_b--B11/record.json"
-    },
-    {
-      "id": "dydi_b:B12",
-      "status": "scan_candidate",
-      "next_action": "抽查上述正文起末页并保留各传本界限；James对此书仅摘要，不能当全文替代。",
-      "record_path": "books/dydi_b--B12/record.json"
-    },
-    {
-      "id": "dydi_b:B13",
-      "status": "partial_online",
-      "next_action": "查Mingana Woodbrooke Studies 2中Lament of Mary阿拉伯／英译pp.163—240；另列吉兹版本，不创建不存在的独立完整科普特福音。",
-      "record_path": "books/dydi_b--B13/record.json"
-    },
-    {
-      "id": "dydi_b:B14",
-      "status": "partial_online",
-      "next_action": "核Bonnet旧版实际范围，再取后发现的Xenophontos传本校本；不能以ANF局部当新全译底本。",
-      "record_path": "books/dydi_b--B14/record.json"
-    },
-    {
-      "id": "dydi_b:B15",
-      "status": "scan_candidate",
-      "next_action": "取得Usener 1877 pp.7—13或上述PG正文；区分希腊家族与拉丁伪署坡旅克拉底。",
-      "record_path": "books/dydi_b--B15/record.json"
-    },
-    {
-      "id": "dydi_b:B17",
-      "status": "scan_candidate",
-      "next_action": "打开牛津项目文件逐面核图，配1994原刊转录；归彼得福音只能作为假说。",
-      "record_path": "books/dydi_b--B17/record.json"
+      "record_path": "books/dydi_b--B07/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 22,
+      "updated_at": "2026-11-10T05:52:30.443706+00:00"
     },
     {
       "id": "dydi_b:B18",
       "status": "partial_online",
       "next_action": "追奥地利国家图书馆影像和较新Kraus校本；原文重构与实存字母分开。",
-      "record_path": "books/dydi_b--B18/record.json"
+      "record_path": "books/dydi_b--B18/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 33,
+      "updated_at": "2026-11-10T05:52:30.444094+00:00"
+    },
+    {
+      "id": "dydi_b:B06",
+      "status": "partial_online",
+      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "record_path": "books/dydi_b--B06/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 21,
+      "updated_at": "2026-11-10T05:52:30.444338+00:00"
+    },
+    {
+      "id": "dydi_b:B08",
+      "status": "partial_online",
+      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "record_path": "books/dydi_b--B08/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 23,
+      "updated_at": "2026-11-10T05:52:30.444625+00:00"
+    },
+    {
+      "id": "dydi_b:B09",
+      "status": "partial_online",
+      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "record_path": "books/dydi_b--B09/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 24,
+      "updated_at": "2026-11-10T05:52:30.444884+00:00"
+    },
+    {
+      "id": "dydi_b:B10",
+      "status": "scan_candidate",
+      "next_action": "先核Jacoby所收旧残片；找2017作者存档／机构阅读版再确定残页顺序，不能用旧题名推定二世纪。",
+      "record_path": "books/dydi_b--B10/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 25,
+      "updated_at": "2026-11-10T05:52:30.445159+00:00"
+    },
+    {
+      "id": "dydi_b:B11",
+      "status": "scan_candidate",
+      "next_action": "打开Vassiliev pp.10—22及Bonwetsch 1897版；另找可用James旧英译镜像。",
+      "record_path": "books/dydi_b--B11/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 26,
+      "updated_at": "2026-11-10T05:52:30.445432+00:00"
+    },
+    {
+      "id": "dydi_b:B12",
+      "status": "scan_candidate",
+      "next_action": "抽查上述正文起末页并保留各传本界限；James对此书仅摘要，不能当全文替代。",
+      "record_path": "books/dydi_b--B12/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 27,
+      "updated_at": "2026-11-10T05:52:30.445813+00:00"
+    },
+    {
+      "id": "dydi_b:B13",
+      "status": "partial_online",
+      "next_action": "查Mingana Woodbrooke Studies 2中Lament of Mary阿拉伯／英译pp.163—240；另列吉兹版本，不创建不存在的独立完整科普特福音。",
+      "record_path": "books/dydi_b--B13/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 28,
+      "updated_at": "2026-11-10T05:52:30.446052+00:00"
+    },
+    {
+      "id": "dydi_b:B14",
+      "status": "partial_online",
+      "next_action": "核Bonnet旧版实际范围，再取后发现的Xenophontos传本校本；不能以ANF局部当新全译底本。",
+      "record_path": "books/dydi_b--B14/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 29,
+      "updated_at": "2026-11-10T05:52:30.446299+00:00"
+    },
+    {
+      "id": "dydi_b:B15",
+      "status": "scan_candidate",
+      "next_action": "取得Usener 1877 pp.7—13或上述PG正文；区分希腊家族与拉丁伪署坡旅克拉底。",
+      "record_path": "books/dydi_b--B15/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 30,
+      "updated_at": "2026-11-10T05:52:30.446607+00:00"
+    },
+    {
+      "id": "dydi_b:B17",
+      "status": "scan_candidate",
+      "next_action": "打开牛津项目文件逐面核图，配1994原刊转录；归彼得福音只能作为假说。",
+      "record_path": "books/dydi_b--B17/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 32,
+      "updated_at": "2026-11-10T05:52:30.447215+00:00"
     },
     {
       "id": "dydi_c:C01",
       "status": "partial_online",
       "next_action": "逐字母核完PG65 cols.71—440，另取原文校本扫描；不要与系统集合并。",
-      "record_path": "books/dydi_c--C01/record.json"
+      "record_path": "books/dydi_c--C01/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 34,
+      "updated_at": "2026-11-10T05:57:13.780004+00:00"
     },
     {
       "id": "dydi_c:C02",
       "status": "metadata_only",
       "next_action": "追希腊系统集SC387/474/498或早期拉丁Verba seniorum；先比对编排，不能用字母集替代。",
-      "record_path": "books/dydi_c--C02/record.json"
+      "record_path": "books/dydi_c--C02/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 35,
+      "updated_at": "2026-11-10T05:57:13.780799+00:00"
     },
     {
       "id": "dydi_c:C05",
       "status": "metadata_only",
       "next_action": "追Greek Historia monachorum与Rufinus拉丁改写分别的旧校本；新生成英文译文不能替代既有底本。",
-      "record_path": "books/dydi_c--C05/record.json"
+      "record_path": "books/dydi_c--C05/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 38,
+      "updated_at": "2026-11-10T05:57:13.782421+00:00"
     },
     {
       "id": "dydi_c:C07",
       "status": "needs_review",
       "next_action": "取得Besa科普特旧版／Leipoldt或Amélineau本；核叙利亚文本与其关系，再判断可译范围。",
-      "record_path": "books/dydi_c--C07/record.json"
+      "record_path": "books/dydi_c--C07/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 40,
+      "updated_at": "2026-11-10T05:57:13.783229+00:00"
     },
     {
       "id": "dydi_c:C10",
       "status": "scan_candidate",
       "next_action": "先列Senodos构件矩阵，把Horner具体条号映射到既有使徒传统；再查未覆盖构件，不能合成一部假定全书。",
-      "record_path": "books/dydi_c--C10/record.json"
+      "record_path": "books/dydi_c--C10/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 42,
+      "updated_at": "2026-11-10T05:57:13.784313+00:00"
     },
     {
       "id": "dydi_c:C11",
       "status": "scan_candidate",
       "next_action": "打开候选版权页核Tzadua／Strauss版及正文范围；并查Guidi旧吉兹校本／意译，保留版本差别。",
-      "record_path": "books/dydi_c--C11/record.json"
+      "record_path": "books/dydi_c--C11/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 43,
+      "updated_at": "2026-11-10T05:57:13.784745+00:00"
     },
     {
       "id": "dydi_c:C12",
       "status": "metadata_only",
       "next_action": "从CAe2598链接追具体手稿号和可读影像；IA该限定查询0命中，仅说明此检索范围，不代表全文不存在。",
-      "record_path": "books/dydi_c--C12/record.json"
+      "record_path": "books/dydi_c--C12/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 44,
+      "updated_at": "2026-11-10T05:57:13.785054+00:00"
     },
     {
       "id": "dydi_c:C13",
       "status": "partial_online",
       "next_action": "核TITUS章节总数和末章，并保留1909版页行号；现代Thomson英译另核权限和覆盖。",
-      "record_path": "books/dydi_c--C13/record.json"
+      "record_path": "books/dydi_c--C13/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 45,
+      "updated_at": "2026-11-10T05:57:13.785454+00:00"
     },
     {
       "id": "dydi_c:C16",
       "status": "needs_review",
       "next_action": "取得格鲁吉亚原文及Lang或新译对应；用亚美尼亚长／短本作对照，不能无说明替代。",
-      "record_path": "books/dydi_c--C16/record.json"
+      "record_path": "books/dydi_c--C16/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 48,
+      "updated_at": "2026-11-10T05:57:13.786660+00:00"
     },
     {
       "id": "dydi_c:C17",
       "status": "metadata_only",
       "next_action": "优先找Marr1911格鲁吉亚原文与俄译扫描，再核Peeters拉丁版；不要把Lang155—165页节述当全部原作。",
-      "record_path": "books/dydi_c--C17/record.json"
+      "record_path": "books/dydi_c--C17/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 49,
+      "updated_at": "2026-11-10T05:57:13.786966+00:00"
     },
     {
       "id": "dydi_d:evagrius-kephalaia-gnostika",
       "status": "partial_online",
       "next_action": "核六百则的各章缺漏、S1/S2及回译标志，追Guillaumont PO28.1原校本。",
-      "record_path": "books/dydi_d--evagrius-kephalaia-gnostika/record.json"
+      "record_path": "books/dydi_d--evagrius-kephalaia-gnostika/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 53,
+      "updated_at": "2026-11-10T06:02:14.817772+00:00"
     },
     {
       "id": "dydi_d:evagrius-antirrhetikos",
       "status": "partial_online",
       "next_action": "补原叙利亚语／Frankenberg旧版及全部条号；不把选篇当完整Talking Back。",
-      "record_path": "books/dydi_d--evagrius-antirrhetikos/record.json"
+      "record_path": "books/dydi_d--evagrius-antirrhetikos/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 55,
+      "updated_at": "2026-11-10T06:02:14.818171+00:00"
     },
     {
       "id": "dydi_d:maximus-ambigua",
       "status": "partial_online",
       "next_action": "核两分部所据印本、编号和完整性；现代合卷要求登录，不将其HTTP200算取得。",
-      "record_path": "books/dydi_d--maximus-ambigua/record.json"
+      "record_path": "books/dydi_d--maximus-ambigua/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 59,
+      "updated_at": "2026-11-10T06:02:14.822413+00:00"
     },
     {
       "id": "dydi_d:symeon-catecheses",
       "status": "metadata_only",
       "next_action": "追EPE或SC96/104/113教理讲道集，打开正文；Theophan的Slova编排可能不同，不能直接代替。",
-      "record_path": "books/dydi_d--symeon-catecheses/record.json"
+      "record_path": "books/dydi_d--symeon-catecheses/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 61,
+      "updated_at": "2026-11-10T06:02:14.822817+00:00"
     },
     {
       "id": "dydi_d:symeon-hymns",
       "status": "partial_online",
       "next_action": "核首末首正文及全部60首，与现代希腊校本和SVS版所收篇目比较；不是原研究Terian等别本。",
-      "record_path": "books/dydi_d--symeon-hymns/record.json"
+      "record_path": "books/dydi_d--symeon-hymns/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 63,
+      "updated_at": "2026-11-10T06:02:14.823228+00:00"
     },
     {
       "id": "dydi_d:climacus-ladder",
       "status": "partial_online",
       "next_action": "逐阶核1—30及致牧者，补希腊原文和俄译印本；与Guigo修士天梯严格区分。",
-      "record_path": "books/dydi_d--climacus-ladder/record.json"
+      "record_path": "books/dydi_d--climacus-ladder/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 68,
+      "updated_at": "2026-11-10T06:02:14.825423+00:00"
     },
     {
       "id": "lori_a:ambrose-flight",
       "status": "metadata_only",
       "next_action": "实读Ancient Library候选并追CSEL32.2 pp.162起校本扫描，不能拿Notre Dame的De paenitentia替代。",
-      "record_path": "books/lori_a--ambrose-flight/record.json"
+      "record_path": "books/lori_a--ambrose-flight/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 75,
+      "updated_at": "2026-11-10T06:08:21.035035+00:00"
     },
     {
       "id": "lori_a:gregory-song",
       "status": "metadata_only",
       "next_action": "核出版社样章是否含原作正文；追PL79／CCSL144原语文本，并将Bede辑录与Gregory独立释义分开。",
-      "record_path": "books/lori_a--gregory-song/record.json"
+      "record_path": "books/lori_a--gregory-song/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 80,
+      "updated_at": "2026-11-10T06:08:21.037336+00:00"
     },
     {
       "id": "lori_a:william-golden",
       "status": "scan_candidate",
       "next_action": "打开PL184 cols.307—354，注意旧署Guigo等历史归属；核SC223现代校本，建立归属说明。",
-      "record_path": "books/lori_a--william-golden/record.json"
+      "record_path": "books/lori_a--william-golden/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 81,
+      "updated_at": "2026-11-10T06:08:21.037794+00:00"
     },
     {
       "id": "lori_a:william-love",
       "status": "metadata_only",
       "next_action": "追PL180中作者作品及Liber beati Bernardi de amore旧署名；核具体栏号后取正文。",
-      "record_path": "books/lori_a--william-love/record.json"
+      "record_path": "books/lori_a--william-love/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 82,
+      "updated_at": "2026-11-10T06:08:21.038342+00:00"
     },
     {
       "id": "lori_a:aelred-mirror",
       "status": "blocked",
       "next_action": "换PL195图书馆扫描验证501—620D；原站恢复后重试该作品HTML入口。",
-      "record_path": "books/lori_a--aelred-mirror/record.json"
+      "record_path": "books/lori_a--aelred-mirror/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 84,
+      "updated_at": "2026-11-10T06:08:21.039185+00:00"
     },
     {
       "id": "lori_a:aelred-friendship",
       "status": "partial_online",
       "next_action": "核是否包含完整三卷与原校本来源；原研究中文正式出版已知，新增原语仅作对读。",
-      "record_path": "books/lori_a--aelred-friendship/record.json"
+      "record_path": "books/lori_a--aelred-friendship/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 85,
+      "updated_at": "2026-11-10T06:08:21.039798+00:00"
     },
     {
       "id": "lori_a:gertrud-exercises",
       "status": "metadata_only",
       "next_action": "查Solesmes旧版对应卷的公开扫描和7练习页码；与Loyola同名Spiritual Exercises排除。",
-      "record_path": "books/lori_a--gertrud-exercises/record.json"
+      "record_path": "books/lori_a--gertrud-exercises/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 86,
+      "updated_at": "2026-11-10T06:08:21.040264+00:00"
     },
     {
       "id": "lori_a:dhuoda-handbook",
       "status": "blocked",
       "next_action": "换Édouard Bondurand1887旧版扫描，核全书卷次；用旧异名Dodana／Duodena扩检。",
-      "record_path": "books/lori_a--dhuoda-handbook/record.json"
+      "record_path": "books/lori_a--dhuoda-handbook/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 87,
+      "updated_at": "2026-11-10T06:08:21.040668+00:00"
     },
     {
       "id": "lori_a:bede-song",
       "status": "blocked",
       "next_action": "换PL91或CCSL119A对应扫描／阅读版；不要把第6卷Gregory摘录当Gregory独立原作全本。",
-      "record_path": "books/lori_a--bede-song/record.json"
+      "record_path": "books/lori_a--bede-song/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 88,
+      "updated_at": "2026-11-10T06:08:21.041242+00:00"
     },
     {
       "id": "lori_a:anselm-prayers",
       "status": "scan_candidate",
       "next_action": "打开版权页／目录，逐篇与Schmitt／Wilmart真作清单对照；旧署Anselm作品并非均真作。",
-      "record_path": "books/lori_a--anselm-prayers/record.json"
+      "record_path": "books/lori_a--anselm-prayers/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 89,
+      "updated_at": "2026-11-10T06:08:21.041700+00:00"
     },
     {
       "id": "lori_b:lb11",
       "status": "partial_online",
       "next_action": "补希腊原文Eusebius HE V.1–2，界定叙述过渡与原信引文。",
-      "record_path": "books/lori_b--lb11/record.json"
+      "record_path": "books/lori_b--lb11/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 100,
+      "updated_at": "2026-11-10T06:14:53.579212+00:00"
     },
     {
       "id": "lori_b:lb14",
       "status": "scan_candidate",
       "next_action": "实际下载核题页、Passio题名、首尾和印页，再找Franchi de’ Cavalieri希腊校本；排除Hrotsvitha《Dulcitius》和现代圣徒传。",
-      "record_path": "books/lori_b--lb14/record.json"
+      "record_path": "books/lori_b--lb14/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 103,
+      "updated_at": "2026-11-10T06:14:53.580142+00:00"
     },
     {
       "id": "lori_b:lb16",
       "status": "partial_online",
       "next_action": "目视印页21–25及图版，补Oxford馆藏原图并核许可；区别现代歌曲改编。",
-      "record_path": "books/lori_b--lb16/record.json"
+      "record_path": "books/lori_b--lb16/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 105,
+      "updated_at": "2026-11-10T06:14:53.580629+00:00"
     },
     {
       "id": "root:interpretation-knowledge",
       "status": "partial_online",
       "next_action": "补Funk/Painchaud/Thomassen2010科普特／法译校本，按抄本页行编损缺表。",
-      "record_path": "books/root--interpretation-knowledge/record.json"
+      "record_path": "books/root--interpretation-knowledge/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 107,
+      "updated_at": "2026-11-10T06:15:44.645511+00:00"
     },
     {
       "id": "root:apocryphon-john",
       "status": "partial_online",
       "next_action": "先确定该译文的recension／底本，再取得短本NHIII,1与BG2；Gnosis四本对勘入口受阻可重试。",
-      "record_path": "books/root--apocryphon-john/record.json"
+      "record_path": "books/root--apocryphon-john/record.json",
+      "scope": "ancient-christian-literature",
+      "sequence": 108,
+      "updated_at": "2026-11-10T06:15:44.645852+00:00"
     }
   ]
 }

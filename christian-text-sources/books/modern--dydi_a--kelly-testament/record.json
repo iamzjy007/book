@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_a:kelly-testament",
+  "sequence": 118,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_a:kelly-testament",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "thomasrkellyatestamentofdevotion机构引文入口",
+      [
+        "https://qfp.quaker.org.uk/passage/2-10"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_a:kelly-testament",
+    "title_zh": "Thomas R. Kelly — A Testament of Devotion（机构引文入口）",
+    "original_title": "Thomas R. Kelly — A Testament of Devotion（机构引文入口）",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "作者/作品资源入口，非完整书目定版",
+    "area": "书籍与作者",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://qfp.quaker.org.uk/passage/2-10/",
+        "read_scope": "作者身份、作品称谓与节引出处；没有下载全文",
+        "actually_read": true,
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_a:kelly-testament",
+      "group": "书籍与作者",
+      "record_file": "workers/dydi_a.json",
+      "id": "kelly-testament",
+      "title": "Thomas R. Kelly — A Testament of Devotion（机构引文入口）",
+      "kind": "作者/作品资源入口，非完整书目定版",
+      "tradition": "美国贵格会；本入口由英国贵格会收录",
+      "description": "贵格会Faith & Practice2.10标明美国俄亥俄出生作者，并引用1941文本。",
+      "value": "可从内在敬拜与回应神的主题切入；官方节引不等于完整书。",
+      "sources": [
+        {
+          "url": "https://qfp.quaker.org.uk/passage/2-10/",
+          "read_scope": "作者身份、作品称谓与节引出处；没有下载全文",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "先查完整书目、身后编集沿革和章节范围，再查中文版本。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先查完整书目、身后编集沿革和章节范围，再查中文版本。",
+    "updated_at": "2026-11-10T09:17:54.987210+00:00"
+  }
+}

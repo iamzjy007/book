@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "id": "modern:lori_b:lb06",
+  "sequence": 171,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_b:lb06",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "prasantavermabeyondethniclonelinessivp",
+      [
+        "https://ivpress.org/beyond-ethnic-loneliness"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_b:lb06",
+    "title_zh": "Prasanta Verma：Beyond Ethnic Loneliness / IVP",
+    "original_title": "Prasanta Verma：Beyond Ethnic Loneliness / IVP",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "印度裔美国女性作者/出版入口",
+    "area": "多元作者与宣教",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.ivpress.org/beyond-ethnic-loneliness",
+        "read_scope": "实际读出版日期2024-04-16、ISBN9781514007419、作者和简介；未读全书。",
+        "access": "official page opened",
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_b:lb06",
+      "group": "多元作者与宣教",
+      "record_file": "workers/lori_b.json",
+      "id": "lb06",
+      "title": "Prasanta Verma：Beyond Ethnic Loneliness / IVP",
+      "kind": "印度裔美国女性作者/出版入口",
+      "tradition": "美国基督教少数族裔处境写作；IVP出版不意味着作者代表整个南亚传统",
+      "description": "2024年出版，讨论边缘处境、归属感及群体关系；官网明确作者印度裔美国移民背景。",
+      "value": "补充亚裔/移民女性经验，适合牧养、跨文化群体与心理负担议题。",
+      "sources": [
+        {
+          "url": "https://www.ivpress.org/beyond-ethnic-loneliness",
+          "read_scope": "实际读出版日期2024-04-16、ISBN9781514007419、作者和简介；未读全书。",
+          "access": "official page opened",
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "英文书名加中文检索尚未确认中译；非“无中译”的结论。",
+      "updates": {
+        "evidence": "IVP页面有Email Newsletters及作者分类入口，未确认作者个人邮件频率。",
+        "subscribed_this_round": false
+      },
+      "next": "先读样章和书本，区分个人叙事、研究结论与牧养建议，不据书介提出临床判断。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先读样章和书本，区分个人叙事、研究结论与牧养建议，不据书介提出临床判断。",
+    "updated_at": "2026-11-10T09:17:54.997675+00:00"
+  }
+}

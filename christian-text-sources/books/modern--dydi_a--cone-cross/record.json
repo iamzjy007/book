@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_a:cone-cross",
+  "sequence": 119,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_a:cone-cross",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "jameshconethecrossandthelynchingtree",
+      [
+        "https://orbisbooks.com/collections/great-reading-for-black-history-month/products/the-cross-and-the-lynching-tree"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_a:cone-cross",
+    "title_zh": "James H. Cone — The Cross and the Lynching Tree",
+    "original_title": "James H. Cone — The Cross and the Lynching Tree",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "神学单著",
+    "area": "书籍与作者",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://orbisbooks.com/collections/great-reading-for-black-history-month/products/the-cross-and-the-lynching-tree",
+        "read_scope": "出版社作品题名、ISBN及内容/书评区；不以奖项作论证正确性的证明",
+        "actually_read": true,
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_a:cone-cross",
+      "group": "书籍与作者",
+      "record_file": "workers/dydi_a.json",
+      "id": "cone-cross",
+      "title": "James H. Cone — The Cross and the Lynching Tree",
+      "kind": "神学单著",
+      "tradition": "美国黑人解放神学；与非裔教会历史相关",
+      "description": "将十字架与美国私刑历史放在一起反思。",
+      "value": "适合研究信仰、种族暴力和希望之间的张力；不是全部黑人基督教观点的总代表。",
+      "sources": [
+        {
+          "url": "https://orbisbooks.com/collections/great-reading-for-black-history-month/products/the-cross-and-the-lynching-tree",
+          "read_scope": "出版社作品题名、ISBN及内容/书评区；不以奖项作论证正确性的证明",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+    "updated_at": "2026-11-10T09:17:54.987395+00:00"
+  }
+}

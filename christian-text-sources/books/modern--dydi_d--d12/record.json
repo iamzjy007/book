@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d12",
+  "sequence": 154,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d12",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "emotionallyhealthydiscipleship",
+      [
+        "https://emotionallyhealthy.org",
+        "https://emotionallyhealthy.org/emotionally-healthy-spirituality-conference-online-may-1st-2nd"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d12",
+    "title_zh": "Emotionally Healthy Discipleship",
+    "original_title": "Emotionally Healthy Discipleship",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "门徒训练／领导力播客与课程",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.emotionallyhealthy.org/",
+        "read_scope": "使命、创办者、实践重点、最新播客及邮件",
+        "access_date": "2026-11-10"
+      },
+      {
+        "url": "https://www.emotionallyhealthy.org/emotionally-healthy-spirituality-conference-online-may-1st-2nd/",
+        "read_scope": "2009年Queens New Life Fellowship历史活动；仅核美国历史连接，非当前活动",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d12",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d12",
+      "title": "Emotionally Healthy Discipleship",
+      "kind": "门徒训练／领导力播客与课程",
+      "tradition": "美国跨宗派福音派背景；Pete 与 Geri Scazzero",
+      "description": "将祈祷、独处、安静、安息与情绪健康、关系及教会领导结合。",
+      "value": "有助补足只重知识或工作成果的灵修观；不是临床心理治疗替代品。",
+      "sources": [
+        {
+          "url": "https://www.emotionallyhealthy.org/",
+          "read_scope": "使命、创办者、实践重点、最新播客及邮件",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://www.emotionallyhealthy.org/emotionally-healthy-spirituality-conference-online-may-1st-2nd/",
+          "read_scope": "2009年Queens New Life Fellowship历史活动；仅核美国历史连接，非当前活动",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "首页明确 Weekly Insights 登记；课程和书籍有销售入口，费用及中文授权另核。",
+      "update_evidence": "实见播客 Jesus’ Four Great Reversals 日期2026-10-27；2009活动不计本轮近期更新。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "核 Emotionally Healthy Spirituality具体书版与中文译名／译者；查课程与书籍的范围差别。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核 Emotionally Healthy Spirituality具体书版与中文译名／译者；查课程与书籍的范围差别。",
+    "updated_at": "2026-11-10T09:17:54.993885+00:00"
+  }
+}

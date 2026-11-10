@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_a:foster-celebration",
+  "sequence": 112,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_a:foster-celebration",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "richardjfostercelebrationofdiscipline属灵操练礼赞",
+      [
+        "https://renovare.org/books/celebration-of-discipline",
+        "https://shop.campus.org.tw/ProductDetails.aspx?productID=000146647"
+      ]
+    ],
+    "aliases": [
+      "dydi_d:d08"
+    ]
+  },
+  "source_record": {
+    "id": "modern:dydi_a:foster-celebration",
+    "title_zh": "Richard J. Foster — Celebration of Discipline（属灵操练礼赞）",
+    "original_title": "Richard J. Foster — Celebration of Discipline（属灵操练礼赞）",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "单著",
+    "area": "书籍与作者",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://renovare.org/books/celebration-of-discipline",
+        "read_scope": "书目简介、作者、独立附属课程链接",
+        "actually_read": true,
+        "date": "2026-11-10"
+      },
+      {
+        "url": "https://shop.campus.org.tw/ProductDetails.aspx?productID=000146647",
+        "read_scope": "中英对应题名、作者、出版社及停版状态",
+        "actually_read": true
+      },
+      {
+        "url": "https://renovare.org/books/celebration-of-discipline",
+        "read_scope": "作者组织书目、三类十二操练、作者说明及购买链接",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_a:foster-celebration",
+      "group": "书籍与作者",
+      "record_file": "workers/dydi_a.json",
+      "id": "foster-celebration",
+      "title": "Richard J. Foster — Celebration of Discipline（属灵操练礼赞）",
+      "kind": "单著",
+      "tradition": "美国贵格会背景、跨宗派灵修",
+      "description": "按不同维度组织基督徒操练；作者机构同时列独立学习指南与DVD课程，后者不等于原书。",
+      "value": "提供操练主题索引；各传统对默想等做法的解释须分别理解。",
+      "sources": [
+        {
+          "url": "https://renovare.org/books/celebration-of-discipline",
+          "read_scope": "书目简介、作者、独立附属课程链接",
+          "actually_read": true,
+          "date": "2026-11-10"
+        },
+        {
+          "url": "https://shop.campus.org.tw/ProductDetails.aspx?productID=000146647",
+          "read_scope": "中英对应题名、作者、出版社及停版状态",
+          "actually_read": true
+        }
+      ],
+      "chinese_status": "已核中文：校园书店列《屬靈操練禮讚》，Richard J. Foster、学生福音团契出版社；旧商品标停版，不能说当前可买，也不能把台湾书店当出版社所在地证据。",
+      "next": "补核中文出版社/馆藏记录、版权与版本目录。",
+      "supplemental_records": [
+        {
+          "catalog_id": "dydi_d:d08",
+          "group": "跨传统灵修",
+          "record_file": "workers/dydi_d.json",
+          "id": "d08",
+          "title": "Celebration of Discipline: The Path to Spiritual Growth — Richard J. Foster",
+          "kind": "书籍",
+          "tradition": "贵格会背景作者／跨宗派基督教属灵操练",
+          "description": "按内在、外在、群体三类组织默想、祈祷、禁食、学习、简朴、独处、顺服、服事、认罪、敬拜、引导及庆祝。",
+          "value": "把古典操练组织成现代读者可用框架，适合作为书目入门；操练不是得救功德的自动流程。",
+          "sources": [
+            {
+              "url": "https://renovare.org/books/celebration-of-discipline",
+              "read_scope": "作者组织书目、三类十二操练、作者说明及购买链接",
+              "access_date": "2026-11-10"
+            }
+          ],
+          "subscription": "不适用：书籍。页面链接纸本、有声书、研读指南与课程，版本ISBN未核。",
+          "update_evidence": "书目页面标1988；不将该标记当成原作首次出版日期。",
+          "chinese_status": "《属灵操练礼赞》为后续检索线索；本轮未读中文出版社版权／ISBN页，不能据此确立某一译版。",
+          "next": "核原版首次出版与周年修订关系，追查中文版本译者、ISBN和再版。"
+        }
+      ]
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
+    "updated_at": "2026-11-10T09:17:54.985763+00:00"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d06",
+  "sequence": 150,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d06",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "centerforactionandcontemplationcac",
+      [
+        "https://cac.org",
+        "https://cac.org/about/about-the-center-for-action-and-contemplation"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d06",
+    "title_zh": "Center for Action and Contemplation (CAC)",
+    "original_title": "Center for Action and Contemplation (CAC)",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "默观日修／播客／在线课程",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://cac.org/",
+        "read_scope": "日修、播客、课程、新闻及邮件",
+        "access_date": "2026-11-10"
+      },
+      {
+        "url": "https://cac.org/about/about-the-center-for-action-and-contemplation/",
+        "read_scope": "成立、使命及价值声明",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d06",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d06",
+      "title": "Center for Action and Contemplation (CAC)",
+      "kind": "默观日修／播客／在线课程",
+      "tradition": "Richard Rohr创办；天主教方济各会背景、跨传统默观取向",
+      "description": "1987年成立，强调默观与社会行动的联系，经营 Daily Meditations、播客、Living School 及课程。",
+      "value": "可研究当代默观如何连接个人转化、怜悯与社会责任；需按作者和课程辨别立场。",
+      "sources": [
+        {
+          "url": "https://cac.org/",
+          "read_scope": "日修、播客、课程、新闻及邮件",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://cac.org/about/about-the-center-for-action-and-contemplation/",
+          "read_scope": "成立、使命及价值声明",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "首页有邮件登记及 News from New Mexico；未核所有邮件的频率与课程费用。",
+      "update_evidence": "页面有11月13日和12月4—6日活动预告；这些是预告，不算已完成活动。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "核 Daily Meditations 邮件频率和近期文章署名；查中文著作是否为对应作品。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核 Daily Meditations 邮件频率和近期文章署名；查中文著作是否为对应作品。",
+    "updated_at": "2026-11-10T09:17:54.993232+00:00"
+  }
+}

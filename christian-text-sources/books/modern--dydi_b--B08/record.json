@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B08",
+  "sequence": 130,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B08",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "insightforlivingchuckswindoll",
+      [
+        "https://insight.org",
+        "https://insight.org/resources/daily-devotional"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B08",
+    "title_zh": "Insight for Living / Chuck Swindoll",
+    "original_title": "Insight for Living / Chuck Swindoll",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "广播、文章库、日用灵修、查经",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://insight.org/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      },
+      {
+        "url": "https://insight.org/resources/daily-devotional",
+        "read_scope": "近三个月日课列表、日期及邮件说明"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B08",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B08",
+      "title": "Insight for Living / Chuck Swindoll",
+      "kind": "广播、文章库、日用灵修、查经",
+      "tradition": "福音派圣经教导；本轮仅据官方使命，不细分宗派。",
+      "description": "提供Swindoll讲道广播、按书卷/主题查找的材料及Insight for Today日课。",
+      "value": "适合把叙事讲道与生活应用连接，也能按主题找辅导性文章。",
+      "sources": [
+        {
+          "url": "https://insight.org/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://insight.org/resources/daily-devotional",
+          "read_scope": "近三个月日课列表、日期及邮件说明"
+        }
+      ],
+      "update_evidence": "日课God’s Required Course: Forgiveness标2026-11-09，前数日亦逐日列出。",
+      "subscription": "首页表单可选Daily Devotionals、Weekly Insights及偶发通知；未填表。",
+      "chinese_status": "有International Offices入口，本轮未核中文分支，待核。",
+      "access_and_cost": "公开广播和文章可访问；书店售书、CD、workbooks及部分讲章产品，不能笼统全免。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.989450+00:00"
+  }
+}

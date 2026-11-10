@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "id": "modern:lori_b:lb08",
+  "sequence": 173,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_b:lb08",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "overseasministriesstudycenteromscprinceton",
+      [
+        "https://omsc.ptsem.edu"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_b:lb08",
+    "title_zh": "Overseas Ministries Study Center（OMSC）/ Princeton",
+    "original_title": "Overseas Ministries Study Center（OMSC）/ Princeton",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "研究中心/全球基督教与宣教期刊入口",
+    "area": "多元作者与宣教",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://omsc.ptsem.edu/",
+        "read_scope": "实际读官网导航、2026–27研究员、IBMR、点播、The Occasional与E-Newsletter入口；未读期刊全文。",
+        "access": "official page opened",
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_b:lb08",
+      "group": "多元作者与宣教",
+      "record_file": "workers/lori_b.json",
+      "id": "lb08",
+      "title": "Overseas Ministries Study Center（OMSC）/ Princeton",
+      "kind": "研究中心/全球基督教与宣教期刊入口",
+      "tradition": "跨教派全球基督教研究；美国机构承载国际研究者，非仅美国宣教叙事",
+      "description": "现官网在普林斯顿神学院域下，连接研究员、IBMR期刊、讲座、点播及The Occasional。",
+      "value": "让非西方研究者参与选题，比较地方教会叙事、宣教史与研究综述。",
+      "sources": [
+        {
+          "url": "https://omsc.ptsem.edu/",
+          "read_scope": "实际读官网导航、2026–27研究员、IBMR、点播、The Occasional与E-Newsletter入口；未读期刊全文。",
+          "access": "official page opened",
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "未确认官方中文镜像；具体文章中文转载需逐项核。",
+      "updates": {
+        "evidence": "官方E-Newsletter订阅链接与The Occasional Substack已见；频率未核，IBMR文章访问条件逐篇确认。",
+        "subscribed_this_round": false
+      },
+      "next": "从国际研究员讲座或IBMR综述选题，核作者当地背景与资料方法；用现机构地址，不沿过时Yale/New Haven归属。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：从国际研究员讲座或IBMR综述选题，核作者当地背景与资料方法；用现机构地址，不沿过时Yale/New Haven归属。",
+    "updated_at": "2026-11-10T09:17:54.997992+00:00"
+  }
+}

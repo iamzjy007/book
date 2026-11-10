@@ -1,0 +1,81 @@
+{
+  "schema": 1,
+  "id": "modern:lori_b:lb10",
+  "sequence": 175,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_b:lb10",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "missioalliancewritingcollective与resourcehub",
+      [
+        "https://missioalliance.org",
+        "https://missioalliance.us4.list-manage.com/subscribe?id=3f37490002&u=1ef83c90cde76fe81fdd26d40"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_b:lb10",
+    "title_zh": "Missio Alliance：Writing Collective与Resource Hub",
+    "original_title": "Missio Alliance：Writing Collective与Resource Hub",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "文章社群/会议与资源入口",
+    "area": "多元作者与宣教",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://missioalliance.org/",
+        "read_scope": "实际读首页作者署名、最新文章标题、资源栏目；并打开邮件表单，未读所列文章全文。",
+        "access": "official page opened",
+        "date": "2026-11-10"
+      },
+      {
+        "url": "https://missioalliance.us4.list-manage.com/subscribe?id=3f37490002&u=1ef83c90cde76fe81fdd26d40",
+        "read_scope": "实际打开订阅表单，含历史标签；不把表单存在等同投递测试成功",
+        "access": "opened"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_b:lb10",
+      "group": "多元作者与宣教",
+      "record_file": "workers/lori_b.json",
+      "id": "lb10",
+      "title": "Missio Alliance：Writing Collective与Resource Hub",
+      "kind": "文章社群/会议与资源入口",
+      "tradition": "宣教型、跨宗派新教对话；具体立场按作者核，不统一归一种教义",
+      "description": "官网列女性领袖支持、公义与信仰实践文章、Writing Collective及2027 Awakenings会议。",
+      "value": "补充女性领导、族裔与地方群体实践，可与研究型OMSC形成不同材料类型的互补。",
+      "sources": [
+        {
+          "url": "https://missioalliance.org/",
+          "read_scope": "实际读首页作者署名、最新文章标题、资源栏目；并打开邮件表单，未读所列文章全文。",
+          "access": "official page opened",
+          "date": "2026-11-10"
+        },
+        {
+          "url": "https://missioalliance.us4.list-manage.com/subscribe?id=3f37490002&u=1ef83c90cde76fe81fdd26d40",
+          "read_scope": "实际打开订阅表单，含历史标签；不把表单存在等同投递测试成功",
+          "access": "opened"
+        }
+      ],
+      "chinese_status": "未确认官方中文站；本轮未做转载逐篇溯源。",
+      "updates": {
+        "evidence": "邮件表单可打开且声明文章/更新邮件，但含大量历史分组，是否仍由官网当前入口使用需再核；不报固定频率。",
+        "subscribed_this_round": false
+      },
+      "next": "优先读完整具名文章，核作者履历和引据；确认当前正式订阅入口后再列长期追踪。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：优先读完整具名文章，核作者履历和引据；确认当前正式订阅入口后再列长期追踪。",
+    "updated_at": "2026-11-10T09:17:54.998301+00:00"
+  }
+}

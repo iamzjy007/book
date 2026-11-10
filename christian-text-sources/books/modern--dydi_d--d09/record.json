@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d09",
+  "sequence": 152,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d09",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "giveusthisday",
+      [
+        "https://giveusthisday.org"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d09",
+    "title_zh": "Give Us This Day",
+    "original_title": "Give Us This Day",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "天主教每月祈祷刊物／每日邮件",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://giveusthisday.org/",
+        "read_scope": "月刊、出版机构、每日邮件、日期和订阅入口",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d09",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d09",
+      "title": "Give Us This Day",
+      "kind": "天主教每月祈祷刊物／每日邮件",
+      "tradition": "天主教本笃会；Liturgical Press / Saint John’s Abbey",
+      "description": "美国明尼苏达州 Collegeville 本笃会出版机构的日常祷告刊物。",
+      "value": "可将每日经文反思与晨晚祷相连，适合礼仪性读经者。",
+      "sources": [
+        {
+          "url": "https://giveusthisday.org/",
+          "read_scope": "月刊、出版机构、每日邮件、日期和订阅入口",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "官网明确月刊，可 Subscribe／Renew／Digital Login；Daily Prayer 邮件提供每期精选内容。未核价格。",
+      "update_evidence": "最近实见2026-11-09晨祷代求，另有11月7日和6日条目。",
+      "chinese_status": "本轮所读英文官方页未核实中文对应出版物或完整中文版；不能据此认定没有中文版本。",
+      "next": "核数字／纸本／应用程序各档、地区限制及经文译本。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核数字／纸本／应用程序各档、地区限制及经文译本。",
+    "updated_at": "2026-11-10T09:17:54.993526+00:00"
+  }
+}

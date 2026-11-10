@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la11",
+  "sequence": 164,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la11",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "publicorthodoxy",
+      [
+        "https://publicorthodoxy.org",
+        "https://publicorthodoxy.org/about"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la11",
+    "title_zh": "Public Orthodoxy",
+    "original_title": "Public Orthodoxy",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "研究中心公共写作网站／神学与时事评论",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://publicorthodoxy.org/",
+        "read_scope": "首页最新文章、日期及语言菜单",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://publicorthodoxy.org/about/",
+        "read_scope": "Fordham归属、2015年创设、与学术期刊区别和非辖区机关说明",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la11",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la11",
+      "title": "Public Orthodoxy",
+      "kind": "研究中心公共写作网站／神学与时事评论",
+      "tradition": "美国Fordham大学东正教研究中心；跨东正教辖区、普世讨论",
+      "description": "2015年创设，以可读的公共文章连接研究者与公众；官网明确不同于中心的同行评审期刊。",
+      "value": "适合了解东正教内部多元公共讨论；不能把文章当某宗主教区官方立场或自动视为同行评审成果。",
+      "sources": [
+        {
+          "url": "https://publicorthodoxy.org/",
+          "read_scope": "首页最新文章、日期及语言菜单",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://publicorthodoxy.org/about/",
+          "read_scope": "Fordham归属、2015年创设、与学术期刊区别和非辖区机关说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "实际首页与机构介绍公开可读；本轮未发现其付费阅读方案，未穷检其他中心出版物或邮件权益。",
+      "update_evidence": "首页实见Mother Agapia文章The Living Stones of the Holy Land标注2026-11-02；访问2026-11-10，不将此等同核完所有更新。",
+      "chinese_status": "当前实读菜单为英语、希腊语、俄语、乌克兰语，未见中文入口；未穷检独立中文译介。",
+      "next": "核邮件登记和不同语言是否同文同步；学术期刊须单独评价。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核邮件登记和不同语言是否同文同步；学术期刊须单独评价。",
+    "updated_at": "2026-11-10T09:17:54.995846+00:00"
+  }
+}

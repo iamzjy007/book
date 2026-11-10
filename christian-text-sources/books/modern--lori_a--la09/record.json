@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la09",
+  "sequence": 162,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la09",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "mereorthodoxy",
+      [
+        "https://mereorthodoxy.com",
+        "https://mereorthodoxy.com/about",
+        "https://mereorthodoxy.com/membership"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la09",
+    "title_zh": "Mere Orthodoxy",
+    "original_title": "Mere Orthodoxy",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "网络长文／季刊／播客／Substack入口",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://mereorthodoxy.com/",
+        "read_scope": "文章、期刊、播客、Substack与RSS入口",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://mereorthodoxy.com/about/",
+        "read_scope": "使命及编辑介绍",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://mereorthodoxy.com/membership/",
+        "read_scope": "会员年费、季刊、档案及社区权益",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la09",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la09",
+      "title": "Mere Orthodoxy",
+      "kind": "网络长文／季刊／播客／Substack入口",
+      "tradition": "美国新教思想与文化评论，重视经典基督教传统",
+      "description": "围绕信仰、德性、知识及公共文化写作，含Mere Fidelity播客、季刊与会员社区。",
+      "value": "适合较长篇的文化神学论证与思想讨论；论证质量须逐篇判断，不把经典正统自我定位当学术认证。",
+      "sources": [
+        {
+          "url": "https://mereorthodoxy.com/",
+          "read_scope": "文章、期刊、播客、Substack与RSS入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://mereorthodoxy.com/about/",
+          "read_scope": "使命及编辑介绍",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://mereorthodoxy.com/membership/",
+          "read_scope": "会员年费、季刊、档案及社区权益",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有公开网络内容；会员方案本次页面为100美元／年，含季刊及档案等，另有终身方案。Substack是否拥有同等权益待核，价格可能变化。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 会员页说明季刊。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核最新期刊日期及Substack免费／付费与网站会员关系。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核最新期刊日期及Substack免费／付费与网站会员关系。",
+    "updated_at": "2026-11-10T09:17:54.995537+00:00"
+  }
+}

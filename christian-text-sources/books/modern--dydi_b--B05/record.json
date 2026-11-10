@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_b:B05",
+  "sequence": 127,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_b:B05",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "bibleproject",
+      [
+        "https://bibleproject.com",
+        "https://bibleproject.com/about",
+        "https://bibleproject.com/languages",
+        "https://bibleproject.com/podcasts/shows/the-bible-project-podcast"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_b:B05",
+    "title_zh": "BibleProject",
+    "original_title": "BibleProject",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "圣经主题视频、长篇对谈播客、课程、文章",
+    "area": "事工与讲章",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://bibleproject.com/",
+        "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+      },
+      {
+        "url": "https://bibleproject.com/about/",
+        "read_scope": "机构自述及免费众筹资源"
+      },
+      {
+        "url": "https://bibleproject.com/podcasts/shows/the-bible-project-podcast/",
+        "read_scope": "实际节目列表及日期"
+      },
+      {
+        "url": "https://bibleproject.com/languages/",
+        "read_scope": "简体、繁体普通话和粤语入口"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_b:B05",
+      "group": "事工与讲章",
+      "record_file": "workers/dydi_b.json",
+      "id": "B05",
+      "title": "BibleProject",
+      "kind": "圣经主题视频、长篇对谈播客、课程、文章",
+      "tradition": "跨宗派基督教教育；强调圣经是指向耶稣的统一故事，不将其当成特定宗派官方立场。",
+      "description": "由Tim Mackie与Jon Collins等制作圣经书卷概览和主题研究，播客解释视频背后的释经讨论。",
+      "value": "适合先把握书卷结构，再深入主题与经文互文；视频简化论点宜配长篇讨论。",
+      "sources": [
+        {
+          "url": "https://bibleproject.com/",
+          "read_scope": "官网首页栏目、官方事工标识与订阅/日期可见信息"
+        },
+        {
+          "url": "https://bibleproject.com/about/",
+          "read_scope": "机构自述及免费众筹资源"
+        },
+        {
+          "url": "https://bibleproject.com/podcasts/shows/the-bible-project-podcast/",
+          "read_scope": "实际节目列表及日期"
+        },
+        {
+          "url": "https://bibleproject.com/languages/",
+          "read_scope": "简体、繁体普通话和粤语入口"
+        }
+      ],
+      "update_evidence": "播客页见2026-11-09诗篇3专题与11-02问答；这是具体节目发布证据。",
+      "subscription": "播客页有App Store/Google Play及官方App收听入口；RSS和邮件入口本轮待核。",
+      "chinese_status": "官方语言页明确列Mandarin Simple/Traditional及Cantonese；不能推断所有英文播客已有中文。",
+      "access_and_cost": "About明确视频、播客、文章和课程为免费资源，众筹支持。",
+      "next": "按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
+    "updated_at": "2026-11-10T09:17:54.989007+00:00"
+  }
+}

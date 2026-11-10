@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la01",
+  "sequence": 155,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la01",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "christianitytoday",
+      [
+        "https://christianitytoday.com",
+        "https://christianitytoday.com/about",
+        "https://christianitytoday.com/newsletters",
+        "https://zh.christianitytoday.com"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la01",
+    "title_zh": "Christianity Today",
+    "original_title": "Christianity Today",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "新闻杂志／神学与文化评论／邮件通讯",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.christianitytoday.com/",
+        "read_scope": "首页栏目导航",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.christianitytoday.com/about/",
+        "read_scope": "创办历史、机构定位",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.christianitytoday.com/newsletters/",
+        "read_scope": "免费邮件栏目、频率、三项Substack迁移提示、简繁中文入口",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://zh.christianitytoday.com/",
+        "read_scope": "官方中文首页及文章入口",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la01",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la01",
+      "title": "Christianity Today",
+      "kind": "新闻杂志／神学与文化评论／邮件通讯",
+      "tradition": "美国跨宗派福音派",
+      "description": "1956年由葛培理创办；官网分新闻、思想、神学、教会生活、文化等栏目。",
+      "value": "可比较福音派报道与署名评论；栏目、证据和作者需分别判断，品牌知名度不等于每篇可靠。",
+      "sources": [
+        {
+          "url": "https://www.christianitytoday.com/",
+          "read_scope": "首页栏目导航",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.christianitytoday.com/about/",
+          "read_scope": "创办历史、机构定位",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.christianitytoday.com/newsletters/",
+          "read_scope": "免费邮件栏目、频率、三项Substack迁移提示、简繁中文入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://zh.christianitytoday.com/",
+          "read_scope": "官方中文首页及文章入口",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有免费邮件通讯及付费杂志／数字访问；免费邮件不自动等于网站全文权限。通讯页列明部分栏目迁往Substack，其他传统邮件仍保留；未把迁移推广至全部栏目。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。 通讯页明确Daily Briefing按日、CT Leaders按周、中文按月。",
+      "chinese_status": "已确认官方简体中文站；通讯页有CT中文简体／繁体每月订阅入口。并非英文全部内容同步翻译。",
+      "next": "另核数字方案当前权益与最近新闻日期；按具体栏目评估选稿。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：另核数字方案当前权益与最近新闻日期；按具体栏目评估选稿。",
+    "updated_at": "2026-11-10T09:17:54.994088+00:00"
+  }
+}

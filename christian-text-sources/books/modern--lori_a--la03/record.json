@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "modern:lori_a:la03",
+  "sequence": 157,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_a:la03",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "sojourners",
+      [
+        "https://sojo.net",
+        "https://sojo.net/about/about-sojourners",
+        "https://sojo.net/magazine/subscribe"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_a:la03",
+    "title_zh": "Sojourners",
+    "original_title": "Sojourners",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "新闻与意见杂志／公共信仰／社会行动相关媒体",
+    "area": "刊物与持续媒体",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://sojo.net/",
+        "read_scope": "新闻、Living Faith等栏目及通讯入口",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://sojo.net/about/about-sojourners",
+        "read_scope": "使命与社会议题定位",
+        "accessed": "2026-11-10"
+      },
+      {
+        "url": "https://www.sojo.net/magazine/subscribe",
+        "read_scope": "纸刊加数字、数字年／月方案及全文权益",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_a:la03",
+      "group": "刊物与持续媒体",
+      "record_file": "workers/lori_a.json",
+      "id": "la03",
+      "title": "Sojourners",
+      "kind": "新闻与意见杂志／公共信仰／社会行动相关媒体",
+      "tradition": "美国基督教社会公义与和平倡议传统",
+      "description": "以信仰讨论种族、经济、性别、环境与和平议题；机构同时从事倡议。",
+      "value": "有助研究社会公义取向的基督徒公共行动；新闻报道、意见及SojoAction倡议不能混为中立新闻。",
+      "sources": [
+        {
+          "url": "https://sojo.net/",
+          "read_scope": "新闻、Living Faith等栏目及通讯入口",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://sojo.net/about/about-sojourners",
+          "read_scope": "使命与社会议题定位",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.sojo.net/magazine/subscribe",
+          "read_scope": "纸刊加数字、数字年／月方案及全文权益",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "subscription": "有免费每周通讯；杂志和无限数字文章访问为付费方案。未核所有灵修产品是否包含在普通订阅内。",
+      "update_evidence": "已于2026-11-10实读官网入口；尚未独立核定最近一篇文章的发布日期，不据此声称每日更新。",
+      "chinese_status": "尚未专门核实中文出版或授权译介；不据此断言没有中文。",
+      "next": "核最近刊期及Liberating the Word独立订阅权益。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：核最近刊期及Liberating the Word独立订阅权益。",
+    "updated_at": "2026-11-10T09:17:54.994423+00:00"
+  }
+}

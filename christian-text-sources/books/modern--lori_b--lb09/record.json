@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "id": "modern:lori_b:lb09",
+  "sequence": 174,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "lori_b:lb09",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "terrymwildmanfirstnationsversionivpindigenousauthors",
+      [
+        "https://ivpress.com/first-nations-version-ebook"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:lori_b:lb09",
+    "title_zh": "Terry M. Wildman / First Nations Version / IVP Indigenous Authors",
+    "original_title": "Terry M. Wildman / First Nations Version / IVP Indigenous Authors",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "北美原住民作者与英语圣经翻译项目",
+    "area": "多元作者与宣教",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://ivpress.com/first-nations-version-ebook",
+        "read_scope": "实际读语言说明、合作团队、2021-08-31出版、ISBN9780830824861和项目介绍；未下载圣经。",
+        "access": "official page opened",
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "lori_b:lb09",
+      "group": "多元作者与宣教",
+      "record_file": "workers/lori_b.json",
+      "id": "lb09",
+      "title": "Terry M. Wildman / First Nations Version / IVP Indigenous Authors",
+      "kind": "北美原住民作者与英语圣经翻译项目",
+      "tradition": "原住民基督教处境化表达；团队多部族，不代表全部原住民宗教",
+      "description": "官方把FNV说明为原住民北美人士参与的英语新约动态对等译本；2021版有独立书目。",
+      "value": "可讨论翻译、口述文化与身份表达；不能把它当原文校勘本或任意替代既定中文译经准则。",
+      "sources": [
+        {
+          "url": "https://ivpress.com/first-nations-version-ebook",
+          "read_scope": "实际读语言说明、合作团队、2021-08-31出版、ISBN9780830824861和项目介绍；未下载圣经。",
+          "access": "official page opened",
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "YouVersion有中文界面页面，但正文版本是英语，不构成中文译本；正式中译未确认。",
+      "updates": {
+        "evidence": "IVP Indigenous Authors及Terry作者页可跟踪新书；出版社邮件入口存在，未核项目专属频率。",
+        "subscribed_this_round": false
+      },
+      "next": "研究一处译法时并列原文/常规英译/项目说明；原住民身份按本人/官方所述，不外推所有部族。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：研究一处译法时并列原文/常规英译/项目说明；原住民身份按本人/官方所述，不外推所有部族。",
+    "updated_at": "2026-11-10T09:17:54.998150+00:00"
+  }
+}

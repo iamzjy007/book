@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_d:d02",
+  "sequence": 146,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_d:d02",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "theupperroom",
+      [
+        "https://upperroom.org",
+        "https://upperroom.org/about"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_d:d02",
+    "title_zh": "The Upper Room",
+    "original_title": "The Upper Room",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "日修刊物／持续平台",
+    "area": "跨传统灵修",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://www.upperroom.org/",
+        "read_scope": "首页日期、栏目、订阅及语言说明",
+        "access_date": "2026-11-10"
+      },
+      {
+        "url": "https://www.upperroom.org/about",
+        "read_scope": "1935年、UMC Discipleship Ministries、Tennessee法人及跨宗派使命",
+        "access_date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_d:d02",
+      "group": "跨传统灵修",
+      "record_file": "workers/dydi_d.json",
+      "id": "d02",
+      "title": "The Upper Room",
+      "kind": "日修刊物／持续平台",
+      "tradition": "卫斯理／联合卫理公会背景；跨宗派服务",
+      "description": "1935年始于每日灵修指南，现有读经、祈祷、Disciplines、Sight Psalms 及培训资源。",
+      "value": "适合短篇每日灵修和共同祷告；兼顾全球普通信徒的生活经验。",
+      "sources": [
+        {
+          "url": "https://www.upperroom.org/",
+          "read_scope": "首页日期、栏目、订阅及语言说明",
+          "access_date": "2026-11-10"
+        },
+        {
+          "url": "https://www.upperroom.org/about",
+          "read_scope": "1935年、UMC Discipleship Ministries、Tennessee法人及跨宗派使命",
+          "access_date": "2026-11-10"
+        }
+      ],
+      "subscription": "页面有 Subscribe、Subscriptions、Free Newsletters；尚未核纸本／数字订阅具体档位。",
+      "update_evidence": "实见 Daily Devotional 与 Disciplines 日期 2026-11-09。",
+      "chinese_status": "官方称30多种语言，所读页面未列明中文版本；中文具体机构及现行订阅需核。",
+      "next": "进入 International Editions 查中文合作方；确认不同栏目付费边界。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：进入 International Editions 查中文合作方；确认不同栏目付费边界。",
+    "updated_at": "2026-11-10T09:17:54.992525+00:00"
+  }
+}

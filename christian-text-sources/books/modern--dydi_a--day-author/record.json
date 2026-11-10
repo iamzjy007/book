@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "modern:dydi_a:day-author",
+  "sequence": 121,
+  "source_catalog": "research/modern-christian-resources/catalog.json",
+  "source_commit": "9350847f1d7e212944a97056eae639a088e876de",
+  "provenance": {
+    "source_catalog": "research/modern-christian-resources/catalog.json",
+    "catalog_id": "dydi_a:day-author",
+    "scope": "modern-christian-resources",
+    "identity": [
+      "dorothydaycatholicworker作者资源入口",
+      [
+        "https://catholicworker.org/dorothy-day"
+      ]
+    ],
+    "aliases": []
+  },
+  "source_record": {
+    "id": "modern:dydi_a:day-author",
+    "title_zh": "Dorothy Day — Catholic Worker作者资源入口",
+    "original_title": "Dorothy Day — Catholic Worker作者资源入口",
+    "author_or_attribution": "见原研究完整记录；机构入口不强行归为单一作者",
+    "language": "以具体版本／数字对象为准；研究主要为英语资源",
+    "record_kind": "作者/运动机构入口",
+    "area": "书籍与作者",
+    "cautions": "书目／机构介绍不等于正文；样章、单篇、单件影像不能代表全书或整库。",
+    "sources": [
+      {
+        "url": "https://catholicworker.org/dorothy-day/",
+        "read_scope": "机构作者生平、报纸与运动介绍；未读取或下载全部文章",
+        "actually_read": true,
+        "date": "2026-11-10"
+      }
+    ],
+    "research_item": {
+      "catalog_id": "dydi_a:day-author",
+      "group": "书籍与作者",
+      "record_file": "workers/dydi_a.json",
+      "id": "day-author",
+      "title": "Dorothy Day — Catholic Worker作者资源入口",
+      "kind": "作者/运动机构入口",
+      "tradition": "美国天主教工人运动；非暴力与款待传统",
+      "description": "机构介绍Day与Peter Maurin创办运动和报纸，提供作者生平与写作研究方向。",
+      "value": "有助连接祈祷、社会行动与共同生活；网站后人介绍不自动算Day原著。",
+      "sources": [
+        {
+          "url": "https://catholicworker.org/dorothy-day/",
+          "read_scope": "机构作者生平、报纸与运动介绍；未读取或下载全部文章",
+          "actually_read": true,
+          "date": "2026-11-10"
+        }
+      ],
+      "chinese_status": "本轮未逐项查证中文版本；状态未知，不是未出版。",
+      "next": "由机构索引定位The Long Loneliness等具体原作及日记/后人选集，分开登记，再核中文版本。"
+    }
+  },
+  "acquisition": {
+    "status": "queued",
+    "searched": false,
+    "resources": [],
+    "attempts": [],
+    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：由机构索引定位The Long Loneliness等具体原作及日记/后人选集，分开登记，再核中文版本。",
+    "updated_at": "2026-11-10T09:17:54.987806+00:00"
+  }
+}
