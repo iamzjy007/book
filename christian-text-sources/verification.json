@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-11-10T06:16:46.600598+00:00",
+  "source_commit": "019fdfd8f9d1653590beef90df992a08e9ae4c80",
+  "source_catalog_sha256": "20f4501b4c3edb75cc2775a643aef2b4d95fefbf176cb0bcaa9761d8a2c8aca4",
+  "records": 110,
+  "unique_ids": 110,
+  "all_searched": true,
+  "queued": 0,
+  "status_counts": {
+    "partial_online": 26,
+    "fulltext_online": 51,
+    "metadata_only": 16,
+    "scan_candidate": 11,
+    "blocked": 4,
+    "needs_review": 2
+  },
+  "queue_tasks": 59,
+  "next_task": "dydi_a:east-aphrahat",
+  "resources": 134,
+  "checks": [
+    "input snapshot matches source catalog",
+    "110 unique records and per-book README",
+    "status counts match records",
+    "fulltext/partial resource requirements validated by refresh",
+    "queue length and next task match records"
+  ],
+  "limits": [
+    "structural audit only, not a fresh whole-web URL recheck",
+    "fulltext access does not mean every scan page collated",
+    "no translation completed"
+  ]
+}

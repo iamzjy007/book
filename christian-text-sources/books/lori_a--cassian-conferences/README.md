@@ -23,6 +23,11 @@
 
 使用／权利：仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。
 
+抽查页：
+
+- [页面](https://www.newadvent.org/fathers/350801.htm)
+- [页面](https://www.newadvent.org/fathers/350824.htm)
+
 ## 原研究出处（不自动视作全文）
 
 - [来源](https://www.paulistpress.com/bookproduct/0484-9-57-john-cassian/) — 见原记录

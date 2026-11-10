@@ -23,6 +23,12 @@
 
 使用／权利：现代英译的开放阅读镜像；仅留链接，公开出版前核授权及印本出处。
 
+分册／章节：
+
+- [页面](https://vehi.net/istoriya/armenia/korun/english/01.html)
+- [页面](https://vehi.net/istoriya/armenia/korun/english/02.html)
+- [页面](https://vehi.net/istoriya/armenia/korun/english/03.html)
+
 ## 原研究出处（不自动视作全文）
 
 - [来源](https://catalogue.bnf.fr/ark:/12148/cb47129275n) — 见原记录

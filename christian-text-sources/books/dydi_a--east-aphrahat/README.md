@@ -23,6 +23,32 @@
 
 使用／权利：仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。
 
+分册／章节：
+
+- [1](https://syriaccorpus.org/1)
+- [2](https://syriaccorpus.org/2)
+- [3](https://syriaccorpus.org/3)
+- [4](https://syriaccorpus.org/4)
+- [5](https://syriaccorpus.org/5)
+- [6](https://syriaccorpus.org/6)
+- [7](https://syriaccorpus.org/7)
+- [8](https://syriaccorpus.org/8)
+- [9](https://syriaccorpus.org/9)
+- [10](https://syriaccorpus.org/10)
+- [11](https://syriaccorpus.org/11)
+- [12](https://syriaccorpus.org/12)
+- [13](https://syriaccorpus.org/13)
+- [14](https://syriaccorpus.org/14)
+- [15](https://syriaccorpus.org/15)
+- [16](https://syriaccorpus.org/16)
+- [17](https://syriaccorpus.org/17)
+- [18](https://syriaccorpus.org/18)
+- [19](https://syriaccorpus.org/19)
+- [20](https://syriaccorpus.org/20)
+- [21](https://syriaccorpus.org/21)
+- [22](https://syriaccorpus.org/22)
+- [23](https://syriaccorpus.org/23)
+
 ### [23篇原文旧校本分篇导航](https://syri.ac/aphrahat)
 
 类型：`edition_gateway`；语种：叙利亚语／拉丁语。

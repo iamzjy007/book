@@ -65,9 +65,43 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Schmidt1905两部Jeu旧德译",
+        "url": "https://archive.org/details/koptischgnostisc00schmuoft",
+        "kind": "fulltext",
+        "language": "德语",
+        "edition": "Carl Schmidt, Koptisch-gnostische Schriften I, Leipzig, 1905",
+        "coverage": "Die beiden Bücher des Jeû印页257–329；330起祈祷附录、335起无题作品，不能全混作Jeu",
+        "verification": "实际下载开放OCR约135万字符；核目录257起，正文Das erste Buch des Jeu及第二部、结尾附录边界；图式需读取PDF，不能依OCR重建。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "Bruce Codex导论及节译",
+        "url": "https://www.earlychristianwritings.com/text/booksjeu.html",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "网页导论引Violet MacDermot, Brill, 1978 pp.ix–xxi；其余节译具体来源逐段待核",
+        "coverage": "导论、篇章提要及选段；网页虽名Books of Jeu，并非两书全译",
+        "verification": "200，实际约2.8万字符；含I.The First Book of Ieou、其他无题文献及Contents概述，明示omitted段落，不能计为两书完整英译。",
+        "accessed": "2026-11-10",
+        "rights_note": "现代英译仅保存在线路径，不复制正文；网页可读不等于获得翻译或出版授权，后续核具体版本与许可。"
+      },
+      {
+        "label": "NASSCAL作品／版本与抄本路径",
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/books-of-jeu/",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "e-Clavis Christian Apocrypha，Books of Jeu",
+        "coverage": "Bruce96身份、校本与译本导航",
+        "verification": "实际200并读取版源目录；作为追溯路径，不当原文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:57.727864+00:00",
@@ -98,10 +132,16 @@
         "url": "https://catalogue.bnf.fr/ark:/12148/cb33446670k",
         "final_url": "https://catalogue.bnf.fr/ark:/12148/cb33446670k",
         "result": "HTTP 200；Notice bibliographique Die Pistis Sophia. Die beiden Bücher des Jeû. Unbekanntes altgnostisches Werk / herausgegeben im Auftrage der Kirchenväter-Commission der königl. preussischen Akademie der Wissenschaften von Carl Schmidt | Accueil | Catalogue général | BnF- Bibliothèque nationale de France。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题＋英译／原语校本；Gnosis、Early Christian Writings、NASSCAL、Internet Archive及Schmidt1905旧版定向检索",
+        "result": "Gnosis候选页本轮requests503，web.open502或超时；保存替代可访问ECW正文或IA旧版，不将搜索索引当实际取得。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:57.727864+00:00",
+    "next_action": "补Schmidt1892科普特校本及Bruce96图式，核2019Crégheur结构重辨；不是纳戈玛第出土抄本。",
+    "updated_at": "2026-11-10T06:15:44.646650+00:00",
     "discovery_pass_done": true
   }
 }

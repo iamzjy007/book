@@ -109,8 +109,8 @@
 | 103 | [阿加佩、喀俄尼亚与伊瑞妮殉道记](books/lori_b--lb14/README.md) | 扫描入口待核 | [Ruinart拉丁殉道集扫描候选](https://www.liberius.net/livres/Selecta_martyrum_acta_%28tomus_primus%29_000000437.pdf) |
 | 104 | [塞巴斯特四十殉道者遗嘱](books/lori_b--lb15/README.md) | 正文可直达 | [Gebhardt希腊遗嘱正文](https://archive.org/details/actamartyrumsel00gebhgoog) |
 | 105 | [俄克喜林库斯赞美诗（P.Oxy. XV 1786）](books/lori_b--lb16/README.md) | 部分正文可直达 | [P.Oxy.XV1786原刊扫描](https://archive.org/details/oxyrhynchuspapyr15gren) |
-| 106 | [西尔瓦努斯训言（暂译）](books/root--teachings-silvanus/README.md) | 待检索 | 见档案中的既有出处 |
-| 107 | [灵知的解释（暂译）](books/root--interpretation-knowledge/README.md) | 待检索 | 见档案中的既有出处 |
-| 108 | [约翰秘传／约翰密传](books/root--apocryphon-john/README.md) | 待检索 | 见档案中的既有出处 |
-| 109 | [皮斯提斯·索菲亚（信心与智慧；暂译）](books/root--pistis-sophia/README.md) | 待检索 | 见档案中的既有出处 |
-| 110 | [耶乌诸书／耶乌二书（暂译）](books/root--books-jeu/README.md) | 待检索 | 见档案中的既有出处 |
+| 106 | [西尔瓦努斯训言（暂译）](books/root--teachings-silvanus/README.md) | 正文可直达 | [Peel与Zandee英译正文](https://www.earlychristianwritings.com/text/silvanus.html) |
+| 107 | [灵知的解释（暂译）](books/root--interpretation-knowledge/README.md) | 部分正文可直达 | [Turner英译存世残篇](https://www.earlychristianwritings.com/text/interpretation.html) |
+| 108 | [约翰秘传／约翰密传](books/root--apocryphon-john/README.md) | 部分正文可直达 | [Wisse英译一个文本版本](https://www.earlychristianwritings.com/text/apocryphonjohn.html) |
+| 109 | [皮斯提斯·索菲亚（信心与智慧；暂译）](books/root--pistis-sophia/README.md) | 正文可直达 | [Mead1921旧英译扫描及OCR](https://archive.org/details/pistissophiagnos1921mead)；[Schmidt1905旧德译合订卷](https://archive.org/details/koptischgnostisc00schmuoft) |
+| 110 | [耶乌诸书／耶乌二书（暂译）](books/root--books-jeu/README.md) | 正文可直达 | [Schmidt1905两部Jeu旧德译](https://archive.org/details/koptischgnostisc00schmuoft)；[Bruce Codex导论及节译](https://www.earlychristianwritings.com/text/booksjeu.html) |

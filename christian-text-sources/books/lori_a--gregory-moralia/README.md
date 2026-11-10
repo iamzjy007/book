@@ -23,6 +23,11 @@
 
 使用／权利：旧版原译；本轮仅留在线阅读与站点提供的文件入口。
 
+抽查页：
+
+- [页面](https://www.lectionarycentral.com/GregoryMoralia/Book01.html)
+- [页面](https://www.lectionarycentral.com/GregoryMoralia/Book35.html)
+
 ## 原研究出处（不自动视作全文）
 
 - [来源](https://litpress.org/Products/CS249H) — 见原记录

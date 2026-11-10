@@ -23,6 +23,10 @@
 
 使用／权利：数字文本明确CC BY-NC-SA4.0；仅留在线路径，古典原作与现代电子版许可分开。
 
+直接数据文件：
+
+- [页面](https://raw.githubusercontent.com/Mythologos/Notre-Dame-Digitized-Latin-Collection/977a0ba28582eb32b3c83c8933d97efb689fb0b6/data/stoa0022/stoa033/stoa0022.stoa033.nd-dlc-lat1.xml)
+
 ## 原研究出处（不自动视作全文）
 
 - [来源](https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651) — 见原记录

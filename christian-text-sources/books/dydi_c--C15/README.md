@@ -23,6 +23,11 @@
 
 使用／权利：现代译者／项目公开阅读版；翻译出版使用条件另核。
 
+抽查页：
+
+- [页面](https://www.arak29.org/stgregoryofnarek/book.php?parent_id=49&type=2&type_1=none)
+- [页面](https://www.arak29.org/stgregoryofnarek/book.php?parent_id=96&type=2&type_1=none)
+
 ### [Clerus对照入口（部分祷文）](https://www.clerus.org/bibliaclerusonline/en/edi.htm)
 
 类型：`partial`；语种：英语。

@@ -51,9 +51,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Peel与Zandee英译正文",
+        "url": "https://www.earlychristianwritings.com/text/silvanus.html",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "Malcolm L. Peel and Jan Zandee译，James M. Robinson编The Nag Hammadi Library in English；本页未列具体版次",
+        "coverage": "NHC VII,4对应英译；文本残缺按方括号保留",
+        "verification": "200，实际读取全文约4万字符及终段，译者与来源由网页正文尾注核实；不是同名现代灵修著作。",
+        "accessed": "2026-11-10",
+        "rights_note": "现代英译仅保存在线路径，不复制正文；网页可读不等于获得翻译或出版授权，后续核具体版本与许可。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:54.370351+00:00",
@@ -70,10 +82,16 @@
         "url": "https://www.pulaval.com/livres/les-lecons-de-silvanos-nh-vii-4-bcnh-textes-no-13",
         "final_url": "https://www.pulaval.com/livres/les-lecons-de-silvanos-nh-vii-4-bcnh-textes-no-13",
         "result": "HTTP 200；Les leçons de Silvanos (NH VII,4). BCNH \"Textes\" No. 13 | Presses de l'Université Laval。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题＋英译／原语校本；Gnosis、Early Christian Writings、NASSCAL、Internet Archive及Schmidt1905旧版定向检索",
+        "result": "Gnosis候选页本轮requests503，web.open502或超时；保存替代可访问ECW正文或IA旧版，不将搜索索引当实际取得。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:54.370351+00:00",
+    "next_action": "核Janssens科普特／法译校本版次及现有中文文集是否收录，补原语并核英译授权。",
+    "updated_at": "2026-11-10T06:15:44.644935+00:00",
     "discovery_pass_done": true
   }
 }

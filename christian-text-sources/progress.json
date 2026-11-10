@@ -1,18 +1,20 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T06:15:06.621284+00:00",
+  "updated_at": "2026-11-10T06:16:30.879127+00:00",
   "total": 110,
   "counts": {
-    "partial_online": 24,
-    "fulltext_online": 48,
+    "partial_online": 26,
+    "fulltext_online": 51,
     "metadata_only": 16,
     "scan_candidate": 11,
     "blocked": 4,
-    "needs_review": 2,
-    "queued": 5
+    "needs_review": 2
   },
-  "next_task": "root:teachings-silvanus",
+  "next_task": "dydi_a:east-aphrahat",
   "background_process": false,
   "record_files_are_authoritative": true,
+  "initial_pass_complete": true,
+  "direct_text_records": 77,
+  "no_verified_text_records": 33,
   "resume_instruction": "先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。"
 }

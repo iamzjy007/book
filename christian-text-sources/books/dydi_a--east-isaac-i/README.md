@@ -23,6 +23,10 @@
 
 使用／权利：1923旧版；本轮只保存在线入口，按扫描馆说明核再利用。
 
+直接数据文件：
+
+- [页面](https://archive.org/download/IsaacOfNinevehMysticTreatises/isaac_of_nineveh_mystical_treatises.pdf)
+
 ### [Bedjan 1909叙利亚语文本扫描](https://archive.org/details/212102178MarIsaacusNinivitaDePerfectioneReligiosa)
 
 类型：`fulltext`；语种：叙利亚语。

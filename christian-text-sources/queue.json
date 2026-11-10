@@ -1,37 +1,7 @@
 {
   "schema": 1,
-  "next_task": "root:teachings-silvanus",
+  "next_task": "dydi_a:east-aphrahat",
   "tasks": [
-    {
-      "id": "root:teachings-silvanus",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/root--teachings-silvanus/record.json"
-    },
-    {
-      "id": "root:interpretation-knowledge",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/root--interpretation-knowledge/record.json"
-    },
-    {
-      "id": "root:apocryphon-john",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/root--apocryphon-john/record.json"
-    },
-    {
-      "id": "root:pistis-sophia",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/root--pistis-sophia/record.json"
-    },
-    {
-      "id": "root:books-jeu",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/root--books-jeu/record.json"
-    },
     {
       "id": "dydi_a:east-aphrahat",
       "status": "partial_online",
@@ -373,6 +343,18 @@
       "status": "partial_online",
       "next_action": "目视印页21–25及图版，补Oxford馆藏原图并核许可；区别现代歌曲改编。",
       "record_path": "books/lori_b--lb16/record.json"
+    },
+    {
+      "id": "root:interpretation-knowledge",
+      "status": "partial_online",
+      "next_action": "补Funk/Painchaud/Thomassen2010科普特／法译校本，按抄本页行编损缺表。",
+      "record_path": "books/root--interpretation-knowledge/record.json"
+    },
+    {
+      "id": "root:apocryphon-john",
+      "status": "partial_online",
+      "next_action": "先确定该译文的recension／底本，再取得短本NHIII,1与BG2；Gnosis四本对勘入口受阻可重试。",
+      "record_path": "books/root--apocryphon-john/record.json"
     }
   ]
 }

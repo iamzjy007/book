@@ -58,9 +58,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Mead1921旧英译扫描及OCR",
+        "url": "https://archive.org/details/pistissophiagnos1921mead",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "G. R. S. Mead, Pistis Sophia: A Gnostic Miscellany, London, 1921修订版",
+        "coverage": "该版六部编排的全卷英译；现代校本编排可能不同",
+        "verification": "IA公开OCR实际200并读取题页、译文及末页325 THE END；不是仅有参考TXT中“文本略”的空标题。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "Schmidt1905旧德译合订卷",
+        "url": "https://archive.org/details/koptischgnostisc00schmuoft",
+        "kind": "fulltext",
+        "language": "德语",
+        "edition": "Carl Schmidt, Koptisch-gnostische Schriften I, Leipzig: J. C. Hinrichs, 1905",
+        "coverage": "Pistis Sophia印页1–256；后续Jeu及无题作品分开",
+        "verification": "开放OCR206/200，题页与目录及译文可读；全卷不是科普特原文校本，目录明确Übersetzung。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:47:56.766571+00:00",
@@ -102,10 +125,16 @@
         "url": "https://catalogue.bnf.fr/ark:/12148/cb33446670k",
         "final_url": "https://catalogue.bnf.fr/ark:/12148/cb33446670k",
         "result": "HTTP 200；Notice bibliographique Die Pistis Sophia. Die beiden Bücher des Jeû. Unbekanntes altgnostisches Werk / herausgegeben im Auftrage der Kirchenväter-Commission der königl. preussischen Akademie der Wissenschaften von Carl Schmidt | Accueil | Catalogue général | BnF- Bibliothèque nationale de France。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原题＋英译／原语校本；Gnosis、Early Christian Writings、NASSCAL、Internet Archive及Schmidt1905旧版定向检索",
+        "result": "Gnosis候选页本轮requests503，web.open502或超时；保存替代可访问ECW正文或IA旧版，不将搜索索引当实际取得。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:47:56.766571+00:00",
+    "next_action": "补Askew科普特原文旧版／影像及现代Schmidt-MacDermot对照；核中文文集实际范围。",
+    "updated_at": "2026-11-10T06:15:44.646270+00:00",
     "discovery_pass_done": true
   }
 }

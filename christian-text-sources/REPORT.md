@@ -4,15 +4,14 @@
 
 | 状态 | 条数 |
 |---|---|
-| 部分正文可直达 | 24 |
-| 正文可直达 | 48 |
+| 部分正文可直达 | 26 |
+| 正文可直达 | 51 |
 | 仅书目／版本入口 | 16 |
 | 扫描入口待核 | 11 |
 | 访问受阻 | 4 |
 | 待版本复核 | 2 |
-| 待检索 | 5 |
 
-下一任务：`root:teachings-silvanus`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
+下一任务：`dydi_a:east-aphrahat`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
 
 ## 统计边界
 
@@ -31,3 +30,4 @@
 - [005-greek-byzantine.md](sessions/005-greek-byzantine.md)
 - [006-latin.md](sessions/006-latin.md)
 - [007-liturgy-martyrs.md](sessions/007-liturgy-martyrs.md)
+- [008-initial-access-pass-complete.md](sessions/008-initial-access-pass-complete.md)
