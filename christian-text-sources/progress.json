@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T09:21:47.148527+00:00",
+  "updated_at": "2026-11-10T09:22:50.127801+00:00",
   "total": 175,
   "active_scope": "modern-christian-resources",
   "scope_counts": {
@@ -13,25 +13,25 @@
       "needs_review": 2
     },
     "modern-christian-resources": {
-      "partial_online": 4,
-      "metadata_only": 6,
-      "queued": 55
+      "partial_online": 8,
+      "metadata_only": 7,
+      "queued": 50
     }
   },
   "counts": {
-    "partial_online": 30,
+    "partial_online": 34,
     "fulltext_online": 51,
-    "metadata_only": 22,
+    "metadata_only": 23,
     "scan_candidate": 11,
     "blocked": 4,
     "needs_review": 2,
-    "queued": 55
+    "queued": 50
   },
-  "next_task": "modern:dydi_a:day-author",
+  "next_task": "modern:dydi_b:B01",
   "background_process": false,
   "record_files_are_authoritative": true,
   "initial_pass_complete": false,
-  "direct_text_records": 81,
-  "no_verified_text_records": 39,
+  "direct_text_records": 85,
+  "no_verified_text_records": 40,
   "resume_instruction": "先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。"
 }

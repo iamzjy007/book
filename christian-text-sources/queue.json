@@ -1,26 +1,8 @@
 {
   "schema": 1,
   "active_scope": "modern-christian-resources",
-  "next_task": "modern:dydi_a:day-author",
+  "next_task": "modern:dydi_b:B01",
   "tasks": [
-    {
-      "id": "modern:dydi_a:day-author",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：由机构索引定位The Long Loneliness等具体原作及日记/后人选集，分开登记，再核中文版本。",
-      "record_path": "books/modern--dydi_a--day-author/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 121,
-      "updated_at": "2026-11-10T09:17:54.987806+00:00"
-    },
-    {
-      "id": "modern:dydi_a:schmemann-life",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--schmemann-life/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 122,
-      "updated_at": "2026-11-10T09:17:54.988030+00:00"
-    },
     {
       "id": "modern:dydi_b:B01",
       "status": "queued",
@@ -445,24 +427,6 @@
       "updated_at": "2026-11-10T09:17:54.997367+00:00"
     },
     {
-      "id": "modern:lori_b:lb05",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：取得正版书后按章核论证，联系正式中文出版社目录查译名，勿将书介改写成读后评。",
-      "record_path": "books/modern--lori_b--lb05/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 170,
-      "updated_at": "2026-11-10T09:17:54.997527+00:00"
-    },
-    {
-      "id": "modern:lori_b:lb06",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：先读样章和书本，区分个人叙事、研究结论与牧养建议，不据书介提出临床判断。",
-      "record_path": "books/modern--lori_b--lb06/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 171,
-      "updated_at": "2026-11-10T09:17:54.997675+00:00"
-    },
-    {
       "id": "modern:lori_b:lb07",
       "status": "queued",
       "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：逐件确认语言和授权层级，优先挑实际英文讲座；不得将西语资源直接标为英文全文。",
@@ -479,15 +443,6 @@
       "scope": "modern-christian-resources",
       "sequence": 173,
       "updated_at": "2026-11-10T09:17:54.997992+00:00"
-    },
-    {
-      "id": "modern:lori_b:lb09",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：研究一处译法时并列原文/常规英译/项目说明；原住民身份按本人/官方所述，不外推所有部族。",
-      "record_path": "books/modern--lori_b--lb09/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 174,
-      "updated_at": "2026-11-10T09:17:54.998150+00:00"
     },
     {
       "id": "modern:lori_b:lb10",
@@ -587,6 +542,51 @@
       "scope": "modern-christian-resources",
       "sequence": 120,
       "updated_at": "2026-11-10T09:21:47.058460+00:00"
+    },
+    {
+      "id": "modern:dydi_a:day-author",
+      "status": "partial_online",
+      "next_action": "逐章核The Eleventh Virgin余10章后再核其余两部书；另追The Long Loneliness正式阅读版，不能用其他著作代替。",
+      "record_path": "books/modern--dydi_a--day-author/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 121,
+      "updated_at": "2026-11-10T09:22:50.033530+00:00"
+    },
+    {
+      "id": "modern:dydi_a:schmemann-life",
+      "status": "metadata_only",
+      "next_action": "按2018版ISBN取得正式电子书／馆藏；核样章和完整目录，保留新增序注与旧版差别。",
+      "record_path": "books/modern--dydi_a--schmemann-life/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 122,
+      "updated_at": "2026-11-10T09:22:50.033987+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb05",
+      "status": "partial_online",
+      "next_action": "第一章已核；取得同版全书，继续第2章；核各章引文与原注，PDF27页不等于27页全书。",
+      "record_path": "books/modern--lori_b--lb05/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 170,
+      "updated_at": "2026-11-10T09:22:50.034209+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb06",
+      "status": "partial_online",
+      "next_action": "第一章已核，取得同版整书及前言；下一章从第2章开始，区分叙事与作者引用研究。",
+      "record_path": "books/modern--lori_b--lb06/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 171,
+      "updated_at": "2026-11-10T09:22:50.034551+00:00"
+    },
+    {
+      "id": "modern:lori_b:lb09",
+      "status": "partial_online",
+      "next_action": "依电子书ISBN取得2021新约整本或正规阅读授权；若追PDF必须先核作品身份，不用2025 Psalms and Proverbs或错书替代。",
+      "record_path": "books/modern--lori_b--lb09/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 174,
+      "updated_at": "2026-11-10T09:22:50.034756+00:00"
     },
     {
       "id": "dydi_a:east-aphrahat",

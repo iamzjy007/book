@@ -56,11 +56,31 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-    "updated_at": "2026-11-10T09:17:54.988030+00:00"
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "SVS Press 2018新版本与电子书渠道",
+        "url": "https://svspress.com/for-the-life-of-the-world-new-edition/",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "Alexander Schmemann；2018新版本，ISBN 9780881416176，186页；新增Humphrey序、注释和索引",
+        "coverage": "正规书版、电子书及有声书入口；未见可核原书章节",
+        "verification": "实际打开产品详细说明；未把读者评论中有声书缺段说法当已确认事实。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:22:50.033993+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://svspress.com/for-the-life-of-the-world-new-edition/",
+        "result": "实读详细版本及渠道，未取得正文。"
+      }
+    ],
+    "next_action": "按2018版ISBN取得正式电子书／馆藏；核样章和完整目录，保留新增序注与旧版差别。",
+    "updated_at": "2026-11-10T09:22:50.033987+00:00",
+    "discovery_pass_done": true
   }
 }

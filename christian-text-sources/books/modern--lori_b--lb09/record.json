@@ -60,11 +60,43 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：研究一处译法时并列原文/常规英译/项目说明；原住民身份按本人/官方所述，不外推所有部族。",
-    "updated_at": "2026-11-10T09:17:54.998150+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "IVP 2021 First Nations Version电子书及两处经文样例",
+        "url": "https://www.ivpress.com/first-nations-version-ebook",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "First Nations Version: An Indigenous Bible Translation of the New Testament，2021-08-31；电子书ISBN 9780830824861，576页",
+        "coverage": "官方网页明列John 3:16、1 Corinthians 13:4—8样例；不是全本新约，也不是原住民语言译本",
+        "verification": "实际打开版本信息和sample passages，确认英语；只将这两处列为部分正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:22:50.034760+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.ivpress.com/first-nations-version-ebook",
+        "result": "实读2021版与两处sample passages，英语新约。"
+      },
+      {
+        "date": "2026-11-10T09:22:50.034762+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.ivpress.com/Media/Default/Downloads/Excerpts-and-Samples/4828-excerpt.pdf",
+        "result": "试探候选，实际题名Companions in the Darkness；排除错书。"
+      },
+      {
+        "date": "2026-11-10T09:22:50.034764+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.ivpress.com/Media/Default/Downloads/Excerpts-and-Samples/2485-excerpt.pdf",
+        "result": "试探候选，实际题名A Week in the Life of Ephesus；排除错书，不当成功获取。"
+      }
+    ],
+    "next_action": "依电子书ISBN取得2021新约整本或正规阅读授权；若追PDF必须先核作品身份，不用2025 Psalms and Proverbs或错书替代。",
+    "updated_at": "2026-11-10T09:22:50.034756+00:00",
+    "discovery_pass_done": true
   }
 }

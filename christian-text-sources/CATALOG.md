@@ -124,8 +124,8 @@
 | 118 | [Thomas R. Kelly — A Testament of Devotion（机构引文入口）](books/modern--dydi_a--kelly-testament/README.md) | 部分正文可直达 | [英国贵格会Qf&p 2.10：Kelly原作节引](https://qfp.quaker.org.uk/passage/2-10/) |
 | 119 | [James H. Cone — The Cross and the Lynching Tree](books/modern--dydi_a--cone-cross/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
 | 120 | [Justo L. González — 作者与历史神学书目入口](books/modern--dydi_a--gonzalez-author/README.md) | 部分正文可直达 | [Logos/Biblia：思想史卷III限量预览](https://biblia.com/api/plugins/embeddedpreview?historybuttons=false&layout=minimal&navigationbox=false&resourceName=LLS%3A9781426721939&sharebutton=false) |
-| 121 | [Dorothy Day — Catholic Worker作者资源入口](books/modern--dydi_a--day-author/README.md) | 待检索 | 见档案中的既有出处 |
-| 122 | [Alexander Schmemann — For the Life of the World](books/modern--dydi_a--schmemann-life/README.md) | 待检索 | 见档案中的既有出处 |
+| 121 | [Dorothy Day — Catholic Worker作者资源入口](books/modern--dydi_a--day-author/README.md) | 部分正文可直达 | [House of Hospitality：序与第1章](https://catholicworker.org/436-html/)；[From Union Square to Rome：第1章](https://catholicworker.org/201-plain-htm/)；[The Eleventh Virgin：首末章正文](https://catholicworker.org/the-eleventh-virgin-part-one-chapter-1-2/) |
+| 122 | [Alexander Schmemann — For the Life of the World](books/modern--dydi_a--schmemann-life/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
 | 123 | [Desiring God / John Piper](books/modern--dydi_b--B01/README.md) | 待检索 | 见档案中的既有出处 |
 | 124 | [The Gospel Coalition（美国版）](books/modern--dydi_b--B02/README.md) | 待检索 | 见档案中的既有出处 |
 | 125 | [Ligonier Ministries / Renewing Your Mind](books/modern--dydi_b--B03/README.md) | 待检索 | 见档案中的既有出处 |
@@ -173,9 +173,9 @@
 | 167 | [Boston University：Howard与Sue Bailey Thurman档案](books/modern--lori_b--lb02/README.md) | 待检索 | 见档案中的既有出处 |
 | 168 | [WomanPreach!](books/modern--lori_b--lb03/README.md) | 待检索 | 见档案中的既有出处 |
 | 169 | [Christianity Today：CT Women与官方Translations](books/modern--lori_b--lb04/README.md) | 待检索 | 见档案中的既有出处 |
-| 170 | [Esau McCaulley：作者网站与Reading While Black](books/modern--lori_b--lb05/README.md) | 待检索 | 见档案中的既有出处 |
-| 171 | [Prasanta Verma：Beyond Ethnic Loneliness / IVP](books/modern--lori_b--lb06/README.md) | 待检索 | 见档案中的既有出处 |
+| 170 | [Esau McCaulley：作者网站与Reading While Black](books/modern--lori_b--lb05/README.md) | 部分正文可直达 | [IVP官方27页PDF：第一章试读](https://www.ivpress.com/Media/Default/Downloads/Excerpts-and-Samples/5486-excerpt.pdf) |
+| 171 | [Prasanta Verma：Beyond Ethnic Loneliness / IVP](books/modern--lori_b--lb06/README.md) | 部分正文可直达 | [IVP官方23页PDF：第一章试读](https://www.ivpress.com/Media/Default/Downloads/Excerpts-and-Samples/A0741-excerpt.pdf) |
 | 172 | [Justo & Catherine González Resource Center / AETH](books/modern--lori_b--lb07/README.md) | 待检索 | 见档案中的既有出处 |
 | 173 | [Overseas Ministries Study Center（OMSC）/ Princeton](books/modern--lori_b--lb08/README.md) | 待检索 | 见档案中的既有出处 |
-| 174 | [Terry M. Wildman / First Nations Version / IVP Indigenous Authors](books/modern--lori_b--lb09/README.md) | 待检索 | 见档案中的既有出处 |
+| 174 | [Terry M. Wildman / First Nations Version / IVP Indigenous Authors](books/modern--lori_b--lb09/README.md) | 部分正文可直达 | [IVP 2021 First Nations Version电子书及两处经文样例](https://www.ivpress.com/first-nations-version-ebook) |
 | 175 | [Missio Alliance：Writing Collective与Resource Hub](books/modern--lori_b--lb10/README.md) | 待检索 | 见档案中的既有出处 |

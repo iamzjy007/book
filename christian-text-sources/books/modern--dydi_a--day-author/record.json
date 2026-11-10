@@ -56,11 +56,101 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：由机构索引定位The Long Loneliness等具体原作及日记/后人选集，分开登记，再核中文版本。",
-    "updated_at": "2026-11-10T09:17:54.987806+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Dorothy Day作品库及3部书分章导航",
+        "url": "https://catholicworker.org/dorothy-day/dorothy-day-writing/",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "Catholic Worker Movement维护的Dorothy Day Library on the Web",
+        "coverage": "报刊作品及House of Hospitality、From Union Square to Rome、The Eleventh Virgin的导航；未核全库",
+        "verification": "实际打开作品库及3部书目录，不把目录摘要当章节正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "parts": [
+          "https://catholicworker.org/house-of-hospitality/",
+          "https://catholicworker.org/union-square/",
+          "https://catholicworker.org/the-eleventh-virgin-dorothy-day/"
+        ]
+      },
+      {
+        "label": "House of Hospitality：序与第1章",
+        "url": "https://catholicworker.org/436-html/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "1939年Sheed and Ward原书；网站电子转录，DDLW #436；序#435",
+        "coverage": "已核序及第一章实际正文，整书其他章未逐章打开",
+        "verification": "实际读到章节标题、归属、正文、页尾；不宣称全书已校核。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "parts": [
+          "https://catholicworker.org/435-2/",
+          "https://catholicworker.org/436-html/"
+        ]
+      },
+      {
+        "label": "From Union Square to Rome：第1章",
+        "url": "https://catholicworker.org/201-plain-htm/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "1938原书；网站电子转录，DDLW #201",
+        "coverage": "已核第1章实际正文，其余章保留导航待核",
+        "verification": "从目录Chapter 1点击，读到原书正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      },
+      {
+        "label": "The Eleventh Virgin：首末章正文",
+        "url": "https://catholicworker.org/the-eleventh-virgin-part-one-chapter-1-2/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "1924年Albert and Charles Boni原书；网站电子转录",
+        "coverage": "3部共12章目录；实际打开第一部第1章和第三部第4章，中间10章未逐章核",
+        "verification": "首末章均有实际正文；父档案只记partial，下一次按章节补核。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "parts": [
+          "https://catholicworker.org/the-eleventh-virgin-part-one-chapter-1-2/",
+          "https://catholicworker.org/the-eleventh-virgin-part-three-chapter-4/"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:22:50.033554+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://catholicworker.org/dorothy-day/",
+        "result": "沿原研究作者入口追Writings。"
+      },
+      {
+        "date": "2026-11-10T09:22:50.033558+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://catholicworker.org/dorothy-day/dorothy-day-writing/",
+        "result": "打开作品库与三部书目录；记录按作品／章续接。"
+      },
+      {
+        "date": "2026-11-10T09:22:50.033560+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://catholicworker.org/436-html/",
+        "result": "实际打开House of Hospitality第一章及序435-2。"
+      },
+      {
+        "date": "2026-11-10T09:22:50.033561+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://catholicworker.org/201-plain-htm/",
+        "result": "实际打开From Union Square to Rome第一章。"
+      },
+      {
+        "date": "2026-11-10T09:22:50.033563+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://catholicworker.org/the-eleventh-virgin-part-one-chapter-1-2/",
+        "result": "实际打开第一部第一章，并打开第三部第四章核尾。"
+      }
+    ],
+    "next_action": "逐章核The Eleventh Virgin余10章后再核其余两部书；另追The Long Loneliness正式阅读版，不能用其他著作代替。",
+    "updated_at": "2026-11-10T09:22:50.033530+00:00",
+    "discovery_pass_done": true
   }
 }

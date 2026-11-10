@@ -60,11 +60,49 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：取得正版书后按章核论证，联系正式中文出版社目录查译名，勿将书介改写成读后评。",
-    "updated_at": "2026-11-10T09:17:54.997527+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "IVP书目与整本购买渠道",
+        "url": "https://www.ivpress.com/reading-while-black",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "Esau McCaulley；IVP Academic，2020-09-01，ISBN 9780830854868，208页",
+        "coverage": "全书目录、简介与正式购买路径",
+        "verification": "实读出版社版本与章节目录，原作者官网路径可能变动，出版社书页稳定。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      },
+      {
+        "label": "IVP官方27页PDF：第一章试读",
+        "url": "https://www.ivpress.com/Media/Default/Downloads/Excerpts-and-Samples/5486-excerpt.pdf",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "版权2020 Esau D. McCaulley；IVP提供的原书节选",
+        "coverage": "27个PDF页面；版权说明、第一章印刷页1—24及购买尾页；不含后续章",
+        "verification": "实际打开PDF首页、正文和尾部，核第一章结尾及BUY THE BOOK。脚本直取403，网页工具可读；不宣称已下载PDF到仓库。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "pdf_pages": 27
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:22:50.034214+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.ivpress.com/reading-while-black",
+        "result": "实际读书目、2020版ISBN与全书目录。"
+      },
+      {
+        "date": "2026-11-10T09:22:50.034217+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.ivpress.com/Media/Default/Downloads/Excerpts-and-Samples/5486-excerpt.pdf",
+        "result": "检索找到官方文件，网页工具实际读取27页；首章印刷页1—24。直接HTTP403，保存可访问在线路径。"
+      }
+    ],
+    "next_action": "第一章已核；取得同版全书，继续第2章；核各章引文与原注，PDF27页不等于27页全书。",
+    "updated_at": "2026-11-10T09:22:50.034209+00:00",
+    "discovery_pass_done": true
   }
 }
