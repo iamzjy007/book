@@ -4,21 +4,21 @@
 
 | 序号 | 书目档案 | 获取状态 | 正文／扫描入口 |
 |---|---|---|---|
-| 001 | [论证集（二十三篇论文）](books/dydi_a--east-aphrahat/README.md) | 待检索 | 见档案中的既有出处 |
-| 002 | [尼尼微的以撒：修道讲论第一集](books/dydi_a--east-isaac-i/README.md) | 待检索 | 见档案中的既有出处 |
-| 003 | [尼尼微的以撒：第二集（含属灵知识纲要）](books/dydi_a--east-isaac-ii/README.md) | 待检索 | 见档案中的既有出处 |
-| 004 | [尼尼微的以撒：第三集](books/dydi_a--east-isaac-iii/README.md) | 待检索 | 见档案中的既有出处 |
-| 005 | [达利亚的约翰书信集](books/dydi_a--east-john-dalyatha/README.md) | 待检索 | 见档案中的既有出处 |
-| 006 | [独修者约翰：论灵魂](books/dydi_a--east-john-solitary/README.md) | 待检索 | 见档案中的既有出处 |
-| 007 | [若瑟·哈扎亚：论修道生活的三个阶段书信](books/dydi_a--east-joseph-stages/README.md) | 待检索 | 见档案中的既有出处 |
-| 008 | [萨赫多纳：成全之书](books/dydi_a--east-sahdona-perfection/README.md) | 待检索 | 见档案中的既有出处 |
-| 009 | [阶梯之书](books/dydi_a--east-steps/README.md) | 待检索 | 见档案中的既有出处 |
-| 010 | [早期基督教神秘家文选（版本入口）](books/dydi_a--east-mingana-mystics/README.md) | 待检索 | 见档案中的既有出处 |
-| 011 | [院长之书（修道史）](books/dydi_a--east-governors/README.md) | 待检索 | 见档案中的既有出处 |
-| 012 | [阿布·库拉：论圣像敬礼](books/dydi_a--east-abuqurrah-icons/README.md) | 待检索 | 见档案中的既有出处 |
-| 013 | [阿马尔·巴士里：救恩安排的论证之书](books/dydi_a--east-ammar-proof/README.md) | 待检索 | 见档案中的既有出处 |
-| 014 | [阿马尔·巴士里：问答之书](books/dydi_a--east-ammar-questions/README.md) | 待检索 | 见档案中的既有出处 |
-| 015 | [提摩太一世与马赫迪哈里发的对话](books/dydi_a--east-timothy-mahdi/README.md) | 待检索 | 见档案中的既有出处 |
+| 001 | [论证集（二十三篇论文）](books/dydi_a--east-aphrahat/README.md) | 部分正文可直达 | [叙利亚语第1篇（原文）](https://syriaccorpus.org/1)；[Gwynn旧英译8篇](https://www.newadvent.org/fathers/3701.htm) |
+| 002 | [尼尼微的以撒：修道讲论第一集](books/dydi_a--east-isaac-i/README.md) | 正文可直达 | [Wensinck 1923旧英译扫描及阅读器](https://archive.org/details/IsaacOfNinevehMysticTreatises)；[Bedjan 1909叙利亚语文本扫描](https://archive.org/details/212102178MarIsaacusNinivitaDePerfectioneReligiosa) |
+| 003 | [尼尼微的以撒：第二集（含属灵知识纲要）](books/dydi_a--east-isaac-ii/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 004 | [尼尼微的以撒：第三集](books/dydi_a--east-isaac-iii/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 005 | [达利亚的约翰书信集](books/dydi_a--east-john-dalyatha/README.md) | 部分正文可直达 | [出版社授权样章PDF](https://api.pageplace.de/preview/DT0400.9781463210809_A38590089/preview-9781463210809_A38590089.pdf)；[Harvard Ms Syr 115手稿定位](https://www.syri.ac/digimss/faceted/authorsa_ja/jacob-sarug-265/authorsa_ja/john-dalyatha-518/authorsa_ja/john-dalyatha-discourses-520?items_per_page=10) |
+| 006 | [独修者约翰：论灵魂](books/dydi_a--east-john-solitary/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 007 | [若瑟·哈扎亚：论修道生活的三个阶段书信](books/dydi_a--east-joseph-stages/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 008 | [萨赫多纳：成全之书](books/dydi_a--east-sahdona-perfection/README.md) | 正文可直达 | [Bedjan 1902叙利亚语旧校本扫描](https://archive.org/details/BedjanS.MartyriiQuiEstSahdonaQuaeSupersuntOmnia) |
+| 009 | [阶梯之书](books/dydi_a--east-steps/README.md) | 扫描入口待核 | [Kmosko 1926叙利亚语／拉丁语旧校本](https://archive.org/details/PatrologiaSyriacaIIILiberGraduum_201603) |
+| 010 | [早期基督教神秘家文选（版本入口）](books/dydi_a--east-mingana-mystics/README.md) | 访问受阻 | 见档案中的既有出处 |
+| 011 | [院长之书（修道史）](books/dydi_a--east-governors/README.md) | 正文可直达 | [Budge 1893卷2英译扫描](https://archive.org/details/bookofgovernors02thomuoft) |
+| 012 | [阿布·库拉：论圣像敬礼](books/dydi_a--east-abuqurrah-icons/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 013 | [阿马尔·巴士里：救恩安排的论证之书](books/dydi_a--east-ammar-proof/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 014 | [阿马尔·巴士里：问答之书](books/dydi_a--east-ammar-questions/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 015 | [提摩太一世与马赫迪哈里发的对话](books/dydi_a--east-timothy-mahdi/README.md) | 正文可直达 | [Mingana 1928旧英译正文](https://www.tertullian.org/fathers/timothy_i_apology_01_text.htm) |
 | 016 | [希伯来人福音](books/dydi_b--B01/README.md) | 待检索 | 见档案中的既有出处 |
 | 017 | [拿撒勒派福音](books/dydi_b--B02/README.md) | 待检索 | 见档案中的既有出处 |
 | 018 | [希腊文埃及人福音](books/dydi_b--B03/README.md) | 待检索 | 见档案中的既有出处 |

@@ -36,8 +36,43 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:40.617952+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Testamentum Domini nostri Iesu Christi\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Testamentum+Domini+nostri+Iesu+Christi%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 9,
+        "candidates": [
+          {
+            "creator": "IOHANNES WORDSWORTH",
+            "identifier": "nouumtestamentum0003ioha",
+            "title": "NOUUM TESTAMENTUM DOMINI NOSTRI IESU CHRISTI LATINE",
+            "year": 1854
+          },
+          {
+            "identifier": "nouumtestamentum0000unse_o0x8",
+            "title": "Nouum Testamentum Domini nostri Iesu Christi Latine",
+            "year": 1889
+          },
+          {
+            "identifier": "bub_gb_qKbkJE0Y3S8C",
+            "title": "Biblia sacra vulgatæ editionis Sixti 5. Pont. Max. iussu recognita atque edita versiculis distincta Novum Testamentum Domini nostri Iesu Christi, vulgatae editionis juxta exemplar Vaticanum an. 1592. Versiculis distinctum",
+            "year": 1680
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.ucl.ac.uk/social-historical-sciences/testamentum-domini",
+        "final_url": "https://www.ucl.ac.uk/social-historical-sciences/testamentum-domini",
+        "result": "HTTP 200；Testamentum Domini | UCL Faculty of Social & Historical Sciences。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:40.617952+00:00",
+    "discovery_pass_done": true
   }
 }

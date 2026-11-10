@@ -20,6 +20,9 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:37.670290+00:00：title:("Traditio apostolica") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://guides.library.yale.edu/ancientchristianity/manuals — HTTP 200；Ecclesial Manuals - Early Christianity and Patristics - Yale University Library Research Guides at Yale University。本检查不确认正文。
+- 2026-11-10：https://www.cclc.org.hk/product/尼西亞前期教父選集/ — HTTP 404；找不到符合條件的頁面 – 基督教文藝出版社。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

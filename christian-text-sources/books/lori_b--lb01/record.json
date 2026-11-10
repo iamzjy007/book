@@ -41,8 +41,40 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:37.670290+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Traditio apostolica\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Traditio+apostolica%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 1,
+        "candidates": [
+          {
+            "creator": "Jilek, August, 1949-",
+            "identifier": "initiationsfeier0000jile",
+            "title": "Initiationsfeier und Amt : e. Beitr. zur Struktur u. Theologie d. Ämter u.d. Taufgottesdienstes in d. frühen Kirche (Traditio Apostolica, Tertullian, Cyprian)",
+            "year": 1979
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://guides.library.yale.edu/ancientchristianity/manuals",
+        "final_url": "https://guides.library.yale.edu/ancientchristianity/manuals",
+        "result": "HTTP 200；Ecclesial Manuals - Early Christianity and Patristics - Yale University Library Research Guides at Yale University。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.cclc.org.hk/product/尼西亞前期教父選集/",
+        "final_url": "https://www.cclc.org.hk/product/%E5%B0%BC%E8%A5%BF%E4%BA%9E%E5%89%8D%E6%9C%9F%E6%95%99%E7%88%B6%E9%81%B8%E9%9B%86/",
+        "result": "HTTP 404；找不到符合條件的頁面 – 基督教文藝出版社。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:37.670290+00:00",
+    "discovery_pass_done": true
   }
 }

@@ -19,6 +19,8 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:54.988220+00:00：title:("Interpretation of Knowledge") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://www.pulaval.com/livres/l-interpretation-de-la-gnose-nh-xi-1-bcnh-textes-no-34 — HTTP 200；L’interprétation de la Gnose (NH XI, 1). BCNH "Textes" No. 34 | Presses de l'Université Laval。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

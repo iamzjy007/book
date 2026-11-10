@@ -19,6 +19,8 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:52.767904+00:00：title:("Oxyrhynchus Hymn, P.Oxy. XV 1786") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://catalogue.bnf.fr/ark:/12148/cb44478840j — HTTP 200；Notice bibliographique An ancient Christian hymn with musical notation : papyrus Oxyrhynchus 1786 : text and commentary / Charles H. Cosgrove | Accueil | Catalogue général | BnF- Bibliothèque nationale de France。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

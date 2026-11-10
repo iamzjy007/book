@@ -57,8 +57,39 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:28.737743+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Epistola ad fratres de Monte Dei\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Epistola+ad+fratres+de+Monte+Dei%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 2,
+        "candidates": [
+          {
+            "creator": "William, of Saint-Thierry, Abbot of Saint-Thierry, approximately 1085-1148?",
+            "identifier": "untraitedelavies0291will",
+            "title": "Un traité de la vie solitaire. : Epistola ad fratres de Monte-Dei",
+            "year": 1940
+          },
+          {
+            "creator": "William, of Saint-Thierry, Abbot of Saint-Thierry, approximately 1085-1148?",
+            "identifier": "untraitedelavies0292will",
+            "title": "Un traité de la vie solitaire. : Epistola ad fratres de Monte-Dei",
+            "year": 1940
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://litpress.org/Products/CF012/The-Golden-Epistle",
+        "final_url": "https://litpress.org/Products/CF012/The-Golden-Epistle",
+        "result": "HTTP 200；The Golden Epistle: : William of Saint Thierry; Translated by Theodore Berkeley OCSO; Introduction by J. M. Déchanet OSB : 9780879077129: litpress.org : Paperback。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:28.737743+00:00",
+    "discovery_pass_done": true
   }
 }

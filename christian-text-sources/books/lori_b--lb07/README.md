@@ -20,6 +20,9 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:43.769598+00:00：title:("Itinerarium Egeriae") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://bmcr.brynmawr.edu/2021/2021.11.48/ — HTTP 200；Egeria, journey to the Holy Land – Bryn Mawr Classical Review。本检查不确认正文。
+- 2026-11-10：https://gospelchina.cn/article-detail/259.html — HTTP 200；大斋期的圣周传统和礼仪实践（下）。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

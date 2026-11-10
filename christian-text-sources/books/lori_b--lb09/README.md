@@ -20,6 +20,9 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:45.761806+00:00：title:("Acta martyrum Scillitanorum") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://openlibrary.org/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591 — HTTP 200；Human Verification | Open Library；实际为人机验证，不是资源内容。。本检查不确认正文。
+- 2026-11-10：https://chunsheng-huangchunsheng.blogspot.com/2022/07/?m=0 — HTTP 200；a Pilgrim 天路客: 2022/07。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

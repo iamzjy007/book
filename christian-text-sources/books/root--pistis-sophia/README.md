@@ -20,6 +20,9 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:56.766571+00:00：title:("Pistis Sophia") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://www.degruyterbrill.com/document/isbn/9789004301191/html — HTTP 405；Human Verification；实际为人机验证，不是资源内容。。本检查不确认正文。
+- 2026-11-10：https://catalogue.bnf.fr/ark:/12148/cb33446670k — HTTP 200；Notice bibliographique Die Pistis Sophia. Die beiden Bücher des Jeû. Unbekanntes altgnostisches Werk / herausgegeben im Auftrage der Kirchenväter-Commission der königl. preussischen Akademie der Wissenschaften von Carl Schmidt | Accueil | Catalogue général | BnF- Bibliothèque nationale de France。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

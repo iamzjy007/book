@@ -54,8 +54,45 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:55.617670+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Apocryphon of John\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Apocryphon+of+John%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 3,
+        "candidates": [
+          {
+            "creator": "Harris Kakoulides",
+            "identifier": "the-apocryphon-of-john",
+            "title": "The Apocryphon Of John",
+            "year": 2023
+          },
+          {
+            "creator": "John the Apostle",
+            "identifier": "apocryphon-of-john_202507",
+            "title": "Apocryphon Of John",
+            "year": 100
+          },
+          {
+            "creator": "Howard N. Breamt",
+            "identifier": "apocryphonofjohn0000howa",
+            "title": "The Apocryphon of John and Other Coptic Translations",
+            "year": 1987
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.pulaval.com/livres/le-livre-des-secrets-de-jean-recension-breve-nh-iii-1-et-bg-2-bcnh-textes-no-35",
+        "final_url": "https://www.pulaval.com/livres/le-livre-des-secrets-de-jean-recension-breve-nh-iii-1-et-bg-2-bcnh-textes-no-35",
+        "result": "HTTP 200；Le livre des secrets de Jean. Recension brève (NH III, 1 ET BG, 2). BCNH \"Textes\" No 35 | Presses de l'Université Laval。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:55.617670+00:00",
+    "discovery_pass_done": true
   }
 }

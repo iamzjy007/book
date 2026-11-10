@@ -19,6 +19,8 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:47:55.617670+00:00：title:("Apocryphon of John") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://www.pulaval.com/livres/le-livre-des-secrets-de-jean-recension-breve-nh-iii-1-et-bg-2-bcnh-textes-no-35 — HTTP 200；Le livre des secrets de Jean. Recension brève (NH III, 1 ET BG, 2). BCNH "Textes" No 35 | Presses de l'Université Laval。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

@@ -50,8 +50,33 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:47:31.603924+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Speculum caritatis\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Speculum+caritatis%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 1,
+        "candidates": [
+          {
+            "creator": "Various",
+            "identifier": "missorofcharitys0000unse",
+            "title": "THE MISSOR OF CHARITY: The Speculum Caritatis of St. Aelred of Rievaulx.",
+            "year": 1962
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://litpress.org/Products/CF017/Mirror-of-Charity",
+        "final_url": "https://litpress.org/Products/CF017/Mirror-of-Charity",
+        "result": "HTTP 200；Mirror of Charity: : Aelred of Rievaulx; Translated by Elizabeth Connor OCSO, Introduction and notes by Charles Dumont OCSO : 9780879077174: litpress.org : Paperback。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:47:31.603924+00:00",
+    "discovery_pass_done": true
   }
 }

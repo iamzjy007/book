@@ -1,97 +1,7 @@
 {
   "schema": 1,
-  "next_task": "dydi_a:east-aphrahat",
+  "next_task": "dydi_b:B01",
   "tasks": [
-    {
-      "id": "dydi_a:east-aphrahat",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-aphrahat/record.json"
-    },
-    {
-      "id": "dydi_a:east-isaac-i",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-isaac-i/record.json"
-    },
-    {
-      "id": "dydi_a:east-isaac-ii",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-isaac-ii/record.json"
-    },
-    {
-      "id": "dydi_a:east-isaac-iii",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-isaac-iii/record.json"
-    },
-    {
-      "id": "dydi_a:east-john-dalyatha",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-john-dalyatha/record.json"
-    },
-    {
-      "id": "dydi_a:east-john-solitary",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-john-solitary/record.json"
-    },
-    {
-      "id": "dydi_a:east-joseph-stages",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-joseph-stages/record.json"
-    },
-    {
-      "id": "dydi_a:east-sahdona-perfection",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-sahdona-perfection/record.json"
-    },
-    {
-      "id": "dydi_a:east-steps",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-steps/record.json"
-    },
-    {
-      "id": "dydi_a:east-mingana-mystics",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-mingana-mystics/record.json"
-    },
-    {
-      "id": "dydi_a:east-governors",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-governors/record.json"
-    },
-    {
-      "id": "dydi_a:east-abuqurrah-icons",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-abuqurrah-icons/record.json"
-    },
-    {
-      "id": "dydi_a:east-ammar-proof",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-ammar-proof/record.json"
-    },
-    {
-      "id": "dydi_a:east-ammar-questions",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-ammar-questions/record.json"
-    },
-    {
-      "id": "dydi_a:east-timothy-mahdi",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_a--east-timothy-mahdi/record.json"
-    },
     {
       "id": "dydi_b:B01",
       "status": "queued",
@@ -661,6 +571,72 @@
       "status": "queued",
       "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
       "record_path": "books/root--books-jeu/record.json"
+    },
+    {
+      "id": "dydi_a:east-aphrahat",
+      "status": "partial_online",
+      "next_action": "逐一核1—23篇内容及Parisot卷1、2扫描，选定原文底本；英译目前只是8篇。",
+      "record_path": "books/dydi_a--east-aphrahat/record.json"
+    },
+    {
+      "id": "dydi_a:east-isaac-ii",
+      "status": "metadata_only",
+      "next_action": "检索Brock CSCO 554/555原文与英译的馆藏可读版；另核II.1—3及四百则，不能拿I集代替。",
+      "record_path": "books/dydi_a--east-isaac-ii/record.json"
+    },
+    {
+      "id": "dydi_a:east-isaac-iii",
+      "status": "metadata_only",
+      "next_action": "查CSCO 637/638可读本及手稿开放影像；必须独立于第一、第二集。",
+      "record_path": "books/dydi_a--east-isaac-iii/record.json"
+    },
+    {
+      "id": "dydi_a:east-john-dalyatha",
+      "status": "partial_online",
+      "next_action": "从Harvard Ms Syr 115取得书信叶56v—97r影像；核对Beulay校本编号。",
+      "record_path": "books/dydi_a--east-john-dalyatha/record.json"
+    },
+    {
+      "id": "dydi_a:east-john-solitary",
+      "status": "metadata_only",
+      "next_action": "追查Dedering 1936原文校本及出版社授权样章；同作者其他作品不能替代。",
+      "record_path": "books/dydi_a--east-john-solitary/record.json"
+    },
+    {
+      "id": "dydi_a:east-joseph-stages",
+      "status": "metadata_only",
+      "next_action": "检索PO 45.2/202与旧署Philoxenus的Olinder 1950版；核独立文本，不采用有关三阶段的研究论文充当原作。",
+      "record_path": "books/dydi_a--east-joseph-stages/record.json"
+    },
+    {
+      "id": "dydi_a:east-steps",
+      "status": "scan_candidate",
+      "next_action": "直接查看扫描卷的正文起页与末页、30篇目录；核实后升级正文可直达。",
+      "record_path": "books/dydi_a--east-steps/record.json"
+    },
+    {
+      "id": "dydi_a:east-mingana-mystics",
+      "status": "blocked",
+      "next_action": "继续查1934卷7机构开放扫描；馆藏ID已明确，勿用第6卷或McGinn同名书。",
+      "record_path": "books/dydi_a--east-mingana-mystics/record.json"
+    },
+    {
+      "id": "dydi_a:east-abuqurrah-icons",
+      "status": "metadata_only",
+      "next_action": "查阿拉伯语旧版与BL Or.4950 ff.198r—237v／Sinai Arabic 330 ff.315r—356r影像，或取得出版社阅读版。",
+      "record_path": "books/dydi_a--east-abuqurrah-icons/record.json"
+    },
+    {
+      "id": "dydi_a:east-ammar-proof",
+      "status": "metadata_only",
+      "next_action": "打开Mikhail13PhD.pdf核附录与译文范围；另找Hayek阿拉伯语校本。",
+      "record_path": "books/dydi_a--east-ammar-proof/record.json"
+    },
+    {
+      "id": "dydi_a:east-ammar-questions",
+      "status": "metadata_only",
+      "next_action": "查阿拉伯语题名كتاب المسائل والأجوبة及Hayek版本；与Kitab al-Burhan分开，不采用同名现代问答书。",
+      "record_path": "books/dydi_a--east-ammar-questions/record.json"
     }
   ]
 }
