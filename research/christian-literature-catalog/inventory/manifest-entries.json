@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "cover",
+    "title": "COVER",
+    "source_title": "COVER",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "title-page",
+    "title": "TITLE PAGE",
+    "source_title": "TITLE PAGE",
+    "scope": "excluded_editorial",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "table-of-contents",
+    "title": "TABLE OF CONTENTS",
+    "source_title": "TABLE OF CONTENTS",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "about-the-ultimate-ethiopian-bible",
+    "title": "ABOUT THE ULTIMATE ETHIOPIAN BIBLE",
+    "source_title": "ABOUT THE ULTIMATE ETHIOPIAN BIBLE",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "preface-to-the-lsv-bible",
+    "title": "PREFACE TO THE LSV BIBLE",
+    "source_title": "PREFACE TO THE LSV BIBLE",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "introduction-to-the-lsv-bible",
+    "title": "INTRODUCTION TO THE LSV BIBLE",
+    "source_title": "INTRODUCTION TO THE LSV BIBLE",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "preface-to-the-apocrypha",
+    "title": "PREFACE TO THE APOCRYPHA",
+    "source_title": "PREFACE TO THE APOCRYPHA",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "introduction-to-the-apocrypha",
+    "title": "INTRODUCTION TO THE APOCRYPHA",
+    "source_title": "INTRODUCTION TO THE APOCRYPHA",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "key-scriptures",
+    "title": "KEY SCRIPTURES",
+    "source_title": "KEY SCRIPTURES",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-good-news-of-salvation",
+    "title": "THE GOOD NEWS OF SALVATION",
+    "source_title": "THE GOOD NEWS OF SALVATION",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "genesis",
+    "title": "GENESIS",
+    "source_title": "GENESIS",
+    "scope": "excluded_canonical_66",
+    "units": 51,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "exodus",
+    "title": "EXODUS",
+    "source_title": "EXODUS",
+    "scope": "excluded_canonical_66",
+    "units": 41,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "leviticus",
+    "title": "LEVITICUS",
+    "source_title": "LEVITICUS",
+    "scope": "excluded_canonical_66",
+    "units": 28,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "numbers",
+    "title": "NUMBERS",
+    "source_title": "NUMBERS",
+    "scope": "excluded_canonical_66",
+    "units": 37,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "deuteronomy",
+    "title": "DEUTERONOMY",
+    "source_title": "DEUTERONOMY",
+    "scope": "excluded_canonical_66",
+    "units": 35,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "joshua",
+    "title": "JOSHUA",
+    "source_title": "JOSHUA",
+    "scope": "excluded_canonical_66",
+    "units": 25,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "judges",
+    "title": "JUDGES",
+    "source_title": "JUDGES",
+    "scope": "excluded_canonical_66",
+    "units": 22,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ruth",
+    "title": "RUTH",
+    "source_title": "RUTH",
+    "scope": "excluded_canonical_66",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-samuel",
+    "title": "1 SAMUEL",
+    "source_title": "1 SAMUEL",
+    "scope": "excluded_canonical_66",
+    "units": 32,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-samuel",
+    "title": "2 SAMUEL",
+    "source_title": "2 SAMUEL",
+    "scope": "excluded_canonical_66",
+    "units": 25,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-kings",
+    "title": "1 KINGS",
+    "source_title": "1 KINGS",
+    "scope": "excluded_canonical_66",
+    "units": 23,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-kings",
+    "title": "2 KINGS",
+    "source_title": "2 KINGS",
+    "scope": "excluded_canonical_66",
+    "units": 26,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-chronicles",
+    "title": "1 CHRONICLES",
+    "source_title": "1 CHRONICLES",
+    "scope": "excluded_canonical_66",
+    "units": 30,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-chronicles",
+    "title": "2 CHRONICLES",
+    "source_title": "2 CHRONICLES",
+    "scope": "excluded_canonical_66",
+    "units": 37,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ezra",
+    "title": "EZRA",
+    "source_title": "EZRA",
+    "scope": "excluded_canonical_66",
+    "units": 11,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "nehemiah",
+    "title": "NEHEMIAH",
+    "source_title": "NEHEMIAH",
+    "scope": "excluded_canonical_66",
+    "units": 14,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "esther",
+    "title": "ESTHER",
+    "source_title": "ESTHER",
+    "scope": "excluded_canonical_66",
+    "units": 11,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "job",
+    "title": "JOB",
+    "source_title": "JOB",
+    "scope": "excluded_canonical_66",
+    "units": 43,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "psalms",
+    "title": "PSALMS",
+    "source_title": "PSALMS",
+    "scope": "excluded_canonical_66",
+    "units": 3,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "proverbs",
+    "title": "PROVERBS",
+    "source_title": "PROVERBS",
+    "scope": "excluded_canonical_66",
+    "units": 32,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ecclesiastes",
+    "title": "ECCLESIASTES",
+    "source_title": "ECCLESIASTES",
+    "scope": "excluded_canonical_66",
+    "units": 13,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "song-of-songs",
+    "title": "SONG OF SONGS",
+    "source_title": "SONG OF SONGS",
+    "scope": "excluded_canonical_66",
+    "units": 9,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "isaiah",
+    "title": "ISAIAH",
+    "source_title": "ISAIAH",
+    "scope": "excluded_canonical_66",
+    "units": 67,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "jeremiah",
+    "title": "JEREMIAH",
+    "source_title": "JEREMIAH",
+    "scope": "excluded_canonical_66",
+    "units": 53,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "lamentations",
+    "title": "LAMENTATIONS",
+    "source_title": "LAMENTATIONS",
+    "scope": "excluded_canonical_66",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ezekiel",
+    "title": "EZEKIEL",
+    "source_title": "EZEKIEL",
+    "scope": "excluded_canonical_66",
+    "units": 49,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "daniel",
+    "title": "DANIEL",
+    "source_title": "DANIEL",
+    "scope": "excluded_canonical_66",
+    "units": 13,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "hosea",
+    "title": "HOSEA",
+    "source_title": "HOSEA",
+    "scope": "excluded_canonical_66",
+    "units": 15,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "joel",
+    "title": "JOEL",
+    "source_title": "JOEL",
+    "scope": "excluded_canonical_66",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "amos",
+    "title": "AMOS",
+    "source_title": "AMOS",
+    "scope": "excluded_canonical_66",
+    "units": 10,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "obadiah",
+    "title": "OBADIAH",
+    "source_title": "OBADIAH",
+    "scope": "excluded_canonical_66",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "jonah",
+    "title": "JONAH",
+    "source_title": "JONAH",
+    "scope": "excluded_canonical_66",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "micah",
+    "title": "MICAH",
+    "source_title": "MICAH",
+    "scope": "excluded_canonical_66",
+    "units": 8,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "nahum",
+    "title": "NAHUM",
+    "source_title": "NAHUM",
+    "scope": "excluded_canonical_66",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "habakkuk",
+    "title": "HABAKKUK",
+    "source_title": "HABAKKUK",
+    "scope": "excluded_canonical_66",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "zephaniah",
+    "title": "ZEPHANIAH",
+    "source_title": "ZEPHANIAH",
+    "scope": "excluded_canonical_66",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "haggai",
+    "title": "HAGGAI",
+    "source_title": "HAGGAI",
+    "scope": "excluded_canonical_66",
+    "units": 3,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "zechariah",
+    "title": "ZECHARIAH",
+    "source_title": "ZECHARIAH",
+    "scope": "excluded_canonical_66",
+    "units": 15,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "malachi",
+    "title": "MALACHI",
+    "source_title": "MALACHI",
+    "scope": "excluded_canonical_66",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "matthew",
+    "title": "MATTHEW",
+    "source_title": "MATTHEW",
+    "scope": "excluded_canonical_66",
+    "units": 29,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "mark",
+    "title": "MARK",
+    "source_title": "MARK",
+    "scope": "excluded_canonical_66",
+    "units": 17,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "luke",
+    "title": "LUKE",
+    "source_title": "LUKE",
+    "scope": "excluded_canonical_66",
+    "units": 25,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "john",
+    "title": "JOHN",
+    "source_title": "JOHN",
+    "scope": "excluded_canonical_66",
+    "units": 22,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts",
+    "title": "ACTS",
+    "source_title": "ACTS",
+    "scope": "excluded_canonical_66",
+    "units": 29,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "romans",
+    "title": "ROMANS",
+    "source_title": "ROMANS",
+    "scope": "excluded_canonical_66",
+    "units": 17,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-corinthians",
+    "title": "1 CORINTHIANS",
+    "source_title": "1 CORINTHIANS",
+    "scope": "excluded_canonical_66",
+    "units": 17,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-corinthians",
+    "title": "2 CORINTHIANS",
+    "source_title": "2 CORINTHIANS",
+    "scope": "excluded_canonical_66",
+    "units": 14,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "galatians",
+    "title": "GALATIANS",
+    "source_title": "GALATIANS",
+    "scope": "excluded_canonical_66",
+    "units": 7,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ephesians",
+    "title": "EPHESIANS",
+    "source_title": "EPHESIANS",
+    "scope": "excluded_canonical_66",
+    "units": 7,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "philippians",
+    "title": "PHILIPPIANS",
+    "source_title": "PHILIPPIANS",
+    "scope": "excluded_canonical_66",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "colossians",
+    "title": "COLOSSIANS",
+    "source_title": "COLOSSIANS",
+    "scope": "excluded_canonical_66",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-thessalonians",
+    "title": "1 THESSALONIANS",
+    "source_title": "1 THESSALONIANS",
+    "scope": "excluded_canonical_66",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-thessalonians",
+    "title": "2 THESSALONIANS",
+    "source_title": "2 THESSALONIANS",
+    "scope": "excluded_canonical_66",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-timothy",
+    "title": "1 TIMOTHY",
+    "source_title": "1 TIMOTHY",
+    "scope": "excluded_canonical_66",
+    "units": 7,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-timothy",
+    "title": "2 TIMOTHY",
+    "source_title": "2 TIMOTHY",
+    "scope": "excluded_canonical_66",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "titus",
+    "title": "TITUS",
+    "source_title": "TITUS",
+    "scope": "excluded_canonical_66",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "philemon",
+    "title": "PHILEMON",
+    "source_title": "PHILEMON",
+    "scope": "excluded_canonical_66",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "hebrews",
+    "title": "HEBREWS",
+    "source_title": "HEBREWS",
+    "scope": "excluded_canonical_66",
+    "units": 14,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "james",
+    "title": "JAMES",
+    "source_title": "JAMES",
+    "scope": "excluded_canonical_66",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-peter",
+    "title": "1 PETER",
+    "source_title": "1 PETER",
+    "scope": "excluded_canonical_66",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-peter",
+    "title": "2 PETER",
+    "source_title": "2 PETER",
+    "scope": "excluded_canonical_66",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-john",
+    "title": "1 JOHN",
+    "source_title": "1 JOHN",
+    "scope": "excluded_canonical_66",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-john",
+    "title": "2 JOHN",
+    "source_title": "2 JOHN",
+    "scope": "excluded_canonical_66",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "3-john",
+    "title": "3 JOHN",
+    "source_title": "3 JOHN",
+    "scope": "excluded_canonical_66",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "jude",
+    "title": "JUDE",
+    "source_title": "JUDE",
+    "scope": "excluded_canonical_66",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "revelation",
+    "title": "REVELATION",
+    "source_title": "REVELATION",
+    "scope": "excluded_canonical_66",
+    "units": 23,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "exclusive-hardcover-discount",
+    "title": "EXCLUSIVE HARDCOVER DISCOUNT",
+    "source_title": "EXCLUSIVE HARDCOVER DISCOUNT",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apocryphal-esther",
+    "title": "001_以斯帖补篇",
+    "source_title": "APOCRYPHAL ESTHER",
+    "scope": "included",
+    "units": 7,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apocryphal-psalms",
+    "title": "002_诗篇补篇",
+    "source_title": "APOCRYPHAL PSALMS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apocryphal-daniel",
+    "title": "003_但以理补篇",
+    "source_title": "APOCRYPHAL DANIEL",
+    "scope": "included",
+    "units": 7,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-29",
+    "title": "004_使徒行传第二十九章",
+    "source_title": "ACTS 29",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "tobit",
+    "title": "005_多比传",
+    "source_title": "TOBIT",
+    "scope": "included",
+    "units": 15,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "judith",
+    "title": "006_犹滴传",
+    "source_title": "JUDITH",
+    "scope": "included",
+    "units": 17,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "wisdom",
+    "title": "007_所罗门智训",
+    "source_title": "WISDOM",
+    "scope": "included",
+    "units": 20,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "sirach",
+    "title": "008_便西拉智训",
+    "source_title": "SIRACH",
+    "scope": "included",
+    "units": 52,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-baruch",
+    "title": "009_巴录一书",
+    "source_title": "1 BARUCH",
+    "scope": "included",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-maccabees",
+    "title": "010_马加比一书",
+    "source_title": "1 MACCABEES",
+    "scope": "included",
+    "units": 17,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-maccabees",
+    "title": "011_马加比二书",
+    "source_title": "2 MACCABEES",
+    "scope": "included",
+    "units": 16,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-esdras",
+    "title": "012_以斯拉一书",
+    "source_title": "1 ESDRAS",
+    "scope": "included",
+    "units": 10,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-esdras",
+    "title": "013_以斯拉二书",
+    "source_title": "2 ESDRAS",
+    "scope": "included",
+    "units": 17,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "3-maccabees",
+    "title": "014_马加比三书",
+    "source_title": "3 MACCABEES",
+    "scope": "included",
+    "units": 8,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "4-maccabees",
+    "title": "015_马加比四书",
+    "source_title": "4 MACCABEES",
+    "scope": "included",
+    "units": 19,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "prayer-of-manasseh",
+    "title": "016_玛拿西祷词",
+    "source_title": "PRAYER OF MANASSEH",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "testaments-of-the-twelve-patriarchs",
+    "title": "017_十二族长遗训",
+    "source_title": "TESTAMENTS OF THE TWELVE PATRIARCHS",
+    "scope": "included",
+    "units": 155,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "jubilees",
+    "title": "018_禧年书",
+    "source_title": "JUBILEES",
+    "scope": "included",
+    "units": 51,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-enoch",
+    "title": "019_以诺一书",
+    "source_title": "1 ENOCH",
+    "scope": "included",
+    "units": 114,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-enoch",
+    "title": "020_以诺二书",
+    "source_title": "2 ENOCH",
+    "scope": "included",
+    "units": 69,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "3-enoch",
+    "title": "021_以诺三书",
+    "source_title": "3 ENOCH",
+    "scope": "included",
+    "units": 51,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "book-of-giants",
+    "title": "022_巨人书",
+    "source_title": "BOOK OF GIANTS",
+    "scope": "included",
+    "units": 16,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "life-of-adam-and-eve",
+    "title": "023_亚当与夏娃生平",
+    "source_title": "LIFE OF ADAM AND EVE",
+    "scope": "included",
+    "units": 45,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "book-of-creation",
+    "title": "024_创造之书",
+    "source_title": "BOOK OF CREATION",
+    "scope": "included",
+    "units": 7,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "testament-of-abraham",
+    "title": "025_亚伯拉罕遗训",
+    "source_title": "TESTAMENT OF ABRAHAM",
+    "scope": "included",
+    "units": 21,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "testament-of-isaac",
+    "title": "026_以撒遗训",
+    "source_title": "TESTAMENT OF ISAAC",
+    "scope": "included",
+    "units": 14,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "testament-of-jacob",
+    "title": "027_雅各遗训",
+    "source_title": "TESTAMENT OF JACOB",
+    "scope": "included",
+    "units": 9,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ladder-of-jacob",
+    "title": "028_雅各天梯",
+    "source_title": "LADDER OF JACOB",
+    "scope": "included",
+    "units": 9,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "joseph-and-asenath",
+    "title": "029_约瑟与亚西纳",
+    "source_title": "JOSEPH AND ASENATH",
+    "scope": "included",
+    "units": 30,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "testament-of-job",
+    "title": "030_约伯遗训",
+    "source_title": "TESTAMENT OF JOB",
+    "scope": "included",
+    "units": 13,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "testament-of-moses",
+    "title": "031_摩西遗训",
+    "source_title": "TESTAMENT OF MOSES",
+    "scope": "included",
+    "units": 13,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "testament-of-solomon",
+    "title": "032_所罗门遗训",
+    "source_title": "TESTAMENT OF SOLOMON",
+    "scope": "included",
+    "units": 29,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "psalms-of-solomon",
+    "title": "033_所罗门诗篇",
+    "source_title": "PSALMS OF SOLOMON",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "lives-of-the-prophets",
+    "title": "034_先知生平",
+    "source_title": "LIVES OF THE PROPHETS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "words-of-gad-the-seer",
+    "title": "035_先见迦得的话",
+    "source_title": "WORDS OF GAD THE SEER",
+    "scope": "included",
+    "units": 15,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ascension-of-isaiah",
+    "title": "036_以赛亚升天记",
+    "source_title": "ASCENSION OF ISAIAH",
+    "scope": "included",
+    "units": 12,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-baruch",
+    "title": "037_巴录二书",
+    "source_title": "2 BARUCH",
+    "scope": "included",
+    "units": 89,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "3-baruch",
+    "title": "038_巴录三书",
+    "source_title": "3 BARUCH",
+    "scope": "included",
+    "units": 18,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "4-baruch",
+    "title": "039_巴录四书",
+    "source_title": "4 BARUCH",
+    "scope": "included",
+    "units": 10,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apocryphon-of-jannes-and-jambres",
+    "title": "040_雅尼与佯庇秘传",
+    "source_title": "APOCRYPHON OF JANNES AND JAMBRES",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apocryphon-of-ezekiel",
+    "title": "041_以西结藏书",
+    "source_title": "APOCRYPHON OF EZEKIEL",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "epistle-of-aristeas",
+    "title": "042_阿立斯蒂亚书信",
+    "source_title": "EPISTLE OF ARISTEAS",
+    "scope": "included",
+    "units": 33,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "didache",
+    "title": "043_十二使徒遗训",
+    "source_title": "DIDACHE",
+    "scope": "included",
+    "units": 17,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "epistles-of-king-abgar-and-jesus",
+    "title": "044_亚伯加王与耶稣书信",
+    "source_title": "EPISTLES OF KING ABGAR AND JESUS",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "epistle-of-the-apostles",
+    "title": "045_使徒书信",
+    "source_title": "EPISTLE OF THE APOSTLES",
+    "scope": "included",
+    "units": 52,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apostolic-church-order",
+    "title": "046_使徒教会规章",
+    "source_title": "APOSTOLIC CHURCH ORDER",
+    "scope": "included",
+    "units": 15,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "epistle-of-barnabas",
+    "title": "047_巴拿巴书信",
+    "source_title": "EPISTLE OF BARNABAS",
+    "scope": "included",
+    "units": 22,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "epistle-to-the-laodiceans",
+    "title": "048_致老底嘉人书",
+    "source_title": "EPISTLE TO THE LAODICEANS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "correspondence-of-paul-and-seneca",
+    "title": "049_保罗与塞涅卡通信",
+    "source_title": "CORRESPONDENCE OF PAUL AND SENECA",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "traditions-of-matthias",
+    "title": "050_马提亚传述",
+    "source_title": "TRADITIONS OF MATTHIAS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "epistle-of-lentulus",
+    "title": "051_伦图鲁书信",
+    "source_title": "EPISTLE OF LENTULUS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-clement",
+    "title": "1 CLEMENT",
+    "source_title": "1 CLEMENT",
+    "scope": "deferred_history_patristics",
+    "units": 66,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "2-clement",
+    "title": "2 CLEMENT",
+    "source_title": "2 CLEMENT",
+    "scope": "deferred_history_patristics",
+    "units": 21,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "seven-epistles-of-ignatius",
+    "title": "SEVEN EPISTLES OF IGNATIUS",
+    "source_title": "SEVEN EPISTLES OF IGNATIUS",
+    "scope": "deferred_history_patristics",
+    "units": 99,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "epistle-of-polycarp-to-the-philippians",
+    "title": "EPISTLE OF POLYCARP TO THE PHILIPPIANS",
+    "source_title": "EPISTLE OF POLYCARP TO THE PHILIPPIANS",
+    "scope": "deferred_history_patristics",
+    "units": 16,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "martyrdom-of-polycarp",
+    "title": "MARTYRDOM OF POLYCARP",
+    "source_title": "MARTYRDOM OF POLYCARP",
+    "scope": "deferred_history_patristics",
+    "units": 23,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "epistle-of-mathetes-to-diognetus",
+    "title": "EPISTLE OF MATHETES TO DIOGNETUS",
+    "source_title": "EPISTLE OF MATHETES TO DIOGNETUS",
+    "scope": "deferred_history_patristics",
+    "units": 13,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-shepherd-of-hermas",
+    "title": "052_黑马牧人书",
+    "source_title": "THE SHEPHERD OF HERMAS",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "odes-of-peace",
+    "title": "053_和平颂歌",
+    "source_title": "ODES OF PEACE",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "exposition-of-the-oracles-of-the-lord",
+    "title": "EXPOSITION OF THE ORACLES OF THE LORD",
+    "source_title": "EXPOSITION OF THE ORACLES OF THE LORD",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apology-of-aristides",
+    "title": "APOLOGY OF ARISTIDES",
+    "source_title": "APOLOGY OF ARISTIDES",
+    "scope": "deferred_history_patristics",
+    "units": 18,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apology-for-christianity",
+    "title": "APOLOGY FOR CHRISTIANITY",
+    "source_title": "APOLOGY FOR CHRISTIANITY",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "infancy-gospel-of-james",
+    "title": "054_雅各婴孩福音",
+    "source_title": "INFANCY GOSPEL OF JAMES",
+    "scope": "included",
+    "units": 25,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "infancy-gospel-of-thomas",
+    "title": "055_多马童年福音",
+    "source_title": "INFANCY GOSPEL OF THOMAS",
+    "scope": "included",
+    "units": 20,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "arabic-infancy-gospel",
+    "title": "056_阿拉伯婴孩福音",
+    "source_title": "ARABIC INFANCY GOSPEL",
+    "scope": "included",
+    "units": 57,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "gospel-of-the-nativity-of-mary",
+    "title": "057_马利亚诞生福音",
+    "source_title": "GOSPEL OF THE NATIVITY OF MARY",
+    "scope": "included",
+    "units": 11,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "history-of-joseph-the-carpenter",
+    "title": "058_木匠约瑟的历史",
+    "source_title": "HISTORY OF JOSEPH THE CARPENTER",
+    "scope": "included",
+    "units": 34,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "life-of-john-the-baptist",
+    "title": "059_施洗约翰生平",
+    "source_title": "LIFE OF JOHN THE BAPTIST",
+    "scope": "included",
+    "units": 17,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "gospel-of-peter",
+    "title": "060_彼得福音",
+    "source_title": "GOSPEL OF PETER",
+    "scope": "included",
+    "units": 15,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "gospel-of-thomas",
+    "title": "061_多马福音",
+    "source_title": "GOSPEL OF THOMAS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "gospel-of-the-twelve-holy-apostles",
+    "title": "062_十二圣使徒福音",
+    "source_title": "GOSPEL OF THE TWELVE HOLY APOSTLES",
+    "scope": "included",
+    "units": 9,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "fragmentary-gospels",
+    "title": "063_福音残篇",
+    "source_title": "FRAGMENTARY GOSPELS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-pilate",
+    "title": "064_彼拉多行传",
+    "source_title": "ACTS OF PILATE",
+    "scope": "included",
+    "units": 31,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "narrative-of-joseph-of-arimathea",
+    "title": "065_亚利马太约瑟的记述",
+    "source_title": "NARRATIVE OF JOSEPH OF ARIMATHEA",
+    "scope": "included",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "correspondence-of-pilate",
+    "title": "066_彼拉多书信集",
+    "source_title": "CORRESPONDENCE OF PILATE",
+    "scope": "included",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "paradosis-pilati",
+    "title": "067_彼拉多被押解记",
+    "source_title": "PARADOSIS PILATI",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "vindicta-salvatoris",
+    "title": "068_救主的伸冤",
+    "source_title": "VINDICTA SALVATORIS",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "mors-pilati",
+    "title": "069_彼拉多之死",
+    "source_title": "MORS PILATI",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-paul",
+    "title": "070_保罗行传",
+    "source_title": "ACTS OF PAUL",
+    "scope": "included",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-peter",
+    "title": "071_彼得行传",
+    "source_title": "ACTS OF PETER",
+    "scope": "included",
+    "units": 42,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-john",
+    "title": "072_约翰行传",
+    "source_title": "ACTS OF JOHN",
+    "scope": "included",
+    "units": 97,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-andrew",
+    "title": "073_安得烈行传",
+    "source_title": "ACTS OF ANDREW",
+    "scope": "included",
+    "units": 19,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-thomas",
+    "title": "074_多马行传",
+    "source_title": "ACTS OF THOMAS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-peter-and-the-twelve-apostles",
+    "title": "075_彼得与十二使徒行传",
+    "source_title": "ACTS OF PETER AND THE TWELVE APOSTLES",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-peter-and-paul",
+    "title": "076_彼得与保罗行传",
+    "source_title": "ACTS OF PETER AND PAUL",
+    "scope": "included",
+    "units": 12,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-andrew-and-matthias",
+    "title": "077_安得烈与马提亚行传",
+    "source_title": "ACTS OF ANDREW AND MATTHIAS",
+    "scope": "included",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-peter-and-andrew",
+    "title": "078_彼得与安得烈行传",
+    "source_title": "ACTS OF PETER AND ANDREW",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-barnabas",
+    "title": "079_巴拿巴行传",
+    "source_title": "ACTS OF BARNABAS",
+    "scope": "included",
+    "units": 8,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-xanthippe-polyxena-and-rebecca",
+    "title": "080_薛菲庇、波吕克塞娜与利百加行传",
+    "source_title": "ACTS OF XANTHIPPE, POLYXENA, AND REBECCA",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "acts-of-perpetua-and-felicitas",
+    "title": "ACTS OF PERPETUA AND FELICITAS",
+    "source_title": "ACTS OF PERPETUA AND FELICITAS",
+    "scope": "deferred_history_patristics",
+    "units": 8,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "revelation-of-abraham",
+    "title": "081_亚伯拉罕启示录",
+    "source_title": "REVELATION OF ABRAHAM",
+    "scope": "included",
+    "units": 33,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "revelation-of-elijah",
+    "title": "082_以利亚启示录",
+    "source_title": "REVELATION OF ELIJAH",
+    "scope": "included",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "revelation-of-zephaniah",
+    "title": "083_西番雅启示录",
+    "source_title": "REVELATION OF ZEPHANIAH",
+    "scope": "included",
+    "units": 14,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "revelation-of-peter",
+    "title": "084_彼得启示录",
+    "source_title": "REVELATION OF PETER",
+    "scope": "included",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "revelation-of-thomas",
+    "title": "085_多马启示录",
+    "source_title": "REVELATION OF THOMAS",
+    "scope": "included",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "revelation-of-stephen",
+    "title": "086_司提反启示录",
+    "source_title": "REVELATION OF STEPHEN",
+    "scope": "included",
+    "units": 6,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "revelation-of-the-virgin",
+    "title": "087_童女启示录",
+    "source_title": "REVELATION OF THE VIRGIN",
+    "scope": "included",
+    "units": 31,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-sibylline-oracles",
+    "title": "088_西卜神谕",
+    "source_title": "THE SIBYLLINE ORACLES",
+    "scope": "included",
+    "units": 15,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "first-apology",
+    "title": "FIRST APOLOGY",
+    "source_title": "FIRST APOLOGY",
+    "scope": "deferred_history_patristics",
+    "units": 69,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "second-apology",
+    "title": "SECOND APOLOGY",
+    "source_title": "SECOND APOLOGY",
+    "scope": "deferred_history_patristics",
+    "units": 16,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apology-to-marcus-aurelius",
+    "title": "APOLOGY TO MARCUS AURELIUS",
+    "source_title": "APOLOGY TO MARCUS AURELIUS",
+    "scope": "deferred_history_patristics",
+    "units": 20,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "discourses-of-melito",
+    "title": "DISCOURSES OF MELITO",
+    "source_title": "DISCOURSES OF MELITO",
+    "scope": "deferred_history_patristics",
+    "units": 12,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "a-plea-for-the-christians",
+    "title": "A PLEA FOR THE CHRISTIANS",
+    "source_title": "A PLEA FOR THE CHRISTIANS",
+    "scope": "deferred_history_patristics",
+    "units": 38,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "apology-to-autolycus",
+    "title": "APOLOGY TO AUTOLYCUS",
+    "source_title": "APOLOGY TO AUTOLYCUS",
+    "scope": "deferred_history_patristics",
+    "units": 86,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "discourse-concerning-hades",
+    "title": "DISCOURSE CONCERNING HADES",
+    "source_title": "DISCOURSE CONCERNING HADES",
+    "scope": "deferred_history_patristics",
+    "units": 9,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-muratorian-canon",
+    "title": "THE MURATORIAN CANON",
+    "source_title": "THE MURATORIAN CANON",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "gelasian-decree",
+    "title": "GELASIAN DECREE",
+    "source_title": "GELASIAN DECREE",
+    "scope": "deferred_history_patristics",
+    "units": 7,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-earliest-creeds",
+    "title": "THE EARLIEST CREEDS",
+    "source_title": "THE EARLIEST CREEDS",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "key-extrabiblical-references",
+    "title": "KEY EXTRABIBLICAL REFERENCES",
+    "source_title": "KEY EXTRABIBLICAL REFERENCES",
+    "scope": "deferred_history_patristics",
+    "units": 22,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-antiquities-of-the-jews",
+    "title": "THE ANTIQUITIES OF THE JEWS",
+    "source_title": "THE ANTIQUITIES OF THE JEWS",
+    "scope": "deferred_history_patristics",
+    "units": 278,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "against-apion",
+    "title": "AGAINST APION",
+    "source_title": "AGAINST APION",
+    "scope": "deferred_history_patristics",
+    "units": 3,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-chronicon-universal-history",
+    "title": "THE CHRONICON (UNIVERSAL HISTORY)",
+    "source_title": "THE CHRONICON (UNIVERSAL HISTORY)",
+    "scope": "deferred_history_patristics",
+    "units": 115,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-ecclesiastical-history",
+    "title": "THE ECCLESIASTICAL HISTORY",
+    "source_title": "THE ECCLESIASTICAL HISTORY",
+    "scope": "deferred_history_patristics",
+    "units": 276,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "jasher",
+    "title": "089_雅煞珥书",
+    "source_title": "JASHER",
+    "scope": "included",
+    "units": 92,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "alexander-of-cappadocia-3rd-century",
+    "title": "ALEXANDER OF CAPPADOCIA (3RD CENTURY)",
+    "source_title": "ALEXANDER OF CAPPADOCIA (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ambrose-of-milan-4th-century",
+    "title": "AMBROSE OF MILAN (4TH CENTURY)",
+    "source_title": "AMBROSE OF MILAN (4TH CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 3,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "anterus-3rd-century",
+    "title": "ANTERUS (3RD CENTURY)",
+    "source_title": "ANTERUS (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "athanasius-4th-century",
+    "title": "ATHANASIUS (4TH CENTURY)",
+    "source_title": "ATHANASIUS (4TH CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 12,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "augustine-of-hippo-4th-to-5th-centuries",
+    "title": "AUGUSTINE OF HIPPO (4TH TO 5TH CENTURIES)",
+    "source_title": "AUGUSTINE OF HIPPO (4TH TO 5TH CENTURIES)",
+    "scope": "deferred_history_patristics",
+    "units": 180,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "basil-of-caesarea-4th-century",
+    "title": "BASIL OF CAESAREA (4TH CENTURY)",
+    "source_title": "BASIL OF CAESAREA (4TH CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 7,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "callistus-3rd-century",
+    "title": "CALLISTUS (3RD CENTURY)",
+    "source_title": "CALLISTUS (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 10,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "cyprian-3rd-century",
+    "title": "CYPRIAN (3RD CENTURY)",
+    "source_title": "CYPRIAN (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "dionysius-of-alexandria-3rd-century",
+    "title": "DIONYSIUS OF ALEXANDRIA (3RD CENTURY)",
+    "source_title": "DIONYSIUS OF ALEXANDRIA (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "dionysius-of-corinth-2nd-century",
+    "title": "DIONYSIUS OF CORINTH (2ND CENTURY)",
+    "source_title": "DIONYSIUS OF CORINTH (2ND CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "eusebius-3rd-to-4th-centuries",
+    "title": "EUSEBIUS (3RD TO 4TH CENTURIES)",
+    "source_title": "EUSEBIUS (3RD TO 4TH CENTURIES)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "fabian-3rd-century",
+    "title": "FABIAN (3RD CENTURY)",
+    "source_title": "FABIAN (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 13,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "gregory-thaumaturgus-3rd-century",
+    "title": "GREGORY THAUMATURGUS (3RD CENTURY)",
+    "source_title": "GREGORY THAUMATURGUS (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "jerome-4th-to-5th-centuries",
+    "title": "JEROME (4TH TO 5TH CENTURIES)",
+    "source_title": "JEROME (4TH TO 5TH CENTURIES)",
+    "scope": "deferred_history_patristics",
+    "units": 10,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "john-chrysostom-4th-to-5th-centuries",
+    "title": "JOHN CHRYSOSTOM (4TH TO 5TH CENTURIES)",
+    "source_title": "JOHN CHRYSOSTOM (4TH TO 5TH CENTURIES)",
+    "scope": "deferred_history_patristics",
+    "units": 3,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "julius-africanus-3rd-century",
+    "title": "JULIUS AFRICANUS (3RD CENTURY)",
+    "source_title": "JULIUS AFRICANUS (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 8,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "malchion-3rd-century",
+    "title": "MALCHION (3RD CENTURY)",
+    "source_title": "MALCHION (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "origen-3rd-century",
+    "title": "ORIGEN (3RD CENTURY)",
+    "source_title": "ORIGEN (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "peter-of-alexandria-4th-century",
+    "title": "PETER OF ALEXANDRIA (4TH CENTURY)",
+    "source_title": "PETER OF ALEXANDRIA (4TH CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "phileas-4th-century",
+    "title": "PHILEAS (4TH CENTURY)",
+    "source_title": "PHILEAS (4TH CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 5,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "polycrates-of-ephesus-2nd-century",
+    "title": "POLYCRATES OF EPHESUS (2ND CENTURY)",
+    "source_title": "POLYCRATES OF EPHESUS (2ND CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "pontianus-3rd-century",
+    "title": "PONTIANUS (3RD CENTURY)",
+    "source_title": "PONTIANUS (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "pseudo-clement-3rd-century",
+    "title": "PSEUDO-CLEMENT (3RD CENTURY)",
+    "source_title": "PSEUDO-CLEMENT (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 31,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "pseudo-ignatius-4th-century",
+    "title": "PSEUDO-IGNATIUS (4TH CENTURY)",
+    "source_title": "PSEUDO-IGNATIUS (4TH CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 60,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "serapion-of-antioch-2nd-to-3rd-centuries",
+    "title": "SERAPION OF ANTIOCH (2ND TO 3RD CENTURIES)",
+    "source_title": "SERAPION OF ANTIOCH (2ND TO 3RD CENTURIES)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "theonas-of-alexandria-3rd-century",
+    "title": "THEONAS OF ALEXANDRIA (3RD CENTURY)",
+    "source_title": "THEONAS OF ALEXANDRIA (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 11,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "theophilus-of-caesarea-2nd-century",
+    "title": "THEOPHILUS OF CAESAREA (2ND CENTURY)",
+    "source_title": "THEOPHILUS OF CAESAREA (2ND CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "urban-i-3rd-century",
+    "title": "URBAN I (3RD CENTURY)",
+    "source_title": "URBAN I (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 9,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "zephyrinus-3rd-century",
+    "title": "ZEPHYRINUS (3RD CENTURY)",
+    "source_title": "ZEPHYRINUS (3RD CENTURY)",
+    "scope": "deferred_history_patristics",
+    "units": 4,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "about-the-bible",
+    "title": "ABOUT THE BIBLE",
+    "source_title": "ABOUT THE BIBLE",
+    "scope": "excluded_editorial",
+    "units": 15,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "genesis-chronologies",
+    "title": "GENESIS CHRONOLOGIES",
+    "source_title": "GENESIS CHRONOLOGIES",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "table-of-nations",
+    "title": "TABLE OF NATIONS",
+    "source_title": "TABLE OF NATIONS",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "timeline-of-history",
+    "title": "TIMELINE OF HISTORY",
+    "source_title": "TIMELINE OF HISTORY",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "ages-and-dispensations",
+    "title": "AGES AND DISPENSATIONS",
+    "source_title": "AGES AND DISPENSATIONS",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "map-of-israel",
+    "title": "MAP OF ISRAEL",
+    "source_title": "MAP OF ISRAEL",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "jerusalem-in-the-1st-century",
+    "title": "JERUSALEM IN THE 1ST CENTURY",
+    "source_title": "JERUSALEM IN THE 1ST CENTURY",
+    "scope": "excluded_editorial",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "glossary",
+    "title": "GLOSSARY",
+    "source_title": "GLOSSARY",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "the-faith-once-delivered",
+    "title": "THE FAITH ONCE DELIVERED",
+    "source_title": "THE FAITH ONCE DELIVERED",
+    "scope": "excluded_editorial",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "covenant-of-the-ccc",
+    "title": "COVENANT OF THE CCC",
+    "source_title": "COVENANT OF THE CCC",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "convictions-of-the-ccc",
+    "title": "CONVICTIONS OF THE CCC",
+    "source_title": "CONVICTIONS OF THE CCC",
+    "scope": "excluded_editorial",
+    "units": 1,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "positions-of-the-ccc",
+    "title": "POSITIONS OF THE CCC",
+    "source_title": "POSITIONS OF THE CCC",
+    "scope": "excluded_editorial",
+    "units": 2,
+    "manifest": "bible/translation/manifest.json"
+  },
+  {
+    "id": "1-clement",
+    "title": "001_革利免一书",
+    "source_title": "1 CLEMENT",
+    "scope": "included",
+    "units": 66,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "2-clement",
+    "title": "002_革利免二书",
+    "source_title": "2 CLEMENT",
+    "scope": "included",
+    "units": 21,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "seven-epistles-of-ignatius",
+    "title": "003_伊格那丢七书信",
+    "source_title": "SEVEN EPISTLES OF IGNATIUS",
+    "scope": "included",
+    "units": 99,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "epistle-of-polycarp-to-the-philippians",
+    "title": "004_坡旅甲致腓立比人书",
+    "source_title": "EPISTLE OF POLYCARP TO THE PHILIPPIANS",
+    "scope": "included",
+    "units": 16,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "martyrdom-of-polycarp",
+    "title": "005_坡旅甲殉道记",
+    "source_title": "MARTYRDOM OF POLYCARP",
+    "scope": "included",
+    "units": 23,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "epistle-of-mathetes-to-diognetus",
+    "title": "006_门徒致丢格那妥书",
+    "source_title": "EPISTLE OF MATHETES TO DIOGNETUS",
+    "scope": "included",
+    "units": 13,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "exposition-of-the-oracles-of-the-lord",
+    "title": "007_主言解说",
+    "source_title": "EXPOSITION OF THE ORACLES OF THE LORD",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "apology-of-aristides",
+    "title": "008_亚里斯提德护教辞",
+    "source_title": "APOLOGY OF ARISTIDES",
+    "scope": "included",
+    "units": 18,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "apology-for-christianity",
+    "title": "009_为基督教辩护",
+    "source_title": "APOLOGY FOR CHRISTIANITY",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "acts-of-perpetua-and-felicitas",
+    "title": "010_佩尔佩图阿与费利西塔斯殉道记",
+    "source_title": "ACTS OF PERPETUA AND FELICITAS",
+    "scope": "included",
+    "units": 8,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "first-apology",
+    "title": "011_第一护教辞",
+    "source_title": "FIRST APOLOGY",
+    "scope": "included",
+    "units": 69,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "second-apology",
+    "title": "012_第二护教辞",
+    "source_title": "SECOND APOLOGY",
+    "scope": "included",
+    "units": 16,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "apology-to-marcus-aurelius",
+    "title": "013_致马可·奥勒留护教辞",
+    "source_title": "APOLOGY TO MARCUS AURELIUS",
+    "scope": "included",
+    "units": 20,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "discourses-of-melito",
+    "title": "014_梅利托论说集",
+    "source_title": "DISCOURSES OF MELITO",
+    "scope": "included",
+    "units": 12,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "a-plea-for-the-christians",
+    "title": "015_为基督徒申辩",
+    "source_title": "A PLEA FOR THE CHRISTIANS",
+    "scope": "included",
+    "units": 38,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "apology-to-autolycus",
+    "title": "016_致奥托吕库斯护教辞",
+    "source_title": "APOLOGY TO AUTOLYCUS",
+    "scope": "included",
+    "units": 86,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "discourse-concerning-hades",
+    "title": "017_论阴间",
+    "source_title": "DISCOURSE CONCERNING HADES",
+    "scope": "included",
+    "units": 9,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "the-muratorian-canon",
+    "title": "018_穆拉多利正典",
+    "source_title": "THE MURATORIAN CANON",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "gelasian-decree",
+    "title": "019_革拉修敕令",
+    "source_title": "GELASIAN DECREE",
+    "scope": "included",
+    "units": 7,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "the-earliest-creeds",
+    "title": "020_最早期的信经",
+    "source_title": "THE EARLIEST CREEDS",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "key-extrabiblical-references",
+    "title": "021_重要圣经外文献",
+    "source_title": "KEY EXTRABIBLICAL REFERENCES",
+    "scope": "included",
+    "units": 22,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "the-antiquities-of-the-jews",
+    "title": "022_犹太古史",
+    "source_title": "THE ANTIQUITIES OF THE JEWS",
+    "scope": "included",
+    "units": 278,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "against-apion",
+    "title": "023_驳阿庇安",
+    "source_title": "AGAINST APION",
+    "scope": "included",
+    "units": 3,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "the-chronicon-universal-history",
+    "title": "024_编年史（世界通史）",
+    "source_title": "THE CHRONICON (UNIVERSAL HISTORY)",
+    "scope": "included",
+    "units": 115,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "the-ecclesiastical-history",
+    "title": "025_教会史",
+    "source_title": "THE ECCLESIASTICAL HISTORY",
+    "scope": "included",
+    "units": 276,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "alexander-of-cappadocia-3rd-century",
+    "title": "026_加帕多家的亚历山大［第三世纪］",
+    "source_title": "ALEXANDER OF CAPPADOCIA (3RD CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "ambrose-of-milan-4th-century",
+    "title": "027_米兰的安布罗斯（第四世纪）",
+    "source_title": "AMBROSE OF MILAN (4TH CENTURY)",
+    "scope": "included",
+    "units": 3,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "anterus-3rd-century",
+    "title": "028_安特鲁斯（第三世纪）",
+    "source_title": "ANTERUS (3RD CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "athanasius-4th-century",
+    "title": "029_亚他那修（第四世纪）",
+    "source_title": "ATHANASIUS (4TH CENTURY)",
+    "scope": "included",
+    "units": 12,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "augustine-of-hippo-4th-to-5th-centuries",
+    "title": "030_希波的奥古斯丁（第四至第五世纪）",
+    "source_title": "AUGUSTINE OF HIPPO (4TH TO 5TH CENTURIES)",
+    "scope": "included",
+    "units": 180,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "basil-of-caesarea-4th-century",
+    "title": "031_凯撒利亚的巴西流（第四世纪）",
+    "source_title": "BASIL OF CAESAREA (4TH CENTURY)",
+    "scope": "included",
+    "units": 7,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "callistus-3rd-century",
+    "title": "032_卡利斯图斯（三世纪）",
+    "source_title": "CALLISTUS (3RD CENTURY)",
+    "scope": "included",
+    "units": 10,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "cyprian-3rd-century",
+    "title": "033_居普良（第三世纪）",
+    "source_title": "CYPRIAN (3RD CENTURY)",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "dionysius-of-alexandria-3rd-century",
+    "title": "034_亚历山大的狄奥尼修斯（第三世纪）",
+    "source_title": "DIONYSIUS OF ALEXANDRIA (3RD CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "dionysius-of-corinth-2nd-century",
+    "title": "035_哥林多的狄奥尼修斯（第二世纪）",
+    "source_title": "DIONYSIUS OF CORINTH (2ND CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "eusebius-3rd-to-4th-centuries",
+    "title": "036_优西比乌（第三至第四世纪）",
+    "source_title": "EUSEBIUS (3RD TO 4TH CENTURIES)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "fabian-3rd-century",
+    "title": "037_法比亚努斯（第三世纪）",
+    "source_title": "FABIAN (3RD CENTURY)",
+    "scope": "included",
+    "units": 13,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "gregory-thaumaturgus-3rd-century",
+    "title": "038_行奇事者格列高利（第三世纪）",
+    "source_title": "GREGORY THAUMATURGUS (3RD CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "jerome-4th-to-5th-centuries",
+    "title": "039_耶柔米（第四至第五世纪）",
+    "source_title": "JEROME (4TH TO 5TH CENTURIES)",
+    "scope": "included",
+    "units": 10,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "john-chrysostom-4th-to-5th-centuries",
+    "title": "040_金口约翰（第四至第五世纪）",
+    "source_title": "JOHN CHRYSOSTOM (4TH TO 5TH CENTURIES)",
+    "scope": "included",
+    "units": 3,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "julius-africanus-3rd-century",
+    "title": "041_尤利乌斯·阿非利加努斯（第三世纪）",
+    "source_title": "JULIUS AFRICANUS (3RD CENTURY)",
+    "scope": "included",
+    "units": 8,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "malchion-3rd-century",
+    "title": "042_马尔基翁（第三世纪）",
+    "source_title": "MALCHION (3RD CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "origen-3rd-century",
+    "title": "043_俄利根（第三世纪）",
+    "source_title": "ORIGEN (3RD CENTURY)",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "peter-of-alexandria-4th-century",
+    "title": "044_亚历山大的彼得（第四世纪）",
+    "source_title": "PETER OF ALEXANDRIA (4TH CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "phileas-4th-century",
+    "title": "045_菲勒阿斯（第四世纪）",
+    "source_title": "PHILEAS (4TH CENTURY)",
+    "scope": "included",
+    "units": 5,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "polycrates-of-ephesus-2nd-century",
+    "title": "046_以弗所的波利克拉底（第二世纪）",
+    "source_title": "POLYCRATES OF EPHESUS (2ND CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "pontianus-3rd-century",
+    "title": "047_蓬提阿努斯（第三世纪）",
+    "source_title": "PONTIANUS (3RD CENTURY)",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "pseudo-clement-3rd-century",
+    "title": "048_伪革利免（三世纪）",
+    "source_title": "PSEUDO-CLEMENT (3RD CENTURY)",
+    "scope": "included",
+    "units": 31,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "pseudo-ignatius-4th-century",
+    "title": "049_伪伊格那丢（第四世纪）",
+    "source_title": "PSEUDO-IGNATIUS (4TH CENTURY)",
+    "scope": "included",
+    "units": 60,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "serapion-of-antioch-2nd-to-3rd-centuries",
+    "title": "050_安提阿的塞拉皮翁（第二至第三世纪）",
+    "source_title": "SERAPION OF ANTIOCH (2ND TO 3RD CENTURIES)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "theonas-of-alexandria-3rd-century",
+    "title": "051_亚历山大的提奥纳斯（第三世纪）",
+    "source_title": "THEONAS OF ALEXANDRIA (3RD CENTURY)",
+    "scope": "included",
+    "units": 11,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "theophilus-of-caesarea-2nd-century",
+    "title": "052_凯撒利亚的提阿非罗（第二世纪）",
+    "source_title": "THEOPHILUS OF CAESAREA (2ND CENTURY)",
+    "scope": "included",
+    "units": 2,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "urban-i-3rd-century",
+    "title": "053_乌尔巴努斯一世（三世纪）",
+    "source_title": "URBAN I (3RD CENTURY)",
+    "scope": "included",
+    "units": 9,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  },
+  {
+    "id": "zephyrinus-3rd-century",
+    "title": "054_泽菲里努斯（第三世纪）",
+    "source_title": "ZEPHYRINUS (3RD CENTURY)",
+    "scope": "included",
+    "units": 4,
+    "manifest": "bible/translation/history-patristics/manifest.json"
+  }
+]

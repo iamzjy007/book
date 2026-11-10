@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "updated_date_beijing": "2026-11-10",
+  "tasks": [
+    {
+      "id": "phase1-syriac",
+      "title": "叙利亚／阿拉伯／波斯",
+      "assigned_worker": "dydi_a",
+      "status": "completed_first_pass",
+      "cursor": "workers/dydi_a.json 中实际范围及next字段",
+      "next": "本轮初筛完成；不代表该传统或资源已穷尽。转后续pending系统扫描。",
+      "completed_date_beijing": "2026-11-10"
+    },
+    {
+      "id": "phase1-apocrypha",
+      "title": "耶稣／使徒／福音残篇",
+      "assigned_worker": "dydi_b",
+      "status": "completed_first_pass",
+      "cursor": "workers/dydi_b.json 中实际范围及next字段",
+      "next": "本轮初筛完成；不代表该传统或资源已穷尽。转后续pending系统扫描。",
+      "completed_date_beijing": "2026-11-10"
+    },
+    {
+      "id": "phase1-oriental",
+      "title": "沙漠／科普特／埃塞俄比亚／亚美尼亚",
+      "assigned_worker": "dydi_c",
+      "status": "completed_first_pass",
+      "cursor": "workers/dydi_c.json 中实际范围及next字段",
+      "next": "本轮初筛完成；不代表该传统或资源已穷尽。转后续pending系统扫描。",
+      "completed_date_beijing": "2026-11-10"
+    },
+    {
+      "id": "phase1-byzantine",
+      "title": "希腊／拜占庭灵修",
+      "assigned_worker": "dydi_d",
+      "status": "completed_first_pass",
+      "cursor": "workers/dydi_d.json 中实际范围及next字段",
+      "next": "本轮初筛完成；不代表该传统或资源已穷尽。转后续pending系统扫描。",
+      "completed_date_beijing": "2026-11-10"
+    },
+    {
+      "id": "phase1-latin",
+      "title": "拉丁西方灵修",
+      "assigned_worker": "lori_a",
+      "status": "completed_first_pass",
+      "cursor": "workers/lori_a.json 中实际范围及next字段",
+      "next": "本轮初筛完成；不代表该传统或资源已穷尽。转后续pending系统扫描。",
+      "completed_date_beijing": "2026-11-10"
+    },
+    {
+      "id": "phase1-liturgy",
+      "title": "礼仪／教规／殉道及资源地图",
+      "assigned_worker": "lori_b",
+      "status": "completed_first_pass",
+      "cursor": "workers/lori_b.json 中实际范围及next字段",
+      "next": "本轮初筛完成；不代表该传统或资源已穷尽。转后续pending系统扫描。",
+      "completed_date_beijing": "2026-11-10"
+    },
+    {
+      "id": "eclavis-systematic",
+      "title": "NASSCAL e-Clavis逐字母／文类扫描",
+      "status": "pending",
+      "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "cursor": null,
+      "next": "首轮重点条目已查，其余从索引按次序建立作品级排除／候选记录",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "syriac-systematic",
+      "title": "syri.ac／GEDSH／Syriaca作品级索引扫描",
+      "status": "pending",
+      "entry_url": "https://syri.ac/",
+      "cursor": null,
+      "next": "从作者与作品索引起，不能把网站首页算整站扫描",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "csco-po",
+      "title": "CSCO／Patrologia Orientalis系列逐卷扫描",
+      "status": "pending",
+      "entry_url": "https://www.peeters-leuven.be/",
+      "cursor": null,
+      "next": "从系列目录建立卷号游标；尚未逐卷扫描",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "sources-chretiennes",
+      "title": "Sources Chrétiennes系列目录",
+      "status": "pending",
+      "entry_url": "https://sourceschretiennes.org/",
+      "cursor": null,
+      "next": "按卷号扫描已出版作品，核是否中文已有",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "latin-series",
+      "title": "ACW／Fathers of the Church／Cistercian Studies目录",
+      "status": "pending",
+      "entry_url": "https://litpress.org/",
+      "cursor": null,
+      "next": "按三个系列分别记卷号和作者，不混作同一系列",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "manuscript-east",
+      "title": "HMML／梵蒂冈／西奈等东方手稿目录",
+      "status": "pending",
+      "entry_url": "https://www.vhmml.org/readingRoom/",
+      "cursor": null,
+      "next": "从已确认作品回查馆藏号；不先承诺每页可开放读取",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "chinese-systematic",
+      "title": "中文出版、馆藏及网络译本系统复查",
+      "status": "pending",
+      "entry_url": "https://www.nlc.cn/",
+      "cursor": null,
+      "next": "逐作品题名／作者异译名；大陆、港台、网络分列",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "armenian-georgian",
+      "title": "亚美尼亚／格鲁吉亚专门目录扩展",
+      "status": "pending",
+      "entry_url": "https://www.hmml.org/",
+      "cursor": null,
+      "next": "补专门工具与原文机构目录；本轮只有重点线索",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "ethiopic-systematic",
+      "title": "吉兹文书目与Sinodos／Didascalia文本家族",
+      "status": "pending",
+      "entry_url": "https://www.ethiopianorthodox.org/",
+      "cursor": null,
+      "next": "核内容与书名映射，不因81卷名单直接计为已定位全文",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "slavonic-russian",
+      "title": "斯拉夫／俄语东方灵修文献",
+      "status": "pending",
+      "entry_url": "https://azbyka.ru/",
+      "cursor": null,
+      "next": "尚未系统扫描；需先评估站点版源及作者原作映射",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "nag-hammadi",
+      "title": "纳戈玛第／柏林／布鲁斯／阿斯丘抄本家族",
+      "status": "pending",
+      "entry_url": "https://www.pulaval.com/",
+      "cursor": null,
+      "next": "第一批5项后按BCNH卷号续查，中文文集目录逐项映射",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    },
+    {
+      "id": "mainland-reception",
+      "title": "大陆熟知程度与实际可得性专题",
+      "status": "pending",
+      "entry_url": "https://search.worldcat.org/",
+      "cursor": null,
+      "next": "馆藏与出版不能证明普及程度；需读者／课程／教会使用证据，不凭印象",
+      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+    }
+  ],
+  "next_task": "eclavis-systematic"
+}

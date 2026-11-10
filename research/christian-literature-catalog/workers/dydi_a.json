@@ -1,0 +1,748 @@
+{
+  "worker": "dydi_a",
+  "stage": "第一阶段书目研究",
+  "updated": "2026-11-10",
+  "scope": "东方叙利亚、波斯及阿拉伯基督教文献；非穷尽",
+  "counts": {
+    "entries": 15,
+    "ancient_work_or_collection_candidates": 14,
+    "modern_anthology_entry_points": 1
+  },
+  "method": "实际阅读网页书目和简介；未下载全书，未翻译原作。中文标题多为工作译名，不代表已有出版书名。没有声称大陆未出版。",
+  "repo_check": {
+    "manifests": [
+      "bible/translation/manifest.json",
+      "bible/translation/history-patristics/manifest.json"
+    ],
+    "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+    "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+    "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+  },
+  "items": [
+    {
+      "id": "east-aphrahat",
+      "title_zh": "论证集（二十三篇论文）",
+      "original_title": "Demonstrations",
+      "author": "阿弗拉哈特 Aphrahat",
+      "date": "337、344、345年",
+      "language": "叙利亚语",
+      "genre": "论证/释经/修道教导",
+      "synopsis": "讨论信、禁食、祈祷与教会处境，并包含对犹太教的论辩。",
+      "spiritual_or_historical_value": "可补足罗马帝国之外的早期波斯基督教声音。",
+      "attribution_issues": "勿将现代译者Adam Lehto列为原作者；论辩须保留历史语境。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/the-demonstrations-of-aphrahat-the-persian-sage",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.ccaa2009.com/2021/02/blog-post.html",
+          "publisher": "中国基督教理学协会（转载《世代》）",
+          "actually_read": true,
+          "read_scope": "文章开头、作者、刊源与23篇作品说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "有中文研究及引文；完整译本未知",
+        "evidence": "实读中国基督教理学协会2021-02-04转载袁永甲《叙利亚教父阿弗哈特论心在圣祷中的作用》，注明来源《世代》第12期。其称23篇《论文》，属于专题文章，不是23篇全译。",
+        "url": "https://www.ccaa2009.com/2021/02/blog-post.html",
+        "queries": [
+          "阿弗哈特 袁永甲 圣祷",
+          "site.worldcat.org 尼尼微 以撒 阿弗拉哈特"
+        ],
+        "confidence": "对研究文章高；对完整译本未知",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Adam Lehto英译，Gorgias 2010，ISBN9781593337681；原作23篇为一个集子。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-isaac-i",
+      "title_zh": "尼尼微的以撒：修道讲论第一集",
+      "original_title": "Ascetical Homilies / First Part",
+      "author": "尼尼微的以撒 Isaac of Nineveh",
+      "date": "7世纪",
+      "language": "叙利亚语；另有希腊译传",
+      "genre": "灵修讲论集",
+      "synopsis": "讲论独处、谦卑、祈祷与怜悯。",
+      "spiritual_or_historical_value": "高灵修优先候选，须建立各语言章号对应。",
+      "attribution_issues": "不能与安提阿的以撒或仓库《以撒遗训》混同。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://syri.ac/brock/isaac",
+          "publisher": "syri.ac / Sebastian Brock bibliography",
+          "actually_read": true,
+          "read_scope": "第一、第二、第三部分及选译书目；未下载所链全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "中文全译未知",
+        "evidence": "检索“尼尼微 以撒 中文 出版/书 译”，所得人物介绍不能证明完整译本；阿弗哈特专题中文文章亦提及此作者。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Wensinck 1923据叙利亚语；Miller 1984据希腊文。Hansbury《On Ascetical Life》仅1—6篇，不是全卷。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-isaac-ii",
+      "title_zh": "尼尼微的以撒：第二集（含属灵知识纲要）",
+      "original_title": "Second Part; Headings on Spiritual Knowledge",
+      "author": "尼尼微的以撒",
+      "date": "7世纪",
+      "language": "叙利亚语",
+      "genre": "灵修讲论与格言集",
+      "synopsis": "含祈祷教导与四组百则属灵知识纲要。",
+      "spiritual_or_historical_value": "与第一集合看，可避免只凭流行选句理解作者。",
+      "attribution_issues": "四百则纲要属第二集第三章，不另计独立古书。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://syri.ac/brock/isaac",
+          "publisher": "syri.ac / Sebastian Brock bibliography",
+          "actually_read": true,
+          "read_scope": "第一、第二、第三部分及选译书目；未下载所链全书",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.svots.edu/headlines/svs-press-translates-recently-discovered-works-st-isaac-nineveh",
+          "publisher": "St Vladimir’s Orthodox Theological Seminary / SVS Press",
+          "actually_read": true,
+          "read_scope": "2022公告及其1—3章范围、四组百则说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Brock/Peeters 1995为IV—XLI；SVS 2022 Headings收I—III。两者范围互补，不是两套全译。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-isaac-iii",
+      "title_zh": "尼尼微的以撒：第三集",
+      "original_title": "Terza Collezione / Third Collection",
+      "author": "归于尼尼微的以撒",
+      "date": "原作传统7世纪；本集传抄史另核",
+      "language": "叙利亚语；部分阿拉伯见证",
+      "genre": "灵修讲论集",
+      "synopsis": "近代重见的另一组讲论。",
+      "spiritual_or_historical_value": "补充以撒传承的文本范围。",
+      "attribution_issues": "晚抄本不等于晚期原作；单篇归属仍须查看校勘导言。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://www.syri.ac/bibliography/1537586297",
+          "publisher": "syri.ac / Peeters书目",
+          "actually_read": true,
+          "read_scope": "2011书目及底本、部分见证、意译卷说明",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P2",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Sabino Chialà编，Peeters 2011，CSCO637叙文卷，另有意译卷；ISBN9789042925144。不是第一集第三册。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-john-dalyatha",
+      "title_zh": "达利亚的约翰书信集",
+      "original_title": "The Letters of John of Dalyatha",
+      "author": "达利亚的约翰（John Saba，长老约翰）",
+      "date": "8世纪；作者约690—780",
+      "language": "叙利亚语",
+      "genre": "灵修书信集",
+      "synopsis": "以悔改、静默、祈祷和默观描写受洗后的属灵道路。",
+      "spiritual_or_historical_value": "适合深入研究东方教会的默观传统。",
+      "attribution_issues": "勿与独修者约翰、金口约翰混同。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/the-letters-of-john-of-dalyatha",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Mary T. Hansbury英译，Gorgias 2006，TCLA2，ISBN1593333412；是一部书信集，不等于作者全部作品。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-john-solitary",
+      "title_zh": "独修者约翰：论灵魂",
+      "original_title": "John the Solitary on the Soul / Dialogue on the Soul",
+      "author": "独修者约翰 John the Solitary",
+      "date": "通常置于晚古代；具体身份和年代待核",
+      "language": "叙利亚语",
+      "genre": "灵修对话",
+      "synopsis": "以师徒对话讨论内在生命的阶段与情欲。",
+      "spiritual_or_historical_value": "连接灵修、圣经人论和医治比喻。",
+      "attribution_issues": "出版社亦明言身份有争论；其ca.390不能直接当作本书精确成书年。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/john-the-solitary-on-the-soul",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Hansbury 2013，TCLA32，ISBN9781607240440；根据S. Dedering叙文校本的叙英对照。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-joseph-stages",
+      "title_zh": "若瑟·哈扎亚：论修道生活的三个阶段书信",
+      "original_title": "Lettre sur les trois étapes de la vie monastique",
+      "author": "若瑟·哈扎亚 Joseph Ḥazzāyā（先见者若瑟）",
+      "date": "8世纪",
+      "language": "叙利亚语",
+      "genre": "灵修书信",
+      "synopsis": "系统讨论修道生命的阶段。",
+      "spiritual_or_historical_value": "东方教会灵修体系的重要候选。",
+      "attribution_issues": "旧归属及与Philoxenus名下传本关系须读批判导言，不能只看书名。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://ci.nii.ac.jp/ncid/BA26622382",
+          "publisher": "日本国立信息学研究所 CiNii Books",
+          "actually_read": true,
+          "read_scope": "作者、编者、1992出版、叙法语种及PO卷号",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://syri.ac/joseph-%E1%B8%A5azzaya-letter-three-stages",
+          "publisher": "syri.ac",
+          "actually_read": true,
+          "read_scope": "2016在编俄译项目页，明确Published? No",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Harb/Graffin编译、Albert协作，Brepols 1992，PO45.2/no202，叙法对照；2016俄译在编记录不能当已出版。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-sahdona-perfection",
+      "title_zh": "萨赫多纳：成全之书",
+      "original_title": "Book of Perfection",
+      "author": "萨赫多纳 Sahdona / Martyrius",
+      "date": "7世纪上半叶",
+      "language": "叙利亚语",
+      "genre": "修道教导",
+      "synopsis": "讨论东方叙利亚修道生活与成全。",
+      "spiritual_or_historical_value": "可与以撒、约翰对读。",
+      "attribution_issues": "Martyrius是同一作者的拉丁化名字；Bedjan是编者。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/the-works-of-sahdona-martyrius",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Bedjan《The Works of Sahdona》叙文集的主体；Gorgias2010重刊ISBN9781593336776，同时收他人讲论，不能整册等同本书。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-steps",
+      "title_zh": "阶梯之书",
+      "original_title": "Book of Steps / Liber Graduum",
+      "author": "佚名",
+      "date": "约4世纪末—5世纪初，定年有差异",
+      "language": "叙利亚语",
+      "genre": "三十篇灵修讲论集",
+      "synopsis": "论述社区中正直者与成全者的生活。",
+      "spiritual_or_historical_value": "使修道理想与一般信徒的共同生活可以相互考察。",
+      "attribution_issues": "不是克里马克斯的《天梯》；须避免同译名混书。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/the-syriac-book-of-steps-1",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "已见中文百科线索；完整译本未知",
+        "evidence": "搜索片段显示gedsh.ctcfol.org有中文百科条目；实际打开主要返回导航，未完整读到条目正文，故仅列待核线索。不是古书全译的证明。",
+        "url": "https://gedsh.ctcfol.org/entries/Book-of-Steps",
+        "confidence": "线索中；出版未知",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Kitchen/Parmentier相关英译；Gorgias2009卷1仅序与1—10篇，三卷属于一作品。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-mingana-mystics",
+      "title_zh": "早期基督教神秘家文选（版本入口）",
+      "original_title": "Early Christian Mystics / Woodbrooke Studies 7",
+      "author": "古代多作者；Alphonse Mingana编译",
+      "date": "原文7—8世纪；现代集子",
+      "language": "叙利亚语原文；英语译文",
+      "genre": "现代文本选集，非一部古代原作",
+      "synopsis": "收西门、达迪绍、阿卜迪绍、若瑟、亚伯拉罕五位东方教会作者作品。",
+      "spiritual_or_historical_value": "可作为未独立列入作者的目录研究入口。",
+      "attribution_issues": "不可把五位作者自动拆成五部已核定古书；与若瑟条目潜在重叠。 同名McGinn夫妇现代神秘主义读物不等于Mingana本。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/early-christian-mystics",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P2",
+      "next": "先核目录和原刊年代，给具体篇目建立去重关系；本项不计为新增古代原作。",
+      "edition_scope": "Gorgias2012重刊，ISBN9781617191961，叙文与注释英译；具体单篇尚待目录核定。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-governors",
+      "title_zh": "院长之书（修道史）",
+      "original_title": "The Book of Governors / Historia Monastica",
+      "author": "马尔加的多马 Thomas of Marga",
+      "date": "9世纪上半叶，约840",
+      "language": "叙利亚语",
+      "genre": "修道史/人物传记",
+      "synopsis": "记底格里斯河以东修道社群及其政治、学校和传教活动。",
+      "spiritual_or_historical_value": "补足波斯、阿拉伯统治转变及东方教会向亚洲传播的史料。",
+      "attribution_issues": "人物言行须作为作者编纂的历史叙述读，不径当同时代逐字记录。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/the-book-of-governors-the-historia-monastica-of-thomas-of-marga-ad-840-2-volume-set",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Budge叙英版本，现代重刊两册；两册是一个原作。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-abuqurrah-icons",
+      "title_zh": "阿布·库拉：论圣像敬礼",
+      "original_title": "A Treatise on the Veneration of the Holy Icons",
+      "author": "狄奥多尔·阿布·库拉 Theodore Abū Qurrah",
+      "date": "8世纪末—9世纪初",
+      "language": "阿拉伯语",
+      "genre": "神学护教论著",
+      "synopsis": "为伊斯兰社会中基督徒的圣像实践辩护。",
+      "spiritual_or_historical_value": "显示希腊神学如何转入阿拉伯语公共论辩。",
+      "attribution_issues": "不是大马色约翰的同题著作；veneration/worship不可不加辨别地合并。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://www.peeters-leuven.be/detail.php?id=4076",
+          "publisher": "Peeters",
+          "actually_read": true,
+          "read_scope": "1997出版、ISBN、译者与阿拉伯原作简介",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "检索“阿布 库拉 基督教 译本”未核得对应完整中文出版记录；异名可能遗漏。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Sidney H. Griffith英译，Peeters1997，Eastern Christian Texts in Translation1，ISBN9789068319286。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-ammar-proof",
+      "title_zh": "阿马尔·巴士里：救恩安排的论证之书",
+      "original_title": "The Book of the Proof concerning the Course of the Divine Economy / Kitāb al-Burhān",
+      "author": "阿马尔·巴士里 ʿAmmār al-Baṣrī",
+      "date": "9世纪",
+      "language": "阿拉伯语",
+      "genre": "系统神学/护教",
+      "synopsis": "在穆斯林质疑的环境中论证基督教信仰。",
+      "spiritual_or_historical_value": "适合研究东方叙利亚教会的阿拉伯神学表达。",
+      "attribution_issues": "中文暂译；与作者《问答之书》是两部原作。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/ammar-al-basris-arabic-apologetics",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "Mark Beaumont英译合刊，Gorgias2022，ISBN9781463244583；合刊标题不是第三部作品。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-ammar-questions",
+      "title_zh": "阿马尔·巴士里：问答之书",
+      "original_title": "The Book of Questions and Answers",
+      "author": "阿马尔·巴士里 ʿAmmār al-Baṣrī",
+      "date": "9世纪",
+      "language": "阿拉伯语",
+      "genre": "护教问答",
+      "synopsis": "以问答回应基督教教义方面的诘难。",
+      "spiritual_or_historical_value": "可与同作者《论证之书》比较体裁和论证方法。",
+      "attribution_issues": "本轮仅核两原作及现代合刊，不断言每项议题都见于两书各自。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://gorgiaspress.com/ammar-al-basris-arabic-apologetics",
+          "publisher": "Gorgias Press",
+          "actually_read": true,
+          "read_scope": "出版社产品页：书目、简介及版本范围；未读全书",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P2",
+      "next": "核定版本目录、文本边界与中文馆藏，再决定是否纳入。",
+      "edition_scope": "同2022合刊的第二部原作；页码和篇章待目录核定。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    },
+    {
+      "id": "east-timothy-mahdi",
+      "title_zh": "提摩太一世与马赫迪哈里发的对话",
+      "original_title": "Dialogue with al-Mahdi / The Patriarch and the Caliph",
+      "author": "提摩太一世 Timothy I及后续传本编纂者",
+      "date": "对话背景781年；现核阿拉伯节本16世纪",
+      "language": "叙利亚语原作；阿拉伯语改编传本",
+      "genre": "宗教对话/护教",
+      "synopsis": "记录基督徒领袖与阿拔斯哈里发的宗教论辩。",
+      "spiritual_or_historical_value": "研究伊斯兰统治下的基督徒公共身份。",
+      "attribution_issues": "不能视为无加工的宫廷逐字笔录；“第一位聂斯托利宗主教”的出版社措辞不采。",
+      "existing_repo_status": "未见独立收录（目录及限定关键词核查）",
+      "repo_evidence": {
+        "manifests": [
+          "bible/translation/manifest.json",
+          "bible/translation/history-patristics/manifest.json"
+        ],
+        "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+        "method": "核两manifest的section标题及作者英文变体，并检索参考TXT作者/作品中英文名称；未逐段检查所有嵌入引文。",
+        "limitation": "未见独立书目不等于没有零星引文；中文别名仍可扩展。"
+      },
+      "sources": [
+        {
+          "url": "https://press.uchicago.edu/ucp/books/book/distributed/P/bo25174014.html",
+          "publisher": "University of Chicago Press（代销Brigham Young University）",
+          "actually_read": true,
+          "read_scope": "编译者、2016版权、阿拉伯节本范围与简介",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "status": "未知",
+        "evidence": "本轮未核得对应完整中文出版记录；未完成国家图书馆/台湾国家图书馆等联合目录逐项检索。不能据此断言未出版。",
+        "confidence": "低",
+        "mainland_formal_publication": "未知：未完成直接馆藏/出版社验证",
+        "hong_kong_taiwan_publication": "未知：未完成直接馆藏/出版社验证",
+        "full_translation_verified": false
+      },
+      "priority": "P1",
+      "next": "先并列完整叙文版本与16世纪阿拉伯节本，决定编目对象和差异说明。",
+      "edition_scope": "Samir Khalil Samir编、Wafik Nasry译，BYU；英阿对照是16世纪节本，非完整叙文原作。",
+      "research_status": "书目候选；已有页面实读，非全文评读"
+    }
+  ],
+  "research_date_beijing": "2026-11-10",
+  "search_log": {
+    "method": "search_service_web_run检索后open实际来源；站内限定搜索不是直接查询馆藏OPAC。",
+    "queries": [
+      "site.gorgiaspress.com \"John the Solitary\" \"Soul\"",
+      "site.gorgiaspress.com \"Joseph\" \"Three Stages\"",
+      "Theodore Abu Qurrah veneration holy icons publisher Griffith 1997",
+      "Ammar al Basri Book of Proof publisher",
+      "Timothy I dialogue caliph Mahdi publisher Brill",
+      "Isaac Nineveh Third Collection publisher",
+      "site.peeters-leuven.be \"Isacco\" \"Terza\"",
+      "site.svots.edu \"Headings\" \"Isaac\"",
+      "Joseph Hazzaya Letter Three Stages Patrologia Orientalis 45 2",
+      "尼尼微 以撒 中文 出版",
+      "阿弗哈特 袁永甲 圣祷",
+      "阿布 库拉 基督教 译本",
+      "若望 达利亚 书信",
+      "哈扎亚 若瑟",
+      "阶梯书 叙利亚 译本",
+      "阿马尔 巴士拉 基督教",
+      "site.gorgiaspress.com \"Book of Governors\"",
+      "site.nlc.cn (\"阿弗拉哈特\" OR \"尼尼微\" OR \"阿弗哈特\")",
+      "site.ncl.edu.tw (\"尼尼微\" OR \"哈扎亞\" OR \"達利亞\")",
+      "(\"成全之书\" OR \"完美之书\") \"萨赫多纳\"",
+      "(\"独修者约翰\" OR \"隱修者若望\") \"灵魂\"",
+      "(\"提摩太一世\" \"马赫迪\") 中文 书",
+      "(\"马尔加\" \"多马\") (\"院长\" OR \"修道史\")",
+      "(\"阿马尔\" OR \"阿瑪爾\") \"问答之书\"",
+      "\"Early Christian Mystics\" 中文"
+    ],
+    "results_limit": "完整中文出版物未核定。中文研究文章已实际打开。另搜得同名Early Christian Mystics的McGinn夫妇现代著作线索，非Mingana文选，不合并；仅搜索片段，未宣称实际读该PDF。",
+    "access_failures": [
+      {
+        "url": "https://isdistribution.com/work/isacco-di-ninive-terza-collezione/",
+        "result": "web open 403；改用syri.ac的Peeters书目实际读取"
+      },
+      {
+        "url": "https://gedsh.ctcfol.org/entries/Book-of-Steps",
+        "result": "页面可开但大量导航；find三十篇未匹配。中文内容只据检索片段作线索，非认定完整页面内容已读。"
+      }
+    ]
+  },
+  "next_cursor": {
+    "last_completed": "east-timothy-mahdi；15项结构校验完成",
+    "next": "逐项直接查中文国家/高校馆藏（非只site搜索）；优先east-isaac-i/ii/iii与east-aphrahat。随后沿Mingana选集目录核Dadisho、Simon具体作品，排除与若瑟已列重叠。",
+    "institutional_entry_points": [
+      "https://syri.ac/brock/isaac",
+      "https://syri.ac/bibliography",
+      "https://www.nlc.cn/",
+      "https://www.ncl.edu.tw/"
+    ],
+    "pagination": "本轮使用定向检索与具体页面，没有稳定分页游标，不声称已扫完整站。"
+  }
+}

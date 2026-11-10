@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "all_worker_json_parse": true,
+    "catalog_ids_unique": true,
+    "every_record_has_title_and_original_title": true,
+    "every_record_has_resolved_source_urls": true,
+    "known_climacus_duplicate_merged": true
+  },
+  "counts": {
+    "worker_records": 111,
+    "catalogue_records_after_one_merge": 110,
+    "modern_anthology_gateways": 1,
+    "unique_source_urls": 132
+  },
+  "limits": "这是文件结构、来源入口及已知重复校验，不证明所有书目信息无误，也不是全网或大陆出版情况的穷尽查证。"
+}

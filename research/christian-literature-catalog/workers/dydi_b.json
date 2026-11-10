@@ -1,0 +1,472 @@
+{
+  "worker": "dydi_b",
+  "date": "2026-11-10",
+  "status": "first_stage_complete",
+  "scope": "早期福音传统、残片、犹太基督教福音、启示对话与使徒行传；18项，非穷尽",
+  "method": "先核两工程manifest、063源文块与中文参考TXT；只书目和资源概要研究，不声称阅读全文或完成文本校勘。学术版本书目系所读eClavis所列线索，非声称已读取那些书。",
+  "repository_files": [
+    "bible/translation/manifest.json",
+    "bible/translation/history-patristics/manifest.json",
+    "bible/translation/zh/fragmentary-gospels/cMCB.json",
+    "bible/基督教典外文献（共10册）_手机版.txt"
+  ],
+  "entries": [
+    {
+      "id": "B01",
+      "title_zh": "希伯来人福音",
+      "title_original": "Gospel of the Hebrews",
+      "attribution_and_date": "教父引文辑佚；通常讨论为早期作品，确切成书年与原语言未定，不能把引文载体的年代当原作年代。",
+      "repository_status": "已收部分",
+      "repository_evidence": "fragmentary-gospels/cMCB p0001–p0020；中文总集45827仅目录项。",
+      "historical_value": "观察犹太耶稣信仰传统及雅各、圣灵等形象；引文归属须逐条标注。",
+      "devotional_value": "可比较弟兄相爱与复活盼望；残片不足建立完整教义。",
+      "edition_lead": "Gregory, The Gospel according to the Hebrews and the Gospel of the Ebionites, OUP 2017；Ehrman/Pleše 2011 pp.218–221。",
+      "recommendation": "先整理现有引文来源，不重译一部假定完整的书。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-hebrews/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "残存引文涉及耶稣受洗、圣灵、向雅各显现及寻找真理等言行，不能据此还原全书。"
+    },
+    {
+      "id": "B02",
+      "title_zh": "拿撒勒派福音",
+      "title_original": "Gospel of the Nazarenes",
+      "attribution_and_date": "现代据耶柔米等引文划出的假设性文本；与希伯来人福音是一书、两书还是三书的问题未定。",
+      "repository_status": "已收部分",
+      "repository_evidence": "fragmentary-gospels/cMCB p0021–p0039；总集45829仅目录项。",
+      "historical_value": "研究耶柔米如何理解犹太基督徒的福音及马太传统。",
+      "devotional_value": "怜悯、祷告等片段可供比较阅读，但不能补写缺失教训。",
+      "edition_lead": "NASSCAL Sloan/Kok 条目及所列 Gregory 2017、Klijn 1992。",
+      "recommendation": "书目应保留重构性质，不算一部新发现完整原典。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-nazarenes/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "辑录耶柔米等所引耶稣言行，如枯手匠人的求医、主祷文措辞及受难细节。"
+    },
+    {
+      "id": "B03",
+      "title_zh": "希腊文埃及人福音",
+      "title_original": "Greek Gospel of the Egyptians",
+      "attribution_and_date": "仅存教父引文，至少在亚历山大的革利免时代已被讨论；确切年代未定。",
+      "repository_status": "已收部分",
+      "repository_evidence": "fragmentary-gospels/cMCB p0040–p0047；总集45833目录。",
+      "historical_value": "研究禁欲、性别与救恩的早期争论；不等于拿戈玛第同名科普特文本。",
+      "devotional_value": "适合辨析禁欲传统，不宜直接当作耶稣对婚姻的权威补充。",
+      "edition_lead": "Ehrman/Pleše, The Apocryphal Gospels, OUP 2011 pp.223–229。",
+      "recommendation": "优先补题名区别；NASSCAL该页未分配作者且书目有杂项，使用其引文定位而不依赖全部条目。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-egyptians/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "残存引文主要记耶稣与撒罗米关于生育、死亡和男女分别的对话。"
+    },
+    {
+      "id": "B04",
+      "title_zh": "俄克喜林库斯840残片",
+      "title_original": "P. Oxy. 840",
+      "attribution_and_date": "实为羊皮纸小叶；晚古代抄本。NASSCAL正文与清单分别列4–5世纪、3–4世纪，古文字日期应待专门核实。",
+      "repository_status": "已收部分",
+      "repository_evidence": "fragmentary-gospels/cMCB p0048–p0067，旧标题Oxyrhynchus Gospel Fragment 1。",
+      "historical_value": "耶稣与祭司洁净争论的文本史材料；不能仅凭场景证明独立历史事件。",
+      "devotional_value": "可比较内外洁净主题，残篇不适合独立灵修纲要。",
+      "edition_lead": "Kraus/Nicklas/Kruger, Gospel Fragments, OUP 2009。",
+      "recommendation": "标题标明840及羊皮纸；网站概要把池中沐浴者说成耶稣，现存源文实为对话祭司，应以文本为准。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-840/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "残叶记耶稣在圣殿与祭司争论洁净，比较外在洗濯与内里的污秽。"
+    },
+    {
+      "id": "B05",
+      "title_zh": "俄克喜林库斯1224残片",
+      "title_original": "P. Oxy. 1224",
+      "attribution_and_date": "两块希腊纸草，抄本约3–4世纪；成书时间不明，推至1世纪中叶的说法未经确证。",
+      "repository_status": "已收部分",
+      "repository_evidence": "fragmentary-gospels/cMCB p0068–p0079，旧标题Fragment 2。",
+      "historical_value": "研究与对观福音平行的语录及第一人称叙述；难判断原书类别和规模。",
+      "devotional_value": "爱仇敌等短语可比较，不宜把残缺处填成新教训。",
+      "edition_lead": "Grenfell/Hunt, Oxyrhynchus Papyri X (1914) pp.1–10；现代版见NASSCAL。",
+      "recommendation": "与840分列书目，不能把两片当同一福音的连续正文。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-1224/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "残片保留第一人称叙述和耶稣语句，涉及病人与医治、罪人及爱仇敌。"
+    },
+    {
+      "id": "B06",
+      "title_zh": "埃格顿未知福音",
+      "title_original": "Egerton Gospel",
+      "attribution_and_date": "P.Egerton 2与P.Köln VI 255属同一抄本相关残叶；目录将见证列2世纪，精确古文字年代仍有研究争议。成书早于抄本但不能反推为使徒目击记录。",
+      "repository_status": "已收部分",
+      "repository_evidence": "fragmentary-gospels/cMCB p0080–p0108，Unknown Gospel；是否充分纳入1987公布的科隆接片尚需逐行版本核对。",
+      "historical_value": "比较约翰与对观传统的交叉关系及残片重构方法。",
+      "devotional_value": "洁净、税银与经文争辩可作研读材料；复原文字须显式区分。",
+      "edition_lead": "Zelyck, The Egerton Gospel, Brill 2019；科隆片首版Gronewald 1987。",
+      "recommendation": "升级版本核对，不能作为从未收录新书重复制作。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "残片记耶稣与权贵争辩经文、医治麻风病人、回答纳税试探及约旦河边的神迹。"
+    },
+    {
+      "id": "B07",
+      "title_zh": "伊便尼派福音",
+      "title_original": "Gospel of the Ebionites",
+      "attribution_and_date": "非现存完整书；现代名称指伊皮法纽Panarion 30所引七片。若依赖对观，成于其后；通常置2世纪但精确断代与实际使用群体有争论。",
+      "repository_status": "未见独立译本；中文目录有名",
+      "repository_evidence": "两manifest无同名；063标题无本项；总集45831仅卷名。不能与062现代Gospel of the Twelve Holy Apostles混同。",
+      "historical_value": "重要于洗礼基督论、饮食与祭祀争论，也显示论敌引文的筛选偏向。",
+      "devotional_value": "可用于辨析实践与经文解释，不据论敌短引重建完整信仰规范。",
+      "edition_lead": "Gregory, OUP 2017 pp.171–261；Ehrman/Pleše 2011 pp.210–215。",
+      "recommendation": "较高补收优先级：采用希腊片段与引文上下文并列，标明只有辑佚。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-ebionites/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "七段引文涉及门徒蒙召、约翰饮食、耶稣受洗，以及祭祀和逾越节肉食问题。"
+    },
+    {
+      "id": "B08",
+      "title_zh": "俄克喜林库斯5575耶稣语录",
+      "title_original": "P. Oxy. 5575",
+      "attribution_and_date": "编辑者依古文字学定抄本为2世纪；早期发掘所得，2023首次刊布，非2023才出土。作者、原书名及文本关系未明。",
+      "repository_status": "未见收录",
+      "repository_evidence": "两manifest无5575；063正文所辨为840、1224、Egerton，不含此片。中文总集检索无编号。",
+      "historical_value": "同叶呈现对观及多马平行语句，是研究流动语录传统的重要新增材料。",
+      "devotional_value": "关于忧虑与天国可比较研读；不能把平行关系宣称为多马原本已获发现。",
+      "edition_lead": "Fish/Wallace/Holmes, Oxyrhynchus Papyri 87 (2023) pp.6–14；EES出版。",
+      "recommendation": "高优先级短篇增补，须保留残缺标记与编辑者不确定判断。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-5575/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "残叶汇集耶稣语录，涉及不忧虑衣食、天父养活飞鸟，以及禁食和安息日。"
+    },
+    {
+      "id": "B09",
+      "title_zh": "马可秘密福音引文／致提阿多罗书",
+      "title_original": "Secret Gospel of Mark / Letter to Theodore",
+      "attribution_and_date": "1958所见为17世纪印本末页上的18世纪希腊手抄信，信自称革利免作品。古代内容真实性、现代伪造可能与马可关系均有争论，不能径定为2世纪文本。",
+      "repository_status": "中文参考已收两段正文；未入正式独立译本",
+      "repository_evidence": "总集第211章46626–46644，题为马可的神秘福音，含简介和两段引文。已实读；先前仅搜秘密/秘传的阴性结果作废。两manifest无独立条目。",
+      "historical_value": "适合研究文献鉴定和近代学术论争；真实性未决，不能当历史耶稣确定资料。",
+      "devotional_value": "不推荐作独立灵修来源；可作审慎读经与证据辨析案例。",
+      "edition_lead": "Morton Smith, Harvard 1973；Scott Brown, Wilfrid Laurier UP 2005；NASSCAL并列真伪双方研究。",
+      "recommendation": "不算全新缺书；可独立整理致提阿多罗书上下文与真伪论争说明，不宣称发现被删的原始马可。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/secret-gospel-of-mark/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "所谓革利免书信引用两段较长马可文本，记少年人复活、受教及耶稣不接待几位妇女。"
+    },
+    {
+      "id": "B10",
+      "title_zh": "柏林—斯特拉斯堡外典（旧称救主福音）",
+      "title_original": "Berlin-Strasbourg Apocryphon",
+      "attribution_and_date": "两组科普特残本：斯特拉斯堡约6世纪、柏林约7–8世纪。Suciu 2017主张成于451后，反对旧2世纪福音定位；这是需明署的研究主张。",
+      "repository_status": "未见独立译本",
+      "repository_evidence": "两manifest无题名；中文总集的与救主的对话是另一拿戈玛第作品，不可抵算；218章其他科普特故事不等于整部本书。",
+      "historical_value": "反映科普特使徒回忆录、十架礼仪及耶稣形象的晚古代发展。",
+      "devotional_value": "十架祷告可比较灵修传统，但不当成使徒亲笔或新增耶稣史实。",
+      "edition_lead": "Suciu, The Berlin-Strasbourg Apocryphon, Mohr Siebeck 2017，含校勘与译文。",
+      "recommendation": "先用2017校订确定残页顺序，不以1999宣传标题决定年代。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/",
+          "institution": "Mohr Siebeck学术出版社",
+          "read_scope": "书籍简介/作者论旨（检索返回全文简介，未读书内全文）",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "残文记救主受捕前教导门徒、向父祈祷，并与门徒围成圈跳舞、颂赞十字架。"
+    },
+    {
+      "id": "B11",
+      "title_zh": "巴多罗买提问",
+      "title_original": "Questions of Bartholomew",
+      "attribution_and_date": "多版本启示问答；希腊、拉丁、斯拉夫见证，存本多为中世纪。原作年代未定，中文简介给2–6世纪宽范围不可当精确结论。",
+      "repository_status": "中文参考已收正文；未入正式译本",
+      "repository_evidence": "总集第217章47314起，47326正文至47400附近；两manifest无独立条目。",
+      "historical_value": "研究基督降阴间、马利亚及撒但起源传统与问答体的演变。",
+      "devotional_value": "可读其救赎盼望，但天使数字与魔鬼叙事不可直接转为教义事实。",
+      "edition_lead": "Chromá 2019斯拉夫传统及多语对照；Elliott 1993 pp.652–672。",
+      "recommendation": "不是未有中文；可在版权许可下独立新译，必须选定具体版本，勿拼合。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/questions-of-bartholomew/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "巴多罗买向耶稣、马利亚及撒但问话，探问降阴间、基督降生和邪恶的起源。"
+    },
+    {
+      "id": "B12",
+      "title_zh": "巴多罗买复活记",
+      "title_original": "Book of Bartholomew / Book on the Resurrection of Christ",
+      "attribution_and_date": "科普特使徒回忆录，多修订本残存；NASSCAL列主要抄本9–11世纪，不能沿中文简介把这些现存抄本统一说成5–7世纪。原作精确年代待研究。",
+      "repository_status": "中文简介及目录已有；正文覆盖未确定",
+      "repository_evidence": "总集第217章47322附近介绍本书，正文随即转入Questions；54228再列卷名，不能据此证明全译。两manifest无独立卷。",
+      "historical_value": "研究埃及复活礼仪、天使颂歌、圣餐与多马故事的接受史。",
+      "devotional_value": "诗歌可作比较性灵修阅读；传奇场景需与正典叙述区别。",
+      "edition_lead": "Westerhoff 1999批判版；Budge, Coptic Apocrypha 1913 pp.179–230。",
+      "recommendation": "与Questions分立；先核中文完整出版卷与各科普特修订本。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-bartholomew/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "科普特叙事描绘耶稣战胜死亡、天使颂歌、复活显现，以及多马使儿子复生。"
+    },
+    {
+      "id": "B13",
+      "title_zh": "所谓迦玛烈福音／马利亚哀悼讲章",
+      "title_original": "So-called Gospel of Gamaliel / Homily on the Lament of Mary",
+      "attribution_and_date": "“科普特迦玛烈福音”是近代重构假设；Suciu 2012依据BL Or.7027 f.75将材料归回马利亚哀悼讲章并否定假定独立科普特福音。载体有科普特、阿拉伯、埃塞俄比亚传统，年代须分版本。",
+      "repository_status": "中文参考已收片段；未入正式译本",
+      "repository_evidence": "总集第216章47297–47312有简介、译文及缺文说明；两manifest无独立标题。",
+      "historical_value": "研究受难文学与彼拉多形象，以及错误书名如何形成。",
+      "devotional_value": "悲悼与盼望可研读；叙事中的反犹描写应作历史批判，不推广为群体指责。",
+      "edition_lead": "Suciu, Aethiopica 15 (2012) 53–71，已读期刊摘要；全文未读。",
+      "recommendation": "优先修书目归属，不能宣称新增一部已证实的古代福音。",
+      "sources": [
+        {
+          "url": "https://journals.sub.uni-hamburg.de/aethiopica/article/view/659",
+          "institution": "汉堡大学 Aethiopica",
+          "read_scope": "论文元数据与摘要",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "现存相关片段记彼拉多调查耶稣坟墓、寿衣与尸体，叙事中以迦玛烈的声音作证。"
+    },
+    {
+      "id": "B14",
+      "title_zh": "腓力行传",
+      "title_original": "Acts of Philip",
+      "attribution_and_date": "晚古代复合行传，通常归4世纪编纂层（精确分层需专门研究）；15行传中第10、11开头及14–15部分缺失，非完整15篇皆存。",
+      "repository_status": "未见独立译本",
+      "repository_evidence": "中文参考TXT第231章47738起有《腓力福音》；两manifest均无独立Acts of Philip条目。腓力福音不是腓力行传；中文总集题名检索未见腓力行传。",
+      "historical_value": "研究女性同工马利亚姆妮、禁欲与奇迹小说；不可把幻想旅行直接作为腓力传记。",
+      "devotional_value": "勇气、怜悯与不以恶报恶有比较价值；强烈禁欲和惩罚奇迹须置回时代。",
+      "edition_lead": "Bovon/Bouvier/Amsler校勘传统见NASSCAL；James 1924只是较早不完全版本，须优先新校本。",
+      "recommendation": "较高补收优先级，与Gospel of Philip严格分开。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "叙述腓力与同伴旅行传道、医治和驱魔，以及禁欲教导、奇兽故事与殉道。"
+    },
+    {
+      "id": "B15",
+      "title_zh": "提摩太行传",
+      "title_original": "Acts of Timothy",
+      "attribution_and_date": "晚古代殉道与地方教会起源叙事；一些希腊本提356遗骸迁移，不能把此层当1世纪见证。常归5世纪，但本轮尚未核专门断代论证。",
+      "repository_status": "未见独立译本",
+      "repository_evidence": "两manifest无题名；中文总集提摩太行传精确检索未见。",
+      "historical_value": "以弗所教会、圣徒崇敬与四福音来源传说的接受史价值。",
+      "devotional_value": "忠心与殉道主题可阅读，不把约翰整理三福音传说当正典形成实录。",
+      "edition_lead": "Zamagni 2007希腊批判版（NASSCAL书目）；Concannon编写eClavis条目。",
+      "recommendation": "篇幅较小，适合补收；须区分希腊家族和拉丁伪署坡旅克拉底。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "讲述提摩太在以弗所牧养及遇害，并穿插约翰整理福音书、被放逐和归来的传说。"
+    },
+    {
+      "id": "B16",
+      "title_zh": "亚戴之教训",
+      "title_original": "Doctrine / Teaching of Addai",
+      "attribution_and_date": "叙利亚晚古代作品，通常置4世纪末至5世纪初；讲述1世纪的伊得撒建教，故事年代不是写作年代。",
+      "repository_status": "相关文本已收；扩展全本未确认",
+      "repository_evidence": "正式044 epistles-of-king-abgar-and-jesus与优西比乌教会史已有书信故事；中文总集47201–47207介绍亚戴之教训，不证明103节全译。",
+      "historical_value": "伊得撒身份、教会传承及基督肖像传统的重要材料。",
+      "devotional_value": "宣教与服事可研读；城池永不被征服的传说不作普遍神应许。",
+      "edition_lead": "George Howard, The Teaching of Addai (1981)；Lollar NASSCAL详列103节结构。",
+      "recommendation": "补收须选择叙利亚扩展本，并注明与已有亚伯加书信重叠。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
+          "institution": "NASSCAL（北美基督教外典研究学会）",
+          "read_scope": "条目概要、手稿与版本书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
+      "synopsis": "讲述亚伯加求医、亚戴到伊得撒传道医治，以及当地教会的教训与继承安排。"
+    },
+    {
+      "id": "B17",
+      "title_zh": "俄克喜林库斯4009残片",
+      "title_original": "P. Oxy. 4009",
+      "attribution_and_date": "希腊纸草残叶，抄本约2–3世纪；1993刊布。归彼得福音仅为假说，第一人称不足证实作者；背面大幅复原争议尤大。",
+      "repository_status": "未见此残片独立收录",
+      "repository_evidence": "063所辨残片为840、1224、Egerton；gospel-of-peter及fragmentary-gospels正式JSON检索4009无命中。已有彼得福音不等于已含所有疑似见证。",
+      "historical_value": "研究耶稣关于羊狼、惧怕与杀害的语录流传，及与革利免后书的平行。",
+      "devotional_value": "残缺过多，适合经文比较而非独立灵修篇章。",
+      "edition_lead": "Lührmann/Parsons, Oxyrhynchus Papyri 60 (1993) pp.1–5；Foster, Brill 2010 p.208。",
+      "recommendation": "可作为带疑问标识的短篇补收，不并入彼得福音正文冒充确定章节。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-4009/",
+          "institution": "NASSCAL，Mark G. Bilby编",
+          "read_scope": "概要及手稿、校勘书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "中文总集与manifest未检得此编号或独立标题；并非证明全库绝无引述。未核中文商业出版ISBN。",
+      "synopsis": "正面残文保存羊、狼与被杀后不必惧怕的语录；背面仅余少量难以连贯的词句。"
+    },
+    {
+      "id": "B18",
+      "title_zh": "法尤姆残片",
+      "title_original": "Fayyum Fragment / P. Vindob. G 2325",
+      "attribution_and_date": "仅七行希腊文，平行可14:27–30；原作书名与成书年代未定。本轮未核机构古文字断代，故不填写确切抄本年代。归彼得福音的重构高度有争议。",
+      "repository_status": "未见独立收录，待版本级复查",
+      "repository_evidence": "两manifest无Fayyum标题；063范围不含；彼得福音及063正式JSON未命中2325/Fay；中文总集所查多种音译无命中。",
+      "historical_value": "显示福音语句在残片中的压缩或转述，能训练对不完整证据的判断。",
+      "devotional_value": "内容短且破损，优先学术附录，灵修增益有限。",
+      "edition_lead": "Kraus, Gospel Fragments, OUP 2009 pp.219–227；Kraus ZAC 5 (2001) pp.197–212，待取得学术版本实读。",
+      "recommendation": "暂列有据的候选，不把它与彼得福音视为确定同书。下一步核奥地利国家图书馆原始目录及OUP校订。",
+      "sources": [
+        {
+          "url": "https://gospelmanuscripts.wordpress.com/greek-mss/p-vindob-g-2325/",
+          "institution": "Gospel Manuscripts专题网站（非馆藏机构；仅作学术书目入口）",
+          "read_scope": "完整短条目及Foster/Kraus参考书目",
+          "accessed": "2026-11-10"
+        }
+      ],
+      "chinese_publication": "中文总集与manifest未检得此编号或独立标题；并非证明全库绝无引述。未核中文商业出版ISBN。",
+      "synopsis": "七行残文涉及耶稣预告门徒离散和彼得否认，与马可受难前的预告相近。"
+    }
+  ],
+  "limits": [
+    "未把Thomas/Judas/Mary等熟知标题自动列作缺书；本批不含它们，另需专门既有参考覆盖审计。",
+    "缺书判断限于独立条目及指定关键词；教父全文可能另含引文，未做全库所有变体逐句检索。",
+    "不将残存见证年代、作品假定成书年代、现代发现或刊布年份混为一谈。",
+    "NASSCAL部分概要存在疑似笔误或不一致，已在840和希腊埃及人条目明示；不盲从。",
+    "Dura harmony及其他残片留第二阶段；Fayyum仅初核专题书目，需机构或校订版复查。"
+  ],
+  "timezone": "Asia/Shanghai",
+  "search_log": {
+    "date_beijing": "2026-11-10",
+    "actual_queries": [
+      "site.nasscal.com Fayyum Dura gospel fragment",
+      "site.nasscal.com \"Gospel of the Savior\"",
+      "site.nasscal.com \"Gospel of Gamaliel\"",
+      "site.mohrsiebeck.com \"Berlin-Strasbourg\" Coptic fifth sixth",
+      "site.nasscal.com \"Acts of Philip\" \"fourth\"",
+      "site.ox.ac.uk \"Acts of Timothy\" \"fifth\"",
+      "site.onb.ac.at Fayum Evangelienfragment 2325",
+      "site.beinecke.library.yale.edu Dura gospel harmony 10",
+      "site.nasscal.com \"Papyrus\" \"4009\"",
+      "site.academic.oup.com \"Fayûm\" \"2325\"",
+      "site.degruyterbrill.com \"2325\" \"Fay\""
+    ],
+    "direct_open_method": "其余eClavis页按题名对应URL直接打开，读取概要与书目；这些不冒称搜索结果。",
+    "local_search": "两manifest整表；063 source_unit标题及段落；中文总集rg题名/编号/变体；后用inventory/reference-headings.json发现并实读第211章，纠正Secret Mark遗漏。",
+    "failures": [
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/fayyum-fragment/",
+        "result": "直接打开与4009条目链接均404；不得计为已读"
+      },
+      {
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dura-europos-gospel-harmony/",
+        "result": "无法访问；不计本轮完成"
+      },
+      {
+        "url": "https://doi.org/10.15460/aethiopica.15.1.659",
+        "result": "DOI直开失败，改期刊article/view/659成功读取摘要"
+      },
+      {
+        "url": "https://academic.oup.com/jts/article/72/1/192/6472569",
+        "result": "打开500，只有搜索摘要；不算全文或最终Dura条目依据"
+      },
+      {
+        "resource": "NASSCAL urllib尝试",
+        "result": "403；改web工具实际读各页"
+      }
+    ],
+    "next": [
+      "Fayyum优先查ÖNB G2325原始馆藏记录、Kraus OUP2009，避免混淆British Library另一个Papyrus2325。",
+      "补Dura Pg.Dura10的Yale馆藏与JTS2021研究；区分福音调和本与确定他提安归属。",
+      "逐项查中文出版社/图书馆ISBN和完整目录，尤其巴多罗买复活记与亚戴全本。",
+      "对已收063六项做版本覆盖核对；本轮只范围识别，未作完整新校勘。"
+    ],
+    "classification_recheck": "2026-11-10：逐项重读18项repository_evidence，对照两manifest ID及既已读取的参考TXT位置。修正B14误把参考中的腓力福音写成manifest已收；其余已收正式卷（063、044、彼得福音）与参考正文/简介/目录分类未发现同类混淆。"
+  }
+}

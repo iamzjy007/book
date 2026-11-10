@@ -1,0 +1,265 @@
+{
+  "worker": "root",
+  "checked_date_beijing": "2026-11-10",
+  "scope": "科普特启示／伦理文献与中文出版辨识，5作品级记录",
+  "items": [
+    {
+      "id": "teachings-silvanus",
+      "title_zh": "西尔瓦努斯训言（暂译）",
+      "original_title": "Teachings of Silvanus / Les Leçons de Silvanos (NHC VII,4)",
+      "author": "佚名，题署Silvanus",
+      "date": "年代有分歧；Janssens主张希腊原作约2世纪末，此为具体学者意见",
+      "language": "存世萨希迪科普特语；推定希腊原作",
+      "genre": "智慧训诲",
+      "synopsis": "以导师劝勉弟子的形式讨论智慧、节制及以内心归向基督。",
+      "spiritual_or_historical_value": "兼具伦理劝勉与早期亚历山大式基督教思想史价值；可优先评估。",
+      "attribution_issues": "不能确认新约西拉亲著；其与所谓诺斯替思想的关系有讨论，不能因出土地点统一贴标签。",
+      "existing_repo_status": "not_located_in_checked_inventory",
+      "repo_evidence": "两manifest未见独立题名；参考TXT标题索引及题名变体关键词未定位，尚非全文语义去重。",
+      "sources": [
+        {
+          "url": "https://www.pulaval.com/livres/les-lecons-de-silvanos-nh-vii-4-bcnh-textes-no-13",
+          "publisher": "拉瓦尔大学出版社",
+          "actually_read": "题名、Janssens、ISBN9782763770260、内容介绍、归属和日期论点；网页列1990出版，旧书目有1983，版次待核",
+          "access": "readable_page",
+          "checked_date_beijing": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+        "evidence": [
+          {
+            "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+            "level": "search_index_only_open_403",
+            "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+          },
+          {
+            "url": "https://book.douban.com/subject/36663348/",
+            "level": "search_index_only",
+            "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+          }
+        ],
+        "confidence": "collection_lead_only",
+        "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+      },
+      "priority": "P1",
+      "research_status": "bibliographic_source_read_scope_limited",
+      "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。"
+    },
+    {
+      "id": "interpretation-knowledge",
+      "title_zh": "灵知的解释（暂译）",
+      "original_title": "Interpretation of Knowledge / L’interprétation de la Gnose (NHC XI,1)",
+      "author": "佚名",
+      "date": "古代晚期；具体断代待核，不由2010年现代校本日期倒推",
+      "language": "科普特语存本；原作语言关系待校本导论确认",
+      "genre": "教会劝勉／神学讲论",
+      "synopsis": "讨论群体中的嫉妒与纷争，借基督受苦及教会身体的形象劝人忍耐。",
+      "spiritual_or_historical_value": "可研究非主流基督教团体如何解释共同体生活；灵修借鉴须同时理解其神学语境。",
+      "attribution_issues": "出版社介绍将其置于瓦伦廷派或受其影响的环境；不当作普遍教父共识。",
+      "existing_repo_status": "not_located_in_checked_inventory",
+      "repo_evidence": "两manifest无独立题名；参考TXT章节索引未定位；仍须核其他译名。",
+      "sources": [
+        {
+          "url": "https://www.pulaval.com/livres/l-interpretation-de-la-gnose-nh-xi-1-bcnh-textes-no-34",
+          "publisher": "拉瓦尔大学出版社",
+          "actually_read": "2010年Funk/Painchaud/Thomassen校本、ISBN9782763789835及内容／文本环境介绍",
+          "access": "readable_page",
+          "checked_date_beijing": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+        "evidence": [
+          {
+            "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+            "level": "search_index_only_open_403",
+            "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+          },
+          {
+            "url": "https://book.douban.com/subject/36663348/",
+            "level": "search_index_only",
+            "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+          }
+        ],
+        "confidence": "collection_lead_only",
+        "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+      },
+      "priority": "P2",
+      "research_status": "bibliographic_source_read_scope_limited",
+      "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。"
+    },
+    {
+      "id": "apocryphon-john",
+      "title_zh": "约翰秘传／约翰密传",
+      "original_title": "Apocryphon of John / Le Livre des secrets de Jean",
+      "author": "伪托约翰，作者不详",
+      "date": "古代作品；各层与长短本断代待核",
+      "language": "科普特语多个传本；希腊原作关系须看校本",
+      "genre": "启示对话／创世与救赎论",
+      "synopsis": "以约翰受启示的框架呈现宇宙起源与救赎，是理解相关思想传统的重要对照。",
+      "spiritual_or_historical_value": "历史研究优先；不把其中宇宙论直接视为早期教会共同信仰或耶稣原始语录。",
+      "attribution_issues": "短本NH III,1／BG,2与长本应分辨；现代法译书目不等同古代原作。",
+      "existing_repo_status": "not_located_as_standalone_in_manifest",
+      "repo_evidence": "manifest只有正典John、Acts of John等不同作品，不能据John同名判已有；参考TXT需进一步异名排查。",
+      "sources": [
+        {
+          "url": "https://www.pulaval.com/livres/le-livre-des-secrets-de-jean-recension-breve-nh-iii-1-et-bg-2-bcnh-textes-no-35",
+          "publisher": "拉瓦尔大学出版社",
+          "actually_read": "Funk／Barc、短本NH III,1及BG,2、2012、408页、ISBN9782763793801；页面无完整作品导论",
+          "access": "readable_page",
+          "checked_date_beijing": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+        "evidence": [
+          {
+            "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+            "level": "search_index_only_open_403",
+            "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+          },
+          {
+            "url": "https://book.douban.com/subject/36663348/",
+            "level": "search_index_only",
+            "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+          }
+        ],
+        "confidence": "collection_lead_only",
+        "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+      },
+      "priority": "P2",
+      "research_status": "bibliographic_source_read_scope_limited",
+      "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。"
+    },
+    {
+      "id": "pistis-sophia",
+      "title_zh": "皮斯提斯·索菲亚（信心与智慧；暂译）",
+      "original_title": "Pistis Sophia",
+      "author": "佚名；以复活后的耶稣与门徒对话为框架",
+      "date": "古代晚期，具体层次断代待专门校本",
+      "language": "科普特语传本；与希腊原作的关系待核",
+      "genre": "启示对话／悔改赞歌／宗教仪式文献",
+      "synopsis": "包含索菲亚的困境、祈求及救助叙事，并呈现耶稣教导的后期接受形式。",
+      "spiritual_or_historical_value": "适合研究悔改祷告与相关团体思想；不直接推荐为跨宗派共同灵修规范。",
+      "attribution_issues": "不同于正典索菲亚智慧题材；非目击门徒的已证实笔录。",
+      "existing_repo_status": "reference_title_only_text_explicitly_omitted",
+      "repo_evidence": "参考TXT第202章（约46103行）明确“皮斯特斯·索菲椏（文本略）”；不是已有全文。",
+      "sources": [
+        {
+          "url": "https://www.degruyterbrill.com/document/isbn/9789004301191/html",
+          "publisher": "Brill／De Gruyter Brill",
+          "actually_read": "Erin Evans2015研究专著介绍，讨论两作品、洗礼／上升／伦理主题；这是现代研究，不是古代原作译本",
+          "access": "readable_page",
+          "checked_date_beijing": "2026-11-10"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb33446670k",
+          "publisher": "法国国家图书馆",
+          "actually_read": "Schmidt1905德译合订书目、卷题及子目；馆录有作者与原语著录疑点，不能未经复核照抄",
+          "access": "readable_page",
+          "checked_date_beijing": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+        "evidence": [
+          {
+            "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+            "level": "search_index_only_open_403",
+            "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+          },
+          {
+            "url": "https://book.douban.com/subject/36663348/",
+            "level": "search_index_only",
+            "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+          }
+        ],
+        "confidence": "collection_lead_only",
+        "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+      },
+      "priority": "P2",
+      "research_status": "bibliographic_source_read_scope_limited",
+      "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。"
+    },
+    {
+      "id": "books-jeu",
+      "title_zh": "耶乌诸书／耶乌二书（暂译）",
+      "original_title": "Books of Jeu / Les « deux Livres de Iéou » (MS Bruce 96)",
+      "author": "佚名",
+      "date": "古代晚期；具体层次待核",
+      "language": "科普特语，Bruce抄本家族",
+      "genre": "启示／礼仪／图式文献",
+      "synopsis": "以升向光明领域的图式、印记与仪式教导呈现一支古代宗教传统。",
+      "spiritual_or_historical_value": "主要为基督教相关思想与仪式史材料；不因神秘性就评为高灵修价值。",
+      "attribution_issues": "“二书”是传统命名，2019校本重辨结构；不属于纳戈玛第出土抄本本身，虽同在BCNH出版系列。",
+      "existing_repo_status": "not_located_in_checked_inventory",
+      "repo_evidence": "两manifest及参考TXT标题索引未定位；需核希腊／法语题名变体。",
+      "sources": [
+        {
+          "url": "https://www.pulaval.com/livres/les-deux-livres-de-ieou-ms-bruce-96-les-livres-du-grand-discours-mysterique-le-livre-des-connaissances-du-dieu-invisible-fragment-sur-le-passage-de-l-ame-bcnh-textes-no-38",
+          "publisher": "拉瓦尔大学出版社",
+          "actually_read": "Éric Crégheur2019、556页、ISBN9782763726762、结构性副题及内容简介",
+          "access": "readable_page",
+          "checked_date_beijing": "2026-11-10"
+        },
+        {
+          "url": "https://www.degruyterbrill.com/document/isbn/9789004301191/html",
+          "publisher": "Brill／De Gruyter Brill",
+          "actually_read": "Erin Evans2015研究专著介绍，讨论两作品、洗礼／上升／伦理主题；这是现代研究，不是古代原作译本",
+          "access": "readable_page",
+          "checked_date_beijing": "2026-11-10"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb33446670k",
+          "publisher": "法国国家图书馆",
+          "actually_read": "Schmidt1905德译合订书目、卷题及子目；馆录有作者与原语著录疑点，不能未经复核照抄",
+          "access": "readable_page",
+          "checked_date_beijing": "2026-11-10"
+        }
+      ],
+      "chinese_availability": {
+        "mainland": "已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。",
+        "evidence": [
+          {
+            "url": "https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show",
+            "level": "search_index_only_open_403",
+            "finding": "检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。"
+          },
+          {
+            "url": "https://book.douban.com/subject/36663348/",
+            "level": "search_index_only",
+            "finding": "检索列人民出版社修订版；不是本作具体收录证明。"
+          }
+        ],
+        "confidence": "collection_lead_only",
+        "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
+      },
+      "priority": "P2",
+      "research_status": "bibliographic_source_read_scope_limited",
+      "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。"
+    }
+  ],
+  "queries_actually_used": [
+    "site.naghammadi.org publications texts",
+    "site.brill.com Books of Jeu Pistis Sophia Schmidt",
+    "site.pulaval.com Les Leçons de Silvanos",
+    "古代诺斯替主义经典文集 人民出版社 目录",
+    "古代诺斯替主义经典文集 西尔"
+  ],
+  "access_failures": [
+    {
+      "url": "https://www.naghammadi.org/",
+      "failure": "403"
+    },
+    {
+      "url": "https://gnosis.org/naghamm/nhl.html",
+      "failure": "timeout／502，不计全文读取"
+    },
+    {
+      "url": "https://www.megbook.com.hk/mall/detail.jsp?proID=3986118",
+      "failure": "工具无可读行，仅检索索引线索"
+    }
+  ],
+  "next": "BCNH系列逐卷、中文张新樟文集目录逐篇映射，现仅首轮5项。"
+}

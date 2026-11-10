@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "status": "phase1_completed_followup_pending",
+  "quota_percentage_accessible": false,
+  "stop_at_3_percent_implemented": false,
+  "inventory_manifest_rows": 286,
+  "inventory_note": "两清单合计行数，含重复和排除条目；不是286部已收录作品。",
+  "last_checkpoint": "111条分组调查合并成110条；首个待续任务eclavis-systematic。",
+  "background_service_installed": false,
+  "counts": {
+    "worker_records": 111,
+    "catalogue_records_after_one_merge": 110,
+    "modern_anthology_gateways": 1,
+    "unique_source_urls": 132
+  },
+  "first_phase_branches_completed": 6,
+  "followup_tasks_pending": 12,
+  "next_task": "eclavis-systematic",
+  "quota_stop_reason": null,
+  "stop_reason": "第一阶段按预定跨传统初筛范围完成；不是检测到余额3%。",
+  "workers_state": "本阶段工作者已交付；没有安装持续后台爬取或额度监控服务。"
+}

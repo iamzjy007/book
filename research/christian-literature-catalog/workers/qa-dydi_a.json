@@ -1,0 +1,81 @@
+{
+  "reviewer": "dydi_a",
+  "owner": "lori_a",
+  "date_beijing": "2026-11-10",
+  "scope": "按priority=高取前5项（原文件无P1值）；未审核其余14项，也未核aelred-friendship中文出版正断言。",
+  "items": [
+    "cassian-conferences",
+    "cassian-institutes",
+    "ambrose-isaac",
+    "ambrose-death",
+    "ambrose-flight"
+  ],
+  "verdict": "未见需要撤回作品的实质错误；有3处可补证/消除证据歧义。",
+  "checks": [
+    {
+      "scope": "古代原作与现代版本",
+      "result": "前5项均把原作与Ramsey/McHugh现代译本分开。BiblioVault目录实列三篇，未将Seven Exegetical Works误当另一古作。",
+      "sources": [
+        {
+          "url": "https://www.paulistpress.com/bookproduct/0484-9-57-john-cassian/",
+          "actually_read": "标题、译者、ISBN9780809104840及内容简介"
+        },
+        {
+          "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
+          "actually_read": "作者、译者、CUA1970及三篇英文/拉丁目录，年度差异仍需版权页"
+        }
+      ]
+    },
+    {
+      "scope": "仓库作者合集嵌套",
+      "result": "两manifest无Cassian section；Ambrose三units实际为c19VG作者标题，c19VP书信XVII/XVIII/XX/XXI/XXII/XL，c1A1G书信XLI/LI/LVII/LXI/LXII/LXIII。已看正式JSON标题与开头。没有三部候选的独立文本。仍不排除别处引用。",
+      "files": [
+        "bible/translation/manifest.json",
+        "bible/translation/history-patristics/manifest.json",
+        "bible/translation/history-patristics/zh/ambrose-of-milan-4th-century/c19VG.json",
+        "bible/translation/history-patristics/zh/ambrose-of-milan-4th-century/c19VP.json",
+        "bible/translation/history-patristics/zh/ambrose-of-milan-4th-century/c1A1G.json"
+      ]
+    },
+    {
+      "scope": "中文出版断言",
+      "result": "前5项都是有限检索未查得，且明确非未出版结论，未发现不当绝对否定。search_queries为空说明可追溯度不足，应补实际查询。QA新查到Cassian研究/引用；不是原作完整中文出版证据。",
+      "queries": [
+        "卡西安 会谈录 出版",
+        "安波罗修 论死亡 出版",
+        "安博 靈魂 以撒 出版"
+      ],
+      "sources": [
+        {
+          "url": "https://www.gcdfl.org/posts/ajia/2025-10-06-latin10-cassian/",
+          "actually_read": "2025-10-06作者/课程身份、目录与两部作品书目，属于中文研究讲稿和引文"
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "severity": "补证",
+      "item": "cassian-institutes",
+      "issue": "所列旧出版社PDF链接本次open404；owner诚实标为搜索摘录候选，非虚报实读。",
+      "replacement_source": "https://www.paulistpress.com/bookproduct/0522-5-58-john-cassian/",
+      "actually_read": "出版社正式页ACW58、The Institutes、Ramsey、ISBN9780809105229和内容简介；未核此页未显示的2000年份。"
+    },
+    {
+      "severity": "低",
+      "item": "ambrose-flight",
+      "issue": "参考TXT47894命中逃离世界，是腓力福音六十一c正文普通措辞，不是Ambrose篇名/引文。negative总体结论可保留但建议标假阳性。",
+      "evidence": "实际查看47890—47897行上下文。"
+    },
+    {
+      "severity": "补充",
+      "items": [
+        "cassian-conferences",
+        "cassian-institutes"
+      ],
+      "issue": "可补中文研究/节引线索与查询式，不更改完整出版未知的判断。"
+    }
+  ],
+  "notification": "已向lori_a发送全部补证信息；未编辑其文件。",
+  "limitations": "快速重点QA，不是五部全文评读；未完成中文联合馆藏普查。"
+}

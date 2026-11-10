@@ -1,0 +1,537 @@
+{
+  "worker": "lori_b",
+  "date": "2026-11-10",
+  "scope": "早期教规、礼仪、朝圣与殉道具体作品16项；资源地图与中文可得性方法",
+  "status": "bibliographic_research_complete_with_explicit_limits",
+  "method": "只查书目、研究简介、出版说明和仓库清单；未翻译、未下载图书/全文；搜索摘要与实际打开网页逐项区分。",
+  "sources": {
+    "yale_manuals": {
+      "url": "https://guides.library.yale.edu/ancientchristianity/manuals",
+      "actually_read": "耶鲁图书馆研究指南；实际打开教规条目及版本列表",
+      "limits": "目录/概要，非各书正文"
+    },
+    "didas": {
+      "url": "https://gedsh.bethmardutho.org/Didascalia-Apostolorum",
+      "actually_read": "GEDSH学术百科；实际读条目开头、传本、Primary Sources",
+      "limits": "专业概述；未取得CSCO书内校勘"
+    },
+    "hipp": {
+      "url": "https://alcuinclub.org.uk/product/the-canons-of-hippolytus/",
+      "actually_read": "Alcuin Club；实际读38教规、阿拉伯传本及版本史、译者信息",
+      "limits": "出版说明，非全文校读"
+    },
+    "test": {
+      "url": "https://www.ucl.ac.uk/social-historical-sciences/testamentum-domini",
+      "actually_read": "UCL；实际读介绍、希腊残片鉴定和书目",
+      "limits": "项目介绍；未下载校勘本文"
+    },
+    "sarap": {
+      "url": "https://academic.oup.com/jts/article-abstract/os-I/1/88/1673649",
+      "actually_read": "JTS书目搜索结果：The Sacramentary of Serapion of Thmuis",
+      "limits": "仅书目线索；本轮未读论文全文"
+    },
+    "egeria": {
+      "url": "https://bmcr.brynmawr.edu/2021/2021.11.48/",
+      "actually_read": "BMCR Dennis Trout书评全文：2020拉英对照版与2018英译关系",
+      "limits": "书评，非古文全本；两版本同一译者系，不算双独立译本"
+    },
+    "bordeaux": {
+      "url": "https://catalogue.nli.ie/Record/vtls000174510",
+      "actually_read": "爱尔兰国家图书馆目录检索：Aubrey Stewart译、C.W.Wilson注",
+      "limits": "搜索所得馆藏元数据，未读全文"
+    },
+    "martyrs": {
+      "url": "https://openlibrary.org/show-records/marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:24438395:4591",
+      "actually_read": "Claremont神学院MARC镜像；实际读041/245/260/505/546字段，确认Musurillo1972目录与希腊/拉丁英译对照",
+      "limits": "证明出版与收录，不证明所有传记早期成书或司法档案真实性"
+    },
+    "martyr_method": {
+      "url": "https://academic.oup.com/jaar/article-abstract/89/4/1504/6428313",
+      "actually_read": "Rebillard研究书评搜索摘要，说明叙事年代与真实性须分开",
+      "limits": "仅摘要，不把其争议结论当全部学界共识"
+    },
+    "hymn": {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb44478840j",
+      "actually_read": "法国国家图书馆目录搜索摘要：Cosgrove, An Ancient Christian Hymn with Musical Notation",
+      "limits": "书目线索；未看纸草图像或释读"
+    },
+    "zh_trad": {
+      "url": "https://www.cclc.org.hk/product/尼西亞前期教父選集/",
+      "actually_read": "香港基督教文艺出版社；实际打开目录、译者、ISBN、出版地及版次字段",
+      "limits": "确认正式出版且收使徒遗传；未核该篇完整度和译文底本"
+    },
+    "zh_mainland": {
+      "url": "https://www.logos.com.hk/bf/acms/content.asp?code=9787108044655&op=show&site=logosbf&type=product",
+      "actually_read": "香港零售目录搜索结果：三联《使徒教父著作》2013简体版",
+      "limits": "销售地不等于出版地；该书不是使徒遗传的确认依据"
+    },
+    "zh_egeria": {
+      "url": "https://gospelchina.cn/article-detail/259.html",
+      "actually_read": "搜索命中《大斋期的圣周传统和礼仪实践（下）》提埃格里亚游记",
+      "limits": "仅介绍/引用线索，不是已确认完整译本"
+    },
+    "zh_pionius": {
+      "url": "https://wkxb.sicnu.edu.cn/Publish/201103/林中泽.pdf",
+      "actually_read": "四川师大学报2011论文检索摘要提皮奥尼乌斯殉道",
+      "limits": "仅学术引用，未打开/下载论文，不计作品中文译本"
+    },
+    "zh_scill": {
+      "url": "https://chunsheng-huangchunsheng.blogspot.com/2022/07/?m=0",
+      "actually_read": "检索命中西里坦殉道者介绍",
+      "limits": "个人网页；未核有无完整译文、授权或版本"
+    }
+  },
+  "items": [
+    {
+      "id": "lb01",
+      "title_zh_working": "使徒传统／使徒遗传",
+      "title_original": "Traditio apostolica / Apostolic Tradition",
+      "genre": "礼仪教规",
+      "languages": "希腊原本重构；拉丁、科普特、阿拉伯、吉兹等见证",
+      "date_and_attribution": "传统归希波律陀、约215；现代研究常视多层材料，不能定为单一作者年",
+      "summary_and_value": "按立、洗礼、圣餐与日常祷告；适合研究礼仪制度形成。",
+      "sources": [
+        "yale_manuals",
+        "zh_trad"
+      ],
+      "edition_lead": "Bradshaw等2002评注、Botte校本；版本需作见证对照。",
+      "repository_status": "已有apostolic-church-order/didache并非本作；未见独立标题；可能信经摘引待逐块查。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "confirmed_hong_kong_print",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "优先核香港选集该篇与现代重构差异；不因有旧中文就另造新译。",
+      "full_text_read_this_round": false
+    },
+    {
+      "id": "lb02",
+      "title_zh_working": "使徒遗范／使徒训诲",
+      "title_original": "Didascalia apostolorum",
+      "genre": "教规合集",
+      "languages": "希腊原作片段；叙利亚为主要见证，另拉丁等",
+      "date_and_attribution": "约3世纪叙利亚；托名使徒、作者不详，终编与材料层需区分",
+      "summary_and_value": "教职、纪律及信徒生活；后世教规编纂的重要前身。",
+      "sources": [
+        "didas"
+      ],
+      "edition_lead": "Connolly1929；Stewart-Sykes2009；Vööbus CSCO401–402、407–408（1979）。",
+      "repository_status": "独立manifest未见；与Apostolic Constitutions前六卷是改编关系，非同本。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "先查叙利亚版章节对照；中文增搜使徒遗范而非只搜Didascalia。",
+      "full_text_read_this_round": false
+    },
+    {
+      "id": "lb03",
+      "title_zh_working": "希波律陀教规",
+      "title_original": "Canones Hippolyti",
+      "genre": "教规合集",
+      "languages": "现存阿拉伯文；一般认为经科普特译自希腊",
+      "date_and_attribution": "通常置4世纪埃及；托名希波律陀，非可直接署名真作",
+      "summary_and_value": "38条教规及结语；研究埃及礼仪、教职与社群生活。",
+      "sources": [
+        "hipp"
+      ],
+      "edition_lead": "Coquin阿拉伯校本；Bebawi英译，Bradshaw编Joint Liturgical Studies2。",
+      "repository_status": "两manifest无独立标题；不等同使徒传统及其埃塞俄比亚教规标题。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "核Coquin原文与Bebawi；另查缩略教规是否已在资料中。",
+      "full_text_read_this_round": false
+    },
+    {
+      "id": "lb04",
+      "title_zh_working": "我主遗训／主的遗嘱",
+      "title_original": "Testamentum Domini nostri Iesu Christi",
+      "genre": "启示框架教规",
+      "languages": "原作希腊，叙利亚等译本；新识别希腊残片",
+      "date_and_attribution": "约4–5世纪；托名复活基督向使徒传授",
+      "summary_and_value": "礼仪规范置于启示叙事；帮助区分教规与福音外传边界。",
+      "sources": [
+        "test"
+      ],
+      "edition_lead": "Rahmani1899叙利亚/拉丁；Cooper/MacLean1902英译；Corcoran/Salway2011残片。",
+      "repository_status": "无独立manifest标题；不可与Testament of Abraham等旧约遗训混同。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "确定采用叙利亚版本还是希腊残片对读，避免拼成假完整原作。",
+      "full_text_read_this_round": false
+    },
+    {
+      "id": "lb05",
+      "title_zh_working": "特姆伊斯撒拉皮翁祷文集",
+      "title_original": "Euchologion / Sacramentary of Sarapion of Thmuis",
+      "genre": "早期祷文",
+      "languages": "希腊文",
+      "date_and_attribution": "4世纪埃及材料，传统系于撒拉皮翁；逐祷文归属须另核",
+      "summary_and_value": "圣餐、洗礼、按立及祝福祷文；可作礼仪用语比较。",
+      "sources": [
+        "sarap"
+      ],
+      "edition_lead": "F.E.Brightman JTS早期论文；R.C.D.Jasper/G.J.Cuming等现代研究须下一轮核版本。",
+      "repository_status": "已有serapion-of-antioch不是本作者；不可因同名判已有。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "优先取正式祷文校本目录和作者归属讨论；不从现代礼仪反推古文。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb06",
+      "title_zh_working": "亚他那修教规（科普特—阿拉伯传统）",
+      "title_original": "Canons of Athanasius of Alexandria",
+      "genre": "教规合集",
+      "languages": "科普特与阿拉伯传本",
+      "date_and_attribution": "晚古代埃及材料；托名亚他那修，终编年代待专门校核",
+      "summary_and_value": "教会纪律与日常生活规范；考察后世借教父权威编纂。",
+      "sources": [
+        "yale_manuals"
+      ],
+      "edition_lead": "Wilhelm Riedel/W.E.Crum, The Canons of Athanasius of Alexandria。",
+      "repository_status": "作者合集athanasius-4th-century存在，但manifest单位标题未确认此集；待内容级核查。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "核Crum版本和实际归属，不能把作者已有等同全集已有。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb07",
+      "title_zh_working": "埃格里亚游记／圣地朝圣记",
+      "title_original": "Itinerarium Egeriae / Peregrinatio",
+      "genre": "朝圣记",
+      "languages": "拉丁文",
+      "date_and_attribution": "4世纪末女性朝圣者记述；具体旅行年代须据研究，不以单一传统断年",
+      "summary_and_value": "旅行、耶路撒冷礼仪与口语拉丁的重要材料。",
+      "sources": [
+        "egeria",
+        "zh_egeria"
+      ],
+      "edition_lead": "McGowan/Bradshaw2018英译评注；2020 Brepols拉英对照；CCSL175、SC296。",
+      "repository_status": "两manifest无独立条目；阿布加书信/圣地片段引用不构成完整游记。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "web_mention_only",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "核中文译名异体及港台图书馆；选2018评注与拉丁校本，不把2020当独立新译。",
+      "full_text_read_this_round": false
+    },
+    {
+      "id": "lb08",
+      "title_zh_working": "波尔多朝圣者行程",
+      "title_original": "Itinerarium Burdigalense",
+      "genre": "朝圣记",
+      "languages": "拉丁文",
+      "date_and_attribution": "记333年行程；匿名",
+      "summary_and_value": "道路站点与早期圣地地理，和埃格里亚互补。",
+      "sources": [
+        "bordeaux"
+      ],
+      "edition_lead": "Aubrey Stewart英译、C.W.Wilson注，Palestine Pilgrims Text Society旧版。",
+      "repository_status": "无独立manifest；与Egeria是不同作品。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "核现代拉丁版及路线地名；中文本轮未作充分单项检索。",
+      "full_text_read_this_round": false
+    },
+    {
+      "id": "lb09",
+      "title_zh_working": "西里坦殉道者案录",
+      "title_original": "Acta martyrum Scillitanorum",
+      "genre": "殉道文献",
+      "languages": "拉丁文",
+      "date_and_attribution": "叙事事件180年；现存文本层次年代不能直接等同事件年",
+      "summary_and_value": "短篇审讯叙事，北非基督徒身份研究。",
+      "sources": [
+        "martyrs",
+        "zh_scill"
+      ],
+      "edition_lead": "Musurillo1972；另Rebillard文本史研究应并看。",
+      "repository_status": "两manifest无独立标题；未穷尽史书引文。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "web_mention_only",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "核拉丁诸版本；现命中个人中文介绍，不宣称已有完整正式译本。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb10",
+      "title_zh_working": "游斯丁及同伴殉道案录",
+      "title_original": "Acta Iustini et sociorum",
+      "genre": "殉道文献",
+      "languages": "希腊文，多个修订本",
+      "date_and_attribution": "记2世纪中叶殉道；作者匿名，版本成文须分别定年",
+      "summary_and_value": "审讯与信仰自述；必须区分护教辞作者作品和关于他的叙事。",
+      "sources": [
+        "martyrs"
+      ],
+      "edition_lead": "Musurillo1972多文本研究入口。",
+      "repository_status": "first-apology/second-apology已有，不能当殉道案录；独立标题未见。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "检索查士丁/犹斯定异名；确定短本/长本，不只选通行网络译文。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb11",
+      "title_zh_working": "里昂与维埃纳教会书信",
+      "title_original": "Epistula ecclesiarum Lugdunensis et Viennensis",
+      "genre": "殉道书信",
+      "languages": "希腊文，主要保存在优西比乌",
+      "date_and_attribution": "记177年逼迫；教会集体书信，由4世纪史书保存",
+      "summary_and_value": "群体记忆、女性殉道者与史书引文关系。",
+      "sources": [
+        "martyrs"
+      ],
+      "edition_lead": "Musurillo1972；Eusebius Historia ecclesiastica V.1–2。",
+      "repository_status": "the-ecclesiastical-history已在仓库：属高概率已有嵌入文本，不能列为全新缺卷。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "embedded_translation_likely",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "先定位现译教会史第五卷对应，独立抽编应标摘录而不重复翻译。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb12",
+      "title_zh_working": "居普良案录",
+      "title_original": "Acta proconsularia Cypriani",
+      "genre": "殉道文献",
+      "languages": "拉丁文",
+      "date_and_attribution": "记257–258年审讯与死亡；匿名编传",
+      "summary_and_value": "法律场景与主教身份；不等于居普良书信或庞提乌斯传。",
+      "sources": [
+        "martyrs"
+      ],
+      "edition_lead": "Musurillo1972；需另核文本各段层次。",
+      "repository_status": "cyprian-3rd-century存在多书信，独立案录未由标题确认；内容重叠待核。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "核作者合集末尾是否收案录；再与Vita Cypriani区分。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb13",
+      "title_zh_working": "皮奥尼乌斯殉道记",
+      "title_original": "Martyrium Pionii",
+      "genre": "殉道文献",
+      "languages": "希腊文",
+      "date_and_attribution": "叙事置德修迫害约250年；成文与修订有争论",
+      "summary_and_value": "士每拿社会与殉道记忆，需防把文学构造当庭审逐字记录。",
+      "sources": [
+        "martyrs",
+        "zh_pionius"
+      ],
+      "edition_lead": "Musurillo1972；Rebillard2017/2020研究入口。",
+      "repository_status": "martyrdom-of-polycarp不是本作；独立标题未见。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "scholarly_citation_only",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "中文论文提及不等于译本；核不同年代意见及希腊校本。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb14",
+      "title_zh_working": "阿加佩、喀俄尼亚与伊瑞妮殉道记",
+      "title_original": "Passio Agapes Chioniae et Irenes",
+      "genre": "殉道文献",
+      "languages": "希腊文",
+      "date_and_attribution": "记304年事件；现存叙事成文待核",
+      "summary_and_value": "女性、禁书与审讯；与一般圣人简介分开。",
+      "sources": [
+        "martyrs"
+      ],
+      "edition_lead": "Musurillo1972目录确认收录。",
+      "repository_status": "两manifest无独立标题；史书或圣徒资料中片段尚未排除。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "下一轮核古文版本、姓名异译及中文圣徒传是否仅摘要。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb15",
+      "title_zh_working": "塞巴斯特四十殉道者遗嘱",
+      "title_original": "Testamentum XL martyrum Sebastenorum",
+      "genre": "殉道者遗嘱",
+      "languages": "希腊文",
+      "date_and_attribution": "背景4世纪初；归属与文本成文不能仅以传统认定",
+      "summary_and_value": "遗愿、共同体与纪念实践；区别后出殉道传和讲道。",
+      "sources": [
+        "martyrs"
+      ],
+      "edition_lead": "Musurillo1972末篇目录确认。",
+      "repository_status": "无独立manifest；Basil等合集可能含相关称颂，不能当同一遗嘱。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "核BHG条目和原文，先辨作品再查中文书目。",
+      "full_text_read_this_round": false,
+      "chronology_evidence_limit": "日期栏是初步文献史定位；本轮书目收录证据未逐项核完作品导论，尤其事件日期不作成文断代结论，下一轮须查现代校本导论。"
+    },
+    {
+      "id": "lb16",
+      "title_zh_working": "俄克喜林库斯赞美诗（P.Oxy. XV 1786）",
+      "title_original": "Oxyrhynchus Hymn, P.Oxy. XV 1786",
+      "genre": "早期祷歌",
+      "languages": "希腊文及古希腊音乐记谱",
+      "date_and_attribution": "3世纪末纸草见证，作者匿名",
+      "summary_and_value": "罕见带记谱的早期基督教赞歌；文本残缺和音乐复原需分开。",
+      "sources": [
+        "hymn"
+      ],
+      "edition_lead": "Charles H.Cosgrove, An Ancient Christian Hymn with Musical Notation, Mohr Siebeck2011, STAC65。",
+      "repository_status": "无独立manifest；odes-of-peace不是这件纸草。",
+      "repository_evidence": "已读两个manifest全部section id，并检索相关作品名/unit标题；除明确指出嵌入外不声称穷尽所有正文。",
+      "chinese_status": "not_verified",
+      "chinese_caution": "本轮未确证中文正式全译不等于没有出版；港台/大陆/网络分别记录。",
+      "next_step": "核纸草标识和馆藏图像许可；中文网络歌曲译配不等于古文校译。",
+      "full_text_read_this_round": false
+    }
+  ],
+  "chinese_confirmed": [
+    {
+      "work": "使徒遗传",
+      "container": "尼西亚前期教父选集",
+      "publisher": "香港基督教文艺出版社",
+      "isbn": "962-294-052-8",
+      "editions": "1962年10月初版；1998年8月三版",
+      "translators_volume": "谢秉德、黄主义、赵世泽、朱信（卷级署名；篇级须再核）",
+      "source": "zh_trad",
+      "coverage": "出版社目录确认第四篇；正文完整度和翻译底本未核"
+    }
+  ],
+  "repository_notes": [
+    "Didache、Apostolic Church Order、Apostolic Tradition、Didascalia、Apostolic Constitutions不能互相替代。",
+    "两manifest未见独立Apostolic Constitutions；参考总集heading有希腊化时期的会堂祷文，可能涉及该集摘文，不能据清单缺标题断言仓库全无。",
+    "已存在Polycarp与Perpetua殉道记，故未当新缺项列入。"
+  ],
+  "manifest_snapshots": {
+    "bible/translation/manifest.json": "8ffe9fe418458c853be774dae501321ed724f0f8db1428a69185bd717aaa87ac",
+    "bible/translation/history-patristics/manifest.json": "714b01108babd00d750efc00bdcab1d8aedcbfe3a4b7167693cfe02490791edd"
+  },
+  "research_date_beijing": "2026-11-10",
+  "search_log": [
+    {
+      "date_beijing": "2026-11-10",
+      "engine": "connected web search",
+      "batch": 1,
+      "queries": [
+        "Biblindex patristic biblical quotations database about",
+        "Pinakes IRHT Greek manuscripts database",
+        "NASSCAL e clavis Christian apocrypha church orders Apostolic Tradition"
+      ],
+      "outcome": "实际执行；关联成功来源见sources和resource-map-lori_b.md。多词合批结果可能混合，不把未展示特定词的结果称零命中。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "engine": "connected web search",
+      "batch": 2,
+      "queries": [
+        "site.brepols.net Clavis Patrum Graecorum Clavis Patrum Latinorum",
+        "site.peeters-leuven.be Corpus Scriptorum Christianorum Orientalium Patrologia Orientalis",
+        "site.litpress.org Apostolic Tradition Didascalia Apostolorum Canons Hippolytus",
+        "site.brepols.net Egeria Pilgrimage Serapion Sacramentary Testamentum Domini"
+      ],
+      "outcome": "实际执行；关联成功来源见sources和resource-map-lori_b.md。多词合批结果可能混合，不把未展示特定词的结果称零命中。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "engine": "connected web search",
+      "batch": 3,
+      "queries": [
+        "\"使徒傳統\" 出版 譯",
+        "\"厄格利亞\" 朝聖 出版",
+        "\"艾格利亚\" 朝圣记",
+        "\"希波律陀\" \"使徒\" 出版",
+        "\"古代基督教\" \"殉道\" 出版 帕佩图"
+      ],
+      "outcome": "实际执行；关联成功来源见sources和resource-map-lori_b.md。多词合批结果可能混合，不把未展示特定词的结果称零命中。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "engine": "connected web search",
+      "batch": 4,
+      "queries": [
+        "site.liverpooluniversitypress.co.uk \"Testamentum Domini\"",
+        "site.brepols.net \"Serapion\" \"Sacramentary\"",
+        "site.brepols.net \"Canons of Hippolytus\"",
+        "site.oup.com \"Early Christian Martyr Acts\" Scillitan Pionius",
+        "site.cambridge.org \"Bordeaux Pilgrim\" 333",
+        "site.brepols.net \"Egeria\" \"2020\""
+      ],
+      "outcome": "实际执行；关联成功来源见sources和resource-map-lori_b.md。多词合批结果可能混合，不把未展示特定词的结果称零命中。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "engine": "connected web search",
+      "batch": 5,
+      "queries": [
+        "site.hup.harvard.edu \"Early Christian Martyr Stories\" Rebillard contents",
+        "site.ox.ac.uk \"Scillitan\" \"Pionius\" martyrs",
+        "site.library.ox.ac.uk \"1786\" hymn",
+        "site.brepols.net \"Patrologia Orientalis Database\"",
+        "\"厄格利亞\" \"朝聖\" 書",
+        "\"撒拉皮翁\" \"祈祷\" 译本",
+        "\"尼西亞前期教父選集\" 譯者 出版社"
+      ],
+      "outcome": "实际执行；关联成功来源见sources和resource-map-lori_b.md。多词合批结果可能混合，不把未展示特定词的结果称零命中。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "engine": "connected web search",
+      "batch": 6,
+      "queries": [
+        "\"西里坦\" 殉道 中文",
+        "\"皮奥尼\" 殉道 译",
+        "\"游斯丁\" \"殉道记\" 出版",
+        "\"Didascalia\" \"中文\"",
+        "\"Egeria\" \"中文\" 朝圣",
+        "\"撒拉皮翁\" \"祷文\"",
+        "\"亚他那修教规\""
+      ],
+      "outcome": "实际执行；关联成功来源见sources和resource-map-lori_b.md。多词合批结果可能混合，不把未展示特定词的结果称零命中。"
+    }
+  ],
+  "access_failures": [
+    {
+      "url": "https://www.biblindex.org/en/overview",
+      "operation": "open",
+      "result": "403 Forbidden",
+      "fallback": "读取搜索返回官方概述与AIEP/NAPS说明；未进入检索结果正文",
+      "next": "后续正常浏览器/图书馆网络核官方功能页，不据403判库无记录。"
+    },
+    {
+      "url": "https://i-stamboul.irht.cnrs.fr/en/pinakes",
+      "operation": "open",
+      "result": "400 Timeout fetching",
+      "fallback": "使用IRHT/Diktyon搜索结果范围说明；未检索16件作品的Pinakes记录",
+      "next": "重试IRHT主站及Pinakes界面，实际记录作品号和抄本号。"
+    }
+  ],
+  "next_phase": [
+    "查明各候选是否嵌入已有作者合集、教会史与中文参考总集；目前标题级未见不能作全文缺失证明。",
+    "《使徒遗传》取正式中文版权页、篇级署名与首末章，确定完整度和底本。",
+    "中文剩余候选按大陆国图/CALIS及港台馆藏分别实查并记录失败，不用综合搜索代替馆藏穷尽。",
+    "各殉道作品核BHG/BHL/Clavis具体修订本和现代校本；本轮不编造编号。",
+    "资源地图可继续补实际登录/查询能力，本轮未取得订阅全文也未下载图书。"
+  ],
+  "summary_counts": {
+    "candidate_works": 16,
+    "confirmed_hong_kong_print_containing_work": 1,
+    "full_texts_read": 0,
+    "search_queries": 32,
+    "direct_access_failures": 2
+  }
+}

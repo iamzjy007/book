@@ -1,0 +1,23 @@
+{
+  "baseline_commit": "07659462642749e14a4bae75286de44008322e4a",
+  "date_beijing": "2026-11-10",
+  "files": [
+    {
+      "path": "bible/translation/manifest.json",
+      "sha256": "8ffe9fe418458c853be774dae501321ed724f0f8db1428a69185bd717aaa87ac"
+    },
+    {
+      "path": "bible/translation/history-patristics/manifest.json",
+      "sha256": "714b01108babd00d750efc00bdcab1d8aedcbfe3a4b7167693cfe02490791edd"
+    },
+    {
+      "path": "bible/基督教典外文献（共10册）_手机版.txt",
+      "sha256": "4d45e6cc4308e9314e599c8f67ec21a071715205112cd8595abb0e83910176a3"
+    },
+    {
+      "path": "bible/18黑马牧人书.txt",
+      "sha256": "11c4ce60d65e6a84dc3a8adb392a2726092903df1a66d426ae0343f32819be9f"
+    }
+  ],
+  "limitations": "标题索引不是全文作品识别；同名作者合集须另查源文。286条manifest行包括重复和排除项。"
+}

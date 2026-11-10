@@ -1,0 +1,1096 @@
+{
+  "worker": "dydi_d",
+  "phase": 1,
+  "status": "phase1_completed_with_explicit_gaps",
+  "date_beijing": "2026-11-10",
+  "scope": "希腊/拜占庭灵修与神秘神学20原作；Philokalia作为选集关系另列，不计第21原作",
+  "method": "先检仓库manifest/目录及中文参考TXT，再读出版机构介绍、学者目录和图书馆聚合元数据；只研究书目，不全文下载翻译。",
+  "sources": [
+    {
+      "id": "evag_intro",
+      "url": "https://www.ldysinger.com/Evagrius/01_introd.htm",
+      "institution_or_publisher": "Luke Dysinger OSB，Saint Andrew’s Abbey学者个人教学站",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "作者生平、匿名/异名传承及译本出处；说明所供转录与翻译可能有错，引用Sinkewicz2003。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "evag_nav",
+      "url": "https://www.ldysinger.com/Evagrius/00b_nav.htm",
+      "institution_or_publisher": "Luke Dysinger教学资源",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "目录分别列Praktikos、Gnostikos、Kephalaia Gnostica、On Prayer及Antirrhetikos；不是把它们视为一个原作。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "sink",
+      "url": "https://svspress.com/evagrius-of-pontus-the-greek-ascetic-corpus/",
+      "institution_or_publisher": "SVS Press书店/Oxford University Press版",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Robert E. Sinkewicz, 2003, 369页, ISBN9780199297085；以现代校本或主要抄本校合为本的希腊禁欲著作英译及长本Eulogios附录。",
+      "limitations": "出版社机构书店转售OUP书目，非OUP本页；OUP本页本次返回202空内容。"
+    },
+    {
+      "id": "prakt_pray",
+      "url": "https://svspress.com/praktikos-and-chapters-on-prayer-the/",
+      "institution_or_publisher": "SVS Press书店/Cistercian Publications",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "1972年合刊两部作品；ISBN9780879079048。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "back",
+      "url": "https://litpress.org/Products/CS229P/Evagrius-of-Pontus-Talking-Back",
+      "institution_or_publisher": "Liturgical Press/Cistercian Publications",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "David Brakke译Talking Back，2009-08-01, 200页, ISBN9780879073299；八类试探、500余应对情境及经文回应。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "kg",
+      "url": "https://openlibrary.org/books/OL28411845M.json",
+      "institution_or_publisher": "Internet Archive Open Library；记录来源列Claremont、Columbia及Harvard MARC",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Ilaria Ramelli参与译注，Evagrius, Kephalaia gnostika: a new translation of the unreformed text from the Syriac，SBL Press 2015，Writings from the Greco-Roman World38，ISBN9781628370393；目录明列两版本及希腊散佚后译本保存。",
+      "limitations": "聚合馆藏元数据；subjects/work_titles字段误混Gnostikos，不能据该字段把两部原作合并。"
+    },
+    {
+      "id": "love",
+      "url": "https://svspress.com/four-hundred-chapters-on-love/",
+      "institution_or_publisher": "St Vladimir’s Seminary Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Luis Joshua Salés译，PPS22，2026，262页，ISBN9780881417319；希腊文/英译对照。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "ascetic",
+      "url": "https://svspress.com/ancient-christian-writers-st-maximus-vol-xxi/",
+      "institution_or_publisher": "SVS Press书店/Paulist Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Polycarp Sherwood，Ancient Christian Writers21，The Ascetic Life与The Four Centuries on Charity合刊，292页，ISBN9780809102587；网页未列本版本印年。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "myst",
+      "url": "https://svspress.com/on-the-ecclesiastical-mystagogy-pps-59/",
+      "institution_or_publisher": "St Vladimir’s Seminary Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Jonathan J. Armstrong译，2020，PPS59，ISBN9780881416473；教堂、人和宇宙之间的象征及礼仪参与。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "ambig",
+      "url": "https://openlibrary.org/works/OL21069997W/editions.json",
+      "institution_or_publisher": "Open Library；记录列Library of Congress、Columbia及Harvard MARC",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Nicholas Constas，On Difficulties in the Church Fathers: The Ambigua，Harvard University Press2014；希腊/英语，ISBN9780674730830；目录描述思想与后世接受。",
+      "limitations": "只核一册记录；整部两册范围须续核，不能用400页当作两册总页数。HUP及Dumbarton页面本次受阻。"
+    },
+    {
+      "id": "thal",
+      "url": "https://openlibrary.org/books/OL27358762M.json",
+      "institution_or_publisher": "Open Library馆藏/书目聚合",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "On Difficulties in Sacred Scripture: The Responses to Thalassios，CUA Press2018-05-02，592页，ISBN9780813230313，OCLC1020032265；另搜索记录列Maximos Constas。",
+      "limitations": "CUA对应直链返回Book not found；以可读馆藏元数据核书目，详细目录及译者责任说明须续查。"
+    },
+    {
+      "id": "symeon_disc",
+      "url": "https://svspress.com/symeon-the-new-theologian-the-discourses/",
+      "institution_or_publisher": "SVS Press书店/Paulist Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "C.J. deCatanzaro译，1980，396页，ISBN9780809122301；修院晨祷讲论及悔改、诫命、光与三一经验主题。",
+      "limitations": "产品页生年942与新版949有差异，不强定生年。"
+    },
+    {
+      "id": "symeon_eth",
+      "url": "https://svspress.com/on-the-mystical-life-the-ethical-discourses-st-symeon-the-new-theologian-volume-i-the-church-and-the-last-things/",
+      "institution_or_publisher": "St Vladimir’s Seminary Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Alexander Golitzin译，卷I PPS14，193页，ISBN9780881411423；卷I教会圣礼末世，卷II德行，卷III忏悔书信及生平神学导论。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "symeon_hymn",
+      "url": "https://svspress.com/hymns-of-divine-eros-pps-longer-works/",
+      "institution_or_publisher": "St Vladimir’s Seminary Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "John A. McGuckin译，2026，934页，ISBN9780881418019；页面标2026-11-01发行及首次英希对照。",
+      "limitations": "按2026-11-10页面信息；未查实馆藏入藏及实物到货，不以标价等于可立即购买。"
+    },
+    {
+      "id": "diad",
+      "url": "https://litpress.org/Products/CS239P/Following-the-Footsteps-of-the-Invisible",
+      "institution_or_publisher": "Liturgical Press/Cistercian Publications",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Cliff Ermatinger，Following the Footsteps of the Invisible: The Complete Works of Diadochus of Photikë，2010-10-01，176页，ISBN9780879072391；五世纪、辨别诸灵、恩典/协作与早期耶稣祷文。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "isaiah",
+      "url": "https://litpress.org/Products/CS150P/Abba-Isaiah-of-Scetis-Ascetic-Discourses",
+      "institution_or_publisher": "Liturgical Press/Cistercian Publications",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "John Chryssavgis、Pachomios(Robert)Penkett译，Ascetic Discourses，2001-09-01，284页，ISBN9780879077501；五世纪埃及/巴勒斯坦、加沙特色与修院关系。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "mark",
+      "url": "https://svspress.com/counsels-on-the-spiritual-life-volumes-one-and-two-mark-the-monk/",
+      "institution_or_publisher": "St Vladimir’s Seminary Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Tim Vivian、Augustine Casiday译，2009，PPS37，339页，ISBN9780881410631；五世纪小亚细亚修士及忏悔/爱/基督论，记录拜占庭和宗教改革时期接受。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "ladder",
+      "url": "https://svspress.com/the-ladder-of-divine-ascent/",
+      "institution_or_publisher": "SVS Press书店/Holy Transfiguration Monastery",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "The Ladder of Divine Ascent，274页，ISBN9780943405032；三十阶及西乃院长身份。",
+      "limitations": "页面称六世纪作者；古代生卒及成书年份另有争议，本记录采用约六末至七世纪而不依营销文强定。"
+    },
+    {
+      "id": "triads",
+      "url": "https://svspress.com/the-triads/",
+      "institution_or_publisher": "St Vladimir’s Seminary Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Alexander R. Titus译，2025，818页，ISBN9780881417265，希英对照；针对Barlaam及身心整体参与神圣生命。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "triads_old",
+      "url": "https://svspress.com/gregory-palamas-the-triads/",
+      "institution_or_publisher": "SVS Press书店/Paulist Press",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Nicholas Gendle译、John Meyendorff编，172页，ISBN0809124475；明确为extensive excerpts，非全文，原作1338—1341。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "phil1",
+      "url": "https://www.faber.co.uk/product/9780571130139-the-philokalia/",
+      "institution_or_publisher": "Faber & Faber",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "第1卷，ISBN9780571130139，平装1983-02-28；希腊原选集初刊1782，收四至十五世纪诸作品。",
+      "limitations": "仅书目、介绍或目录；未下载或翻译作品全文"
+    },
+    {
+      "id": "phil_toc",
+      "url": "https://en.wikipedia.org/wiki/Philokalia",
+      "institution_or_publisher": "Wikipedia目录入口（低于出版社和校本）",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "只取分卷作品题名导航：卷1 Hesychios、Diadochos、Mark、Isaiah；卷4 Nikephoros。",
+      "limitations": "目录线索不是古本校勘证据；Hesychios/Nikephoros需出版社详目或图书馆TOC补核。"
+    },
+    {
+      "id": "phil4",
+      "url": "https://svspress.com/the-philokalia-volume-iv/",
+      "institution_or_publisher": "SVS Press书店/Faber & Faber",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "1995，458页，ISBN9780571193820；原希腊英译及西默盎、静修与帕拉玛内容介绍。",
+      "limitations": "页面误写希腊初刊1982；采用Faber主页1782，不照抄此误。"
+    },
+    {
+      "id": "sc_gnost",
+      "url": "https://sourceschretiennes.org/collection/SC-356",
+      "institution_or_publisher": "Sources Chrétiennes（古代基督教文本研究/校勘出版计划）",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Antoine及Claire Guillaumont，1989年5月，208页，ISBN9782204031905；希腊残片校本及据叙利亚/亚美尼亚全译；明确50章，希腊存约半，完整作品靠古译保存，部分片段署尼鲁斯/马克西穆。",
+      "limitations": "只读取书目及出版说明，未取得作品全文；不把简介当逐字校勘。"
+    },
+    {
+      "id": "sc_pray",
+      "url": "https://sourceschretiennes.org/collection/SC-589",
+      "institution_or_publisher": "Sources Chrétiennes（古代基督教文本研究/校勘出版计划）",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Paul Géhin，2017年10月，470页，ISBN9782204122078；希腊校本、153章及传承说明；长期署安居拉的尼鲁斯，校本确认埃瓦格里乌斯归属；另列反梅撒利派附录，不混为主体。",
+      "limitations": "只读取书目及出版说明，未取得作品全文；不把简介当逐字校勘。"
+    },
+    {
+      "id": "sc_back",
+      "url": "https://sourceschretiennes.org/collection/SC-640",
+      "institution_or_publisher": "Sources Chrétiennes（古代基督教文本研究/校勘出版计划）",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Charles-Antoine Fogielman，2024年7月，469页，ISBN9782204161701；叙利亚校本，希腊原文佚，另有粟特/亚美尼亚/格鲁吉亚/阿拉伯译本；说明497章分8卷。",
+      "limitations": "只读取书目及出版说明，未取得作品全文；不把简介当逐字校勘。"
+    },
+    {
+      "id": "hes_reader",
+      "url": "https://openlibrary.org/books/OL17926254M.json",
+      "institution_or_publisher": "Open Library（馆藏MARC聚合）",
+      "access_date_beijing": "2026-11-10",
+      "actual_read": "Rodney A. Whitacre编A Patristic Greek Reader，Hendrickson2007，ISBN9781598560435，279页；MARC目录明确含Hesychios the Priest, On watchfulness and holiness；这只是选读本，非赫西基奥斯全书。",
+      "limitations": "只读取书目及出版说明，未取得作品全文；不把简介当逐字校勘。"
+    }
+  ],
+  "works": [
+    {
+      "id": "evagrius-praktikos",
+      "title_zh_provisional": "修行论（实践篇）",
+      "title_original_or_standard": "Praktikos",
+      "author_attribution": "本都的埃瓦格里乌斯（Evagrius Ponticus）",
+      "composition_date_approx": "四世纪后半，399年前",
+      "original_language_and_survival": "希腊语；另有古译本",
+      "synopsis": "以短章讨论八类恶念、情欲的治理及通往默观的实践生活。",
+      "spiritual_value": "把注意力、习惯、祈祷和自省放在具体修道生活中；不可当现代精神疾病诊断表。",
+      "historical_value": "沙漠修道思想进入卡西安及后世拜占庭传统的重要节点。",
+      "attribution_textual_cautions": "与Gnostikos、Kephalaia Gnostika分别成书；现代合刊不等于一原作。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "evag_intro",
+        "evag_nav",
+        "prakt_pray",
+        "sink"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "evagrius-gnostikos",
+      "title_zh_provisional": "属灵知识者（认识者篇）",
+      "title_original_or_standard": "Gnostikos",
+      "author_attribution": "埃瓦格里乌斯",
+      "composition_date_approx": "四世纪后半",
+      "original_language_and_survival": "希腊原作仅存约半篇残文；完整50章靠叙利亚与亚美尼亚古译传承。",
+      "synopsis": "论具有属灵知识者的教导、释经与分辨责任，通常以五十短章传承。",
+      "spiritual_value": "强调教师应量度听者程度、避免以知识自高。",
+      "historical_value": "研究古代灵修导师及经文多层解释的关键。",
+      "attribution_textual_cautions": "这里gnostikos不是自动等于异端宗派诺斯替派；不可与Kephalaia Gnostika六卷章集合并。 SC356指出部分希腊残片署尼鲁斯或马克西穆，不能据归名分拆成他们的新作，也不能认为希腊残片必比古译可靠。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "sc_gnost",
+        "evag_nav",
+        "evag_intro"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "中",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "evagrius-kephalaia-gnostika",
+      "title_zh_provisional": "属灵知识章集（六卷）",
+      "title_original_or_standard": "Kephalaia Gnostika",
+      "author_attribution": "埃瓦格里乌斯",
+      "composition_date_approx": "四世纪后半",
+      "original_language_and_survival": "希腊原作多佚；叙利亚语不同版本及希腊残存见证",
+      "synopsis": "围绕神、受造秩序、知识、判断与复归的六组论题。",
+      "spiritual_value": "提供默观宇宙与灵魂道路的古代框架，需配合批判性导论。",
+      "historical_value": "奥利振主义、叙利亚接受及文本改订史的重要证据。",
+      "attribution_textual_cautions": "S1/S2等版本不可拼接；Ramelli的“未改订本”及复归解释是具体编辑/研究立场，不等于全学界定论。OpenLibrary误混Gnostikos字段不可沿用。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "kg",
+        "evag_nav",
+        "evag_intro"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "中",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "evagrius-on-prayer",
+      "title_zh_provisional": "论祈祷一百五十三章",
+      "title_original_or_standard": "De oratione / On Prayer",
+      "author_attribution": "埃瓦格里乌斯；SC589校本说明已确认归属，虽长期署安居拉的尼鲁斯。",
+      "composition_date_approx": "四世纪后半",
+      "original_language_and_survival": "希腊语；署名传承需据校本核",
+      "synopsis": "短章论纯净祈祷、心灵专注、情欲与图像。",
+      "spiritual_value": "帮助区分机械反复和心灵专注；不从其无像祈祷直接推出一切艺术禁令。",
+      "historical_value": "研究埃瓦格里乌斯异名流传及拜占庭祈祷论。",
+      "attribution_textual_cautions": "不可与真正或其他伪署尼鲁斯著作自动合并；现成合刊同时收Praktikos。",
+      "philokalia_relationship": "《慕善集》卷1列On Prayer:153 Texts；本轮目录入口核题名，未校全文。",
+      "references": [
+        "sc_pray",
+        "prakt_pray",
+        "sink",
+        "evag_intro",
+        "phil_toc"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "evagrius-antirrhetikos",
+      "title_zh_provisional": "反驳恶念（回驳录）",
+      "title_original_or_standard": "Antirrhetikos / Talking Back",
+      "author_attribution": "埃瓦格里乌斯",
+      "composition_date_approx": "四世纪后半",
+      "original_language_and_survival": "希腊原作佚；叙利亚、粟特、亚美尼亚、格鲁吉亚、阿拉伯古译保存，SC640出版叙利亚校本。",
+      "synopsis": "按八类试探排列情境与用于回应的经文。",
+      "spiritual_value": "展示经文记忆与日常自省的结合，不把恶念体验泛化为对人的污名。",
+      "historical_value": "保存早期沙漠修士的焦虑、生活条件与经文运用。",
+      "attribution_textual_cautions": "Brakke现代译本2009不是古原作日期；500余条情境不宜直接当作独立500篇。 Litpress营销介绍500余情境，SC640精确说明497章；两者计数口径不同，不能当作同一严格章数，后续按版本目录。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "sc_back",
+        "back",
+        "evag_nav"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "maximus-love",
+      "title_zh_provisional": "论爱四百章",
+      "title_original_or_standard": "Four Hundred Chapters on Love / Capita de caritate",
+      "author_attribution": "忏悔者马克西穆（约580—662）",
+      "composition_date_approx": "七世纪前半，具体年待核",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "四百短章将爱神爱人与德行、欲望、判断连在一起。",
+      "spiritual_value": "适合由具体德行进入深层神学，不仅是格言集。",
+      "historical_value": "拜占庭修道心理及埃瓦格里乌斯传统重新整合的见证。",
+      "attribution_textual_cautions": "不同英译标题Four Centuries on Charity与Four Hundred Chapters on Love为同一原作；2026版非新发现原文。",
+      "philokalia_relationship": "《慕善集》卷2收Four Hundred Texts on Love；不是选集整体的作者。",
+      "references": [
+        "love",
+        "ascetic"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "maximus-ascetic-life",
+      "title_zh_provisional": "修行生活",
+      "title_original_or_standard": "The Ascetic Life / Logos asketikos",
+      "author_attribution": "忏悔者马克西穆",
+      "composition_date_approx": "七世纪前半",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "以师徒问答讨论基督徒目标、诫命、祈祷与爱。",
+      "spiritual_value": "比Ambigua更容易进入作者完整的灵修视野。",
+      "historical_value": "帮助观察修道教导如何连接基督论与伦理实践。",
+      "attribution_textual_cautions": "Sherwood ACW21合刊含此书与论爱，须拆原作；本轮未核确切写年及完整章节数。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "ascetic",
+        "love"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "maximus-mystagogy",
+      "title_zh_provisional": "教会奥秘释义",
+      "title_original_or_standard": "Mystagogia / On the Ecclesiastical Mystagogy",
+      "author_attribution": "忏悔者马克西穆",
+      "composition_date_approx": "七世纪前半，约628—630为待精核估计",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "解释教会建筑、圣礼秩序、人和宇宙如何互相映照并归向基督。",
+      "spiritual_value": "将个人祈祷放回群体礼仪与身体生活。",
+      "historical_value": "拜占庭礼仪解释和宇宙论发展的关键文献。",
+      "attribution_textual_cautions": "不是尼古拉·卡巴西拉斯的圣礼释义；不能用后世礼仪细节补原文。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "myst"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "maximus-ambigua",
+      "title_zh_provisional": "教父疑难释义",
+      "title_original_or_standard": "Ambigua / On Difficulties in the Church Fathers",
+      "author_attribution": "忏悔者马克西穆",
+      "composition_date_approx": "七世纪，不同书组写年不一",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "解释纳齐安的贵格利等教父难句，贯通基督论、宇宙论、心灵与神化。",
+      "spiritual_value": "适合进阶研读，需先了解论爱及早期教父术语。",
+      "historical_value": "是晚古哲学与拜占庭神学综合、后世静修争论接受史的重要文献。",
+      "attribution_textual_cautions": "致约翰/致多马组的写作及编排不同；不可把现代两册当两个古代作者作品；已核一册馆藏，尚未完整核两册目录。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "ambig"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "中",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "maximus-thalassios",
+      "title_zh_provisional": "答塔拉修经文疑问",
+      "title_original_or_standard": "Quaestiones ad Thalassium / Responses to Thalassios",
+      "author_attribution": "忏悔者马克西穆",
+      "composition_date_approx": "七世纪前半，约630年代待精核",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "逐问解释难解经文，联系欲望、自由、恩典与救恩。",
+      "spiritual_value": "帮助理解释经与修道生活的内在关联。",
+      "historical_value": "展示拜占庭象征释经和基督论人学，不是现代历史批判注释。",
+      "attribution_textual_cautions": "不要与Ambigua或其他问题集合并；脚注/疏注的编辑层次须以后核版本。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "thal",
+        "ambig"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "中",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "symeon-catecheses",
+      "title_zh_provisional": "教理讲道集",
+      "title_original_or_standard": "Catecheses / The Discourses",
+      "author_attribution": "新神学家西默盎（逝于1022）",
+      "composition_date_approx": "十世纪末至十一世纪初",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "向修院群体宣讲悔改、诫命、爱、光及内住的三一经验。",
+      "spiritual_value": "重视实践与经验的统一，不只传授抽象概念。",
+      "historical_value": "显示君士坦丁堡修院训导及魅力型属灵权威。",
+      "attribution_textual_cautions": "不是下列Ethical Discourses；不同网页生年942/949不同，需据批判版核。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "symeon_disc"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "symeon-ethical",
+      "title_zh_provisional": "伦理讲论（论神秘生活）",
+      "title_original_or_standard": "Ethical Discourses / Logoi ethikoi",
+      "author_attribution": "新神学家西默盎",
+      "composition_date_approx": "十世纪末至十一世纪初",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "论教会、圣礼、德行、救恩史与神的经验。",
+      "spiritual_value": "将个人经验与教会圣礼、末世盼望相连。",
+      "historical_value": "是作者成熟神学及其争议性权威主张的主要材料。",
+      "attribution_textual_cautions": "Golitzin On the Mystical Life三卷是现代重组：I、II含伦理讲论，III另有忏悔书信及导论，不能把三卷全等同原讲论集。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "symeon_eth"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "symeon-hymns",
+      "title_zh_provisional": "神爱颂歌",
+      "title_original_or_standard": "Hymns of Divine Eros",
+      "author_attribution": "新神学家西默盎",
+      "composition_date_approx": "约十一世纪初；编集层次待核",
+      "original_language_and_survival": "希腊诗歌",
+      "synopsis": "以第一人称诗歌谈悔改、神光、渴慕与神人相遇。",
+      "spiritual_value": "展现祈祷的情感和身体维度，宜保留诗体。",
+      "historical_value": "拜占庭宗教诗歌、自我表达与神秘神学交会的重要材料。",
+      "attribution_textual_cautions": "不能将诗中第一人称每句都直接当传记；新英希版2026出版资讯只核网页，未核实物。",
+      "philokalia_relationship": "未据本轮网页确认是否以全篇收入《慕善集》；须按所选版本目录核对。",
+      "references": [
+        "symeon_hymn",
+        "symeon_eth"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "diadochos-hundred",
+      "title_zh_provisional": "属灵知识与分辨一百章",
+      "title_original_or_standard": "On Spiritual Knowledge and Discrimination:100 Texts",
+      "author_attribution": "佛提基的狄亚多霍斯（Diadochos/Diadochus of Photike）",
+      "composition_date_approx": "五世纪",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "讨论恩典、感受、辨别诸灵及对耶稣圣名的记念。",
+      "spiritual_value": "对把祈祷体验误当自动神圣保证具有批判意义。",
+      "historical_value": "是梅撒利派争论、早期耶稣祷文及后世心祷传统的桥梁。",
+      "attribution_textual_cautions": "Complete Works现代书不只这100章；与其他归名作品应分立，避免把页数算本篇篇幅。",
+      "philokalia_relationship": "卷1收100 Texts；不是2010年全集的全目录。",
+      "references": [
+        "diad",
+        "phil_toc"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "isaiah-asceticon",
+      "title_zh_provisional": "以赛亚修行讲论",
+      "title_original_or_standard": "Asceticon / Ascetic Discourses",
+      "author_attribution": "斯凯提斯/加沙的阿爸以赛亚；具体同名身份和编集有争议",
+      "composition_date_approx": "主要五世纪传统；编集发展须续查",
+      "original_language_and_survival": "希腊语传统；另有叙利亚等传本",
+      "synopsis": "针对修院生活、顺服、谦卑、守心及彼此关系的教导。",
+      "spiritual_value": "强调共同生活的具体操练而非单独技巧。",
+      "historical_value": "反映埃及—巴勒斯坦修道迁移与加沙传统。",
+      "attribution_textual_cautions": "不可与正典以赛亚、以赛亚升天记混同；完整Asceticon与Philokalia27章守心选文不是可直接等量的同一版本。",
+      "philokalia_relationship": "卷1的On Guarding the Intellect:27 Texts是选集中的题名；须核其与Asceticon各讲论的映射。",
+      "references": [
+        "isaiah",
+        "phil_toc"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "hesychios-watchfulness",
+      "title_zh_provisional": "论警醒与圣洁",
+      "title_original_or_standard": "On Watchfulness and Holiness, addressed to Theodoulos",
+      "author_attribution": "司祭赫西基奥斯（Hesychios）；常称西乃人",
+      "composition_date_approx": "日期有争议；暂列拜占庭时期，不硬定五世纪",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "短章讲心灵警醒、恶念的进入及耶稣祷文。",
+      "spiritual_value": "为反省注意力、情绪与祈祷提供连续操练框架。",
+      "historical_value": "反映尼普西斯（警醒）与心祷结合的传统。",
+      "attribution_textual_cautions": "不能直接当作五世纪耶路撒冷同名释经家。已核2007希英读本馆藏目录有此原作选段；作者年代及独立校本仍待查，不能用选段本充全书。",
+      "philokalia_relationship": "卷1收Written for Theodoulos；200章计数须以选定校本核实。",
+      "references": [
+        "hes_reader",
+        "phil_toc",
+        "phil1"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "中",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "mark-spiritual-law",
+      "title_zh_provisional": "论属灵律法二百章",
+      "title_original_or_standard": "On the Spiritual Law:200 Texts",
+      "author_attribution": "修士马可（Mark the Monk/Ascetic）",
+      "composition_date_approx": "约五世纪",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "短章讨论诫命、悔改、恩典和自责/责人。",
+      "spiritual_value": "提供日常伦理与祈祷的共同尺度。",
+      "historical_value": "作品受拜占庭及近代宗教改革时期不同传统阅读，具跨传统接受价值。",
+      "attribution_textual_cautions": "不与作者226章论称义、尼古拉书信合并；作者生平同名认定须谨慎。",
+      "philokalia_relationship": "卷1列独立200章；Counsels on the Spiritual Life为现代作品集而不是该篇原名。",
+      "references": [
+        "mark",
+        "phil_toc"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "climacus-ladder",
+      "title_zh_provisional": "神圣攀登的天梯",
+      "title_original_or_standard": "Klimax / The Ladder of Divine Ascent",
+      "author_attribution": "西乃的约翰（John Climacus）",
+      "composition_date_approx": "约六末至七世纪；具体年争议",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "以三十阶组织舍弃、德行、警醒、祈祷与爱。",
+      "spiritual_value": "兼有具体生活警醒与高级静修教导；读者应区分修院规训和普遍伦理。",
+      "historical_value": "拜占庭修道教育、图像与礼仪接受史的代表。",
+      "attribution_textual_cautions": "不可与典外《雅各天梯》或布尔加科夫Jacob’s Ladder合并；SVS页六世纪断代过简，应续核学术导论。",
+      "philokalia_relationship": "不能因常与Philokalia并读，就把完整天梯当其一卷。",
+      "references": [
+        "ladder"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "palamas-triads",
+      "title_zh_provisional": "为圣静修者辩护三组三论",
+      "title_original_or_standard": "Triads in Defense of the Holy Hesychasts",
+      "author_attribution": "格里高利·帕拉玛",
+      "composition_date_approx": "1338—1341",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "回应巴尔拉姆对阿索斯修士祈祷和经验的批评，论认识神及身体参与。",
+      "spiritual_value": "理解静修经验与神学论证的关系，不是单纯呼吸法教程。",
+      "historical_value": "十四世纪拜占庭静修争论、本质/能量区分的重要原始文献。",
+      "attribution_textual_cautions": "Gendle/Meyendorff 172页旧版明确是节选；Titus2025希英对照大部头为另一版本选择，不把旧节选当全译。",
+      "philokalia_relationship": "Philokalia中的帕拉玛选文不自动等于完整Triads。",
+      "references": [
+        "triads",
+        "triads_old"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "高",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    },
+    {
+      "id": "nikephoros-watchfulness",
+      "title_zh_provisional": "论警醒与守心",
+      "title_original_or_standard": "On Watchfulness and the Guarding of the Heart",
+      "author_attribution": "修士尼基弗鲁斯（Nikephoros/Nicephorus the Hesychast）",
+      "composition_date_approx": "十三世纪后半，精确归属待核",
+      "original_language_and_survival": "希腊语",
+      "synopsis": "汇引早期父老并讨论心灵注意及心祷训练。",
+      "spiritual_value": "有助理解具身祈祷及传统中的导师角色；不能抽离修道语境机械应用。",
+      "historical_value": "是帕拉玛之前静修方法传播的重要线索。",
+      "attribution_textual_cautions": "本轮只核Philokalia目录入口；人物身份、引文编集层次及某些身体方法段落需专门校本研究；不得混为Pseudo-Symeon方法篇。",
+      "philokalia_relationship": "通常列卷4；须补出版社完整TOC/校本页码，不据目录转录就宣称文本已核。",
+      "references": [
+        "phil_toc",
+        "phil4"
+      ],
+      "repo_status": {
+        "status": "not_identified_as_complete_work_in_checked_manifests",
+        "evidence": [
+          "bible/translation/manifest.json sections+units+toc_labels检索",
+          "bible/translation/history-patristics/manifest.json sections+units+toc_labels检索",
+          "bible/基督教典外文献（共10册）_手机版.txt 中英作者/题名变体检索未定位完整对应篇"
+        ],
+        "qualification": "只是当前检查范围未发现；不等于仓库任何引文或未索引手稿都不存在。"
+      },
+      "chinese_publication_status": {
+        "mainland_formal": "未核实",
+        "hongkong_taiwan": "未核实",
+        "online_translation": "未定位可核实的本作品完整译文",
+        "library_or_availability": "本轮未核实中文馆藏/在售",
+        "search_scope": "见中文检索日志；主代理另合并Climacus中文调查",
+        "warning": "不得由未命中推断从未出版；中文题名多为工作译名。"
+      },
+      "priority_for_next_research": "中",
+      "next": "优先取得明确目录/版权页及中文馆藏记录；涉及异本者先确定版本，再考虑阅读或翻译。"
+    }
+  ],
+  "anthology_note": {
+    "title": "Philokalia（慕善集/爱美集等中文题名须核具体版本）",
+    "original_compilation": "1782年希腊初刊；尼哥底母与科林斯的马卡里奥斯编，收四至十五世纪作品",
+    "not_an_original_author_work": true,
+    "distinctions": [
+      "1770/1780年代编纂不等于全部作品成书年代。",
+      "俄语Dobrotolubie及现代各语选择/增删应逐版核，不能当五卷逐篇完全对应。",
+      "现代Faber五卷与作者单行本有重叠，不重复计作品。",
+      "SVS第IV卷介绍误写初刊1982，Faber明确1782。"
+    ],
+    "references": [
+      "phil1",
+      "phil4",
+      "phil_toc"
+    ]
+  },
+  "repository_checks": {
+    "manifests": [
+      {
+        "path": "bible/translation/manifest.json",
+        "sha256": "8ffe9fe418458c853be774dae501321ed724f0f8db1428a69185bd717aaa87ac"
+      },
+      {
+        "path": "bible/translation/history-patristics/manifest.json",
+        "sha256": "714b01108babd00d750efc00bdcab1d8aedcbfe3a4b7167693cfe02490791edd"
+      }
+    ],
+    "reference_txt": "bible/基督教典外文献（共10册）_手机版.txt",
+    "terms": [
+      "Evagrius",
+      "Diadoch",
+      "Hesych",
+      "Maximus",
+      "Climacus",
+      "Symeon",
+      "Philokalia",
+      "慕善",
+      "爱神集",
+      "埃瓦格里",
+      "厄瓦格里",
+      "埃夫格里",
+      "马西莫",
+      "玛克西穆",
+      "西乃的约翰",
+      "新神学家",
+      "修士以赛亚",
+      "修士马可"
+    ],
+    "collision_notes": [
+      "亚他那修致Maximus、巴西流致Maximus及居普良时期同名者不是七世纪忏悔者马克西穆。",
+      "manifest有Isaiah及Ascension of Isaiah，不是五世纪Asceticon。",
+      "manifest中Ladder of Jacob不是John Climacus天梯。"
+    ],
+    "result": "这些检索没有定位本批20原作的独立完整条目；不能推出仓库没有零星引文。"
+  },
+  "next": "补Hesychios/Nikephoros可靠TOC和年代校勘；查中国国家图书馆、港台大学馆藏/出版方版权页，尤其Climacus由主代理合并另一代理中文调查。",
+  "search_log": [
+    {
+      "date_beijing": "2026-11-10",
+      "query_or_action": "两个manifest的section id/title、unit label/toc_labels及参考TXT作者题名变体；见repository_checks.terms",
+      "result": "未定位20项完整作品；发现Maximus同名收信者和Isaiah/Ladder同名异作，已排除误判。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query_or_action": "SVS官网搜索maximus、symeon、evagrius、isaiah、philokalia、mark ascetic、triads、ladder，再逐一打开实际产品页",
+      "result": "确认现代出版元数据与作品介绍；isaiah搜索没有本书，用Litpress精确产品页定位，未将搜索无结果当不存在。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query_or_action": "OpenLibrary API title=On Difficulties in the Church Fathers / On Difficulties in Sacred Scripture / Kephalaia Gnostika；Hesychios watchfulness；Nikephoros watchfulness",
+      "result": "前四项查得馆藏记录或选读目录；Nikephoros无结果，仅记检索边界。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query_or_action": "Sources Chrétiennes SC356、589、640官网书目",
+      "result": "实际读校本介绍与传承说明；未下载现代全译。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query_or_action": "OpenLibrary q=慕善集；豆瓣subject_search search_text=慕善集；Logos香港书店text=慕善集；orthodox.cn/patristics/bodycn.htm中文索引",
+      "result": "OpenLibrary零命中；豆瓣仅JS搜索壳；Logos维护；中文索引实读仅列使徒教父/护教传统/卡巴西拉圣礼释义等入口，未找到本批单书中文版权页。",
+      "status": "limited_search_inconclusive",
+      "not_checked": "未检中国国家图书馆、国家版本数据中心、台湾国家图书馆逐书ISBN；不得声称未出版。"
+    },
+    {
+      "date_beijing": "2026-11-10",
+      "query_or_action": "Google题名组合、Bing Evagrius Greek Ascetic Corpus、DuckDuckGo Hesychios watchfulness Philokalia",
+      "result": "Google返回JS重定向壳，Bing结果与题无关，DuckDuckGo验证码；全部不采作书目证据。"
+    }
+  ],
+  "failed_or_insufficient_sources": [
+    {
+      "url": "https://evagriusponticus.net/",
+      "result": "HTTP406；未读，改用Dysinger与SC校本说明。"
+    },
+    {
+      "url": "https://global.oup.com/academic/product/evagrius-of-pontus-9780199259939",
+      "result": "202空内容；不算已读OUP书目。"
+    },
+    {
+      "url": "https://www.hup.harvard.edu/books/9780674726666",
+      "result": "202空内容；以馆藏MARC记录补核Ambigua，但两卷详目待续。"
+    },
+    {
+      "url": "https://www.doaks.org/resources/publications/books/on-difficulties-in-the-church-fathers",
+      "result": "403；未取得正文。"
+    },
+    {
+      "url": "https://searchworks.stanford.edu/?q=Evagrius+Greek+ascetic+corpus",
+      "result": "JS验证页；不是实际书目。"
+    },
+    {
+      "url": "https://www.cuapress.org/9780813230313/on-difficulties-in-sacred-scripture/",
+      "result": "200但Book not found；采用OpenLibrary实际馆藏记录，不算出版社证实。"
+    },
+    {
+      "url": "https://www.logos.com.hk/acms/content.asp?site=logos&op=search&text=%E6%85%95%E5%96%84%E9%9B%86",
+      "result": "维护页；不能推断无书。"
+    },
+    {
+      "url": "http://www.orbooks.com.cn/GB/chfather.htm",
+      "result": "中文正教索引旧链404；保留为后续找迁移地址的线索。"
+    },
+    {
+      "url": "https://sourceschretiennes.org/collection/SC-5-bis",
+      "result": "404；只从SC356关联目录见Diadoque SC5bis，不冒称已读本卷书目详情。"
+    },
+    {
+      "url": "https://litpress.org/Products/5150/Abba-Isaiah-of-Scetis",
+      "result": "错误产品ID实际返回Jezebel，已排除；采用真实CS150P页面。"
+    }
+  ],
+  "summary": {
+    "original_works": 20,
+    "anthologies_not_counted_as_original_works": 1,
+    "sources_read": 27,
+    "chinese_complete_editions_confirmed_by_this_worker": 0,
+    "meaning": "0指本轮未确认，不是中文版本不存在；Climacus中文由另一代理与主代理合并。",
+    "least_resolved_items": [
+      "Nikephoros：仅选集目录，缺可靠独立校本和精准年代",
+      "Hesychios：已有希英读本馆藏，但作者身份年代仍待专研",
+      "Maximus Ambigua/Thalassios：官方出版页受阻，需补两册范围/译者责任页"
+    ]
+  }
+}
