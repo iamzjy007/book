@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T09:18:52.274679+00:00",
+  "updated_at": "2026-11-10T09:20:39.571919+00:00",
   "total": 175,
   "active_scope": "modern-christian-resources",
   "scope_counts": {
@@ -13,23 +13,25 @@
       "needs_review": 2
     },
     "modern-christian-resources": {
-      "queued": 65
+      "partial_online": 1,
+      "metadata_only": 4,
+      "queued": 60
     }
   },
   "counts": {
-    "partial_online": 26,
+    "partial_online": 27,
     "fulltext_online": 51,
-    "metadata_only": 16,
+    "metadata_only": 20,
     "scan_candidate": 11,
     "blocked": 4,
     "needs_review": 2,
-    "queued": 65
+    "queued": 60
   },
-  "next_task": "modern:dydi_a:willard-renovation",
+  "next_task": "modern:dydi_a:thurman-disinherited",
   "background_process": false,
   "record_files_are_authoritative": true,
   "initial_pass_complete": false,
-  "direct_text_records": 77,
-  "no_verified_text_records": 33,
+  "direct_text_records": 78,
+  "no_verified_text_records": 37,
   "resume_instruction": "先读CONTINUATION.md；优先queue第一个queued项，再按未决版本／受阻资源继续。"
 }

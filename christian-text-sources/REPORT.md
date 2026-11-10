@@ -1,16 +1,16 @@
 # 内容获取阶段报告
 
-更新：2026-11-10T09:18:52.274679+00:00。共175条档案，当前执行来源：modern-christian-resources。
+更新：2026-11-10T09:20:39.571919+00:00。共175条档案，当前执行来源：modern-christian-resources。
 
 | 状态 | 条数 |
 |---|---|
-| 部分正文可直达 | 26 |
+| 部分正文可直达 | 27 |
 | 正文可直达 | 51 |
-| 仅书目／版本入口 | 16 |
+| 仅书目／版本入口 | 20 |
 | 扫描入口待核 | 11 |
 | 访问受阻 | 4 |
 | 待版本复核 | 2 |
-| 待检索 | 65 |
+| 待检索 | 60 |
 
 ## 按研究来源统计
 
@@ -22,9 +22,11 @@
 | ancient-christian-literature | 扫描入口待核 | 11 |
 | ancient-christian-literature | 访问受阻 | 4 |
 | ancient-christian-literature | 待版本复核 | 2 |
-| modern-christian-resources | 待检索 | 65 |
+| modern-christian-resources | 部分正文可直达 | 1 |
+| modern-christian-resources | 仅书目／版本入口 | 4 |
+| modern-christian-resources | 待检索 | 60 |
 
-下一任务：`modern:dydi_a:willard-renovation`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
+下一任务：`modern:dydi_a:thurman-disinherited`。详见[继续协议](CONTINUATION.md)和[完整目录](CATALOG.md)。
 
 ## 统计边界
 
@@ -45,3 +47,4 @@
 - [007-liturgy-martyrs.md](sessions/007-liturgy-martyrs.md)
 - [008-initial-access-pass-complete.md](sessions/008-initial-access-pass-complete.md)
 - [009-modern-import.md](sessions/009-modern-import.md)
+- [010-modern-books-1.md](sessions/010-modern-books-1.md)

@@ -98,11 +98,54 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-    "updated_at": "2026-11-10T09:17:54.986057+00:00"
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "New Directions纸本与电子书版源",
+        "url": "https://www.ndbooks.com/book/new-seeds-of-contemplation/",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "2007-11-01版；纸本ISBN 9780811217248；电子书ISBN 9780811219655；296页",
+        "coverage": "简介、少量引文与正式购买渠道；不据此算样章",
+        "verification": "点击Download打开的是封面JPEG（290×454），不是可下载书籍。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      },
+      {
+        "label": "Thomas Merton Center：1961年节选馆藏",
+        "url": "https://merton.org/Research/Manuscripts/manu-d.aspx?ITEMid=3867&counter=1",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "Spiritual Life 7 (Fall 1961)，pp.196—204；中心档案D.1，ITEMid=3867",
+        "coverage": "9页已刊材料复印件的馆藏记录；未见这9页扫描",
+        "verification": "实读日期、页数、期刊页码和存放位置；只有首行，不认定取得9页节选。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:20:39.487440+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.ndbooks.com/book/new-seeds-of-contemplation/",
+        "result": "实读版源，Download结果为JPEG封面，排除误记全文。"
+      },
+      {
+        "date": "2026-11-10T09:20:39.487442+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://cdn.sanity.io/images/p34gzxcg/production/ab38f46e37f0e6e02cae02e3ab99f3be24cb88d7-290x454.jpg?dl=New+Seeds+Of+Contemplation_Merton.jpeg",
+        "result": "实际打开封面图片，不是正文。"
+      },
+      {
+        "date": "2026-11-10T09:20:39.487443+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://merton.org/Research/Manuscripts/manu-d.aspx?ITEMid=3867&counter=1",
+        "result": "原题+excerpt检索后打开中心馆藏；只取得9页节选的元数据。"
+      }
+    ],
+    "next_action": "由ISBN追合法电子书／馆藏；另追Spiritual Life 7 (1961) pp.196—204实际扫描。New Seeds与Seeds原书及新增导言分别核。",
+    "updated_at": "2026-11-10T09:20:39.487432+00:00",
+    "discovery_pass_done": true
   }
 }

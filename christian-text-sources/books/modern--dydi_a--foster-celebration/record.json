@@ -98,11 +98,54 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-    "updated_at": "2026-11-10T09:17:54.985763+00:00"
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Hodder/Hachette英国版；Read Excerpt待修复",
+        "url": "https://www.hachette.co.uk/titles/richard-foster/celebration-of-discipline/9780340979266/",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "Hodder Faith，2008-11-27，ISBN 9780340979266",
+        "coverage": "具体纸本、电子书及购买入口；未核到可读样章",
+        "verification": "实际点Read Excerpt仍返回原页；HTML仅有#module-whats-inside锚点，未找到对应正文模块。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      },
+      {
+        "label": "HarperCollins特别周年版与电子书渠道",
+        "url": "https://www.harpercollins.com/products/celebration-of-discipline-special-anniversary-edition-richard-j-foster",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "美国特别周年版；动态字段未呈现，不据此填写ISBN",
+        "coverage": "书目页和电子书交付说明，不是正文",
+        "verification": "实际打开可核题名；ISBN／页数为未填充模板。电子书须购买并登录Glose，不能下载PDF。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:20:39.485427+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://renovare.org/books/celebration-of-discipline",
+        "result": "核原书与Study Guide、DVD、Participant Guide分别销售，未读取原书。"
+      },
+      {
+        "date": "2026-11-10T09:20:39.485429+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.hachette.co.uk/titles/richard-foster/celebration-of-discipline/9780340979266/",
+        "result": "搜索原题+sample/Read Excerpt后打开官方页；点试读锚点仍无正文，并检查HTML。"
+      },
+      {
+        "date": "2026-11-10T09:20:39.485431+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.harpercollins.com/products/celebration-of-discipline-special-anniversary-edition-richard-j-foster",
+        "result": "实读动态书页，书目字段未加载，Glose获取条款可读；未购书。"
+      }
+    ],
+    "next_action": "用英国ISBN 9780340979266追馆藏／正式电子书样章；美国特别周年版单独核ISBN。不要把无正文的Read Excerpt按钮或课程指南算原书。",
+    "updated_at": "2026-11-10T09:20:39.485419+00:00",
+    "discovery_pass_done": true
   }
 }

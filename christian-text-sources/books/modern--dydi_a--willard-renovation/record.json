@@ -67,11 +67,57 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-    "updated_at": "2026-11-10T09:17:54.985261+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "NavPress 20周年版与购买／电子书入口",
+        "url": "https://www.navpress.com/p/renovation-of-the-heart/9781641584425",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "NavPress/Tyndale，2021-12-07，ISBN 9781641584425；区别于2002首版",
+        "coverage": "官方版本及Interior Preview链接",
+        "verification": "核到320页和20周年版说明；网页工具可读，直接脚本请求403。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      },
+      {
+        "label": "出版社PDF：29页原书试读",
+        "url": "https://files.tyndale.com/thpdata/firstChapters/978-1-64158-442-5.pdf",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "2021年20周年版；版权页ISBN 9781641584425",
+        "coverage": "29个PDF页面；版权、目录、Comer序、Prelude及第1章至印刷页20；不含第2—13章全书",
+        "verification": "实际打开PDF，核版权及目录、第一章和末页讨论题；另以PDF签名及pdftotext末页复核，临时PDF不入库。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。",
+        "direct_file": "https://files.tyndale.com/thpdata/firstChapters/978-1-64158-442-5.pdf",
+        "isbn": "9781641584425",
+        "pdf_pages": 29
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:20:39.484848+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://dwillard.org/resources/books/renovation-of-the-heart",
+        "result": "实读作者书页，区分2002原版、英国修改版、20周年版及配套课程。"
+      },
+      {
+        "date": "2026-11-10T09:20:39.484852+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.navpress.com/p/renovation-of-the-heart/9781641584425",
+        "result": "定位并打开Interior Preview，直接请求403但网页工具可读取。"
+      },
+      {
+        "date": "2026-11-10T09:20:39.484854+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://files.tyndale.com/thpdata/firstChapters/978-1-64158-442-5.pdf",
+        "result": "实际取得29页PDF供临时核验，确认是样章，未入库全文。"
+      }
+    ],
+    "next_action": "继续取得同ISBN完整版阅读权或馆藏借阅；样章已核。中文旧译、2002版与2021新版新增序跋应分别比对。",
+    "updated_at": "2026-11-10T09:20:39.484825+00:00",
+    "discovery_pass_done": true
   }
 }

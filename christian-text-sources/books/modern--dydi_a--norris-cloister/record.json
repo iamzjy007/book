@@ -56,11 +56,31 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-    "updated_at": "2026-11-10T09:17:54.986271+00:00"
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Riverhead/PRH具体书版与电子书入口",
+        "url": "https://www.penguinrandomhouse.com/books/348284/the-cloister-walk-by-kathleen-norris/",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "Riverhead Books，1997-04-01纸本，ISBN 9781573225847，416页",
+        "coverage": "书目、简介、Reading Guide及购买路径；未核原书正文",
+        "verification": "实际打开产品详情；HTML有通用#excerpt元标签，但product-preview内容为空，未把标签算试读。",
+        "accessed": "2026-11-10",
+        "rights_note": "保存原站在线路径，不复制现代版权全文；样章不等于完整阅读版。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T09:20:39.487730+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.penguinrandomhouse.com/books/348284/the-cloister-walk-by-kathleen-norris/",
+        "result": "原题+excerpt检索；实际读取出版社页面并检查preview模块，未核到正文。"
+      }
+    ],
+    "next_action": "按ISBN取得出版社／图书馆实际阅读版；继续寻找原书节选，Reading Guide单独归为辅助资料。",
+    "updated_at": "2026-11-10T09:20:39.487724+00:00",
+    "discovery_pass_done": true
   }
 }

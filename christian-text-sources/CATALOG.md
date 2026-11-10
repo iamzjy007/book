@@ -114,11 +114,11 @@
 | 108 | [约翰秘传／约翰密传](books/root--apocryphon-john/README.md) | 部分正文可直达 | [Wisse英译一个文本版本](https://www.earlychristianwritings.com/text/apocryphonjohn.html) |
 | 109 | [皮斯提斯·索菲亚（信心与智慧；暂译）](books/root--pistis-sophia/README.md) | 正文可直达 | [Mead1921旧英译扫描及OCR](https://archive.org/details/pistissophiagnos1921mead)；[Schmidt1905旧德译合订卷](https://archive.org/details/koptischgnostisc00schmuoft) |
 | 110 | [耶乌诸书／耶乌二书（暂译）](books/root--books-jeu/README.md) | 正文可直达 | [Schmidt1905两部Jeu旧德译](https://archive.org/details/koptischgnostisc00schmuoft)；[Bruce Codex导论及节译](https://www.earlychristianwritings.com/text/booksjeu.html) |
-| 111 | [Dallas Willard — Renovation of the Heart（心灵的重塑）](books/modern--dydi_a--willard-renovation/README.md) | 待检索 | 见档案中的既有出处 |
-| 112 | [Richard J. Foster — Celebration of Discipline（属灵操练礼赞）](books/modern--dydi_a--foster-celebration/README.md) | 待检索 | 见档案中的既有出处 |
-| 113 | [Thomas Merton — New Seeds of Contemplation](books/modern--dydi_a--merton-new-seeds/README.md) | 待检索 | 见档案中的既有出处 |
-| 114 | [Kathleen Norris — The Cloister Walk](books/modern--dydi_a--norris-cloister/README.md) | 待检索 | 见档案中的既有出处 |
-| 115 | [Eugene H. Peterson — Working the Angles: The Shape of Pastoral Integrity](books/modern--dydi_a--peterson-angles/README.md) | 待检索 | 见档案中的既有出处 |
+| 111 | [Dallas Willard — Renovation of the Heart（心灵的重塑）](books/modern--dydi_a--willard-renovation/README.md) | 部分正文可直达 | [出版社PDF：29页原书试读](https://files.tyndale.com/thpdata/firstChapters/978-1-64158-442-5.pdf) |
+| 112 | [Richard J. Foster — Celebration of Discipline（属灵操练礼赞）](books/modern--dydi_a--foster-celebration/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 113 | [Thomas Merton — New Seeds of Contemplation](books/modern--dydi_a--merton-new-seeds/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 114 | [Kathleen Norris — The Cloister Walk](books/modern--dydi_a--norris-cloister/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
+| 115 | [Eugene H. Peterson — Working the Angles: The Shape of Pastoral Integrity](books/modern--dydi_a--peterson-angles/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
 | 116 | [Howard Thurman — Jesus and the Disinherited](books/modern--dydi_a--thurman-disinherited/README.md) | 待检索 | 见档案中的既有出处 |
 | 117 | [Henri Nouwen — The Return of the Prodigal Son: A Story of Homecoming](books/modern--dydi_a--nouwen-return/README.md) | 待检索 | 见档案中的既有出处 |
 | 118 | [Thomas R. Kelly — A Testament of Devotion（机构引文入口）](books/modern--dydi_a--kelly-testament/README.md) | 待检索 | 见档案中的既有出处 |

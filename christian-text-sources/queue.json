@@ -1,53 +1,8 @@
 {
   "schema": 1,
   "active_scope": "modern-christian-resources",
-  "next_task": "modern:dydi_a:willard-renovation",
+  "next_task": "modern:dydi_a:thurman-disinherited",
   "tasks": [
-    {
-      "id": "modern:dydi_a:willard-renovation",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--willard-renovation/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 111,
-      "updated_at": "2026-11-10T09:17:54.985261+00:00"
-    },
-    {
-      "id": "modern:dydi_a:foster-celebration",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--foster-celebration/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 112,
-      "updated_at": "2026-11-10T09:17:54.985763+00:00"
-    },
-    {
-      "id": "modern:dydi_a:merton-new-seeds",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--merton-new-seeds/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 113,
-      "updated_at": "2026-11-10T09:17:54.986057+00:00"
-    },
-    {
-      "id": "modern:dydi_a:norris-cloister",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--norris-cloister/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 114,
-      "updated_at": "2026-11-10T09:17:54.986271+00:00"
-    },
-    {
-      "id": "modern:dydi_a:peterson-angles",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：补核中文出版社/馆藏记录、版权与版本目录。",
-      "record_path": "books/modern--dydi_a--peterson-angles/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 115,
-      "updated_at": "2026-11-10T09:17:54.986435+00:00"
-    },
     {
       "id": "modern:dydi_a:thurman-disinherited",
       "status": "queued",
@@ -587,6 +542,51 @@
       "scope": "modern-christian-resources",
       "sequence": 175,
       "updated_at": "2026-11-10T09:17:54.998301+00:00"
+    },
+    {
+      "id": "modern:dydi_a:willard-renovation",
+      "status": "partial_online",
+      "next_action": "继续取得同ISBN完整版阅读权或馆藏借阅；样章已核。中文旧译、2002版与2021新版新增序跋应分别比对。",
+      "record_path": "books/modern--dydi_a--willard-renovation/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 111,
+      "updated_at": "2026-11-10T09:20:39.484825+00:00"
+    },
+    {
+      "id": "modern:dydi_a:foster-celebration",
+      "status": "metadata_only",
+      "next_action": "用英国ISBN 9780340979266追馆藏／正式电子书样章；美国特别周年版单独核ISBN。不要把无正文的Read Excerpt按钮或课程指南算原书。",
+      "record_path": "books/modern--dydi_a--foster-celebration/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 112,
+      "updated_at": "2026-11-10T09:20:39.485419+00:00"
+    },
+    {
+      "id": "modern:dydi_a:merton-new-seeds",
+      "status": "metadata_only",
+      "next_action": "由ISBN追合法电子书／馆藏；另追Spiritual Life 7 (1961) pp.196—204实际扫描。New Seeds与Seeds原书及新增导言分别核。",
+      "record_path": "books/modern--dydi_a--merton-new-seeds/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 113,
+      "updated_at": "2026-11-10T09:20:39.487432+00:00"
+    },
+    {
+      "id": "modern:dydi_a:norris-cloister",
+      "status": "metadata_only",
+      "next_action": "按ISBN取得出版社／图书馆实际阅读版；继续寻找原书节选，Reading Guide单独归为辅助资料。",
+      "record_path": "books/modern--dydi_a--norris-cloister/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 114,
+      "updated_at": "2026-11-10T09:20:39.487724+00:00"
+    },
+    {
+      "id": "modern:dydi_a:peterson-angles",
+      "status": "metadata_only",
+      "next_action": "从学校／公共馆授权阅读平台按ISBN取书，另追已检得书商EPUB excerpt并核文件范围。下载宣传单不能算取得正文。",
+      "record_path": "books/modern--dydi_a--peterson-angles/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 115,
+      "updated_at": "2026-11-10T09:20:39.488011+00:00"
     },
     {
       "id": "dydi_a:east-aphrahat",
