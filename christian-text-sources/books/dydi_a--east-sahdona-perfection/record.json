@@ -50,11 +50,48 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Bedjan 1902叙利亚语旧校本扫描",
+        "url": "https://archive.org/details/BedjanS.MartyriiQuiEstSahdonaQuaeSupersuntOmnia",
+        "kind": "fulltext",
+        "language": "叙利亚语（拉丁题名）",
+        "edition": "P. Bedjan, S. Martyrii qui et Sahdona quae supersunt omnia, 1902",
+        "coverage": "现存成全之书、短作及附录；古书本身残缺，不能称原作无缺全本",
+        "verification": "IA公开文件清单、OCR题名LIBER PERFECTIONIS已核；实际查看影像n30，正文印页3清晰。",
+        "accessed": "2026-11-10",
+        "rights_note": "1902旧版扫描；不复制现代重印版权材料。",
+        "sample_page": "https://archive.org/download/BedjanS.MartyriiQuiEstSahdonaQuaeSupersuntOmnia/page/n30.jpg"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:17.262490+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Book of Perfection\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Book+of+Perfection%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 0,
+        "candidates": [],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Sahdona Martyrius Book Perfection archive Bedjan; Martyrii quae supersunt",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://gorgiaspress.com/the-works-of-sahdona-martyrius",
+        "final_url": "https://gorgiaspress.com/the-works-of-sahdona-martyrius",
+        "result": "HTTP 200；Gorgias Press. The Works of Sahdona (Martyrius)。本检查不确认正文。"
+      }
+    ],
+    "next_action": "定位该卷中成全之书的首末页，另列5封信及雅各附录；比对后出的CSCO校本及新残片。",
+    "updated_at": "2026-11-10T05:48:47.796047+00:00",
+    "discovery_pass_done": true
   }
 }

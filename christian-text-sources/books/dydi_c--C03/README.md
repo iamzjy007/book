@@ -20,6 +20,9 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:46:39.084213+00:00：title:("Vita Antonii") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://www.paulistpress.com/bookproduct/2295-2-athanasius/ — HTTP 200；Athanasius - Paulist Press。本检查不确认正文。
+- 2026-11-10：https://opac.uibe.edu.cn/opac/book/b0ced071c2573523dde3333cdc069f16 — HTTP 503；。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

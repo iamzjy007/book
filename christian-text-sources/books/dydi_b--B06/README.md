@@ -19,6 +19,8 @@ P.Egerton 2与P.Köln VI 255属同一抄本相关残叶；目录将见证列2世
 
 ## 检索记录与断点
 
+- 2026-11-10T05:46:23.575112+00:00：title:("Egerton Gospel") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/ — HTTP 200；Egerton Gospel – NASSCAL。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

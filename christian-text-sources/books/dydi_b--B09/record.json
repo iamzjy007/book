@@ -40,8 +40,44 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:26.539119+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Secret Gospel of Mark\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Secret+Gospel+of+Mark%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 4,
+        "candidates": [
+          {
+            "creator": "Meyer, Marvin W",
+            "identifier": "secretgospelsess0000meye",
+            "title": "Secret Gospels : essays on Thomas and the secret Gospel of Mark",
+            "year": 2003
+          },
+          {
+            "creator": "Adam, A. K. M. (Andrew Keith Malcolm), 1957-",
+            "identifier": "SecretMark",
+            "title": "Fragment of the Letter of Clement to Theodore, containing the Secret Gospel of Mark: A Study Edition"
+          },
+          {
+            "creator": "Jeffery, Peter, 1953-",
+            "identifier": "secretgospelofma0000jeff",
+            "title": "The secret Gospel of Mark unveiled : imagined rituals of sex, death, and madness in a biblical forgery",
+            "year": 2007
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/secret-gospel-of-mark/",
+        "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/secret-gospel-of-mark/",
+        "result": "HTTP 200；Secret Gospel of Mark – NASSCAL。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:26.539119+00:00",
+    "discovery_pass_done": true
   }
 }

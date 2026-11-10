@@ -50,11 +50,66 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "status": "blocked",
+    "searched": true,
+    "resources": [
+      {
+        "label": "1934卷7馆藏阅读器（受限）",
+        "url": "https://archive.org/details/woodbrookestudie0007amin",
+        "kind": "restricted",
+        "language": "叙利亚语／英语",
+        "edition": "A. Mingana, Woodbrooke Studies 7: Early Christian Mystics, 1934",
+        "coverage": "具体卷7，不是同名McGinn现代书；当前PDF private=true",
+        "verification": "IA metadata标access-restricted-item=true，不能当开放全文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:17.781451+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Early Christian Mystics\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Early+Christian+Mystics%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 3,
+        "candidates": [
+          {
+            "creator": "Margaret Smith",
+            "identifier": "wayofmysticsearl0000marg",
+            "title": "The way of the Mystics: The Early Christian Mystics and the Rise of the Sufis",
+            "year": 1978
+          },
+          {
+            "creator": "McGinn, Bernard, 1937-",
+            "identifier": "earlychristianmy0000mcgi",
+            "title": "Early Christian mystics : the divine vision of the spiritual masters",
+            "year": 2003
+          },
+          {
+            "creator": "Smith, Margaret, 1884-",
+            "identifier": "wayofmysticsearl00smit",
+            "title": "The way of the mystics : the early Christian mystics and the rise of the Sufis",
+            "year": 1978
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Mingana Early Christian Mystics Woodbrooke Studies 7 pdf; IA creator Mingana title Woodbrooke",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://gorgiaspress.com/early-christian-mystics",
+        "final_url": "https://gorgiaspress.com/early-christian-mystics",
+        "result": "HTTP 200；Gorgias Press. Early Christian Mystics。本检查不确认正文。"
+      }
+    ],
+    "next_action": "继续查1934卷7机构开放扫描；馆藏ID已明确，勿用第6卷或McGinn同名书。",
+    "updated_at": "2026-11-10T05:48:47.796680+00:00",
+    "discovery_pass_done": true
   }
 }

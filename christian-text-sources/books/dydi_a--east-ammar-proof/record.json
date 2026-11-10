@@ -50,11 +50,58 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "现代版本出版社入口",
+        "url": "https://gorgiaspress.com/ammar-al-basris-arabic-apologetics",
+        "kind": "metadata",
+        "language": "阿拉伯语／英语范围依版本核",
+        "edition": "ʿAmmār al-Baṣrī’s Arabic Apologetics",
+        "coverage": "版本介绍，未取得原作正文",
+        "verification": "访问并核作品身份。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "伯明翰大学学位论文（研究辅助）",
+        "url": "https://etheses.bham.ac.uk/id/eprint/4162/",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "Wageeh Y. F. Mikhail, PhD, 2013",
+        "coverage": "论文研究Kitab al-Burhan；尚未核是否附完整原文／译文",
+        "verification": "实读大学摘要和PDF入口；不把论文自动列为古书全文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:18.681892+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"The Book of the Proof concerning the Course of the Divine Economy\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22The+Book+of+the+Proof+concerning+the+Course+of+the+Divine+Economy%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 0,
+        "candidates": [],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Ammar Kitab Burhan text pdf",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://gorgiaspress.com/ammar-al-basris-arabic-apologetics",
+        "final_url": "https://gorgiaspress.com/ammar-al-basris-arabic-apologetics",
+        "result": "HTTP 200；Gorgias Press. ʿAmmār al-Baṣrī's Arabic Apologetics。本检查不确认正文。"
+      }
+    ],
+    "next_action": "打开Mikhail13PhD.pdf核附录与译文范围；另找Hayek阿拉伯语校本。",
+    "updated_at": "2026-11-10T05:48:47.797579+00:00",
+    "discovery_pass_done": true
   }
 }

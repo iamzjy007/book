@@ -50,11 +50,82 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Wensinck 1923旧英译扫描及阅读器",
+        "url": "https://archive.org/details/IsaacOfNinevehMysticTreatises",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "A. J. Wensinck, Mystic Treatises by Isaac of Nineveh, Amsterdam 1923",
+        "coverage": "第一集对应Bedjan正文传统；syri.ac列82章导航",
+        "verification": "IA元数据与可公开OCR已核，读取到题名、译者及第1篇正文；未逐页校勘。",
+        "accessed": "2026-11-10",
+        "rights_note": "1923旧版；本轮只保存在线入口，按扫描馆说明核再利用。",
+        "direct_file": "https://archive.org/download/IsaacOfNinevehMysticTreatises/isaac_of_nineveh_mystical_treatises.pdf"
+      },
+      {
+        "label": "Bedjan 1909叙利亚语文本扫描",
+        "url": "https://archive.org/details/212102178MarIsaacusNinivitaDePerfectioneReligiosa",
+        "kind": "fulltext",
+        "language": "叙利亚语",
+        "edition": "P. Bedjan, Mar Isaacus Ninivita De perfectione religiosa, 1909",
+        "coverage": "以撒第一集旧版文本；不代替第二、第三集",
+        "verification": "syri.ac书目指向此ID；IA公开OCR已实际读取到叙利亚文正文起始；逐页完整性待翻译前查验。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "逐章英译／叙利亚原文对应导航",
+        "url": "https://syri.ac/brock/isaac",
+        "kind": "edition_gateway",
+        "language": "叙利亚语／英语",
+        "edition": "Sebastian Brock书目；网站编辑补充章号导航",
+        "coverage": "第一集1—82章并列原文和英译链接；另列II、III版本",
+        "verification": "实读Part I、II、III各栏目。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:14.798589+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Ascetical Homilies\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Ascetical+Homilies%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 2,
+        "candidates": [
+          {
+            "creator": "Paul Bedjan",
+            "identifier": "the-ascetical-homilies-of-mar-isaac-of-nineveh",
+            "title": "The Ascetical Homilies Of Mar Isaac Of Nineveh",
+            "year": 1908
+          },
+          {
+            "creator": "Saint Isaac the Syrian",
+            "identifier": "the-ascetical-homilies-of-saint-isaac-the-syrian-holy-transfiguration-monastery",
+            "title": "The Ascetical Homilies Of Saint Isaac The Syrian - Holy Transfiguration Monastery"
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Isaac Nineveh Bedjan 1909 Syriac text archive; syri.ac/brock/isaac",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://syri.ac/brock/isaac",
+        "final_url": "https://syri.ac/brock/isaac",
+        "result": "HTTP 403；Just a moment...；实际为人机验证，不是资源内容。。本检查不确认正文。"
+      }
+    ],
+    "next_action": "翻译前核全书页序、章号和原文对应；优先使用可核的旧版扫描，OCR只供定位。",
+    "updated_at": "2026-11-10T05:48:47.794043+00:00",
+    "discovery_pass_done": true
   }
 }

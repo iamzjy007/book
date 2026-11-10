@@ -45,8 +45,45 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:41.565572+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Praecepta\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Praecepta%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 506,
+        "candidates": [
+          {
+            "creator": "Ferdinand Reisner",
+            "identifier": "bub_gb_68RnWLh6YHQC",
+            "title": "Explanatio idiotismorum in latina vulgata recursantium, per praecepta et exempla ... accommodata per Ferdinandum Reisner ..",
+            "year": 1775
+          },
+          {
+            "creator": "Juan Gil Trullench",
+            "identifier": "bub_gb_JzvVQmZQenYC",
+            "title": "Ioannis ÿgidii Trullench VillæRealis regni Valentiæ S.T.D. ... Operis moralis, tomus primus tertius. Siue in decem decalogi, & quinque ecclesiae praecepta absolutissima & resolutoria expositio, ex optimorum nouissimorumque doctorum probatissima doctrina deprompta Ioannis ÿgidii Trullench ... Tomus tertius, praxim sacramentor",
+            "year": 1652
+          },
+          {
+            "creator": "Guglielmo Cantarelli",
+            "identifier": "bub_gb_uad_Nxe9xSMC",
+            "title": "Variarum quaestionum in decem præcepta decalogi facilis resolutio, ad hominem circa mores, & christianæ fidei mysteria præcipua instruendum, vna cum explicatione totius vigesimi capitis Exodi. ... Authore d. Gulielmo Cantarello de Rauenna, Ordinis Camaldulensis abbate ..",
+            "year": 1611
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://litpress.org/Products/CS046/Pachomian-Koinonia-2",
+        "final_url": "https://litpress.org/Products/CS046/Pachomian-Koinonia-2",
+        "result": "HTTP 200；Pachomian Koinonia 2: Pachomian Chronicles and Rules: Translated and annotated by Armand Veilleux OCSO, Foreword by Adalbert de Vogüé OSB : 9780879079468: litpress.org : Paperback。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:41.565572+00:00",
+    "discovery_pass_done": true
   }
 }

@@ -19,6 +19,8 @@
 
 ## 检索记录与断点
 
+- 2026-11-10T05:46:34.565317+00:00：title:("P. Oxy. 4009") AND mediatype:texts — 标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。
+- 2026-11-10：https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-4009/ — HTTP 200；Papyrus Oxyrhynchus 4009 – NASSCAL。本检查不确认正文。
 
 下一步：检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。
 

@@ -52,8 +52,52 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:39.817917+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Historia Lausiaca\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Historia+Lausiaca%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 7,
+        "candidates": [
+          {
+            "creator": "Amélineau, E. (Emile), 1850-1915",
+            "identifier": "dehistorialausia00am",
+            "title": "De historia Lausiaca quaenam sit hujus ad monachorum Aegyptiorum historaim scribendam utilitas. Adjecta sunt quaedem hujus historiae Coptica fragmenta inedita",
+            "year": 1887
+          },
+          {
+            "creator": "Paladio",
+            "identifier": "paladio-historia-lausiaca_202406",
+            "title": "Paladio, Historia Lausiaca",
+            "year": 1991
+          },
+          {
+            "creator": "Library Company",
+            "identifier": "ms3_1141f",
+            "title": "Palladius: historia lausiaca, etc.",
+            "year": 1326
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://litpress.org/Products/CS252P",
+        "final_url": "https://litpress.org/Products/CS252P",
+        "result": "HTTP 200；The Lausiac History: : Palladius of Aspuna; Edited and Translated by John Wortley: 9780879072520: litpress.org : Paperback。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.cambridge.org/core/books/the-lausiac-history-of-palladius/388E95FC17CDD6A304DBC047E5E657D3",
+        "final_url": "https://www.cambridge.org/core/books/the-lausiac-history-of-palladius/388E95FC17CDD6A304DBC047E5E657D3",
+        "result": "HTTP 200；The Lausiac History of Palladius。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:39.817917+00:00",
+    "discovery_pass_done": true
   }
 }

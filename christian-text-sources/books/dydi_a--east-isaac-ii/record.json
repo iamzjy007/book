@@ -57,11 +57,83 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "status": "metadata_only",
+    "searched": true,
+    "resources": [
+      {
+        "label": "第二集版本与篇章范围",
+        "url": "https://syri.ac/brock/isaac",
+        "kind": "edition_gateway",
+        "language": "叙利亚语／英语等",
+        "edition": "S. P. Brock, CSCO 554/555, 1995",
+        "coverage": "该套校译本为第4—41章；第1—3章另有版本，不是单卷第二集全本",
+        "verification": "实读Part II栏目；未取得4—41章开放正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "第1—3章现代英译说明",
+        "url": "https://www.svots.edu/headlines/svs-press-translates-recently-discovered-works-st-isaac-nineveh",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "SVS Press 2022，The First Three Chapters",
+        "coverage": "确认1—3章及第三章百则范围；新闻不是全书正文",
+        "verification": "出版社公告与原调查范围交叉核。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:15.676954+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Second Part\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Second+Part%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 1461,
+        "candidates": [
+          {
+            "creator": "Charles C F Greville",
+            "identifier": "TheGrevileMemoirsSecondPart",
+            "title": "The Grevile Memoirs Second Part",
+            "year": 1885
+          },
+          {
+            "creator": "John Dover Wilson",
+            "identifier": "TheSecondPartOfTheHistoryOfHenryIV",
+            "title": "The Second Part Of The History Of Henry IV",
+            "year": 1971
+          },
+          {
+            "identifier": "bstj13-1-102",
+            "title": "BSTJ 13: 1. January 1934: Contemporary Advances in Physics, XXVII The Nucleus, Second Part. (Darrow, Karl K.)",
+            "year": 1934
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Isaac Second Part 4-41 online; Isaac Second Part azbyka",
+        "result": "本轮只确认版本；通用Second Part题名索引大量误命中，未采用。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://syri.ac/brock/isaac",
+        "final_url": "https://syri.ac/brock/isaac",
+        "result": "HTTP 403；Just a moment...；实际为人机验证，不是资源内容。。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.svots.edu/headlines/svs-press-translates-recently-discovered-works-st-isaac-nineveh",
+        "final_url": "https://www.svots.edu/headlines/svs-press-translates-recently-discovered-works-st-isaac-nineveh",
+        "result": "HTTP 200；SVS Press translates recently discovered works of St Isaac of Nineveh | St Vladimir's Orthodox Theological Seminary。本检查不确认正文。"
+      }
+    ],
+    "next_action": "检索Brock CSCO 554/555原文与英译的馆藏可读版；另核II.1—3及四百则，不能拿I集代替。",
+    "updated_at": "2026-11-10T05:48:47.794526+00:00",
+    "discovery_pass_done": true
   }
 }

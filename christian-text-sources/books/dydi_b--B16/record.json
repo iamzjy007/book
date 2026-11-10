@@ -40,8 +40,45 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:33.592667+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Doctrine\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Doctrine%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 14979,
+        "candidates": [
+          {
+            "creator": "Mark G. Cambron",
+            "identifier": "bibledoctrinebel0000mark",
+            "title": "Bible Doctrine Beliefs that Matter",
+            "year": 1973
+          },
+          {
+            "creator": "john mcintyre",
+            "identifier": "bwb_SO-ATJ-531",
+            "title": "the christian doctrine of history",
+            "year": 1957
+          },
+          {
+            "creator": "john christian wenger",
+            "identifier": "glimpsesofmennon0000john_b0j3",
+            "title": "glimpses of mennonite history and doctrine",
+            "year": 1949
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
+        "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
+        "result": "HTTP 200；Doctrine of Addai – NASSCAL。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:33.592667+00:00",
+    "discovery_pass_done": true
   }
 }

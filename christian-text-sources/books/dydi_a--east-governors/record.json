@@ -50,11 +50,70 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Budge 1893卷2英译扫描",
+        "url": "https://archive.org/details/bookofgovernors02thomuoft",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "E. A. Wallis Budge, The Book of Governors, 1893, vol.2",
+        "coverage": "英译卷；原叙利亚语卷须另取",
+        "verification": "核IA元数据、公开文件清单；实际查看n30=印页21，Book I, Chapter II正文清晰；OCR严重失真，不能直接作为翻译文本。",
+        "accessed": "2026-11-10",
+        "rights_note": "1893旧版；后续依据页图校订。",
+        "sample_page": "https://archive.org/download/bookofgovernors02thomuoft/page/n30.jpg"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:18.037919+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"The Book of Governors\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22The+Book+of+Governors%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 13,
+        "candidates": [
+          {
+            "creator": "Thomas, bp. of Marga, fl. 850",
+            "identifier": "bookofgovernorsh0002thom",
+            "title": "The Book of governors : the Historia monastica of Thomas, bishop of Marga, A. D. 840, edited from Syriac manuscripts in the British museum and other libraries",
+            "year": 1893
+          },
+          {
+            "creator": [
+              "Thomas of Margâ, Bp",
+              "Budge, E. A. Wallis (Ernest Alfred Wallis), Sir, 1857-1934"
+            ],
+            "identifier": "bookofgovernors02thomuoft",
+            "title": "The Book of Governors : the Historia Monastica of Thomas, Bishop of Margâ A.D.840",
+            "year": 1893
+          },
+          {
+            "creator": "Thomas, bp. of Margâ, active 840",
+            "identifier": "bookgovernorshi00marggoog",
+            "title": "The book of governors; the Historia monastica of Thomas, bishop of Margâ, A.D. 840, ed. from Syriac manuscripts in the British museum and other libraries",
+            "year": 1893
+          }
+        ],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Thomas Marga Book Governors Budge volume 2 online; IA title Book of Governors",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://gorgiaspress.com/the-book-of-governors-the-historia-monastica-of-thomas-of-marga-ad-840-2-volume-set",
+        "final_url": "https://gorgiaspress.com/the-book-of-governors-the-historia-monastica-of-thomas-of-marga-ad-840-2-volume-set",
+        "result": "HTTP 200；Gorgias Press. The Book of Governors: The Historia Monastica of Thomas of Marga AD 840 (2-volume set)。本检查不确认正文。"
+      }
+    ],
+    "next_action": "补取同套卷1叙利亚语原文，建立英译页码对应，OCR需重新识别校订。",
+    "updated_at": "2026-11-10T05:48:47.796951+00:00",
+    "discovery_pass_done": true
   }
 }

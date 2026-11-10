@@ -46,8 +46,26 @@
     "status": "queued",
     "searched": false,
     "resources": [],
-    "attempts": [],
+    "attempts": [
+      {
+        "date": "2026-11-10T05:46:37.574643+00:00",
+        "method": "internet_archive_title_search",
+        "query": "title:(\"Apophthegmata Patrum, Systematic Collection\") AND mediatype:texts",
+        "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Apophthegmata+Patrum%2C+Systematic+Collection%22%29+AND+mediatype%3Atexts&output=json&rows=3&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=year",
+        "num_found": 0,
+        "candidates": [],
+        "result": "标题索引候选；未经作品身份、正文范围和访问权限核实，不能计为取得全文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "original_source_http_check",
+        "url": "https://litpress.org/Products/CS240P/The-Book-of-the-Elders",
+        "final_url": "https://litpress.org/Products/CS240P/The-Book-of-the-Elders",
+        "result": "HTTP 200；The Book of the Elders: Sayings of the Desert Fathers: The Systematic Collection: Translated by John Wortley; Foreword by Bernard Flusin: 9780879076900: litpress.org : Paperback。本检查不确认正文。"
+      }
+    ],
     "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": null
+    "updated_at": "2026-11-10T05:46:37.574643+00:00",
+    "discovery_pass_done": true
   }
 }
