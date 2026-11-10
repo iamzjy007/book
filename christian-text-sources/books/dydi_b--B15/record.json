@@ -37,9 +37,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "拉丁文本旧刊候选",
+        "url": "https://archive.org/details/patrologicursus80migngoog/page/n143/mode/2up",
+        "kind": "scan_candidate",
+        "language": "拉丁语",
+        "edition": "Migne PG 5, cols.1363—1366，NASSCAL所列",
+        "coverage": "拉丁传统；不自动等同希腊BHG1847家族",
+        "verification": "已核NASSCAL版本—链接对应，尚未打开扫描页。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "希腊／拉丁传本及Usener页码",
+        "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
+        "kind": "metadata",
+        "language": "英语说明",
+        "edition": "Usener 1877旧版pp.7—13；现代Zamagni／Concannon校译另列",
+        "coverage": "版本导航；页面的Menologion短译只是摘要传统",
+        "verification": "已实读版本分类与页码，避免误把短传当完整Acts。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:32.779773+00:00",
@@ -56,10 +79,16 @@
         "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
         "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
         "result": "HTTP 200；Acts of Timothy – NASSCAL。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Acts Timothy translation CSLA; NASSCAL Greek Latin editions",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:32.779773+00:00",
+    "next_action": "取得Usener 1877 pp.7—13或上述PG正文；区分希腊家族与拉丁伪署坡旅克拉底。",
+    "updated_at": "2026-11-10T05:52:30.446607+00:00",
     "discovery_pass_done": true
   }
 }

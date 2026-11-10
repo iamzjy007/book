@@ -37,9 +37,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "牛津P.Oxy.4009原件图像入口",
+        "url": "https://portal.sds.ox.ac.uk/articles/online_resource/P_Oxy_LX_4009_Gospel_of_Peter_/21177193",
+        "kind": "scan_candidate",
+        "language": "希腊语",
+        "edition": "Oxford P.Oxy. LX 4009馆藏图像",
+        "coverage": "残片原件，题名Gospel of Peter带问号",
+        "verification": "已打开牛津Figshare项目页；图像文件和分行转录尚未核。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:34.565317+00:00",
@@ -56,10 +68,16 @@
         "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-4009/",
         "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-4009/",
         "result": "HTTP 200；Papyrus Oxyrhynchus 4009 – NASSCAL。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "NASSCAL Papyrus Oxyrhynchus 4009 → Oxford images",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:34.565317+00:00",
+    "next_action": "打开牛津项目文件逐面核图，配1994原刊转录；归彼得福音只能作为假说。",
+    "updated_at": "2026-11-10T05:52:30.447215+00:00",
     "discovery_pass_done": true
   }
 }

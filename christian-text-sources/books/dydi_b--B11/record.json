@@ -37,9 +37,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "1893希腊旧校本候选",
+        "url": "https://archive.org/details/anecdotagraecoby00vass/page/10",
+        "kind": "scan_candidate",
+        "language": "希腊语",
+        "edition": "A. Vassiliev, Anecdota graeco-byzantina, 1893, pp.10—22",
+        "coverage": "维也纳G抄本对应的校本；不是全部语种传本",
+        "verification": "NASSCAL列出具体版本、页码与扫描链接；尚未抽页。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "James旧英译文本（本轮连接失败）",
+        "url": "https://www.gnosis.org/library/gosbart.htm",
+        "kind": "restricted",
+        "language": "英语",
+        "edition": "M. R. James, 1924",
+        "coverage": "Questions传统，不是Coptic Book of Bartholomew",
+        "verification": "gnosis.org连接失败／503，未核该页面当前正文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:28.957258+00:00",
@@ -62,10 +85,16 @@
         "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/questions-of-bartholomew/",
         "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/questions-of-bartholomew/",
         "result": "HTTP 200；Questions of Bartholomew – NASSCAL。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Questions Bartholomew full text James; NASSCAL editions",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:28.957258+00:00",
+    "next_action": "打开Vassiliev pp.10—22及Bonwetsch 1897版；另找可用James旧英译镜像。",
+    "updated_at": "2026-11-10T05:52:30.445432+00:00",
     "discovery_pass_done": true
   }
 }

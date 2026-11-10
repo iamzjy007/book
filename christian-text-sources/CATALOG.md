@@ -19,24 +19,24 @@
 | 013 | [阿马尔·巴士里：救恩安排的论证之书](books/dydi_a--east-ammar-proof/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
 | 014 | [阿马尔·巴士里：问答之书](books/dydi_a--east-ammar-questions/README.md) | 仅书目／版本入口 | 见档案中的既有出处 |
 | 015 | [提摩太一世与马赫迪哈里发的对话](books/dydi_a--east-timothy-mahdi/README.md) | 正文可直达 | [Mingana 1928旧英译正文](https://www.tertullian.org/fathers/timothy_i_apology_01_text.htm) |
-| 016 | [希伯来人福音](books/dydi_b--B01/README.md) | 待检索 | 见档案中的既有出处 |
-| 017 | [拿撒勒派福音](books/dydi_b--B02/README.md) | 待检索 | 见档案中的既有出处 |
-| 018 | [希腊文埃及人福音](books/dydi_b--B03/README.md) | 待检索 | 见档案中的既有出处 |
-| 019 | [俄克喜林库斯840残片](books/dydi_b--B04/README.md) | 待检索 | 见档案中的既有出处 |
-| 020 | [俄克喜林库斯1224残片](books/dydi_b--B05/README.md) | 待检索 | 见档案中的既有出处 |
-| 021 | [埃格顿未知福音](books/dydi_b--B06/README.md) | 待检索 | 见档案中的既有出处 |
-| 022 | [伊便尼派福音](books/dydi_b--B07/README.md) | 待检索 | 见档案中的既有出处 |
-| 023 | [俄克喜林库斯5575耶稣语录](books/dydi_b--B08/README.md) | 待检索 | 见档案中的既有出处 |
-| 024 | [马可秘密福音引文／致提阿多罗书](books/dydi_b--B09/README.md) | 待检索 | 见档案中的既有出处 |
-| 025 | [柏林—斯特拉斯堡外典（旧称救主福音）](books/dydi_b--B10/README.md) | 待检索 | 见档案中的既有出处 |
-| 026 | [巴多罗买提问](books/dydi_b--B11/README.md) | 待检索 | 见档案中的既有出处 |
-| 027 | [巴多罗买复活记](books/dydi_b--B12/README.md) | 待检索 | 见档案中的既有出处 |
-| 028 | [所谓迦玛烈福音／马利亚哀悼讲章](books/dydi_b--B13/README.md) | 待检索 | 见档案中的既有出处 |
-| 029 | [腓力行传](books/dydi_b--B14/README.md) | 待检索 | 见档案中的既有出处 |
-| 030 | [提摩太行传](books/dydi_b--B15/README.md) | 待检索 | 见档案中的既有出处 |
-| 031 | [亚戴之教训](books/dydi_b--B16/README.md) | 待检索 | 见档案中的既有出处 |
-| 032 | [俄克喜林库斯4009残片](books/dydi_b--B17/README.md) | 待检索 | 见档案中的既有出处 |
-| 033 | [法尤姆残片](books/dydi_b--B18/README.md) | 待检索 | 见档案中的既有出处 |
+| 016 | [希伯来人福音](books/dydi_b--B01/README.md) | 部分正文可直达 | [希伯来人福音辑佚英译](https://www.earlychristianwritings.com/text/gospelhebrews-mrjames.html) |
+| 017 | [拿撒勒派福音](books/dydi_b--B02/README.md) | 部分正文可直达 | [拿撒勒派福音辑佚英译](https://www.earlychristianwritings.com/text/nazoreans-ogg.html) |
+| 018 | [希腊文埃及人福音](books/dydi_b--B03/README.md) | 部分正文可直达 | [希腊文埃及人福音引文英译](https://www.earlychristianwritings.com/text/gospelegyptians.html) |
+| 019 | [俄克喜林库斯840残片](books/dydi_b--B04/README.md) | 部分正文可直达 | [P.Oxy.840英文与分行重构](https://www.earlychristianwritings.com/text/poxy840.html) |
+| 020 | [俄克喜林库斯1224残片](books/dydi_b--B05/README.md) | 部分正文可直达 | [P.Oxy.1224残片英译](https://www.earlychristianwritings.com/text/oxyrhynchus1224.html) |
+| 021 | [埃格顿未知福音](books/dydi_b--B06/README.md) | 部分正文可直达 | [埃格顿未知福音公开英译](https://www.gospels.net/egerton/) |
+| 022 | [伊便尼派福音](books/dydi_b--B07/README.md) | 部分正文可直达 | [伊便尼派福音辑佚旧英译](https://www.earlychristianwritings.com/text/gospelebionites.html) |
+| 023 | [俄克喜林库斯5575耶稣语录](books/dydi_b--B08/README.md) | 部分正文可直达 | [P.Oxy.5575正反面公开英译](https://www.gospels.net/sayings-of-jesus-poxy-5575) |
+| 024 | [马可秘密福音引文／致提阿多罗书](books/dydi_b--B09/README.md) | 部分正文可直达 | [致提阿多罗书及所引马可秘密福音](https://www.gospels.net/secret-gospel-of-mark) |
+| 025 | [柏林—斯特拉斯堡外典（旧称救主福音）](books/dydi_b--B10/README.md) | 扫描入口待核 | [斯特拉斯堡残片旧校本扫描候选](https://archive.org/details/einneuesevangel00jacogoog/page/n5) |
+| 026 | [巴多罗买提问](books/dydi_b--B11/README.md) | 扫描入口待核 | [1893希腊旧校本候选](https://archive.org/details/anecdotagraecoby00vass/page/10) |
+| 027 | [巴多罗买复活记](books/dydi_b--B12/README.md) | 扫描入口待核 | [Budge 1913原文及旧英译整卷候选](https://archive.org/details/copticapocryphai00budguoft) |
+| 028 | [所谓迦玛烈福音／马利亚哀悼讲章](books/dydi_b--B13/README.md) | 部分正文可直达 | [Or.7027 f.75残片校译的开放论文](https://journals.sub.uni-hamburg.de/aethiopica/article/download/659/667/2004) |
+| 029 | [腓力行传](books/dydi_b--B14/README.md) | 部分正文可直达 | [Walker旧英译：部分行传与殉道记](https://www.newadvent.org/fathers/0818.htm)；[旧希腊校本扫描候选](https://archive.org/details/ActaApostolorumApocrypha2/page/n9) |
+| 030 | [提摩太行传](books/dydi_b--B15/README.md) | 扫描入口待核 | [拉丁文本旧刊候选](https://archive.org/details/patrologicursus80migngoog/page/n143/mode/2up) |
+| 031 | [亚戴之教训](books/dydi_b--B16/README.md) | 正文可直达 | [Phillips 1876扩展本旧英译正文](https://www.tertullian.org/fathers/addai_2_text.htm)；[叙利亚语及英译扫描候选](https://archive.org/details/doctrineofaddaia00phil) |
+| 032 | [俄克喜林库斯4009残片](books/dydi_b--B17/README.md) | 扫描入口待核 | [牛津P.Oxy.4009原件图像入口](https://portal.sds.ox.ac.uk/articles/online_resource/P_Oxy_LX_4009_Gospel_of_Peter_/21177193) |
+| 033 | [法尤姆残片](books/dydi_b--B18/README.md) | 部分正文可直达 | [法尤姆残片英译及7行重构](https://www.earlychristianwritings.com/text/fayyum.html) |
 | 034 | [沙漠教父语录：字母集](books/dydi_c--C01/README.md) | 待检索 | 见档案中的既有出处 |
 | 035 | [沙漠教父语录：系统集](books/dydi_c--C02/README.md) | 待检索 | 见档案中的既有出处 |
 | 036 | [安东尼传](books/dydi_c--C03/README.md) | 待检索 | 见档案中的既有出处 |

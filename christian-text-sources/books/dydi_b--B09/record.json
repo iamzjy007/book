@@ -37,9 +37,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "致提阿多罗书及所引马可秘密福音",
+        "url": "https://www.gospels.net/secret-gospel-of-mark",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Samuel Zinner；网页自署译者",
+        "coverage": "传世书信引文范围；不代表完整秘密福音",
+        "verification": "实际打开正文、译者名和公共领域声明；没有取得独立完整原书。",
+        "accessed": "2026-11-10",
+        "rights_note": "译者页面明确将该译文置于公共领域；保留署名和底本信息。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:26.539119+00:00",
@@ -74,10 +86,16 @@
         "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/secret-gospel-of-mark/",
         "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/secret-gospel-of-mark/",
         "result": "HTTP 200；Secret Gospel of Mark – NASSCAL。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "致提阿多罗书及所引马可秘密福音 full text; NASSCAL → Gospels.net",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:26.539119+00:00",
+    "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+    "updated_at": "2026-11-10T05:52:30.444884+00:00",
     "discovery_pass_done": true
   }
 }

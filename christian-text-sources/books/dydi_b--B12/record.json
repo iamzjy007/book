@@ -37,9 +37,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Budge 1913原文及旧英译整卷候选",
+        "url": "https://archive.org/details/copticapocryphai00budguoft",
+        "kind": "scan_candidate",
+        "language": "科普特语／英语",
+        "edition": "E. A. W. Budge, Coptic Apocrypha in the Dialect of Upper Egypt, 1913",
+        "coverage": "本作品科普特pp.1—48、英译pp.179—215；巴黎残片英译216—230",
+        "verification": "NASSCAL明确上述范围；本轮尚未核扫描页可读性。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:29.571128+00:00",
@@ -56,10 +68,16 @@
         "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-bartholomew/",
         "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-bartholomew/",
         "result": "HTTP 200；Book of Bartholomew – NASSCAL。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Book Bartholomew resurrection Christ Budge online; NASSCAL 3.1.1",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:29.571128+00:00",
+    "next_action": "抽查上述正文起末页并保留各传本界限；James对此书仅摘要，不能当全文替代。",
+    "updated_at": "2026-11-10T05:52:30.445813+00:00",
     "discovery_pass_done": true
   }
 }

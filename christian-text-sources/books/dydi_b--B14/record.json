@@ -37,9 +37,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Walker旧英译：部分行传与殉道记",
+        "url": "https://www.newadvent.org/fathers/0818.htm",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Alexander Walker, ANF vol.8, 1886",
+        "coverage": "页面从第15行传至末段，并附Upper Hellas行传；不是已知全套行传",
+        "verification": "实读标题范围及结尾缺文标志；不能宣称整部Acts已齐。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "旧希腊校本扫描候选",
+        "url": "https://archive.org/details/ActaApostolorumApocrypha2/page/n9",
+        "kind": "scan_candidate",
+        "language": "希腊语",
+        "edition": "Acta Apostolorum Apocrypha vol.2；具体分册卷页待核",
+        "coverage": "旧版对应文本；与现代Xenophontos材料覆盖另核",
+        "verification": "NASSCAL外链；尚未抽页。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:31.678432+00:00",
@@ -61,10 +84,16 @@
         "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip/",
         "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip/",
         "result": "HTTP 200；Acts of Philip – NASSCAL。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Acts Philip full text New Advent; NASSCAL editions",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:31.678432+00:00",
+    "next_action": "核Bonnet旧版实际范围，再取后发现的Xenophontos传本校本；不能以ANF局部当新全译底本。",
+    "updated_at": "2026-11-10T05:52:30.446299+00:00",
     "discovery_pass_done": true
   }
 }

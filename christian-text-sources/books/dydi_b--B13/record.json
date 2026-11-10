@@ -37,9 +37,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Or.7027 f.75残片校译的开放论文",
+        "url": "https://journals.sub.uni-hamburg.de/aethiopica/article/download/659/667/2004",
+        "kind": "partial",
+        "language": "科普特语／英语研究及校译",
+        "edition": "Alin Suciu, Aethiopica 15 (2012), pp.53—71",
+        "coverage": "仅马利亚哀悼讲章的现存科普特残片及分析；不是所谓迦玛烈福音完本",
+        "verification": "已打开20页PDF，核抄本身份、校译段及作品归属讨论。",
+        "accessed": "2026-11-10",
+        "rights_note": "期刊页标CC BY-SA 4.0；本轮只保留原文路径。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:30.531931+00:00",
@@ -56,10 +68,16 @@
         "url": "https://journals.sub.uni-hamburg.de/aethiopica/article/view/659",
         "final_url": "https://journals.sub.uni-hamburg.de/aethiopica/article/view/659",
         "result": "HTTP 200；A British Library Fragment from a Homily on the Lament of Mary and the So-Called Gospel of Gamaliel\n\t\t\t\t\t\t\t| Aethiopica。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "原出处论文PDF下载入口 → 实际PDF",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:30.531931+00:00",
+    "next_action": "查Mingana Woodbrooke Studies 2中Lament of Mary阿拉伯／英译pp.163—240；另列吉兹版本，不创建不存在的独立完整科普特福音。",
+    "updated_at": "2026-11-10T05:52:30.446052+00:00",
     "discovery_pass_done": true
   }
 }

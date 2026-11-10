@@ -43,9 +43,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "scan_candidate",
+    "searched": true,
+    "resources": [
+      {
+        "label": "斯特拉斯堡残片旧校本扫描候选",
+        "url": "https://archive.org/details/einneuesevangel00jacogoog/page/n5",
+        "kind": "scan_candidate",
+        "language": "科普特语／德语",
+        "edition": "A. Jacoby, Ein neues Evangelienfragment, 1900",
+        "coverage": "斯特拉斯堡部分旧刊，不是柏林—斯特拉斯堡2017重排全本",
+        "verification": "NASSCAL书目与链接已核；尚未逐页打开此扫描。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      },
+      {
+        "label": "2017综合校本版本入口",
+        "url": "https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/",
+        "kind": "metadata",
+        "language": "英语研究／科普特文本",
+        "edition": "Alin Suciu, The Berlin-Strasbourg Apocryphon, WUNT 370, 2017",
+        "coverage": "新版身份及残页次序核对所需；本页不是正文",
+        "verification": "出版社页面可访问；未取得现代校本全文。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:27.564947+00:00",
@@ -69,10 +92,16 @@
         "url": "https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/",
         "final_url": "https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/",
         "result": "HTTP 200；The Berlin-Strasbourg Apocryphon。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "NASSCAL Berlin-Strasbourg Apocryphon editions and online scans",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:27.564947+00:00",
+    "next_action": "先核Jacoby所收旧残片；找2017作者存档／机构阅读版再确定残页顺序，不能用旧题名推定二世纪。",
+    "updated_at": "2026-11-10T05:52:30.445159+00:00",
     "discovery_pass_done": true
   }
 }

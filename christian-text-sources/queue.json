@@ -1,115 +1,7 @@
 {
   "schema": 1,
-  "next_task": "dydi_b:B01",
+  "next_task": "dydi_c:C01",
   "tasks": [
-    {
-      "id": "dydi_b:B01",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B01/record.json"
-    },
-    {
-      "id": "dydi_b:B02",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B02/record.json"
-    },
-    {
-      "id": "dydi_b:B03",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B03/record.json"
-    },
-    {
-      "id": "dydi_b:B04",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B04/record.json"
-    },
-    {
-      "id": "dydi_b:B05",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B05/record.json"
-    },
-    {
-      "id": "dydi_b:B06",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B06/record.json"
-    },
-    {
-      "id": "dydi_b:B07",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B07/record.json"
-    },
-    {
-      "id": "dydi_b:B08",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B08/record.json"
-    },
-    {
-      "id": "dydi_b:B09",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B09/record.json"
-    },
-    {
-      "id": "dydi_b:B10",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B10/record.json"
-    },
-    {
-      "id": "dydi_b:B11",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B11/record.json"
-    },
-    {
-      "id": "dydi_b:B12",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B12/record.json"
-    },
-    {
-      "id": "dydi_b:B13",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B13/record.json"
-    },
-    {
-      "id": "dydi_b:B14",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B14/record.json"
-    },
-    {
-      "id": "dydi_b:B15",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B15/record.json"
-    },
-    {
-      "id": "dydi_b:B16",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B16/record.json"
-    },
-    {
-      "id": "dydi_b:B17",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B17/record.json"
-    },
-    {
-      "id": "dydi_b:B18",
-      "status": "queued",
-      "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-      "record_path": "books/dydi_b--B18/record.json"
-    },
     {
       "id": "dydi_c:C01",
       "status": "queued",
@@ -637,6 +529,108 @@
       "status": "metadata_only",
       "next_action": "查阿拉伯语题名كتاب المسائل والأجوبة及Hayek版本；与Kitab al-Burhan分开，不采用同名现代问答书。",
       "record_path": "books/dydi_a--east-ammar-questions/record.json"
+    },
+    {
+      "id": "dydi_b:B01",
+      "status": "partial_online",
+      "next_action": "核每段引用原语及现代归类，分开希伯来人与拿撒勒派片段。",
+      "record_path": "books/dydi_b--B01/record.json"
+    },
+    {
+      "id": "dydi_b:B02",
+      "status": "partial_online",
+      "next_action": "取得Jerome等原语引文；与B01去重，并核现代译文使用条件。",
+      "record_path": "books/dydi_b--B02/record.json"
+    },
+    {
+      "id": "dydi_b:B03",
+      "status": "partial_online",
+      "next_action": "回到Stromateis原语和章号；保持希腊与科普特同名书区别。",
+      "record_path": "books/dydi_b--B03/record.json"
+    },
+    {
+      "id": "dydi_b:B04",
+      "status": "partial_online",
+      "next_action": "补取原刊Oxyrhynchus Papyri 5中840的原文与图版。",
+      "record_path": "books/dydi_b--B04/record.json"
+    },
+    {
+      "id": "dydi_b:B05",
+      "status": "partial_online",
+      "next_action": "查Oxyrhynchus Papyri 10 pp.1—10及图版，不把与840相邻列目当连续正文。",
+      "record_path": "books/dydi_b--B05/record.json"
+    },
+    {
+      "id": "dydi_b:B06",
+      "status": "partial_online",
+      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "record_path": "books/dydi_b--B06/record.json"
+    },
+    {
+      "id": "dydi_b:B07",
+      "status": "partial_online",
+      "next_action": "核Panarion 30希腊原文及每段上下文，保留教父转述性质。",
+      "record_path": "books/dydi_b--B07/record.json"
+    },
+    {
+      "id": "dydi_b:B08",
+      "status": "partial_online",
+      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "record_path": "books/dydi_b--B08/record.json"
+    },
+    {
+      "id": "dydi_b:B09",
+      "status": "partial_online",
+      "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "record_path": "books/dydi_b--B09/record.json"
+    },
+    {
+      "id": "dydi_b:B10",
+      "status": "scan_candidate",
+      "next_action": "先核Jacoby所收旧残片；找2017作者存档／机构阅读版再确定残页顺序，不能用旧题名推定二世纪。",
+      "record_path": "books/dydi_b--B10/record.json"
+    },
+    {
+      "id": "dydi_b:B11",
+      "status": "scan_candidate",
+      "next_action": "打开Vassiliev pp.10—22及Bonwetsch 1897版；另找可用James旧英译镜像。",
+      "record_path": "books/dydi_b--B11/record.json"
+    },
+    {
+      "id": "dydi_b:B12",
+      "status": "scan_candidate",
+      "next_action": "抽查上述正文起末页并保留各传本界限；James对此书仅摘要，不能当全文替代。",
+      "record_path": "books/dydi_b--B12/record.json"
+    },
+    {
+      "id": "dydi_b:B13",
+      "status": "partial_online",
+      "next_action": "查Mingana Woodbrooke Studies 2中Lament of Mary阿拉伯／英译pp.163—240；另列吉兹版本，不创建不存在的独立完整科普特福音。",
+      "record_path": "books/dydi_b--B13/record.json"
+    },
+    {
+      "id": "dydi_b:B14",
+      "status": "partial_online",
+      "next_action": "核Bonnet旧版实际范围，再取后发现的Xenophontos传本校本；不能以ANF局部当新全译底本。",
+      "record_path": "books/dydi_b--B14/record.json"
+    },
+    {
+      "id": "dydi_b:B15",
+      "status": "scan_candidate",
+      "next_action": "取得Usener 1877 pp.7—13或上述PG正文；区分希腊家族与拉丁伪署坡旅克拉底。",
+      "record_path": "books/dydi_b--B15/record.json"
+    },
+    {
+      "id": "dydi_b:B17",
+      "status": "scan_candidate",
+      "next_action": "打开牛津项目文件逐面核图，配1994原刊转录；归彼得福音只能作为假说。",
+      "record_path": "books/dydi_b--B17/record.json"
+    },
+    {
+      "id": "dydi_b:B18",
+      "status": "partial_online",
+      "next_action": "追奥地利国家图书馆影像和较新Kraus校本；原文重构与实存字母分开。",
+      "record_path": "books/dydi_b--B18/record.json"
     }
   ]
 }

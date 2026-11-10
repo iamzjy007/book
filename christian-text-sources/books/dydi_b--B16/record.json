@@ -37,9 +37,32 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "fulltext_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Phillips 1876扩展本旧英译正文",
+        "url": "https://www.tertullian.org/fathers/addai_2_text.htm",
+        "kind": "fulltext",
+        "language": "英语",
+        "edition": "George Phillips, The Doctrine of Addai, 1876",
+        "coverage": "扩展本英译直至作品结束；不是仅亚伯加书信",
+        "verification": "已打开实际正文，核1876题名、扩展讲道及结尾；另有导言明确区别残缺Cureton本。",
+        "accessed": "2026-11-10",
+        "rights_note": "站点列作旧版可自由复制文本；只留路径。"
+      },
+      {
+        "label": "叙利亚语及英译扫描候选",
+        "url": "https://archive.org/details/doctrineofaddaia00phil",
+        "kind": "scan_candidate",
+        "language": "叙利亚语／英语",
+        "edition": "George Phillips 1876",
+        "coverage": "同版原文与英译全卷候选",
+        "verification": "NASSCAL与syri.ac书目交叉定位；尚未抽扫描页。",
+        "accessed": "2026-11-10",
+        "rights_note": "仅保存在线路径。公开阅读不代表现代译文可再分发；后续译介须按版本核实。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:33.592667+00:00",
@@ -75,10 +98,16 @@
         "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
         "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
         "result": "HTTP 200；Doctrine of Addai – NASSCAL。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "Doctrine Addai full text Phillips; NASSCAL edition",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:33.592667+00:00",
+    "next_action": "核扫描版叙利亚原文及英译对应；与仓库已有亚伯加书信建立重叠关系。",
+    "updated_at": "2026-11-10T05:52:30.446866+00:00",
     "discovery_pass_done": true
   }
 }

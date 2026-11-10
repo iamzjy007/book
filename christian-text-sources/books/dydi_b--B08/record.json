@@ -37,9 +37,21 @@
     "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "P.Oxy.5575正反面公开英译",
+        "url": "https://www.gospels.net/sayings-of-jesus-poxy-5575",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Mark M. Mattison；据Fish／Wallace／Holmes, Oxy.Pap.87, 2023, pp.6—14",
+        "coverage": "仅5575残片正反面；原刊希腊转录p.9、英译p.11",
+        "verification": "实际打开正文、译者名和公共领域声明；没有取得独立完整原书。",
+        "accessed": "2026-11-10",
+        "rights_note": "译者页面明确将该译文置于公共领域；保留署名和底本信息。"
+      }
+    ],
     "attempts": [
       {
         "date": "2026-11-10T05:46:25.600479+00:00",
@@ -56,10 +68,16 @@
         "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-5575/",
         "final_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-5575/",
         "result": "HTTP 200；Papyrus Oxyrhynchus 5575 – NASSCAL。本检查不确认正文。"
+      },
+      {
+        "date": "2026-11-10",
+        "method": "curated_web_research",
+        "query": "P.Oxy.5575正反面公开英译 full text; NASSCAL → Gospels.net",
+        "result": "按资源条目的核验说明记录；未通读或逐页校勘全书。"
       }
     ],
-    "next_action": "检索原题与作者，优先机构原文、旧校本扫描及明确版源的外文译本；核实内容范围。",
-    "updated_at": "2026-11-10T05:46:25.600479+00:00",
+    "next_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+    "updated_at": "2026-11-10T05:52:30.444625+00:00",
     "discovery_pass_done": true
   }
 }
