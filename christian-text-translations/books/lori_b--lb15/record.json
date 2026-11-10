@@ -1,0 +1,121 @@
+{
+  "schema": 1,
+  "id": "lori_b:lb15",
+  "title": "塞巴斯特四十殉道者遗嘱",
+  "status": "translated_self_reviewed",
+  "expected_units": 15,
+  "next_unit": null,
+  "next_action": "该底本问安及I—III章全部译毕并由译者自校；保留review.md所列疑难、拟补与专名待核，不重复初译。",
+  "units": [
+    {
+      "id": "S",
+      "source_locator": "Gebhardt 1902, p. 166, lines 4–8",
+      "source_anchor": "Μελέτιος καὶ Ἀέτιος καὶ Εὐτύχιος",
+      "status": "self_reviewed",
+      "translation_sha256": "2754f7d9a56243894dbb1a9cb536e28a3cf0c8622a9382affe55ab25c2051a04"
+    },
+    {
+      "id": "I.1",
+      "source_locator": "Gebhardt 1902, p. 166–167, I.1",
+      "source_anchor": "Ἐπειδὰν τῇ τοῦ θεοῦ χάριτι",
+      "status": "self_reviewed",
+      "translation_sha256": "ab97281311aae00f912fb770792bf9bad75e66d0d5c3947309a2de4fcaa870ec"
+    },
+    {
+      "id": "I.2",
+      "source_locator": "Gebhardt 1902, p. 167, I.2",
+      "source_anchor": "τούτου ἕνεκεν ἡμεῖς οἱ περὶ Ἀέτιον",
+      "status": "self_reviewed",
+      "translation_sha256": "01fdfcefc3e51e1d5c1f7a4ecf735b6a1fdc75fbb970b2eaee48d699ea2f12ed"
+    },
+    {
+      "id": "I.3",
+      "source_locator": "Gebhardt 1902, p. 167, I.3",
+      "source_anchor": "ἔτι δὲ ἀξιοῦμεν πάντας",
+      "status": "self_reviewed",
+      "translation_sha256": "161c8520541e694d85aaec916a346eda10482eeacccb22848635b2ecd2041df1"
+    },
+    {
+      "id": "I.4",
+      "source_locator": "Gebhardt 1902, p. 167, I.4",
+      "source_anchor": "εἰ δέ τις τῷ βουλήματι ἡμῶν ἐναντιωθῇ",
+      "status": "self_reviewed",
+      "translation_sha256": "9aa0a90e0424ca1c660412d3f3258ef35c1ee996719b8885b3b6b999b8c67b84"
+    },
+    {
+      "id": "I.5",
+      "source_locator": "Gebhardt 1902, p. 167–168, I.5",
+      "source_anchor": "εἰ δὲ καὶ ὁ παῖς Εὐνοϊκός",
+      "status": "self_reviewed",
+      "translation_sha256": "47ee217db3152fb96bdd8f3231469af7e295739186f81fa1d269ce2eff88e044"
+    },
+    {
+      "id": "I.6",
+      "source_locator": "Gebhardt 1902, p. 168, I.6",
+      "source_anchor": "ἡ γὰρ πρὸς τὸν ἀδελφὸν εὐγνωμοσύνη",
+      "status": "self_reviewed",
+      "translation_sha256": "6a2b506b9f36becc930acb19e98e44bb462b431c9dc3ab60df74aac230f1d986"
+    },
+    {
+      "id": "II.1",
+      "source_locator": "Gebhardt 1902, p. 168, II.1",
+      "source_anchor": "Τοιγαροῦν ἀξιῶ ὑμᾶς, ἀδελφὲ Κρισπῖνε",
+      "status": "self_reviewed",
+      "translation_sha256": "60a60807fc312fd8ebe900ede4e7816483651b0a4903b093b5fcd6e00a7a92f4"
+    },
+    {
+      "id": "II.2",
+      "source_locator": "Gebhardt 1902, p. 168, II.2",
+      "source_anchor": "καιρὸς οὗτος ἐπιτήδειος",
+      "status": "self_reviewed",
+      "translation_sha256": "7e6bb16aa670b9b19e1c60021986192c5d582051955e739fccd45a041f1c6e42"
+    },
+    {
+      "id": "II.3",
+      "source_locator": "Gebhardt 1902, p. 168–169, II.3",
+      "source_anchor": "σπουδάσατε οὖν ἐν ταῖς ἐντολαῖς",
+      "status": "self_reviewed",
+      "translation_sha256": "6eecc43b000f6a42ba0a8deeb05a7da5876bf5d569821b42c4139be889c4c361"
+    },
+    {
+      "id": "II.4",
+      "source_locator": "Gebhardt 1902, p. 169, II.4",
+      "source_anchor": "ἀγάπην οὖν πρὸ πάντων τιμήσατε",
+      "status": "self_reviewed",
+      "translation_sha256": "afb91b0161c4220bbdec566bd47cff9b1f3c4ea51067aecd2a089e9737d78270"
+    },
+    {
+      "id": "III.1",
+      "source_locator": "Gebhardt 1902, p. 169, III.1",
+      "source_anchor": "Προσαγορεύομεν τὸν κύριον τὸν πρεσβύτερον",
+      "status": "self_reviewed",
+      "translation_sha256": "1b9d3d8c496b545a5a23b15b953fcf0806a317da5c7077b4456b73a5534ba9ab"
+    },
+    {
+      "id": "III.2",
+      "source_locator": "Gebhardt 1902, p. 169–170, III.2",
+      "source_anchor": "προσαγορεύομεν καὶ τοὺς ἐν τῷ χωρίῳ Σαρείν",
+      "status": "self_reviewed",
+      "translation_sha256": "42f0068eeb709e103b26b9b9d90dab32ef94e7a20c1dfebfc177150e75225b96"
+    },
+    {
+      "id": "III.3",
+      "source_locator": "Gebhardt 1902, p. 170, III.3",
+      "source_anchor": "προσαγορεύω καὶ ἐγὼ Εὐτύχιος",
+      "status": "self_reviewed",
+      "translation_sha256": "cc2c17837740240966c37d32038822786ae23daff42274fe981914307a3d2342"
+    },
+    {
+      "id": "III.4",
+      "source_locator": "Gebhardt 1902, p. 170, III.4",
+      "source_anchor": "προσαγορεύομεν τοίνυν πάντας ὑμᾶς",
+      "status": "self_reviewed",
+      "translation_sha256": "ab17f3a814cd34dd8cec5c79d193b60429cc55fa3317809ded2f7c49a76979f5"
+    }
+  ],
+  "review": {
+    "type": "translator_self_review",
+    "date": "2026-11-10",
+    "scope": "逐句对照全部五页希腊主文及校注；核条件、否定、问安对象、四十人次序与两个别名、拟补范围、ἀπόλαυσις词形及末尾签署终祷；非独立专家审定。"
+  }
+}

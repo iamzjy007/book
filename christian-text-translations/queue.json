@@ -59,8 +59,8 @@
       "id": "lori_b:lb15",
       "slug": "lori_b--lb15",
       "title": "塞巴斯特四十殉道者遗嘱",
-      "status": "needs_completeness_check",
-      "next_action": "先读原档案；核Gebhardt 1902印页166—170（IA页图n182—n186）全部希腊遗嘱正文及末尾，勿把171页起的Martyrium合入。确认全文后冻结章段表，从首段翻译并逐段自校。",
+      "status": "translated_self_reviewed",
+      "next_action": "该底本问安及I—III章全部译毕并由译者自校；保留review.md所列疑难、拟补与专名待核，不重复初译。",
       "original_language": "希腊文",
       "available_languages": [
         "希腊语"

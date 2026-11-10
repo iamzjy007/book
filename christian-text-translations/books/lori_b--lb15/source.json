@@ -1,0 +1,101 @@
+{
+  "schema": 1,
+  "source_record": "christian-text-sources/books/lori_b--lb15/record.json",
+  "edition": "Oscar von Gebhardt (ed.), Acta martyrum selecta, Berlin: Verlag von Alexander Duncker, 1902",
+  "work_title": "塞巴斯特四十殉道者遗嘱",
+  "language": "希腊语",
+  "translation_basis": "直接据所列希腊文校本翻译；未据现代外文译本转译；校者拟补及改读显标",
+  "accessed": "2026-11-10",
+  "printed_pages": "166—170",
+  "source_urls": [
+    "https://archive.org/details/actamartyrumsel00gebhgoog",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n12.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n13.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n15.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n16.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n182.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n183.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n184.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n185.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n186.jpg",
+    "https://archive.org/download/actamartyrumsel00gebhgoog/page/n187.jpg"
+  ],
+  "artifacts": [
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n7.jpg",
+      "printed_page": "title page",
+      "sha256": "85e35af4f6439f7ce8ac8eba1abf3fb7e90639ce2dc452bba052ec3964a81064",
+      "role": "已目视核读：题页"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n12.jpg",
+      "printed_page": "VIII",
+      "sha256": "ee802223c510d59406106ec0285c1e7702858b42dde3b0a9c643946ea2165abf",
+      "role": "已目视核读：版本序言"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n13.jpg",
+      "printed_page": "IX",
+      "sha256": "73f8c6a1097fdee7fa76f4ffaaac16630c70874b21d76d7dc3a7b7b3f002a5f7",
+      "role": "已目视核读：版本序言"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n15.jpg",
+      "printed_page": "contents",
+      "sha256": "cb3939f2c9b4634759aaae00d529bcb11a42c01cb1aabd88dcdc6fe74dfdb4c4",
+      "role": "已目视核读：作品边界及目录"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n16.jpg",
+      "printed_page": "abbreviations",
+      "sha256": "51815406758fc5cbcb83410e98d8833c081cee436d6e3c967a667d6ef6fa0cbd",
+      "role": "已目视核读：校注简称表"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n182.jpg",
+      "printed_page": 166,
+      "sha256": "0a1ad318e38b9b02dc85980cb575a33aa75ce1291336cc7e47f177eefebbaa2c",
+      "role": "已目视核读：正文页图"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n183.jpg",
+      "printed_page": 167,
+      "sha256": "971d36f4968ac86edfa36737f15c4176ada37330c5561b1664f2ce0b2d5ecb65",
+      "role": "已目视核读：正文页图"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n184.jpg",
+      "printed_page": 168,
+      "sha256": "ac00b7eaa91dfba0bb6214013251df7bc764489100cd7fff1b4c95e19d255edf",
+      "role": "已目视核读：正文页图"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n185.jpg",
+      "printed_page": 169,
+      "sha256": "ed329683d745095108df2f3ef4b90d823e09c498233fcb00553105d1b814f99c",
+      "role": "已目视核读：正文页图"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n186.jpg",
+      "printed_page": 170,
+      "sha256": "50dd06d858f1f889656e3bba8e329b7a5590eaa12ee65c2ec86c0945aa0d6dde",
+      "role": "已目视核读：正文页图"
+    },
+    {
+      "url": "https://archive.org/download/actamartyrumsel00gebhgoog/page/n187.jpg",
+      "printed_page": 171,
+      "sha256": "8ad333e13ea5ff6bc64d192be01515cd9bc58301fb7817b8edb9b1324c17eab8",
+      "role": "已目视核读：相邻第XVII项首面，排除范围"
+    }
+  ],
+  "completeness": {
+    "verified": true,
+    "scope": "第XVI项题署、问安S、I.1—6、II.1—4、III.1—4，共15单元，包含四十人名册、签署、终祷及阿们。",
+    "method": "目视核读全部五页正文及相关校注、题页、序言VIII—IX和目录；核第XVII项另起171页，未混入。",
+    "limits": "仅确认所选校本全文首尾连续，不证明原作传承无缺；II.1疑脱人名、主文补字与编辑改读、地名和亲属关系等见review.md；未直接查验手稿或通校后续版本。 此扫描止于全卷印页259，目录所列260页勘误未取得，是否涉及本篇待核；不影响本篇166—170页连续性核验。"
+  },
+  "editorial_basis": "序言VIII—IX称以Bonwetsch文本为基础，利用自校的维也纳抄本及H. Omont提供的巴黎抄本比对；未把第XVII项的手稿号套入此遗嘱。",
+  "rights_basis": "古代原作及1902年旧校本；未复制现代译文。",
+  "review_level": "译者逐句自校，非独立专家审定"
+}

@@ -111,7 +111,7 @@ def main():
     newprogress = dict(progress, completed_books=completed, reviewed_units=reviewed, registered_units=total, active_books=active, next_task=next_task, next_unit=next_unit)
     newqueue = dict(queue, tasks=derived)
     labels = {'needs_completeness_check': '待完整性核验', 'ready': '可译', 'translating': '翻译中', 'translated_self_reviewed': '全文译毕并自校', 'deferred_incomplete': '残缺／范围暂缓', 'blocked_source': '核源受阻'}
-    catalog = ['# 翻译候选及阶段成果总目录', '', '本表由 scripts/check.py --refresh 生成。51条仅为正文入口候选；当前已译3篇等实时计数以progress为准。其余59条保留输入状态，不当作已取得完整正文。', '', '## 翻译候选队列', '', '| 顺序 | 作品 | 原语 | 状态 | 原档案 |', '|---:|---|---|---|---|']
+    catalog = ['# 翻译候选及阶段成果总目录', '', '本表由 scripts/check.py --refresh 生成。51条仅为正文入口候选；已译篇数和单元数以progress为准。其余59条保留输入状态，不当作已取得完整正文。', '', '## 翻译候选队列', '', '| 顺序 | 作品 | 原语 | 状态 | 原档案 |', '|---:|---|---|---|---|']
     snapshot = {r['id']: r for r in records}
     for t in derived:
         r = snapshot[t['id']]
