@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "source_commit": "6630993083fbb305c8d5b6e10daf9247e3a46636",
+  "total_records": 110,
+  "fulltext_candidates": 51,
+  "completed_books": 0,
+  "reviewed_units": 0,
+  "next_task": "lori_b:lb09",
+  "next_unit": "verify_source",
+  "background_process": false,
+  "authority": "books/*/record.json；queue/progress为派生视图",
+  "last_milestone": "000-plan",
+  "push_status": "pending",
+  "registered_units": 0,
+  "active_books": 0
+}

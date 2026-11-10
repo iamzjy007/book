@@ -1,0 +1,415 @@
+{
+  "schema": 1,
+  "source_commit": "6630993083fbb305c8d5b6e10daf9247e3a46636",
+  "policy": "完整性先核；原语优先；同版本自然段不可拆散。已完成不重译；残篇不冒称完整。",
+  "tasks": [
+    {
+      "order": 1,
+      "id": "lori_b:lb09",
+      "slug": "lori_b--lb09",
+      "title": "西里坦殉道者案录",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 2,
+      "id": "lori_b:lb12",
+      "slug": "lori_b--lb12",
+      "title": "居普良案录",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 3,
+      "id": "lori_b:lb10",
+      "slug": "lori_b--lb10",
+      "title": "游斯丁及同伴殉道案录",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 4,
+      "id": "lori_b:lb15",
+      "slug": "lori_b--lb15",
+      "title": "塞巴斯特四十殉道者遗嘱",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 5,
+      "id": "lori_b:lb13",
+      "slug": "lori_b--lb13",
+      "title": "皮奥尼乌斯殉道记",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 6,
+      "id": "lori_a:guigo-ladder",
+      "slug": "lori_a--guigo-ladder",
+      "title": "修士天梯",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 7,
+      "id": "lori_a:augustine-happy-life",
+      "slug": "lori_a--augustine-happy-life",
+      "title": "论幸福生活",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 8,
+      "id": "lori_a:ambrose-death",
+      "slug": "lori_a--ambrose-death",
+      "title": "论死亡之善",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 9,
+      "id": "lori_a:ambrose-isaac",
+      "slug": "lori_a--ambrose-isaac",
+      "title": "论以撒或灵魂",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 10,
+      "id": "dydi_a:east-isaac-i",
+      "slug": "dydi_a--east-isaac-i",
+      "title": "尼尼微的以撒：修道讲论第一集",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 11,
+      "id": "dydi_a:east-sahdona-perfection",
+      "slug": "dydi_a--east-sahdona-perfection",
+      "title": "萨赫多纳：成全之书",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 12,
+      "id": "dydi_a:east-governors",
+      "slug": "dydi_a--east-governors",
+      "title": "院长之书（修道史）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 13,
+      "id": "dydi_a:east-timothy-mahdi",
+      "slug": "dydi_a--east-timothy-mahdi",
+      "title": "提摩太一世与马赫迪哈里发的对话",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 14,
+      "id": "dydi_b:B16",
+      "slug": "dydi_b--B16",
+      "title": "亚戴之教训",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 15,
+      "id": "dydi_c:C03",
+      "slug": "dydi_c--C03",
+      "title": "安东尼传",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 16,
+      "id": "dydi_c:C04",
+      "slug": "dydi_c--C04",
+      "title": "劳苏斯史",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 17,
+      "id": "dydi_c:C06",
+      "slug": "dydi_c--C06",
+      "title": "帕科米乌斯会规",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 18,
+      "id": "dydi_c:C09",
+      "slug": "dydi_c--C09",
+      "title": "诸王荣耀",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 19,
+      "id": "dydi_c:C14",
+      "slug": "dydi_c--C14",
+      "title": "埃兹尼克《论神／驳异端》",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 20,
+      "id": "dydi_c:C15",
+      "slug": "dydi_c--C15",
+      "title": "纳雷克的格列高利《哀祷书》",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 21,
+      "id": "dydi_c:C18",
+      "slug": "dydi_c--C18",
+      "title": "马什托茨传",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 22,
+      "id": "dydi_d:evagrius-praktikos",
+      "slug": "dydi_d--evagrius-praktikos",
+      "title": "修行论（实践篇）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 23,
+      "id": "dydi_d:evagrius-gnostikos",
+      "slug": "dydi_d--evagrius-gnostikos",
+      "title": "属灵知识者（认识者篇）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 24,
+      "id": "dydi_d:evagrius-on-prayer",
+      "slug": "dydi_d--evagrius-on-prayer",
+      "title": "论祈祷一百五十三章",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 25,
+      "id": "dydi_d:maximus-love",
+      "slug": "dydi_d--maximus-love",
+      "title": "论爱四百章",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 26,
+      "id": "dydi_d:maximus-ascetic-life",
+      "slug": "dydi_d--maximus-ascetic-life",
+      "title": "修行生活",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 27,
+      "id": "dydi_d:maximus-mystagogy",
+      "slug": "dydi_d--maximus-mystagogy",
+      "title": "教会奥秘释义",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 28,
+      "id": "dydi_d:maximus-thalassios",
+      "slug": "dydi_d--maximus-thalassios",
+      "title": "答塔拉修经文疑问",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 29,
+      "id": "dydi_d:symeon-ethical",
+      "slug": "dydi_d--symeon-ethical",
+      "title": "伦理讲论（论神秘生活）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 30,
+      "id": "dydi_d:diadochos-hundred",
+      "slug": "dydi_d--diadochos-hundred",
+      "title": "属灵知识与分辨一百章",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 31,
+      "id": "dydi_d:isaiah-asceticon",
+      "slug": "dydi_d--isaiah-asceticon",
+      "title": "以赛亚修行讲论",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 32,
+      "id": "dydi_d:hesychios-watchfulness",
+      "slug": "dydi_d--hesychios-watchfulness",
+      "title": "论警醒与圣洁",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 33,
+      "id": "dydi_d:mark-spiritual-law",
+      "slug": "dydi_d--mark-spiritual-law",
+      "title": "论属灵律法二百章",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 34,
+      "id": "dydi_d:palamas-triads",
+      "slug": "dydi_d--palamas-triads",
+      "title": "为圣静修者辩护三组三论",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 35,
+      "id": "dydi_d:nikephoros-watchfulness",
+      "slug": "dydi_d--nikephoros-watchfulness",
+      "title": "论警醒与守心",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 36,
+      "id": "lori_a:cassian-conferences",
+      "slug": "lori_a--cassian-conferences",
+      "title": "会谈录（又译对谈录）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 37,
+      "id": "lori_a:cassian-institutes",
+      "slug": "lori_a--cassian-institutes",
+      "title": "修院制度与八种恶习的医治",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 38,
+      "id": "lori_a:augustine-catechizing",
+      "slug": "lori_a--augustine-catechizing",
+      "title": "论教导初学者",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 39,
+      "id": "lori_a:augustine-letter130",
+      "slug": "lori_a--augustine-letter130",
+      "title": "致普罗巴论祈祷（书信130）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 40,
+      "id": "lori_a:gregory-moralia",
+      "slug": "lori_a--gregory-moralia",
+      "title": "约伯记伦理释义",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 41,
+      "id": "lori_b:lb01",
+      "slug": "lori_b--lb01",
+      "title": "使徒传统／使徒遗传",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 42,
+      "id": "lori_b:lb02",
+      "slug": "lori_b--lb02",
+      "title": "使徒遗范／使徒训诲",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 43,
+      "id": "lori_b:lb03",
+      "slug": "lori_b--lb03",
+      "title": "希波律陀教规",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 44,
+      "id": "lori_b:lb04",
+      "slug": "lori_b--lb04",
+      "title": "我主遗训／主的遗嘱",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 45,
+      "id": "lori_b:lb05",
+      "slug": "lori_b--lb05",
+      "title": "特姆伊斯撒拉皮翁祷文集",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 46,
+      "id": "lori_b:lb06",
+      "slug": "lori_b--lb06",
+      "title": "亚他那修教规（科普特—阿拉伯传统）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 47,
+      "id": "lori_b:lb07",
+      "slug": "lori_b--lb07",
+      "title": "埃格里亚游记／圣地朝圣记",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 48,
+      "id": "lori_b:lb08",
+      "slug": "lori_b--lb08",
+      "title": "波尔多朝圣者行程",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 49,
+      "id": "root:teachings-silvanus",
+      "slug": "root--teachings-silvanus",
+      "title": "西尔瓦努斯训言（暂译）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 50,
+      "id": "root:pistis-sophia",
+      "slug": "root--pistis-sophia",
+      "title": "皮斯提斯·索菲亚（信心与智慧；暂译）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    },
+    {
+      "order": 51,
+      "id": "root:books-jeu",
+      "slug": "root--books-jeu",
+      "title": "耶乌诸书／耶乌二书（暂译）",
+      "status": "needs_completeness_check",
+      "next_action": "按PLAN.md核完整性和版本；冻结底本及单元表后，从第一未复核单元开始。"
+    }
+  ]
+}

@@ -1,0 +1,2461 @@
+{
+  "schema": 1,
+  "source_commit": "6630993083fbb305c8d5b6e10daf9247e3a46636",
+  "source_directory": "christian-text-sources",
+  "records": [
+    {
+      "id": "dydi_a:east-aphrahat",
+      "slug": "dydi_a--east-aphrahat",
+      "sequence": 1,
+      "title": "论证集（二十三篇论文）",
+      "original_language": "叙利亚语",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_a--east-aphrahat/record.json",
+      "record_sha256": "d679b3b962ac7487919acf9ca1e81dca8043d4dfadbaa00479f0c32d3af03fb0",
+      "resources": [
+        {
+          "url": "https://syriaccorpus.org/1",
+          "language": "叙利亚语",
+          "edition": "Digital Syriac Corpus；Parisot旧校本传统",
+          "coverage": "已打开第1与第23篇；其余1—23篇在browse作者Aphrahat下列出，尚未逐篇核验"
+        },
+        {
+          "url": "https://syri.ac/aphrahat",
+          "language": "叙利亚语／拉丁语",
+          "edition": "Wright／Parisot校本分篇链接",
+          "coverage": "索引列23篇，并分原文校本和英译"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/3701.htm",
+          "language": "英语",
+          "edition": "John Gwynn；NPNF第二辑13卷，1890",
+          "coverage": "I、V、VI、VIII、X、XVII、XXI、XXII；不是23篇全译"
+        }
+      ],
+      "next_source_action": "逐一核1—23篇内容及Parisot卷1、2扫描，选定原文底本；英译目前只是8篇。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-isaac-i",
+      "slug": "dydi_a--east-isaac-i",
+      "sequence": 2,
+      "title": "尼尼微的以撒：修道讲论第一集",
+      "original_language": "叙利亚语；另有希腊译传",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_a--east-isaac-i/record.json",
+      "record_sha256": "0ef8d75e034d7880a76917a4daa47cd16fc0b725d09cf6b39b716ed6035fa106",
+      "resources": [
+        {
+          "url": "https://archive.org/details/IsaacOfNinevehMysticTreatises",
+          "language": "英语",
+          "edition": "A. J. Wensinck, Mystic Treatises by Isaac of Nineveh, Amsterdam 1923",
+          "coverage": "第一集对应Bedjan正文传统；syri.ac列82章导航"
+        },
+        {
+          "url": "https://archive.org/details/212102178MarIsaacusNinivitaDePerfectioneReligiosa",
+          "language": "叙利亚语",
+          "edition": "P. Bedjan, Mar Isaacus Ninivita De perfectione religiosa, 1909",
+          "coverage": "以撒第一集旧版文本；不代替第二、第三集"
+        },
+        {
+          "url": "https://syri.ac/brock/isaac",
+          "language": "叙利亚语／英语",
+          "edition": "Sebastian Brock书目；网站编辑补充章号导航",
+          "coverage": "第一集1—82章并列原文和英译链接；另列II、III版本"
+        }
+      ],
+      "next_source_action": "翻译前核全书页序、章号和原文对应；优先使用可核的旧版扫描，OCR只供定位。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_a:east-isaac-ii",
+      "slug": "dydi_a--east-isaac-ii",
+      "sequence": 3,
+      "title": "尼尼微的以撒：第二集（含属灵知识纲要）",
+      "original_language": "叙利亚语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_a--east-isaac-ii/record.json",
+      "record_sha256": "25b39d8ac4aa96f322406374824ffefafcaa15e322bf341befdbbd0aadf929c5",
+      "resources": [
+        {
+          "url": "https://syri.ac/brock/isaac",
+          "language": "叙利亚语／英语等",
+          "edition": "S. P. Brock, CSCO 554/555, 1995",
+          "coverage": "该套校译本为第4—41章；第1—3章另有版本，不是单卷第二集全本"
+        },
+        {
+          "url": "https://www.svots.edu/headlines/svs-press-translates-recently-discovered-works-st-isaac-nineveh",
+          "language": "英语",
+          "edition": "SVS Press 2022，The First Three Chapters",
+          "coverage": "确认1—3章及第三章百则范围；新闻不是全书正文"
+        }
+      ],
+      "next_source_action": "检索Brock CSCO 554/555原文与英译的馆藏可读版；另核II.1—3及四百则，不能拿I集代替。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-isaac-iii",
+      "slug": "dydi_a--east-isaac-iii",
+      "sequence": 4,
+      "title": "尼尼微的以撒：第三集",
+      "original_language": "叙利亚语；部分阿拉伯见证",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_a--east-isaac-iii/record.json",
+      "record_sha256": "ce1cc20eda4b99c6599ac14f2ac67e6b0ae605405653ac1bca12563e1fc0fe3c",
+      "resources": [
+        {
+          "url": "https://www.syri.ac/bibliography/1537586297",
+          "language": "叙利亚语",
+          "edition": "S. Chialà, CSCO 637/Syr.246, 2011，ISBN 9789042925144",
+          "coverage": "原文卷；意大利译文是另一卷CSCO 638"
+        }
+      ],
+      "next_source_action": "查CSCO 637/638可读本及手稿开放影像；必须独立于第一、第二集。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-john-dalyatha",
+      "slug": "dydi_a--east-john-dalyatha",
+      "sequence": 5,
+      "title": "达利亚的约翰书信集",
+      "original_language": "叙利亚语",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_a--east-john-dalyatha/record.json",
+      "record_sha256": "2e1546ebdcf70f985681e364103c5544010b9fcf5a82caeae91aabc9c44cfeaa",
+      "resources": [
+        {
+          "url": "https://api.pageplace.de/preview/DT0400.9781463210809_A38590089/preview-9781463210809_A38590089.pdf",
+          "language": "英语（含版本导言）",
+          "edition": "Mary T. Hansbury, The Letters of John of Dalyatha, Gorgias 2006",
+          "coverage": "35页预览；书前材料与书信正文开头；全本目录至313页以上"
+        },
+        {
+          "url": "https://www.syri.ac/digimss/faceted/authorsa_ja/jacob-sarug-265/authorsa_ja/john-dalyatha-518/authorsa_ja/john-dalyatha-discourses-520?items_per_page=10",
+          "language": "叙利亚语",
+          "edition": "Harvard Ms Syr 115，syri.ac手稿导航",
+          "coverage": "书信1—51：ff.56v—97r；整册还含讲论，不能全册等同书信集"
+        }
+      ],
+      "next_source_action": "从Harvard Ms Syr 115取得书信叶56v—97r影像；核对Beulay校本编号。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-john-solitary",
+      "slug": "dydi_a--east-john-solitary",
+      "sequence": 6,
+      "title": "独修者约翰：论灵魂",
+      "original_language": "叙利亚语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_a--east-john-solitary/record.json",
+      "record_sha256": "83745abf5ad07b159c2352a38ae013751d3e88e695e32301d5cb30bc6460eec1",
+      "resources": [
+        {
+          "url": "https://gorgiaspress.com/john-the-solitary-on-the-soul",
+          "language": "英语",
+          "edition": "Mary T. Hansbury, TCLA 32, 2013；基于S. Dedering叙利亚文版",
+          "coverage": "确认具体作品及其底本；未取得正文"
+        }
+      ],
+      "next_source_action": "追查Dedering 1936原文校本及出版社授权样章；同作者其他作品不能替代。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-joseph-stages",
+      "slug": "dydi_a--east-joseph-stages",
+      "sequence": 7,
+      "title": "若瑟·哈扎亚：论修道生活的三个阶段书信",
+      "original_language": "叙利亚语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_a--east-joseph-stages/record.json",
+      "record_sha256": "1943dc32c2b8ffaddd915013dae3038000166c4c8bfeb061ed0fc73f73c3e3d7",
+      "resources": [
+        {
+          "url": "https://ci.nii.ac.jp/ncid/BA26622382",
+          "language": "叙利亚语／法语",
+          "edition": "P. Harb、F. Graffin编译，Lettre sur les trois étapes de la vie monastique, 1992",
+          "coverage": "确认PO卷册；未取得该书完整正文"
+        }
+      ],
+      "next_source_action": "检索PO 45.2/202与旧署Philoxenus的Olinder 1950版；核独立文本，不采用有关三阶段的研究论文充当原作。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-sahdona-perfection",
+      "slug": "dydi_a--east-sahdona-perfection",
+      "sequence": 8,
+      "title": "萨赫多纳：成全之书",
+      "original_language": "叙利亚语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_a--east-sahdona-perfection/record.json",
+      "record_sha256": "88bb75fa03d29a50cdf1b52d0d617ab0ab60c20c9937f9ec6d5f044231dc8de6",
+      "resources": [
+        {
+          "url": "https://archive.org/details/BedjanS.MartyriiQuiEstSahdonaQuaeSupersuntOmnia",
+          "language": "叙利亚语（拉丁题名）",
+          "edition": "P. Bedjan, S. Martyrii qui et Sahdona quae supersunt omnia, 1902",
+          "coverage": "现存成全之书、短作及附录；古书本身残缺，不能称原作无缺全本"
+        }
+      ],
+      "next_source_action": "定位该卷中成全之书的首末页，另列5封信及雅各附录；比对后出的CSCO校本及新残片。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_a:east-steps",
+      "slug": "dydi_a--east-steps",
+      "sequence": 9,
+      "title": "阶梯之书",
+      "original_language": "叙利亚语",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/dydi_a--east-steps/record.json",
+      "record_sha256": "da338a13ace8ed4bce07220a8a7fed023c7088f27bfa0176ec70ec53d7f69aa2",
+      "resources": [
+        {
+          "url": "https://archive.org/details/PatrologiaSyriacaIIILiberGraduum_201603",
+          "language": "叙利亚语／拉丁语",
+          "edition": "M. Kmosko, Liber Graduum, Patrologia Syriaca 1.3, 1926",
+          "coverage": "旧校本整卷扫描；正文范围待核"
+        }
+      ],
+      "next_source_action": "直接查看扫描卷的正文起页与末页、30篇目录；核实后升级正文可直达。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-mingana-mystics",
+      "slug": "dydi_a--east-mingana-mystics",
+      "sequence": 10,
+      "title": "早期基督教神秘家文选（版本入口）",
+      "original_language": "叙利亚语原文；英语译文",
+      "acquisition_status": "blocked",
+      "record_path": "christian-text-sources/books/dydi_a--east-mingana-mystics/record.json",
+      "record_sha256": "480c16936a841aa1f17686089498ae227978e6778a0a675ad7c3d416bc03a096",
+      "resources": [
+        {
+          "url": "https://archive.org/details/woodbrookestudie0007amin",
+          "language": "叙利亚语／英语",
+          "edition": "A. Mingana, Woodbrooke Studies 7: Early Christian Mystics, 1934",
+          "coverage": "具体卷7，不是同名McGinn现代书；当前PDF private=true"
+        }
+      ],
+      "next_source_action": "继续查1934卷7机构开放扫描；馆藏ID已明确，勿用第6卷或McGinn同名书。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-governors",
+      "slug": "dydi_a--east-governors",
+      "sequence": 11,
+      "title": "院长之书（修道史）",
+      "original_language": "叙利亚语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_a--east-governors/record.json",
+      "record_sha256": "3c025fd7993eea0a07a743069f02febb6b47d7b5749143ca14c5d3ebbd8abe64",
+      "resources": [
+        {
+          "url": "https://archive.org/details/bookofgovernors02thomuoft",
+          "language": "英语",
+          "edition": "E. A. Wallis Budge, The Book of Governors, 1893, vol.2",
+          "coverage": "英译卷；原叙利亚语卷须另取"
+        }
+      ],
+      "next_source_action": "补取同套卷1叙利亚语原文，建立英译页码对应，OCR需重新识别校订。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_a:east-abuqurrah-icons",
+      "slug": "dydi_a--east-abuqurrah-icons",
+      "sequence": 12,
+      "title": "阿布·库拉：论圣像敬礼",
+      "original_language": "阿拉伯语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_a--east-abuqurrah-icons/record.json",
+      "record_sha256": "70879560c9ff30a71f531675bcb5ae65fda087c2de6e6b5e16cbc71212a3fb8a",
+      "resources": [
+        {
+          "url": "https://www.peeters-leuven.be/detail.php?id=4076",
+          "language": "英语",
+          "edition": "Sidney H. Griffith, A Treatise on the Veneration of the Holy Icons, Peeters 1997",
+          "coverage": "版本入口；出版社页并非正文"
+        }
+      ],
+      "next_source_action": "查阿拉伯语旧版与BL Or.4950 ff.198r—237v／Sinai Arabic 330 ff.315r—356r影像，或取得出版社阅读版。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-ammar-proof",
+      "slug": "dydi_a--east-ammar-proof",
+      "sequence": 13,
+      "title": "阿马尔·巴士里：救恩安排的论证之书",
+      "original_language": "阿拉伯语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_a--east-ammar-proof/record.json",
+      "record_sha256": "8cd57ea54e956e8c37c970ba27c1329c9e6d11ec00ae362c1283e0d57ab7c81c",
+      "resources": [
+        {
+          "url": "https://gorgiaspress.com/ammar-al-basris-arabic-apologetics",
+          "language": "阿拉伯语／英语范围依版本核",
+          "edition": "ʿAmmār al-Baṣrī’s Arabic Apologetics",
+          "coverage": "版本介绍，未取得原作正文"
+        },
+        {
+          "url": "https://etheses.bham.ac.uk/id/eprint/4162/",
+          "language": "英语",
+          "edition": "Wageeh Y. F. Mikhail, PhD, 2013",
+          "coverage": "论文研究Kitab al-Burhan；尚未核是否附完整原文／译文"
+        }
+      ],
+      "next_source_action": "打开Mikhail13PhD.pdf核附录与译文范围；另找Hayek阿拉伯语校本。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-ammar-questions",
+      "slug": "dydi_a--east-ammar-questions",
+      "sequence": 14,
+      "title": "阿马尔·巴士里：问答之书",
+      "original_language": "阿拉伯语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_a--east-ammar-questions/record.json",
+      "record_sha256": "db6aa4dff6789917ebf063459cbd6f85568c930ebe5ec923a70f5978397b93d8",
+      "resources": [
+        {
+          "url": "https://gorgiaspress.com/ammar-al-basris-arabic-apologetics",
+          "language": "语种按具体版本复核",
+          "edition": "ʿAmmār al-Baṣrī’s Arabic Apologetics",
+          "coverage": "须查目录中Questions and Answers对应范围"
+        }
+      ],
+      "next_source_action": "查阿拉伯语题名كتاب المسائل والأجوبة及Hayek版本；与Kitab al-Burhan分开，不采用同名现代问答书。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_a:east-timothy-mahdi",
+      "slug": "dydi_a--east-timothy-mahdi",
+      "sequence": 15,
+      "title": "提摩太一世与马赫迪哈里发的对话",
+      "original_language": "叙利亚语原作；阿拉伯语改编传本",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_a--east-timothy-mahdi/record.json",
+      "record_sha256": "53bd1a64cd38d4b64527de4f8cc7118052865f3e87f633a619d7b2a494843800",
+      "resources": [
+        {
+          "url": "https://www.tertullian.org/fathers/timothy_i_apology_01_text.htm",
+          "language": "英语",
+          "edition": "Alphonse Mingana, Timothy I, Apology for Christianity, 1928",
+          "coverage": "正文pp.16—90；序言另页；不是新版本The Patriarch and the Caliph"
+        },
+        {
+          "url": "https://www.tertullian.org/fathers/timothy_i_apology_00_intro.htm",
+          "language": "英语",
+          "edition": "Mingana 1928",
+          "coverage": "导言、编者及文本历史"
+        }
+      ],
+      "next_source_action": "补叙利亚语原文及新版差异，避免把历史对话当逐字速记。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_b:B01",
+      "slug": "dydi_b--B01",
+      "sequence": 16,
+      "title": "希伯来人福音",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B01/record.json",
+      "record_sha256": "0e2382b2d5f7b4d6dd572e66ea17fbfa2e83ba17840f00b0db05117a2b51681e",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/gospelhebrews-mrjames.html",
+          "language": "英语",
+          "edition": "M. R. James, The Apocryphal New Testament, 1924, pp.1—8",
+          "coverage": "古代作者引用的辑佚；旧书归类混合，不是原书全本"
+        }
+      ],
+      "next_source_action": "核每段引用原语及现代归类，分开希伯来人与拿撒勒派片段。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B02",
+      "slug": "dydi_b--B02",
+      "sequence": 17,
+      "title": "拿撒勒派福音",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B02/record.json",
+      "record_sha256": "0f9bda08cddcfe81cf174f0ba93ef2f71348a315fde92d37ca407bc5b7c706d1",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/nazoreans-ogg.html",
+          "language": "英语",
+          "edition": "Vielhauer／Ogg译；Cameron 1982选编pp.99—102",
+          "coverage": "带出处的辑佚选编，不是完整传世福音"
+        }
+      ],
+      "next_source_action": "取得Jerome等原语引文；与B01去重，并核现代译文使用条件。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B03",
+      "slug": "dydi_b--B03",
+      "sequence": 18,
+      "title": "希腊文埃及人福音",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B03/record.json",
+      "record_sha256": "048065cb9c27c2c5a6739793b93629866de22712df88f0bd4841bf8029076231",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/gospelegyptians.html",
+          "language": "英语",
+          "edition": "M. R. James 1924, pp.10—12",
+          "coverage": "主要为亚历山大革利免等引文；不是科普特同名作品"
+        }
+      ],
+      "next_source_action": "回到Stromateis原语和章号；保持希腊与科普特同名书区别。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B04",
+      "slug": "dydi_b--B04",
+      "sequence": 19,
+      "title": "俄克喜林库斯840残片",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B04/record.json",
+      "record_sha256": "eecb62fc4cb5bb3383ca33a39b555ee9d68cda95e96d8464c19652a9ee814f78",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/poxy840.html",
+          "language": "英语",
+          "edition": "Andrew Bernhard；所据希腊文见Henry Sweet Barclay Two New Gospel Fragments",
+          "coverage": "现存残片正反面及分行译文"
+        }
+      ],
+      "next_source_action": "补取原刊Oxyrhynchus Papyri 5中840的原文与图版。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B05",
+      "slug": "dydi_b--B05",
+      "sequence": 20,
+      "title": "俄克喜林库斯1224残片",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B05/record.json",
+      "record_sha256": "52bd0266a9d40e15bac6dbf7045ed3000c9f80e2cdea8ef451a837b420e71f35",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/oxyrhynchus1224.html",
+          "language": "英语",
+          "edition": "Andrew Bernhard；页面列残片文本与编号",
+          "coverage": "现存残片，缺文标记保留"
+        }
+      ],
+      "next_source_action": "查Oxyrhynchus Papyri 10 pp.1—10及图版，不把与840相邻列目当连续正文。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B06",
+      "slug": "dydi_b--B06",
+      "sequence": 21,
+      "title": "埃格顿未知福音",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B06/record.json",
+      "record_sha256": "2458593366d4428d967234af20d9d75c510c9cf365ce50ad28c96714e1cfdda7",
+      "resources": [
+        {
+          "url": "https://www.gospels.net/egerton/",
+          "language": "英语",
+          "edition": "Mark M. Mattison；据Andrew Bernhard希腊文校本",
+          "coverage": "残片1、2正反面；原书不完整"
+        }
+      ],
+      "next_source_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B07",
+      "slug": "dydi_b--B07",
+      "sequence": 22,
+      "title": "伊便尼派福音",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B07/record.json",
+      "record_sha256": "e1c8bc5163de496cd7688bb9fd8f3f49aa608c30c809a7d903a5cdd504bff3d5",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/gospelebionites.html",
+          "language": "英语",
+          "edition": "M. R. James 1924；主要据Epiphanius Panarion",
+          "coverage": "辑佚引文，不是独立完本"
+        }
+      ],
+      "next_source_action": "核Panarion 30希腊原文及每段上下文，保留教父转述性质。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B08",
+      "slug": "dydi_b--B08",
+      "sequence": 23,
+      "title": "俄克喜林库斯5575耶稣语录",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B08/record.json",
+      "record_sha256": "805a08a031b2f133ff415ed1970e1425004b1ab6dcb0b2bfcd17fb594128b7ad",
+      "resources": [
+        {
+          "url": "https://www.gospels.net/sayings-of-jesus-poxy-5575",
+          "language": "英语",
+          "edition": "Mark M. Mattison；据Fish／Wallace／Holmes, Oxy.Pap.87, 2023, pp.6—14",
+          "coverage": "仅5575残片正反面；原刊希腊转录p.9、英译p.11"
+        }
+      ],
+      "next_source_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B09",
+      "slug": "dydi_b--B09",
+      "sequence": 24,
+      "title": "马可秘密福音引文／致提阿多罗书",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B09/record.json",
+      "record_sha256": "82235f1b95c0b16f07c54f163d24589b6eee899df4e20868753a7735647ed516",
+      "resources": [
+        {
+          "url": "https://www.gospels.net/secret-gospel-of-mark",
+          "language": "英语",
+          "edition": "Samuel Zinner；网页自署译者",
+          "coverage": "传世书信引文范围；不代表完整秘密福音"
+        }
+      ],
+      "next_source_action": "补希腊转录／影像及版本页；保持缺文符号，涉及书信真伪时另列研究说明。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B10",
+      "slug": "dydi_b--B10",
+      "sequence": 25,
+      "title": "柏林—斯特拉斯堡外典（旧称救主福音）",
+      "original_language": "待进一步核实",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/dydi_b--B10/record.json",
+      "record_sha256": "d4b2cd9a4840889cb3d14dcb2265f3899c3e118f45c8db7e4cd95ee9c0efdc88",
+      "resources": [
+        {
+          "url": "https://archive.org/details/einneuesevangel00jacogoog/page/n5",
+          "language": "科普特语／德语",
+          "edition": "A. Jacoby, Ein neues Evangelienfragment, 1900",
+          "coverage": "斯特拉斯堡部分旧刊，不是柏林—斯特拉斯堡2017重排全本"
+        },
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/",
+          "language": "英语研究／科普特文本",
+          "edition": "Alin Suciu, The Berlin-Strasbourg Apocryphon, WUNT 370, 2017",
+          "coverage": "新版身份及残页次序核对所需；本页不是正文"
+        }
+      ],
+      "next_source_action": "先核Jacoby所收旧残片；找2017作者存档／机构阅读版再确定残页顺序，不能用旧题名推定二世纪。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B11",
+      "slug": "dydi_b--B11",
+      "sequence": 26,
+      "title": "巴多罗买提问",
+      "original_language": "待进一步核实",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/dydi_b--B11/record.json",
+      "record_sha256": "234546c903cb971d3f88507aeee19b2bcde4fa4278c663bad184969c48cb849e",
+      "resources": [
+        {
+          "url": "https://archive.org/details/anecdotagraecoby00vass/page/10",
+          "language": "希腊语",
+          "edition": "A. Vassiliev, Anecdota graeco-byzantina, 1893, pp.10—22",
+          "coverage": "维也纳G抄本对应的校本；不是全部语种传本"
+        },
+        {
+          "url": "https://www.gnosis.org/library/gosbart.htm",
+          "language": "英语",
+          "edition": "M. R. James, 1924",
+          "coverage": "Questions传统，不是Coptic Book of Bartholomew"
+        }
+      ],
+      "next_source_action": "打开Vassiliev pp.10—22及Bonwetsch 1897版；另找可用James旧英译镜像。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B12",
+      "slug": "dydi_b--B12",
+      "sequence": 27,
+      "title": "巴多罗买复活记",
+      "original_language": "待进一步核实",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/dydi_b--B12/record.json",
+      "record_sha256": "04b413c400646383b4d57b48291ce4af25a663416215a58f5dc903ac669e7e85",
+      "resources": [
+        {
+          "url": "https://archive.org/details/copticapocryphai00budguoft",
+          "language": "科普特语／英语",
+          "edition": "E. A. W. Budge, Coptic Apocrypha in the Dialect of Upper Egypt, 1913",
+          "coverage": "本作品科普特pp.1—48、英译pp.179—215；巴黎残片英译216—230"
+        }
+      ],
+      "next_source_action": "抽查上述正文起末页并保留各传本界限；James对此书仅摘要，不能当全文替代。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B13",
+      "slug": "dydi_b--B13",
+      "sequence": 28,
+      "title": "所谓迦玛烈福音／马利亚哀悼讲章",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B13/record.json",
+      "record_sha256": "1e0683400f4bb1a2ef5490cf0c6d7ecd56e9e082f0449e16f14d7a08c3bf65c1",
+      "resources": [
+        {
+          "url": "https://journals.sub.uni-hamburg.de/aethiopica/article/download/659/667/2004",
+          "language": "科普特语／英语研究及校译",
+          "edition": "Alin Suciu, Aethiopica 15 (2012), pp.53—71",
+          "coverage": "仅马利亚哀悼讲章的现存科普特残片及分析；不是所谓迦玛烈福音完本"
+        }
+      ],
+      "next_source_action": "查Mingana Woodbrooke Studies 2中Lament of Mary阿拉伯／英译pp.163—240；另列吉兹版本，不创建不存在的独立完整科普特福音。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B14",
+      "slug": "dydi_b--B14",
+      "sequence": 29,
+      "title": "腓力行传",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B14/record.json",
+      "record_sha256": "33dd0a8ab890e49fa60e8a800604e419bb0eea22c22befcde842671a18f8e9e0",
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0818.htm",
+          "language": "英语",
+          "edition": "Alexander Walker, ANF vol.8, 1886",
+          "coverage": "页面从第15行传至末段，并附Upper Hellas行传；不是已知全套行传"
+        },
+        {
+          "url": "https://archive.org/details/ActaApostolorumApocrypha2/page/n9",
+          "language": "希腊语",
+          "edition": "Acta Apostolorum Apocrypha vol.2；具体分册卷页待核",
+          "coverage": "旧版对应文本；与现代Xenophontos材料覆盖另核"
+        }
+      ],
+      "next_source_action": "核Bonnet旧版实际范围，再取后发现的Xenophontos传本校本；不能以ANF局部当新全译底本。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B15",
+      "slug": "dydi_b--B15",
+      "sequence": 30,
+      "title": "提摩太行传",
+      "original_language": "待进一步核实",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/dydi_b--B15/record.json",
+      "record_sha256": "d3036894e803e3c41d4ed63079bd01a336bdc14d9f3b7a84691616400eea6fa7",
+      "resources": [
+        {
+          "url": "https://archive.org/details/patrologicursus80migngoog/page/n143/mode/2up",
+          "language": "拉丁语",
+          "edition": "Migne PG 5, cols.1363—1366，NASSCAL所列",
+          "coverage": "拉丁传统；不自动等同希腊BHG1847家族"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
+          "language": "英语说明",
+          "edition": "Usener 1877旧版pp.7—13；现代Zamagni／Concannon校译另列",
+          "coverage": "版本导航；页面的Menologion短译只是摘要传统"
+        }
+      ],
+      "next_source_action": "取得Usener 1877 pp.7—13或上述PG正文；区分希腊家族与拉丁伪署坡旅克拉底。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B16",
+      "slug": "dydi_b--B16",
+      "sequence": 31,
+      "title": "亚戴之教训",
+      "original_language": "待进一步核实",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_b--B16/record.json",
+      "record_sha256": "e68dc69811e2df906b48bcc1f65e63faef328043c2b0d13ecc8c9e7fc313e6fe",
+      "resources": [
+        {
+          "url": "https://www.tertullian.org/fathers/addai_2_text.htm",
+          "language": "英语",
+          "edition": "George Phillips, The Doctrine of Addai, 1876",
+          "coverage": "扩展本英译直至作品结束；不是仅亚伯加书信"
+        },
+        {
+          "url": "https://archive.org/details/doctrineofaddaia00phil",
+          "language": "叙利亚语／英语",
+          "edition": "George Phillips 1876",
+          "coverage": "同版原文与英译全卷候选"
+        }
+      ],
+      "next_source_action": "核扫描版叙利亚原文及英译对应；与仓库已有亚伯加书信建立重叠关系。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_b:B17",
+      "slug": "dydi_b--B17",
+      "sequence": 32,
+      "title": "俄克喜林库斯4009残片",
+      "original_language": "待进一步核实",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/dydi_b--B17/record.json",
+      "record_sha256": "3e550d96f1febe5a1439582ab808e09065f5d12d9b2f46477018e5465cff1603",
+      "resources": [
+        {
+          "url": "https://portal.sds.ox.ac.uk/articles/online_resource/P_Oxy_LX_4009_Gospel_of_Peter_/21177193",
+          "language": "希腊语",
+          "edition": "Oxford P.Oxy. LX 4009馆藏图像",
+          "coverage": "残片原件，题名Gospel of Peter带问号"
+        }
+      ],
+      "next_source_action": "打开牛津项目文件逐面核图，配1994原刊转录；归彼得福音只能作为假说。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_b:B18",
+      "slug": "dydi_b--B18",
+      "sequence": 33,
+      "title": "法尤姆残片",
+      "original_language": "待进一步核实",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_b--B18/record.json",
+      "record_sha256": "66c43869c90aaa679373b9a8cbdf3999eae18c4448ccb5104fdae17285c0d723",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/fayyum.html",
+          "language": "英语",
+          "edition": "页面说明据Jack Finegan Hidden Records of the Life of Jesus所印希腊文",
+          "coverage": "仅P.Vindob.G2325残存7行及译文"
+        }
+      ],
+      "next_source_action": "追奥地利国家图书馆影像和较新Kraus校本；原文重构与实存字母分开。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C01",
+      "slug": "dydi_c--C01",
+      "sequence": 34,
+      "title": "沙漠教父语录：字母集",
+      "original_language": "希腊语字母编集；背景有科普特语口传及后来的叙利亚、拉丁等译传",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_c--C01/record.json",
+      "record_sha256": "5f9bd28ab558b36687d1416e4fb25f2f1067d82d49ca8788e05b7cf39aabbb06",
+      "resources": [
+        {
+          "url": "https://ldysinger.com/%40texts/0400_apophth/greek_alph/01_Introd_alpha-gamma.htm",
+          "language": "希腊语／英语",
+          "edition": "希腊原文PG65 cols.71—440传统；英译Benedicta Ward",
+          "coverage": "当前打开导言及α—γ部分；不据单页声称整个字母集齐全"
+        }
+      ],
+      "next_source_action": "逐字母核完PG65 cols.71—440，另取原文校本扫描；不要与系统集合并。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C02",
+      "slug": "dydi_c--C02",
+      "sequence": 35,
+      "title": "沙漠教父语录：系统集",
+      "original_language": "希腊语主题编集；多语版本需分清",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_c--C02/record.json",
+      "record_sha256": "f9e7bf7968adc298070d33ae9013eb2bce912281f263aaee8ce030d75154418e",
+      "resources": [
+        {
+          "url": "https://litpress.org/Products/CS240P/The-Book-of-the-Elders",
+          "language": "英语",
+          "edition": "John Wortley, The Book of the Elders, CS240",
+          "coverage": "现代系统集版本；没有取得对应开放正文"
+        }
+      ],
+      "next_source_action": "追希腊系统集SC387/474/498或早期拉丁Verba seniorum；先比对编排，不能用字母集替代。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C03",
+      "slug": "dydi_c--C03",
+      "sequence": 36,
+      "title": "安东尼传",
+      "original_language": "希腊语；另有古拉丁、叙利亚、科普特等见证",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_c--C03/record.json",
+      "record_sha256": "e629df5b6bf57fc1381c6f4f498a9cb52220a26090872d371881d5a0739cddf7",
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/2811.htm",
+          "language": "英语",
+          "edition": "H. Ellershaw, NPNF第二辑4卷，1892",
+          "coverage": "Life of Antony，序言与编号正文"
+        }
+      ],
+      "next_source_action": "补希腊原文并核章号；中文已有出版线索，另作版本对照。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_c:C04",
+      "slug": "dydi_c--C04",
+      "sequence": 37,
+      "title": "劳苏斯史",
+      "original_language": "希腊语；有长短本与叙利亚等译传",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_c--C04/record.json",
+      "record_sha256": "de56130d1f94edbeb28f3d4148b6528980571af78168faad3e70e62dd9a611a2",
+      "resources": [
+        {
+          "url": "https://www.tertullian.org/fathers/palladius_lausiac_02_text.htm",
+          "language": "英语",
+          "edition": "W. K. Lowther Clarke, The Lausiac History of Palladius, 1918",
+          "coverage": "译文pp.35—180；目录含书信、序言及编号各章"
+        }
+      ],
+      "next_source_action": "取得Butler希腊校本并核缩本／长本关系，现代Wortley译本不与1918旧译混记。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_c:C05",
+      "slug": "dydi_c--C05",
+      "sequence": 38,
+      "title": "埃及修士史",
+      "original_language": "希腊语；鲁菲努斯拉丁译改本需区别",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_c--C05/record.json",
+      "record_sha256": "474db98af34573896152b2027526f216322c3d5a35dcbd25e9f0b0e3872cfa6e",
+      "resources": [
+        {
+          "url": "https://litpress.org/Products/CS034/The-Lives-of-the-Desert-Fathers",
+          "language": "英语",
+          "edition": "Norman Russell译，CS34",
+          "coverage": "确认Historia monachorum作品；不是劳苏斯史"
+        }
+      ],
+      "next_source_action": "追Greek Historia monachorum与Rufinus拉丁改写分别的旧校本；新生成英文译文不能替代既有底本。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C06",
+      "slug": "dydi_c--C06",
+      "sequence": 39,
+      "title": "帕科米乌斯会规",
+      "original_language": "科普特语形成背景，经希腊语传至拉丁；现存规则为复合传承",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_c--C06/record.json",
+      "record_sha256": "af0059d234356952195fa5b9cf760fd1370a6ae681d0e8e2973b8666a63ff667",
+      "resources": [
+        {
+          "url": "https://www.ora-et-labora.net/regulapachomii.html",
+          "language": "拉丁语（古译）",
+          "edition": "Jerome拉丁译，Migne PL23 cols.59—86D，1845传统",
+          "coverage": "前言及Praecepta、Instituta、Judicia、Leges等；不是原作科普特语全家族"
+        }
+      ],
+      "next_source_action": "核Boon Pachomiana Latina 1932 pp.1—74原版，并补科普特及希腊见证；注明使用古拉丁译本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_c:C07",
+      "slug": "dydi_c--C07",
+      "sequence": 40,
+      "title": "谢努特传",
+      "original_language": "科普特语，多版本；Bell英译具体所据版本须版权/导论续核",
+      "acquisition_status": "needs_review",
+      "record_path": "christian-text-sources/books/dydi_c--C07/record.json",
+      "record_sha256": "408004bc52b19198f649302f394c1ada78efa75ee331e3fd458e63d0672df917",
+      "resources": [
+        {
+          "url": "https://www.tertullian.org/fathers/nau_syriac_life_of_shenouda.htm",
+          "language": "英语／叙利亚文本传统",
+          "edition": "F. Nau 1900材料的网页英译；页标pp.26—39",
+          "coverage": "相关叙利亚版本；不能自动等同Besa科普特传本"
+        },
+        {
+          "url": "https://litpress.org/Products/CS073/The-Life-of-Shenoute",
+          "language": "英语",
+          "edition": "David N. Bell, CS73",
+          "coverage": "原书目所指现代版入口"
+        }
+      ],
+      "next_source_action": "取得Besa科普特旧版／Leipoldt或Amélineau本；核叙利亚文本与其关系，再判断可译范围。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C09",
+      "slug": "dydi_c--C09",
+      "sequence": 41,
+      "title": "诸王荣耀",
+      "original_language": "吉兹语；序跋中的跨语翻译来源主张不能当作已证实逐级谱系",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_c--C09/record.json",
+      "record_sha256": "0252579b1992e8e56feaaf0bec50ea60d95fcbaec3d7f393a7c2dc00041c8fec",
+      "resources": [
+        {
+          "url": "https://sacred-texts.com/book/the-kebra-nagast/1-concerning-the-glory-of-kings",
+          "language": "英语",
+          "edition": "E. A. Wallis Budge英译，1922传统",
+          "coverage": "作品117章，网站另将书前、索引等分作130个导航项；不是古书130章"
+        }
+      ],
+      "next_source_action": "补吉兹原文Bezold旧校本；翻译前抽核末章和页码，保留117正文与网站130项目之区别。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_c:C10",
+      "slug": "dydi_c--C10",
+      "sequence": 42,
+      "title": "Senodos教规集",
+      "original_language": "吉兹语；阿拉伯中介与更早希腊译传的层次须逐篇判定",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/dydi_c--C10/record.json",
+      "record_sha256": "b642d4861bda2a7269b587f71f09508eb6615a34768735c436533c6a44d8a90a",
+      "resources": [
+        {
+          "url": "https://archive.org/details/statutesapostle00unkngoog",
+          "language": "吉兹语／阿拉伯语／英语等",
+          "edition": "G. Horner, The Statutes of the Apostles; or Canones ecclesiastici, 1904",
+          "coverage": "只涵盖Senodos相关构件，不能等同Senodos全体"
+        },
+        {
+          "url": "https://cae.ethiopicist.com/works/2317/",
+          "language": "吉兹语作品身份",
+          "edition": "CAe2317 / LIT2317Senodo",
+          "coverage": "身份记录及XML外链，不是原作正文"
+        }
+      ],
+      "next_source_action": "先列Senodos构件矩阵，把Horner具体条号映射到既有使徒传统；再查未覆盖构件，不能合成一部假定全书。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C11",
+      "slug": "dydi_c--C11",
+      "sequence": 43,
+      "title": "诸王之法",
+      "original_language": "阿拉伯语法典背景，吉兹语译本",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/dydi_c--C11/record.json",
+      "record_sha256": "8268eb560c51393ac8f1ef17db9e60d214ebea534df8be396102179b6efd37a6",
+      "resources": [
+        {
+          "url": "https://archive.org/details/fetha-nagast-english-translation",
+          "language": "英语",
+          "edition": "题名Fetha Nagast；具体印次／译者须看版权页",
+          "coverage": "IA题名命中候选，暂未核正文或版源"
+        },
+        {
+          "url": "https://scholarship.law.columbia.edu/books/180/",
+          "language": "英语",
+          "edition": "2009版，译文初版1968",
+          "coverage": "哥伦比亚页面只有书目和介绍；Files栏没有可直接下载正文"
+        }
+      ],
+      "next_source_action": "打开候选版权页核Tzadua／Strauss版及正文范围；并查Guidi旧吉兹校本／意译，保留版本差别。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C12",
+      "slug": "dydi_c--C12",
+      "sequence": 44,
+      "title": "埃塞俄比亚约西蓬／犹太人史",
+      "original_language": "希伯来原作经阿拉伯传至吉兹；不能以希伯来英文新译直接等同吉兹版本",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_c--C12/record.json",
+      "record_sha256": "a5b70b84f90318021f1904fdd8d63c8f2182d732b5a2bb8bc259ae2d30f223cc",
+      "resources": [
+        {
+          "url": "https://cae.ethiopicist.com/works/2598/",
+          "language": "吉兹语传统",
+          "edition": "CAe2598 / LIT2598ZenaAy",
+          "coverage": "Zenā ʾAyhud等身份；不是犹太古史全文"
+        }
+      ],
+      "next_source_action": "从CAe2598链接追具体手稿号和可读影像；IA该限定查询0命中，仅说明此检索范围，不代表全文不存在。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C13",
+      "slug": "dydi_c--C13",
+      "sequence": 45,
+      "title": "阿伽坦格洛斯《亚美尼亚史》",
+      "original_language": "古典亚美尼亚语；A与V不同版本族及希腊/阿拉伯等转译",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_c--C13/record.json",
+      "record_sha256": "dfe2339b57e8593dcbe9c1f31edb431d97dff29cf8311945e710bc7012efcc91",
+      "resources": [
+        {
+          "url": "https://www.titus.uni-frankfurt.de/texte/etcs/arm/agath/agath001.htm",
+          "language": "古典亚美尼亚语",
+          "edition": "Ter-Mkrtčʿean／Kanayancʿ, Tiflis1909；TITUS电子文本",
+          "coverage": "已打开第1章；目录其余章待逐项检查"
+        }
+      ],
+      "next_source_action": "核TITUS章节总数和末章，并保留1909版页行号；现代Thomson英译另核权限和覆盖。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C14",
+      "slug": "dydi_c--C14",
+      "sequence": 46,
+      "title": "埃兹尼克《论神／驳异端》",
+      "original_language": "古典亚美尼亚语，利用希腊/叙利亚思想资源",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_c--C14/record.json",
+      "record_sha256": "5ad0428ff4390cb4007c78c6780cbe367cc7da503392ba5bfa858225bc02642f",
+      "resources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/R%C3%A9futation_des_sectes/Texte_entier",
+          "language": "法语",
+          "edition": "Paul-Émile Le Vaillant de Florival译，1853",
+          "coverage": "四卷Réfutation des sectes及附录；原语是亚美尼亚语"
+        }
+      ],
+      "next_source_action": "核1853扫描底本与较新原语校本；现代研究题名De Deo与传统题名对应不拆为两部。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_c:C15",
+      "slug": "dydi_c--C15",
+      "sequence": 47,
+      "title": "纳雷克的格列高利《哀祷书》",
+      "original_language": "古典亚美尼亚语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_c--C15/record.json",
+      "record_sha256": "f3ea870c1e6202c03bdcc38bab32a94a336ec210e92bc18be5a155311fd8a7ac",
+      "resources": [
+        {
+          "url": "https://www.arak29.org/stgregoryofnarek/book.php?id=10&parent_id=10",
+          "language": "英语",
+          "edition": "Thomas J. Samuelian；2001初版，站点导言含2017／2021修订说明",
+          "coverage": "导航列95祷文及colophon；抽核第9、48、95正文"
+        },
+        {
+          "url": "https://www.clerus.org/bibliaclerusonline/en/edi.htm",
+          "language": "英语",
+          "edition": "Clerus online所载Gregory Narek Prayers；具体版次另核",
+          "coverage": "当前页面包含开头数篇，后续分页另查"
+        }
+      ],
+      "next_source_action": "补古典亚美尼亚语校本，并核95篇逐篇页面是否齐全；与原书目Terian译本保持版本区别。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_c:C16",
+      "slug": "dydi_c--C16",
+      "sequence": 48,
+      "title": "舒沙尼克殉道记",
+      "original_language": "古格鲁吉亚语；另有亚美尼亚版本传统",
+      "acquisition_status": "needs_review",
+      "record_path": "christian-text-sources/books/dydi_c--C16/record.json",
+      "record_sha256": "dbe3556bfe80d59eb40aad5c802e74604c83f832c8f34d3bfb8d46a003d9bd9e",
+      "resources": [
+        {
+          "url": "https://www.attalus.org/armenian/smam1.htm",
+          "language": "英语（译自亚美尼亚语）",
+          "edition": "Fr. Krikor Maksoudian, The Passion of Saint Shushanik, 1999",
+          "coverage": "长亚美尼亚本；原目录关注格鲁吉亚本，不能视为同一底本"
+        }
+      ],
+      "next_source_action": "取得格鲁吉亚原文及Lang或新译对应；用亚美尼亚长／短本作对照，不能无说明替代。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C17",
+      "slug": "dydi_c--C17",
+      "sequence": 49,
+      "title": "汉兹塔的格里戈尔传",
+      "original_language": "古格鲁吉亚语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_c--C17/record.json",
+      "record_sha256": "ba792347542ff693baec7fcb02112f3e474c13629f23a504f42c8105a7d3ad08",
+      "resources": [
+        {
+          "url": "https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/view/9578",
+          "language": "英语摘要／格鲁吉亚语论文",
+          "edition": "Sophio Guliashvili, 2018；列Marr1911、Peeters1923、Lang1956及Zeteishvili1999",
+          "coverage": "研究入口，未取得古书正文；Lang版为节译／转述须另核"
+        }
+      ],
+      "next_source_action": "优先找Marr1911格鲁吉亚原文与俄译扫描，再核Peeters拉丁版；不要把Lang155—165页节述当全部原作。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_c:C18",
+      "slug": "dydi_c--C18",
+      "sequence": 50,
+      "title": "马什托茨传",
+      "original_language": "古典亚美尼亚语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_c--C18/record.json",
+      "record_sha256": "4ab9291733cb55186467cc04b7a6e41f2b9d53f2a64a4a5992be7214fe91f2ae",
+      "resources": [
+        {
+          "url": "https://vehi.net/istoriya/armenia/korun/english/index.html",
+          "language": "英语",
+          "edition": "Bedros Norehad英译；网页2004上网说明；具体印本年份未核",
+          "coverage": "01.html=I—VI、02.html=VII—XV、03.html=XVI—XXIX"
+        }
+      ],
+      "next_source_action": "补古典亚美尼亚语长本原文，核Norehad译本印本出处及章号，与Miloyan新版分列。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:evagrius-praktikos",
+      "slug": "dydi_d--evagrius-praktikos",
+      "sequence": 51,
+      "title": "修行论（实践篇）",
+      "original_language": "希腊语；另有古译本",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--evagrius-praktikos/record.json",
+      "record_sha256": "d3df3d113332eb9b07d2308e8e06904722cfd50619ce860d23d26f3144d48e7e",
+      "resources": [
+        {
+          "url": "https://www.ldysinger.com/Evagrius/01_Prak/01_Praktikos.htm",
+          "language": "希腊语／英语",
+          "edition": "Luke Dysinger译；希腊文据SC171／PG40",
+          "coverage": "序言及Praktikos百章；最终逐章比对待做"
+        }
+      ],
+      "next_source_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:evagrius-gnostikos",
+      "slug": "dydi_d--evagrius-gnostikos",
+      "sequence": 52,
+      "title": "属灵知识者（认识者篇）",
+      "original_language": "希腊原作仅存约半篇残文；完整50章靠叙利亚与亚美尼亚古译传承。",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--evagrius-gnostikos/record.json",
+      "record_sha256": "6718d728fc11fd7307085955e04e6dc88a08db525b3b113934d56b3a7c5d7cdb",
+      "resources": [
+        {
+          "url": "https://www.ldysinger.com/Evagrius/02_Gno-Keph/01_gnost.htm",
+          "language": "希腊语／英语",
+          "edition": "Luke Dysinger译；Guillaumont SC356等",
+          "coverage": "Gnostikos五十章；希腊栏包含从叙利亚语回译，不应全部当希腊原件"
+        }
+      ],
+      "next_source_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:evagrius-kephalaia-gnostika",
+      "slug": "dydi_d--evagrius-kephalaia-gnostika",
+      "sequence": 53,
+      "title": "属灵知识章集（六卷）",
+      "original_language": "希腊原作多佚；叙利亚语不同版本及希腊残存见证",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_d--evagrius-kephalaia-gnostika/record.json",
+      "record_sha256": "e8ce569f2316f22ff85d2f71e9c7085823747f9cafb8effa1ecc8ad2a1913f27",
+      "resources": [
+        {
+          "url": "https://www.ldysinger.com/Evagrius/02_Gno-Keph/10_KG_1-6_04-12-2020.htm",
+          "language": "英语／希腊语片段及叙利亚传统",
+          "edition": "Luke Dysinger教学整理；版本须逐栏核",
+          "coverage": "页面列六卷导航；本轮读取第一至第三卷开头，未确认六卷所有条目齐全"
+        }
+      ],
+      "next_source_action": "核六百则的各章缺漏、S1/S2及回译标志，追Guillaumont PO28.1原校本。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_d:evagrius-on-prayer",
+      "slug": "dydi_d--evagrius-on-prayer",
+      "sequence": 54,
+      "title": "论祈祷一百五十三章",
+      "original_language": "希腊语；署名传承需据校本核",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--evagrius-on-prayer/record.json",
+      "record_sha256": "baa4ba41f08268c60411befeb7be6022d3754272a51686819c4142eec16e0b32",
+      "resources": [
+        {
+          "url": "https://www.ldysinger.com/Evagrius/03_Prayer/01_prayer_all.htm",
+          "language": "希腊语／英语",
+          "edition": "Luke Dysinger；PG79.1165—1200传统，并按Géhin SC589修订",
+          "coverage": "序言及153章；注意网页字符编码和分栏"
+        }
+      ],
+      "next_source_action": "核各章号完整性与原校本，并记录希腊原文、残片、回译之间的区别。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:evagrius-antirrhetikos",
+      "slug": "dydi_d--evagrius-antirrhetikos",
+      "sequence": 55,
+      "title": "反驳恶念（回驳录）",
+      "original_language": "希腊原作佚；叙利亚、粟特、亚美尼亚、格鲁吉亚、阿拉伯古译保存，SC640出版叙利亚校本。",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_d--evagrius-antirrhetikos/record.json",
+      "record_sha256": "4db8a33e5302eac7c58d03a67a18b7f3dd0b1f8406fd4a7aecc608263158c8b0",
+      "resources": [
+        {
+          "url": "https://www.ldysinger.com/Evagrius/07_Antirrhet/01_antirrhetikos_selections.htm",
+          "language": "英语／希腊语对照材料",
+          "edition": "Luke Dysinger；部分据Frankenberg叙利亚文版及相关译本",
+          "coverage": "标题明示Selections；按八类恶念列选篇，不是八卷全部条目"
+        }
+      ],
+      "next_source_action": "补原叙利亚语／Frankenberg旧版及全部条号；不把选篇当完整Talking Back。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_d:maximus-love",
+      "slug": "dydi_d--maximus-love",
+      "sequence": 56,
+      "title": "论爱四百章",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--maximus-love/record.json",
+      "record_sha256": "154cef9daa94c33911f042f698bbd94afc55782facdab59daabc69861b81a100",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/glavy-o-lyubvi/",
+          "language": "俄语（外文译本）",
+          "edition": "A. I. Sidorov，Творения, Martis, Moscow1993卷1",
+          "coverage": "序言和四组百章，页面原文结构已核"
+        }
+      ],
+      "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:maximus-ascetic-life",
+      "slug": "dydi_d--maximus-ascetic-life",
+      "sequence": 57,
+      "title": "修行生活",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--maximus-ascetic-life/record.json",
+      "record_sha256": "e536b37d6dd9ee4c4bf0879b6480c7b11d1f7b8c726a3de81949e33d56897ebb",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/slovo-o-podvizhnicheskoj-zhizni/",
+          "language": "俄语（外文译本）",
+          "edition": "A. I. Sidorov，Избранные творения, Palomnik, Moscow2004",
+          "coverage": "对应Logos asketikos正文及注释"
+        }
+      ],
+      "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:maximus-mystagogy",
+      "slug": "dydi_d--maximus-mystagogy",
+      "sequence": 58,
+      "title": "教会奥秘释义",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--maximus-mystagogy/record.json",
+      "record_sha256": "123683fb98fa7baebb805e22c6d5ad34b1a06f1ae3a16bebf11d59dca12cfddd",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/mistagogiya/",
+          "language": "俄语（外文译本）",
+          "edition": "A. I. Sidorov，Избранные творения, Palomnik, Moscow2004, pp.211—250",
+          "coverage": "导言、I—XXIV和结论"
+        }
+      ],
+      "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:maximus-ambigua",
+      "slug": "dydi_d--maximus-ambigua",
+      "sequence": 59,
+      "title": "教父疑难释义",
+      "original_language": "希腊语",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_d--maximus-ambigua/record.json",
+      "record_sha256": "81e6ffebc5bad7ca7c0ace08926b984213574f76b0d54f14ca97b28a3bf3b9a2",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/ambigvy_k_Fome/",
+          "language": "俄语",
+          "edition": "Azbyka旧网络俄译；具体译者／印本下一轮核",
+          "coverage": "只代表致多马部分，另有致约翰部分"
+        },
+        {
+          "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/ambigvy_k_Ioannu/",
+          "language": "俄语",
+          "edition": "Azbyka所标1—97，编号与现代校本关系待核",
+          "coverage": "致约翰部分；现代合卷另一链接要求登录"
+        }
+      ],
+      "next_source_action": "核两分部所据印本、编号和完整性；现代合卷要求登录，不将其HTTP200算取得。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_d:maximus-thalassios",
+      "slug": "dydi_d--maximus-thalassios",
+      "sequence": 60,
+      "title": "答塔拉修经文疑问",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--maximus-thalassios/record.json",
+      "record_sha256": "b03bf8ecd3261fc27f7b19d5debeab44afc26503aee3515eff077916bba1741c",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Maksim_Ispovednik/Voprosootvety_k_falassiyu/",
+          "language": "俄语（外文译本）",
+          "edition": "A. I. Sidorov，第2修订版，Сибирская Благозвонница, Moscow2021, 975pp.",
+          "coverage": "导言及问题1—65；不与Quaestiones et dubia混同"
+        }
+      ],
+      "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:symeon-catecheses",
+      "slug": "dydi_d--symeon-catecheses",
+      "sequence": 61,
+      "title": "教理讲道集",
+      "original_language": "希腊语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/dydi_d--symeon-catecheses/record.json",
+      "record_sha256": "6a7ed67278e4e0ce1d6ec341a3544881140b069fde29d6e9583faa089c4b64fa",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Simeon_Novyj_Bogoslov/sochinenija-prp-simeona-novogo-bogoslova-na-grecheskom-jazyke/",
+          "language": "古希腊语／现代希腊语",
+          "edition": "EPE系列西面作品卷A等；所含Catecheses范围待核",
+          "coverage": "目前只核到合集下载导航；不能算已读取教理讲道集正文"
+        }
+      ],
+      "next_source_action": "追EPE或SC96/104/113教理讲道集，打开正文；Theophan的Slova编排可能不同，不能直接代替。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_d:symeon-ethical",
+      "slug": "dydi_d--symeon-ethical",
+      "sequence": 62,
+      "title": "伦理讲论（论神秘生活）",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--symeon-ethical/record.json",
+      "record_sha256": "5232c6aa330c76eb8c04451da266a4d6641ac178d4673de1b2f8eeaea8597984",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Simeon_Novyj_Bogoslov/slova-bogoslovskie-i-nravstvennye/",
+          "language": "俄语（外文译本）",
+          "edition": "Maxim Mikhailov从古希腊语译，Pererva seminary版；印年待核",
+          "coverage": "网页神学讲论与伦理讲论；伦理讲论1—15，英文SVS分3册须另作对应"
+        }
+      ],
+      "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:symeon-hymns",
+      "slug": "dydi_d--symeon-hymns",
+      "sequence": 63,
+      "title": "神爱颂歌",
+      "original_language": "希腊诗歌",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_d--symeon-hymns/record.json",
+      "record_sha256": "b0f8d968e6d09589207dcc39a0f24f515afa39fe3cdded1e619b13142e067c67",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Simeon_Novyj_Bogoslov/gimny/",
+          "language": "俄语",
+          "edition": "1993重印卷3Божественные гимны，页内引旧译和PG120拉丁本史；译者详情待核",
+          "coverage": "目录列1—60首；尚未与现代Hymns of Divine Eros版本完整对应"
+        }
+      ],
+      "next_source_action": "核首末首正文及全部60首，与现代希腊校本和SVS版所收篇目比较；不是原研究Terian等别本。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_d:diadochos-hundred",
+      "slug": "dydi_d--diadochos-hundred",
+      "sequence": 64,
+      "title": "属灵知识与分辨一百章",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--diadochos-hundred/record.json",
+      "record_sha256": "73d57d811f092cd1b365c4e520b2e49e7c1ac83f779a01d396d7a427020df383",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Diadoh_Fotiki/slovo-asketicheskoe-sto-glav/",
+          "language": "俄语",
+          "edition": "Azbyka所载Слово аскетическое. Сто глав；具体印本见页末Источник，下一轮补完整书目",
+          "coverage": "对应百章修行论，另有俄文Philokalia版本须分开"
+        }
+      ],
+      "next_source_action": "补希腊原文及该俄译编译者／印年，核100章与10定义边界。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:isaiah-asceticon",
+      "slug": "dydi_d--isaiah-asceticon",
+      "sequence": 65,
+      "title": "以赛亚修行讲论",
+      "original_language": "希腊语传统；另有叙利亚等传本",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--isaiah-asceticon/record.json",
+      "record_sha256": "5692e8fcd895a9d8adfe8825f7ae49ae5a6983e8e7f6e4978370f2910cfebce2",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Isajja/duhovno-nravstvennye-slova/",
+          "language": "俄语",
+          "edition": "Paisii Velichkovsky译传的网络版；具体印本下一轮核",
+          "coverage": "作者目录列29篇，正文按篇编排；不同Greek/Syriac Asceticon修订本另核"
+        }
+      ],
+      "next_source_action": "核29篇与原希腊修订本关系、版源印年，并补叙利亚传本差异。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:hesychios-watchfulness",
+      "slug": "dydi_d--hesychios-watchfulness",
+      "sequence": 66,
+      "title": "论警醒与圣洁",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--hesychios-watchfulness/record.json",
+      "record_sha256": "65d8cf3c9804e054d3200dbf37da5cca3a18b7d2cd626484186d877e0270e4a2",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/6/dobrotoljubie_tom_2/15",
+          "language": "俄语（外文译本）",
+          "edition": "俄文Dobrotolyubie第2版卷2，Moscow1895",
+          "coverage": "独立作品章节；不同版本编号与作者称谓需对照"
+        }
+      ],
+      "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:mark-spiritual-law",
+      "slug": "dydi_d--mark-spiritual-law",
+      "sequence": 67,
+      "title": "论属灵律法二百章",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--mark-spiritual-law/record.json",
+      "record_sha256": "e6c79f330ef932e7a4de097b164cbe7c3b055bd35e03edd45decea0e9cc2c042",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Mark_Podvizhnik/slovo-1-e-o-zakone-duhovnom/",
+          "language": "俄语",
+          "edition": "Azbyka所载Слово1-е. О законе духовном；页内标希腊Περὶ νόμου πνευματικοῦ",
+          "coverage": "此版201条；原目录称200条，须对照不同编号和序言拆分，不能静默统一"
+        }
+      ],
+      "next_source_action": "核201／200编号差异，取得希腊校本并记译者／印本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:climacus-ladder",
+      "slug": "dydi_d--climacus-ladder",
+      "sequence": 68,
+      "title": "神圣攀登的天梯",
+      "original_language": "希腊语",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/dydi_d--climacus-ladder/record.json",
+      "record_sha256": "9e66bf58420d47c2678ee0826cdba259b45974e2769ef546e3bf73e42ebf2adc",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Ioann_Lestvichnik/lestvitsa-ili-skrizhali-dukhovnye/",
+          "language": "俄语",
+          "edition": "Azbyka所载Лествица；具体印本页末来源下一轮核",
+          "coverage": "导航含30阶与另附致牧者；抽到第30阶和致牧者，未逐阶核完"
+        }
+      ],
+      "next_source_action": "逐阶核1—30及致牧者，补希腊原文和俄译印本；与Guigo修士天梯严格区分。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "dydi_d:palamas-triads",
+      "slug": "dydi_d--palamas-triads",
+      "sequence": 69,
+      "title": "为圣静修者辩护三组三论",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--palamas-triads/record.json",
+      "record_sha256": "9bcafe6a5c3d97c041886550769ce1c1c3b139be68097671157e8737b351c4dd",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/Grigorij_Palama/triady-v-zashhitu-svjashhenno-bezmolvstvujushhih/",
+          "language": "俄语",
+          "edition": "Azbyka所载Триады в защиту священно-безмолвствующих；具体版次待核",
+          "coverage": "三个triads各三部分；网页含长篇正文和注释，非SVS英译选段"
+        }
+      ],
+      "next_source_action": "补希腊校本及此俄译者、出版年，核三组三论全篇与英文选译边界。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "dydi_d:nikephoros-watchfulness",
+      "slug": "dydi_d--nikephoros-watchfulness",
+      "sequence": 70,
+      "title": "论警醒与守心",
+      "original_language": "希腊语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/dydi_d--nikephoros-watchfulness/record.json",
+      "record_sha256": "066b67cdae060c239e5180545999f339b8420ce4673311e9e1c56e28db944a5c",
+      "resources": [
+        {
+          "url": "https://azbyka.ru/otechnik/6/dobrotoljubie_tom_5/16_14",
+          "language": "俄语（外文译本）",
+          "edition": "俄文Dobrotolyubie第2版卷5，Moscow1900",
+          "coverage": "本卷尼基弗鲁斯守心全文段落；含其引述各教父材料"
+        }
+      ],
+      "next_source_action": "补希腊原文校本及章节对照，俄译可作对读；正式中文翻译前选定底本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:cassian-conferences",
+      "slug": "lori_a--cassian-conferences",
+      "sequence": 71,
+      "title": "会谈录（又译对谈录）",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--cassian-conferences/record.json",
+      "record_sha256": "31aa47d1f310775254c331bc5bc16344421502ff4c0acc05c8681bb5bf2dd4b0",
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/3508.htm",
+          "language": "英语",
+          "edition": "E. C. S. Gibson译，NPNF第二辑11卷，1894",
+          "coverage": "Conferences1—24；抽核首末会谈"
+        }
+      ],
+      "next_source_action": "逐篇核版源和Latin CSEL原文，建立章节对应；现代Ramsey译本与旧译分列。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:cassian-institutes",
+      "slug": "lori_a--cassian-institutes",
+      "sequence": 72,
+      "title": "修院制度与八种恶习的医治",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--cassian-institutes/record.json",
+      "record_sha256": "918afb89ed3b0c876c340a3204a8cd39403edfa6507c3ad2281d899ba0967867",
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/3507.htm",
+          "language": "英语",
+          "edition": "E. C. S. Gibson译，NPNF第二辑11卷，1894",
+          "coverage": "Institutes Books I—XII；抽核首末卷"
+        }
+      ],
+      "next_source_action": "逐篇核版源和Latin CSEL原文，建立章节对应；现代Ramsey译本与旧译分列。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:ambrose-isaac",
+      "slug": "lori_a--ambrose-isaac",
+      "sequence": 73,
+      "title": "论以撒或灵魂",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--ambrose-isaac/record.json",
+      "record_sha256": "7c4d6b7df087c811fb34050ff163d4b02fea8695d33b20c444650f63a0152701",
+      "resources": [
+        {
+          "url": "https://github.com/Mythologos/Notre-Dame-Digitized-Latin-Collection/blob/977a0ba28582eb32b3c83c8933d97efb689fb0b6/data/stoa0022/stoa033/stoa0022.stoa033.nd-dlc-lat1.xml",
+          "language": "拉丁语",
+          "edition": "Karl Schenkl编，CSEL32.1；1962重印本；Notre Dame数字化2025",
+          "coverage": "独立作品正文；XML中translation／apparatus为占位，不含现代英译或完整校勘装置"
+        }
+      ],
+      "next_source_action": "校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:ambrose-death",
+      "slug": "lori_a--ambrose-death",
+      "sequence": 74,
+      "title": "论死亡之善",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--ambrose-death/record.json",
+      "record_sha256": "b401edcba07ee572d35e6dff2c57bbb511543a626a62a40402d4315769618acd",
+      "resources": [
+        {
+          "url": "https://github.com/Mythologos/Notre-Dame-Digitized-Latin-Collection/blob/977a0ba28582eb32b3c83c8933d97efb689fb0b6/data/stoa0022/stoa020/stoa0022.stoa020.nd-dlc-lat1.xml",
+          "language": "拉丁语",
+          "edition": "Karl Schenkl编，CSEL32.1；1962重印本；Notre Dame数字化2025",
+          "coverage": "独立作品正文；XML中translation／apparatus为占位，不含现代英译或完整校勘装置"
+        }
+      ],
+      "next_source_action": "校对CSEL原印本和XML段号；译者可直接以拉丁语为底本，注意电子版NC-SA条件。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:ambrose-flight",
+      "slug": "lori_a--ambrose-flight",
+      "sequence": 75,
+      "title": "逃离世界",
+      "original_language": "拉丁语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/lori_a--ambrose-flight/record.json",
+      "record_sha256": "fc2eaf3b23032af3d0ac5bf7fd2923479ad3bd2b71c94cbab6681dde3fb2e71d",
+      "resources": [
+        {
+          "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780813200651",
+          "language": "拉丁原作／现代英译版本",
+          "edition": "Seven Exegetical Works英译；原文另查CSEL32.2",
+          "coverage": "已定位现代英译卷所收本篇，未核定开放原语电子版"
+        },
+        {
+          "url": "https://ancientlibrary.net/ambrose-de-fuga-saeculi/",
+          "language": "拉丁语",
+          "edition": "页面题名De Fuga Saeculi；电子版底本未核",
+          "coverage": "搜索结果显示拉丁文本，尚未实际打开核版源"
+        }
+      ],
+      "next_source_action": "实读Ancient Library候选并追CSEL32.2 pp.162起校本扫描，不能拿Notre Dame的De paenitentia替代。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:augustine-happy-life",
+      "slug": "lori_a--augustine-happy-life",
+      "sequence": 76,
+      "title": "论幸福生活",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--augustine-happy-life/record.json",
+      "record_sha256": "38b9351a97e9a7e31fcc8a5a1127f8f684e31ea809b138e22d62bd903c95eefd",
+      "resources": [
+        {
+          "url": "https://www.augustinus.it/latino/felicita/felicita_testo.htm",
+          "language": "拉丁语",
+          "edition": "Augustinus.it电子本；站点导航指PL32",
+          "coverage": "独卷De beata vita，含章／节编号"
+        }
+      ],
+      "next_source_action": "核电子本所据印本／勘误，补CSEL或CCSL现代校本页码对应。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:augustine-catechizing",
+      "slug": "lori_a--augustine-catechizing",
+      "sequence": 77,
+      "title": "论教导初学者",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--augustine-catechizing/record.json",
+      "record_sha256": "66d5a35d32f1150eaa69f167cc009e5c7d1ce4392b101b2793f81af1cca29cfb",
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/1303.htm",
+          "language": "英语",
+          "edition": "S. D. F. Salmond译，NPNF第一辑3卷，1887",
+          "coverage": "De catechizandis rudibus正文及章节"
+        }
+      ],
+      "next_source_action": "补拉丁原文，核章号；与现代Morality and Christian Asceticism的译文分列。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:augustine-letter130",
+      "slug": "lori_a--augustine-letter130",
+      "sequence": 78,
+      "title": "致普罗巴论祈祷（书信130）",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--augustine-letter130/record.json",
+      "record_sha256": "b3924d8bf4e59e402320f851fd03a7609f8232ea2ef2ab088188a3e0ad9573ae",
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/1102130.htm",
+          "language": "英语",
+          "edition": "J. G. Cunningham译，NPNF第一辑1卷，1887",
+          "coverage": "完整Letter130条目；原研究已确认仓库现有书信集收本信"
+        }
+      ],
+      "next_source_action": "优先映射仓库已有原文／中译，核拉丁Ep.130；不当新增未收作品重复翻译。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:gregory-moralia",
+      "slug": "lori_a--gregory-moralia",
+      "sequence": 79,
+      "title": "约伯记伦理释义",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--gregory-moralia/record.json",
+      "record_sha256": "8f29d85c8076cb4fb8cd8bb8f01c27cd49021255f0a88040e9611c0a4f961693",
+      "resources": [
+        {
+          "url": "https://www.lectionarycentral.com/gregorymoraliaindex.html",
+          "language": "英语",
+          "edition": "Oxford John Henry Parker／Rivington，1844等旧英译；网页按3印本卷、35书编排",
+          "coverage": "35书目录、Book1和Book35正文已核；网站提示部分注释尚补"
+        }
+      ],
+      "next_source_action": "补拉丁原文与1844各印本卷版权页；逐书核正文和缺注，现代Kerns译本另列。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:gregory-song",
+      "slug": "lori_a--gregory-song",
+      "sequence": 80,
+      "title": "雅歌释义（及后世所辑相关摘录）",
+      "original_language": "拉丁语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/lori_a--gregory-song/record.json",
+      "record_sha256": "0e12925e2f005d946e7102959a877ff962c4979e49340bb5169a8c058db8a03c",
+      "resources": [
+        {
+          "url": "https://litpress.org/Products/CS244E/On-the-Song-of-Songs",
+          "language": "英语",
+          "edition": "Mark DelCogliano编译，CS244",
+          "coverage": "现代版本及所收相关摘录，尚未取得正文"
+        }
+      ],
+      "next_source_action": "核出版社样章是否含原作正文；追PL79／CCSL144原语文本，并将Bede辑录与Gregory独立释义分开。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:william-golden",
+      "slug": "lori_a--william-golden",
+      "sequence": 81,
+      "title": "金书：致蒙迪厄弟兄书",
+      "original_language": "拉丁语",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/lori_a--william-golden/record.json",
+      "record_sha256": "d753b054c48f7748da8e315c06a06c299fec44ed6b874e6cbcd7a0c6056b4df8",
+      "resources": [
+        {
+          "url": "https://www.documentacatholicaomnia.eu/20vs/104_migne_pl/1815-1875%2C_Migne%2C_Patrologia_Latina_184_%28AD_1859%29_Bibliotheca_Bloderiana%2C_MLT.pdf",
+          "language": "拉丁语",
+          "edition": "Migne PL184 cols.307—354；旧本署名历史有误",
+          "coverage": "Epistola ad fratres de Monte Dei应在该栏；导言299—307不能替代正文"
+        },
+        {
+          "url": "https://litpress.org/Products/CF012/The-Golden-Epistle",
+          "language": "英语",
+          "edition": "Theodore Berkeley译，CF12",
+          "coverage": "现代译本入口"
+        }
+      ],
+      "next_source_action": "打开PL184 cols.307—354，注意旧署Guigo等历史归属；核SC223现代校本，建立归属说明。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:william-love",
+      "slug": "lori_a--william-love",
+      "sequence": 82,
+      "title": "爱的本性与尊严",
+      "original_language": "拉丁语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/lori_a--william-love/record.json",
+      "record_sha256": "c207110fb432f69b103708897ac9f35631210dab4e9b871b0ed28402b028095b",
+      "resources": [
+        {
+          "url": "https://litpress.org/Products/CF030/The-Nature-and-Dignity-of-Love",
+          "language": "英语",
+          "edition": "CF30现代英译；拉丁原题De natura et dignitate amoris",
+          "coverage": "作品版本信息；未取得正文"
+        }
+      ],
+      "next_source_action": "追PL180中作者作品及Liber beati Bernardi de amore旧署名；核具体栏号后取正文。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:guigo-ladder",
+      "slug": "lori_a--guigo-ladder",
+      "sequence": 83,
+      "title": "修士天梯",
+      "original_language": "拉丁语",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_a--guigo-ladder/record.json",
+      "record_sha256": "09ffb353d6970b653eb0d9fd141b66ac5e3c2ed560bf948cf64c893012e1bfac",
+      "resources": [
+        {
+          "url": "https://github.com/calebmolstad/scala-claustralium/blob/30df8f5ddb93655767f74c4527dc3950e88ba4aa/scala-claustralium.md",
+          "language": "拉丁语",
+          "edition": "calebmolstad据Patrologia Latina转录；固定commit30df8f5；非批判校本",
+          "coverage": "致Gervasius书信、十三章及结语16段；作者自述逐步转录，须与PL扫描核末尾"
+        }
+      ],
+      "next_source_action": "以README所链PL影像逐段核误字和完整性，再选SC163或其他校本；不能与John Climacus混同。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_a:aelred-mirror",
+      "slug": "lori_a--aelred-mirror",
+      "sequence": 84,
+      "title": "爱德之镜",
+      "original_language": "拉丁语",
+      "acquisition_status": "blocked",
+      "record_path": "christian-text-sources/books/lori_a--aelred-mirror/record.json",
+      "record_sha256": "7dd3c2769cc91c474f327df69003b5be30e6cee5b2be8ef022ccc48f4a70d57a",
+      "resources": [
+        {
+          "url": "https://www.documentacatholicaomnia.eu/04z/z_1110-1167__Aelredus_Rievallensis_Abbas__Speculum_Charitatis__MLT.pdf.html",
+          "language": "拉丁语",
+          "edition": "Migne PL195 cols.501—620D",
+          "coverage": "对应Speculum Charitatis，搜索索引有版源与文件大小；实际访问失败"
+        }
+      ],
+      "next_source_action": "换PL195图书馆扫描验证501—620D；原站恢复后重试该作品HTML入口。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:aelred-friendship",
+      "slug": "lori_a--aelred-friendship",
+      "sequence": 85,
+      "title": "属灵友情礼赞／论属灵友谊",
+      "original_language": "拉丁语",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/lori_a--aelred-friendship/record.json",
+      "record_sha256": "191f73e803f0cb40e329b1b8c5fa90ee183d6549a2437d80ce5c4180f88ee22c",
+      "resources": [
+        {
+          "url": "https://www.apotre.org/livres/aelred-de-spirituali-amicitia",
+          "language": "拉丁语",
+          "edition": "Apôtre网页转录；具体印本出处待核",
+          "coverage": "已读取序言及拉丁正文部分；全三卷覆盖尚未确认"
+        }
+      ],
+      "next_source_action": "核是否包含完整三卷与原校本来源；原研究中文正式出版已知，新增原语仅作对读。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:gertrud-exercises",
+      "slug": "lori_a--gertrud-exercises",
+      "sequence": 86,
+      "title": "灵修操练（暂译）",
+      "original_language": "拉丁语",
+      "acquisition_status": "metadata_only",
+      "record_path": "christian-text-sources/books/lori_a--gertrud-exercises/record.json",
+      "record_sha256": "1b59611c37a4e938b63a7af298caee51387a1543f59438f85db9132d3daf7c05",
+      "resources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark%3A/12148/cb30918287h",
+          "language": "拉丁语",
+          "edition": "Sanctae Gertrudis…Legatus divinae pietatis; accedunt Exercitia spiritualia，Solesmes编旧版",
+          "coverage": "须定位附收Exercitia的具体卷及7练习；Legatus本体不能替代"
+        }
+      ],
+      "next_source_action": "查Solesmes旧版对应卷的公开扫描和7练习页码；与Loyola同名Spiritual Exercises排除。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:dhuoda-handbook",
+      "slug": "lori_a--dhuoda-handbook",
+      "sequence": 87,
+      "title": "给威廉的手册（暂译）",
+      "original_language": "拉丁语",
+      "acquisition_status": "blocked",
+      "record_path": "christian-text-sources/books/lori_a--dhuoda-handbook/record.json",
+      "record_sha256": "c380fef5536e964dcb68f656030a9dd4d3b75574633084d2bb7c9006f19f6327",
+      "resources": [
+        {
+          "url": "https://www.documentacatholicaomnia.eu/04z/z_0790-0840__Dodana_Sive_Duodena_%5BDhuoda%5D__Liber_Manualis__MLT.pdf.html",
+          "language": "拉丁语",
+          "edition": "Dhuoda旧题Dodana sive Duodena，Migne系电子扫描",
+          "coverage": "作品正文PDF候选；完整范围尚待核"
+        }
+      ],
+      "next_source_action": "换Édouard Bondurand1887旧版扫描，核全书卷次；用旧异名Dodana／Duodena扩检。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:bede-song",
+      "slug": "lori_a--bede-song",
+      "sequence": 88,
+      "title": "雅歌注释",
+      "original_language": "拉丁语",
+      "acquisition_status": "blocked",
+      "record_path": "christian-text-sources/books/lori_a--bede-song/record.json",
+      "record_sha256": "0b7252f61f74fd70bbe4874b92a1772737cc3d5010a9ea51d65719fec76bbd7e",
+      "resources": [
+        {
+          "url": "https://web.documentacatholicaomnia.eu/02m/0627-0735%2C_Beda_Venerabilis%2C_In_Cantica_Canticorum_Allegorica_Expositio%2C_MLT.pdf",
+          "language": "拉丁语",
+          "edition": "Migne Bede In Cantica Canticorum Allegorica Expositio",
+          "coverage": "原语旧版候选；第6卷为Gregory材料辑录，须单列"
+        }
+      ],
+      "next_source_action": "换PL91或CCSL119A对应扫描／阅读版；不要把第6卷Gregory摘录当Gregory独立原作全本。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_a:anselm-prayers",
+      "slug": "lori_a--anselm-prayers",
+      "sequence": 89,
+      "title": "祈祷与默想",
+      "original_language": "拉丁语",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/lori_a--anselm-prayers/record.json",
+      "record_sha256": "a9e6cee632c8e71d4b06a2992ce0a5426d8f6b81f152fb1f8a43c6ad5e6ca905",
+      "resources": [
+        {
+          "url": "https://archive.org/details/devotionssainta00ansegoog",
+          "language": "英语",
+          "edition": "C. C. J. Webb, The Devotions of Saint Anselm, 1903",
+          "coverage": "包含祈祷／默想、Proslogion及其他材料，具体真作范围待核"
+        }
+      ],
+      "next_source_action": "打开版权页／目录，逐篇与Schmitt／Wilmart真作清单对照；旧署Anselm作品并非均真作。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_b:lb01",
+      "slug": "lori_b--lb01",
+      "sequence": 90,
+      "title": "使徒传统／使徒遗传",
+      "original_language": "希腊原本重构；拉丁、科普特、阿拉伯、吉兹等见证",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb01/record.json",
+      "record_sha256": "35e2f4132f25a624a1657c1a9ccdc14028323934d71ffdae98f4d157c64454c5",
+      "resources": [
+        {
+          "url": "https://gospelstudies.org.uk/earlychurch/pdf/e-books/easton_b-s/apostolic-tradition-hippolytus.pdf",
+          "language": "英语",
+          "edition": "Burton Scott Easton, The Apostolic Tradition of Hippolytus, Cambridge, 1934",
+          "coverage": "该重构本的译文及说明；不是一份完整存世希腊抄本"
+        }
+      ],
+      "next_source_action": "补拉丁、科普特、阿拉伯等见证及现代重构差异；不得将Easton重构当唯一原文。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb02",
+      "slug": "lori_b--lb02",
+      "sequence": 91,
+      "title": "使徒遗范／使徒训诲",
+      "original_language": "希腊原作片段；叙利亚为主要见证，另拉丁等",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb02/record.json",
+      "record_sha256": "03c3769a436f6336a781a5620f0da040afb03fb8a235695c492a546a64f728dd",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/didascalia.html",
+          "language": "英语",
+          "edition": "R. Hugh Connolly, Oxford: Clarendon Press, 1929",
+          "coverage": "26章译文；网站说明不含长导论"
+        },
+        {
+          "url": "https://archive.org/details/didascaliaaposto00gibsuoft",
+          "language": "英语",
+          "edition": "Margaret Dunlop Gibson, Horae Semiticae II, 1903",
+          "coverage": "本版英译；叙利亚文另卷"
+        }
+      ],
+      "next_source_action": "补Gibson叙利亚文卷，按章与Connolly校勘，现代译文使用另核。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb03",
+      "slug": "lori_b--lb03",
+      "sequence": 92,
+      "title": "希波律陀教规",
+      "original_language": "现存阿拉伯文；一般认为经科普特译自希腊",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb03/record.json",
+      "record_sha256": "42c29ef341238584177acd6b3f2433a3e17366a9fcaeca167e9a16b1857ef6b8",
+      "resources": [
+        {
+          "url": "https://archive.org/details/CanonesStHippolyti",
+          "language": "阿拉伯语／拉丁语",
+          "edition": "D. B. Haneberg, Canones S. Hippolyti, München, 1870",
+          "coverage": "旧版全卷，阿拉伯文与拉丁译文、序论及注释"
+        }
+      ],
+      "next_source_action": "对照后续校本和编号；原归属希波吕托不是著者已证实。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb04",
+      "slug": "lori_b--lb04",
+      "sequence": 93,
+      "title": "我主遗训／主的遗嘱",
+      "original_language": "原作希腊，叙利亚等译本；新识别希腊残片",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb04/record.json",
+      "record_sha256": "58bf1f19c8af09a480f7cfce9d1984c6f9b57f2c4bb7d82bf372183a51eda972",
+      "resources": [
+        {
+          "url": "https://archive.org/details/cu31924029296170",
+          "language": "英语",
+          "edition": "James Cooper and Arthur John Maclean, The Testament of Our Lord, Edinburgh: T. & T. Clark, 1902",
+          "coverage": "两卷译文及注释"
+        }
+      ],
+      "next_source_action": "补Rahmani1899叙利亚文本与拉丁译文，核章节对应。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb05",
+      "slug": "lori_b--lb05",
+      "sequence": 94,
+      "title": "特姆伊斯撒拉皮翁祷文集",
+      "original_language": "希腊文",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb05/record.json",
+      "record_sha256": "2ce69e42b8162dc27250d640b76b4fbde655b91b61bcd9d2c967663dd91febe6",
+      "resources": [
+        {
+          "url": "https://archive.org/details/bishopsarapionsp06sera",
+          "language": "英语／少量希腊语",
+          "edition": "John Wordsworth, Bishop Sarapion’s Prayer-Book, SPCK, 1899；据Wobbermin",
+          "coverage": "30篇祈祷的该版英译及导论／注释"
+        }
+      ],
+      "next_source_action": "补Wobbermin希腊文校本并逐祷编号；本卷不是全套希腊原文。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb06",
+      "slug": "lori_b--lb06",
+      "sequence": 95,
+      "title": "亚他那修教规（科普特—阿拉伯传统）",
+      "original_language": "科普特与阿拉伯传本",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb06/record.json",
+      "record_sha256": "25deb0cb9e90b83cac6b6ef08bdc1e17ac97352da14468d93251d68e4bc1022d",
+      "resources": [
+        {
+          "url": "https://archive.org/details/thecanonsofathan00rieduoft",
+          "language": "阿拉伯语／科普特语／英语",
+          "edition": "Wilhelm Riedel & W. E. Crum, The Canons of Athanasius of Alexandria, London/Oxford: Williams and Norgate, 1904",
+          "coverage": "阿拉伯与科普特见证及英译、校注"
+        }
+      ],
+      "next_source_action": "分开阿拉伯107条与科普特残存范围，提取原文时核对扫描；不因题署认定亚他那修亲著。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb07",
+      "slug": "lori_b--lb07",
+      "sequence": 96,
+      "title": "埃格里亚游记／圣地朝圣记",
+      "original_language": "拉丁文",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb07/record.json",
+      "record_sha256": "4c7bdfdce536f87cc77b90ca967e0c2b8a5afa4f0587a7629e3f02edb9bc5c8a",
+      "resources": [
+        {
+          "url": "https://www.thelatinlibrary.com/egeria.html",
+          "language": "拉丁语",
+          "edition": "The Latin Library电子转录；底本校本／编辑待补",
+          "coverage": "现存正文I–XXIII与XXIV–XLIX；原作首尾缺损"
+        }
+      ],
+      "next_source_action": "补电子转录所据校本和古抄本；现存正文可读不等于无缺古书。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb08",
+      "slug": "lori_b--lb08",
+      "sequence": 97,
+      "title": "波尔多朝圣者行程",
+      "original_language": "拉丁文",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb08/record.json",
+      "record_sha256": "2d394d5f2c0389fab1339f2fda1f848a3e008a1a93cba8ad02c8051e8e7a2cd9",
+      "resources": [
+        {
+          "url": "https://la.wikisource.org/wiki/Itinerarium_(PL08)",
+          "language": "拉丁语",
+          "edition": "PL8电子转录，Wikisource据Corpus Corporum；旧版断代说明保留不直接采信",
+          "coverage": "本页拉丁行程；需后续与CSEL或CCSL的章节／地名比对"
+        }
+      ],
+      "next_source_action": "以Perseus stoa0329.stoa001.opp-lat1或CSEL校本补校地名。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb09",
+      "slug": "lori_b--lb09",
+      "sequence": 98,
+      "title": "西里坦殉道者案录",
+      "original_language": "拉丁文",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb09/record.json",
+      "record_sha256": "b2a2de87aa87742002df8d0e33bf2f153110873812f86bb01ce54e08407d9703",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/scillitan.html",
+          "language": "英语",
+          "edition": "页面题署翻译J. A. Robinson、导论Andrew Rutherfurd；网站导航称Roberts-Donaldson不可直接当译者",
+          "coverage": "短篇殉道记正文"
+        }
+      ],
+      "next_source_action": "从Gebhardt1902 pp22–26补拉丁及希腊异本；核Robinson初刊年份。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb10",
+      "slug": "lori_b--lb10",
+      "sequence": 99,
+      "title": "游斯丁及同伴殉道案录",
+      "original_language": "希腊文，多个修订本",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb10/record.json",
+      "record_sha256": "cd7d0d140f60fcea6ecd6f78e088887a9f12e56586afe15e9ee7e537669696ad",
+      "resources": [
+        {
+          "url": "https://www.tertullian.org/fathers2/ANF-01/anf01-54.htm",
+          "language": "英语",
+          "edition": "M. Dods译，Ante-Nicene Fathers I，旧英译",
+          "coverage": "第I–V章；具体recension待与希腊三异本核对"
+        }
+      ],
+      "next_source_action": "用Gebhardt1902或现代Musurillo比对recension，不能用Justin护教文代替殉道记。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb11",
+      "slug": "lori_b--lb11",
+      "sequence": 100,
+      "title": "里昂与维埃纳教会书信",
+      "original_language": "希腊文，主要保存在优西比乌",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/lori_b--lb11/record.json",
+      "record_sha256": "a9b6f37f816adee2e38e93a5f6bc3e8923d5ddd6388221b78f6ff162cbdda76d",
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/250105.htm",
+          "language": "英语",
+          "edition": "Arthur Cushman McGiffert译，NPNF II.1，1890，Church History V.1–2",
+          "coverage": "保存于教会史第五卷前两章的书信引文；不是独立完整原书"
+        }
+      ],
+      "next_source_action": "补希腊原文Eusebius HE V.1–2，界定叙述过渡与原信引文。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_b:lb12",
+      "slug": "lori_b--lb12",
+      "sequence": 101,
+      "title": "居普良案录",
+      "original_language": "拉丁文",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb12/record.json",
+      "record_sha256": "8e7085786e4a36d9bb767aa09c48ab38050ecf250fdba9ce0d49a0a8d926b8ad",
+      "resources": [
+        {
+          "url": "https://archive.org/details/actamartyrumsel00gebhgoog",
+          "language": "拉丁语",
+          "edition": "Oscar von Gebhardt, Acta martyrum selecta, Leipzig, 1902",
+          "coverage": "XI，印页124–128，Acta S. Cypriani"
+        }
+      ],
+      "next_source_action": "补现代长短两本编号、BHL及校本；保留叙事与司法记录的区别。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb13",
+      "slug": "lori_b--lb13",
+      "sequence": 102,
+      "title": "皮奥尼乌斯殉道记",
+      "original_language": "希腊文",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb13/record.json",
+      "record_sha256": "0cdf4b669e274e5d6f362212b3d13ed1356afd5bf53afe25312a68f978d133c8",
+      "resources": [
+        {
+          "url": "https://archive.org/details/actamartyrumsel00gebhgoog",
+          "language": "希腊语",
+          "edition": "Oscar von Gebhardt, Acta martyrum selecta, Leipzig, 1902",
+          "coverage": "VIII，印页96–114，Martyrium Pionii"
+        }
+      ],
+      "next_source_action": "逐页核96–114希腊文并对照Musurillo／Robert校本；不采网络新AI英译代替既有校本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb14",
+      "slug": "lori_b--lb14",
+      "sequence": 103,
+      "title": "阿加佩、喀俄尼亚与伊瑞妮殉道记",
+      "original_language": "希腊文",
+      "acquisition_status": "scan_candidate",
+      "record_path": "christian-text-sources/books/lori_b--lb14/record.json",
+      "record_sha256": "ec820527e8055a91eb8086cf261904ae61fd011b4b2719c32a4f6a86b1465ddf",
+      "resources": [
+        {
+          "url": "https://www.liberius.net/livres/Selecta_martyrum_acta_%28tomus_primus%29_000000437.pdf",
+          "language": "拉丁语",
+          "edition": "Selecta martyrum acta, tomus primus；本次未读题页，出版年／编辑待核",
+          "coverage": "检索索引出现Agape与Chionia审讯；是否全文及对应希腊异本待核"
+        }
+      ],
+      "next_source_action": "实际下载核题页、Passio题名、首尾和印页，再找Franchi de’ Cavalieri希腊校本；排除Hrotsvitha《Dulcitius》和现代圣徒传。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "lori_b:lb15",
+      "slug": "lori_b--lb15",
+      "sequence": 104,
+      "title": "塞巴斯特四十殉道者遗嘱",
+      "original_language": "希腊文",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/lori_b--lb15/record.json",
+      "record_sha256": "2128af037ac04b15c06e807b1112dc5b8a8c22fed5f2db3793eef91125c19df3",
+      "resources": [
+        {
+          "url": "https://archive.org/details/actamartyrumsel00gebhgoog",
+          "language": "希腊语",
+          "edition": "Oscar von Gebhardt, Acta martyrum selecta, Leipzig, 1902",
+          "coverage": "XVI，印页166–170；后续171起的Martyrium是另一作品"
+        }
+      ],
+      "next_source_action": "逐页对照166–170，补Bonwetsch所据见证与后续校本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "lori_b:lb16",
+      "slug": "lori_b--lb16",
+      "sequence": 105,
+      "title": "俄克喜林库斯赞美诗（P.Oxy. XV 1786）",
+      "original_language": "希腊文及古希腊音乐记谱",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/lori_b--lb16/record.json",
+      "record_sha256": "55cf39d63026e84300a41231a860a03a2dd481ba5f585da753e4eea9f049d8bb",
+      "resources": [
+        {
+          "url": "https://archive.org/details/oxyrhynchuspapyr15gren",
+          "language": "希腊语／古乐谱／英语注释",
+          "edition": "B. P. Grenfell & A. S. Hunt, The Oxyrhynchus Papyri XV, London: Egypt Exploration Society, 1922",
+          "coverage": "编号1786，印页21–25及图版；纸草原本已残缺"
+        }
+      ],
+      "next_source_action": "目视印页21–25及图版，补Oxford馆藏原图并核许可；区别现代歌曲改编。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "root:teachings-silvanus",
+      "slug": "root--teachings-silvanus",
+      "sequence": 106,
+      "title": "西尔瓦努斯训言（暂译）",
+      "original_language": "存世萨希迪科普特语；推定希腊原作",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/root--teachings-silvanus/record.json",
+      "record_sha256": "ea1a6f65bdd3b3b364e8f186c5b88a340a0ee4388a7686ad331cdbec2720423f",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/silvanus.html",
+          "language": "英语",
+          "edition": "Malcolm L. Peel and Jan Zandee译，James M. Robinson编The Nag Hammadi Library in English；本页未列具体版次",
+          "coverage": "NHC VII,4对应英译；文本残缺按方括号保留"
+        }
+      ],
+      "next_source_action": "核Janssens科普特／法译校本版次及现有中文文集是否收录，补原语并核英译授权。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "root:interpretation-knowledge",
+      "slug": "root--interpretation-knowledge",
+      "sequence": 107,
+      "title": "灵知的解释（暂译）",
+      "original_language": "科普特语存本；原作语言关系待校本导论确认",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/root--interpretation-knowledge/record.json",
+      "record_sha256": "e26ca6f1ee4be2a5afad0e82242a40b216eee49644e277a324823891c239e461",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/interpretation.html",
+          "language": "英语",
+          "edition": "John D. Turner译，James M. Robinson编The Nag Hammadi Library in English；具体版次待核",
+          "coverage": "NHC XI,1现存文本英译，开头缺13行且全篇多处残缺"
+        }
+      ],
+      "next_source_action": "补Funk/Painchaud/Thomassen2010科普特／法译校本，按抄本页行编损缺表。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "root:apocryphon-john",
+      "slug": "root--apocryphon-john",
+      "sequence": 108,
+      "title": "约翰秘传／约翰密传",
+      "original_language": "科普特语多个传本；希腊原作关系须看校本",
+      "acquisition_status": "partial_online",
+      "record_path": "christian-text-sources/books/root--apocryphon-john/record.json",
+      "record_sha256": "079d79f05b4a77b40aac62bff77a72fc32e842b47d7d1ecde505ca639b676b47",
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/apocryphonjohn.html",
+          "language": "英语",
+          "edition": "Frederik Wisse译，James M. Robinson编The Nag Hammadi Library in English；需核具体版次／抄本依据",
+          "coverage": "该页一篇从启示开头到末尾Amen的英译；四见证、长短本对勘未取得"
+        }
+      ],
+      "next_source_action": "先确定该译文的recension／底本，再取得短本NHIII,1与BG2；Gnosis四本对勘入口受阻可重试。",
+      "translation_status": "out_of_current_scope",
+      "reason": "本轮仅处理核实有完整内容的作品；原获取状态保留。"
+    },
+    {
+      "id": "root:pistis-sophia",
+      "slug": "root--pistis-sophia",
+      "sequence": 109,
+      "title": "皮斯提斯·索菲亚（信心与智慧；暂译）",
+      "original_language": "科普特语传本；与希腊原作的关系待核",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/root--pistis-sophia/record.json",
+      "record_sha256": "f2a3d652a5534a8e2d467c69aff50b808fcaad2d8c19a488b102079389001ade",
+      "resources": [
+        {
+          "url": "https://archive.org/details/pistissophiagnos1921mead",
+          "language": "英语",
+          "edition": "G. R. S. Mead, Pistis Sophia: A Gnostic Miscellany, London, 1921修订版",
+          "coverage": "该版六部编排的全卷英译；现代校本编排可能不同"
+        },
+        {
+          "url": "https://archive.org/details/koptischgnostisc00schmuoft",
+          "language": "德语",
+          "edition": "Carl Schmidt, Koptisch-gnostische Schriften I, Leipzig: J. C. Hinrichs, 1905",
+          "coverage": "Pistis Sophia印页1–256；后续Jeu及无题作品分开"
+        }
+      ],
+      "next_source_action": "补Askew科普特原文旧版／影像及现代Schmidt-MacDermot对照；核中文文集实际范围。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    },
+    {
+      "id": "root:books-jeu",
+      "slug": "root--books-jeu",
+      "sequence": 110,
+      "title": "耶乌诸书／耶乌二书（暂译）",
+      "original_language": "科普特语，Bruce抄本家族",
+      "acquisition_status": "fulltext_online",
+      "record_path": "christian-text-sources/books/root--books-jeu/record.json",
+      "record_sha256": "2ebe64db3feb26a48d02b317fe4eb3a515a4d91c631a91d04cc134583c335903",
+      "resources": [
+        {
+          "url": "https://archive.org/details/koptischgnostisc00schmuoft",
+          "language": "德语",
+          "edition": "Carl Schmidt, Koptisch-gnostische Schriften I, Leipzig, 1905",
+          "coverage": "Die beiden Bücher des Jeû印页257–329；330起祈祷附录、335起无题作品，不能全混作Jeu"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/booksjeu.html",
+          "language": "英语",
+          "edition": "网页导论引Violet MacDermot, Brill, 1978 pp.ix–xxi；其余节译具体来源逐段待核",
+          "coverage": "导论、篇章提要及选段；网页虽名Books of Jeu，并非两书全译"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/books-of-jeu/",
+          "language": "英语",
+          "edition": "e-Clavis Christian Apocrypha，Books of Jeu",
+          "coverage": "Bruce96身份、校本与译本导航"
+        }
+      ],
+      "next_source_action": "补Schmidt1892科普特校本及Bruce96图式，核2019Crégheur结构重辨；不是纳戈玛第出土抄本。",
+      "translation_status": "needs_completeness_check",
+      "reason": "需另核所选版本全篇边界、原语底本及缺损；入口标签不等于完整性。"
+    }
+  ]
+}
