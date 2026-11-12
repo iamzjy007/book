@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续174项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续177项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1741,15 +1741,45 @@
       "evidence": "manifest未见对应Genealogies独立标题；中文总集家谱等未命中本短篇。库存中的使徒行传或爱尔兰使徒谱系不自动覆盖。",
       "ordinal": 174,
       "batch": "2026-11-12-eclavis-e14"
+    },
+    {
+      "ecca": "799",
+      "title": "Gospel of Barnabas",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-barnabas/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e15:ECCA-799",
+      "evidence": "正式047是《巴拿巴书信》、079是《巴拿巴行传》，不是此222章福音；总集巴拿巴福音未命中；正式019只提被排斥的同名福音题目，不保存近代意大利本正文。",
+      "ordinal": 175,
+      "batch": "2026-11-12-eclavis-e15"
+    },
+    {
+      "ecca": "700",
+      "title": "Gospel of Eve",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-eve/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e15:ECCA-700",
+      "evidence": "正式063《福音残篇》目录含希伯来、拿撒勒、埃及、俄西林古和无名福音，本轮核无夏娃；总集夏娃福音未命中，其他我就是你词串为不同作品叙事。",
+      "ordinal": 176,
+      "batch": "2026-11-12-eclavis-e15"
+    },
+    {
+      "ecca": "343",
+      "title": "Gospel of Jesus’ Wife",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-jesus-wife/",
+      "decision": "identity_unresolved",
+      "record_id": "eclavis_e15:ECCA-343",
+      "evidence": "manifest及中文总集耶稣妻子等未命中；正式061多马福音是其疑似拼词来源，不等于本伪作；不列为待补古代原作。",
+      "ordinal": 177,
+      "batch": "2026-11-12-eclavis-e15"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Genealogies of the Twelve Apostles",
-    "last_completed_ecca": "523",
-    "next_title": "Gospel of Barnabas",
-    "next_ecca": "799",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-barnabas/",
+    "last_completed_title": "Gospel of Jesus’ Wife",
+    "last_completed_ecca": "343",
+    "next_title": "Apocryphal Gospel of John",
+    "next_ecca": "518",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-gospel-of-john/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1791,7 +1821,8 @@
       "2026-11-12-eclavis-e11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e14未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e14未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e15未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
