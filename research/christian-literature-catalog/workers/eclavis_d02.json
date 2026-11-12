@@ -1,0 +1,375 @@
+{
+  "worker": "eclavis_d02",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第96–100项；本轮新增5条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-753",
+      "title_zh": "马利亚与基督论灵魂离世对话",
+      "original_title": "Dialogue of Mary and Christ on the Departure of the Soul",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "近代希腊语及教会斯拉夫语见证",
+      "synopsis": "以圣母向基督问灵魂离世及天使带领为框架的短篇问答。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "未见manifest独立匹配；与圣母启示录及马利亚安息书相关但不是同篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未见manifest独立匹配；与圣母启示录及马利亚安息书相关但不是同篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "753"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/",
+          "edition": "Christine Luckritz Marquis, MNTA3 (2023)",
+          "location": "本章560–564，据e-Clavis",
+          "verified": "实际读作品身份及译本书目；MNTA3原目录另核有此题",
+          "limits": "现代英译正文尚未取得；只保存定位，不把目录当全文",
+          "language": "英语",
+          "resource_type": "translation_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/manuscripta-apocryphorum/dresden-sachsische-landesbibliothek-a-187/",
+          "edition": "Dresden A187手稿专业目录",
+          "location": "part1印530–531；Athens2187另为155v–156r据作品条目",
+          "verified": "实际读手稿目录、16世纪及数字化转介",
+          "limits": "目录不是实际图像；页530–531不可直接当viewer扫描序号",
+          "language": "希腊语",
+          "resource_type": "manuscript_catalogue",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://digital.slub-dresden.de/werkansicht/dlf/53237/1/?tx_dlf%5Bpointer%5D=0",
+          "edition": "SLUB A187数字化入口",
+          "location": "目录转介至sachsen.digital/werk/53237/1",
+          "verified": "实际由手稿目录点入，新站跳转不可达",
+          "limits": "未读530–531图像，不虚构viewer页序",
+          "language": "希腊语",
+          "resource_type": "redirected_manuscript_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-362",
+      "title_zh": "与救主的对话",
+      "original_title": "Dialogue of the Savior / Dialogus Salvatoris",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语（NHC III,5）",
+      "synopsis": "救主与犹大、马太、马利亚等人的启示对话。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "in_reference_anthology_not_formal_manifest",
+      "repository_evidence": "中文总集234章48337–48571行已有简介和104段正文，实际读开头安息、末段灵魂不迷失；manifest无独立卷，不能算新缺书。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "中文总集234章48337–48571行已有简介和104段正文，实际读开头安息、末段灵魂不迷失；manifest无独立卷，不能算新缺书。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "保留中文234章已有判定，按NHC120–145对照缺损和节号，勿与救主讲论／救主之舞合并。",
+      "clavis": {
+        "ECCA": "362",
+        "CANT": "25"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-savior/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/dialoguesavior.html",
+          "edition": "Stephen Emmel英译在线转写",
+          "location": "从abandon our labor至spirits and souls into error",
+          "verified": "实际核译者题头、起止及保留18行不可辨的末尾说明",
+          "limits": "原抄本有大量缺文；网页呈现存世篇幅，不表示无缺原作；未逐字校印本",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/NH-III-5-Dialogue-du-Sauveur.pdf",
+          "edition": "Pierre Létourneau法译，BCNH项目",
+          "location": "3页PDF，保留NHC120起页码",
+          "verified": "实际打开题头、译者和开头；再次取尾403",
+          "limits": "小写猜测路径不可达，使用本可读过的大小写路径；法译末尾未实读，访问不稳定",
+          "language": "法语",
+          "resource_type": "project_translation_intermittent_access",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "in_reference_anthology_not_formal_manifest"
+    },
+    {
+      "id": "ECCA-178",
+      "title_zh": "启示者与约翰对话（巴莱扎残篇52）",
+      "original_title": "Dialogue of the Revealer and John / P. Bal. 52",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语（Sahidic）",
+      "synopsis": "约翰与未具名启示者就创世记传统问答的残篇。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "未见manifest独立卷；不等于已有约翰藏经，启示者是否耶稣也未明言。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未见manifest独立卷；不等于已有约翰藏经，启示者是否耶稣也未明言。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "178",
+        "CANT": "27",
+        "CPC": "670"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-revealer-and-john/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://petrieproject.com/book/gizeh-and-rifeh",
+          "edition": "W. E. Crum, The Coptic Manuscripts，载Petrie Gizeh and Rifeh (1907)",
+          "location": "印39–40，网页p40标记前后为残叶旧译",
+          "verified": "实际读约翰、静默、五能力、该隐亚伯段及旧归属讨论",
+          "limits": "1907所译只是当时见到的材料，不当1954全部残片或2020全新译文；OCR夹杂希腊字符误识，需扫描校核",
+          "language": "英语",
+          "resource_type": "early_translation_transcription",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://gizamedia.rc.fas.harvard.edu/images/MFA-images/Giza/GizaImage/full/library/petrie_gizeh_and_rifeh.pdf",
+          "edition": "Harvard Digital Giza同一1907扫描本",
+          "location": "印39–40据原书／e-Clavis",
+          "verified": "搜索定位机构原扫描，直开502",
+          "limits": "未核扫描图像物理页；保存替代路径",
+          "language": "英语",
+          "resource_type": "institution_scan_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-revealer-and-john/",
+          "edition": "Kahle1954及Philip L. Tite2020",
+          "location": "Kahle卷1 473–477；Tite章355–377，译文376–377",
+          "verified": "核专业条目身份、版本及现代译文定位",
+          "limits": "现代完整残篇校译未取得；不得以旧书Apocrypha of John猜测等同ECCA216",
+          "language": "英语／科普特语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "record_kind": "fragmentary_dialogue"
+    },
+    {
+      "id": "ECCA-417",
+      "title_zh": "耶稣与安得烈对话",
+      "original_title": "Dialogue between Jesus and Andrew",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语，两残叶",
+      "synopsis": "耶稣与安得烈关于跟随、家庭及背负十字架的对话残篇。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "本轮中文总集未定位同一残篇；正式安得烈行传不自动覆盖Bodleian Copt.f103(P)。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "本轮中文总集未定位同一残篇；正式安得烈行传不自动覆盖Bodleian Copt.f103(P)。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "417",
+        "CANT": "225.III.1"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-andrew/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-andrew/",
+          "edition": "Chance Bonar在线新英译",
+          "location": "四叶面顺序Fol1 recto/verso、Fol2 recto/verso",
+          "verified": "实际读四叶面的译文及缺文标记，网页注明new translation",
+          "limits": "存世残篇可读，不是失传完整作品；是否原属安得烈行传有争议，保留独立残篇对象",
+          "language": "英语",
+          "resource_type": "scholarly_online_fragment_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://academic.oup.com/jts/article-abstract/XI/1/70/1644552",
+          "edition": "John Barns, JTS11 (1960)",
+          "location": "论文70–76；校文71–72、英译72据e-Clavis",
+          "verified": "检索到出版社原文章记录与DOI10.1093/jts/XI.1.70",
+          "limits": "文章显示访问限制，本轮未取得PDF／原抄本图版；日期为1960不混老系列同卷数",
+          "language": "英语／科普特语",
+          "resource_type": "publisher_article_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "record_kind": "fragmentary_dialogue"
+    },
+    {
+      "id": "ECCA-395",
+      "title_zh": "耶稣与魔鬼对话",
+      "original_title": "Dialogue between Jesus and the Devil / Iesu contentio cum diabolo",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、教会斯拉夫语；现代保加利亚语译本",
+      "synopsis": "扩展试探故事的多版本对话。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；不以正典受试探故事或巴多罗买提问代替本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；不以正典受试探故事或巴多罗买提问代替本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "395",
+        "CANT": "84"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-the-devil/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://macedonia.kroraina.com/bg_ap/dp_28.html",
+          "edition": "Donka Petkanova，旧保加利亚文学·外典，第28篇",
+          "location": "现代保加利亚语1–4节及注，序言明确据Panagyurishte本（Sofia433）翻译",
+          "verified": "实际读译者底本声明、开头四十日禁食和最后末世段",
+          "limits": "专业条目称online edition，但页面实为现代保加利亚语译文，不是教会斯拉夫语原文或英译；原出版年份本轮未核",
+          "language": "现代保加利亚语",
+          "resource_type": "scholarly_translation_reproduction",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/details/anecdotagraecob00vasigoog",
+          "edition": "Vasiliev, Anecdota graeco-byzantina (1893)",
+          "location": "希腊AB校本4–10，据e-Clavis",
+          "verified": "扫描本入口在前批实际打开",
+          "limits": "未读对应图像；不同于MNTA3选用的J希腊本和Sinai Slav34本",
+          "language": "希腊语",
+          "resource_type": "digitized_edition_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "edition": "Chance Bonar / Slavomír Čéplö, MNTA3 (2023)",
+          "location": "章36–64，现代英译据专业条目；原目录核章首36",
+          "verified": "实际读前置目录；未取得36–64正文",
+          "limits": "前言文件不能标全文；1955Casey/Thomson49–65另含斯拉夫R1/R2译文，不能认为2023等同所有版本",
+          "language": "英语",
+          "resource_type": "front_matter_only",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Mary Christ soul Dresden A187 manuscripts",
+        "Dialogue Savior Emmel Letourneau uppercase PDF",
+        "Balaizah52 Crum1907 GizehRifeh PetrieProject"
+      ],
+      "result": "前三项先存；与救主对话中文234章已含正文；巴莱扎52旧译只能涵盖已见叶片，不并入约翰藏经。"
+    },
+    {
+      "queries": [
+        "Andrew Bodleian Barns1960 Chance Bonar online translation",
+        "Jesus Devil Sofia433 Petkanova translation",
+        "Dresden A187 SLUB redirected Saxony digital"
+      ],
+      "result": "补两项。识别Sofia433页面是现代保加利亚语翻译，不沿online edition误标教会斯拉夫原文；Dresden数字化跳转暂不可达。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Dialogue between Jesus and the Devil",
+    "last_completed_ecca": "395",
+    "next_title": "Dialogue of the Paralytic with Christ",
+    "next_ecca": "425",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-paralytic-with-christ/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

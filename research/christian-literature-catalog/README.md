@@ -87,3 +87,7 @@
 ## 最新续查（2026-11-12，D01）
 
 索引第91–95项；本轮新增5条调查，非同数新缺书。详见[资源路径D01](RESOURCE-PATHS-D01.md)；下一项Dialogue of Mary and Christ on the Departure of the Soul（ECCA753）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，D02）
+
+索引第96–100项；本轮新增5条调查，非同数新缺书。详见[资源路径D02](RESOURCE-PATHS-D02.md)；下一项Dialogue of the Paralytic with Christ（ECCA425）。按用户指示，批次存档后持续推进，直至要求停止。

@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续95项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续100项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -951,15 +951,65 @@
       "evidence": "正式059施洗约翰生平实读开头属瑟拉皮恩传统，不能等同Eurippus本；B01已另列Birth ECCA381。",
       "ordinal": 95,
       "batch": "2026-11-12-eclavis-d01"
+    },
+    {
+      "ecca": "753",
+      "title": "Dialogue of Mary and Christ on the Departure of the Soul",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d02:ECCA-753",
+      "evidence": "未见manifest独立匹配；与圣母启示录及马利亚安息书相关但不是同篇。",
+      "ordinal": 96,
+      "batch": "2026-11-12-eclavis-d02"
+    },
+    {
+      "ecca": "362",
+      "title": "Dialogue of the Savior",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-savior/",
+      "decision": "in_reference_anthology_not_formal_manifest",
+      "record_id": "eclavis_d02:ECCA-362",
+      "evidence": "中文总集234章48337–48571行已有简介和104段正文，实际读开头安息、末段灵魂不迷失；manifest无独立卷，不能算新缺书。",
+      "ordinal": 97,
+      "batch": "2026-11-12-eclavis-d02"
+    },
+    {
+      "ecca": "178",
+      "title": "Dialogue of the Revealer and John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-revealer-and-john/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d02:ECCA-178",
+      "evidence": "未见manifest独立卷；不等于已有约翰藏经，启示者是否耶稣也未明言。",
+      "ordinal": 98,
+      "batch": "2026-11-12-eclavis-d02"
+    },
+    {
+      "ecca": "417",
+      "title": "Dialogue between Jesus and Andrew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-andrew/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d02:ECCA-417",
+      "evidence": "本轮中文总集未定位同一残篇；正式安得烈行传不自动覆盖Bodleian Copt.f103(P)。",
+      "ordinal": 99,
+      "batch": "2026-11-12-eclavis-d02"
+    },
+    {
+      "ecca": "395",
+      "title": "Dialogue between Jesus and the Devil",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-the-devil/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d02:ECCA-395",
+      "evidence": "manifest未见独立匹配；不以正典受试探故事或巴多罗买提问代替本篇。",
+      "ordinal": 100,
+      "batch": "2026-11-12-eclavis-d02"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Decapitation of John the Forerunner",
-    "last_completed_ecca": "400",
-    "next_title": "Dialogue of Mary and Christ on the Departure of the Soul",
-    "next_ecca": "753",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/",
+    "last_completed_title": "Dialogue between Jesus and the Devil",
+    "last_completed_ecca": "395",
+    "next_title": "Dialogue of the Paralytic with Christ",
+    "next_ecca": "425",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-paralytic-with-christ/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -981,7 +1031,8 @@
       "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

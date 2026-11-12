@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **196条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **201条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-D01.md](RESOURCE-PATHS-D01.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-D02.md](RESOURCE-PATHS-D02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -5315,3 +5315,151 @@ e-Clavis归入Modern Apocrypha；正文及传本身份待具体出版物核实�
 资源路径：[Oxford Holkham gr43目录](https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6167) — ff270v–273v，据e-Clavis；由专业条目实际点击，403；未读手稿图像
 
 [完整调查记录](workers/eclavis_d01.json)，条目 `ECCA-400`。
+
+## e-Clavis系统扫描续查D02
+
+### 马利亚与基督论灵魂离世对话
+
+- **原题：** Dialogue of Mary and Christ on the Departure of the Soul
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 近代希腊语及教会斯拉夫语见证
+
+以圣母向基督问灵魂离世及天使带领为框架的短篇问答。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见manifest独立匹配；与圣母启示录及马利亚安息书相关但不是同篇。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Christine Luckritz Marquis, MNTA3 (2023)](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/) — 本章560–564，据e-Clavis；实际读作品身份及译本书目；MNTA3原目录另核有此题；现代英译正文尚未取得；只保存定位，不把目录当全文
+
+资源路径：[Dresden A187手稿专业目录](https://www.nasscal.com/manuscripta-apocryphorum/dresden-sachsische-landesbibliothek-a-187/) — part1印530–531；Athens2187另为155v–156r据作品条目；实际读手稿目录、16世纪及数字化转介；目录不是实际图像；页530–531不可直接当viewer扫描序号
+
+资源路径：[SLUB A187数字化入口](https://digital.slub-dresden.de/werkansicht/dlf/53237/1/?tx_dlf%5Bpointer%5D=0) — 目录转介至sachsen.digital/werk/53237/1；实际由手稿目录点入，新站跳转不可达；未读530–531图像，不虚构viewer页序
+
+[完整调查记录](workers/eclavis_d02.json)，条目 `ECCA-753`。
+
+### 与救主的对话
+
+- **原题：** Dialogue of the Savior / Dialogus Salvatoris
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语（NHC III,5）
+
+救主与犹大、马太、马利亚等人的启示对话。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** in_reference_anthology_not_formal_manifest
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：中文总集234章48337–48571行已有简介和104段正文，实际读开头安息、末段灵魂不迷失；manifest无独立卷，不能算新缺书。
+
+**下一步：** 保留中文234章已有判定，按NHC120–145对照缺损和节号，勿与救主讲论／救主之舞合并。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-savior/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Stephen Emmel英译在线转写](https://www.earlychristianwritings.com/text/dialoguesavior.html) — 从abandon our labor至spirits and souls into error；实际核译者题头、起止及保留18行不可辨的末尾说明；原抄本有大量缺文；网页呈现存世篇幅，不表示无缺原作；未逐字校印本
+
+资源路径：[Pierre Létourneau法译，BCNH项目](https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/NH-III-5-Dialogue-du-Sauveur.pdf) — 3页PDF，保留NHC120起页码；实际打开题头、译者和开头；再次取尾403；小写猜测路径不可达，使用本可读过的大小写路径；法译末尾未实读，访问不稳定
+
+[完整调查记录](workers/eclavis_d02.json)，条目 `ECCA-362`。
+
+### 启示者与约翰对话（巴莱扎残篇52）
+
+- **原题：** Dialogue of the Revealer and John / P. Bal. 52
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语（Sahidic）
+
+约翰与未具名启示者就创世记传统问答的残篇。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见manifest独立卷；不等于已有约翰藏经，启示者是否耶稣也未明言。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-revealer-and-john/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[W. E. Crum, The Coptic Manuscripts，载Petrie Gizeh and Rifeh (1907)](https://petrieproject.com/book/gizeh-and-rifeh) — 印39–40，网页p40标记前后为残叶旧译；实际读约翰、静默、五能力、该隐亚伯段及旧归属讨论；1907所译只是当时见到的材料，不当1954全部残片或2020全新译文；OCR夹杂希腊字符误识，需扫描校核
+
+资源路径：[Harvard Digital Giza同一1907扫描本](https://gizamedia.rc.fas.harvard.edu/images/MFA-images/Giza/GizaImage/full/library/petrie_gizeh_and_rifeh.pdf) — 印39–40据原书／e-Clavis；搜索定位机构原扫描，直开502；未核扫描图像物理页；保存替代路径
+
+资源路径：[Kahle1954及Philip L. Tite2020](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-revealer-and-john/) — Kahle卷1 473–477；Tite章355–377，译文376–377；核专业条目身份、版本及现代译文定位；现代完整残篇校译未取得；不得以旧书Apocrypha of John猜测等同ECCA216
+
+[完整调查记录](workers/eclavis_d02.json)，条目 `ECCA-178`。
+
+### 耶稣与安得烈对话
+
+- **原题：** Dialogue between Jesus and Andrew
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语，两残叶
+
+耶稣与安得烈关于跟随、家庭及背负十字架的对话残篇。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：本轮中文总集未定位同一残篇；正式安得烈行传不自动覆盖Bodleian Copt.f103(P)。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-andrew/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Chance Bonar在线新英译](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-andrew/) — 四叶面顺序Fol1 recto/verso、Fol2 recto/verso；实际读四叶面的译文及缺文标记，网页注明new translation；存世残篇可读，不是失传完整作品；是否原属安得烈行传有争议，保留独立残篇对象
+
+资源路径：[John Barns, JTS11 (1960)](https://academic.oup.com/jts/article-abstract/XI/1/70/1644552) — 论文70–76；校文71–72、英译72据e-Clavis；检索到出版社原文章记录与DOI10.1093/jts/XI.1.70；文章显示访问限制，本轮未取得PDF／原抄本图版；日期为1960不混老系列同卷数
+
+[完整调查记录](workers/eclavis_d02.json)，条目 `ECCA-417`。
+
+### 耶稣与魔鬼对话
+
+- **原题：** Dialogue between Jesus and the Devil / Iesu contentio cum diabolo
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语、教会斯拉夫语；现代保加利亚语译本
+
+扩展试探故事的多版本对话。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；不以正典受试探故事或巴多罗买提问代替本篇。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-the-devil/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Donka Petkanova，旧保加利亚文学·外典，第28篇](https://macedonia.kroraina.com/bg_ap/dp_28.html) — 现代保加利亚语1–4节及注，序言明确据Panagyurishte本（Sofia433）翻译；实际读译者底本声明、开头四十日禁食和最后末世段；专业条目称online edition，但页面实为现代保加利亚语译文，不是教会斯拉夫语原文或英译；原出版年份本轮未核
+
+资源路径：[Vasiliev, Anecdota graeco-byzantina (1893)](https://archive.org/details/anecdotagraecob00vasigoog) — 希腊AB校本4–10，据e-Clavis；扫描本入口在前批实际打开；未读对应图像；不同于MNTA3选用的J希腊本和Sinai Slav34本
+
+资源路径：[Chance Bonar / Slavomír Čéplö, MNTA3 (2023)](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — 章36–64，现代英译据专业条目；原目录核章首36；实际读前置目录；未取得36–64正文；前言文件不能标全文；1955Casey/Thomson49–65另含斯拉夫R1/R2译文，不能认为2023等同所有版本
+
+[完整调查记录](workers/eclavis_d02.json)，条目 `ECCA-395`。
