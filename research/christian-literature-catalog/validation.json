@@ -12,13 +12,13 @@
     "all_saved_json_parse": true
   },
   "counts": {
-    "worker_records": 176,
-    "catalogue_records_after_one_merge": 175,
+    "worker_records": 180,
+    "catalogue_records_after_one_merge": 179,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 278
+    "unique_source_urls": 283
   },
   "limits": "这是文件结构、来源入口及已知重复校验，不证明所有书目信息无误，也不是全网或大陆出版情况的穷尽查证。",
-  "scan_record_count": 71,
+  "scan_record_count": 76,
   "batch_catalogue_record_counts": {
     "eclavis_a01": 10,
     "eclavis_a02": 6,
@@ -32,12 +32,15 @@
     "eclavis_a10": 5,
     "eclavis_a11": 4,
     "eclavis_a12": 5,
-    "eclavis_a13": 3
+    "eclavis_a13": 3,
+    "eclavis_b01": 4
   },
   "followup_counts": {
-    "index_positions_scanned": 3,
-    "new_catalog_records": 3,
-    "cumulative_index_positions_scanned": 71,
+    "index_positions_scanned": 5,
+    "new_catalog_records": 4,
+    "cumulative_index_positions_scanned": 76,
+    "existing_catalog_resource_supplement": 1,
+    "partially_in_reference_anthology": 1,
     "candidate_inventory_unconfirmed": 3
   }
 }

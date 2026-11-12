@@ -1,0 +1,370 @@
+{
+  "worker": "eclavis_b01",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第72–76项；本轮新增4条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-166",
+      "title_zh": "巴多罗买诞生记",
+      "original_title": "Birth of Bartholomew / De ortu sancti Bartholomei",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语及中世纪德语",
+      "synopsis": "以受迫害、被截手的母亲及其儿子巴多罗买为中心的多版本传奇。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "未见正式manifest匹配本题；不等于已查巴多罗买行传、提问或复活记。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未见正式manifest匹配本题；不等于已查巴多罗买行传、提问或复活记。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "166"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-bartholomew/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-bartholomew/",
+          "edition": "Astrid Krüger, De ortu sancti Bartholomei, AnBoll128 (2010)",
+          "location": "87–162，分版本校刊：1b144–150、2a151–154、2c155–158（据e-Clavis）",
+          "verified": "实际读专业书目的版本与页界",
+          "limits": "尚未取得文章全文；现代译文栏空白，不据此断言绝无译文",
+          "language": "拉丁语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://handschriftenportal.de/search?hspobjectid=HSP-02015a19-3a02-358a-bebc-c7ee16f91e1c",
+          "edition": "Leipzig UB184手稿入口",
+          "location": "ff.44r–44v（据e-Clavis，version1b）",
+          "verified": "实际打开HSP链接但无可解析内容",
+          "limits": "未读图像或核正文，不标全文已得",
+          "language": "拉丁语",
+          "resource_type": "javascript_manuscript_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-381",
+      "title_zh": "先驱约翰诞生记",
+      "original_title": "Birth of John the Forerunner",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语",
+      "synopsis": "撒迦利亚遇害及伊利莎白携幼年约翰避难的短篇，非约翰殉道记。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest059_施洗约翰生平不能仅凭人物题名判包含本短篇，尚待实篇比对。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest059_施洗约翰生平不能仅凭人物题名判包含本短篇，尚待实篇比对。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "381",
+        "CANT": "180.3"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-john-the-forerunner/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "institution": "Tony Burke作者网站MNTA3前置页",
+          "read_scope": "实际读目录及Birth作为附录的导言",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "edition": "Tony Burke, MNTA3 (2023) 前言目录",
+          "location": "Birth of John为Decapitation of John附录；正文译文176–177据e-Clavis",
+          "verified": "实际读19页文件，目录将Decapitation列158页起；导言明确Birth短篇作附录",
+          "limits": "本PDF仅前置页，无176–177译文；e-Clavis误列章节140–157与目录不同，保留校核结果",
+          "language": "英语",
+          "resource_type": "front_matter_only",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-john-the-forerunner/",
+          "edition": "Paris Coislin296手稿及英译书目",
+          "location": "ff.12r–13v；MNTA3译文176–177",
+          "verified": "核专业条目身份、手稿、译文定位",
+          "limits": "未读未刊希腊原文或现代译文；CANT180.3原归殉道组不表示内容是斩首",
+          "language": "希腊语／英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-179",
+      "title_zh": "马利亚诞生记（Genna Mariae佚作见证）",
+      "original_title": "Birth of Mary / Genna Mariae",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "仅教父转述，希腊语见证",
+      "synopsis": "一部称为马利亚诞生记的作品，由埃皮法尼乌斯反异端记述保留相关指称与叙事。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式057_马利亚诞生福音为拉丁Nativity of Mary传统，不能对应本佚作；中文总集婴孩绪论有相关转述，非独立全文。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式057_马利亚诞生福音为拉丁Nativity of Mary传统，不能对应本佚作；中文总集婴孩绪论有相关转述，非独立全文。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核Holl希腊见证及Williams具体版次页码；不以057替代本佚作，不承诺可取得失传全文。",
+      "clavis": {
+        "ECCA": "179"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-mary/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-mary/",
+          "edition": "Epiphanius, Panarion26.12.1–4的见证节译",
+          "location": "e-Clavis列Williams英译摘录，另列Holl GCS卷1 290–291",
+          "verified": "实际读专业条目所引见证及书目",
+          "limits": "只是一位反对者的转述，不是佚书复原全文；页面摘录引92、94与所列1987译本101–102不同，引用需指定版次",
+          "language": "希腊语／英语",
+          "resource_type": "testimonium_excerpt",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://dapytains.biblindex.org/en/work-editions/genna-mariae/griechischen-die-christlichen-schriftsteller-der-ersten-drei-jahrhunderte-25",
+          "edition": "BiblIndex Genna Mariae作品见证索引",
+          "location": "GCS25；搜索返回Panarion26,8而e-Clavis为26.12.1–4",
+          "verified": "搜索返回学术索引记录",
+          "limits": "引用章节存在差异，未核原印本，不能消除差异或将其当全文",
+          "language": "希腊语",
+          "resource_type": "testimonium_index",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "record_kind": "lost_work_testimonia_survey"
+    },
+    {
+      "id": "ECCA-674",
+      "title_zh": "救主诞生书（拉丁婴孩福音／J合集构件）",
+      "original_title": "Book of the Nativity of the Savior / Liber de nativitate Salvatoris",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语；中古爱尔兰语I合集平行材料",
+      "synopsis": "由J、I合集保存的耶稣诞生及博士故事构件，非独立完整抄本传承。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "partially_in_reference_anthology",
+      "repository_evidence": "正式manifest无J合集独立题名；中文总集205章46416–46450行已有Arundel404部分译文，实际读节选声明及68–74附近的接生婆段，不认整套J合集已收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest无J合集独立题名；中文总集205章46416–46450行已有Arundel404部分译文，实际读节选声明及68–74附近的接生婆段，不认整套J合集已收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以中文205章对应JAr章节，再补59–97等未覆盖段；不把既有雅各／伪马太福音当整套J合集。",
+      "clavis": {
+        "ECCA": "674",
+        "CANT": "53"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-nativity-of-the-savior/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-nativity-of-the-savior/",
+          "edition": "Kaestli / McNamara, CCSA13–14 (2001) 与Ehrman / Pleše2011",
+          "location": "J合集校本672–880；2011拉英对照JAr59–97在118–155",
+          "verified": "实际核专业条目的合集结构、版本和页界",
+          "limits": "校本及现代全段译文未取得；中文205章是部分材料",
+          "language": "拉丁语／英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://academic.oup.com/book/34752/chapter-abstract/296715337",
+          "edition": "Elliott, Arundel404 (Liber de Infantia Salvatoris)",
+          "location": "1993图书章节；仅选译72–74章，p110据e-Clavis",
+          "verified": "搜索返回OUP章节身份，直开跳转失败",
+          "limits": "出版社章节记录，不是全文；James1927仅xx–xxi有英译73–74，不是全本英译",
+          "language": "英语",
+          "resource_type": "publisher_chapter_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "partially_in_reference_anthology"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Suciu Berlin Strasbourg2017 publisher preview",
+        "De ortu sancti Bartholomei Krüger2010",
+        "MNTA3 Birth John appendix frontmatter"
+      ],
+      "result": "两新调查及一个已有条目补证先存；Birth John误列章首140–157由原目录158页起校核。"
+    },
+    {
+      "result": "中文总集205章确认Arundel404节选，故674只算部分已有；179佚作见证与057拉丁马利亚诞生福音不同，BiblIndex与e-Clavis章节号差异保留。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "supplements": [
+    {
+      "id": "ECCA-388-resource-supplement",
+      "target_id": "dydi_b:B10",
+      "clavis": {
+        "ECCA": "388",
+        "CANT": "6（仅斯特拉斯堡残篇的旧编号）"
+      },
+      "resources": [
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/",
+          "edition": "Alin Suciu, The Berlin-Strasbourg Apocryphon (2017)",
+          "location": "新校本、英译及解释；具体译文139–164、170–179据e-Clavis",
+          "verified": "实际读取出版社题名、2017、电子ISBN与新校本范围说明",
+          "limits": "商品入口，不是全文；此处后451年断代为Suciu论点，不当无争议定论",
+          "language": "英语／科普特语",
+          "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://api.pageplace.de/preview/DT0400.9783161551079_A29125121/preview-9783161551079_A29125121.pdf",
+          "edition": "Suciu2017发行预览",
+          "location": "26页，前置页及导言",
+          "verified": "实际打开预览核题头、2017版权、纸电ISBN",
+          "limits": "没有到139–164校本译文；旧Mohr CDN预览路径404，使用本可读替代路径",
+          "language": "英语",
+          "resource_type": "publisher_preview",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://api.pageplace.de/preview/DT0400.9783161551079_A29125121/preview-9783161551079_A29125121.pdf",
+          "institution": "Mohr Siebeck发行预览",
+          "read_scope": "实际读26页PDF题头与版权",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/",
+          "institution": "Mohr Siebeck出版社",
+          "read_scope": "实际读书目和新校本介绍",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "next": "以Suciu2017两组残片校本核旧版页序，不将仅Berlin残片或MNTA转介当全套；继续待取正文。"
+    }
+  ],
+  "scan_records": [
+    {
+      "ecca": "388",
+      "title": "Berlin-Strasbourg Apocryphon",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
+      "decision": "existing_catalog_resource_supplement",
+      "record_id": "dydi_b:B10",
+      "evidence": "已有B10补2017出版社入口及26页预览，不重复建条。"
+    },
+    {
+      "ecca": "166",
+      "title": "Birth of Bartholomew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-bartholomew/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b01:ECCA-166",
+      "evidence": "未见正式manifest匹配本题；不等于已查巴多罗买行传、提问或复活记。"
+    },
+    {
+      "ecca": "381",
+      "title": "Birth of John the Forerunner",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-john-the-forerunner/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b01:ECCA-381",
+      "evidence": "manifest059_施洗约翰生平不能仅凭人物题名判包含本短篇，尚待实篇比对。"
+    },
+    {
+      "ecca": "179",
+      "title": "Birth of Mary",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-mary/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b01:ECCA-179",
+      "evidence": "正式057_马利亚诞生福音为拉丁Nativity of Mary传统，不能对应本佚作；中文总集婴孩绪论有相关转述，非独立全文。"
+    },
+    {
+      "ecca": "674",
+      "title": "Book of the Nativity of the Savior",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-nativity-of-the-savior/",
+      "decision": "partially_in_reference_anthology",
+      "record_id": "eclavis_b01:ECCA-674",
+      "evidence": "正式manifest无J合集独立题名；中文总集205章46416–46450行已有Arundel404部分译文，实际读节选声明及68–74附近的接生婆段，不认整套J合集已收。"
+    }
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Book of the Nativity of the Savior",
+    "last_completed_ecca": "674",
+    "next_title": "Book of Mary’s Repose",
+    "next_ecca": "299",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-marys-repose/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续71项；A区初轮扫描完成，未解决项保留；下一项B区Berlin-Strasbourg Apocryphon。",
+  "scope": "索引开头连续76项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -711,15 +711,65 @@
       "evidence": "正式manifest未匹配本题；其他米迦勒题材不自动覆盖P.Attiri1–2。",
       "ordinal": 71,
       "batch": "2026-11-12-eclavis-a13"
+    },
+    {
+      "ecca": "388",
+      "title": "Berlin-Strasbourg Apocryphon",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
+      "decision": "existing_catalog_resource_supplement",
+      "record_id": "dydi_b:B10",
+      "evidence": "已有B10补2017出版社入口及26页预览，不重复建条。",
+      "ordinal": 72,
+      "batch": "2026-11-12-eclavis-b01"
+    },
+    {
+      "ecca": "166",
+      "title": "Birth of Bartholomew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-bartholomew/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b01:ECCA-166",
+      "evidence": "未见正式manifest匹配本题；不等于已查巴多罗买行传、提问或复活记。",
+      "ordinal": 73,
+      "batch": "2026-11-12-eclavis-b01"
+    },
+    {
+      "ecca": "381",
+      "title": "Birth of John the Forerunner",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-john-the-forerunner/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b01:ECCA-381",
+      "evidence": "manifest059_施洗约翰生平不能仅凭人物题名判包含本短篇，尚待实篇比对。",
+      "ordinal": 74,
+      "batch": "2026-11-12-eclavis-b01"
+    },
+    {
+      "ecca": "179",
+      "title": "Birth of Mary",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-mary/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b01:ECCA-179",
+      "evidence": "正式057_马利亚诞生福音为拉丁Nativity of Mary传统，不能对应本佚作；中文总集婴孩绪论有相关转述，非独立全文。",
+      "ordinal": 75,
+      "batch": "2026-11-12-eclavis-b01"
+    },
+    {
+      "ecca": "674",
+      "title": "Book of the Nativity of the Savior",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-nativity-of-the-savior/",
+      "decision": "partially_in_reference_anthology",
+      "record_id": "eclavis_b01:ECCA-674",
+      "evidence": "正式manifest无J合集独立题名；中文总集205章46416–46450行已有Arundel404部分译文，实际读节选声明及68–74附近的接生婆段，不认整套J合集已收。",
+      "ordinal": 76,
+      "batch": "2026-11-12-eclavis-b01"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Attiri Book of Michael",
-    "last_completed_ecca": "424",
-    "next_title": "Berlin-Strasbourg Apocryphon",
-    "next_ecca": "388",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
+    "last_completed_title": "Book of the Nativity of the Savior",
+    "last_completed_ecca": "674",
+    "next_title": "Book of Mary’s Repose",
+    "next_ecca": "299",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-marys-repose/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -735,7 +785,8 @@
       "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

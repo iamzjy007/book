@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **175条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **179条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A13.md](RESOURCE-PATHS-A13.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-B01.md](RESOURCE-PATHS-B01.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -604,11 +604,18 @@
 
 **中文线索：** 本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。
 
-**下一步：** 待进一步核实
+**下一步：** 以Suciu2017两组残片校本核旧版页序，不将仅Berlin残片或MNTA转介当全套；继续待取正文。
 
 **来源：**
 - [NASSCAL（北美基督教外典研究学会）](https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/) — 条目概要、手稿与版本书目
 - [Mohr Siebeck学术出版社](https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/) — 书籍简介/作者论旨（检索返回全文简介，未读书内全文）
+- [Mohr Siebeck发行预览](https://api.pageplace.de/preview/DT0400.9783161551079_A29125121/preview-9783161551079_A29125121.pdf) — 实际读26页PDF题头与版权
+
+资源路径：[Alin Suciu, The Berlin-Strasbourg Apocryphon (2017)](https://www.mohrsiebeck.com/en/book/the-berlin-strasbourg-apocryphon-9783161551079/) — 新校本、英译及解释；具体译文139–164、170–179据e-Clavis；实际读取出版社题名、2017、电子ISBN与新校本范围说明；商品入口，不是全文；此处后451年断代为Suciu论点，不当无争议定论
+
+资源路径：[Suciu2017发行预览](https://api.pageplace.de/preview/DT0400.9783161551079_A29125121/preview-9783161551079_A29125121.pdf) — 26页，前置页及导言；实际打开预览核题头、2017版权、纸电ISBN；没有到139–164校本译文；旧Mohr CDN预览路径404，使用本可读替代路径
+
+[补充资源调查](workers/eclavis_b01.json)，补证 `ECCA-388-resource-supplement`。
 
 [完整调查记录](workers/dydi_b.json)，条目 `B10`。
 
@@ -4673,3 +4680,118 @@ e-Clavis索引只有题名及ECCA970，尚不足以界定其文本边界与其�
 资源路径：[Cambridge Thoth已出版版本记录](https://thoth-arch.lib.cam.ac.uk/items/5423b4ec-c5ce-4129-a7f6-871a355f55f1) — 2016-11-22，ISBN9780998237572，22.64MB；实际搜索返回大学存储库完整元数据与CC BY-NC-SA4.0；本轮未读库内PDF，只保留备用入口
 
 [完整调查记录](workers/eclavis_a13.json)，条目 `ECCA-424`。
+
+## e-Clavis系统扫描续查B01
+
+### 巴多罗买诞生记
+
+- **原题：** Birth of Bartholomew / De ortu sancti Bartholomei
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语及中世纪德语
+
+以受迫害、被截手的母亲及其儿子巴多罗买为中心的多版本传奇。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见正式manifest匹配本题；不等于已查巴多罗买行传、提问或复活记。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-bartholomew/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Astrid Krüger, De ortu sancti Bartholomei, AnBoll128 (2010)](https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-bartholomew/) — 87–162，分版本校刊：1b144–150、2a151–154、2c155–158（据e-Clavis）；实际读专业书目的版本与页界；尚未取得文章全文；现代译文栏空白，不据此断言绝无译文
+
+资源路径：[Leipzig UB184手稿入口](https://handschriftenportal.de/search?hspobjectid=HSP-02015a19-3a02-358a-bebc-c7ee16f91e1c) — ff.44r–44v（据e-Clavis，version1b）；实际打开HSP链接但无可解析内容；未读图像或核正文，不标全文已得
+
+[完整调查记录](workers/eclavis_b01.json)，条目 `ECCA-166`。
+
+### 先驱约翰诞生记
+
+- **原题：** Birth of John the Forerunner
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语
+
+撒迦利亚遇害及伊利莎白携幼年约翰避难的短篇，非约翰殉道记。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest059_施洗约翰生平不能仅凭人物题名判包含本短篇，尚待实篇比对。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-john-the-forerunner/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Tony Burke作者网站MNTA3前置页](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — 实际读目录及Birth作为附录的导言
+
+资源路径：[Tony Burke, MNTA3 (2023) 前言目录](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — Birth of John为Decapitation of John附录；正文译文176–177据e-Clavis；实际读19页文件，目录将Decapitation列158页起；导言明确Birth短篇作附录；本PDF仅前置页，无176–177译文；e-Clavis误列章节140–157与目录不同，保留校核结果
+
+资源路径：[Paris Coislin296手稿及英译书目](https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-john-the-forerunner/) — ff.12r–13v；MNTA3译文176–177；核专业条目身份、手稿、译文定位；未读未刊希腊原文或现代译文；CANT180.3原归殉道组不表示内容是斩首
+
+[完整调查记录](workers/eclavis_b01.json)，条目 `ECCA-381`。
+
+### 马利亚诞生记（Genna Mariae佚作见证）
+
+- **原题：** Birth of Mary / Genna Mariae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 仅教父转述，希腊语见证
+
+一部称为马利亚诞生记的作品，由埃皮法尼乌斯反异端记述保留相关指称与叙事。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式057_马利亚诞生福音为拉丁Nativity of Mary传统，不能对应本佚作；中文总集婴孩绪论有相关转述，非独立全文。
+
+**下一步：** 核Holl希腊见证及Williams具体版次页码；不以057替代本佚作，不承诺可取得失传全文。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-mary/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Epiphanius, Panarion26.12.1–4的见证节译](https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-mary/) — e-Clavis列Williams英译摘录，另列Holl GCS卷1 290–291；实际读专业条目所引见证及书目；只是一位反对者的转述，不是佚书复原全文；页面摘录引92、94与所列1987译本101–102不同，引用需指定版次
+
+资源路径：[BiblIndex Genna Mariae作品见证索引](https://dapytains.biblindex.org/en/work-editions/genna-mariae/griechischen-die-christlichen-schriftsteller-der-ersten-drei-jahrhunderte-25) — GCS25；搜索返回Panarion26,8而e-Clavis为26.12.1–4；搜索返回学术索引记录；引用章节存在差异，未核原印本，不能消除差异或将其当全文
+
+[完整调查记录](workers/eclavis_b01.json)，条目 `ECCA-179`。
+
+### 救主诞生书（拉丁婴孩福音／J合集构件）
+
+- **原题：** Book of the Nativity of the Savior / Liber de nativitate Salvatoris
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语；中古爱尔兰语I合集平行材料
+
+由J、I合集保存的耶稣诞生及博士故事构件，非独立完整抄本传承。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** partially_in_reference_anthology
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest无J合集独立题名；中文总集205章46416–46450行已有Arundel404部分译文，实际读节选声明及68–74附近的接生婆段，不认整套J合集已收。
+
+**下一步：** 以中文205章对应JAr章节，再补59–97等未覆盖段；不把既有雅各／伪马太福音当整套J合集。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-nativity-of-the-savior/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Kaestli / McNamara, CCSA13–14 (2001) 与Ehrman / Pleše2011](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-nativity-of-the-savior/) — J合集校本672–880；2011拉英对照JAr59–97在118–155；实际核专业条目的合集结构、版本和页界；校本及现代全段译文未取得；中文205章是部分材料
+
+资源路径：[Elliott, Arundel404 (Liber de Infantia Salvatoris)](https://academic.oup.com/book/34752/chapter-abstract/296715337) — 1993图书章节；仅选译72–74章，p110据e-Clavis；搜索返回OUP章节身份，直开跳转失败；出版社章节记录，不是全文；James1927仅xx–xxi有英译73–74，不是全本英译
+
+[完整调查记录](workers/eclavis_b01.json)，条目 `ECCA-674`。
