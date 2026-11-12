@@ -39,3 +39,7 @@
 ## 最新续查（2026-11-12，A07）
 
 索引第39–43项；本轮新增5条调查，非同数新缺书。详见[资源路径A07](RESOURCE-PATHS-A07.md)；下一项Acts of Thomas and His Wonderworking Skin（ECCA504）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，A08）
+
+索引第44–48项；本轮新增4条调查，非同数新缺书。详见[资源路径A08](RESOURCE-PATHS-A08.md)；下一项Agrapha of Jesus（ECCA508）。按用户指示，批次存档后持续推进，直至要求停止。

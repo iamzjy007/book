@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续43项；A字母尚未完成。",
+  "scope": "索引开头连续48项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -431,15 +431,65 @@
       "evidence": "manifest acts-of-thomas：074_多马行传，共2个单元；实际读output/074_多马行传.txt（51495字符）首尾、十三行述题目及殉道记、灵魂之歌与校注。正文已存在，不能按单元数少误判缺篇；尚未逐段校对所有版本。",
       "ordinal": 43,
       "batch": "2026-11-12-eclavis-a07"
+    },
+    {
+      "ecca": "504",
+      "title": "Acts of Thomas and His Wonderworking Skin",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-and-his-wonderworking-skin/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a08:ECCA-504",
+      "evidence": "正式manifest仅有074长篇多马行传，未匹配本独立皮肤故事；已读074首尾仍不能据同名认定覆盖。",
+      "ordinal": 44,
+      "batch": "2026-11-12-eclavis-a08"
+    },
+    {
+      "ecca": "297",
+      "title": "Acts of Thomas (epitome), by Nicetas of Thessalonica",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-epitome-by-nicetas-of-thessalonica/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a08:ECCA-297",
+      "evidence": "正式074长篇多马行传包含灵魂之歌，不等于尼刻塔改写本；未见该节本独立单元。",
+      "ordinal": 45,
+      "batch": "2026-11-12-eclavis-a08"
+    },
+    {
+      "ecca": "270",
+      "title": "Acts of Timothy",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
+      "decision": "existing_catalog_resource_supplement",
+      "record_id": "dydi_b:B15",
+      "evidence": "既有B15，本批补2016英译校样与1877馆方入口，不重复建条。",
+      "ordinal": 46,
+      "batch": "2026-11-12-eclavis-a08"
+    },
+    {
+      "ecca": "702",
+      "title": "Acts of Titus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-titus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a08:ECCA-702",
+      "evidence": "manifest的titus为正典提多书，不是本行传；限定题名未见独立正文。",
+      "ordinal": 47,
+      "batch": "2026-11-12-eclavis-a08"
+    },
+    {
+      "ecca": "230",
+      "title": "Adoration of the Magi",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/adoration-of-the-magi/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a08:ECCA-230",
+      "evidence": "manifest未匹配独立题名；其他童年福音或博士主题文本不自动覆盖此古回鹘残篇。",
+      "ordinal": 48,
+      "batch": "2026-11-12-eclavis-a08"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Acts of Thomas",
-    "last_completed_ecca": "125",
-    "next_title": "Acts of Thomas and His Wonderworking Skin",
-    "next_ecca": "504",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-and-his-wonderworking-skin/",
+    "last_completed_title": "Adoration of the Magi",
+    "last_completed_ecca": "230",
+    "next_title": "Agrapha of Jesus",
+    "next_ecca": "508",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/agrapha-of-jesus/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -449,7 +499,8 @@
       "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }

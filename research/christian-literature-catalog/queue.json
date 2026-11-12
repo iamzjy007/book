@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Acts of Thomas",
-        "last_completed_ecca": "125",
-        "next_title": "Acts of Thomas and His Wonderworking Skin",
-        "next_ecca": "504",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-and-his-wonderworking-skin/",
+        "last_completed_title": "Adoration of the Magi",
+        "last_completed_ecca": "230",
+        "next_title": "Agrapha of Jesus",
+        "next_ecca": "508",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/agrapha-of-jesus/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -77,10 +77,11 @@
           "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Acts of Thomas and His Wonderworking Skin ECCA504",
+      "next": "继续 Agrapha of Jesus ECCA508",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -89,7 +90,8 @@
         "2026-11-12-eclavis-a04",
         "2026-11-12-eclavis-a05",
         "2026-11-12-eclavis-a06",
-        "2026-11-12-eclavis-a07"
+        "2026-11-12-eclavis-a07",
+        "2026-11-12-eclavis-a08"
       ],
       "last_batch_records_scanned": 5,
       "assigned_worker": "current_session_single_worker"

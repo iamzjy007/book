@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 150,
-    "catalogue_records_after_one_merge": 149,
+    "worker_records": 154,
+    "catalogue_records_after_one_merge": 153,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 224
+    "unique_source_urls": 230
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -72,6 +72,10 @@
     {
       "path": "workers/eclavis_a07.json",
       "sha256": "bf02dc3e7a45047ee89da0265c4112d1ef6ac4f99ac2034edf1d53f82d478c42"
+    },
+    {
+      "path": "workers/eclavis_a08.json",
+      "sha256": "fb5501ddef44938b3461860f46e05801b86aeae3bba75a44a27be8a12175f32d"
     }
   ],
   "records": [
@@ -1283,7 +1287,7 @@
       "original_title": "Acts of Timothy",
       "author_or_attribution": "晚古代殉道与地方教会起源叙事；一些希腊本提356遗骸迁移，不能把此层当1世纪见证。常归5世纪，但本轮尚未核专门断代论证。",
       "date": "晚古代殉道与地方教会起源叙事；一些希腊本提356遗骸迁移，不能把此层当1世纪见证。常归5世纪，但本轮尚未核专门断代论证。",
-      "language": "待进一步核实",
+      "language": "希腊语及拉丁语；本轮补英译",
       "synopsis": "讲述提摩太在以弗所牧养及遇害，并穿插约翰整理福音书、被放逐和归来的传说。",
       "value": {
         "historical": "以弗所教会、圣徒崇敬与四福音来源传说的接受史价值。",
@@ -1294,18 +1298,62 @@
       "repository_evidence": "两manifest无题名；中文总集提摩太行传精确检索未见。",
       "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
       "priority": "篇幅较小，适合补收；须区分希腊家族和拉丁伪署坡旅克拉底。",
-      "next": "待进一步核实",
+      "next": "保留已有调查，按Concannon校样先核文本，再取正式终版及Zamagni希腊校本；不重复建条。",
       "sources": [
         {
           "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
           "institution": "NASSCAL（北美基督教外典研究学会）",
           "read_scope": "条目概要、手稿与版本书目",
           "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "institution": "Tony Burke作者网站",
+          "read_scope": "实际读取2016校样对应题头和译文起讫",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2009-06/timoth0001acttim/",
+          "institution": "University of Illinois Library",
+          "read_scope": "仅搜索返回馆方书目，直开403",
+          "accessed": "2026-11-12"
         }
       ],
       "worker_record": "workers/dydi_b.json",
       "worker_entry_id": "B15",
-      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "edition": "Cavan W.Concannon, Acts of Timothy, MNTA1 (2016) 校样",
+          "location": "章395–405＝PDF445–455；译文402–405＝PDF452–455",
+          "verified": "实际读题头、402译文开头及405结尾；PDF标third corrections",
+          "limits": "作者网站校样，不冒充正式终版；只保存路径与页界",
+          "language": "英语",
+          "resource_type": "online_translation_proof",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2009-06/timoth0001acttim/",
+          "edition": "Usener, Acta S.Timothei (1877)",
+          "location": "馆方目录37,[1]页，希腊及拉丁",
+          "verified": "搜索返回大学馆方书目，web及urllib直开403",
+          "limits": "未取得该扫描或核实际校本文字",
+          "language": "希腊语／拉丁语",
+          "resource_type": "blocked_digitized_edition",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "clavis": {
+        "ECCA": "270",
+        "CANT": "295"
+      },
+      "resource_supplements": [
+        {
+          "worker_record": "workers/eclavis_a08.json",
+          "id": "ECCA-270-resource-supplement"
+        }
+      ]
     },
     {
       "id": "dydi_b:B16",
@@ -7901,6 +7949,281 @@
           "verified": "核专业书目卷次与页界",
           "limits": "本轮未打开Wright扫描正文；与希腊系需区分",
           "language": "叙利亚语／英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a08:ECCA-504",
+      "area": "e-Clavis系统扫描续查A08",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "多马及其行奇事之皮行传",
+      "original_title": "Acts of Thomas and His Wonderworking Skin / Acta Thomae abbreuiata",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语及阿拉伯、吉兹、科普特等古译",
+      "synopsis": "多马遭剥皮后携皮行医治神迹的故事，虽旧名含abbreviata，不能视为长篇多马行传的简单节本。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest仅有074长篇多马行传，未匹配本独立皮肤故事；已读074首尾仍不能据同名认定覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest仅有074长篇多马行传，未匹配本独立皮肤故事；已读074首尾仍不能据同名认定覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-and-his-wonderworking-skin/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf",
+          "institution": "Lewis1904数字扫描",
+          "read_scope": "实际读取相关篇首、结尾及皮肤段；未通读全篇",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a08.json",
+      "worker_entry_id": "ECCA-504",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "504",
+        "CANT": "246"
+      },
+      "resources": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf",
+          "edition": "Agnes Smith Lewis, Mythological Acts (1904)",
+          "location": "Preaching of Thomas印80–93＝PDF132–145；随后印94另起殉道",
+          "verified": "实际读PDF文本层的题头、皮肤情节及印93结尾，印94新题；截图请求超时",
+          "limits": "仅阿拉伯本旧英译；不是2020希腊本新译；未整本下载",
+          "language": "英语",
+          "resource_type": "digitized_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/download/contendingsofapo02budguoft/contendingsofapo02budguoft.pdf",
+          "edition": "Budge, Contendings2 (1901)",
+          "location": "吉兹本英译319–345（据e-Clavis）",
+          "verified": "前批已核metadata卷2及PDF头，本批核篇目页码",
+          "limits": "本篇扫描正文未读，与Lewis阿拉伯本有别",
+          "language": "英语",
+          "resource_type": "digitized_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a08:ECCA-297",
+      "area": "e-Clavis系统扫描续查A08",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "多马行传尼刻塔节本",
+      "original_title": "Acts of Thomas (epitome), by Nicetas of Thessalonica / Acta Thomae auctore Niceta Thessalonicensi",
+      "author_or_attribution": "帖撒罗尼迦的尼刻塔",
+      "date": "11世纪初",
+      "language": "希腊语",
+      "synopsis": "尼刻塔改写的多马节本；专业书目称仅序言和珍珠之歌已刊，整体界限尚未确定。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式074长篇多马行传包含灵魂之歌，不等于尼刻塔改写本；未见该节本独立单元。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式074长篇多马行传包含灵魂之歌，不等于尼刻塔改写本；未见该节本独立单元。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-epitome-by-nicetas-of-thessalonica/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a08.json",
+      "worker_entry_id": "ECCA-297",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "297",
+        "CANT": "247"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-epitome-by-nicetas-of-thessalonica/",
+          "edition": "Poirier, L’Hymne de la Perle (1981；2021增订)",
+          "location": "节本序言290–291；珍珠之歌346–351（据e-Clavis）",
+          "verified": "实际核专业条目及已刊部分范围",
+          "limits": "不是全节本校本或全译；2021增订版页码需原书复核",
+          "language": "希腊语／法语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.loc.gov/item/00279380563-ms",
+          "edition": "Sinai gr.516",
+          "location": "ff.173r–211r（据e-Clavis）",
+          "verified": "书目指向LOC手稿入口，直开403",
+          "limits": "未读图像；不将未刊整体标成已取得",
+          "language": "希腊语",
+          "resource_type": "blocked_manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a08:ECCA-702",
+      "area": "e-Clavis系统扫描续查A08",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "提多行传",
+      "original_title": "Acts of Titus / Acta Titi",
+      "author_or_attribution": "伪署律师西纳（Zenas）",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；拉丁短本",
+      "synopsis": "伪署律师西纳，叙提多归信、与保罗同行及在克里特任主教的生平。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest的titus为正典提多书，不是本行传；限定题名未见独立正文。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest的titus为正典提多书，不是本行传；限定题名未见独立正文。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-titus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "institution": "Tony Burke作者网站",
+          "read_scope": "实际读2016校样411起及415止",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a08.json",
+      "worker_entry_id": "ECCA-702",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "702",
+        "CANT": "298"
+      },
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "edition": "Richard I.Pervo, Acts of Titus, MNTA1 (2016) 校样",
+          "location": "全章406–415＝PDF456–465；译文411–415＝PDF461–465",
+          "verified": "实际读411译文开头、415第12章和Amen，下一PDF页另起作品",
+          "limits": "third corrections校样；不是正式终版；未复制现代译文",
+          "language": "英语",
+          "resource_type": "online_translation_proof",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-titus/",
+          "edition": "Halkin, La légende crétoise de saint Tite, AnBoll79 (1961)",
+          "location": "241–256；另Chiesa2008拉丁短本51–54",
+          "verified": "已核专业版本书目与两种希腊Menology版本区分",
+          "limits": "校本原文未取得；Pervo2014仅1–7章不能替代全篇",
+          "language": "希腊语／拉丁语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a08:ECCA-230",
+      "area": "e-Clavis系统扫描续查A08",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "博士朝拜（古回鹘语残篇）",
+      "original_title": "Adoration of the Magi / Adoratione magorum",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "古回鹘语",
+      "synopsis": "叙博士朝拜及耶稣所赠石块的奇事，残篇以火的意象连结宗教传统。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未匹配独立题名；其他童年福音或博士主题文本不自动覆盖此古回鹘残篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未匹配独立题名；其他童年福音或博士主题文本不自动覆盖此古回鹘残篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/adoration-of-the-magi/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://china-bibliographie.univie.ac.at/2012/12/08/muller-uigurica/",
+          "institution": "Universität Wien Bibliotheca Sinica2.0",
+          "read_scope": "实际读取书目及Bodleian PDF链接",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a08.json",
+      "worker_entry_id": "ECCA-230",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "230"
+      },
+      "resources": [
+        {
+          "url": "https://china-bibliographie.univie.ac.at/2012/12/08/muller-uigurica/",
+          "edition": "Müller, Uigurica I (1908) 数字化书目入口",
+          "location": "校本、转写及德译4–10，图版I–II（页界据e-Clavis）",
+          "verified": "实际打开维也纳大学书目，指向Bodleian PDF",
+          "limits": "仅数字化转介；无法由此确认链接PDF具体分册覆盖",
+          "language": "古回鹘语／德语",
+          "resource_type": "bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://dbooks.bodleian.ox.ac.uk/books/PDFs/501373493.pdf",
+          "edition": "Bodleian Uigurica PDF",
+          "location": "分册、页偏移待核",
+          "verified": "转介链接实际访问：web超时，urllib503",
+          "limits": "未读PDF，不标全文取得；须先核是否1908卷I",
+          "language": "古回鹘语／德语",
+          "resource_type": "blocked_digitized_edition",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/adoration-of-the-magi/",
+          "edition": "Bremer-McCollum, Adoration of the Magi, MNTA2 (2020)",
+          "location": "3–12，新英译及导言",
+          "verified": "已核专业书目题名、译者和页码",
+          "limits": "未取得现代英译全文；Olschki1950仅部分英译",
+          "language": "英语",
           "resource_type": "edition_bibliography",
           "checked_date_beijing": "2026-11-12"
         }

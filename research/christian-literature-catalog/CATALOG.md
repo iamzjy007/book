@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **149条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **153条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A07.md](RESOURCE-PATHS-A07.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A08.md](RESOURCE-PATHS-A08.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -721,7 +721,7 @@
 - **原题：** Acts of Timothy
 - **作者／归属：** 晚古代殉道与地方教会起源叙事；一些希腊本提356遗骸迁移，不能把此层当1世纪见证。常归5世纪，但本轮尚未核专门断代论证。
 - **年代：** 晚古代殉道与地方教会起源叙事；一些希腊本提356遗骸迁移，不能把此层当1世纪见证。常归5世纪，但本轮尚未核专门断代论证。
-- **语言：** 待进一步核实
+- **语言：** 希腊语及拉丁语；本轮补英译
 
 讲述提摩太在以弗所牧养及遇害，并穿插约翰整理福音书、被放逐和归来的传说。
 
@@ -733,10 +733,18 @@
 
 **中文线索：** 本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。
 
-**下一步：** 待进一步核实
+**下一步：** 保留已有调查，按Concannon校样先核文本，再取正式终版及Zamagni希腊校本；不重复建条。
 
 **来源：**
 - [NASSCAL（北美基督教外典研究学会）](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/) — 条目概要、手稿与版本书目
+- [Tony Burke作者网站](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 实际读取2016校样对应题头和译文起讫
+- [University of Illinois Library](https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2009-06/timoth0001acttim/) — 仅搜索返回馆方书目，直开403
+
+资源路径：[Cavan W.Concannon, Acts of Timothy, MNTA1 (2016) 校样](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 章395–405＝PDF445–455；译文402–405＝PDF452–455；实际读题头、402译文开头及405结尾；PDF标third corrections；作者网站校样，不冒充正式终版；只保存路径与页界
+
+资源路径：[Usener, Acta S.Timothei (1877)](https://brittlebooks.library.illinois.edu/brittlebooks_open/Books2009-06/timoth0001acttim/) — 馆方目录37,[1]页，希腊及拉丁；搜索返回大学馆方书目，web及urllib直开403；未取得该扫描或核实际校本文字
+
+[补充资源调查](workers/eclavis_a08.json)，补证 `ECCA-270-resource-supplement`。
 
 [完整调查记录](workers/dydi_b.json)，条目 `B15`。
 
@@ -3885,3 +3893,122 @@
 资源路径：[Wright, Apocryphal Acts2 (1871)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas/) — 叙利亚原文卷1 172–333；英译卷2 147–298；核专业书目卷次与页界；本轮未打开Wright扫描正文；与希腊系需区分
 
 [完整调查记录](workers/eclavis_a07.json)，条目 `ECCA-125`。
+
+## e-Clavis系统扫描续查A08
+
+### 多马及其行奇事之皮行传
+
+- **原题：** Acts of Thomas and His Wonderworking Skin / Acta Thomae abbreuiata
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语及阿拉伯、吉兹、科普特等古译
+
+多马遭剥皮后携皮行医治神迹的故事，虽旧名含abbreviata，不能视为长篇多马行传的简单节本。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest仅有074长篇多马行传，未匹配本独立皮肤故事；已读074首尾仍不能据同名认定覆盖。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-and-his-wonderworking-skin/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Lewis1904数字扫描](https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf) — 实际读取相关篇首、结尾及皮肤段；未通读全篇
+
+资源路径：[Agnes Smith Lewis, Mythological Acts (1904)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf) — Preaching of Thomas印80–93＝PDF132–145；随后印94另起殉道；实际读PDF文本层的题头、皮肤情节及印93结尾，印94新题；截图请求超时；仅阿拉伯本旧英译；不是2020希腊本新译；未整本下载
+
+资源路径：[Budge, Contendings2 (1901)](https://archive.org/download/contendingsofapo02budguoft/contendingsofapo02budguoft.pdf) — 吉兹本英译319–345（据e-Clavis）；前批已核metadata卷2及PDF头，本批核篇目页码；本篇扫描正文未读，与Lewis阿拉伯本有别
+
+[完整调查记录](workers/eclavis_a08.json)，条目 `ECCA-504`。
+
+### 多马行传尼刻塔节本
+
+- **原题：** Acts of Thomas (epitome), by Nicetas of Thessalonica / Acta Thomae auctore Niceta Thessalonicensi
+- **作者／归属：** 帖撒罗尼迦的尼刻塔
+- **年代：** 11世纪初
+- **语言：** 希腊语
+
+尼刻塔改写的多马节本；专业书目称仅序言和珍珠之歌已刊，整体界限尚未确定。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式074长篇多马行传包含灵魂之歌，不等于尼刻塔改写本；未见该节本独立单元。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-epitome-by-nicetas-of-thessalonica/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Poirier, L’Hymne de la Perle (1981；2021增订)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-epitome-by-nicetas-of-thessalonica/) — 节本序言290–291；珍珠之歌346–351（据e-Clavis）；实际核专业条目及已刊部分范围；不是全节本校本或全译；2021增订版页码需原书复核
+
+资源路径：[Sinai gr.516](https://www.loc.gov/item/00279380563-ms) — ff.173r–211r（据e-Clavis）；书目指向LOC手稿入口，直开403；未读图像；不将未刊整体标成已取得
+
+[完整调查记录](workers/eclavis_a08.json)，条目 `ECCA-297`。
+
+### 提多行传
+
+- **原题：** Acts of Titus / Acta Titi
+- **作者／归属：** 伪署律师西纳（Zenas）
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；拉丁短本
+
+伪署律师西纳，叙提多归信、与保罗同行及在克里特任主教的生平。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest的titus为正典提多书，不是本行传；限定题名未见独立正文。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-titus/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Tony Burke作者网站](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 实际读2016校样411起及415止
+
+资源路径：[Richard I.Pervo, Acts of Titus, MNTA1 (2016) 校样](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 全章406–415＝PDF456–465；译文411–415＝PDF461–465；实际读411译文开头、415第12章和Amen，下一PDF页另起作品；third corrections校样；不是正式终版；未复制现代译文
+
+资源路径：[Halkin, La légende crétoise de saint Tite, AnBoll79 (1961)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-titus/) — 241–256；另Chiesa2008拉丁短本51–54；已核专业版本书目与两种希腊Menology版本区分；校本原文未取得；Pervo2014仅1–7章不能替代全篇
+
+[完整调查记录](workers/eclavis_a08.json)，条目 `ECCA-702`。
+
+### 博士朝拜（古回鹘语残篇）
+
+- **原题：** Adoration of the Magi / Adoratione magorum
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 古回鹘语
+
+叙博士朝拜及耶稣所赠石块的奇事，残篇以火的意象连结宗教传统。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未匹配独立题名；其他童年福音或博士主题文本不自动覆盖此古回鹘残篇。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/adoration-of-the-magi/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Universität Wien Bibliotheca Sinica2.0](https://china-bibliographie.univie.ac.at/2012/12/08/muller-uigurica/) — 实际读取书目及Bodleian PDF链接
+
+资源路径：[Müller, Uigurica I (1908) 数字化书目入口](https://china-bibliographie.univie.ac.at/2012/12/08/muller-uigurica/) — 校本、转写及德译4–10，图版I–II（页界据e-Clavis）；实际打开维也纳大学书目，指向Bodleian PDF；仅数字化转介；无法由此确认链接PDF具体分册覆盖
+
+资源路径：[Bodleian Uigurica PDF](https://dbooks.bodleian.ox.ac.uk/books/PDFs/501373493.pdf) — 分册、页偏移待核；转介链接实际访问：web超时，urllib503；未读PDF，不标全文取得；须先核是否1908卷I
+
+资源路径：[Bremer-McCollum, Adoration of the Magi, MNTA2 (2020)](https://www.nasscal.com/e-clavis-christian-apocrypha/adoration-of-the-magi/) — 3–12，新英译及导言；已核专业书目题名、译者和页码；未取得现代英译全文；Olschki1950仅部分英译
+
+[完整调查记录](workers/eclavis_a08.json)，条目 `ECCA-230`。
