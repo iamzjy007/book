@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续53项；A字母尚未完成。",
+  "scope": "索引开头连续58项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -531,15 +531,65 @@
       "evidence": "manifest colossians是正典歌罗西书；未核到本博比奥片段独立单元。",
       "ordinal": 53,
       "batch": "2026-11-12-eclavis-a09"
+    },
+    {
+      "ecca": "818",
+      "title": "Apocalypse of Paul",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-paul/",
+      "decision": "already_in_reference_anthology",
+      "record_id": "eclavis_a10:ECCA-818",
+      "evidence": "正式manifest未见独立单元；中文总集第263章自54238行有简介及第1–51章正文，并有其后补充段，实际读起首及第51章；属于参考总集已有，非确定缺书。",
+      "ordinal": 54,
+      "batch": "2026-11-12-eclavis-a10"
+    },
+    {
+      "ecca": "850",
+      "title": "Apocalypse of Paul (Coptic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-paul-coptic/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a10:ECCA-850",
+      "evidence": "manifest未见本篇独立题名；中文总集263章简介明确区分诺斯底同名作，不能把该章当成本篇中文正文。",
+      "ordinal": 55,
+      "batch": "2026-11-12-eclavis-a10"
+    },
+    {
+      "ecca": "723",
+      "title": "Apocalypse of Peter",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-peter/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a10:ECCA-723",
+      "evidence": "正式manifest revelation-of-peter：084_彼得启示录5单元；实际读output首尾，声明以吉兹文本为本并存残缺号。中文总集257章另有正文，仍需核希腊残片覆盖。",
+      "ordinal": 56,
+      "batch": "2026-11-12-eclavis-a10"
+    },
+    {
+      "ecca": "782",
+      "title": "Apocalypse of Peter (Coptic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-peter-coptic/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a10:ECCA-782",
+      "evidence": "正式084_彼得启示录开头明确吉兹传统，不是NHC VII,3；未见本篇独立单元。",
+      "ordinal": 57,
+      "batch": "2026-11-12-eclavis-a10"
+    },
+    {
+      "ecca": "513",
+      "title": "Apocalypse of Thomas",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-thomas/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a10:ECCA-513",
+      "evidence": "正式manifest revelation-of-thomas：085_多马启示录5单元，实际读1860字首尾及七日征兆；中文参考264章另有文本。不能据已有简短正文认定长本也完整。",
+      "ordinal": 58,
+      "batch": "2026-11-12-eclavis-a10"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Apocryphal Epistle to the Colossians",
-    "last_completed_ecca": "991",
-    "next_title": "Apocalypse of Paul",
-    "next_ecca": "818",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-paul/",
+    "last_completed_title": "Apocalypse of Thomas",
+    "last_completed_ecca": "513",
+    "next_title": "Apocalypse of the Virgin",
+    "next_ecca": "900",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -551,7 +601,8 @@
       "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }
