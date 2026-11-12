@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **185条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **189条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-B03.md](RESOURCE-PATHS-B03.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-C01.md](RESOURCE-PATHS-C01.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -4995,3 +4995,118 @@ e-Clavis占位条目，内容与版本栏未填；暂不据同名作品填入概
 资源路径：[Calder / Allen, Sources and Analogues of Old English Poetry (1976)](https://www.nasscal.com/e-clavis-christian-apocrypha/breviary-of-the-apostles-breviarium-apostolorum/) — 印37–39；e-Clavis的1.TRANSLATION完整转载；实际读取从彼得到末项马提亚的全部短篇；网页明确声明full；这一译本据Mohlberg1960，不代表拉丁手稿全部异读；原文中历史地理和日期只是传统记载
 
 [完整调查记录](workers/eclavis_b03.json)，条目 `ECCA-914`。
+
+## e-Clavis系统扫描续查C01
+
+### 穆拉多利残篇
+
+- **原题：** Canon Muratori / Muratorian Fragment
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语传本；原作语言待研究
+
+评论基督教经书及其公共阅读地位的残篇书目。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见独立条；中文总集51682行仅在彼得启示录简介提及穆拉多利残本，不是本篇中文全文。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL索引](https://www.nasscal.com/e-clavis-christian-apocrypha/) — ECCA447题名未超链接；猜测作品页未可读，不虚构已读
+
+资源路径：[Canon Muratorianus，ANF5旧英译在线转写](https://www.earlychristianwritings.com/text/muratorian.html) — 网页I–4及注22–39；实际读取路加福音开头至末尾拒斥书籍段及书目注；存世文本本身首尾不全；网页完整呈现残篇，不等于失传原作全本；旧注归作者与年代判断不当现代共识
+
+资源路径：[Muratori原拉丁、校订拉丁及Theron英译对照](https://www.earlychristianwritings.com/text/muratorian-latin.html) — 网页标Theron Evidence of Tradition106–113；实际读三栏题头与数段对照；网页行分是转写者自定；校订拉丁不等于抄本原样；未逐字核原扫描
+
+[完整调查记录](workers/eclavis_c01.json)，条目 `ECCA-447`。
+
+### 六十正典书目
+
+- **原题：** Catalogue of the Sixty Canonical Books
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语
+
+区分正典与其他书籍的目录传统，全文范围待校本确认。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见正式manifest独立匹配；本书目与其所列各部外典分别记录。
+
+**下一步：** 核Zahn希腊目录与1991英译42–43，补实际全文路径；不据串项字段并入穆拉多利残篇。
+
+**来源：**
+- [NASSCAL](https://www.nasscal.com/catalogue-of-the-sixty-canonical-books/) — 实际读ECCA446、标题及版本栏目；标出模板串项
+
+资源路径：[NASSCAL ECCA446未从索引超链接的独立页](https://www.nasscal.com/catalogue-of-the-sixty-canonical-books/) — Schneemelcher/Wilson1991卷1印42–43；希腊文Zahn卷II.1 290–292据书目；实际打开此真实地址并读取ECCA及版本栏目；页面混留Canon Muratori、Muratorian Fragment及Gelasian Decree引用等异作字段，不采用其同义题名或归属；译文页尚未取得
+
+[完整调查记录](workers/eclavis_c01.json)，条目 `ECCA-446`。
+
+### 克莱蒙抄本书目／行数表
+
+- **原题：** Catalogue in Codex Claromontanus / Catalogus Claromontanus
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语书目，载希腊—拉丁保罗书信抄本
+
+列经书题名及行数的书目，作为正典接受史见证。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见manifest独立匹配；本条对象为插入书目，不是整部保罗书信抄本。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/codex-claromontanus/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Westcott1870 General Survey附录D的拉丁行数表转写](https://www.bible-researcher.com/claromontanus.html) — 自创世记到彼得启示录，拉丁题名、数值及英文释名；实际读全表首尾及来源声明；二次转写含罗马数字与十进制不一致，不据网页直接校订原文；编者对正典地位和抄本年代的解释不作为定论
+
+资源路径：[BNF grec107数字手稿](https://gallica.bnf.fr/ark:/12148/btv1b84683111) — ff467v–468v（据e-Clavis）；由专业条目直达Gallica，本轮返回403；未读原叶图像；不声称完成行数校对
+
+资源路径：[NASSCAL ECCA450书目](https://www.nasscal.com/e-clavis-christian-apocrypha/codex-claromontanus/) — Gallagher与Meade校译184–186，据页面简记（姓名页面误拼Mead）；实际打开，识别ECCA450与手稿定位；Other titles和引文混留Decretum Damasi/Gelasian Decree；不能视为这两作别名；相关旧译条目疑串项，暂不采用
+
+[完整调查记录](workers/eclavis_c01.json)，条目 `ECCA-450`。
+
+### 我们的大能观念
+
+- **原题：** Concept of Our Great Power
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语（NHC VI,4）
+
+借创造、洪水、救主与末世净化叙述大能及灵魂的去向。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见manifest独立匹配；中文总集本轮题名检索未定位，暂不判断全部中文出版情况。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL索引](https://www.nasscal.com/e-clavis-christian-apocrypha/) — ECCA650仅索引占位无链接；未读取不存在的作品页
+- [BCNH学术项目](https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/nh-vi-4-concept-de-notre-grande-puissance.pdf) — 实际读取两页法译首尾及NHC页码
+
+资源路径：[Michel Roberge法译，BCNH项目](https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/nh-vi-4-concept-de-notre-grande-puissance.pdf) — 2页PDF，保留NHC36–48页标识；实际读译者题头、开头和NHC48末尾题署，非书目摘要；没有包含原书全部导言校勘；文本仍有抄本缺文，只存路径
+
+资源路径：[网页题头Frederik Wisse英译](https://www.earlychristianwritings.com/text/greatpower.html) — 实际正文由great Power至unchangeable aeon；实际读取题头、正文首尾和来源脚注；HTML页面标题误为Allogenes，页脚误署Turner/Wintermute而正文题头及MLA署Wisse；正式使用需核印本，暂记录冲突，不混作异邦人篇
+
+[完整调查记录](workers/eclavis_c01.json)，条目 `ECCA-650`。

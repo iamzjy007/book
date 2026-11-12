@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续84项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续88项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -841,15 +841,55 @@
       "evidence": "manifest未见独立题名；使徒行传各篇或其他门徒名单不能自动视为本简编。",
       "ordinal": 84,
       "batch": "2026-11-12-eclavis-b03"
+    },
+    {
+      "ecca": "447",
+      "title": "Canon Muratori",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_c01:ECCA-447",
+      "evidence": "正式manifest未见独立条；中文总集51682行仅在彼得启示录简介提及穆拉多利残本，不是本篇中文全文。",
+      "ordinal": 85,
+      "batch": "2026-11-12-eclavis-c01"
+    },
+    {
+      "ecca": "446",
+      "title": "Catalogue of the Sixty Canonical Books",
+      "url": "https://www.nasscal.com/catalogue-of-the-sixty-canonical-books/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_c01:ECCA-446",
+      "evidence": "未见正式manifest独立匹配；本书目与其所列各部外典分别记录。",
+      "ordinal": 86,
+      "batch": "2026-11-12-eclavis-c01"
+    },
+    {
+      "ecca": "450",
+      "title": "Catalogue in Codex Claromontanus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/codex-claromontanus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_c01:ECCA-450",
+      "evidence": "未见manifest独立匹配；本条对象为插入书目，不是整部保罗书信抄本。",
+      "ordinal": 87,
+      "batch": "2026-11-12-eclavis-c01"
+    },
+    {
+      "ecca": "650",
+      "title": "Concept of Our Great Power",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_c01:ECCA-650",
+      "evidence": "未见manifest独立匹配；中文总集本轮题名检索未定位，暂不判断全部中文出版情况。",
+      "ordinal": 88,
+      "batch": "2026-11-12-eclavis-c01"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Breviary of the Apostles",
-    "last_completed_ecca": "914",
-    "next_title": "Canon Muratori",
-    "next_ecca": "447",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Concept of Our Great Power",
+    "last_completed_ecca": "650",
+    "next_title": "Conversion of Bartholomew",
+    "next_ecca": "470",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/conversion-of-bartholomew/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -868,7 +908,8 @@
       "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
