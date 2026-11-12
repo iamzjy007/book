@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续76项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续81项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -761,15 +761,65 @@
       "evidence": "正式manifest无J合集独立题名；中文总集205章46416–46450行已有Arundel404部分译文，实际读节选声明及68–74附近的接生婆段，不认整套J合集已收。",
       "ordinal": 76,
       "batch": "2026-11-12-eclavis-b01"
+    },
+    {
+      "ecca": "299",
+      "title": "Book of Mary’s Repose",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-marys-repose/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b02:ECCA-299",
+      "evidence": "未见manifest独立匹配；不可由其他圣母离世篇名推定版本覆盖。",
+      "ordinal": 77,
+      "batch": "2026-11-12-eclavis-b02"
+    },
+    {
+      "ecca": "148",
+      "title": "Book of the Covenant",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-covenant/",
+      "decision": "unresolved_identity_placeholder",
+      "record_id": "eclavis_b02:ECCA-148",
+      "evidence": "未见可靠同一性证据；covenant-of-the-ccc等题名不可直接认定本书。",
+      "ordinal": 78,
+      "batch": "2026-11-12-eclavis-b02"
+    },
+    {
+      "ecca": "950",
+      "title": "Book of the Rolls",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rolls/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b02:ECCA-950",
+      "evidence": "不等于已核希腊／吉兹语彼得启示录或科普特彼得启示录；库存独立覆盖待核。",
+      "ordinal": 79,
+      "batch": "2026-11-12-eclavis-b02"
+    },
+    {
+      "ecca": "761",
+      "title": "Book of the Rooster",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rooster/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b02:ECCA-761",
+      "evidence": "未见manifest独立匹配；巴多罗买复活记含公鸡情节不等于覆盖本书。",
+      "ordinal": 80,
+      "batch": "2026-11-12-eclavis-b02"
+    },
+    {
+      "ecca": "195",
+      "title": "Book of Bartholomew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-bartholomew/",
+      "decision": "existing_catalog_resource_supplement",
+      "record_id": "dydi_b:B12",
+      "evidence": "既有B12补科普特旧版转写和1913英译扫描路径，不重复建条。",
+      "ordinal": 81,
+      "batch": "2026-11-12-eclavis-b02"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Book of the Nativity of the Savior",
-    "last_completed_ecca": "674",
-    "next_title": "Book of Mary’s Repose",
-    "next_ecca": "299",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-marys-repose/",
+    "last_completed_title": "Book of Bartholomew",
+    "last_completed_ecca": "195",
+    "next_title": "Book of Thomas the Contender",
+    "next_ecca": "615",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-thomas-the-contender/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -786,7 +836,8 @@
       "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

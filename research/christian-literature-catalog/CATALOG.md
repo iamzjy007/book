@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **179条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **183条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-B01.md](RESOURCE-PATHS-B01.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-B02.md](RESOURCE-PATHS-B02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -648,7 +648,7 @@
 - **原题：** Book of Bartholomew / Book on the Resurrection of Christ
 - **作者／归属：** 科普特使徒回忆录，多修订本残存；NASSCAL列主要抄本9–11世纪，不能沿中文简介把这些现存抄本统一说成5–7世纪。原作精确年代待研究。
 - **年代：** 科普特使徒回忆录，多修订本残存；NASSCAL列主要抄本9–11世纪，不能沿中文简介把这些现存抄本统一说成5–7世纪。原作精确年代待研究。
-- **语言：** 待进一步核实
+- **语言：** 科普特语；法、英等现代译文
 
 科普特叙事描绘耶稣战胜死亡、天使颂歌、复活显现，以及多马使儿子复生。
 
@@ -660,10 +660,20 @@
 
 **中文线索：** 本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。
 
-**下一步：** 待进一步核实
+**下一步：** 保留中文总集仅简介的判断；按ABC修订本逐项对照Budge1913、Westerhoff1999及Bull/Tsakos2020，不将Questions当复活记全文。
 
 **来源：**
 - [NASSCAL（北美基督教外典研究学会）](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-bartholomew/) — 条目概要、手稿与版本书目
+- [Marcion项目，Budge原版转写](https://marcion.sourceforge.net/coptic-apocrypha/resurrection-of-jesus-christ.html) — 实际查看科普特原文页首与末尾
+- [Internet Archive／多伦多大学扫描本](https://archive.org/details/copticapocryphai00budguoft) — 实际打开项目页，未下载整书
+
+资源路径：[Budge1913 BL Or6804，科普特文Unicode转写](https://marcion.sourceforge.net/coptic-apocrypha/resurrection-of-jesus-christ.html) — 原印页1–48，页面保留叶码和缺损符号；实际核题头、Or6804、开头缺五叶说明及末尾47–48页；是旧版科普特文字转写，不是英译；有抄本缺损，未逐字校对原扫描或覆盖ABC全部修订本
+
+资源路径：[Budge, Coptic Apocrypha in the Dialect of Upper Egypt (1913)](https://archive.org/details/copticapocryphai00budguoft) — 英译Or6804印179–215；巴黎残篇216–230，据e-Clavis；实际打开扫描本项目页；书目页界经专业条目确认；未逐页读取英译，PDF物理页码待核；现代Bull/Tsakos2020综合译文87–126尚未取得
+
+资源路径：[同一Budge1913旧版PDF替代入口](https://coptic.org/language/Budge-Apocrypha.pdf) — 文件25608439字节（工具返回）；检索到原扫描题头；直开因文件过大失败；只保存路径，不声称本轮已读PDF全文或精确物理页码
+
+[补充资源调查](workers/eclavis_b02.json)，补证 `ECCA-195-resource-supplement`。
 
 [完整调查记录](workers/dydi_b.json)，条目 `B12`。
 
@@ -4795,3 +4805,123 @@ e-Clavis索引只有题名及ECCA970，尚不足以界定其文本边界与其�
 资源路径：[Elliott, Arundel404 (Liber de Infantia Salvatoris)](https://academic.oup.com/book/34752/chapter-abstract/296715337) — 1993图书章节；仅选译72–74章，p110据e-Clavis；搜索返回OUP章节身份，直开跳转失败；出版社章节记录，不是全文；James1927仅xx–xxi有英译73–74，不是全本英译
 
 [完整调查记录](workers/eclavis_b01.json)，条目 `ECCA-674`。
+
+## e-Clavis系统扫描续查B02
+
+### 马利亚安息书
+
+- **原题：** Book of Mary’s Repose / Liber Requiei
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 吉兹语及叙利亚语、格鲁吉亚语等见证
+
+马利亚离世、使徒聚集及天界之旅的传统。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见manifest独立匹配；不可由其他圣母离世篇名推定版本覆盖。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-marys-repose/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [雷根斯堡大学机构库](https://epub.uni-regensburg.de/53216/3/9780199210749.pdf) — 实际读附录A题头、末尾及省略说明
+
+资源路径：[Stephen J. Shoemaker, Ancient Traditions of the Virgin Mary’s Dormition and Assumption (2002)](https://epub.uni-regensburg.de/53216/3/9780199210749.pdf) — Appendix A，印页290–350＝PDF第307–367页；实际核附录开头、136节结尾及相邻附录界；脚注解释省去彼得保罗故事；有选择删节，不能标作吉兹语所有章节全译；并排比较格鲁吉亚、叙利亚见证。477页文件只读定位处，未下载整书
+
+[完整调查记录](workers/eclavis_b02.json)，条目 `ECCA-299`。
+
+### 盟约书（身份待核）
+
+- **原题：** Book of the Covenant
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 待以ECCA条目身份核实
+
+e-Clavis占位条目，内容与版本栏未填；暂不据同名作品填入概要。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** unresolved_identity_placeholder
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见可靠同一性证据；covenant-of-the-ccc等题名不可直接认定本书。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-covenant/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[NASSCAL ECCA148占位条目](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-covenant/) — 题名、ECCA编号、VIAF链接；实际打开，概要、版本和译文栏空白；未得正文及确定版本身份；保留未解决状态
+
+资源路径：[Lexham Bible Dictionary，同名埃塞俄比亚作品线索](https://biblia.com/books/lbdes/word/Book_of_the_Covenant,_Ethiopian) — 可读开头两段：Mäṣḥafä Kidan、复活至升天四十日教导；实际读取公开开头；其余页面显示权限提示；仅作同名比较线索；e-Clavis未给映射，不据此确认ECCA148等同本词条或叙利亚Testamentum Domini
+
+[完整调查记录](workers/eclavis_b02.json)，条目 `ECCA-148`。
+
+### 书卷书／阿拉伯彼得启示录
+
+- **原题：** Book of the Rolls / Kitāb al-Mağāll / Arabic Apocalypse of Peter
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 阿拉伯语及Garshuni转写
+
+归托彼得向克莱门特传授的启示叙事。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：不等于已核希腊／吉兹语彼得启示录或科普特彼得启示录；库存独立覆盖待核。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rolls/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Alphonse Mingana, Woodbrooke Studies III (1931)](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rolls/) — 校译总范围93–449；英译100–152、215–282、356–407（据e-Clavis）；核专业条目所列版本与遗漏范围；Mingana本未刊Mingana70抄本若干叶，不能当全部作品完整英译；本轮尚未读其正文
+
+资源路径：[加州大学默塞德分校，Arabic Bible研究书目](https://hurqalya.ucmerced.edu/node/75) — 列Mingana1931及Gibson1901 Apocrypha Arabica；实际检索并读取学术机构书目相关项；为检索入口，不表示取得校本或全文；条目中Gospel/Apocalypse Peter用语需按具体作品核对
+
+资源路径：[Vat.ar165数字手稿入口](https://digi.vatlib.it/view/MSS_Vat.ar.165) — ff1r–100v，据专业书目；实际打开DigiVatLib入口；后续访问超时；未读抄本图像；不同修订本，不能自动补齐Mingana遗漏
+
+[完整调查记录](workers/eclavis_b02.json)，条目 `ECCA-950`。
+
+### 公鸡书／鸡鸣书
+
+- **原题：** Book of the Rooster / Mäṣḥafä Dorho
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 吉兹语；阿拉伯语前本与其他语言公鸡传说须分别核实
+
+以复活的熟公鸡侦察犹大为显著情节的受难叙事。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见manifest独立匹配；巴多罗买复活记含公鸡情节不等于覆盖本书。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rooster/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [David Blocker作者上传稿](https://www.academia.edu/123597409/The_Ethiopic_Book_of_the_Cock_2024_An_English_translation) — 实际核2024日期、法译来源声明、1.01及10.14终点
+
+资源路径：[Piovanelli, Livre du Coq, Écrits apocryphes chrétiens II (2005)](https://wp.unil.ch/aelac/publications/pleiade/tome2/) — AELAC原目录135–203；e-Clavis列137–203；实际读取编者学会目录，卷号Pléiade515；目录入口，未得译文正文；e-Clavis列516与原目录515不同，页界可能含导言，保留差异
+
+资源路径：[David Blocker作者页，The Ethiopic Book of the Cock_2024_An English translation](https://independent.academia.edu/JohnWagenseil) — 作者上传列表的明确题名及摘要；实际读取作者页及该译文链接；作者页入口；实际论文直链另列并已读取首尾与底本声明。非正式出版或直接吉兹语校译。
+
+资源路径：[吉兹语版与旧节选书目](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rooster/) — Chaîne1905 276–281为残篇；Masqal1950–1951；James1924 p150为摘要；实际核版本栏与译文栏；James摘要及其他语言公鸡传说不能代替本书完整译文
+
+资源路径：[David Blocker, Annotated English Translation of the Ethiopic Book of the Cock (2024-09-05)](https://www.academia.edu/123597409/The_Ethiopic_Book_of_the_Cock_2024_An_English_translation) — 在线可读转写，1.01起至10.14及末颂；实际读译者前言、开头及入葬结尾；明确从Piovanelli法译转译，原法译正文153–203；作者自行发布转译；未逐节校对吉兹语或法语，不含Piovanelli导言、校勘及原注释；表格OCR夹有乱码和重复
+
+[完整调查记录](workers/eclavis_b02.json)，条目 `ECCA-761`。

@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 180,
-    "catalogue_records_after_one_merge": 179,
+    "worker_records": 184,
+    "catalogue_records_after_one_merge": 183,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 283
+    "unique_source_urls": 291
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -100,6 +100,10 @@
     {
       "path": "workers/eclavis_b01.json",
       "sha256": "585b9232d7b337895c2a7a2c7340462f3dc9167ae31750f0736e90c9a8d419b9"
+    },
+    {
+      "path": "workers/eclavis_b02.json",
+      "sha256": "6b636646d2bd6d47709bcfc5de6720514c64b21f19f05a09340da0b503ba4331"
     }
   ],
   "records": [
@@ -1209,7 +1213,7 @@
       "original_title": "Book of Bartholomew / Book on the Resurrection of Christ",
       "author_or_attribution": "科普特使徒回忆录，多修订本残存；NASSCAL列主要抄本9–11世纪，不能沿中文简介把这些现存抄本统一说成5–7世纪。原作精确年代待研究。",
       "date": "科普特使徒回忆录，多修订本残存；NASSCAL列主要抄本9–11世纪，不能沿中文简介把这些现存抄本统一说成5–7世纪。原作精确年代待研究。",
-      "language": "待进一步核实",
+      "language": "科普特语；法、英等现代译文",
       "synopsis": "科普特叙事描绘耶稣战胜死亡、天使颂歌、复活显现，以及多马使儿子复生。",
       "value": {
         "historical": "研究埃及复活礼仪、天使颂歌、圣餐与多马故事的接受史。",
@@ -1220,18 +1224,72 @@
       "repository_evidence": "总集第217章47322附近介绍本书，正文随即转入Questions；54228再列卷名，不能据此证明全译。两manifest无独立卷。",
       "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
       "priority": "与Questions分立；先核中文完整出版卷与各科普特修订本。",
-      "next": "待进一步核实",
+      "next": "保留中文总集仅简介的判断；按ABC修订本逐项对照Budge1913、Westerhoff1999及Bull/Tsakos2020，不将Questions当复活记全文。",
       "sources": [
         {
           "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-bartholomew/",
           "institution": "NASSCAL（北美基督教外典研究学会）",
           "read_scope": "条目概要、手稿与版本书目",
           "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://marcion.sourceforge.net/coptic-apocrypha/resurrection-of-jesus-christ.html",
+          "institution": "Marcion项目，Budge原版转写",
+          "read_scope": "实际查看科普特原文页首与末尾",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/details/copticapocryphai00budguoft",
+          "institution": "Internet Archive／多伦多大学扫描本",
+          "read_scope": "实际打开项目页，未下载整书",
+          "accessed": "2026-11-12"
         }
       ],
       "worker_record": "workers/dydi_b.json",
       "worker_entry_id": "B12",
-      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "resources": [
+        {
+          "url": "https://marcion.sourceforge.net/coptic-apocrypha/resurrection-of-jesus-christ.html",
+          "edition": "Budge1913 BL Or6804，科普特文Unicode转写",
+          "location": "原印页1–48，页面保留叶码和缺损符号",
+          "verified": "实际核题头、Or6804、开头缺五叶说明及末尾47–48页",
+          "limits": "是旧版科普特文字转写，不是英译；有抄本缺损，未逐字校对原扫描或覆盖ABC全部修订本",
+          "language": "科普特语",
+          "resource_type": "edition_transcription",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/details/copticapocryphai00budguoft",
+          "edition": "Budge, Coptic Apocrypha in the Dialect of Upper Egypt (1913)",
+          "location": "英译Or6804印179–215；巴黎残篇216–230，据e-Clavis",
+          "verified": "实际打开扫描本项目页；书目页界经专业条目确认",
+          "limits": "未逐页读取英译，PDF物理页码待核；现代Bull/Tsakos2020综合译文87–126尚未取得",
+          "language": "英语／科普特语",
+          "resource_type": "digitized_edition_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://coptic.org/language/Budge-Apocrypha.pdf",
+          "edition": "同一Budge1913旧版PDF替代入口",
+          "location": "文件25608439字节（工具返回）",
+          "verified": "检索到原扫描题头；直开因文件过大失败",
+          "limits": "只保存路径，不声称本轮已读PDF全文或精确物理页码",
+          "language": "英语／科普特语",
+          "resource_type": "oversize_pdf_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "clavis": {
+        "ECCA": "195",
+        "CANT": "80"
+      },
+      "resource_supplements": [
+        {
+          "worker_record": "workers/eclavis_b02.json",
+          "id": "ECCA-195-resource-supplement"
+        }
+      ]
     },
     {
       "id": "dydi_b:B13",
@@ -10107,6 +10165,283 @@
           "limits": "出版社章节记录，不是全文；James1927仅xx–xxi有英译73–74，不是全本英译",
           "language": "英语",
           "resource_type": "publisher_chapter_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_b02:ECCA-299",
+      "area": "e-Clavis系统扫描续查B02",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "马利亚安息书",
+      "original_title": "Book of Mary’s Repose / Liber Requiei",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "吉兹语及叙利亚语、格鲁吉亚语等见证",
+      "synopsis": "马利亚离世、使徒聚集及天界之旅的传统。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "未见manifest独立匹配；不可由其他圣母离世篇名推定版本覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未见manifest独立匹配；不可由其他圣母离世篇名推定版本覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-marys-repose/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://epub.uni-regensburg.de/53216/3/9780199210749.pdf",
+          "institution": "雷根斯堡大学机构库",
+          "read_scope": "实际读附录A题头、末尾及省略说明",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_b02.json",
+      "worker_entry_id": "ECCA-299",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "299",
+        "CANT": "120；154；171；172"
+      },
+      "resources": [
+        {
+          "url": "https://epub.uni-regensburg.de/53216/3/9780199210749.pdf",
+          "edition": "Stephen J. Shoemaker, Ancient Traditions of the Virgin Mary’s Dormition and Assumption (2002)",
+          "location": "Appendix A，印页290–350＝PDF第307–367页",
+          "verified": "实际核附录开头、136节结尾及相邻附录界；脚注解释省去彼得保罗故事",
+          "limits": "有选择删节，不能标作吉兹语所有章节全译；并排比较格鲁吉亚、叙利亚见证。477页文件只读定位处，未下载整书",
+          "language": "英语",
+          "resource_type": "institution_hosted_partial_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_b02:ECCA-148",
+      "area": "e-Clavis系统扫描续查B02",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "盟约书（身份待核）",
+      "original_title": "Book of the Covenant",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "待以ECCA条目身份核实",
+      "synopsis": "e-Clavis占位条目，内容与版本栏未填；暂不据同名作品填入概要。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "unresolved_identity_placeholder",
+      "repository_evidence": "未见可靠同一性证据；covenant-of-the-ccc等题名不可直接认定本书。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未见可靠同一性证据；covenant-of-the-ccc等题名不可直接认定本书。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-covenant/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_b02.json",
+      "worker_entry_id": "ECCA-148",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "148"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-covenant/",
+          "edition": "NASSCAL ECCA148占位条目",
+          "location": "题名、ECCA编号、VIAF链接",
+          "verified": "实际打开，概要、版本和译文栏空白",
+          "limits": "未得正文及确定版本身份；保留未解决状态",
+          "language": "待核",
+          "resource_type": "unresolved_placeholder",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://biblia.com/books/lbdes/word/Book_of_the_Covenant,_Ethiopian",
+          "edition": "Lexham Bible Dictionary，同名埃塞俄比亚作品线索",
+          "location": "可读开头两段：Mäṣḥafä Kidan、复活至升天四十日教导",
+          "verified": "实际读取公开开头；其余页面显示权限提示",
+          "limits": "仅作同名比较线索；e-Clavis未给映射，不据此确认ECCA148等同本词条或叙利亚Testamentum Domini",
+          "language": "英语",
+          "resource_type": "unassigned_comparison_resource",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_b02:ECCA-950",
+      "area": "e-Clavis系统扫描续查B02",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "书卷书／阿拉伯彼得启示录",
+      "original_title": "Book of the Rolls / Kitāb al-Mağāll / Arabic Apocalypse of Peter",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "阿拉伯语及Garshuni转写",
+      "synopsis": "归托彼得向克莱门特传授的启示叙事。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "不等于已核希腊／吉兹语彼得启示录或科普特彼得启示录；库存独立覆盖待核。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "不等于已核希腊／吉兹语彼得启示录或科普特彼得启示录；库存独立覆盖待核。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rolls/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_b02.json",
+      "worker_entry_id": "ECCA-950",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "950"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rolls/",
+          "edition": "Alphonse Mingana, Woodbrooke Studies III (1931)",
+          "location": "校译总范围93–449；英译100–152、215–282、356–407（据e-Clavis）",
+          "verified": "核专业条目所列版本与遗漏范围",
+          "limits": "Mingana本未刊Mingana70抄本若干叶，不能当全部作品完整英译；本轮尚未读其正文",
+          "language": "英语／Garshuni",
+          "resource_type": "partial_edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://hurqalya.ucmerced.edu/node/75",
+          "edition": "加州大学默塞德分校，Arabic Bible研究书目",
+          "location": "列Mingana1931及Gibson1901 Apocrypha Arabica",
+          "verified": "实际检索并读取学术机构书目相关项",
+          "limits": "为检索入口，不表示取得校本或全文；条目中Gospel/Apocalypse Peter用语需按具体作品核对",
+          "language": "英语",
+          "resource_type": "institution_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://digi.vatlib.it/view/MSS_Vat.ar.165",
+          "edition": "Vat.ar165数字手稿入口",
+          "location": "ff1r–100v，据专业书目",
+          "verified": "实际打开DigiVatLib入口；后续访问超时",
+          "limits": "未读抄本图像；不同修订本，不能自动补齐Mingana遗漏",
+          "language": "阿拉伯语",
+          "resource_type": "manuscript_viewer_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_b02:ECCA-761",
+      "area": "e-Clavis系统扫描续查B02",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "公鸡书／鸡鸣书",
+      "original_title": "Book of the Rooster / Mäṣḥafä Dorho",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "吉兹语；阿拉伯语前本与其他语言公鸡传说须分别核实",
+      "synopsis": "以复活的熟公鸡侦察犹大为显著情节的受难叙事。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "未见manifest独立匹配；巴多罗买复活记含公鸡情节不等于覆盖本书。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未见manifest独立匹配；巴多罗买复活记含公鸡情节不等于覆盖本书。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rooster/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.academia.edu/123597409/The_Ethiopic_Book_of_the_Cock_2024_An_English_translation",
+          "institution": "David Blocker作者上传稿",
+          "read_scope": "实际核2024日期、法译来源声明、1.01及10.14终点",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_b02.json",
+      "worker_entry_id": "ECCA-761",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "761"
+      },
+      "resources": [
+        {
+          "url": "https://wp.unil.ch/aelac/publications/pleiade/tome2/",
+          "edition": "Piovanelli, Livre du Coq, Écrits apocryphes chrétiens II (2005)",
+          "location": "AELAC原目录135–203；e-Clavis列137–203",
+          "verified": "实际读取编者学会目录，卷号Pléiade515",
+          "limits": "目录入口，未得译文正文；e-Clavis列516与原目录515不同，页界可能含导言，保留差异",
+          "language": "法语",
+          "resource_type": "association_table_of_contents",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://independent.academia.edu/JohnWagenseil",
+          "edition": "David Blocker作者页，The Ethiopic Book of the Cock_2024_An English translation",
+          "location": "作者上传列表的明确题名及摘要",
+          "verified": "实际读取作者页及该译文链接",
+          "limits": "作者页入口；实际论文直链另列并已读取首尾与底本声明。非正式出版或直接吉兹语校译。",
+          "language": "英语",
+          "resource_type": "author_translation_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rooster/",
+          "edition": "吉兹语版与旧节选书目",
+          "location": "Chaîne1905 276–281为残篇；Masqal1950–1951；James1924 p150为摘要",
+          "verified": "实际核版本栏与译文栏",
+          "limits": "James摘要及其他语言公鸡传说不能代替本书完整译文",
+          "language": "吉兹语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.academia.edu/123597409/The_Ethiopic_Book_of_the_Cock_2024_An_English_translation",
+          "edition": "David Blocker, Annotated English Translation of the Ethiopic Book of the Cock (2024-09-05)",
+          "location": "在线可读转写，1.01起至10.14及末颂",
+          "verified": "实际读译者前言、开头及入葬结尾；明确从Piovanelli法译转译，原法译正文153–203",
+          "limits": "作者自行发布转译；未逐节校对吉兹语或法语，不含Piovanelli导言、校勘及原注释；表格OCR夹有乱码和重复",
+          "language": "英语",
+          "resource_type": "author_posted_translation",
           "checked_date_beijing": "2026-11-12"
         }
       ]
