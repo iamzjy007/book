@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Discovery of John the Baptist’s Head",
-        "last_completed_ecca": "613",
-        "next_title": "Discovery of Bartholomew’s Relics",
-        "next_ecca": "988",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-bartholomews-relics/",
+        "last_completed_title": "Dormition of Luke",
+        "last_completed_ecca": "883",
+        "next_title": "Dormition and Assumption of the Virgin by Peter and John",
+        "next_ecca": "126",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-and-assumption-of-the-virgin-by-peter-and-john/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -91,10 +91,11 @@
           "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Discovery of Bartholomew’s Relics ECCA988",
+      "next": "继续 Dormition and Assumption of the Virgin by Peter and John ECCA126",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -117,7 +118,8 @@
         "2026-11-12-eclavis-c02",
         "2026-11-12-eclavis-d01",
         "2026-11-12-eclavis-d02",
-        "2026-11-12-eclavis-d03"
+        "2026-11-12-eclavis-d03",
+        "2026-11-12-eclavis-d04"
       ],
       "last_batch_records_scanned": 5,
       "assigned_worker": "current_session_single_worker"

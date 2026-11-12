@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 207,
-    "catalogue_records_after_one_merge": 206,
+    "worker_records": 212,
+    "catalogue_records_after_one_merge": 211,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 316
+    "unique_source_urls": 320
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -128,6 +128,10 @@
     {
       "path": "workers/eclavis_d03.json",
       "sha256": "c3bbf8492f54ea0a0e0b47b8d1af0338cdad985a53f6f5539ac6eeca99193d24"
+    },
+    {
+      "path": "workers/eclavis_d04.json",
+      "sha256": "5d788a08bfda5ba69102dce070393bec640caa5811e162429303ee569f64fa59"
     }
   ],
   "records": [
@@ -12016,6 +12020,365 @@
           "verified": "实际读阿拉伯、科普特、希腊、拉丁与叙利亚见证目录",
           "limits": "栏号不能当页号；不同BHG/BHO文本保留区别；叙利亚语尚未刊行的说法仅按条目记录，未作穷尽检验",
           "language": "多语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d04:ECCA-988",
+      "area": "e-Clavis系统扫描续查D04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "发现巴多罗买的遗物",
+      "original_title": "Discovery of Bartholomew’s Relics / Inuentio Bartholomaei",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "亚美尼亚语；近代拉丁、法、意译",
+      "synopsis": "Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；不是已有巴多罗买书ECCA195或其出生／归信／殉道篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；不是已有巴多罗买书ECCA195或其出生／归信／殉道篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-bartholomews-relics/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d04.json",
+      "worker_entry_id": "ECCA-988",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "988",
+        "CANT": "263",
+        "BHO": "159"
+      },
+      "resources": [
+        {
+          "url": "https://www.brepols.net/products/IS-9782503540375-1",
+          "edition": "Valentina Calzolari, Les Apôtres Thaddée et Barthélemy (2011)",
+          "location": "法译151–156据e-Clavis；ISBN9782503540375，257页",
+          "verified": "实际打开出版社确认含Maroutha发现遗物篇及法／亚美尼亚语书目信息",
+          "limits": "出版／电子版获取路径，未取得本篇正文；不把简介标全文",
+          "language": "法语",
+          "resource_type": "publisher_book_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://iris.unipa.it/retrieve/e3ad8919-014b-da0e-e053-3705fe0a2b96/GMoesingerAgiografoeApp.pdf",
+          "edition": "Giorgio Di Maria编译Moesinger意译及拉丁重排本 (2012)，Palermo机构节选",
+          "location": "12页节选目录：意译Invenzione53、下篇Traslazione55；重排拉丁Inventio112、下篇114",
+          "verified": "实际读题名、原书信息、目录和编者来源对照表",
+          "limits": "只含前置材料／论文节选，不含53或112正文；1877原书拉丁34–36的页码不能套2012重排；发现与迁移另篇有边界",
+          "language": "意大利语／拉丁语",
+          "resource_type": "institution_excerpt_contents",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-bartholomews-relics/",
+          "edition": "Aucher / Tchérakian / Moesinger版本书目",
+          "location": "Aucher卷9 447–449；Tchérakian1904 365–368；Moesinger1877 34–36",
+          "verified": "实际读手稿与三种版本定位",
+          "limits": "原版正文扫描尚未核到；不从意译节选反推已取得1877拉丁全文",
+          "language": "亚美尼亚语／拉丁语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d04:ECCA-554",
+      "area": "e-Clavis系统扫描续查D04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "发现保罗被砍下的头颅",
+      "original_title": "Discovery of Paul’s Severed Head",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语、拉丁语、格鲁吉亚语及后续改写",
+      "synopsis": "牧人发现头颅、Sixtus以头颅与身体重新连接验证身份的遗物传说。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；不得因已有保罗行传或殉道篇便认定含这个后期故事。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；不得因已有保罗行传或殉道篇便认定含这个后期故事。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "先保留蜜蜂书XLVIII实际可读短篇；核Doole各见证和条目99标号来源，再补拉丁／格鲁吉亚材料。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-pauls-severed-head/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d04.json",
+      "worker_entry_id": "ECCA-554",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "554"
+      },
+      "resources": [
+        {
+          "url": "https://sacred-texts.com/chr/bb/bb48.htm",
+          "edition": "E. A. Wallis Budge, Book of the Bee英译 (1886)在线转写",
+          "location": "实际是Chapter XLVIII，印107–108，保罗段中头颅故事",
+          "verified": "实际读牧人发现、头顶火焰、Sixtus整夜祷告与头颈复合段及后续死亡纪年",
+          "limits": "e-Clavis多处写Bk.Bee99，与实际XLVIII不符，暂按页面和印页定位；只是蜜蜂书这一见证，不是其他语种各版本全篇",
+          "language": "英语",
+          "resource_type": "online_translation_embedded_narrative",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-pauls-severed-head/",
+          "edition": "Doole2019及Eastman2015版本书目",
+          "location": "Doole论文87–106，各见证译文92、94–101；Eastman拉丁362–365，叙利亚相关203–217",
+          "verified": "实际读专业条目，注意同页对蜜蜂书页段及Eastman范围写法不同",
+          "limits": "现代版本正文未取得；不将目录宽范围直接当本篇准确起止；蜜蜂书99标号待对手稿／论文核解释",
+          "language": "英语／原文多语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d04:ECCA-949",
+      "area": "e-Clavis系统扫描续查D04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "彼得与尼禄辩论",
+      "original_title": "Disputation of Peter and Nero",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语，字母离合对话诗",
+      "synopsis": "尼禄与士兵、彼得的对话诗，结于彼得请求倒钉十字架及见证者合唱。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；与彼得行传有关系，不能凭倒钉结局当同篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；与彼得行传有关系，不能凭倒钉结局当同篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/disputation-of-peter-and-nero/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d04.json",
+      "worker_entry_id": "ECCA-949",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "949",
+        "BHO": "937"
+      },
+      "resources": [
+        {
+          "url": "https://syri.ac/narsai",
+          "edition": "Mingana, Narsai doctoris syri homiliae et carmina II (1905)专业数字导航",
+          "location": "Soghitha7: On Nero and the Workers and Peter，II391–396",
+          "verified": "实际读syri.ac题名、首句及直达扫描链接",
+          "limits": "原文书页图像另核；合集题名Narsai不等于本诗作者已经确定；现代英译仍待取得",
+          "language": "叙利亚语",
+          "resource_type": "scholarly_digitization_locator",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/disputation-of-peter-and-nero/",
+          "edition": "Walters2023 / Caraglio2020及Bedjan版本书目",
+          "location": "MNTA3章424–434；Caraglio论文英译17–26；BedjanII680–686",
+          "verified": "实际读专业条目概要和版本差异",
+          "limits": "仅书目；Caraglio底本Baghdad6，Walters据Bedjan，不能混成同一版本全文；精确论文题名检索尚无独立开放正文",
+          "language": "英语／叙利亚语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/details/MinganaNarsaiVol2/MinganaNarsai_vol2?view=theater",
+          "edition": "Mingana1905卷2数字扫描入口",
+          "location": "印391–396，据syri.ac定位",
+          "verified": "实际从专业导航点击打开，确认1905及扫描对象MinganaNarsaiVol2",
+          "limits": "当前文本工具显示需JavaScript的阅览器，未读391–396图像；Archive的Latin语言标签不代表本诗是拉丁语",
+          "language": "叙利亚语",
+          "resource_type": "digitized_edition_viewer",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.vhmml.org/readingRoom/view/122602",
+          "edition": "HMML ZFRN00055目录／数字化入口",
+          "location": "Mardin Dayr Zafaran55 页96–116据e-Clavis",
+          "verified": "实际点击专业条目到HMML页面，原转介尾部多一个句点，另存规范无句点地址",
+          "limits": "1971手抄Mingana版，不能当1719 Baghdad6的原图；本轮未读取图像正文",
+          "language": "叙利亚语",
+          "resource_type": "manuscript_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d04:ECCA-442",
+      "area": "e-Clavis系统扫描续查D04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "阿代教训（阿代使徒的教导）",
+      "original_title": "Doctrine of Addai / Doctrina Addai",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语及亚美尼亚、埃塞俄比亚等版本",
+      "synopsis": "围绕阿布加尔与耶稣通信、阿代在埃德萨传教以及继任者教导的建教叙事。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；中文总集阿代／阿达伊等检索未定位同名正文；已有达太行传ECCA642不直接覆盖本叙利亚全篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；中文总集阿代／阿达伊等检索未定位同名正文；已有达太行传ECCA642不直接覆盖本叙利亚全篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以Phillips1876全文为可读基础，与Cureton残本及希腊达太行传分开；现代Lollar译本保留出版社路径。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d04.json",
+      "worker_entry_id": "ECCA-442",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "442",
+        "CANT": "89"
+      },
+      "resources": [
+        {
+          "url": "https://www.tertullian.org/fathers/addai_2_text.htm",
+          "edition": "George Phillips, The Doctrine of Addai (1876)英译转写",
+          "location": "印1–50，网页保留页标及末THE END，脚注另置末尾",
+          "verified": "实际读开头Abgar遣使、后部阿代死亡与继任者、末Labubna/Hannan记录声明及结题",
+          "limits": "核首尾和结构，未逐字校印本；不等同Cureton1864／ANF的残缺底本译文；英译转写不是叙利亚校文本身",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tertullian.org/fathers/addai_1_intro.htm",
+          "edition": "Phillips1876原序言",
+          "location": "编辑／译者、St Petersburg完整抄本与British Museum残本的说明",
+          "verified": "实际读题名页与preface，确认本译以较完整彼得堡抄本刊行",
+          "limits": "序言仅反映1876所知，不把当时only known断语照搬为现今全部抄本结论",
+          "language": "英语",
+          "resource_type": "translator_editor_preface",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://wipfandstock.com/9781666752069/the-doctrine-of-addai-and-the-letters-of-jesus-and-abgar/",
+          "edition": "Jacob A. Lollar, The Doctrine of Addai and the Letters of Jesus and Abgar (2023)",
+          "location": "出版社162页，纸本ISBN9781666752069；电子版9781666752083",
+          "verified": "实际读出版社题名、日期2023-11-10及含相关文献的新译说明",
+          "limits": "出版社购买／电子版读取路径，未取得现代译文正文；不把介绍或赞语当可读全本",
+          "language": "英语",
+          "resource_type": "publisher_book_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d04:ECCA-883",
+      "area": "e-Clavis系统扫描续查D04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "路加安息",
+      "original_title": "Dormition of Luke",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语，数种传记与纪念日短文",
+      "synopsis": "路加传教、写作、死亡及遗物迁移的不同圣徒传记见证。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；不以路加福音、使徒行传或路加殉道其他传承代替。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；不以路加福音、使徒行传或路加殉道其他传承代替。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-luke/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d04.json",
+      "worker_entry_id": "ECCA-883",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "883"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-luke/",
+          "edition": "NASSCAL所载BasilII纪念日短文暂译",
+          "location": "3.1.1.4 Menologion of BasilII (18 October)，两段短译；PG117栏113–114",
+          "verified": "实际读完整短译，末为安息、Thebes埋葬与迁至Constantinople圣使徒教堂",
+          "limits": "网页注明Preliminary translation且无独立署名；只涵盖BasilII这一短见证，不是BHG992长篇或990y/990z全部版本的全文",
+          "language": "英语",
+          "resource_type": "scholarly_preliminary_translation_short_witness",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1613",
+          "edition": "BAV Menologion of BasilII手稿数字化入口",
+          "location": "手稿页120，据专业条目",
+          "verified": "实际点击BAV入口超时；Pinakes68244也403",
+          "limits": "未读页120图像；手稿页120不是已核定扫描物理序号；不以图像不可达否定译文路径",
+          "language": "希腊语",
+          "resource_type": "inaccessible_manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-luke/",
+          "edition": "Meyer1890及希腊抄本书目",
+          "location": "Meyer423–434中校文428–431；BHG992／992b／992c及990y／990z分列",
+          "verified": "实际读专业条目各组手稿和版次定位",
+          "limits": "只取得版本目录，Meyer对应原页未取得；不将同条目列出各篇全归同一版本",
+          "language": "希腊语",
           "resource_type": "edition_bibliography",
           "checked_date_beijing": "2026-11-12"
         }

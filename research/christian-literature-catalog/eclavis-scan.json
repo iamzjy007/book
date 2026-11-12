@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续105项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续110项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1051,15 +1051,65 @@
       "evidence": "manifest未见独立匹配；与约翰出生及斩首叙事分别调查，各语言相关文本不预设逐段等同。",
       "ordinal": 105,
       "batch": "2026-11-12-eclavis-d03"
+    },
+    {
+      "ecca": "988",
+      "title": "Discovery of Bartholomew’s Relics",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-bartholomews-relics/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d04:ECCA-988",
+      "evidence": "manifest未见独立匹配；不是已有巴多罗买书ECCA195或其出生／归信／殉道篇。",
+      "ordinal": 106,
+      "batch": "2026-11-12-eclavis-d04"
+    },
+    {
+      "ecca": "554",
+      "title": "Discovery of Paul’s Severed Head",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-pauls-severed-head/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d04:ECCA-554",
+      "evidence": "manifest未见独立匹配；不得因已有保罗行传或殉道篇便认定含这个后期故事。",
+      "ordinal": 107,
+      "batch": "2026-11-12-eclavis-d04"
+    },
+    {
+      "ecca": "949",
+      "title": "Disputation of Peter and Nero",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/disputation-of-peter-and-nero/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d04:ECCA-949",
+      "evidence": "manifest未见独立匹配；与彼得行传有关系，不能凭倒钉结局当同篇。",
+      "ordinal": 108,
+      "batch": "2026-11-12-eclavis-d04"
+    },
+    {
+      "ecca": "442",
+      "title": "Doctrine of Addai",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d04:ECCA-442",
+      "evidence": "manifest未见独立匹配；中文总集阿代／阿达伊等检索未定位同名正文；已有达太行传ECCA642不直接覆盖本叙利亚全篇。",
+      "ordinal": 109,
+      "batch": "2026-11-12-eclavis-d04"
+    },
+    {
+      "ecca": "883",
+      "title": "Dormition of Luke",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-luke/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d04:ECCA-883",
+      "evidence": "manifest未见独立匹配；不以路加福音、使徒行传或路加殉道其他传承代替。",
+      "ordinal": 110,
+      "batch": "2026-11-12-eclavis-d04"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Discovery of John the Baptist’s Head",
-    "last_completed_ecca": "613",
-    "next_title": "Discovery of Bartholomew’s Relics",
-    "next_ecca": "988",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-bartholomews-relics/",
+    "last_completed_title": "Dormition of Luke",
+    "last_completed_ecca": "883",
+    "next_title": "Dormition and Assumption of the Virgin by Peter and John",
+    "next_ecca": "126",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-and-assumption-of-the-virgin-by-peter-and-john/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1083,7 +1133,8 @@
       "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
