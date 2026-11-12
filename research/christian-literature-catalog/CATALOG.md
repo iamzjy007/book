@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **220条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **222条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-D06.md](RESOURCE-PATHS-D06.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-D07.md](RESOURCE-PATHS-D07.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -6027,3 +6027,67 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Wilmart1933及古英语版本书目](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-transitus-latin-w/) — Wilmart校文323–357（机构引325–357）；Morris Blickling Homilies1874–1880 136–159；实际读原文、古英语两个分支及现代英译书目；古英语是W与伪美利托15–17的组合改写，不能当纯W拉丁本英译；Blickling英译实际未取得
 
 [完整调查记录](workers/eclavis_d06.json)，条目 `ECCA-701`。
+
+## e-Clavis系统扫描续查D07
+
+### 尼禄之梦
+
+- **原题：** Dream of Nero / Somnium Neronis
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语，多种长短尾篇
+
+附于尼哥底母福音／彼拉多致革老丢书之后的梦境、耶路撒冷毁灭及经文证言组合。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：实际检查正式064彼拉多行传末尾：到彼拉多致革老丢书第9节后即译注，没有Claudius向Nero读信的续篇；中文总集同名检索亦未定位。
+
+**下一步：** 继续取得Dobschütz校文12–27，核原刊1914/卷合订1915日期差异并分长短见证；正式064未含本续篇的证据已明确。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dream-of-nero/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[E. von Dobschütz, A Collection of Old Latin Bible Quotations: Somnium Neronis，JTS16](https://biblicalstudies.org.uk/pdf/jts/016_001.pdf) — 论文1–27；校文本12–27据UZH所载TLL书目；搜索索引显示原首页为OCTOBER1914且首段称15见证；实际打开402未读正文；NASSCAL和OUP网页作1915，但JSTOR16/61为October1914，原页索引亦1914；日期保留冲突，不把索引摘录算PDF全文已取得
+
+资源路径：[JTS原刊目录，16卷61期](https://www.jstor.org/stable/i23964369) — October1914，论文1–27，对象23947918；检索到期刊原目录题名、作者及日期；文章当前直开不可达；保存原刊路径，尚无核读的现代全译
+
+资源路径：[OUP期刊目录及DOI路径](https://academic.oup.com/jts/issue/os-XVI/10) — 网页October1915／os-XVI.10.1，1–27；实际检索到出版方目录，与JSTOR和扫描首页索引日期不一致；异常卷期／日期不得无条件照抄；DOI直开失败；作品还存在只含梦境和更长经文证言等不同尾段，不称所有见证同长
+
+[完整调查记录](workers/eclavis_d07.json)，条目 `ECCA-163`。
+
+### 十字架之梦
+
+- **原题：** Dream of the Rood
+- **作者／归属：** 匿名；旧Cynewulf归属不作定论
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 古英语；Ruthwell卢恩铭文及Brussels短铭文相关
+
+梦者聆听拟人化十字架讲述受难并转向末日盼望的诗篇。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；中文总集十字架之梦等同名检索未定位；不与圣十字木传奇或科普特救主之舞合并。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dream-of-the-rood/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Jonathan A. Glenn1982英译，译者本人署名网页](https://lightspill.com/poetry/oe/rood.html) — 全诗1–156行，附14条注释；实际读开头Listen及156行结束、版权署名；注释说明大量参考Swanton版本；全诗现代英译可读，但不是古英语原文；网页有版权，仅保存路径不复制全文；原作者不能因旧题名attributed to Cynewulf便确定
+
+资源路径：[Old English Poetry in Facsimile，Martin Foys等项目](https://oepoetryfacsimile.org/?document=10282&document=10288) — 项目Works索引Dream of the Rood直达链接；Digital Mappa iframe为uw.digitalmappa.org/58；实际从项目索引点击确认真实document参数及应用入口；解析器仅返回需JavaScript，未实际读该项目古英语、译文或图像；不把通用58地址当本诗全部直链
+
+资源路径：[Rutgers Old English Poetry Project另一路现代英译](https://oldenglishpoetry.camden.rutgers.edu/dream-of-the-rood/) — 2021-07-22项目更新称新修订译法；搜索定位项目本人更新，正文直开403；未实读本页正文；新旧署名显示不同，保留项目路径不据评论或旧署名指定当前译文版本
+
+资源路径：[Vercelli CXVII专业手稿目录](https://www.nasscal.com/manuscripta-apocryphorum/vercelli-biblioteca-capitolare-di-vercelli-ms-cxvii/) — fol104v–106r，约975年；全诗156行据作品条目；实际检索到手稿专业目录与内容定位；Digital Vercelli入口超时；Ruthwell与Brussels仅片段见证，不把石刻／圣物匣当全诗；本轮未核手稿原图；e-Clavis Krapp61–685显异常不沿用
+
+[完整调查记录](workers/eclavis_d07.json)，条目 `ECCA-173`。

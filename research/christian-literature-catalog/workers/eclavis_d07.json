@@ -1,0 +1,201 @@
+{
+  "worker": "eclavis_d07",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第120–121项；本轮新增2条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-163",
+      "title_zh": "尼禄之梦",
+      "original_title": "Dream of Nero / Somnium Neronis",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语，多种长短尾篇",
+      "synopsis": "附于尼哥底母福音／彼拉多致革老丢书之后的梦境、耶路撒冷毁灭及经文证言组合。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "实际检查正式064彼拉多行传末尾：到彼拉多致革老丢书第9节后即译注，没有Claudius向Nero读信的续篇；中文总集同名检索亦未定位。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "实际检查正式064彼拉多行传末尾：到彼拉多致革老丢书第9节后即译注，没有Claudius向Nero读信的续篇；中文总集同名检索亦未定位。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "继续取得Dobschütz校文12–27，核原刊1914/卷合订1915日期差异并分长短见证；正式064未含本续篇的证据已明确。",
+      "clavis": {
+        "ECCA": "163"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dream-of-nero/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://biblicalstudies.org.uk/pdf/jts/016_001.pdf",
+          "edition": "E. von Dobschütz, A Collection of Old Latin Bible Quotations: Somnium Neronis，JTS16",
+          "location": "论文1–27；校文本12–27据UZH所载TLL书目",
+          "verified": "搜索索引显示原首页为OCTOBER1914且首段称15见证；实际打开402未读正文",
+          "limits": "NASSCAL和OUP网页作1915，但JSTOR16/61为October1914，原页索引亦1914；日期保留冲突，不把索引摘录算PDF全文已取得",
+          "language": "拉丁语／德语",
+          "resource_type": "indexed_scan_current_access_blocked",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.jstor.org/stable/i23964369",
+          "edition": "JTS原刊目录，16卷61期",
+          "location": "October1914，论文1–27，对象23947918",
+          "verified": "检索到期刊原目录题名、作者及日期",
+          "limits": "文章当前直开不可达；保存原刊路径，尚无核读的现代全译",
+          "language": "德语／拉丁语",
+          "resource_type": "journal_issue_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://academic.oup.com/jts/issue/os-XVI/10",
+          "edition": "OUP期刊目录及DOI路径",
+          "location": "网页October1915／os-XVI.10.1，1–27",
+          "verified": "实际检索到出版方目录，与JSTOR和扫描首页索引日期不一致",
+          "limits": "异常卷期／日期不得无条件照抄；DOI直开失败；作品还存在只含梦境和更长经文证言等不同尾段，不称所有见证同长",
+          "language": "待核",
+          "resource_type": "publisher_record_metadata_conflict",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-173",
+      "title_zh": "十字架之梦",
+      "original_title": "Dream of the Rood",
+      "author": "匿名；旧Cynewulf归属不作定论",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "古英语；Ruthwell卢恩铭文及Brussels短铭文相关",
+      "synopsis": "梦者聆听拟人化十字架讲述受难并转向末日盼望的诗篇。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；中文总集十字架之梦等同名检索未定位；不与圣十字木传奇或科普特救主之舞合并。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；中文总集十字架之梦等同名检索未定位；不与圣十字木传奇或科普特救主之舞合并。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "173"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dream-of-the-rood/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://lightspill.com/poetry/oe/rood.html",
+          "edition": "Jonathan A. Glenn1982英译，译者本人署名网页",
+          "location": "全诗1–156行，附14条注释",
+          "verified": "实际读开头Listen及156行结束、版权署名；注释说明大量参考Swanton版本",
+          "limits": "全诗现代英译可读，但不是古英语原文；网页有版权，仅保存路径不复制全文；原作者不能因旧题名attributed to Cynewulf便确定",
+          "language": "英语",
+          "resource_type": "translator_hosted_online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://oepoetryfacsimile.org/?document=10282&document=10288",
+          "edition": "Old English Poetry in Facsimile，Martin Foys等项目",
+          "location": "项目Works索引Dream of the Rood直达链接；Digital Mappa iframe为uw.digitalmappa.org/58",
+          "verified": "实际从项目索引点击确认真实document参数及应用入口",
+          "limits": "解析器仅返回需JavaScript，未实际读该项目古英语、译文或图像；不把通用58地址当本诗全部直链",
+          "language": "古英语／英语",
+          "resource_type": "scholarly_digital_edition_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://oldenglishpoetry.camden.rutgers.edu/dream-of-the-rood/",
+          "edition": "Rutgers Old English Poetry Project另一路现代英译",
+          "location": "2021-07-22项目更新称新修订译法",
+          "verified": "搜索定位项目本人更新，正文直开403",
+          "limits": "未实读本页正文；新旧署名显示不同，保留项目路径不据评论或旧署名指定当前译文版本",
+          "language": "英语",
+          "resource_type": "university_translation_access_blocked",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/manuscripta-apocryphorum/vercelli-biblioteca-capitolare-di-vercelli-ms-cxvii/",
+          "edition": "Vercelli CXVII专业手稿目录",
+          "location": "fol104v–106r，约975年；全诗156行据作品条目",
+          "verified": "实际检索到手稿专业目录与内容定位；Digital Vercelli入口超时",
+          "limits": "Ruthwell与Brussels仅片段见证，不把石刻／圣物匣当全诗；本轮未核手稿原图；e-Clavis Krapp61–685显异常不沿用",
+          "language": "古英语",
+          "resource_type": "manuscript_catalogue",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "record_kind": "old_english_poem"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Somnium Neronis Dobschutz1914 scan JTS16/61 versus OUP1915",
+        "formal064 final Claudius letter no Nero appendix",
+        "Dream Rood Glenn1982 translator full156 OEPF real document link Rutgers403"
+      ],
+      "result": "D字母末两项；尼禄之梦校本路径找到但正文402，原刊日期冲突保留；十字架之梦Glenn署名英译全诗可读，OEPF需JS。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Dream of the Rood",
+    "last_completed_ecca": "173",
+    "next_title": "Egerton Gospel",
+    "next_ecca": "722",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

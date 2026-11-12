@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续119项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续121项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1191,15 +1191,35 @@
       "evidence": "manifest未见独立匹配；不把ECCA299安息书英译当W本；相关古英语讲道还混入伪美利托尾段。",
       "ordinal": 119,
       "batch": "2026-11-12-eclavis-d06"
+    },
+    {
+      "ecca": "163",
+      "title": "Dream of Nero",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dream-of-nero/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d07:ECCA-163",
+      "evidence": "实际检查正式064彼拉多行传末尾：到彼拉多致革老丢书第9节后即译注，没有Claudius向Nero读信的续篇；中文总集同名检索亦未定位。",
+      "ordinal": 120,
+      "batch": "2026-11-12-eclavis-d07"
+    },
+    {
+      "ecca": "173",
+      "title": "Dream of the Rood",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dream-of-the-rood/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d07:ECCA-173",
+      "evidence": "manifest未见独立匹配；中文总集十字架之梦等同名检索未定位；不与圣十字木传奇或科普特救主之舞合并。",
+      "ordinal": 121,
+      "batch": "2026-11-12-eclavis-d07"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Dormition of the Virgin Transitus Latin W",
-    "last_completed_ecca": "701",
-    "next_title": "Dream of Nero",
-    "next_ecca": "163",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dream-of-nero/",
+    "last_completed_title": "Dream of the Rood",
+    "last_completed_ecca": "173",
+    "next_title": "Egerton Gospel",
+    "next_ecca": "722",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1226,7 +1246,8 @@
       "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
@@ -1247,6 +1268,13 @@
       "status": "initial_scan_completed_unresolved_versions_retained",
       "last_ecca": "169",
       "last_ordinal": 90,
+      "date_beijing": "2026-11-12"
+    },
+    {
+      "section": "D",
+      "status": "initial_scan_completed_unresolved_versions_retained",
+      "last_ecca": "173",
+      "last_ordinal": 121,
       "date_beijing": "2026-11-12"
     }
   ]
