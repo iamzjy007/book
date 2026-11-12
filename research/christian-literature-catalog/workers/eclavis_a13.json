@@ -1,0 +1,258 @@
+{
+  "worker": "eclavis_a13",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第69–71项；本轮新增3条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-657",
+      "title_zh": "伪米利都圣母升天记（拉丁Transitus B）",
+      "original_title": "Assumption of the Virgin by Pseudo-Melito / Liber de transitu",
+      "author": "伪署撒狄的米利都",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语，B1／B2两版本",
+      "synopsis": "伪署米利都的圣母离世及升天故事，须分辨版本。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest没有本题或圣母离世独立单元；087_童女启示录是巡游刑罚的不同作品。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest没有本题或圣母离世独立单元；087_童女启示录是巡游刑罚的不同作品。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "657",
+        "CANT": "111"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0832.htm",
+          "institution": "New Advent",
+          "read_scope": "实际读取Second Latin Form第1–17节起讫与Walker来源",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0832.htm",
+          "edition": "Alexander Walker英译，ANF8 (1886)",
+          "location": "同页Second Latin Form第1–17节",
+          "verified": "实际读该小标题、1节至17节、来源署名；与专业书目B1对应",
+          "limits": "本页还含约翰希腊叙事与First Latin Form，链接整页不代表三篇同一作品；未覆盖B2校本",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/",
+          "edition": "Haibach-Reinisch, Ein neuer Transitus Mariae (1962)",
+          "location": "B2校本63–87；B1 Tischendorf1866 124–136",
+          "verified": "核专业书目与版本分界",
+          "limits": "未取得B2校本全文；不要把第二拉丁形式误称B2",
+          "language": "拉丁语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-290",
+      "title_zh": "圣母升天记（叙利亚语残篇）",
+      "original_title": "Assumption of the Virgin (Syriac) / Liber de dormitione B.M.Virginis",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语，两个抄本残篇",
+      "synopsis": "与六书型圣母离世故事有关系，但存本为两段不同抄本残篇。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未见独立叙利亚离世残篇；087巡游刑罚不作此篇覆盖证明。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未见独立叙利亚离世残篇；087巡游刑罚不作此篇覆盖证明。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "290",
+        "CANT": [
+          "121",
+          "122"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-syriac/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/metadata/cu31924029295636",
+          "institution": "Internet Archive metadata API",
+          "read_scope": "实际核书目信息及PDF文件；取文件头32字节",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://syri.ac/node/1877",
+          "institution": "syri.ac",
+          "read_scope": "实际读取Wright1865书目",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/cu31924029295636/cu31924029295636.pdf",
+          "edition": "William Wright, Contributions... (1865)",
+          "location": "英译18–41；第二残篇24–41（据e-Clavis）；叙利亚原文另编页",
+          "verified": "IA metadata核Wright、1865与文件；Range206读32字节PDF头，总3775980字节",
+          "limits": "web未能打开；没有阅读该篇扫描正文或核页偏移；条目第一残篇页界与第二重叠，待原书细核",
+          "language": "英语／叙利亚语",
+          "resource_type": "digitized_edition_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://syri.ac/node/1877",
+          "edition": "syri.ac Wright1865学术书目",
+          "location": "Contributions to the Apocryphal Literature...",
+          "verified": "实际读取作者、1865、出版者及IA永久标识",
+          "limits": "书目入口，不代替原文校勘",
+          "language": "英语",
+          "resource_type": "bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-424",
+      "title_zh": "阿提里米迦勒书（古努比亚残叶）",
+      "original_title": "Attiri Book of Michael / Liber Michaelis",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "古努比亚语",
+      "synopsis": "两张不连续残叶记米迦勒，叙事声音与文意尚有不确定性。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未匹配本题；其他米迦勒题材不自动覆盖P.Attiri1–2。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未匹配本题；其他米迦勒题材不自动覆盖P.Attiri1–2。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "424"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/attiri-book-of-michael/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://punctumbooks.com/catalog/10.21983/P3.0156.1.00",
+          "institution": "Punctum Books",
+          "read_scope": "实际读出版社题头与书目",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://thoth-arch.lib.cam.ac.uk/items/5423b4ec-c5ce-4129-a7f6-871a355f55f1",
+          "institution": "Cambridge Thoth Archive",
+          "read_scope": "搜索返回正式版本与许可；PDF接口502",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://punctumbooks.com/catalog/10.21983/P3.0156.1.00",
+          "edition": "The Old Nubian Texts from Attiri (2016)",
+          "location": "104页，P.Attiri1–2校本、译注及图版约30–54（据e-Clavis）",
+          "verified": "实际读出版社题名、作者、2016与104页；大学Thoth记录列已出版PDF及许可",
+          "limits": "本篇正文尚未读，出版社总页数与纸本前置页应另核",
+          "language": "古努比亚语／英语",
+          "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://books.punctumbooks.com/10.21983/P3.0156.1.00.pdf",
+          "edition": "Punctum出版社PDF",
+          "location": "web报23735767字节超工具大小上限",
+          "verified": "实际请求该PDF并收到大小限制；Thoth备份曾502",
+          "limits": "路径已定位，但未读全文；e-Clavis引30–54，搜索目录31起，首叶图版或章首差异待核",
+          "language": "古努比亚语／英语",
+          "resource_type": "size_limited_pdf",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://thoth-arch.lib.cam.ac.uk/items/5423b4ec-c5ce-4129-a7f6-871a355f55f1",
+          "edition": "Cambridge Thoth已出版版本记录",
+          "location": "2016-11-22，ISBN9780998237572，22.64MB",
+          "verified": "实际搜索返回大学存储库完整元数据与CC BY-NC-SA4.0",
+          "limits": "本轮未读库内PDF，只保留备用入口",
+          "language": "英语",
+          "resource_type": "institutional_repository_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "P.Attiri Book Michael Punctum2016",
+        "Wright1865 Contributions syri.ac IA",
+        "New Advent Second Latin Form Transitus B1"
+      ],
+      "result": "A区末3项存档；本轮完成A区初扫，不代表未取得版本或占位问题解决。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Attiri Book of Michael",
+    "last_completed_ecca": "424",
+    "next_title": "Berlin-Strasbourg Apocryphon",
+    "next_ecca": "388",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

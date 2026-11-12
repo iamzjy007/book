@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续68项；A字母尚未完成。",
+  "scope": "索引开头连续71项；A区初轮扫描完成，未解决项保留；下一项B区Berlin-Strasbourg Apocryphon。",
   "records": [
     {
       "ordinal": 1,
@@ -681,15 +681,45 @@
       "evidence": "正式manifest ascension-of-isaiah：036_以赛亚升天记12单元；实际读13574字首尾，1–11章及版本译注。中文总集256章另有文本，不是确定缺书。",
       "ordinal": 68,
       "batch": "2026-11-12-eclavis-a12"
+    },
+    {
+      "ecca": "657",
+      "title": "Assumption of the Virgin by Pseudo-Melito",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a13:ECCA-657",
+      "evidence": "正式manifest没有本题或圣母离世独立单元；087_童女启示录是巡游刑罚的不同作品。",
+      "ordinal": 69,
+      "batch": "2026-11-12-eclavis-a13"
+    },
+    {
+      "ecca": "290",
+      "title": "Assumption of the Virgin (Syriac)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-syriac/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a13:ECCA-290",
+      "evidence": "正式manifest未见独立叙利亚离世残篇；087巡游刑罚不作此篇覆盖证明。",
+      "ordinal": 70,
+      "batch": "2026-11-12-eclavis-a13"
+    },
+    {
+      "ecca": "424",
+      "title": "Attiri Book of Michael",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/attiri-book-of-michael/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a13:ECCA-424",
+      "evidence": "正式manifest未匹配本题；其他米迦勒题材不自动覆盖P.Attiri1–2。",
+      "ordinal": 71,
+      "batch": "2026-11-12-eclavis-a13"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Ascension of Isaiah",
-    "last_completed_ecca": "983",
-    "next_title": "Assumption of the Virgin by Pseudo-Melito",
-    "next_ecca": "657",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/",
+    "last_completed_title": "Attiri Book of Michael",
+    "last_completed_ecca": "424",
+    "next_title": "Berlin-Strasbourg Apocryphon",
+    "next_ecca": "388",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -704,7 +734,15 @@
       "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
-  }
+  },
+  "milestones": [
+    {
+      "batch": "2026-11-12-eclavis-a13",
+      "milestone": "A区71个索引位置初扫完成",
+      "limits": "并非全部资源已取得，版本冲突和占位未解决项继续追踪。"
+    }
+  ]
 }

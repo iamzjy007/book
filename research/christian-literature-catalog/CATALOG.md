@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **172条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **175条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A12.md](RESOURCE-PATHS-A12.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A13.md](RESOURCE-PATHS-A13.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -4580,3 +4580,96 @@ e-Clavis索引只有题名及ECCA970，尚不足以界定其文本边界与其�
 资源路径：[Charles1900及CCSA7 (1995)](https://www.nasscal.com/e-clavis-christian-apocrypha/ascension-of-isaiah/) — Charles英译1–82、平行古语83–139；CCSA7含吉兹、希腊、拉丁诸文本；核专业版本书目与各部分语言覆盖；本轮未取得原印本对应页；CANT315／316包含相关希腊传说范围，不能据036认全部覆盖
 
 [完整调查记录](workers/eclavis_a12.json)，条目 `ECCA-983`。
+
+## e-Clavis系统扫描续查A13
+
+### 伪米利都圣母升天记（拉丁Transitus B）
+
+- **原题：** Assumption of the Virgin by Pseudo-Melito / Liber de transitu
+- **作者／归属：** 伪署撒狄的米利都
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语，B1／B2两版本
+
+伪署米利都的圣母离世及升天故事，须分辨版本。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest没有本题或圣母离世独立单元；087_童女启示录是巡游刑罚的不同作品。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [New Advent](https://www.newadvent.org/fathers/0832.htm) — 实际读取Second Latin Form第1–17节起讫与Walker来源
+
+资源路径：[Alexander Walker英译，ANF8 (1886)](https://www.newadvent.org/fathers/0832.htm) — 同页Second Latin Form第1–17节；实际读该小标题、1节至17节、来源署名；与专业书目B1对应；本页还含约翰希腊叙事与First Latin Form，链接整页不代表三篇同一作品；未覆盖B2校本
+
+资源路径：[Haibach-Reinisch, Ein neuer Transitus Mariae (1962)](https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/) — B2校本63–87；B1 Tischendorf1866 124–136；核专业书目与版本分界；未取得B2校本全文；不要把第二拉丁形式误称B2
+
+[完整调查记录](workers/eclavis_a13.json)，条目 `ECCA-657`。
+
+### 圣母升天记（叙利亚语残篇）
+
+- **原题：** Assumption of the Virgin (Syriac) / Liber de dormitione B.M.Virginis
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 叙利亚语，两个抄本残篇
+
+与六书型圣母离世故事有关系，但存本为两段不同抄本残篇。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见独立叙利亚离世残篇；087巡游刑罚不作此篇覆盖证明。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-syriac/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Internet Archive metadata API](https://archive.org/metadata/cu31924029295636) — 实际核书目信息及PDF文件；取文件头32字节
+- [syri.ac](https://syri.ac/node/1877) — 实际读取Wright1865书目
+
+资源路径：[William Wright, Contributions... (1865)](https://archive.org/download/cu31924029295636/cu31924029295636.pdf) — 英译18–41；第二残篇24–41（据e-Clavis）；叙利亚原文另编页；IA metadata核Wright、1865与文件；Range206读32字节PDF头，总3775980字节；web未能打开；没有阅读该篇扫描正文或核页偏移；条目第一残篇页界与第二重叠，待原书细核
+
+资源路径：[syri.ac Wright1865学术书目](https://syri.ac/node/1877) — Contributions to the Apocryphal Literature...；实际读取作者、1865、出版者及IA永久标识；书目入口，不代替原文校勘
+
+[完整调查记录](workers/eclavis_a13.json)，条目 `ECCA-290`。
+
+### 阿提里米迦勒书（古努比亚残叶）
+
+- **原题：** Attiri Book of Michael / Liber Michaelis
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 古努比亚语
+
+两张不连续残叶记米迦勒，叙事声音与文意尚有不确定性。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未匹配本题；其他米迦勒题材不自动覆盖P.Attiri1–2。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/attiri-book-of-michael/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Punctum Books](https://punctumbooks.com/catalog/10.21983/P3.0156.1.00) — 实际读出版社题头与书目
+- [Cambridge Thoth Archive](https://thoth-arch.lib.cam.ac.uk/items/5423b4ec-c5ce-4129-a7f6-871a355f55f1) — 搜索返回正式版本与许可；PDF接口502
+
+资源路径：[The Old Nubian Texts from Attiri (2016)](https://punctumbooks.com/catalog/10.21983/P3.0156.1.00) — 104页，P.Attiri1–2校本、译注及图版约30–54（据e-Clavis）；实际读出版社题名、作者、2016与104页；大学Thoth记录列已出版PDF及许可；本篇正文尚未读，出版社总页数与纸本前置页应另核
+
+资源路径：[Punctum出版社PDF](https://books.punctumbooks.com/10.21983/P3.0156.1.00.pdf) — web报23735767字节超工具大小上限；实际请求该PDF并收到大小限制；Thoth备份曾502；路径已定位，但未读全文；e-Clavis引30–54，搜索目录31起，首叶图版或章首差异待核
+
+资源路径：[Cambridge Thoth已出版版本记录](https://thoth-arch.lib.cam.ac.uk/items/5423b4ec-c5ce-4129-a7f6-871a355f55f1) — 2016-11-22，ISBN9780998237572，22.64MB；实际搜索返回大学存储库完整元数据与CC BY-NC-SA4.0；本轮未读库内PDF，只保留备用入口
+
+[完整调查记录](workers/eclavis_a13.json)，条目 `ECCA-424`。

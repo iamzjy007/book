@@ -59,3 +59,7 @@
 ## 最新续查（2026-11-12，A12）
 
 索引第64–68项；本轮新增5条调查，非同数新缺书。详见[资源路径A12](RESOURCE-PATHS-A12.md)；下一项Assumption of the Virgin by Pseudo-Melito（ECCA657）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，A13）
+
+索引第69–71项；本轮新增3条调查，非同数新缺书。详见[资源路径A13](RESOURCE-PATHS-A13.md)；下一项Berlin-Strasbourg Apocryphon（ECCA388）。按用户指示，批次存档后持续推进，直至要求停止。

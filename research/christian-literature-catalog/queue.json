@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Ascension of Isaiah",
-        "last_completed_ecca": "983",
-        "next_title": "Assumption of the Virgin by Pseudo-Melito",
-        "next_ecca": "657",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/",
+        "last_completed_title": "Attiri Book of Michael",
+        "last_completed_ecca": "424",
+        "next_title": "Berlin-Strasbourg Apocryphon",
+        "next_ecca": "388",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -82,10 +82,11 @@
           "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Assumption of the Virgin by Pseudo-Melito ECCA657",
+      "next": "继续 Berlin-Strasbourg Apocryphon ECCA388",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -99,9 +100,10 @@
         "2026-11-12-eclavis-a09",
         "2026-11-12-eclavis-a10",
         "2026-11-12-eclavis-a11",
-        "2026-11-12-eclavis-a12"
+        "2026-11-12-eclavis-a12",
+        "2026-11-12-eclavis-a13"
       ],
-      "last_batch_records_scanned": 5,
+      "last_batch_records_scanned": 3,
       "assigned_worker": "current_session_single_worker"
     },
     {
