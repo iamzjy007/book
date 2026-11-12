@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **268条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **271条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E12.md](RESOURCE-PATHS-E12.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E13.md](RESOURCE-PATHS-E13.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -7451,3 +7451,93 @@ Cynewulf署名头韵诗，述使徒行旅殉道，尾以卢恩署名和祷求收
 资源路径：[Hostetter, Old English Poetry Project, Rutgers University](https://oldenglishpoetry.camden.rutgers.edu/the-fate-of-the-apostles/) — 全诗英译1–120行；96–106为卢恩名谜，115–120赞颂收尾；实际读1–120全篇并用直接HTML确认正文及校方页脚；浏览工具403但urllib访问成功；63–69译文作Matthias，而NASSCAL概要作Matthew；保留差异，待原古英语及校本核，不擅改译文。NASSCAL旧署Aaron K.，现校方页脚Dr.Ophelia Eryn Hostetter，引用保留Hostetter
 
 [完整调查记录](workers/eclavis_e12.json)，条目 `ECCA-286`。
+
+## e-Clavis系统扫描续查E13
+
+### 法尤姆残片／法林蒲草纸
+
+- **原题：** Fayyum Fragment / P.Vindob.G2325
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语残片；德译、中文残片译
+
+记耶稣预告门徒跌倒及彼得三次不认；平行太26与可14，归属未知福音、讲道、摘要或彼得福音均不可定论。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** in_reference_anthology_not_formal_manifest
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：总集第225章【新1】卷5《法林蒲草纸》有完整现存残片的中文译文（含补文标记），本轮全文读毕；正式manifest未见独立法林或Fayyum条目。
+
+**下一步：** 中文现存残片已在总集，不能计作整部新佚书；继续Kraus校本及ONB原件图像，核补文、行数、发现地点分歧。
+
+**来源：**
+- [NASSCAL e-Clavis索引](https://www.nasscal.com/e-clavis-christian-apocrypha/) — 实际核Fayyum Fragment ECCA705为无链接占位，不虚构已读独立条目
+
+资源路径：[Gustav Bickell, Ein Papyrusfragment eines nichtkanonischen Evangeliums, ZKTh9 (1885)498–504](https://archive.org/details/zeitschriftfurkathotheolo9) — 原刊501(n518)印可辨字符与补足希腊文；502(n519)三栏对照，中央Papyrus栏为德译；实际读OCR及501、502原图；501说明以大写标确定、小写标不清、点标缺失，并明说印刷重新排了行；这是1885初版读法与补足，不是原纸完整照片或现代定本；不能将补入字当实存字。后续1886/1887修读及Kraus2001/2009需另核
+
+资源路径：[C.H.Roberts, Fayyum Gospel Fragment, Coptic Encyclopedia1100b，Claremont数字收藏](https://ccdl.claremont.edu/digital/api/collection/cce/id/847/download) — 1页条目，含形制、出处主张与Bickell书目；实际在内存读取该页全文；作者说Herakleopolis1882而非Fayyum出土，六行描述与其他目录七行有异；百科研究说明不是残片全文；出处、行数和早期出版页码存在来源差异，不能任选一说当定论
+
+[完整调查记录](workers/eclavis_e13.json)，条目 `ECCA-705`。
+
+### 末日前十五征兆
+
+- **原题：** Fifteen Signs before Judgment / Airdena inna Cóic Lá nDéc ria mBráth
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语诸本及多种中古语言；此轮核爱尔兰本历史英译
+
+末日将临前的十五日征兆传统；各拉丁与俗语本次序、增文差别很大，不能拼成一个统一全文。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见Fifteen；总集十五征／十五徵／十五预未命中，十五日／十五天命中以诺等其他叙事；未证明覆盖本传统具体版本。
+
+**下一步：** Airdena历史英译全文可读；继续Hawk2025:609–634的拉丁／希伯来／亚美尼亚并列译本与原刊432补正，未取得现代全章。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/fifteen-signs-before-judgment/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Whitley Stokes1907英译，UCC CELT T207002，Benjamin Hazard数字版、两遍校对](https://celt.ucc.ie/published/T207002.html) — Airdena本；Revue Celtique28:311–323奇数页英译，篇章整体308–326；BLAdd30512 fol95a1–98a2；实际读完整英语正文：从十五日前海水升起至一日前降临，后续复活、审判、地狱九苦及天堂荣耀，末以祈求永居结束；这是爱尔兰Airdena版本的完整历史译文，不是所有拉丁本合成；CELT在线可读，重用须依页面研究教学许可，不复制全文入库。数字书目Volume2是误记，与1907卷28应区分
+
+资源路径：[Caxton黄金传奇Advent，Ellis1900整理，Fordham IHSP](https://sourcebooks.web.fordham.edu/basis/goldenlegend/GL-vol1-advent.asp) — 十五征兆嵌在Advent章中；现网页仅明确保留第六至第十五项；实际读章内征兆段，前文在the star judge处断裂后跳第六项；该网页不能标完整十五征兆译文；这是Voragine支系，不用Airdena前五项填补。本轮未核纸本是否同缺
+
+资源路径：[Martin McNamara, The (Fifteen) Signs before Doomsday in Irish Tradition, Warszawskie Studia Teologiczne20.2 (2007)223–254](https://digital.fides.org.pl/Content/466/McNamara.pdf) — 32页PDF；238–239=PDF16–17引常新之舌第一本征兆，240–241=18–19第二本，246–250=24–28为Airdena19–53英译；实际核这些起讫与引译说明；第一本列18项，第二本8组，不冒称两组各有15项；是学术比较与选段，不是所有版本全文；Airdena前18段不在246–250引译，须读CELT完整本。论文误称该Airdena为BookLismore，依CELT/原刊另核，不照抄
+
+[完整调查记录](workers/eclavis_e13.json)，条目 `ECCA-353`。
+
+### 弗里尔语录
+
+- **原题：** Freer Logion / Dialogus Iesu cum discipulis
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；耶柔米局部拉丁引文；德译、英译
+
+华盛顿抄本在马可16:14与15之间的复活耶稣与门徒对话；不能把整个马可长结尾都当成本段。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest未见Freer；总集常见音译及撒但权势等句未命中，相关不法和不信命中是西卜林卷而非此段；保留库存待核。
+
+**下一步：** 历史希腊校文和德译、大学博物馆短段英译均可读；继续原件187r／旧184r叶码对应及Jerome拉丁局部引文，不以一般圣经结尾覆盖本段。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/freer-logion/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[C.R.Gregory, Das Freer-Logion (Leipzig1908)，Smithsonian馆藏数字本，DOI10.5479/sla.879922.39088015193303](https://library.si.edu/digital-library/book/freerlogion00greg) — 希腊整段30页(n39)，德译39页(n48)编号1–12；30页下半已是Textkritik；实际查看30、39原图，逐句读德译全段及OCR，确认从门徒申辩至承受天上义之荣耀，接马可16:15；1–12是编辑分句，不是抄本12行或12章。最初scandata leaf与下载n索引差1，已以原图校正；馆藏另有English translation of parts仅部分书译，未当全书英译
+
+资源路径：[HCU Dunham Bible Museum展览页，明署Metzger与Ehrman英译](https://hc.edu/museums/dunham-bible-museum/tour-of-the-museum/past-exhibits/biblical-manuscripts/) — CodexWashingtonianus段，The Freer Logion reads之后两段；实际读完整短对话英译，由This age…至which is in heaven，前后展览标题界限清楚；馆方展示的现代译文仅保存路径与边界；页面其他手稿泛论未作为校勘依据。Jerome只部分引文不得说其见证与W完全同文
+
+资源路径：[Smithsonian, Washington ManuscriptIII / CodexWashingtonensis](https://www.si.edu/object/fsg_F1906.274) — 馆藏号F1906.274；马可16:14后插文，说明含部分英译；实际核官方馆藏说明与引用范围；馆藏标签自称reads in part，只是局部译文；叶码187r据NASSCAL，Gregory旧目录184r不直接合并为一种编号
+
+[完整调查记录](workers/eclavis_e13.json)，条目 `ECCA-112`。

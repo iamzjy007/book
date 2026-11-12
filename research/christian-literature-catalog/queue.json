@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Fates of the Apostles",
-        "last_completed_ecca": "286",
-        "next_title": "Fayyum Fragment",
-        "next_ecca": "705",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+        "last_completed_title": "Freer Logion",
+        "last_completed_ecca": "112",
+        "next_title": "Gelasian Decree",
+        "next_ecca": "491",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gelasian-decree/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -107,10 +107,11 @@
           "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-e12未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-e12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-e13未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Fayyum Fragment ECCA705",
+      "next": "继续 Gelasian Decree ECCA491",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -149,7 +150,8 @@
         "2026-11-12-eclavis-e09",
         "2026-11-12-eclavis-e10",
         "2026-11-12-eclavis-e11",
-        "2026-11-12-eclavis-e12"
+        "2026-11-12-eclavis-e12",
+        "2026-11-12-eclavis-e13"
       ],
       "last_batch_records_scanned": 3,
       "assigned_worker": "current_session_single_worker"
