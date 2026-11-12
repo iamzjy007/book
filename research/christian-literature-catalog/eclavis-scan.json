@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续165项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续168项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1651,15 +1651,45 @@
       "evidence": "manifest未见独立隐修传；总集隐修／隐居未命中，抹大拉马利亚命中提庇留书信而非本传；同名福音、颂或其他传记不自动等于本篇。",
       "ordinal": 165,
       "batch": "2026-11-12-eclavis-e11"
+    },
+    {
+      "ecca": "209",
+      "title": "Ever-New Tongue",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ever-new-tongue/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e12:ECCA-209",
+      "evidence": "两manifest及总集未见常新、永新、新舌；题名检索不足以证明中文出版不存在。",
+      "ordinal": 166,
+      "batch": "2026-11-12-eclavis-e12"
+    },
+    {
+      "ecca": "133",
+      "title": "Exhortation of Peter",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/exhortation-of-peter/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e12:ECCA-133",
+      "evidence": "manifest未见Exhortation；总集彼得劝命中为彼得行传叙事，不是本篇。",
+      "ordinal": 167,
+      "batch": "2026-11-12-eclavis-e12"
+    },
+    {
+      "ecca": "286",
+      "title": "Fates of the Apostles",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/fates-of-the-apostles/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e12:ECCA-286",
+      "evidence": "manifest未见Fates；总集使徒命运／使徒的命运未命中；使徒殉道叙事并不自动覆盖这首独立诗。",
+      "ordinal": 168,
+      "batch": "2026-11-12-eclavis-e12"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Eremitic Life of Mary Magdalene",
-    "last_completed_ecca": "181",
-    "next_title": "Ever-New Tongue",
-    "next_ecca": "209",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ever-new-tongue/",
+    "last_completed_title": "Fates of the Apostles",
+    "last_completed_ecca": "286",
+    "next_title": "Fayyum Fragment",
+    "next_ecca": "705",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1698,7 +1728,8 @@
       "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e11未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e12未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

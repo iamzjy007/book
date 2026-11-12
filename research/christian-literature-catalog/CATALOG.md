@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **265条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **268条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E11.md](RESOURCE-PATHS-E11.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E12.md](RESOURCE-PATHS-E12.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -7365,3 +7365,89 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Brandon W.Hawk作者书目：MNTA3 (2023)130–139](https://brandonwhawk.net/cv/) — The Eremitic Life of Mary Magdalene；短A版英译据NASSCAL；实际读作者履历的已出版章节题名与页码，出版社目录亦有此章；作者CV没有译文正文；未取得2023短A完整英译，不以Persée插补本顶替。NASSCAL所称长本校文forthcoming本轮未找到正式出版证据
 
 [完整调查记录](workers/eclavis_e11.json)，条目 `ECCA-181`。
+
+## e-Clavis系统扫描续查E12
+
+### 常新之舌
+
+- **原题：** Ever-New Tongue / In tenga bithnúa
+- **作者／归属：** 匿名；托称斐利伯启示
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 中古爱尔兰语、近代爱尔兰语诸本；英语、法语等
+
+托斐利伯之灵讲述创世、宇宙及末世的爱尔兰启示对话；须分Lismore本、第二本、短本及后期改写。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest及总集未见常新、永新、新舌；题名检索不足以证明中文出版不存在。
+
+**下一步：** Stokes第一本完整历史英译可读；继续Carey2009/2018及第二本法译，核不同叶号和版本，不据现代改写补OCR缺口。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/ever-new-tongue/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Whitley Stokes, The Evernew Tongue, Ériu2 (1905)96–162；Michigan原刊数字扫描](https://archive.org/details/riujournalschoo00acadgoog) — 导言96–97；爱尔兰文与英译隔页并排98–147；Lismore主体§1–162，英文99起至145；Rennes附尾§163–166至147；148起词汇索引、末至162；实际读OCR导言、译文首末并查看99(n111)、145(n157)、147(n159)原图，主体162 Amen与另一本附尾边界明确；未通读全部中段；不是到162页都为叙事，亦不能把Rennes附尾接成Lismore原文。OCR尤其爱尔兰文有错须看原图；Stokes所推失传拉丁底本只是推测，不据此恢复另一佚书
+
+资源路径：[John Carey, The Ever-New Tongue: The Text in the Book of Lismore, Apocryphes15 (2018), ISBN9782503579290](https://www.brepols.net/products/IS-9782503579290-1) — 出版社产品页确认xii+192页、英文、2018；实际核出版社题名、版次及内容介绍；是正式获取入口，未取得该现代全译正文；1989 Herbert/McNamara109–118是选译，2009 CCSA16:100–231并列两本不可混同
+
+资源路径：[UCC Library, Book of Lismore馆藏说明](https://libguides.ucc.ie/The-Book-of-Lismore) — 2020由Chatsworth捐赠UCC；NASSCAL给本篇88r–94v；实际核大学馆藏公告，旧Chatsworth定位不能当作当前保管地；本页面是馆藏入口，不是本篇完整抄本图像；Stokes旧叶号46–52与目录88–94的对应须另核，不强行改抄本叶码
+
+[完整调查记录](workers/eclavis_e12.json)，条目 `ECCA-209`。
+
+### 彼得劝诫
+
+- **原题：** Exhortation of Peter
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 叙利亚语长短本；现代英译线索
+
+短本述两仆受放逐及死亡临到的比喻；长本另加独修者受魔化女子试探故事与劝诫。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见Exhortation；总集彼得劝命中为彼得行传叙事，不是本篇。
+
+**下一步：** 长本叙利亚文已可读；继续取得Walters2020长本英译、Minov2018短本校译，并核Berlin Sachau号码歧异。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/exhortation-of-peter/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[James E.Walters, Digital Syriac Corpus372 (2018), proofed born-digital diplomatic edition](https://syriaccorpus.org/372) — Berlin Syr201 / source metadata Sachau165；分页9v、10r/v、11r/v、12r/v；第1–12章至忏悔劝诫尾；实际读取数字正文首尾、全部页断与12章结构；第9章起在12r，第11章中至12v；元数据为CCBY4.0；这是长本叙利亚文转录，不是英语全译；不能用较短9v–11v范围覆盖第二故事。AJR行文出现Sachau51，与数字版165不一致，保留书架号冲突待原目录核
+
+资源路径：[James E.Walters, Ancient Jew Review (26 April2021)](https://www.ancientjewreview.com/read/2021/4/26/the-exhortation-of-peter-interpreting-peter-with-late-ancient-monastic-communities) — 作者研究文章，含两故事概述、局部引译、注3/4指出Minov2018短本与MNTA2:278–287长本；实际读全文及注释，确认短本缺第二故事和现代两译的对应；作者文章不是全文英译；Minov2018:167–181不得标为长本完整英译。两抄本年代、Sachau号码需与原目录分别核
+
+[完整调查记录](workers/eclavis_e12.json)，条目 `ECCA-133`。
+
+### 使徒的命运（古英语诗）
+
+- **原题：** Fates of the Apostles
+- **作者／归属：** Cynewulf（诗中卢恩署名）
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 古英语；现代英语
+
+Cynewulf署名头韵诗，述使徒行旅殉道，尾以卢恩署名和祷求收束；与现代同题殉道史著作须分。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见Fates；总集使徒命运／使徒的命运未命中；使徒殉道叙事并不自动覆盖这首独立诗。
+
+**下一步：** 完整英译路径已核；继续Vercelli CXVII52v–54r图像及Krapp1906古英语诗正文，不将现代SeanMcDowell同题书混入。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/fates-of-the-apostles/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Hostetter, Old English Poetry Project, Rutgers University](https://oldenglishpoetry.camden.rutgers.edu/the-fate-of-the-apostles/) — 全诗英译1–120行；96–106为卢恩名谜，115–120赞颂收尾；实际读1–120全篇并用直接HTML确认正文及校方页脚；浏览工具403但urllib访问成功；63–69译文作Matthias，而NASSCAL概要作Matthew；保留差异，待原古英语及校本核，不擅改译文。NASSCAL旧署Aaron K.，现校方页脚Dr.Ophelia Eryn Hostetter，引用保留Hostetter
+
+[完整调查记录](workers/eclavis_e12.json)，条目 `ECCA-286`。

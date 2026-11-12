@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 266,
-    "catalogue_records_after_one_merge": 265,
+    "worker_records": 269,
+    "catalogue_records_after_one_merge": 268,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 375
+    "unique_source_urls": 378
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -188,6 +188,10 @@
     {
       "path": "workers/eclavis_e11.json",
       "sha256": "4efb34120cc0f0a4822861dbe90f460ae3dd1caac98fca10a0d798ef9044fa76"
+    },
+    {
+      "path": "workers/eclavis_e12.json",
+      "sha256": "e520d846a7ad0bb490af612206491e92ee0e842ab67bb6f4fbbd8ebe9a1910bc"
     }
   ],
   "records": [
@@ -16142,6 +16146,189 @@
           "limits": "作者CV没有译文正文；未取得2023短A完整英译，不以Persée插补本顶替。NASSCAL所称长本校文forthcoming本轮未找到正式出版证据",
           "language": "英语书目",
           "resource_type": "author_confirmed_modern_translation_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e12:ECCA-209",
+      "area": "e-Clavis系统扫描续查E12",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "常新之舌",
+      "original_title": "Ever-New Tongue / In tenga bithnúa",
+      "author_or_attribution": "匿名；托称斐利伯启示",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "中古爱尔兰语、近代爱尔兰语诸本；英语、法语等",
+      "synopsis": "托斐利伯之灵讲述创世、宇宙及末世的爱尔兰启示对话；须分Lismore本、第二本、短本及后期改写。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "两manifest及总集未见常新、永新、新舌；题名检索不足以证明中文出版不存在。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest及总集未见常新、永新、新舌；题名检索不足以证明中文出版不存在。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "Stokes第一本完整历史英译可读；继续Carey2009/2018及第二本法译，核不同叶号和版本，不据现代改写补OCR缺口。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ever-new-tongue/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e12.json",
+      "worker_entry_id": "ECCA-209",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "209"
+      },
+      "resources": [
+        {
+          "url": "https://archive.org/details/riujournalschoo00acadgoog",
+          "edition": "Whitley Stokes, The Evernew Tongue, Ériu2 (1905)96–162；Michigan原刊数字扫描",
+          "location": "导言96–97；爱尔兰文与英译隔页并排98–147；Lismore主体§1–162，英文99起至145；Rennes附尾§163–166至147；148起词汇索引、末至162",
+          "verified": "实际读OCR导言、译文首末并查看99(n111)、145(n157)、147(n159)原图，主体162 Amen与另一本附尾边界明确；未通读全部中段",
+          "limits": "不是到162页都为叙事，亦不能把Rennes附尾接成Lismore原文。OCR尤其爱尔兰文有错须看原图；Stokes所推失传拉丁底本只是推测，不据此恢复另一佚书",
+          "language": "爱尔兰语、英语",
+          "resource_type": "historical_complete_recension_edition_translation_scan",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.brepols.net/products/IS-9782503579290-1",
+          "edition": "John Carey, The Ever-New Tongue: The Text in the Book of Lismore, Apocryphes15 (2018), ISBN9782503579290",
+          "location": "出版社产品页确认xii+192页、英文、2018",
+          "verified": "实际核出版社题名、版次及内容介绍",
+          "limits": "是正式获取入口，未取得该现代全译正文；1989 Herbert/McNamara109–118是选译，2009 CCSA16:100–231并列两本不可混同",
+          "language": "英语",
+          "resource_type": "publisher_confirmed_modern_translation_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://libguides.ucc.ie/The-Book-of-Lismore",
+          "edition": "UCC Library, Book of Lismore馆藏说明",
+          "location": "2020由Chatsworth捐赠UCC；NASSCAL给本篇88r–94v",
+          "verified": "实际核大学馆藏公告，旧Chatsworth定位不能当作当前保管地",
+          "limits": "本页面是馆藏入口，不是本篇完整抄本图像；Stokes旧叶号46–52与目录88–94的对应须另核，不强行改抄本叶码",
+          "language": "英语说明",
+          "resource_type": "current_holding_institution_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e12:ECCA-133",
+      "area": "e-Clavis系统扫描续查E12",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "彼得劝诫",
+      "original_title": "Exhortation of Peter",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语长短本；现代英译线索",
+      "synopsis": "短本述两仆受放逐及死亡临到的比喻；长本另加独修者受魔化女子试探故事与劝诫。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见Exhortation；总集彼得劝命中为彼得行传叙事，不是本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见Exhortation；总集彼得劝命中为彼得行传叙事，不是本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "长本叙利亚文已可读；继续取得Walters2020长本英译、Minov2018短本校译，并核Berlin Sachau号码歧异。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/exhortation-of-peter/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e12.json",
+      "worker_entry_id": "ECCA-133",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "133"
+      },
+      "resources": [
+        {
+          "url": "https://syriaccorpus.org/372",
+          "edition": "James E.Walters, Digital Syriac Corpus372 (2018), proofed born-digital diplomatic edition",
+          "location": "Berlin Syr201 / source metadata Sachau165；分页9v、10r/v、11r/v、12r/v；第1–12章至忏悔劝诫尾",
+          "verified": "实际读取数字正文首尾、全部页断与12章结构；第9章起在12r，第11章中至12v；元数据为CCBY4.0",
+          "limits": "这是长本叙利亚文转录，不是英语全译；不能用较短9v–11v范围覆盖第二故事。AJR行文出现Sachau51，与数字版165不一致，保留书架号冲突待原目录核",
+          "language": "叙利亚语",
+          "resource_type": "open_access_complete_long_recension_diplomatic_edition",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.ancientjewreview.com/read/2021/4/26/the-exhortation-of-peter-interpreting-peter-with-late-ancient-monastic-communities",
+          "edition": "James E.Walters, Ancient Jew Review (26 April2021)",
+          "location": "作者研究文章，含两故事概述、局部引译、注3/4指出Minov2018短本与MNTA2:278–287长本",
+          "verified": "实际读全文及注释，确认短本缺第二故事和现代两译的对应",
+          "limits": "作者文章不是全文英译；Minov2018:167–181不得标为长本完整英译。两抄本年代、Sachau号码需与原目录分别核",
+          "language": "英语说明及摘引",
+          "resource_type": "translator_research_article_and_version_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e12:ECCA-286",
+      "area": "e-Clavis系统扫描续查E12",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "使徒的命运（古英语诗）",
+      "original_title": "Fates of the Apostles",
+      "author_or_attribution": "Cynewulf（诗中卢恩署名）",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "古英语；现代英语",
+      "synopsis": "Cynewulf署名头韵诗，述使徒行旅殉道，尾以卢恩署名和祷求收束；与现代同题殉道史著作须分。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见Fates；总集使徒命运／使徒的命运未命中；使徒殉道叙事并不自动覆盖这首独立诗。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见Fates；总集使徒命运／使徒的命运未命中；使徒殉道叙事并不自动覆盖这首独立诗。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "完整英译路径已核；继续Vercelli CXVII52v–54r图像及Krapp1906古英语诗正文，不将现代SeanMcDowell同题书混入。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/fates-of-the-apostles/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e12.json",
+      "worker_entry_id": "ECCA-286",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "286"
+      },
+      "resources": [
+        {
+          "url": "https://oldenglishpoetry.camden.rutgers.edu/the-fate-of-the-apostles/",
+          "edition": "Hostetter, Old English Poetry Project, Rutgers University",
+          "location": "全诗英译1–120行；96–106为卢恩名谜，115–120赞颂收尾",
+          "verified": "实际读1–120全篇并用直接HTML确认正文及校方页脚；浏览工具403但urllib访问成功",
+          "limits": "63–69译文作Matthias，而NASSCAL概要作Matthew；保留差异，待原古英语及校本核，不擅改译文。NASSCAL旧署Aaron K.，现校方页脚Dr.Ophelia Eryn Hostetter，引用保留Hostetter",
+          "language": "英语",
+          "resource_type": "university_hosted_complete_poem_translation",
           "checked_date_beijing": "2026-11-12"
         }
       ]
