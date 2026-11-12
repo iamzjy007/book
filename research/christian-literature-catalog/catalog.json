@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 184,
-    "catalogue_records_after_one_merge": 183,
+    "worker_records": 186,
+    "catalogue_records_after_one_merge": 185,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 291
+    "unique_source_urls": 295
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -104,6 +104,10 @@
     {
       "path": "workers/eclavis_b02.json",
       "sha256": "6b636646d2bd6d47709bcfc5de6720514c64b21f19f05a09340da0b503ba4331"
+    },
+    {
+      "path": "workers/eclavis_b03.json",
+      "sha256": "855c8e203ede40b447e0814818c54e48a7fce890ca9194e5181658416d5decfe"
     }
   ],
   "records": [
@@ -5294,7 +5298,7 @@
         "next": "核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。"
       },
       "priority": "P2",
-      "next": "先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。",
+      "next": "三构件分别核项目法译可达性、图式与新页序；2013论文加拿大国家图书馆入口本轮直开失败，未取得论文正文；保留中文文集具体收录待核。",
       "sources": [
         {
           "url": "https://www.pulaval.com/livres/les-deux-livres-de-ieou-ms-bruce-96-les-livres-du-grand-discours-mysterique-le-livre-des-connaissances-du-dieu-invisible-fragment-sur-le-passage-de-l-ame-bcnh-textes-no-38",
@@ -5316,11 +5320,85 @@
           "actually_read": "Schmidt1905德译合订书目、卷题及子目；馆录有作者与原语著录疑点，不能未经复核照抄",
           "access": "readable_page",
           "checked_date_beijing": "2026-11-10"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/books-of-jeu/",
+          "institution": "NASSCAL",
+          "read_scope": "实际读复合结构与版本书目",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.peeters-leuven.be/detail.php?id=1428",
+          "institution": "Peeters出版社",
+          "read_scope": "实际读2019校本说明",
+          "accessed": "2026-11-12"
         }
       ],
       "worker_record": "workers/root.json",
       "worker_entry_id": "books-jeu",
-      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "resources": [
+        {
+          "url": "https://www.peeters-leuven.be/detail.php?id=1428",
+          "edition": "Crégheur, Les deux Livres de Iéou, BCNH Textes38 (2019)",
+          "location": "ISBN9789042932791，XXVIII+522页；文本三构件",
+          "verified": "实际读取出版社新校本、法译及三作品重分说明",
+          "limits": "出版社介绍不是译文正文；不同书目以总页或主体计数不能擅自互改",
+          "language": "科普特语／法语",
+          "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/ms-bruce-96-1-les-livres-du-grand-discours-mysterique.pdf",
+          "edition": "Crégheur法译：大奥秘论诸书",
+          "location": "BCNH项目分别提供的MS Bruce96,1／2／3译文",
+          "verified": "检索索引返回题头与译文片段；直开三链接均403",
+          "limits": "本轮不标直接读到PDF全文；另一个contenu大奥秘论路径也403。保持三构件区别",
+          "language": "法语",
+          "resource_type": "project_translation_access_blocked",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/ms-bruce-96-2-le-livre-des-connaissances-du-dieu-invisible.pdf",
+          "edition": "Crégheur法译：不可见上帝的知识书",
+          "location": "BCNH项目分别提供的MS Bruce96,1／2／3译文",
+          "verified": "检索索引返回题头与译文片段；直开三链接均403",
+          "limits": "本轮不标直接读到PDF全文；另一个contenu大奥秘论路径也403。保持三构件区别",
+          "language": "法语",
+          "resource_type": "project_translation_access_blocked",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/ms-bruce-96-3-fragment-sur-le-passage-de-l-ame.pdf",
+          "edition": "Crégheur法译：灵魂通过诸界残篇",
+          "location": "BCNH项目分别提供的MS Bruce96,1／2／3译文",
+          "verified": "检索索引返回题头与译文片段；直开三链接均403",
+          "limits": "本轮不标直接读到PDF全文；另一个contenu大奥秘论路径也403。保持三构件区别",
+          "language": "法语",
+          "resource_type": "project_translation_access_blocked",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://digital.bodleian.ox.ac.uk/objects/32770258-9c24-4b1c-9b9d-79a66f8914cf/",
+          "edition": "Bodleian MS Bruce96数字对象",
+          "location": "诸书相关pp1–94据e-Clavis",
+          "verified": "实际打开对象入口但无图像可读文本；再次访问超时",
+          "limits": "尚未核图像顺序及旧新页序；图式重要，不以纯OCR替代校本",
+          "language": "科普特语",
+          "resource_type": "manuscript_viewer_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "clavis": {
+        "ECCA": "683",
+        "CANT": "29"
+      },
+      "resource_supplements": [
+        {
+          "worker_record": "workers/eclavis_b03.json",
+          "id": "ECCA-683-resource-supplement"
+        }
+      ]
     },
     {
       "id": "eclavis_a01:ECCA-177",
@@ -10442,6 +10520,119 @@
           "limits": "作者自行发布转译；未逐节校对吉兹语或法语，不含Piovanelli导言、校勘及原注释；表格OCR夹有乱码和重复",
           "language": "英语",
           "resource_type": "author_posted_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_b03:ECCA-615",
+      "area": "e-Clavis系统扫描续查B03",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "多马书／多马争战书",
+      "original_title": "Book of Thomas / Book of Thomas the Contender",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语（NHC II,7）",
+      "synopsis": "归托马提阿记录的救主与多马对话，强调自我认识及禁欲。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "in_reference_anthology_not_formal_manifest",
+      "repository_evidence": "中文总集233章48214–48334行已见简介和完整篇幅正文；实际读马太记录对话开头、结尾安息／作王及阿们。正式manifest061多马福音是另一作品。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "中文总集233章48214–48334行已见简介和完整篇幅正文；实际读马太记录对话开头、结尾安息／作王及阿们。正式manifest061多马福音是另一作品。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以中文总集233章对照NHC138–145校正文及译者，不重复当作缺书。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-thomas-the-contender/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_b03.json",
+      "worker_entry_id": "ECCA-615",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "615",
+        "CANT": "24"
+      },
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/thomascontender.html",
+          "edition": "John D. Turner英译，在线转写",
+          "location": "由secret words起至末尾Amen；网页附译者及转写说明",
+          "verified": "实际读题头、译者声明、首尾与对话结构",
+          "limits": "未核准确印次页码；NASSCAL1990选集条目署Jesse Sell，与网页Turner不同，保留具体在线署名，不混作同一译本",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/nh-ii-7-livre-de-thomas.pdf",
+          "edition": "Raymond Kuntzmann法译，BCNH项目",
+          "location": "3页PDF，NHC138–145",
+          "verified": "首次打开可读题头、译者及开头；再次取末页返回403",
+          "limits": "只确认开头与文件页数，未读法译末尾，不将项目书目摘要当校本全文；只存路径",
+          "language": "法语",
+          "resource_type": "project_translation_intermittent_access",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_b03:ECCA-914",
+      "area": "e-Clavis系统扫描续查B03",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "使徒简编",
+      "original_title": "Breviary of the Apostles / Breviarium apostolorum",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语；另有格鲁吉亚语使徒地点名录见证",
+      "synopsis": "简列使徒姓名、传道地域及纪念日的短篇名录。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立题名；使徒行传各篇或其他门徒名单不能自动视为本简编。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立题名；使徒行传各篇或其他门徒名单不能自动视为本简编。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/breviary-of-the-apostles-breviarium-apostolorum/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_b03.json",
+      "worker_entry_id": "ECCA-914",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "914"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/breviary-of-the-apostles-breviarium-apostolorum/",
+          "edition": "Calder / Allen, Sources and Analogues of Old English Poetry (1976)",
+          "location": "印37–39；e-Clavis的1.TRANSLATION完整转载",
+          "verified": "实际读取从彼得到末项马提亚的全部短篇；网页明确声明full",
+          "limits": "这一译本据Mohlberg1960，不代表拉丁手稿全部异读；原文中历史地理和日期只是传统记载",
+          "language": "英语",
+          "resource_type": "scholarly_online_full_translation",
           "checked_date_beijing": "2026-11-12"
         }
       ]

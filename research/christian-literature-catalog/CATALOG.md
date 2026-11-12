@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **183条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **185条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-B02.md](RESOURCE-PATHS-B02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-B03.md](RESOURCE-PATHS-B03.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -2744,12 +2744,26 @@
 
 **中文线索：** mainland：已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。；evidence：url：https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show；level：search_index_only_open_403；finding：检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。；url：https://book.douban.com/subject/36663348/；level：search_index_only；finding：检索列人民出版社修订版；不是本作具体收录证明。；confidence：collection_lead_only；next：核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。
 
-**下一步：** 先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。
+**下一步：** 三构件分别核项目法译可达性、图式与新页序；2013论文加拿大国家图书馆入口本轮直开失败，未取得论文正文；保留中文文集具体收录待核。
 
 **来源：**
 - [拉瓦尔大学出版社](https://www.pulaval.com/livres/les-deux-livres-de-ieou-ms-bruce-96-les-livres-du-grand-discours-mysterique-le-livre-des-connaissances-du-dieu-invisible-fragment-sur-le-passage-de-l-ame-bcnh-textes-no-38) — Éric Crégheur2019、556页、ISBN9782763726762、结构性副题及内容简介
 - [Brill／De Gruyter Brill](https://www.degruyterbrill.com/document/isbn/9789004301191/html) — Erin Evans2015研究专著介绍，讨论两作品、洗礼／上升／伦理主题；这是现代研究，不是古代原作译本
 - [法国国家图书馆](https://catalogue.bnf.fr/ark:/12148/cb33446670k) — Schmidt1905德译合订书目、卷题及子目；馆录有作者与原语著录疑点，不能未经复核照抄
+- [NASSCAL](https://www.nasscal.com/e-clavis-christian-apocrypha/books-of-jeu/) — 实际读复合结构与版本书目
+- [Peeters出版社](https://www.peeters-leuven.be/detail.php?id=1428) — 实际读2019校本说明
+
+资源路径：[Crégheur, Les deux Livres de Iéou, BCNH Textes38 (2019)](https://www.peeters-leuven.be/detail.php?id=1428) — ISBN9789042932791，XXVIII+522页；文本三构件；实际读取出版社新校本、法译及三作品重分说明；出版社介绍不是译文正文；不同书目以总页或主体计数不能擅自互改
+
+资源路径：[Crégheur法译：大奥秘论诸书](https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/ms-bruce-96-1-les-livres-du-grand-discours-mysterique.pdf) — BCNH项目分别提供的MS Bruce96,1／2／3译文；检索索引返回题头与译文片段；直开三链接均403；本轮不标直接读到PDF全文；另一个contenu大奥秘论路径也403。保持三构件区别
+
+资源路径：[Crégheur法译：不可见上帝的知识书](https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/ms-bruce-96-2-le-livre-des-connaissances-du-dieu-invisible.pdf) — BCNH项目分别提供的MS Bruce96,1／2／3译文；检索索引返回题头与译文片段；直开三链接均403；本轮不标直接读到PDF全文；另一个contenu大奥秘论路径也403。保持三构件区别
+
+资源路径：[Crégheur法译：灵魂通过诸界残篇](https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/ms-bruce-96-3-fragment-sur-le-passage-de-l-ame.pdf) — BCNH项目分别提供的MS Bruce96,1／2／3译文；检索索引返回题头与译文片段；直开三链接均403；本轮不标直接读到PDF全文；另一个contenu大奥秘论路径也403。保持三构件区别
+
+资源路径：[Bodleian MS Bruce96数字对象](https://digital.bodleian.ox.ac.uk/objects/32770258-9c24-4b1c-9b9d-79a66f8914cf/) — 诸书相关pp1–94据e-Clavis；实际打开对象入口但无图像可读文本；再次访问超时；尚未核图像顺序及旧新页序；图式重要，不以纯OCR替代校本
+
+[补充资源调查](workers/eclavis_b03.json)，补证 `ECCA-683-resource-supplement`。
 
 [完整调查记录](workers/root.json)，条目 `books-jeu`。
 
@@ -4925,3 +4939,59 @@ e-Clavis占位条目，内容与版本栏未填；暂不据同名作品填入概
 资源路径：[David Blocker, Annotated English Translation of the Ethiopic Book of the Cock (2024-09-05)](https://www.academia.edu/123597409/The_Ethiopic_Book_of_the_Cock_2024_An_English_translation) — 在线可读转写，1.01起至10.14及末颂；实际读译者前言、开头及入葬结尾；明确从Piovanelli法译转译，原法译正文153–203；作者自行发布转译；未逐节校对吉兹语或法语，不含Piovanelli导言、校勘及原注释；表格OCR夹有乱码和重复
 
 [完整调查记录](workers/eclavis_b02.json)，条目 `ECCA-761`。
+
+## e-Clavis系统扫描续查B03
+
+### 多马书／多马争战书
+
+- **原题：** Book of Thomas / Book of Thomas the Contender
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语（NHC II,7）
+
+归托马提阿记录的救主与多马对话，强调自我认识及禁欲。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** in_reference_anthology_not_formal_manifest
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：中文总集233章48214–48334行已见简介和完整篇幅正文；实际读马太记录对话开头、结尾安息／作王及阿们。正式manifest061多马福音是另一作品。
+
+**下一步：** 以中文总集233章对照NHC138–145校正文及译者，不重复当作缺书。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-thomas-the-contender/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[John D. Turner英译，在线转写](https://www.earlychristianwritings.com/text/thomascontender.html) — 由secret words起至末尾Amen；网页附译者及转写说明；实际读题头、译者声明、首尾与对话结构；未核准确印次页码；NASSCAL1990选集条目署Jesse Sell，与网页Turner不同，保留具体在线署名，不混作同一译本
+
+资源路径：[Raymond Kuntzmann法译，BCNH项目](https://www.naghammadi.org/sites/naghammadi.org/files/uploads/traductions/nh-ii-7-livre-de-thomas.pdf) — 3页PDF，NHC138–145；首次打开可读题头、译者及开头；再次取末页返回403；只确认开头与文件页数，未读法译末尾，不将项目书目摘要当校本全文；只存路径
+
+[完整调查记录](workers/eclavis_b03.json)，条目 `ECCA-615`。
+
+### 使徒简编
+
+- **原题：** Breviary of the Apostles / Breviarium apostolorum
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语；另有格鲁吉亚语使徒地点名录见证
+
+简列使徒姓名、传道地域及纪念日的短篇名录。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立题名；使徒行传各篇或其他门徒名单不能自动视为本简编。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/breviary-of-the-apostles-breviarium-apostolorum/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Calder / Allen, Sources and Analogues of Old English Poetry (1976)](https://www.nasscal.com/e-clavis-christian-apocrypha/breviary-of-the-apostles-breviarium-apostolorum/) — 印37–39；e-Clavis的1.TRANSLATION完整转载；实际读取从彼得到末项马提亚的全部短篇；网页明确声明full；这一译本据Mohlberg1960，不代表拉丁手稿全部异读；原文中历史地理和日期只是传统记载
+
+[完整调查记录](workers/eclavis_b03.json)，条目 `ECCA-914`。

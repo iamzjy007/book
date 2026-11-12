@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续81项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续84项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -811,15 +811,45 @@
       "evidence": "既有B12补科普特旧版转写和1913英译扫描路径，不重复建条。",
       "ordinal": 81,
       "batch": "2026-11-12-eclavis-b02"
+    },
+    {
+      "ecca": "615",
+      "title": "Book of Thomas",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-thomas-the-contender/",
+      "decision": "in_reference_anthology_not_formal_manifest",
+      "record_id": "eclavis_b03:ECCA-615",
+      "evidence": "中文总集233章48214–48334行已见简介和完整篇幅正文；实际读马太记录对话开头、结尾安息／作王及阿们。正式manifest061多马福音是另一作品。",
+      "ordinal": 82,
+      "batch": "2026-11-12-eclavis-b03"
+    },
+    {
+      "ecca": "683",
+      "title": "Books of Jeu",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/books-of-jeu/",
+      "decision": "existing_catalog_resource_supplement",
+      "record_id": "root:books-jeu",
+      "evidence": "既有root:books-jeu补三构件法译链接、出版社与手稿入口；本轮PDF直开403。",
+      "ordinal": 83,
+      "batch": "2026-11-12-eclavis-b03"
+    },
+    {
+      "ecca": "914",
+      "title": "Breviary of the Apostles",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/breviary-of-the-apostles-breviarium-apostolorum/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_b03:ECCA-914",
+      "evidence": "manifest未见独立题名；使徒行传各篇或其他门徒名单不能自动视为本简编。",
+      "ordinal": 84,
+      "batch": "2026-11-12-eclavis-b03"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Book of Bartholomew",
-    "last_completed_ecca": "195",
-    "next_title": "Book of Thomas the Contender",
-    "next_ecca": "615",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-thomas-the-contender/",
+    "last_completed_title": "Breviary of the Apostles",
+    "last_completed_ecca": "914",
+    "next_title": "Canon Muratori",
+    "next_ecca": "447",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -837,7 +867,8 @@
       "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
@@ -845,6 +876,13 @@
       "batch": "2026-11-12-eclavis-a13",
       "milestone": "A区71个索引位置初扫完成",
       "limits": "并非全部资源已取得，版本冲突和占位未解决项继续追踪。"
+    },
+    {
+      "section": "B",
+      "status": "initial_scan_completed_unresolved_versions_retained",
+      "last_ecca": "914",
+      "last_ordinal": 84,
+      "date_beijing": "2026-11-12"
     }
   ]
 }
