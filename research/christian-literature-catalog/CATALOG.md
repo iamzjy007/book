@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **239条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **242条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E04.md](RESOURCE-PATHS-E04.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E05.md](RESOURCE-PATHS-E05.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -6617,3 +6617,91 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Migne, PG105 (1862), OratioIX](https://archive.org/details/patrologia-graeca_202105/105) — 拉丁163–183／希腊164–184；BookReader leaf86–96，86底部起篇；实际查看163/164 OratioIX独立题头、171/172中段、183/184赞辞及Amen结尾；卷题页CV及1862已核；184下方另起Ex miraculis Philippi，不并入本颂。只核首尾和中段，未逐栏通读；现代译文栏目空白不等于不存在现代译文
 
 [完整调查记录](workers/eclavis_e04.json)，条目 `ECCA-135`。
+
+## e-Clavis系统扫描续查E05
+
+### 帕夫拉戈尼亚的尼基塔斯：多马颂
+
+- **原题：** Encomium on Thomas, by Nicetas of Paphlagonia
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；拉丁译文
+
+以赞辞为主、穿插多马东方传教及殉道传统的讲词。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest及中文总集多马颂／托马斯颂／Nicetas未定位；多马行传不能自动覆盖此颂。
+
+**下一步：** 继续比对1916异文1514–1516；Combefis1672本所列364–386可能含相邻作品，页界待原刊核定。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-thomas-by-nicetas-of-paphlagonia/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Migne, PG105 (1862), OratioVII](https://archive.org/details/patrologia-graeca_202105/105) — cols127–146；BookReader leaf68–77；实际查看127/128底部OratioVII题头，137/138及145/146末尾Amen；同页下方另起亚勒腓子雅各颂；未逐栏通读；137/138大部分是校注，不能视作全部为本颂正文；初页上半是前篇尾部；现代译文目录空白不作无译本结论
+
+[完整调查记录](workers/eclavis_e05.json)，条目 `ECCA-294`。
+
+### 帕夫拉戈尼亚的尼基塔斯：提摩太颂
+
+- **原题：** Encomium on Timothy, by Nicetas of Paphlagonia
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；现代译文未定位
+
+尼基塔斯名下提摩太颂；现阶段不以提摩太行传或梅塔弗拉斯特斯改写本替代。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest与中文总集提摩太颂／Nicetas未命中；现有提摩太行传不是本篇正文证据。
+
+**下一步：** 继续核1917 PPS63与同题短文的关系；不要将Symeon Hypomnema或PG其他使徒颂误当此篇。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-timothy-by-nicetas-of-paphlagonia/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[BHG1848n版本书目入口](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-timothy-by-nicetas-of-paphlagonia/) — Paris gr755253r–261v及多馆抄本；1917校刊候选；实际读在编状态、抄本及3条1917书目；正文概要及现代翻译栏尚空；条目中Latyšev与Papadopoulos-Kerameus署名／书题关系未厘清，不能合并成一个已证实版本；本轮未取得校本正文
+
+资源路径：[Math-Net，Latyšev1917论文记录](https://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=59121) — Греческая литургическая рукопись…，Извѣстія Академіи Наукъ11.2 (1917)85–86；实际读研究机构数据库作者作品页确认该文只有85–86两页；这不能证明是提摩太颂全校本；与NASSCAL书目所列同题单行本关系待核。作者页还混有1983同名作者条目，不据其生平混同
+
+资源路径：[美国国会图书馆 Athos Megistes LaurasΔ80入口](https://www.loc.gov/item/00271051839-ma/) — 目标231–236叶据NASSCAL；实际跟随馆藏链接返回403；未见原图；仅保存机构手稿在线入口
+
+[完整调查记录](workers/eclavis_e05.json)，条目 `ECCA-986`。
+
+### 伪金口约翰：四无形活物颂
+
+- **原题：** Encomium on the Four Bodiless Creatures by Pseudo-John Chrysostom
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语、阿拉伯语、吉兹语、古努比亚语；英语译文
+
+围绕四活物的讲词，包含使徒发现之书及以诺传统。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest与中文总集四活物颂／四无形活物／Wansink未定位；以诺书及四福音象征说明不自动覆盖本篇。
+
+**下一步：** 取得CSCO52527–47现代英译；进一步核Munier残片原图与Pearson2002重新认定；古努比亚Browne1988仅碎片，不作全颂。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-four-bodiless-creatures-by-pseudo-john-chrysostom/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Craig S.Wansink, Homiletica from the Pierpont Morgan Library, CSCO524/525](https://www.peeters-leuven.be/catalogue_download.php?n=995%24General+Catalogue+2022.pdf) — 科普特27–46，英译27–47据NASSCAL；出版方目录确认524文字卷／525翻译卷及1991年；实际检索出版方总目录配套卷记录；Morgan目录检索亦记Wansink1991；NASSCAL写1993，出版方1991；保留年份差异。尚未取得目标英译正文，不能标为可直接读取全文
+
+资源路径：[Morgan MS M.612，四活物颂馆藏](https://www.themorgan.org/manuscript/77451) — 892–893年，17叶；BerlinP11965补全文块；实际检索机构记录标题、抄写地与年代、Wansink1991校译说明；直接打开403；只核机构检索文字，未读手稿图像；手稿年代不是作品成书年代
+
+资源路径：[Henri Munier, Mélanges de littérature copteIII, ASAE23 (1923)](https://archive.org/download/ASAE-23-1923/ASAE%2023%20%281923%29%20LR_djvu.txt) — 全论文210–228；第3项Livre d’Énoch(?)，212–215为本颂所属残片旧刊；实际读取Archive元数据与OCR目标段：48085识别为h8085，介绍三块碎片并排校文；只是三块残片旧刊，题名为当时疑定，不能按以诺独立书合并；OCR科普特字母误识严重，未核原图；本条与现代全颂英译分层保存
+
+[完整调查记录](workers/eclavis_e05.json)，条目 `ECCA-685`。

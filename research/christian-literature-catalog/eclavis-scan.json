@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续139项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续142项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1391,15 +1391,45 @@
       "evidence": "manifest与中文总集腓力颂／Nicetas未命中；不据已有腓力行传取消候选。",
       "ordinal": 139,
       "batch": "2026-11-12-eclavis-e04"
+    },
+    {
+      "ecca": "294",
+      "title": "Encomium on Thomas, by Nicetas of Paphlagonia",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-thomas-by-nicetas-of-paphlagonia/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e05:ECCA-294",
+      "evidence": "manifest及中文总集多马颂／托马斯颂／Nicetas未定位；多马行传不能自动覆盖此颂。",
+      "ordinal": 140,
+      "batch": "2026-11-12-eclavis-e05"
+    },
+    {
+      "ecca": "986",
+      "title": "Encomium on Timothy, by Nicetas of Paphlagonia",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-timothy-by-nicetas-of-paphlagonia/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e05:ECCA-986",
+      "evidence": "manifest与中文总集提摩太颂／Nicetas未命中；现有提摩太行传不是本篇正文证据。",
+      "ordinal": 141,
+      "batch": "2026-11-12-eclavis-e05"
+    },
+    {
+      "ecca": "685",
+      "title": "Encomium on the Four Bodiless Creatures by Pseudo-John Chrysostom",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-four-bodiless-creatures-by-pseudo-john-chrysostom/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e05:ECCA-685",
+      "evidence": "manifest与中文总集四活物颂／四无形活物／Wansink未定位；以诺书及四福音象征说明不自动覆盖本篇。",
+      "ordinal": 142,
+      "batch": "2026-11-12-eclavis-e05"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Encomium on Philip, by Nicetas of Paphlagonia",
-    "last_completed_ecca": "135",
-    "next_title": "Encomium on Thomas, by Nicetas of Paphlagonia",
-    "next_ecca": "294",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-thomas-by-nicetas-of-paphlagonia/",
+    "last_completed_title": "Encomium on the Four Bodiless Creatures by Pseudo-John Chrysostom",
+    "last_completed_ecca": "685",
+    "next_title": "Epistles of Christ and Abgar",
+    "next_ecca": "489",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-christ-and-abgar/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1431,7 +1461,8 @@
       "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
