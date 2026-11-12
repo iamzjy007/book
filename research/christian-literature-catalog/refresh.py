@@ -4,8 +4,8 @@ import hashlib
 import json
 
 ROOT = Path(__file__).resolve().parent
-WORKERS = ['dydi_a', 'dydi_b', 'dydi_c', 'dydi_d', 'lori_a', 'lori_b', 'root', 'eclavis_a01']
-AREAS = ['叙利亚与阿拉伯传统', '耶稣、福音残篇与使徒传统', '沙漠与东方诸教会', '希腊与拜占庭灵修', '拉丁西方传统', '礼仪、教规与殉道', '科普特启示及伦理文献', 'e-Clavis系统扫描续查']
+WORKERS = ['dydi_a', 'dydi_b', 'dydi_c', 'dydi_d', 'lori_a', 'lori_b', 'root', 'eclavis_a01', 'eclavis_a02']
+AREAS = ['叙利亚与阿拉伯传统', '耶稣、福音残篇与使徒传统', '沙漠与东方诸教会', '希腊与拜占庭灵修', '拉丁西方传统', '礼仪、教规与殉道', '科普特启示及伦理文献', 'e-Clavis系统扫描续查', 'e-Clavis系统扫描续查A02']
 
 def pick(d, *keys, default='待进一步核实'):
     return next((d[k] for k in keys if d.get(k) not in (None, '', [], {})), default)
@@ -79,8 +79,8 @@ def main():
     assert len({x['id'] for x in records}) == len(records)
     urls = {s['url'] for x in records for s in x['sources']}
     counts = {'worker_records': len(records) + 1, 'catalogue_records_after_one_merge': len(records), 'modern_anthology_gateways': sum(x['record_kind'] == 'modern_anthology_gateway' for x in records), 'unique_source_urls': len(urls)}
-    save('catalog.json', {'schema': 1, 'date_beijing': '2026-11-10', 'phase': 'rolling_followup', 'counts': counts, 'count_limit': '条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。', 'merge_log': [{'from': 'dydi_c:C08', 'into': d['id'], 'reason': '同一John Climacus天梯，合并东方与希腊组证据；不同于Guigo修士天梯、雅各天梯或阶梯之书。'}], 'snapshots': snapshots, 'records': records})
-    lines = ['# 古代基督教文献书目目录（滚动更新）', '', f'当前汇总 **{len(records)}条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。', '', '本批资源直达与访问限制见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。', '']
+    save('catalog.json', {'schema': 1, 'date_beijing': '2026-11-12', 'phase': 'rolling_followup', 'counts': counts, 'count_limit': '条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。', 'merge_log': [{'from': 'dydi_c:C08', 'into': d['id'], 'reason': '同一John Climacus天梯，合并东方与希腊组证据；不同于Guigo修士天梯、雅各天梯或阶梯之书。'}], 'snapshots': snapshots, 'records': records})
+    lines = ['# 古代基督教文献书目目录（滚动更新）', '', f'当前汇总 **{len(records)}条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。', '', '最新资源路径见 [RESOURCE-PATHS-A02.md](RESOURCE-PATHS-A02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。', '']
     for area in AREAS:
         lines += ['## ' + area, '']
         for x in records:
@@ -97,16 +97,24 @@ def main():
     save('validation.json', {'checks': {'all_worker_json_parse': True, 'catalog_ids_unique': True, 'every_record_has_title_and_original_title': True, 'every_record_has_resolved_source_urls': True, 'known_climacus_duplicate_merged': True}, 'counts': counts, 'limits': '这是文件结构、来源入口及已知重复校验，不证明所有书目信息无误，也不是全网或大陆出版情况的穷尽查证。'})
     scan = json.loads((ROOT / 'eclavis-scan.json').read_text())
     scan_ids = [x['ecca'] for x in scan['records']]
-    assert len(scan_ids) == len(set(scan_ids)) == 12
-    batch_records = [x for x in records if x['worker_record'] == 'workers/eclavis_a01.json']
-    assert len(batch_records) == 10
-    assert all(x.get('resources') for x in batch_records)
-    assert all(r.get('verified') and r.get('limits') for x in batch_records for r in x['resources'])
+    assert len(scan_ids) == len(set(scan_ids))
+    assert [x['ordinal'] for x in scan['records']] == list(range(1, len(scan_ids) + 1))
+    catalogue_ids = {x['id'] for x in records}
+    assert all(x.get('record_id') in catalogue_ids for x in scan['records'] if x.get('record_id'))
+    batches = {}
+    for worker, expected in [('eclavis_a01', 10), ('eclavis_a02', 6)]:
+        batch_records = [x for x in records if x['worker_record'] == f'workers/{worker}.json']
+        assert len(batch_records) == expected
+        assert all(x.get('resources') for x in batch_records)
+        assert all(r.get('verified') and r.get('limits') for x in batch_records for r in x['resources'])
+        batches[worker] = len(batch_records)
     for json_path in ROOT.rglob('*.json'):
         json.loads(json_path.read_text())
     validation = json.loads((ROOT / 'validation.json').read_text())
-    validation['checks'].update(new_scan_sequence_twelve_unique=True, new_worker_records_ten=True, new_resource_locators_have_verification_and_limits=True, all_saved_json_parse=True)
-    validation['followup_counts'] = json.loads((ROOT / 'sessions/2026-11-10-eclavis-a01.json').read_text())['counts']
+    validation['checks'].update(scan_ecca_unique=True, scan_ordinals_contiguous=True, scan_record_ids_resolve=True, resource_locators_have_verification_and_limits=True, all_saved_json_parse=True)
+    validation['scan_record_count'] = len(scan_ids)
+    validation['batch_catalogue_record_counts'] = batches
+    validation['followup_counts'] = json.loads((ROOT / 'sessions/2026-11-12-eclavis-a02.json').read_text())['counts']
     save('validation.json', validation)
     print(json.dumps(counts, ensure_ascii=False))
 

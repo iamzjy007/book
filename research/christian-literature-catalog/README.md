@@ -15,3 +15,7 @@
 ## 最新续查（2026-11-10，A01）
 
 已从e-Clavis索引开头连续核查12项，新增10条作品调查，当前汇总120条（含正式已有和参考已收作品，不是120部新缺书）。本批可用入口、具体页码及访问限制见 [资源路径报告](RESOURCE-PATHS-A01.md)；完整扫描与断点见 [eclavis-scan.json](eclavis-scan.json)。下一项为Acts of Bartholomew（ECCA709），A字母尚未完成。初建的PHASE-1-REPORT和SHORTLIST仍作为第一阶段历史快照保留。
+
+## 最新续查（2026-11-12，A02）
+
+接续ECCA709连续核查6项至Acts of John，累计扫描索引18项。新增6条调查：5项库存未明确匹配候选、1项正式已有；当前目录126条。已定位编者公开的《百夫长哥尼流行传》2016校样译文及两版本页界；其他资源的书目、预览和被阻手稿分别标明。见[资源路径A02](RESOURCE-PATHS-A02.md)。下一项Acts of John by Prochorus（ECCA203），A字母尚未完成。

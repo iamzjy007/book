@@ -1,0 +1,530 @@
+{
+  "worker": "eclavis_a02",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "连续核查e-Clavis索引第13–18项；新增6条调查（5候选＋1正式已有），非新增6部缺书。",
+  "method": "当前会话单一工作者；只保存书目、路径与实际访问层级。",
+  "items": [
+    {
+      "id": "ECCA-709",
+      "title_zh": "巴多罗买行传（希腊／亚美尼亚本）",
+      "original_title": "Acts of Bartholomew / Acta Bartholomaei",
+      "author": "匿名或传统归托；不据使徒名认定亲著",
+      "date": "成书年代本批未核定，不能以抄本年代代替",
+      "language": "希腊语、亚美尼亚语",
+      "synopsis": "希腊及亚美尼亚使徒行传／殉道传统；本批仅核身份和版本，不补造情节概述。",
+      "historical_value": "使徒传说、地方教会记忆与文本传承的比较材料",
+      "devotional_value": "尚待阅读全文评估",
+      "attribution_issues": "近似题名及相关传说须按ECCA编号分别映射。",
+      "repository_status": "候选；库存范围未见明确独立项",
+      "repository_evidence": "两manifest及中文参考章节标题未见明确ECCA709；已有《巴多罗买福音》与复活书并非同作。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社与国家图书馆；不判断有无正式出版",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest及中文参考章节标题未见明确ECCA709；已有《巴多罗买福音》与复活书并非同作。"
+      },
+      "priority": "继续核版本与实际可取得范围",
+      "next": "先取得并比较明确版本，避免同名误收。",
+      "clavis": {
+        "ECCA": "709",
+        "CANT": "258",
+        "BHG": "226z"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "浏览工具读取条目身份、概要或版本表；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://ceciliaantonelli.com/",
+          "institution": "校订者个人学术网页",
+          "read_scope": "搜索返回简介及书单；直接打开403；预计2026年底，不当作已出版",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/",
+          "edition": "专业书目与手稿定位",
+          "location": "Weimar Q.729 ff.173r–180r；Yerevan Matenadaran7853 ff.374v–380r",
+          "verified": "条目可读，核到两见证与CANT258",
+          "limits": "未打开手稿图像或校本；不以旧英译Martyrdom抵算",
+          "language": "待核",
+          "resource_type": "bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ceciliaantonelli.com/",
+          "edition": "Cecilia Antonelli：Acta et martyrium Bartholomaei，CCSA，拟刊",
+          "location": "作者网页Monographs及个人简介",
+          "verified": "搜索返回作者页面内容：预计2026年底；直接打开403",
+          "limits": "这是拟刊信息，未获出版社发行记录或开放全文；旧CV预计2025已过时",
+          "language": "待核",
+          "resource_type": "bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "ECCA-449",
+      "title_zh": "巴多罗买与巴拿巴行传",
+      "original_title": "Acts of Bartholomew and Barnabas / Bartholomaei et Barnabae periodoi et passio",
+      "author": "匿名或传统归托；不据使徒名认定亲著",
+      "date": "成书年代本批未核定，不能以抄本年代代替",
+      "language": "希腊语",
+      "synopsis": "合写二圣事迹与殉道，并附结语祷文；属地方圣徒记忆传统。",
+      "historical_value": "使徒传说、地方教会记忆与文本传承的比较材料",
+      "devotional_value": "尚待阅读全文评估",
+      "attribution_issues": "近似题名及相关传说须按ECCA编号分别映射。",
+      "repository_status": "候选；库存范围未见明确独立项",
+      "repository_evidence": "两manifest及中文参考章节标题未见双人合传；已有《巴拿巴行传》不能直接覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社与国家图书馆；不判断有无正式出版",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest及中文参考章节标题未见双人合传；已有《巴拿巴行传》不能直接覆盖。"
+      },
+      "priority": "继续核版本与实际可取得范围",
+      "next": "先取得并比较明确版本，避免同名误收。",
+      "clavis": {
+        "ECCA": "449",
+        "CANT": "264",
+        "BHG": "2057"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew-and-barnabas/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "浏览工具读取条目身份、概要或版本表；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.brepols.net/products/IS-9782503402611-1",
+          "institution": "Brepols出版社",
+          "read_scope": "实际打开题名、年份、目录BHG2057；未见校本正文",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.brepols.net/products/IS-9782503402611-1",
+          "edition": "Van Deun/Noret, Hagiographica Cypria, CCSG26, 1993",
+          "location": "校本pp.125–135（页码据e-Clavis）；出版社目录BHG2057",
+          "verified": "实际打开出版社题名、年份及目录，确认收录",
+          "limits": "只获出版入口，未取得校本全文",
+          "language": "希腊语",
+          "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1991",
+          "edition": "Vat.gr.1991",
+          "location": "ff.141v–148v（据e-Clavis）",
+          "verified": "DigiVatLib viewer外壳可打开",
+          "limits": "未读取页图；此见证据书目缺结尾",
+          "language": "希腊语",
+          "resource_type": "manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "ECCA-956",
+      "title_zh": "基督与彼得在罗马行传",
+      "original_title": "Acts of Christ and Peter in Rome / Acta Christi et Petri in Roma",
+      "author": "匿名或传统归托；不据使徒名认定亲著",
+      "date": "成书年代本批未核定，不能以抄本年代代替",
+      "language": "希腊语、教会斯拉夫语",
+      "synopsis": "基督以船长与孩子等身份帮助年老彼得，叙及彼得在罗马传教与死亡；希腊、斯拉夫版本有差异。",
+      "historical_value": "使徒传说、地方教会记忆与文本传承的比较材料",
+      "devotional_value": "尚待阅读全文评估",
+      "attribution_issues": "近似题名及相关传说须按ECCA编号分别映射。",
+      "repository_status": "候选；库存范围未见明确独立项",
+      "repository_evidence": "两manifest及中文参考标题未见本题或Slavonic Life of Peter；正式《彼得行传》为另一需分辨版本。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社与国家图书馆；不判断有无正式出版",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest及中文参考标题未见本题或Slavonic Life of Peter；正式《彼得行传》为另一需分辨版本。"
+      },
+      "priority": "继续核版本与实际可取得范围",
+      "next": "先取得并比较明确版本，避免同名误收。",
+      "clavis": {
+        "ECCA": "956",
+        "CANT": "198",
+        "BHG": "1485f"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-christ-and-peter-in-rome/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "浏览工具读取条目身份、概要或版本表；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "institution": "编者Tony Burke网站",
+          "read_scope": "实际读取题页、版权页及目录PDF第6页；19页文件未含本篇全文",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "edition": "MNTA3, 2023，编者公开导论与目录校样",
+          "location": "PDF第6页（零基5）目录；本篇印本pp.435–464",
+          "verified": "实际打开19页PDF，核目录题名、两位译者与下一篇465页",
+          "limits": "该PDF只含前置页与导论，没有本篇435–464页全文",
+          "language": "英语",
+          "resource_type": "contents_preview",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-christ-and-peter-in-rome/",
+          "edition": "Capaldo, Rivista di studi bizantini e neoellenici39 (2002)",
+          "location": "希腊本及意译pp.104–125；维也纳斯拉夫本及意译pp.126–143",
+          "verified": "专业条目版本书目可读",
+          "limits": "尚未验证期刊全文或手稿图像",
+          "language": "希腊／斯拉夫／意大利语",
+          "resource_type": "bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "ECCA-303",
+      "title_zh": "百夫长哥尼流行传",
+      "original_title": "Acts of Cornelius / Acta Cornelii",
+      "author": "匿名或传统归托；不认定使徒亲著",
+      "date": "成书年代本批未定；抄本日期不作原作年代",
+      "language": "希腊语及吉兹语传本",
+      "synopsis": "扩展哥尼流在斯凯普西斯的传教及死后圣所传统；长本和摘要本分别存世。",
+      "historical_value": "地方教会记忆、圣徒传统与版本比较材料",
+      "devotional_value": "须结合全文及文类评估",
+      "attribution_issues": "传说叙事不直接当作使徒时代事实；版本范围须分别标明",
+      "repository_status": "候选；有限库存核查未见明确独立项",
+      "repository_evidence": "两manifest及中文参考章节索引无明确本题；正典《使徒行传》10–11章并非这部后续传说。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest及中文参考章节索引无明确本题；正典《使徒行传》10–11章并非这部后续传说。"
+      },
+      "priority": "核版本、全文路径与库存覆盖",
+      "next": "优先使用已定位的长本及摘要两种译文，另核正式刊本校改；建立两版本覆盖表。",
+      "clavis": {
+        "ECCA": "303"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-cornelius/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际浏览作品条目的身份、概要和版本书目；未通读所列各版本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "institution": "编者Tony Burke学术网站",
+          "read_scope": "实际读取校样题页、目录和本篇导论／译文定位页；核长本345–357、摘要358–361边界，非逐页校读",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf#page=387",
+          "edition": "Burke/Witakowski, MNTA1 (2016)，编者公开校样PDF",
+          "location": "导论印本337–344＝PDF387–394；长本345–357＝PDF395–407；摘要358–361＝PDF408–411（PDF从1计）",
+          "verified": "浏览工具解析635页PDF；实读题页、目录、导论片段、长本开头及末页、摘要开头及末尾；Range206且PDF头",
+          "limits": "是third corrections校样，须与正式刊本核对；未逐页通读；没有下载整部书",
+          "language": "英语",
+          "resource_type": "editor_hosted_proof",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-cornelius/",
+          "edition": "旧希腊—拉丁文本与手稿表",
+          "location": "PG114，cols.1293–1312（以2016导论核对）；短本另列",
+          "verified": "实际读2016导论说明Migne底本及双语排栏",
+          "limits": "本批未打开PG扫描；不把其他研究文献误写的1324当作已核页尾",
+          "language": "希腊语／拉丁语",
+          "resource_type": "bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "ECCA-102",
+      "title_zh": "赫拉克利德行传（塞浦路斯）",
+      "original_title": "Acts of Heracleides / Acta Heraclides",
+      "author": "归托Rhodon（罗冬）的记述；传统叙述者身份不证明本人亲著",
+      "date": "成书年代本批未定；抄本日期不作原作年代",
+      "language": "希腊语、亚美尼亚语",
+      "synopsis": "归托罗冬记述赫拉克利德及姆纳松等塞浦路斯人物，含地方教会传承与职分材料。",
+      "historical_value": "地方教会记忆、圣徒传统与版本比较材料",
+      "devotional_value": "须结合全文及文类评估",
+      "attribution_issues": "传说叙事不直接当作使徒时代事实；版本范围须分别标明",
+      "repository_status": "候选；有限库存核查未见明确独立项",
+      "repository_evidence": "两manifest及中文参考章节索引未见Heracleides/Heraclides/赫拉克利德等独立项；与聂斯脱里《赫拉克利德集市》不同。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest及中文参考章节索引未见Heracleides/Heraclides/赫拉克利德等独立项；与聂斯脱里《赫拉克利德集市》不同。"
+      },
+      "priority": "核版本、全文路径与库存覆盖",
+      "next": "优先核Halkin校本139–168；亚美尼亚文及法译见van Esbroeck, AnBoll103 (1985),128–162，尚未验证全文。Pohlsander1999英译35–38为节译。",
+      "clavis": {
+        "ECCA": "102",
+        "BHG": "743"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-heracleides/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际浏览作品条目的身份、概要和版本书目；未通读所列各版本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://pinakes.irht.cnrs.fr/notices/bibliographie/EJVAY43L/",
+          "institution": "CNRS-IRHT Pinakes",
+          "read_scope": "实际打开书目及grec769/979关系；论文页末与e-Clavis差一页，留待扫描核实",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://pinakes.irht.cnrs.fr/notices/bibliographie/EJVAY43L/",
+          "edition": "Halkin, Analecta Bollandiana82 (1964)",
+          "location": "Pinakes记论文133–170；e-Clavis记133–169、希腊正文139–168；末页差异待核",
+          "verified": "实际打开IRHT书目页，核两手稿及DOI10.1484/J.ABOL.4.02537",
+          "limits": "期刊DOI页本环境无法打开；仅确认校本路径，未得正文",
+          "language": "希腊语",
+          "resource_type": "institutional_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723790m",
+          "edition": "BnF grec769",
+          "location": "ff.184,176v,170r–175,185r–192v（书目所列，卷内次序非连续）",
+          "verified": "e-Clavis给出Gallica链接；点击返回403",
+          "limits": "只保存机构路径，未读图像；须先核乱序叶与图像对应",
+          "language": "希腊语",
+          "resource_type": "manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721751q",
+          "edition": "BnF grec979",
+          "location": "ff.371,375r–378v（据e-Clavis）",
+          "verified": "链接来自e-Clavis；点击返回403",
+          "limits": "未读图像，不能标开放全文已获取",
+          "language": "希腊语",
+          "resource_type": "manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "ECCA-397",
+      "title_zh": "约翰行传（版本补证）",
+      "original_title": "Acts of John / Acta Iohannis",
+      "author": "匿名或传统归托；不认定使徒亲著",
+      "date": "出版社简介作二或三世纪，具体分层与定年仍待研究",
+      "language": "希腊语残存及多种古译",
+      "synopsis": "现存片段叙约翰在以弗所等地传教和死亡；不同现代版本的拼合及编号不完全一致。",
+      "historical_value": "比较早期使徒叙事及后期抄传、编辑重构",
+      "devotional_value": "须结合全文及文类评估",
+      "attribution_issues": "传说叙事不直接当作使徒时代事实；版本范围须分别标明",
+      "repository_status": "正式已有；仅作版本覆盖补证",
+      "repository_evidence": "bible/translation/manifest.json：acts-of-john，072_约翰行传，97单元；实读output/072_约翰行传.txt题头、18–21章及版本说明，且核115章标题。中文参考第250章注明文本略，不能当全文。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "bible/translation/manifest.json：acts-of-john，072_约翰行传，97单元；实读output/072_约翰行传.txt题头、18–21章及版本说明，且核115章标题。中文参考第250章注明文本略，不能当全文。"
+      },
+      "priority": "核版本、全文路径与库存覆盖",
+      "next": "先比对现有97单元与现代校文编次，不把ECCA397计为新缺书；下一扫描条目ECCA203伪普罗科鲁本须另判。",
+      "clavis": {
+        "ECCA": "397",
+        "CANT": "215"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际浏览作品条目的身份、概要和版本书目；未通读所列各版本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/actsjohn.html",
+          "institution": "Early Christian Writings旧版转录",
+          "read_scope": "实际读题头、旧译说明、18章开头及115章段落；未全文校勘",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.brepols.net/products/IS-9782503600161-1",
+          "institution": "Brepols出版社",
+          "read_scope": "实际打开110页、语种、版本简介；不是全文入口",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/actsjohn.html",
+          "edition": "M.R.James, The Apocryphal New Testament (1924)，网页转录",
+          "location": "网页导论；18章起；115章死亡及附录片段",
+          "verified": "实际打开题头、导论、18章段落及115章收尾；HTTP206 HTML头",
+          "limits": "旧译重构及网页转录；未逐行比仓库97单元，不代替现代校本",
+          "language": "英语",
+          "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.brepols.net/products/IS-9782503600161-1",
+          "edition": "McCollum/Niedergall, Acts of John, BLCS7 (2022)",
+          "location": "110页；采用Junod/Kaestli1983希腊校文及对页英译",
+          "verified": "实际打开出版社题名、语种与简介；2022年由出版社2024目录及e-Clavis交叉核",
+          "limits": "出版／购买入口；本批未取得该现代译本全文",
+          "language": "希腊语／英语",
+          "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "NASSCAL e-Clavis单页索引，从Acts of Bartholomew至Acts of John相邻六项"
+      ],
+      "institutions": [
+        "NASSCAL"
+      ],
+      "result": "实际打开六条身份、概要或书目；索引下一条为Acts of John by Prochorus ECCA203"
+    },
+    {
+      "queries": [
+        "site.brepols.net \"Acta et martyrium Bartholomaei\"",
+        "site.ceciliaantonelli.com \"Acta et martyrium\" \"2026\"",
+        "site.brepols.net \"Acta\" \"Bartholomaei\""
+      ],
+      "institutions": [
+        "Brepols",
+        "校订者个人学术网站"
+      ],
+      "result": "未查得已发行产品页；作者页面搜索返回预计2026年底；不沿用旧CV预计2025为已出版事实"
+    },
+    {
+      "queries": [
+        "\"Hagiographica Cypria\" \"Heraclidae\"",
+        "site.brepols.net \"Hagiographica Cypria\""
+      ],
+      "result": "出版社目录确认BHG2057双人合传；其中Auxibius并非Heracleides"
+    },
+    {
+      "queries": [
+        "\"Acts of Christ and Peter in Rome\" pdf Snyder Čéplö"
+      ],
+      "result": "编者公开MNTA3导论PDF19页及目录可用，没有本篇全文"
+    },
+    {
+      "queries": [
+        "\"Acta Cornelii\" \"Dmitriev\" translation",
+        "\"Acts of Cornelius\" \"translation\" Burke"
+      ],
+      "result": "未采纳Dmitriev假定；查到编者公开MNTA1校样635页，核本篇337–361及两译本范围"
+    },
+    {
+      "queries": [
+        "\"Acts of Heracleides\" translation publisher",
+        "site.brepolsonline.net \"Les Actes arméniens de saint Héraclide\"",
+        "site.brepolsonline.net \"Les actes apocryphes de saint Héraclide\""
+      ],
+      "result": "定位IRHT Pinakes校本书目与DOI；Gallica两见证403；未取得原文全文"
+    },
+    {
+      "queries": [
+        "site.brepols.net \"Acts of John\" McCollum"
+      ],
+      "result": "出版社110页现代版本记录；旧James译文网页可读；仓库正式译文已存在"
+    },
+    {
+      "queries": [
+        "两manifest与参考标题关键词：barthol/cornel/heracl/acts.of.john/巴多罗买/哥尼/赫拉/约翰行传"
+      ],
+      "result": "仅约翰行传有正式manifest命中；其余有限阴性结果不表示全仓库绝对不存在"
+    }
+  ],
+  "access_failures": [
+    {
+      "url": "https://www.loc.gov/item/00279395372-jo",
+      "result": "web403；Timiou Staurou16页图未读"
+    },
+    {
+      "url": "https://www.loc.gov/item/00279389372-jo",
+      "result": "web403；Panagios Taphos17页图未读"
+    },
+    {
+      "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723790m",
+      "result": "web403；grec769图像未读"
+    },
+    {
+      "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721751q",
+      "result": "web403；grec979图像未读"
+    },
+    {
+      "url": "https://ceciliaantonelli.com/",
+      "result": "直接打开403；搜索返回作者简介与Monographs"
+    },
+    {
+      "url": "https://www.brepolsonline.net/doi/10.1484/J.ABOL.4.02537",
+      "result": "浏览工具无法打开；不知正文是否需登录"
+    },
+    {
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "result": "六条作品页urllib直接请求均403；浏览工具可读，未视为站点不存在"
+    },
+    {
+      "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+      "result": "web截图零基394超时；解析正文可读，其余部分截图返回；不据此声称所有页面已读"
+    }
+  ],
+  "limits": [
+    "中文出版目录本批未检索；不判断大陆或港台有无译本。",
+    "只存书目和在线路径，未保存整部现代译文或全书文件。",
+    "候选状态依据限定库存扫描，不是确定缺书。",
+    "部分网页仅搜索返回、手稿403或viewer外壳，逐资源记录。"
+  ],
+  "http_header_checks": [
+    {
+      "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+      "status": 206,
+      "content_type": "application/pdf",
+      "prefix": "%PDF-1.6\r%âãÏÓ\r\n2486 0 obj\r<</Fi"
+    },
+    {
+      "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+      "status": 206,
+      "content_type": "application/pdf",
+      "prefix": "%PDF-1.6\r%âãÏÓ\r\n1 0 obj\r<</MarkI"
+    },
+    {
+      "url": "https://www.earlychristianwritings.com/text/actsjohn.html",
+      "status": 206,
+      "content_type": "text/html",
+      "prefix": "<!DOCTYPE HTML PUBLIC \"-//W3C//D"
+    }
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Acts of John",
+    "last_completed_ecca": "397",
+    "next_title": "Acts of John by Prochorus",
+    "next_ecca": "203",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus/",
+    "pagination": "索引单页；以相邻题名及ECCA定位，没有分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录"
+    ]
+  }
+}

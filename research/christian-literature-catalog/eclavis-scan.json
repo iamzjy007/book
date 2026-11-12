@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "date_beijing": "2026-11-10",
+  "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续12项，包括无链接占位和复合条目；A字母尚未扫完。",
+  "scope": "索引开头连续18项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -121,19 +121,80 @@
       "decision": "already_in_formal_inventory",
       "record_id": "eclavis_a01:ECCA-422",
       "evidence": "bible/translation/manifest.json: acts-of-barnabas，079_巴拿巴行传，题页+7章。"
+    },
+    {
+      "ordinal": 13,
+      "ecca": "709",
+      "title": "Acts of Bartholomew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a02:ECCA-709",
+      "evidence": "两manifest及中文参考章节标题未见明确ECCA709；已有《巴多罗买福音》与复活书并非同作。",
+      "batch": "2026-11-12-eclavis-a02"
+    },
+    {
+      "ordinal": 14,
+      "ecca": "449",
+      "title": "Acts of Bartholomew and Barnabas",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew-and-barnabas/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a02:ECCA-449",
+      "evidence": "两manifest及中文参考章节标题未见双人合传；已有《巴拿巴行传》不能直接覆盖。",
+      "batch": "2026-11-12-eclavis-a02"
+    },
+    {
+      "ordinal": 15,
+      "ecca": "956",
+      "title": "Acts of Christ and Peter in Rome",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-christ-and-peter-in-rome/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a02:ECCA-956",
+      "evidence": "两manifest及中文参考标题未见本题或Slavonic Life of Peter；正式《彼得行传》为另一需分辨版本。",
+      "batch": "2026-11-12-eclavis-a02"
+    },
+    {
+      "ordinal": 16,
+      "ecca": "303",
+      "title": "Acts of Cornelius",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-cornelius/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a02:ECCA-303",
+      "evidence": "两manifest及中文参考章节索引无明确本题；正典《使徒行传》10–11章并非这部后续传说。",
+      "batch": "2026-11-12-eclavis-a02"
+    },
+    {
+      "ordinal": 17,
+      "ecca": "102",
+      "title": "Acts of Heracleides",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-heracleides/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a02:ECCA-102",
+      "evidence": "两manifest及中文参考章节索引未见Heracleides/Heraclides/赫拉克利德等独立项；与聂斯脱里《赫拉克利德集市》不同。",
+      "batch": "2026-11-12-eclavis-a02"
+    },
+    {
+      "ordinal": 18,
+      "ecca": "397",
+      "title": "Acts of John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a02:ECCA-397",
+      "evidence": "bible/translation/manifest.json：acts-of-john，072_约翰行传，97单元；实读output/072_约翰行传.txt题头、18–21章及版本说明，且核115章标题。中文参考第250章注明文本略，不能当全文。",
+      "batch": "2026-11-12-eclavis-a02"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Acts of Barnabas",
-    "last_completed_ecca": "422",
-    "next_title": "Acts of Bartholomew",
-    "next_ecca": "709",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/",
-    "pagination": "索引为单页；使用相邻题名与ECCA定位，无页码或虚构cursor。",
+    "last_completed_title": "Acts of John",
+    "last_completed_ecca": "397",
+    "next_title": "Acts of John by Prochorus",
+    "next_ecca": "203",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus/",
+    "pagination": "索引单页；以相邻题名及ECCA定位，没有分页cursor。",
     "unresolved_before_cursor": [
-      "Aberdeen Ostracon ECCA984仅索引占位",
-      "Acts of Andrew (Latin) ECCA750为复合选集关系，后续回查其构件及手稿。"
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录"
     ]
   }
 }

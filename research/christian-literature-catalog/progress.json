@@ -5,21 +5,21 @@
   "stop_at_3_percent_implemented": false,
   "inventory_manifest_rows": 286,
   "inventory_note": "两清单合计行数，含重复和排除条目；不是286部已收录作品。",
-  "last_checkpoint": "e-Clavis索引开头12项已保存：10条作品调查＋1复合关系＋1未解占位；下一项Acts of Bartholomew ECCA709。",
+  "last_checkpoint": "A02完成索引第13–18项：5候选＋1正式已有；下一项Acts of John by Prochorus ECCA203。",
   "background_service_installed": false,
   "counts": {
-    "worker_records": 121,
-    "catalogue_records_after_one_merge": 120,
+    "worker_records": 127,
+    "catalogue_records_after_one_merge": 126,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 154
+    "unique_source_urls": 167
   },
   "first_phase_branches_completed": 6,
   "followup_tasks_pending": 11,
   "next_task": "eclavis-systematic",
   "quota_stop_reason": null,
-  "stop_reason": "本次可复核批次完成并存档；e-Clavis仍待续查，未声称全站完成。",
-  "workers_state": "当前会话单一工作者完成本批；无子代理或持续后台研究服务。",
+  "stop_reason": "完成并保存一批可复核资源路径；A字母及后续扫描仍待继续。",
+  "workers_state": "本轮由单一会话工作者完成；未发现子代理或后台研究服务。",
   "followup_tasks_in_progress": 1,
-  "latest_session": "sessions/2026-11-10-eclavis-a01.json",
-  "latest_resource_report": "RESOURCE-PATHS-A01.md"
+  "latest_session": "sessions/2026-11-12-eclavis-a02.json",
+  "latest_resource_report": "RESOURCE-PATHS-A02.md"
 }

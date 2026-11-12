@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "2026-11-12-eclavis-a02",
+  "date_beijing": "2026-11-12",
+  "base_commit": "620f39236e5900a0c8d4f36f2d8bc7667da423bd",
+  "task": "eclavis-systematic",
+  "status": "completed_batch",
+  "researcher": "current_session_single_worker",
+  "restoration_checks": {
+    "original_worker_snapshots_match": true,
+    "original_worktree_clean": true,
+    "separate_running_research_process_found": false,
+    "unmerged_worker_records_found": false,
+    "qa_file_is_review_not_new_work": true
+  },
+  "counts": {
+    "index_positions_scanned": 6,
+    "new_catalog_records": 6,
+    "formal_inventory_existing": 1,
+    "candidate_inventory_unconfirmed": 5,
+    "cumulative_index_positions_scanned": 18
+  },
+  "sources_and_queries": "workers/eclavis_a02.json",
+  "scan_log": "eclavis-scan.json",
+  "resource_report": "RESOURCE-PATHS-A02.md",
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Acts of John",
+    "last_completed_ecca": "397",
+    "next_title": "Acts of John by Prochorus",
+    "next_ecca": "203",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus/",
+    "pagination": "索引单页；以相邻题名及ECCA定位，没有分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录"
+    ]
+  },
+  "publication_status": "本地结果已形成；远端提交是否成功以最终核验为准，不预填成功。",
+  "limits": [
+    "中文出版目录本批未检索；不判断大陆或港台有无译本。",
+    "只存书目和在线路径，未保存整部现代译文或全书文件。",
+    "候选状态依据限定库存扫描，不是确定缺书。",
+    "部分网页仅搜索返回、手稿403或viewer外壳，逐资源记录。"
+  ]
+}

@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **120条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **126条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-本批资源直达与访问限制见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A02.md](RESOURCE-PATHS-A02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -2992,3 +2992,182 @@
 资源路径：[Alexander Walker旧译，New Advent转录](https://www.newadvent.org/fathers/0817.htm) — 全文网页入口；实际打开题头、正文可见段落及出处；未逐字校勘，不能据此断言现有七章与本页完全一致。
 
 [完整调查记录](workers/eclavis_a01.json)，条目 `ECCA-422`。
+
+## e-Clavis系统扫描续查A02
+
+### 巴多罗买行传（希腊／亚美尼亚本）
+
+- **原题：** Acts of Bartholomew / Acta Bartholomaei
+- **作者／归属：** 匿名或传统归托；不据使徒名认定亲著
+- **年代：** 成书年代本批未核定，不能以抄本年代代替
+- **语言：** 希腊语、亚美尼亚语
+
+希腊及亚美尼亚使徒行传／殉道传统；本批仅核身份和版本，不补造情节概述。
+
+**价值：** historical：使徒传说、地方教会记忆与文本传承的比较材料；spiritual：尚待阅读全文评估
+
+**文本注意：** 近似题名及相关传说须按ECCA编号分别映射。
+
+**仓库情况：** 候选；库存范围未见明确独立项
+
+**中文线索：** mainland：本批未检索大陆出版社与国家图书馆；不判断有无正式出版；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest及中文参考章节标题未见明确ECCA709；已有《巴多罗买福音》与复活书并非同作。
+
+**下一步：** 先取得并比较明确版本，避免同名误收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/) — 浏览工具读取条目身份、概要或版本表；未通读所列校本
+- [校订者个人学术网页](https://ceciliaantonelli.com/) — 搜索返回简介及书单；直接打开403；预计2026年底，不当作已出版
+
+资源路径：[专业书目与手稿定位](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/) — Weimar Q.729 ff.173r–180r；Yerevan Matenadaran7853 ff.374v–380r；条目可读，核到两见证与CANT258；未打开手稿图像或校本；不以旧英译Martyrdom抵算
+
+资源路径：[Cecilia Antonelli：Acta et martyrium Bartholomaei，CCSA，拟刊](https://ceciliaantonelli.com/) — 作者网页Monographs及个人简介；搜索返回作者页面内容：预计2026年底；直接打开403；这是拟刊信息，未获出版社发行记录或开放全文；旧CV预计2025已过时
+
+[完整调查记录](workers/eclavis_a02.json)，条目 `ECCA-709`。
+
+### 巴多罗买与巴拿巴行传
+
+- **原题：** Acts of Bartholomew and Barnabas / Bartholomaei et Barnabae periodoi et passio
+- **作者／归属：** 匿名或传统归托；不据使徒名认定亲著
+- **年代：** 成书年代本批未核定，不能以抄本年代代替
+- **语言：** 希腊语
+
+合写二圣事迹与殉道，并附结语祷文；属地方圣徒记忆传统。
+
+**价值：** historical：使徒传说、地方教会记忆与文本传承的比较材料；spiritual：尚待阅读全文评估
+
+**文本注意：** 近似题名及相关传说须按ECCA编号分别映射。
+
+**仓库情况：** 候选；库存范围未见明确独立项
+
+**中文线索：** mainland：本批未检索大陆出版社与国家图书馆；不判断有无正式出版；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest及中文参考章节标题未见双人合传；已有《巴拿巴行传》不能直接覆盖。
+
+**下一步：** 先取得并比较明确版本，避免同名误收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew-and-barnabas/) — 浏览工具读取条目身份、概要或版本表；未通读所列校本
+- [Brepols出版社](https://www.brepols.net/products/IS-9782503402611-1) — 实际打开题名、年份、目录BHG2057；未见校本正文
+
+资源路径：[Van Deun/Noret, Hagiographica Cypria, CCSG26, 1993](https://www.brepols.net/products/IS-9782503402611-1) — 校本pp.125–135（页码据e-Clavis）；出版社目录BHG2057；实际打开出版社题名、年份及目录，确认收录；只获出版入口，未取得校本全文
+
+资源路径：[Vat.gr.1991](https://digi.vatlib.it/view/MSS_Vat.gr.1991) — ff.141v–148v（据e-Clavis）；DigiVatLib viewer外壳可打开；未读取页图；此见证据书目缺结尾
+
+[完整调查记录](workers/eclavis_a02.json)，条目 `ECCA-449`。
+
+### 基督与彼得在罗马行传
+
+- **原题：** Acts of Christ and Peter in Rome / Acta Christi et Petri in Roma
+- **作者／归属：** 匿名或传统归托；不据使徒名认定亲著
+- **年代：** 成书年代本批未核定，不能以抄本年代代替
+- **语言：** 希腊语、教会斯拉夫语
+
+基督以船长与孩子等身份帮助年老彼得，叙及彼得在罗马传教与死亡；希腊、斯拉夫版本有差异。
+
+**价值：** historical：使徒传说、地方教会记忆与文本传承的比较材料；spiritual：尚待阅读全文评估
+
+**文本注意：** 近似题名及相关传说须按ECCA编号分别映射。
+
+**仓库情况：** 候选；库存范围未见明确独立项
+
+**中文线索：** mainland：本批未检索大陆出版社与国家图书馆；不判断有无正式出版；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest及中文参考标题未见本题或Slavonic Life of Peter；正式《彼得行传》为另一需分辨版本。
+
+**下一步：** 先取得并比较明确版本，避免同名误收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-christ-and-peter-in-rome/) — 浏览工具读取条目身份、概要或版本表；未通读所列校本
+- [编者Tony Burke网站](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — 实际读取题页、版权页及目录PDF第6页；19页文件未含本篇全文
+
+资源路径：[MNTA3, 2023，编者公开导论与目录校样](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — PDF第6页（零基5）目录；本篇印本pp.435–464；实际打开19页PDF，核目录题名、两位译者与下一篇465页；该PDF只含前置页与导论，没有本篇435–464页全文
+
+资源路径：[Capaldo, Rivista di studi bizantini e neoellenici39 (2002)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-christ-and-peter-in-rome/) — 希腊本及意译pp.104–125；维也纳斯拉夫本及意译pp.126–143；专业条目版本书目可读；尚未验证期刊全文或手稿图像
+
+[完整调查记录](workers/eclavis_a02.json)，条目 `ECCA-956`。
+
+### 百夫长哥尼流行传
+
+- **原题：** Acts of Cornelius / Acta Cornelii
+- **作者／归属：** 匿名或传统归托；不认定使徒亲著
+- **年代：** 成书年代本批未定；抄本日期不作原作年代
+- **语言：** 希腊语及吉兹语传本
+
+扩展哥尼流在斯凯普西斯的传教及死后圣所传统；长本和摘要本分别存世。
+
+**价值：** historical：地方教会记忆、圣徒传统与版本比较材料；spiritual：须结合全文及文类评估
+
+**文本注意：** 传说叙事不直接当作使徒时代事实；版本范围须分别标明
+
+**仓库情况：** 候选；有限库存核查未见明确独立项
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest及中文参考章节索引无明确本题；正典《使徒行传》10–11章并非这部后续传说。
+
+**下一步：** 优先使用已定位的长本及摘要两种译文，另核正式刊本校改；建立两版本覆盖表。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-cornelius/) — 实际浏览作品条目的身份、概要和版本书目；未通读所列各版本
+- [编者Tony Burke学术网站](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 实际读取校样题页、目录和本篇导论／译文定位页；核长本345–357、摘要358–361边界，非逐页校读
+
+资源路径：[Burke/Witakowski, MNTA1 (2016)，编者公开校样PDF](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf#page=387) — 导论印本337–344＝PDF387–394；长本345–357＝PDF395–407；摘要358–361＝PDF408–411（PDF从1计）；浏览工具解析635页PDF；实读题页、目录、导论片段、长本开头及末页、摘要开头及末尾；Range206且PDF头；是third corrections校样，须与正式刊本核对；未逐页通读；没有下载整部书
+
+资源路径：[旧希腊—拉丁文本与手稿表](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-cornelius/) — PG114，cols.1293–1312（以2016导论核对）；短本另列；实际读2016导论说明Migne底本及双语排栏；本批未打开PG扫描；不把其他研究文献误写的1324当作已核页尾
+
+[完整调查记录](workers/eclavis_a02.json)，条目 `ECCA-303`。
+
+### 赫拉克利德行传（塞浦路斯）
+
+- **原题：** Acts of Heracleides / Acta Heraclides
+- **作者／归属：** 归托Rhodon（罗冬）的记述；传统叙述者身份不证明本人亲著
+- **年代：** 成书年代本批未定；抄本日期不作原作年代
+- **语言：** 希腊语、亚美尼亚语
+
+归托罗冬记述赫拉克利德及姆纳松等塞浦路斯人物，含地方教会传承与职分材料。
+
+**价值：** historical：地方教会记忆、圣徒传统与版本比较材料；spiritual：须结合全文及文类评估
+
+**文本注意：** 传说叙事不直接当作使徒时代事实；版本范围须分别标明
+
+**仓库情况：** 候选；有限库存核查未见明确独立项
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest及中文参考章节索引未见Heracleides/Heraclides/赫拉克利德等独立项；与聂斯脱里《赫拉克利德集市》不同。
+
+**下一步：** 优先核Halkin校本139–168；亚美尼亚文及法译见van Esbroeck, AnBoll103 (1985),128–162，尚未验证全文。Pohlsander1999英译35–38为节译。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-heracleides/) — 实际浏览作品条目的身份、概要和版本书目；未通读所列各版本
+- [CNRS-IRHT Pinakes](https://pinakes.irht.cnrs.fr/notices/bibliographie/EJVAY43L/) — 实际打开书目及grec769/979关系；论文页末与e-Clavis差一页，留待扫描核实
+
+资源路径：[Halkin, Analecta Bollandiana82 (1964)](https://pinakes.irht.cnrs.fr/notices/bibliographie/EJVAY43L/) — Pinakes记论文133–170；e-Clavis记133–169、希腊正文139–168；末页差异待核；实际打开IRHT书目页，核两手稿及DOI10.1484/J.ABOL.4.02537；期刊DOI页本环境无法打开；仅确认校本路径，未得正文
+
+资源路径：[BnF grec769](https://gallica.bnf.fr/ark:/12148/btv1b10723790m) — ff.184,176v,170r–175,185r–192v（书目所列，卷内次序非连续）；e-Clavis给出Gallica链接；点击返回403；只保存机构路径，未读图像；须先核乱序叶与图像对应
+
+资源路径：[BnF grec979](https://gallica.bnf.fr/ark:/12148/btv1b10721751q) — ff.371,375r–378v（据e-Clavis）；链接来自e-Clavis；点击返回403；未读图像，不能标开放全文已获取
+
+[完整调查记录](workers/eclavis_a02.json)，条目 `ECCA-102`。
+
+### 约翰行传（版本补证）
+
+- **原题：** Acts of John / Acta Iohannis
+- **作者／归属：** 匿名或传统归托；不认定使徒亲著
+- **年代：** 出版社简介作二或三世纪，具体分层与定年仍待研究
+- **语言：** 希腊语残存及多种古译
+
+现存片段叙约翰在以弗所等地传教和死亡；不同现代版本的拼合及编号不完全一致。
+
+**价值：** historical：比较早期使徒叙事及后期抄传、编辑重构；spiritual：须结合全文及文类评估
+
+**文本注意：** 传说叙事不直接当作使徒时代事实；版本范围须分别标明
+
+**仓库情况：** 正式已有；仅作版本覆盖补证
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：bible/translation/manifest.json：acts-of-john，072_约翰行传，97单元；实读output/072_约翰行传.txt题头、18–21章及版本说明，且核115章标题。中文参考第250章注明文本略，不能当全文。
+
+**下一步：** 先比对现有97单元与现代校文编次，不把ECCA397计为新缺书；下一扫描条目ECCA203伪普罗科鲁本须另判。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john/) — 实际浏览作品条目的身份、概要和版本书目；未通读所列各版本
+- [Early Christian Writings旧版转录](https://www.earlychristianwritings.com/text/actsjohn.html) — 实际读题头、旧译说明、18章开头及115章段落；未全文校勘
+- [Brepols出版社](https://www.brepols.net/products/IS-9782503600161-1) — 实际打开110页、语种、版本简介；不是全文入口
+
+资源路径：[M.R.James, The Apocryphal New Testament (1924)，网页转录](https://www.earlychristianwritings.com/text/actsjohn.html) — 网页导论；18章起；115章死亡及附录片段；实际打开题头、导论、18章段落及115章收尾；HTTP206 HTML头；旧译重构及网页转录；未逐行比仓库97单元，不代替现代校本
+
+资源路径：[McCollum/Niedergall, Acts of John, BLCS7 (2022)](https://www.brepols.net/products/IS-9782503600161-1) — 110页；采用Junod/Kaestli1983希腊校文及对页英译；实际打开出版社题名、语种与简介；2022年由出版社2024目录及e-Clavis交叉核；出版／购买入口；本批未取得该现代译本全文
+
+[完整调查记录](workers/eclavis_a02.json)，条目 `ECCA-397`。
