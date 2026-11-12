@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 223,
-    "catalogue_records_after_one_merge": 222,
+    "worker_records": 227,
+    "catalogue_records_after_one_merge": 226,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 331
+    "unique_source_urls": 335
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -144,6 +144,10 @@
     {
       "path": "workers/eclavis_d07.json",
       "sha256": "8031cd727371c308298854019d675107cc3e7935984b47060acbcf09a26d769e"
+    },
+    {
+      "path": "workers/eclavis_e01.json",
+      "sha256": "2fb81f2edd7567c1d5cc286361cc03cb5fa42c23f1b36df62d9fd5a5b632d9a0"
     }
   ],
   "records": [
@@ -1028,18 +1032,56 @@
       "repository_evidence": "fragmentary-gospels/cMCB p0080–p0108，Unknown Gospel；是否充分纳入1987公布的科隆接片尚需逐行版本核对。",
       "chinese_availability": "本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。",
       "priority": "升级版本核对，不能作为从未收录新书重复制作。",
-      "next": "待进一步核实",
+      "next": "对中文cMCB已有Unknown Gospel与Bernhard/Mattison译文逐面核对，确认是否纳入Cologne00608；不重复建缺书。",
       "sources": [
         {
           "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/",
           "institution": "NASSCAL（北美基督教外典研究学会）",
           "read_scope": "条目概要、手稿与版本书目",
           "accessed": "2026-11-10"
+        },
+        {
+          "url": "https://www.gospels.net/egerton",
+          "institution": "Mark M. Mattison译者页",
+          "read_scope": "四面片段及译者说明",
+          "accessed": "2026-11-12"
         }
       ],
       "worker_record": "workers/dydi_b.json",
       "worker_entry_id": "B06",
-      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "resources": [
+        {
+          "url": "https://www.gospels.net/egerton",
+          "edition": "Mark M. Mattison英译，参考Andrew Bernhard2006希腊校文",
+          "location": "两残片四个面：fragment1 verso/recto、fragment2 recto/verso",
+          "verified": "实际读全部四面、署名及public domain说明",
+          "limits": "仅该页所译四面；不称八个重构场景均保存或极小fragment3皆译；科隆接片与中文已有Unknown Gospel须逐行核",
+          "language": "英语",
+          "resource_type": "translator_hosted_fragment_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/egerton.html",
+          "edition": "Bell/Skeat1935英译在线转写",
+          "location": "四面残叶文字",
+          "verified": "实际读题头、四面起讫及残缺括号",
+          "limits": "网页标题含Cologne255，但1935译本早于1987科隆接片出版，不据标题宣称已整合新片",
+          "language": "英语",
+          "resource_type": "historic_fragment_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "clavis": {
+        "ECCA": "722",
+        "CANT": "2"
+      },
+      "resource_supplements": [
+        {
+          "worker_record": "workers/eclavis_e01.json",
+          "id": "ECCA-722-resource-supplement"
+        }
+      ]
     },
     {
       "id": "dydi_b:B07",
@@ -13180,6 +13222,296 @@
           "limits": "Ruthwell与Brussels仅片段见证，不把石刻／圣物匣当全诗；本轮未核手稿原图；e-Clavis Krapp61–685显异常不沿用",
           "language": "古英语",
           "resource_type": "manuscript_catalogue",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e01:ECCA-994",
+      "area": "e-Clavis系统扫描续查E01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "厄尔刻赛书／厄尔刻赛启示录",
+      "original_title": "Elchasai / Book of Elchasai",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "原书语言及层次待核；希腊语教父引述",
+      "synopsis": "仅经教父见证和引文传存的天启书传统。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "patristic_testimonium_in_formal_inventory",
+      "repository_evidence": "正式025教会史第六卷第三十八章已见中文厄尔刻赛派见证全文（字符约129324起）；不是原书。manifest未见独立原书。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式025教会史第六卷第三十八章已见中文厄尔刻赛派见证全文（字符约129324起）；不是原书。manifest未见独立原书。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "补Epiphanius等见证并核ECCA994对应；勿把025已有的见证当作尚存原书。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+          "institution": "NASSCAL索引",
+          "read_scope": "ECCA994仅索引题名，无独立条目；与失传Book of Elchasai的对应暂据同名研究线索，保留身份复核",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e01.json",
+      "worker_entry_id": "ECCA-994",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "994"
+      },
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/050109.htm",
+          "edition": "Hippolytus, Refutation IX，ANF英译",
+          "location": "本网页第8–12章；现代研究常引IX13–17",
+          "verified": "实际读携书来罗马、天使、洗礼公式、星宿戒律及保密结尾",
+          "limits": "仅保存引文与反对者转述，非失传原书全文；章号体系不同，核引文须同时注明网页章题",
+          "language": "英语",
+          "resource_type": "patristic_testimonia_online",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/250106.htm",
+          "edition": "Eusebius, Church History VI.38",
+          "location": "完整短章；引Origen论Elkesites",
+          "verified": "实际读章题到章末；与正式025第六卷第三十八章中文内容核对",
+          "limits": "教父外部见证，不能替代原书，亦非Hippolytus片段全集",
+          "language": "英语",
+          "resource_type": "patristic_testimonium_in_repository",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://api.pageplace.de/preview/DT0400.9783161587207_A40592242/preview-9783161587207_A40592242.pdf",
+          "edition": "Gerard P. Luttikhuizen, The Revelation of Elchasai (1985；2019电子重印)",
+          "location": "27页预览；目录列Hippolytus希英正文42–53",
+          "verified": "实际读题名、版权、目录及预览末页；预览止于研究史导论",
+          "limits": "正文42–53不在预览内，不能报为已取得现代希英片段集；曾索引的出版社CDN路径直开404",
+          "language": "英语",
+          "resource_type": "publisher_preview_no_target_text",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e01:ECCA-918",
+      "area": "e-Clavis系统扫描续查E01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "帕弗拉戈尼亚的尼基塔：安得烈颂",
+      "original_title": "Encomium on Andrew by Nicetas of Paphlagonia",
+      "author_or_attribution": "Nicetas David of Paphlagonia，9–10世纪之交",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；俄译可读",
+      "synopsis": "以使徒的传道和受难作颂赞的拜占庭讲词。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立题名；现有安得烈行传不自动覆盖本颂词。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立题名；现有安得烈行传不自动覆盖本颂词。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核PG105/115卷号差异与俄译§1–42旧版对应；BHG100另行区分。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-andrew-by-nicetas-of-paphlagonia/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e01.json",
+      "worker_entry_id": "ECCA-918",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "918",
+        "CANT": "228",
+        "BHG": "106"
+      },
+      "resources": [
+        {
+          "url": "https://publications.hse.ru/pubs/share/direct/985644930.pdf",
+          "edition": "Andrej Yu. Vinogradov俄译，Aspiratio1.2(2024):104–123",
+          "location": "译文印108–122=PDF第5–19页；§1–42",
+          "verified": "实际读导言BHG106、译文§1开头及§42阿们结束",
+          "limits": "全文俄译可读，底本是旧版，非新希腊校本；脚注及书目将PG卷写105，而NASSCAL为115，保留卷号冲突；另一Laudatio BHG100不可混同",
+          "language": "俄语",
+          "resource_type": "institution_hosted_full_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Patrologia_Graeca_Vol._115.pdf",
+          "edition": "Migne, PG115希腊／拉丁旧版",
+          "location": "cols53–80据NASSCAL；Combefis1672卷1:335–346",
+          "verified": "定位扫描对象与专目书目",
+          "limits": "未核原扫描目标页，不把PDF入口称作已读校文；现代俄译脚注卷105须后续核版",
+          "language": "希腊语／拉丁语",
+          "resource_type": "historic_edition_scan_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e01:ECCA-698",
+      "area": "e-Clavis系统扫描续查E01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "伪亚历山大提摩太：大天使米迦勒颂",
+      "original_title": "Encomium on the Archangel Michael by Pseudo-Timothy of Alexandria",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "萨希德科普特语；另有阿拉伯语及吉兹语见证",
+      "synopsis": "以伪提摩太所见约翰异象为框架的米迦勒节日讲词。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立题名；约翰启示录或其他米迦勒颂不自动覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立题名；约翰启示录或其他米迦勒颂不自动覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "起讫扫描已核；继续核科普特513–525与阿拉伯、吉兹不同见证。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-archangel-michael-by-pseudo-timothy-of-alexandria/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e01.json",
+      "worker_entry_id": "ECCA-698",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "698",
+        "CPC": "0404",
+        "CPG": "2529"
+      },
+      "resources": [
+        {
+          "url": "https://archive.org/stream/miscellaneouscop00budguoft/miscellaneouscop00budguoft_djvu.txt",
+          "edition": "E. A. W. Budge, Miscellaneous Coptic Texts (1915)英译OCR",
+          "location": "正文印1021–1032；卷末题记延至1033；科普特文513–525据专目",
+          "verified": "实际读英文题头底本Or7029、开头、约翰异象中段及讲词Amen与题记日期992",
+          "limits": "NASSCAL列1022–1033遗漏开头一页；其Or7039与原书题头Or7029不符。OCR不是校本文字，手稿本有缺损；阿拉伯法译与吉兹见证未核全文",
+          "language": "英语",
+          "resource_type": "historic_edition_online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/details/miscellaneouscop00budguoft/page/1021/mode/1up",
+          "edition": "同书扫描页入口",
+          "location": "印1021=服务page/n1208.jpg；印1032=page/n1219.jpg",
+          "verified": "实际查看扫描正文题头Or7029与末页1032阿们；与OCR首尾一致",
+          "limits": "scandata leafNum1215/1226与服务page/n1208/n1219存在7页偏移，已以实际图像核实；不以leafNum机械推图像。手稿原缺仍保留。",
+          "language": "英语／科普特语",
+          "resource_type": "historic_edition_scan_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e01:ECCA-693",
+      "area": "e-Clavis系统扫描续查E01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "亚历山大修士：巴拿巴颂",
+      "original_title": "Encomium on Barnabas by Alexander Monachus",
+      "author_or_attribution": "Alexander Monachus",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；德译及英译",
+      "synopsis": "围绕巴拿巴与塞浦路斯教会传统的颂词。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立题名；巴拿巴行传与巴拿巴书信是不同作品。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立题名；巴拿巴行传与巴拿巴书信是不同作品。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "取得德译62–129或Cosby182–197；PeterLang节译和手稿图片仍待目标正文核读。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-barnabas-by-alexander-monachus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e01.json",
+      "worker_entry_id": "ECCA-693",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "693",
+        "CANT": "286",
+        "CPG": "7400"
+      },
+      "resources": [
+        {
+          "url": "https://www.brepols.net/products/IS-9782503402611-1",
+          "edition": "Van Deun / Noret, Hagiographica Cypria, CCSG26 (1993)",
+          "location": "本篇希腊校文82–122据NASSCAL；ISBN9782503402611",
+          "verified": "实际读出版社目录，明确本篇CPG7400与同卷BHG2057另一作品分列",
+          "limits": "只核出版信息，未读校文全文；同卷多作品不可整体当巴拿巴颂",
+          "language": "希腊语",
+          "resource_type": "publisher_critical_edition_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.brepols.net/products/IS-9782503525617-1",
+          "edition": "Kollmann / Deuse, Laudatio Barnabae (2007), Fontes Christiani46",
+          "location": "希德对照62–129据NASSCAL；全书162页ISBN9782503525617",
+          "verified": "实际读出版社译者、语言、年份与版本简介",
+          "limits": "未取得译文正文；不把出版社摘要当现代全译",
+          "language": "希腊语／德语",
+          "resource_type": "publisher_translation_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://wipfandstock.com/products/creation-of-history_-second-edition-9781725269026",
+          "edition": "Michael R. Cosby, Creation of History, 2nd ed. (2021)",
+          "location": "本篇英译182–197据NASSCAL；电子ISBN9781725269040",
+          "verified": "实际检索到出版社2021-09-30、266页及电子版信息",
+          "limits": "未读目标英译正文；只保存出版方资源路径",
+          "language": "英语",
+          "resource_type": "publisher_translation_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.peterlang.com/document/1114368",
+          "edition": "Kosiński等, The Church Histories of Theodore Lector and John Diakrinomenos",
+          "location": "巴拿巴颂§32–44希英节译374–391据NASSCAL",
+          "verified": "实际读出版社目录确认独立章节、694页、PDFISBN9783631837092、DOI10.3726/b17654",
+          "limits": "网页样读未到目标374–391；出版社标2021而NASSCAL2020，保留差异；节译不能称全颂全文",
+          "language": "希腊语／英语",
+          "resource_type": "publisher_partial_translation_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_325",
+          "edition": "Palatinus graecus325机构数字化入口",
+          "location": "fol82v–96v据专目",
+          "verified": "从专目点击到海德堡入口，实际返回Anubis Access Denied",
+          "limits": "未读手稿图像，不绕过挑战；保留机构原路径",
+          "language": "希腊语",
+          "resource_type": "manuscript_viewer_access_blocked",
           "checked_date_beijing": "2026-11-12"
         }
       ]

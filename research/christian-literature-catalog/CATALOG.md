@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **222条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **226条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-D07.md](RESOURCE-PATHS-D07.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E01.md](RESOURCE-PATHS-E01.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -508,10 +508,17 @@
 
 **中文线索：** 本轮仅核仓库中文总集及两manifest；所列中文题名为工作译名。未独立核国家图书馆/出版社具体中文版ISBN，未见不等于无中文出版。
 
-**下一步：** 待进一步核实
+**下一步：** 对中文cMCB已有Unknown Gospel与Bernhard/Mattison译文逐面核对，确认是否纳入Cologne00608；不重复建缺书。
 
 **来源：**
 - [NASSCAL（北美基督教外典研究学会）](https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/) — 条目概要、手稿与版本书目
+- [Mark M. Mattison译者页](https://www.gospels.net/egerton) — 四面片段及译者说明
+
+资源路径：[Mark M. Mattison英译，参考Andrew Bernhard2006希腊校文](https://www.gospels.net/egerton) — 两残片四个面：fragment1 verso/recto、fragment2 recto/verso；实际读全部四面、署名及public domain说明；仅该页所译四面；不称八个重构场景均保存或极小fragment3皆译；科隆接片与中文已有Unknown Gospel须逐行核
+
+资源路径：[Bell/Skeat1935英译在线转写](https://www.earlychristianwritings.com/text/egerton.html) — 四面残叶文字；实际读题头、四面起讫及残缺括号；网页标题含Cologne255，但1935译本早于1987科隆接片出版，不据标题宣称已整合新片
+
+[补充资源调查](workers/eclavis_e01.json)，补证 `ECCA-722-resource-supplement`。
 
 [完整调查记录](workers/dydi_b.json)，条目 `B06`。
 
@@ -6091,3 +6098,125 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Vercelli CXVII专业手稿目录](https://www.nasscal.com/manuscripta-apocryphorum/vercelli-biblioteca-capitolare-di-vercelli-ms-cxvii/) — fol104v–106r，约975年；全诗156行据作品条目；实际检索到手稿专业目录与内容定位；Digital Vercelli入口超时；Ruthwell与Brussels仅片段见证，不把石刻／圣物匣当全诗；本轮未核手稿原图；e-Clavis Krapp61–685显异常不沿用
 
 [完整调查记录](workers/eclavis_d07.json)，条目 `ECCA-173`。
+
+## e-Clavis系统扫描续查E01
+
+### 厄尔刻赛书／厄尔刻赛启示录
+
+- **原题：** Elchasai / Book of Elchasai
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 原书语言及层次待核；希腊语教父引述
+
+仅经教父见证和引文传存的天启书传统。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** patristic_testimonium_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式025教会史第六卷第三十八章已见中文厄尔刻赛派见证全文（字符约129324起）；不是原书。manifest未见独立原书。
+
+**下一步：** 补Epiphanius等见证并核ECCA994对应；勿把025已有的见证当作尚存原书。
+
+**来源：**
+- [NASSCAL索引](https://www.nasscal.com/e-clavis-christian-apocrypha/) — ECCA994仅索引题名，无独立条目；与失传Book of Elchasai的对应暂据同名研究线索，保留身份复核
+
+资源路径：[Hippolytus, Refutation IX，ANF英译](https://www.newadvent.org/fathers/050109.htm) — 本网页第8–12章；现代研究常引IX13–17；实际读携书来罗马、天使、洗礼公式、星宿戒律及保密结尾；仅保存引文与反对者转述，非失传原书全文；章号体系不同，核引文须同时注明网页章题
+
+资源路径：[Eusebius, Church History VI.38](https://www.newadvent.org/fathers/250106.htm) — 完整短章；引Origen论Elkesites；实际读章题到章末；与正式025第六卷第三十八章中文内容核对；教父外部见证，不能替代原书，亦非Hippolytus片段全集
+
+资源路径：[Gerard P. Luttikhuizen, The Revelation of Elchasai (1985；2019电子重印)](https://api.pageplace.de/preview/DT0400.9783161587207_A40592242/preview-9783161587207_A40592242.pdf) — 27页预览；目录列Hippolytus希英正文42–53；实际读题名、版权、目录及预览末页；预览止于研究史导论；正文42–53不在预览内，不能报为已取得现代希英片段集；曾索引的出版社CDN路径直开404
+
+[完整调查记录](workers/eclavis_e01.json)，条目 `ECCA-994`。
+
+### 帕弗拉戈尼亚的尼基塔：安得烈颂
+
+- **原题：** Encomium on Andrew by Nicetas of Paphlagonia
+- **作者／归属：** Nicetas David of Paphlagonia，9–10世纪之交
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；俄译可读
+
+以使徒的传道和受难作颂赞的拜占庭讲词。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立题名；现有安得烈行传不自动覆盖本颂词。
+
+**下一步：** 核PG105/115卷号差异与俄译§1–42旧版对应；BHG100另行区分。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-andrew-by-nicetas-of-paphlagonia/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Andrej Yu. Vinogradov俄译，Aspiratio1.2(2024):104–123](https://publications.hse.ru/pubs/share/direct/985644930.pdf) — 译文印108–122=PDF第5–19页；§1–42；实际读导言BHG106、译文§1开头及§42阿们结束；全文俄译可读，底本是旧版，非新希腊校本；脚注及书目将PG卷写105，而NASSCAL为115，保留卷号冲突；另一Laudatio BHG100不可混同
+
+资源路径：[Migne, PG115希腊／拉丁旧版](https://commons.wikimedia.org/wiki/File:Patrologia_Graeca_Vol._115.pdf) — cols53–80据NASSCAL；Combefis1672卷1:335–346；定位扫描对象与专目书目；未核原扫描目标页，不把PDF入口称作已读校文；现代俄译脚注卷105须后续核版
+
+[完整调查记录](workers/eclavis_e01.json)，条目 `ECCA-918`。
+
+### 伪亚历山大提摩太：大天使米迦勒颂
+
+- **原题：** Encomium on the Archangel Michael by Pseudo-Timothy of Alexandria
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 萨希德科普特语；另有阿拉伯语及吉兹语见证
+
+以伪提摩太所见约翰异象为框架的米迦勒节日讲词。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立题名；约翰启示录或其他米迦勒颂不自动覆盖。
+
+**下一步：** 起讫扫描已核；继续核科普特513–525与阿拉伯、吉兹不同见证。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-archangel-michael-by-pseudo-timothy-of-alexandria/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[E. A. W. Budge, Miscellaneous Coptic Texts (1915)英译OCR](https://archive.org/stream/miscellaneouscop00budguoft/miscellaneouscop00budguoft_djvu.txt) — 正文印1021–1032；卷末题记延至1033；科普特文513–525据专目；实际读英文题头底本Or7029、开头、约翰异象中段及讲词Amen与题记日期992；NASSCAL列1022–1033遗漏开头一页；其Or7039与原书题头Or7029不符。OCR不是校本文字，手稿本有缺损；阿拉伯法译与吉兹见证未核全文
+
+资源路径：[同书扫描页入口](https://archive.org/details/miscellaneouscop00budguoft/page/1021/mode/1up) — 印1021=服务page/n1208.jpg；印1032=page/n1219.jpg；实际查看扫描正文题头Or7029与末页1032阿们；与OCR首尾一致；scandata leafNum1215/1226与服务page/n1208/n1219存在7页偏移，已以实际图像核实；不以leafNum机械推图像。手稿原缺仍保留。
+
+[完整调查记录](workers/eclavis_e01.json)，条目 `ECCA-698`。
+
+### 亚历山大修士：巴拿巴颂
+
+- **原题：** Encomium on Barnabas by Alexander Monachus
+- **作者／归属：** Alexander Monachus
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；德译及英译
+
+围绕巴拿巴与塞浦路斯教会传统的颂词。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立题名；巴拿巴行传与巴拿巴书信是不同作品。
+
+**下一步：** 取得德译62–129或Cosby182–197；PeterLang节译和手稿图片仍待目标正文核读。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-barnabas-by-alexander-monachus/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Van Deun / Noret, Hagiographica Cypria, CCSG26 (1993)](https://www.brepols.net/products/IS-9782503402611-1) — 本篇希腊校文82–122据NASSCAL；ISBN9782503402611；实际读出版社目录，明确本篇CPG7400与同卷BHG2057另一作品分列；只核出版信息，未读校文全文；同卷多作品不可整体当巴拿巴颂
+
+资源路径：[Kollmann / Deuse, Laudatio Barnabae (2007), Fontes Christiani46](https://www.brepols.net/products/IS-9782503525617-1) — 希德对照62–129据NASSCAL；全书162页ISBN9782503525617；实际读出版社译者、语言、年份与版本简介；未取得译文正文；不把出版社摘要当现代全译
+
+资源路径：[Michael R. Cosby, Creation of History, 2nd ed. (2021)](https://wipfandstock.com/products/creation-of-history_-second-edition-9781725269026) — 本篇英译182–197据NASSCAL；电子ISBN9781725269040；实际检索到出版社2021-09-30、266页及电子版信息；未读目标英译正文；只保存出版方资源路径
+
+资源路径：[Kosiński等, The Church Histories of Theodore Lector and John Diakrinomenos](https://www.peterlang.com/document/1114368) — 巴拿巴颂§32–44希英节译374–391据NASSCAL；实际读出版社目录确认独立章节、694页、PDFISBN9783631837092、DOI10.3726/b17654；网页样读未到目标374–391；出版社标2021而NASSCAL2020，保留差异；节译不能称全颂全文
+
+资源路径：[Palatinus graecus325机构数字化入口](https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_325) — fol82v–96v据专目；从专目点击到海德堡入口，实际返回Anubis Access Denied；未读手稿图像，不绕过挑战；保留机构原路径
+
+[完整调查记录](workers/eclavis_e01.json)，条目 `ECCA-693`。

@@ -111,3 +111,7 @@
 ## 最新续查（2026-11-12，D07）
 
 索引第120–121项；本轮新增2条调查，非同数新缺书。详见[资源路径D07](RESOURCE-PATHS-D07.md)；下一项Egerton Gospel（ECCA722）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，E01）
+
+索引第122–126项；本轮新增4条调查，非同数新缺书。详见[资源路径E01](RESOURCE-PATHS-E01.md)；下一项Encomium on Bartholomew by Nicetas of Paphlagonia（ECCA866）。按用户指示，批次存档后持续推进，直至要求停止。

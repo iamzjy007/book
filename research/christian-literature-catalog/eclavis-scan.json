@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续121项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续126项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1211,15 +1211,65 @@
       "evidence": "manifest未见独立匹配；中文总集十字架之梦等同名检索未定位；不与圣十字木传奇或科普特救主之舞合并。",
       "ordinal": 121,
       "batch": "2026-11-12-eclavis-d07"
+    },
+    {
+      "ecca": "722",
+      "title": "Egerton Gospel",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/",
+      "decision": "existing_catalog_resource_supplement",
+      "record_id": "dydi_b:B06",
+      "evidence": "既有部分收录B06，补两套残片译文；科隆接片覆盖待核。",
+      "ordinal": 122,
+      "batch": "2026-11-12-eclavis-e01"
+    },
+    {
+      "ecca": "994",
+      "title": "Elchasai",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "decision": "patristic_testimonium_in_formal_inventory",
+      "record_id": "eclavis_e01:ECCA-994",
+      "evidence": "正式025教会史第六卷第三十八章已见中文厄尔刻赛派见证全文（字符约129324起）；不是原书。manifest未见独立原书。",
+      "ordinal": 123,
+      "batch": "2026-11-12-eclavis-e01"
+    },
+    {
+      "ecca": "918",
+      "title": "Encomium on Andrew by Nicetas of Paphlagonia",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-andrew-by-nicetas-of-paphlagonia/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e01:ECCA-918",
+      "evidence": "manifest未见独立题名；现有安得烈行传不自动覆盖本颂词。",
+      "ordinal": 124,
+      "batch": "2026-11-12-eclavis-e01"
+    },
+    {
+      "ecca": "698",
+      "title": "Encomium on the Archangel Michael by Pseudo-Timothy of Alexandria",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-archangel-michael-by-pseudo-timothy-of-alexandria/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e01:ECCA-698",
+      "evidence": "manifest未见独立题名；约翰启示录或其他米迦勒颂不自动覆盖。",
+      "ordinal": 125,
+      "batch": "2026-11-12-eclavis-e01"
+    },
+    {
+      "ecca": "693",
+      "title": "Encomium on Barnabas by Alexander Monachus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-barnabas-by-alexander-monachus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e01:ECCA-693",
+      "evidence": "manifest未见独立题名；巴拿巴行传与巴拿巴书信是不同作品。",
+      "ordinal": 126,
+      "batch": "2026-11-12-eclavis-e01"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Dream of the Rood",
-    "last_completed_ecca": "173",
-    "next_title": "Egerton Gospel",
-    "next_ecca": "722",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/egerton-gospel/",
+    "last_completed_title": "Encomium on Barnabas by Alexander Monachus",
+    "last_completed_ecca": "693",
+    "next_title": "Encomium on Bartholomew by Nicetas of Paphlagonia",
+    "next_ecca": "866",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-bartholomew-by-nicetas-of-paphlagonia/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1247,7 +1297,8 @@
       "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
