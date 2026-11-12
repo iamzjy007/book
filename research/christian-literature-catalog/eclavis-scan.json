@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续18项；A字母尚未完成。",
+  "scope": "索引开头连续23项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -181,20 +181,71 @@
       "record_id": "eclavis_a02:ECCA-397",
       "evidence": "bible/translation/manifest.json：acts-of-john，072_约翰行传，97单元；实读output/072_约翰行传.txt题头、18–21章及版本说明，且核115章标题。中文参考第250章注明文本略，不能当全文。",
       "batch": "2026-11-12-eclavis-a02"
+    },
+    {
+      "ordinal": 19,
+      "ecca": "203",
+      "title": "Acts of John by Prochorus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a03:ECCA-203",
+      "evidence": "限定manifest、参考标题无普罗科鲁本独立项；已收072_约翰行传从18章起，不能据同名认定覆盖。",
+      "batch": "2026-11-12-eclavis-a03"
+    },
+    {
+      "ordinal": 20,
+      "ecca": "164",
+      "title": "Acts of John by Prochorus (epitome), by Nicetas of Thessalonica",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus-epitome-by-nicetas-of-thessalonica/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a03:ECCA-164",
+      "evidence": "两manifest与参考标题未见该作者节本；需链接ECCA203，而非当作同一文本的完整重印。",
+      "batch": "2026-11-12-eclavis-a03"
+    },
+    {
+      "ordinal": 21,
+      "ecca": "515",
+      "title": "Acts of John in Rome",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-in-rome/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a03:ECCA-515",
+      "evidence": "正式072中文题头说明1–17章缺失；未见罗马短篇独立题名。现存死亡结尾共享，不足证明罗马主体已收。",
+      "batch": "2026-11-12-eclavis-a03"
+    },
+    {
+      "ordinal": 22,
+      "ecca": "716",
+      "title": "Acts of John (Latin)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-latin/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a03:ECCA-716",
+      "evidence": "manifest未见拉丁本独立项；正式072中文有限关键词未命中Craton故事，仍须全文覆盖比较，不能判定完全未收。",
+      "batch": "2026-11-12-eclavis-a03"
+    },
+    {
+      "ordinal": 23,
+      "ecca": "797",
+      "title": "Acts of Mar Mari",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-mar-mari/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a03:ECCA-797",
+      "evidence": "限定manifest与中文参考标题未见本题独立项；礼仪、教训与传记分别对待。",
+      "batch": "2026-11-12-eclavis-a03"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Acts of John",
-    "last_completed_ecca": "397",
-    "next_title": "Acts of John by Prochorus",
-    "next_ecca": "203",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus/",
-    "pagination": "索引单页；以相邻题名及ECCA定位，没有分页cursor。",
+    "last_completed_title": "Acts of Mar Mari",
+    "last_completed_ecca": "797",
+    "next_title": "Acts of Matthias",
+    "next_ecca": "165",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
       "Acts of Andrew (Latin) ECCA750构件未回查",
-      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录"
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }

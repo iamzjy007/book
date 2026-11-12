@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "2026-11-12-eclavis-a03",
+  "date_beijing": "2026-11-12",
+  "base_commit": "2d8ef22ca28d5d3e078ab7b09758f4d3c24926f9",
+  "task": "eclavis-systematic",
+  "status": "completed_batch",
+  "researcher": "current_session_single_worker",
+  "counts": {
+    "index_positions_scanned": 5,
+    "new_catalog_records": 5,
+    "cumulative_index_positions_scanned": 23,
+    "candidate_inventory_unconfirmed": 5
+  },
+  "sources_and_queries": "workers/eclavis_a03.json",
+  "resource_report": "RESOURCE-PATHS-A03.md",
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Acts of Mar Mari",
+    "last_completed_ecca": "797",
+    "next_title": "Acts of Matthias",
+    "next_ecca": "165",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  },
+  "user_instruction": "持续执行任务，直至用户要求停止；完成批次不是停止理由。",
+  "publication_status": "提交结果以远端核验为准，不预填成功。",
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ]
+}

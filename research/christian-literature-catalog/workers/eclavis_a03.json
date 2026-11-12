@@ -1,0 +1,421 @@
+{
+  "worker": "eclavis_a03",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第19–23项；本轮新增5条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-203",
+      "title_zh": "伪普罗科鲁约翰行传",
+      "original_title": "Acts of John by Prochorus / Acta seu peregrinationes, auctore Prochoro",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语及阿拉伯、科普特、吉兹等传本",
+      "synopsis": "以普罗科鲁为叙述者，叙约翰在以弗所、拔摩的旅程与神迹；不同古译不直接等同完整希腊本。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "限定manifest、参考标题无普罗科鲁本独立项；已收072_约翰行传从18章起，不能据同名认定覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "限定manifest、参考标题无普罗科鲁本独立项；已收072_约翰行传从18章起，不能据同名认定覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "203",
+        "CANT": "218"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/metadata/actajoannisunter00tisc",
+          "institution": "Internet Archive metadata API",
+          "read_scope": "核1880题名及PDF、OCR文件清单；PDF只取32字节",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf",
+          "institution": "Lewis1904旧译扫描",
+          "read_scope": "目录及印本37开头、53结尾定位已读；未逐页通读",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/actajoannisunter00tisc/actajoannisunter00tisc.pdf",
+          "edition": "Zahn, Acta Joannis, 1880",
+          "location": "希腊本pp.1–165；异文166–192（据e-Clavis）",
+          "verified": "IA metadata核题名与文件；Range206且PDF头；Commons记录448页",
+          "limits": "web原PDF重定向失败、Commons副本超过浏览大小限制；未读扫描正文或测PDF偏移",
+          "language": "希腊语",
+          "resource_type": "digitized_edition",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf#page=89",
+          "edition": "Lewis, The Mythological Acts of the Apostles, 1904",
+          "location": "阿拉伯系英译pp.37–53＝PDF89–105页（从1计）",
+          "verified": "实际核目录、p.37开头及p.53收尾，PDF共324页",
+          "limits": "只覆盖该古译的范围；不能据此声称取得Zahn完整希腊本的英译",
+          "language": "英语",
+          "resource_type": "digitized_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf#page=6",
+          "edition": "Spittler, MNTA3 (2023)",
+          "location": "目录列本篇pp.262–361",
+          "verified": "前置页PDF目录实际已核，页码与e-Clavis一致",
+          "limits": "19页公开文件不含本篇全文",
+          "language": "英语",
+          "resource_type": "contents_preview",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-164",
+      "title_zh": "尼基塔斯约翰行传节本",
+      "original_title": "Acts of John by Prochorus (epitome), by Nicetas of Thessalonica",
+      "author": "塞萨洛尼基的尼基塔斯",
+      "date": "11世纪初（据e-Clavis）",
+      "language": "希腊语",
+      "synopsis": "对伪普罗科鲁本的节编；专业条目称目前只刊序言，正文范围尚待手稿核定。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "两manifest与参考标题未见该作者节本；需链接ECCA203，而非当作同一文本的完整重印。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest与参考标题未见该作者节本；需链接ECCA203，而非当作同一文本的完整重印。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "164"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus-epitome-by-nicetas-of-thessalonica/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus-epitome-by-nicetas-of-thessalonica/",
+          "edition": "Halkin, AnBoll85 (1967)",
+          "location": "序言pp.16–20；Oxford Arch.Seld.B53 ff.61r–95v",
+          "verified": "实际读作品身份、刊本范围与手稿表",
+          "limits": "仅序言刊本书目；未取得全文校本或手稿图像",
+          "language": "希腊语",
+          "resource_type": "bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://pinakes.irht.cnrs.fr/notices/cote/46959/",
+          "edition": "Oxford Arch.Seld.B53",
+          "location": "ff.61r–95v（据e-Clavis）",
+          "verified": "从专业条目点击的机构目录返回403",
+          "limits": "未读目录正文或图像",
+          "language": "希腊语",
+          "resource_type": "manuscript_catalog",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-515",
+      "title_zh": "约翰在罗马行传",
+      "original_title": "Acts of John in Rome / Acta Iohannis Romae",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语，两主要修订本",
+      "synopsis": "叙约翰被捕赴罗马、饮毒及流放；两修订本的皇帝身份和开头不同。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式072中文题头说明1–17章缺失；未见罗马短篇独立题名。现存死亡结尾共享，不足证明罗马主体已收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式072中文题头说明1–17章缺失；未见罗马短篇独立题名。现存死亡结尾共享，不足证明罗马主体已收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "515",
+        "CANT": "216"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-in-rome/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0827.htm",
+          "institution": "New Advent：Walker旧译",
+          "read_scope": "实际读正文的开头、罗马试毒、流放和死亡段；未逐行校勘",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0827.htm",
+          "edition": "Alexander Walker旧英译，New Advent转录",
+          "location": "题头About His Exile and Departure；维斯帕先／图密善开头至死亡结尾",
+          "verified": "实际打开并读开头、饮毒、赴拔摩及结尾段落",
+          "limits": "属含Metastasis的旧拼合译文；不代表AJβ与AJγ两本完整对校",
+          "language": "英语",
+          "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf#page=6",
+          "edition": "Spittler, MNTA3 (2023)",
+          "location": "本篇pp.241–261；下篇262页起",
+          "verified": "公开目录及e-Clavis版本说明已核",
+          "limits": "公开19页PDF没有本篇全文",
+          "language": "英语",
+          "resource_type": "contents_preview",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-716",
+      "title_zh": "约翰神迹记（拉丁约翰行传）",
+      "original_title": "Acts of John (Latin) / Virtutes Iohannis",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语",
+      "synopsis": "汇集约翰的流放、神迹、财富劝诫及死亡传统；James旧译仅选其14–21章。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见拉丁本独立项；正式072中文有限关键词未命中Craton故事，仍须全文覆盖比较，不能判定完全未收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见拉丁本独立项；正式072中文有限关键词未命中Craton故事，仍须全文覆盖比较，不能判定完全未收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "716",
+        "CANT": "219"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-latin/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/metadata/codexapocryphus00gilegoog",
+          "institution": "Internet Archive metadata与scandata",
+          "read_scope": "核题名及纸面336、369页leaf位置；另一01副本没有该页映射",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/actsjohn.html",
+          "institution": "Early Christian Writings旧译转录",
+          "read_scope": "实际读取Latin XIV等补充段，属于选译",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/codexapocryphus00gilegoog/codexapocryphus00gilegoog.pdf",
+          "edition": "Giles, Codex Apocryphus Novi Testamenti, 1852",
+          "location": "vol.1 pp.336–369（据e-Clavis）；IA scandata p336=leaf362，p369=leaf395",
+          "verified": "IA metadata及scandata XML可读，核纸面页到leaf映射",
+          "limits": "不是01gilegoog副本；leaf号不能未经核验当PDF页码；未逐页读正文",
+          "language": "拉丁语",
+          "resource_type": "digitized_edition",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/actsjohn.html",
+          "edition": "James1924旧英译转录",
+          "location": "以(Lat. XIV.) Now on the next day Craton开头的补充部分；14–21章",
+          "verified": "网页实际可读，核补充段开头与其后Greek106章衔接",
+          "limits": "为拉丁本部分译文，不是整部Virtutes Iohannis；译文已收与否须比现有输出",
+          "language": "英语",
+          "resource_type": "partial_online_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-797",
+      "title_zh": "使徒马尔·马里行传",
+      "original_title": "Acts of Mar Mari / Acta Maris",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语；现代英译等",
+      "synopsis": "延续亚戴传统，叙马里由埃德萨向美索不达米亚及波斯的传教；不与亚戴、马里礼仪混同。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "限定manifest与中文参考标题未见本题独立项；礼仪、教训与传记分别对待。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "限定manifest与中文参考标题未见本题独立项；礼仪、教训与传记分别对待。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "797",
+        "BHO": "610"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-mar-mari/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.syri.ac/hagiography",
+          "institution": "syri.ac学术资源索引",
+          "read_scope": "实际读取Narrative of Mar Mari项目及指向Bedjan V1链接；并非整站扫描",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://cart.sbl-site.org/books/061611P",
+          "institution": "Society of Biblical Literature出版社",
+          "read_scope": "实际读WGRW11及两种原语与英译说明",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.sbl-site.org/wp-content/uploads/2024/11/Harrak_Acts.pdf",
+          "institution": "SBL出版社公开PDF",
+          "read_scope": "浏览直开403，搜索返回版权、目录及索引；Range读取头尾片段，非全书下载",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.sbl-site.org/wp-content/uploads/2024/11/Harrak_Acts.pdf",
+          "edition": "Amir Harrak, The Acts of Mar Mari the Apostle, WGRW11, 2005",
+          "location": "搜索返回目录：正文／译文p1起，附录p83，异文89、书目93、索引97–107",
+          "verified": "出版社站Range206、PDF头，大小1333972字节；搜索可读版权页、目录及主题索引片段",
+          "limits": "浏览工具直开403；未解析整份PDF页数或逐页确认正文完整，暂不标全文已读",
+          "language": "叙利亚语／英语",
+          "resource_type": "publisher_hosted_pdf",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/download/ActaMartyrumEtSanctorumvolume2Ed.PaulBedjan/BedjanActaMartyrumEtSanctorumV1.pdf",
+          "edition": "Bedjan, Acta martyrum et sanctorum vol.1",
+          "location": "pp.45–94（据e-Clavis及syri.ac）",
+          "verified": "syri.ac作品链接指向IA；metadata核V1文件名，Range206且PDF头",
+          "limits": "IA项目名包含volume2但目标文件为V1；未测PDF页偏移或读叙利亚原文",
+          "language": "叙利亚语",
+          "resource_type": "digitized_edition",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://cart.sbl-site.org/books/061611P",
+          "edition": "SBL出版社正式书目",
+          "location": "WGRW11，2005，ISBN9781589830936",
+          "verified": "实际打开题名、译者、系列、出版年月及内容说明",
+          "limits": "书目确认不能替代PDF范围复核",
+          "language": "英语",
+          "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "site:newadvent.org/fathers \"Acts of the Holy Apostle and Evangelist John\"",
+        "\"Acta Joannis\" \"1880\" archive.org",
+        "\"Le prologue inédit de Nicétas\" DOI"
+      ],
+      "result": "Zahn扫描metadata及文件头验证；NewAdvent实际对应罗马短篇；尼基塔斯只核序言书目。"
+    },
+    {
+      "queries": [
+        "\"Giles\" \"Codex apocryphus\" \"1852\" archive.org",
+        "\"Fabricius\" \"Codex apocryphus\" \"1719\" digital"
+      ],
+      "result": "确认Giles00副本含p336–369的scandata映射；01副本无此页号；MDZ另一1719记录只核书目/外壳，未拿其卷1替代卷2"
+    },
+    {
+      "queries": [
+        "site:syri.ac/hagiography \"Mari\"",
+        "site:sbl-site.org \"Acts of Mār Mārī\"",
+        "site:sbl-site.org/wp-content/uploads/2024/11/Harrak_Acts.pdf \"Contents\"",
+        "site:sbl-site.org/wp-content/uploads/2024/11/Harrak_Acts.pdf \"subject index\""
+      ],
+      "result": "SBL正式书目、PDF头尾Range及搜索返回目录；Bedjan旧叙利亚校本路径另核"
+    },
+    {
+      "queries": [
+        "两manifest、参考标题及正式072中文关键词：prochor/mar.mari/matthias/约翰/哲学家/克拉顿"
+      ],
+      "result": "正式约翰行传、马提亚传述与安得烈马提亚行传命中均需分辨；新5项无明确独立manifest标题"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "access_failures": [
+    {
+      "url": "https://www.sbl-site.org/wp-content/uploads/2024/11/Harrak_Acts.pdf",
+      "result": "web403，urllib Range206；按通道分别记录"
+    },
+    {
+      "url": "https://archive.org/download/actajoannisunter00tisc/actajoannisunter00tisc.pdf",
+      "result": "web重定向失败，Range206；Commons副本32MB超过浏览限制"
+    },
+    {
+      "url": "https://pinakes.irht.cnrs.fr/notices/cote/46959/",
+      "result": "web403；未读手稿目录或图像"
+    }
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Acts of Mar Mari",
+    "last_completed_ecca": "797",
+    "next_title": "Acts of Matthias",
+    "next_ecca": "165",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

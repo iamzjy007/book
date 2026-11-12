@@ -63,25 +63,27 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Acts of John",
-        "last_completed_ecca": "397",
-        "next_title": "Acts of John by Prochorus",
-        "next_ecca": "203",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus/",
-        "pagination": "索引单页；以相邻题名及ECCA定位，没有分页cursor。",
+        "last_completed_title": "Acts of Mar Mari",
+        "last_completed_ecca": "797",
+        "next_title": "Acts of Matthias",
+        "next_ecca": "165",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/",
+        "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
           "Acts of Andrew (Latin) ECCA750构件未回查",
-          "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录"
+          "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+          "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "从Acts of John by Prochorus ECCA203继续；A字母尚未完成。",
+      "next": "继续 Acts of Matthias ECCA165",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
-        "2026-11-12-eclavis-a02"
+        "2026-11-12-eclavis-a02",
+        "2026-11-12-eclavis-a03"
       ],
-      "last_batch_records_scanned": 6,
+      "last_batch_records_scanned": 5,
       "assigned_worker": "current_session_single_worker"
     },
     {

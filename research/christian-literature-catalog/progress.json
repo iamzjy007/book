@@ -1,25 +1,25 @@
 {
   "schema": 1,
-  "status": "followup_batch_completed_scan_pending_continuation",
+  "status": "active_rolling_research",
   "quota_percentage_accessible": false,
   "stop_at_3_percent_implemented": false,
   "inventory_manifest_rows": 286,
   "inventory_note": "两清单合计行数，含重复和排除条目；不是286部已收录作品。",
-  "last_checkpoint": "A02完成索引第13–18项：5候选＋1正式已有；下一项Acts of John by Prochorus ECCA203。",
+  "last_checkpoint": "索引第19–23项；本轮新增5条调查，非同数新缺书。下一项Acts of Matthias ECCA165",
   "background_service_installed": false,
   "counts": {
-    "worker_records": 127,
-    "catalogue_records_after_one_merge": 126,
+    "worker_records": 132,
+    "catalogue_records_after_one_merge": 131,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 167
+    "unique_source_urls": 178
   },
   "first_phase_branches_completed": 6,
   "followup_tasks_pending": 11,
   "next_task": "eclavis-systematic",
   "quota_stop_reason": null,
-  "stop_reason": "完成并保存一批可复核资源路径；A字母及后续扫描仍待继续。",
-  "workers_state": "本轮由单一会话工作者完成；未发现子代理或后台研究服务。",
+  "stop_reason": null,
+  "workers_state": "当前会话单一工作者持续推进；无后台研究服务。",
   "followup_tasks_in_progress": 1,
-  "latest_session": "sessions/2026-11-12-eclavis-a02.json",
-  "latest_resource_report": "RESOURCE-PATHS-A02.md"
+  "latest_session": "sessions/2026-11-12-eclavis-a03.json",
+  "latest_resource_report": "RESOURCE-PATHS-A03.md"
 }
