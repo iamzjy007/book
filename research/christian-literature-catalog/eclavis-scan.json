@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续171项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续174项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1711,15 +1711,45 @@
       "evidence": "两manifest未见Freer；总集常见音译及撒但权势等句未命中，相关不法和不信命中是西卜林卷而非此段；保留库存待核。",
       "ordinal": 171,
       "batch": "2026-11-12-eclavis-e13"
+    },
+    {
+      "ecca": "491",
+      "title": "Gelasian Decree",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gelasian-decree/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_e14:ECCA-491",
+      "evidence": "正式history-patristics019《革拉修敕令》有五章；本轮核章题、第一章全文、第三章全段、第四章若干项与第五章首尾及译者注，非全篇逐字通读。",
+      "ordinal": 172,
+      "batch": "2026-11-12-eclavis-e14"
+    },
+    {
+      "ecca": "262",
+      "title": "Genealogy and Manner of Death of the Apostles",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/genealogy-and-manner-of-death-of-the-apostles/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e14:ECCA-262",
+      "evidence": "两manifest未见对应独立标题；总集使徒家谱／十二使徒家未命中，族谱命中旧约材料；具体篇目覆盖未确认。",
+      "ordinal": 173,
+      "batch": "2026-11-12-eclavis-e14"
+    },
+    {
+      "ecca": "523",
+      "title": "Genealogies of the Twelve Apostles",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/genealogies-of-the-twelve-apostles/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e14:ECCA-523",
+      "evidence": "manifest未见对应Genealogies独立标题；中文总集家谱等未命中本短篇。库存中的使徒行传或爱尔兰使徒谱系不自动覆盖。",
+      "ordinal": 174,
+      "batch": "2026-11-12-eclavis-e14"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Freer Logion",
-    "last_completed_ecca": "112",
-    "next_title": "Gelasian Decree",
-    "next_ecca": "491",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gelasian-decree/",
+    "last_completed_title": "Genealogies of the Twelve Apostles",
+    "last_completed_ecca": "523",
+    "next_title": "Gospel of Barnabas",
+    "next_ecca": "799",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-barnabas/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1760,7 +1790,8 @@
       "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e13未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e14未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

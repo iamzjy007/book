@@ -101,7 +101,7 @@ def main():
     urls = {s['url'] for x in records for s in x['sources']}
     counts = {'worker_records': len(records) + 1, 'catalogue_records_after_one_merge': len(records), 'modern_anthology_gateways': sum(x['record_kind'] == 'modern_anthology_gateway' for x in records), 'unique_source_urls': len(urls)}
     save('catalog.json', {'schema': 1, 'date_beijing': '2026-11-12', 'phase': 'rolling_followup', 'counts': counts, 'count_limit': '条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。', 'merge_log': [{'from': 'dydi_c:C08', 'into': d['id'], 'reason': '同一John Climacus天梯，合并东方与希腊组证据；不同于Guigo修士天梯、雅各天梯或阶梯之书。'}], 'snapshots': snapshots, 'records': records})
-    lines = ['# 古代基督教文献书目目录（滚动更新）', '', f'当前汇总 **{len(records)}条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。', '', '最新资源路径见 [RESOURCE-PATHS-E13.md](RESOURCE-PATHS-E13.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。', '']
+    lines = ['# 古代基督教文献书目目录（滚动更新）', '', f'当前汇总 **{len(records)}条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。', '', '最新资源路径见 [RESOURCE-PATHS-E14.md](RESOURCE-PATHS-E14.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。', '']
     for area in AREAS:
         lines += ['## ' + area, '']
         for x in records:
