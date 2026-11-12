@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **131条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **136条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A03.md](RESOURCE-PATHS-A03.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A04.md](RESOURCE-PATHS-A04.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -3325,3 +3325,154 @@
 资源路径：[SBL出版社正式书目](https://cart.sbl-site.org/books/061611P) — WGRW11，2005，ISBN9781589830936；实际打开题名、译者、系列、出版年月及内容说明；书目确认不能替代PDF范围复核
 
 [完整调查记录](workers/eclavis_a03.json)，条目 `ECCA-797`。
+
+## e-Clavis系统扫描续查A04
+
+### 马提亚行传（拉丁传统）
+
+- **原题：** Acts of Matthias / Virtutes Matthiae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语
+
+本批仅确认拉丁圣徒事迹文本身份及版本表；概要未补齐，不据近似题名借用其他马提亚故事。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest已收050_马提亚传述2单元、077_安得烈与马提亚行传5单元；均不能直接等同BHL5700。未见本题独立项。
+
+**下一步：** 先获取BHL5700页图。Narrative Sources link934实际是Lambertus五书，已核为相关材料，不当作本篇全文。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[BHL5700版本与手稿表](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/) — Clm12641 ff.94r–97v；Acta Sanctorum Feb.III pp.447–451；Kloos1958 pp.169–180；实际读身份及版本表；未获得BHL5700正文；相关Lambertus五书不是本篇本身
+
+资源路径：[Acta Sanctorum Februarius vol.3，1658](https://play.google.com/store/books/details?id=MbuyhmC4QKgC) — 书目844页；本篇447–451定位据e-Clavis；实际打开卷次、年份及免费电子书标识；未打开电子书正文、未验证447–451页的该副本内容
+
+[完整调查记录](workers/eclavis_a04.json)，条目 `ECCA-165`。
+
+### 马可行实与神迹
+
+- **原题：** Acts and Miracles of Mark / Acta et miracula Marci evangelistae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 1000年以后（e-Clavis作晚期拜占庭汇编）
+- **语言：** 希腊语
+
+晚期拜占庭汇编，扩展马可传教及殉道传统；不与较早《马可殉道记》混同。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest及参考标题未见明确本篇；《马可的神秘福音》为另一文类，正典马可福音亦不覆盖。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-and-miracles-of-mark/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [译者House原始节译发布页](https://www.mythicistpapers.com/2012/10/02/translation/) — 实际读署名、暂译及章节范围声明和正文开头
+- [Mohr Siebeck出版社](https://www.mohrsiebeck.com/en/book/the-john-also-called-mark-9783161592782/) — 实际打开出版记录；未获章节199–204全文
+
+资源路径：[Mark A.House暂定英译，2012](https://www.mythicistpapers.com/2012/10/02/translation/) — 第1–5章；实际打开译者说明及正文前五章，网页明确为暂译；网站附带讨论不作为史实判断依据；其余30章未译，非全译本
+
+资源路径：[Dean Furlong, The John also Called Mark (2020)](https://www.mohrsiebeck.com/en/book/the-john-also-called-mark-9783161592782/) — 第1–8章英译pp.199–204（页码及范围据e-Clavis）；实际打开出版社记录，核专著身份；只确认出版入口；未核专著该页全文
+
+资源路径：[Stauroniketa18](https://repository.mountathos.org/jspui/handle/20.500.11957/129326) — ff.175v–189r（据e-Clavis）；从专业条目点击机构图像链接返回403；未读图像；Halkin1969论文343–371，正文346–371依译者说明，待原刊核对
+
+[完整调查记录](workers/eclavis_a04.json)，条目 `ECCA-874`。
+
+### 马太行传与殉道
+
+- **原题：** Acts of Matthew / Passion of Matthew
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语及古译
+
+讲述马太在食人者城市弥耳那的神迹、受难与国王归信；部分传本马太、马提亚人名互换，须据情节识别。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：限定manifest与参考标题无本篇独立项；《安得烈与马提亚行传》为相关先行故事，《马提亚传述》不同。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthew/) — 直接作品页403；搜索返回同条目身份、概要及部分版本书目，未声称直接打开成功
+- [New Advent旧译正文](https://www.newadvent.org/fathers/0822.htm) — 实际核叙事身份、主要人物及结尾；未全文校勘
+
+资源路径：[Alexander Walker旧英译，New Advent转录](https://www.newadvent.org/fathers/0822.htm) — 山上童子赐杖开头；Fulvanus、Plato；末尾11月16日；实际打开正文开头、中间及结尾和译者出处；19世纪旧译；未逐行对校现代校本，不把人名Matthiae拼写直接认成另一作品
+
+[完整调查记录](workers/eclavis_a04.json)，条目 `ECCA-420`。
+
+### 马太在祭司之城行传
+
+- **原题：** Acts of Matthew in the City of the Priests / Acta Matthaei in civitate Kahenat
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 阿拉伯语、吉兹语及科普特残片
+
+先叙福地之民，继叙马太在Kahenat与祭司Armis的故事；不同于食人者城市殉道篇。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：两manifest与参考标题无Kahenat／祭司之城独立项；不因同为马太行传并入ECCA420。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthew-in-the-city-of-the-priests/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Lewis1904扫描](https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf) — 实际核100–109边界和Kahenat题头
+- [校订者Alin Suciu学术网站](https://alinsuciu.com/wp-content/uploads/2019/06/suciu-2018c-a-bohairic-fragment-of-the-acts-of-matthew.pdf) — 实际读论文身份、传本讨论、p269残片校文及译文；非整部作品
+
+资源路径：[Lewis1904阿拉伯系英译](https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf#page=152) — pp.100–109＝PDF152–161页（从1计）；实际读p100题头、开头和p109结尾；下一p110为另一殉道篇；只是这一阿拉伯传本的译文；不等于所有古译或科普特全文
+
+资源路径：[Alin Suciu, Le Muséon131 (2018),251–277](https://alinsuciu.com/wp-content/uploads/2019/06/suciu-2018c-a-bohairic-fragment-of-the-acts-of-matthew.pdf#page=19) — p269＝PDF第19页，双面科普特残片与英译；作者公开PDF可读，共27页；实际核题页、传承讨论及p269校文和英译；只有残片，不是原作完整科普特正文；本轮未逐页通读论文
+
+[完整调查记录](workers/eclavis_a04.json)，条目 `ECCA-212`。
+
+### 涅柔与阿基琉行传
+
+- **原题：** Acts of Nereus and Achilleus / Acta Nerei et Achillei
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语、拉丁语
+
+罗马殉道传说串联多米提拉等人物，并嵌入彼得、马塞鲁及彼得女儿相关材料。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：限定manifest与参考标题无明确该作；《彼得的女儿》相关版本已有不等于整部行传已有。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-nereus-and-achilleus/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [编者Tony Burke网站](https://www.tonyburke.ca/wp-content/uploads/Burke-NTA2-front_matter.pdf) — 实际核目录及导论说明；前置页14页不含正文241–263
+- [Internet Archive元数据](https://archive.org/metadata/texteunduntersuc11akad) — 实际核总卷11及PDF文件；Range206和PDF头，未核具体分册正文
+
+资源路径：[Hans Achelis, Acta SS.Nerei et Achillei (1893),TU11.2](https://archive.org/details/texteunduntersuc11akad) — 合订TU11第二分册，IV+70页；分册内部页码重起；系列书目定位该合订本，IA metadata及PDF文件头另核；未读分册扫描正文，未验证PDF偏移；不把系列总卷页码当内部分册页码
+
+资源路径：[Richard Pervo英译，MNTA2 (2020)](https://www.tonyburke.ca/wp-content/uploads/Burke-NTA2-front_matter.pdf#page=2) — 本篇241–263；公开目录PDF第2页；实际打开14页前置页，核作者及下一篇264页；该文件不是本篇全文；完整译文待取得
+
+资源路径：[TU11合订卷扫描](https://archive.org/download/texteunduntersuc11akad/texteunduntersuc11akad.pdf) — 第二分册IV+70页定位仍待逐页核对；Range206，PDF1.5头；metadata核卷11；文件可响应不等于分册内容已校读
+
+[完整调查记录](workers/eclavis_a04.json)，条目 `ECCA-876`。

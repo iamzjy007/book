@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 132,
-    "catalogue_records_after_one_merge": 131,
+    "worker_records": 137,
+    "catalogue_records_after_one_merge": 136,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 178
+    "unique_source_urls": 189
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -56,6 +56,10 @@
     {
       "path": "workers/eclavis_a03.json",
       "sha256": "97a2982a462a0954b2499c8dbacf5e17c3e6ac9bac940556104539083f290081"
+    },
+    {
+      "path": "workers/eclavis_a04.json",
+      "sha256": "f225260a4761c435dc6d30131d78ca63be8707a04452e15e014fea04cc3f0570"
     }
   ],
   "records": [
@@ -6475,6 +6479,370 @@
           "limits": "书目确认不能替代PDF范围复核",
           "language": "英语",
           "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a04:ECCA-165",
+      "area": "e-Clavis系统扫描续查A04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "马提亚行传（拉丁传统）",
+      "original_title": "Acts of Matthias / Virtutes Matthiae",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语",
+      "synopsis": "本批仅确认拉丁圣徒事迹文本身份及版本表；概要未补齐，不据近似题名借用其他马提亚故事。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest已收050_马提亚传述2单元、077_安得烈与马提亚行传5单元；均不能直接等同BHL5700。未见本题独立项。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest已收050_马提亚传述2单元、077_安得烈与马提亚行传5单元；均不能直接等同BHL5700。未见本题独立项。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "先获取BHL5700页图。Narrative Sources link934实际是Lambertus五书，已核为相关材料，不当作本篇全文。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a04.json",
+      "worker_entry_id": "ECCA-165",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "165",
+        "BHL": "5700"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/",
+          "edition": "BHL5700版本与手稿表",
+          "location": "Clm12641 ff.94r–97v；Acta Sanctorum Feb.III pp.447–451；Kloos1958 pp.169–180",
+          "verified": "实际读身份及版本表",
+          "limits": "未获得BHL5700正文；相关Lambertus五书不是本篇本身",
+          "language": "待核",
+          "resource_type": "bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://play.google.com/store/books/details?id=MbuyhmC4QKgC",
+          "edition": "Acta Sanctorum Februarius vol.3，1658",
+          "location": "书目844页；本篇447–451定位据e-Clavis",
+          "verified": "实际打开卷次、年份及免费电子书标识",
+          "limits": "未打开电子书正文、未验证447–451页的该副本内容",
+          "language": "拉丁语",
+          "resource_type": "digitized_volume_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a04:ECCA-874",
+      "area": "e-Clavis系统扫描续查A04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "马可行实与神迹",
+      "original_title": "Acts and Miracles of Mark / Acta et miracula Marci evangelistae",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "1000年以后（e-Clavis作晚期拜占庭汇编）",
+      "language": "希腊语",
+      "synopsis": "晚期拜占庭汇编，扩展马可传教及殉道传统；不与较早《马可殉道记》混同。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "两manifest及参考标题未见明确本篇；《马可的神秘福音》为另一文类，正典马可福音亦不覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest及参考标题未见明确本篇；《马可的神秘福音》为另一文类，正典马可福音亦不覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-and-miracles-of-mark/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.mythicistpapers.com/2012/10/02/translation/",
+          "institution": "译者House原始节译发布页",
+          "read_scope": "实际读署名、暂译及章节范围声明和正文开头",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/the-john-also-called-mark-9783161592782/",
+          "institution": "Mohr Siebeck出版社",
+          "read_scope": "实际打开出版记录；未获章节199–204全文",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a04.json",
+      "worker_entry_id": "ECCA-874",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "874",
+        "CANT": "288",
+        "BHG": "1036m"
+      },
+      "resources": [
+        {
+          "url": "https://www.mythicistpapers.com/2012/10/02/translation/",
+          "edition": "Mark A.House暂定英译，2012",
+          "location": "第1–5章",
+          "verified": "实际打开译者说明及正文前五章，网页明确为暂译",
+          "limits": "网站附带讨论不作为史实判断依据；其余30章未译，非全译本",
+          "language": "英语",
+          "resource_type": "partial_online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/the-john-also-called-mark-9783161592782/",
+          "edition": "Dean Furlong, The John also Called Mark (2020)",
+          "location": "第1–8章英译pp.199–204（页码及范围据e-Clavis）",
+          "verified": "实际打开出版社记录，核专著身份",
+          "limits": "只确认出版入口；未核专著该页全文",
+          "language": "英语",
+          "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://repository.mountathos.org/jspui/handle/20.500.11957/129326",
+          "edition": "Stauroniketa18",
+          "location": "ff.175v–189r（据e-Clavis）",
+          "verified": "从专业条目点击机构图像链接返回403",
+          "limits": "未读图像；Halkin1969论文343–371，正文346–371依译者说明，待原刊核对",
+          "language": "希腊语",
+          "resource_type": "manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a04:ECCA-420",
+      "area": "e-Clavis系统扫描续查A04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "马太行传与殉道",
+      "original_title": "Acts of Matthew / Passion of Matthew",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语及古译",
+      "synopsis": "讲述马太在食人者城市弥耳那的神迹、受难与国王归信；部分传本马太、马提亚人名互换，须据情节识别。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "限定manifest与参考标题无本篇独立项；《安得烈与马提亚行传》为相关先行故事，《马提亚传述》不同。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "限定manifest与参考标题无本篇独立项；《安得烈与马提亚行传》为相关先行故事，《马提亚传述》不同。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthew/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "直接作品页403；搜索返回同条目身份、概要及部分版本书目，未声称直接打开成功",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0822.htm",
+          "institution": "New Advent旧译正文",
+          "read_scope": "实际核叙事身份、主要人物及结尾；未全文校勘",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a04.json",
+      "worker_entry_id": "ECCA-420",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "420",
+        "CANT": "267"
+      },
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0822.htm",
+          "edition": "Alexander Walker旧英译，New Advent转录",
+          "location": "山上童子赐杖开头；Fulvanus、Plato；末尾11月16日",
+          "verified": "实际打开正文开头、中间及结尾和译者出处",
+          "limits": "19世纪旧译；未逐行对校现代校本，不把人名Matthiae拼写直接认成另一作品",
+          "language": "英语",
+          "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a04:ECCA-212",
+      "area": "e-Clavis系统扫描续查A04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "马太在祭司之城行传",
+      "original_title": "Acts of Matthew in the City of the Priests / Acta Matthaei in civitate Kahenat",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "阿拉伯语、吉兹语及科普特残片",
+      "synopsis": "先叙福地之民，继叙马太在Kahenat与祭司Armis的故事；不同于食人者城市殉道篇。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "两manifest与参考标题无Kahenat／祭司之城独立项；不因同为马太行传并入ECCA420。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两manifest与参考标题无Kahenat／祭司之城独立项；不因同为马太行传并入ECCA420。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthew-in-the-city-of-the-priests/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf",
+          "institution": "Lewis1904扫描",
+          "read_scope": "实际核100–109边界和Kahenat题头",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://alinsuciu.com/wp-content/uploads/2019/06/suciu-2018c-a-bohairic-fragment-of-the-acts-of-matthew.pdf",
+          "institution": "校订者Alin Suciu学术网站",
+          "read_scope": "实际读论文身份、传本讨论、p269残片校文及译文；非整部作品",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a04.json",
+      "worker_entry_id": "ECCA-212",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "212",
+        "CANT": "268"
+      },
+      "resources": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Agnes_Smith_Lewis_-_The_Mythological_Acts_of_the_Apostles.pdf#page=152",
+          "edition": "Lewis1904阿拉伯系英译",
+          "location": "pp.100–109＝PDF152–161页（从1计）",
+          "verified": "实际读p100题头、开头和p109结尾；下一p110为另一殉道篇",
+          "limits": "只是这一阿拉伯传本的译文；不等于所有古译或科普特全文",
+          "language": "英语",
+          "resource_type": "digitized_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://alinsuciu.com/wp-content/uploads/2019/06/suciu-2018c-a-bohairic-fragment-of-the-acts-of-matthew.pdf#page=19",
+          "edition": "Alin Suciu, Le Muséon131 (2018),251–277",
+          "location": "p269＝PDF第19页，双面科普特残片与英译",
+          "verified": "作者公开PDF可读，共27页；实际核题页、传承讨论及p269校文和英译",
+          "limits": "只有残片，不是原作完整科普特正文；本轮未逐页通读论文",
+          "language": "科普特语／英语",
+          "resource_type": "author_hosted_article",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a04:ECCA-876",
+      "area": "e-Clavis系统扫描续查A04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "涅柔与阿基琉行传",
+      "original_title": "Acts of Nereus and Achilleus / Acta Nerei et Achillei",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、拉丁语",
+      "synopsis": "罗马殉道传说串联多米提拉等人物，并嵌入彼得、马塞鲁及彼得女儿相关材料。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "限定manifest与参考标题无明确该作；《彼得的女儿》相关版本已有不等于整部行传已有。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "限定manifest与参考标题无明确该作；《彼得的女儿》相关版本已有不等于整部行传已有。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-nereus-and-achilleus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-NTA2-front_matter.pdf",
+          "institution": "编者Tony Burke网站",
+          "read_scope": "实际核目录及导论说明；前置页14页不含正文241–263",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/metadata/texteunduntersuc11akad",
+          "institution": "Internet Archive元数据",
+          "read_scope": "实际核总卷11及PDF文件；Range206和PDF头，未核具体分册正文",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a04.json",
+      "worker_entry_id": "ECCA-876",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "876",
+        "BHG": "1327",
+        "BHL": "6058–6067"
+      },
+      "resources": [
+        {
+          "url": "https://archive.org/details/texteunduntersuc11akad",
+          "edition": "Hans Achelis, Acta SS.Nerei et Achillei (1893),TU11.2",
+          "location": "合订TU11第二分册，IV+70页；分册内部页码重起",
+          "verified": "系列书目定位该合订本，IA metadata及PDF文件头另核",
+          "limits": "未读分册扫描正文，未验证PDF偏移；不把系列总卷页码当内部分册页码",
+          "language": "希腊语／德语",
+          "resource_type": "digitized_volume_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-NTA2-front_matter.pdf#page=2",
+          "edition": "Richard Pervo英译，MNTA2 (2020)",
+          "location": "本篇241–263；公开目录PDF第2页",
+          "verified": "实际打开14页前置页，核作者及下一篇264页",
+          "limits": "该文件不是本篇全文；完整译文待取得",
+          "language": "英语",
+          "resource_type": "contents_preview",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/download/texteunduntersuc11akad/texteunduntersuc11akad.pdf",
+          "edition": "TU11合订卷扫描",
+          "location": "第二分册IV+70页定位仍待逐页核对",
+          "verified": "Range206，PDF1.5头；metadata核卷11",
+          "limits": "文件可响应不等于分册内容已校读",
+          "language": "希腊语／德语",
+          "resource_type": "digitized_volume",
           "checked_date_beijing": "2026-11-12"
         }
       ]

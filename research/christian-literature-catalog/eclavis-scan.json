@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续23项；A字母尚未完成。",
+  "scope": "索引开头连续28项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -231,21 +231,72 @@
       "record_id": "eclavis_a03:ECCA-797",
       "evidence": "限定manifest与中文参考标题未见本题独立项；礼仪、教训与传记分别对待。",
       "batch": "2026-11-12-eclavis-a03"
+    },
+    {
+      "ordinal": 24,
+      "ecca": "165",
+      "title": "Acts of Matthias",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a04:ECCA-165",
+      "evidence": "manifest已收050_马提亚传述2单元、077_安得烈与马提亚行传5单元；均不能直接等同BHL5700。未见本题独立项。",
+      "batch": "2026-11-12-eclavis-a04"
+    },
+    {
+      "ordinal": 25,
+      "ecca": "874",
+      "title": "Acts and Miracles of Mark",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-and-miracles-of-mark/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a04:ECCA-874",
+      "evidence": "两manifest及参考标题未见明确本篇；《马可的神秘福音》为另一文类，正典马可福音亦不覆盖。",
+      "batch": "2026-11-12-eclavis-a04"
+    },
+    {
+      "ordinal": 26,
+      "ecca": "420",
+      "title": "Acts of Matthew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthew/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a04:ECCA-420",
+      "evidence": "限定manifest与参考标题无本篇独立项；《安得烈与马提亚行传》为相关先行故事，《马提亚传述》不同。",
+      "batch": "2026-11-12-eclavis-a04"
+    },
+    {
+      "ordinal": 27,
+      "ecca": "212",
+      "title": "Acts of Matthew in the City of the Priests",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthew-in-the-city-of-the-priests/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a04:ECCA-212",
+      "evidence": "两manifest与参考标题无Kahenat／祭司之城独立项；不因同为马太行传并入ECCA420。",
+      "batch": "2026-11-12-eclavis-a04"
+    },
+    {
+      "ordinal": 28,
+      "ecca": "876",
+      "title": "Acts of Nereus and Achilleus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-nereus-and-achilleus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a04:ECCA-876",
+      "evidence": "限定manifest与参考标题无明确该作；《彼得的女儿》相关版本已有不等于整部行传已有。",
+      "batch": "2026-11-12-eclavis-a04"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Acts of Mar Mari",
-    "last_completed_ecca": "797",
-    "next_title": "Acts of Matthias",
-    "next_ecca": "165",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-matthias/",
+    "last_completed_title": "Acts of Nereus and Achilleus",
+    "last_completed_ecca": "876",
+    "next_title": "Acts of Paul",
+    "next_ecca": "779",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
       "Acts of Andrew (Latin) ECCA750构件未回查",
       "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
-      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }
