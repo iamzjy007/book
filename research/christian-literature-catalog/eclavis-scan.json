@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续33项；A字母尚未完成。",
+  "scope": "索引开头连续38项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -331,15 +331,65 @@
       "evidence": "正式076_彼得与保罗行传题头及首章实际从保罗由意大利近岛赴罗马起；这与BL Or.8802残片不同，不能凭同名视为已经覆盖。",
       "ordinal": 33,
       "batch": "2026-11-12-eclavis-a05"
+    },
+    {
+      "ecca": "124",
+      "title": "Acts of Peter and the Twelve Apostles",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-the-twelve-apostles/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a06:ECCA-124",
+      "evidence": "manifest acts-of-peter-and-the-twelve-apostles，075_彼得与十二使徒行传4单元；中文参考第253章亦有题名，正文覆盖须逐段核对。 本批实际读075输出题头及第1章，开头与网页残缺及珍珠商人段对应。",
+      "ordinal": 34,
+      "batch": "2026-11-12-eclavis-a06"
+    },
+    {
+      "ecca": "534",
+      "title": "Acts of Peter by Clement",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-by-clement/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a06:ECCA-534",
+      "evidence": "manifest虽有伪革利免作者合集，不能据作者名认定它包含此吉兹故事集；限定标题未见独立本题。",
+      "ordinal": 35,
+      "batch": "2026-11-12-eclavis-a06"
+    },
+    {
+      "ecca": "980",
+      "title": "Acts of Philip",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip/",
+      "decision": "supplement_existing_catalogue_record",
+      "record_id": "dydi_b:B14",
+      "evidence": "初筛已有同作调查，本轮只补Baylor2012出版入口、Walker部分旧译和版本范围，未重复增加目录条目。",
+      "ordinal": 36,
+      "batch": "2026-11-12-eclavis-a06"
+    },
+    {
+      "ecca": "940",
+      "title": "Acts of Philip (Latin)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip-latin/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a06:ECCA-940",
+      "evidence": "限定manifest与参考标题无Virtutes Philippi独立项；已有目录dydi_b:B14为希腊系Acts of Philip，分别保留版本关系。",
+      "ordinal": 37,
+      "batch": "2026-11-12-eclavis-a06"
+    },
+    {
+      "ecca": "309",
+      "title": "Acts of Pilate",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-pilate-gospel-of-nicodemus/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a06:ECCA-309",
+      "evidence": "正式manifest acts-of-pilate，064_彼拉多行传31单元；实读输出题头、亚拿尼亚序及章节标题，含受难复活、降阴间及致革老丢书。",
+      "ordinal": 38,
+      "batch": "2026-11-12-eclavis-a06"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Acts of Peter and Paul (Coptic)",
-    "last_completed_ecca": "242",
-    "next_title": "Acts of Peter and the Twelve Apostles",
-    "next_ecca": "124",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-the-twelve-apostles/",
+    "last_completed_title": "Acts of Pilate",
+    "last_completed_ecca": "309",
+    "next_title": "Acts of Simon and Theonoe",
+    "next_ecca": "223",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-simon-and-theonoe/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -347,7 +397,8 @@
       "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
       "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }

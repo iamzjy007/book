@@ -1,0 +1,470 @@
+{
+  "worker": "eclavis_a06",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第34–38项；本轮新增4条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-124",
+      "title_zh": "彼得与十二使徒行传（版本补证）",
+      "original_title": "Acts of Peter and the Twelve Apostles / Acta Petri et XII Apostolorum",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语，NHC VI,1",
+      "synopsis": "以珍珠商人Lithargoel及医者形象叙基督与使徒，包含对贫者的照料；不是十二使徒遗训。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "manifest acts-of-peter-and-the-twelve-apostles，075_彼得与十二使徒行传4单元；中文参考第253章亦有题名，正文覆盖须逐段核对。 本批实际读075输出题头及第1章，开头与网页残缺及珍珠商人段对应。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest acts-of-peter-and-the-twelve-apostles，075_彼得与十二使徒行传4单元；中文参考第253章亦有题名，正文覆盖须逐段核对。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "124",
+        "CANT": "207"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-the-twelve-apostles/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/actspetertwelve.html",
+          "institution": "Early Christian Writings转载译文",
+          "read_scope": "直接打开成功，实际核署名、开头及结尾",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/actspetertwelve.html",
+          "edition": "Douglas M.Parrott / R.McL.Wilson英译转录",
+          "location": "NHC VI,1；网页从残缺开头至Amen",
+          "verified": "直接打开成功，核署名、残缺开头、Lithargoel段和Amen结尾",
+          "limits": "现代译文仅存链接，不复制正文；非逐行校勘；Gnosis原站超时／503",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-the-twelve-apostles/",
+          "edition": "Ghica, Les Actes de Pierre et des douze apôtres, BCNH Textes37 (2000)",
+          "location": "科普特及法译267–291；法译293–299",
+          "verified": "专业书目已核版次及页界",
+          "limits": "尚未打开该现代校本全文",
+          "language": "科普特语／法语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_formal_inventory"
+    },
+    {
+      "id": "ECCA-534",
+      "title_zh": "革利免所述彼得行传（吉兹本）",
+      "original_title": "Acts of Peter by Clement / Acta Petri Clementi supposita",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "吉兹语",
+      "synopsis": "吉兹彼得故事集，和阿拉伯《卷轴书》7–8卷等有平行材料，具体关系未定。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest虽有伪革利免作者合集，不能据作者名认定它包含此吉兹故事集；限定标题未见独立本题。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest虽有伪革利免作者合集，不能据作者名认定它包含此吉兹故事集；限定标题未见独立本题。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "先核伪革利免合集实际文本，再比吉兹彼得篇466–526，不把《卷轴书》或吉兹革利免书直接合并。",
+      "clavis": {
+        "ECCA": "534",
+        "CANT": "205"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-by-clement/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/metadata/contendingsofapo02budguoft",
+          "institution": "Internet Archive metadata API",
+          "read_scope": "实际核题名、卷2及PDF清单；只取PDF32字节",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://syri.ac/bibliography/1882365801",
+          "institution": "syri.ac学术书目",
+          "read_scope": "搜索返回1901、卷2、英译及IA标识",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/contendingsofapo02budguoft/contendingsofapo02budguoft.pdf",
+          "edition": "Budge, The Contendings of the Apostles2 (1901)",
+          "location": "英译466–526（据e-Clavis）；原文另见vol.1 382–435",
+          "verified": "IA metadata核卷2与PDF文件，Range206且PDF头；syri.ac确认卷2为英译",
+          "limits": "本批未读本篇扫描正文或验证PDF页偏移；metadata未列scandata，保留页码来自书目",
+          "language": "英语",
+          "resource_type": "digitized_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-940",
+      "title_zh": "腓力神迹记（拉丁行传）",
+      "original_title": "Acts of Philip (Latin) / Virtutes Philippi",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语；另有中期爱尔兰改写",
+      "synopsis": "拉丁本叙腓力在斯基提亚驱逐龙、医治及晚年；爱尔兰改写结尾不同，不能直接用作拉丁篇全译。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "限定manifest与参考标题无Virtutes Philippi独立项；已有目录dydi_b:B14为希腊系Acts of Philip，分别保留版本关系。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "限定manifest与参考标题无Virtutes Philippi独立项；已有目录dydi_b:B14为希腊系Acts of Philip，分别保留版本关系。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "940",
+        "CANT": "254",
+        "BHL": "6814–6817"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip-latin/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00041811/manifest",
+          "institution": "巴伐利亚州立图书馆IIIF",
+          "read_scope": "实际解析卷名及201幅清单；未读页图",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/codexapocryphus00gilegoog/codexapocryphus00gilegoog.pdf",
+          "edition": "Giles, Codex Apocryphus Novi Testamenti1 (1852)",
+          "location": "pp.453–456（据e-Clavis）；IA scandata p453=leaf479",
+          "verified": "实际核同卷metadata及scandata纸面页号映射",
+          "limits": "只确认p453映射，p456未被scandata明确标注；未读原文，不猜PDF偏移",
+          "language": "拉丁语",
+          "resource_type": "digitized_edition",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00041811/manifest",
+          "edition": "BSB Clm12641手稿IIIF",
+          "location": "卷内腓力篇叶界未给出；同卷另有BHL5700马提亚篇ff.94r–97v",
+          "verified": "机构API HTTP200，label核Clm12641，201幅canvas",
+          "limits": "仅清单已读、未读图像；canvas数字不是叶码，不能把canvas94认成fol.94r",
+          "language": "拉丁语",
+          "resource_type": "manuscript_iiif_manifest",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "relationships": [
+        {
+          "type": "related_distinct_tradition",
+          "record_id": "dydi_b:B14",
+          "title": "Acts of Philip (Greek tradition)"
+        }
+      ]
+    },
+    {
+      "id": "ECCA-309",
+      "title_zh": "彼拉多行传／尼哥底母福音（版本补证）",
+      "original_title": "Acts of Pilate / Gospel of Nicodemus",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、拉丁语及多种古译",
+      "synopsis": "受审、受难与复活叙事常同降到阴间材料组合；不同修订本及附录需分列。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式manifest acts-of-pilate，064_彼拉多行传31单元；实读输出题头、亚拿尼亚序及章节标题，含受难复活、降阴间及致革老丢书。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest acts-of-pilate，064_彼拉多行传31单元；实读输出题头、亚拿尼亚序及章节标题，含受难复活、降阴间及致革老丢书。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "309",
+        "CANT": "62"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-pilate-gospel-of-nicodemus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0807.htm",
+          "institution": "New Advent版本导航",
+          "read_scope": "实际核PartI、PartII分组并打开子页",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/08071a.htm",
+          "institution": "New Advent希腊A旧译",
+          "read_scope": "实际核序言与第一章",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/08071b.htm",
+          "institution": "New Advent希腊B旧译",
+          "read_scope": "实际核不同序言",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/08072a.htm",
+          "institution": "New Advent降阴间旧译",
+          "read_scope": "实际核标题与初段",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0807.htm",
+          "edition": "Alexander Walker各版本转录导航",
+          "location": "Part I为Acts of Pilate，Part II为Descent；各希腊／拉丁形式分开",
+          "verified": "实际打开导航，并分别打开I希腊A、I希腊B、I拉丁及II希腊、II拉丁A链接",
+          "limits": "导航覆盖多个版本，不能据单一正式064题名声称全部形式已有；未逐行对照",
+          "language": "英语",
+          "resource_type": "edition_family_index",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/08071a.htm",
+          "edition": "Part I First Greek Form旧英译",
+          "location": "亚拿尼亚序至受审复活部分",
+          "verified": "实际打开题头、序言及第一章，和064开头对应",
+          "limits": "仅该修订本开头对应，不证明全篇逐字一致",
+          "language": "英语",
+          "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/08071b.htm",
+          "edition": "Part I Second Greek Form旧英译",
+          "location": "另一希腊形式",
+          "verified": "实际打开题头及不同序言",
+          "limits": "不与First Greek Form合并当作无差异重复本",
+          "language": "英语",
+          "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/08072a.htm",
+          "edition": "Part II Greek Form旧英译",
+          "location": "The Descent of Christ into Hell，章节从1(17)计",
+          "verified": "实际打开标题及初段",
+          "limits": "须与064降阴间12章单独映射，不能凭章数判断一致",
+          "language": "英语",
+          "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_formal_inventory"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "site:earlychristianwritings.com/text \"Acts of Peter and the Twelve\"",
+        "site:gnosis.org/naghamm/actp.html \"Translated\"",
+        "Budge \"Contendings of the Apostles\" \"1901\" archive.org",
+        "site:baylorpress.com \"Acts of Philip\""
+      ],
+      "result": "定位十二使徒译文替代路径，Budge卷2metadata及PDF头，Baylor2012新版与旧Walker篇章范围可分。"
+    },
+    {
+      "queries": [
+        "NASSCAL拉丁腓力条目Giles453–456及Clm12641图像入口",
+        "BSB IIIF manifest bsb00041811"
+      ],
+      "result": "旧viewer超时，机构API200并解析201幅清单；数字标签不是叶码，未做图像内容认定"
+    },
+    {
+      "queries": [
+        "NewAdvent Gospel of Nicodemus导航及五个子页",
+        "正式064和075题头、章节标题与开头"
+      ],
+      "result": "064含组合材料；不能把不同修订本一律标完全已有；075开头可明确映射英译"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "supplements": [
+    {
+      "id": "ECCA-980-resource-supplement",
+      "target_id": "dydi_b:B14",
+      "clavis": {
+        "ECCA": "980",
+        "CANT": "250"
+      },
+      "resources": [
+        {
+          "url": "https://www.baylorpress.com/9781602586567/the-acts-of-philip/",
+          "edition": "Bovon/Matthews, The Acts of Philip: A New Translation (2012)",
+          "location": "122页；目录含Introduction、Translation、Bibliography",
+          "verified": "实际打开出版社页，核作者、2012及新版手稿依据",
+          "limits": "出版入口，未取得现代译本全文",
+          "language": "英语",
+          "resource_type": "publisher_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0818.htm",
+          "edition": "Alexander Walker旧译",
+          "location": "第2行传及殉道篇（范围据e-Clavis）",
+          "verified": "实际打开题名和正文网页，待逐段核编次",
+          "limits": "旧译仅部分材料，不能抵作Bovon/Matthews新版全译",
+          "language": "英语",
+          "resource_type": "partial_online_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.baylorpress.com/9781602586567/the-acts-of-philip/",
+          "institution": "Baylor University Press",
+          "read_scope": "实际读122页及新手稿依据说明",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0818.htm",
+          "institution": "New Advent旧译正文",
+          "read_scope": "实际打开旧译题头，范围仍依据专业书目",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "language": "希腊语及多种古译；本轮重点核希腊系现代、旧英译",
+      "next": "优先取Baylor2012或CCSA11新版；旧Walker只部分覆盖，不把现代手稿补足部分漏记。"
+    },
+    {
+      "id": "Clm12641-route-backcheck",
+      "target_id": "eclavis_a04:ECCA-165",
+      "resources": [
+        {
+          "url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00041811/manifest",
+          "edition": "BSB Clm12641机构IIIF清单",
+          "location": "BHL5700 ff.94r–97v据e-Clavis；清单201幅",
+          "verified": "API200，核卷名，已解析清单",
+          "limits": "未读图像或建立fol.94r与canvas对应，不声称取得可读正文",
+          "language": "拉丁语",
+          "resource_type": "manuscript_iiif_manifest",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00041811/manifest",
+          "institution": "BSB机构API",
+          "read_scope": "实际解析卷名和清单；补前批被阻viewer入口",
+          "accessed": "2026-11-12"
+        }
+      ]
+    }
+  ],
+  "scan_records": [
+    {
+      "ecca": "124",
+      "title": "Acts of Peter and the Twelve Apostles",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-the-twelve-apostles/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a06:ECCA-124",
+      "evidence": "manifest acts-of-peter-and-the-twelve-apostles，075_彼得与十二使徒行传4单元；中文参考第253章亦有题名，正文覆盖须逐段核对。 本批实际读075输出题头及第1章，开头与网页残缺及珍珠商人段对应。"
+    },
+    {
+      "ecca": "534",
+      "title": "Acts of Peter by Clement",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-by-clement/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a06:ECCA-534",
+      "evidence": "manifest虽有伪革利免作者合集，不能据作者名认定它包含此吉兹故事集；限定标题未见独立本题。"
+    },
+    {
+      "ecca": "980",
+      "title": "Acts of Philip",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip/",
+      "decision": "supplement_existing_catalogue_record",
+      "record_id": "dydi_b:B14",
+      "evidence": "初筛已有同作调查，本轮只补Baylor2012出版入口、Walker部分旧译和版本范围，未重复增加目录条目。"
+    },
+    {
+      "ecca": "940",
+      "title": "Acts of Philip (Latin)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-philip-latin/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a06:ECCA-940",
+      "evidence": "限定manifest与参考标题无Virtutes Philippi独立项；已有目录dydi_b:B14为希腊系Acts of Philip，分别保留版本关系。"
+    },
+    {
+      "ecca": "309",
+      "title": "Acts of Pilate",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-pilate-gospel-of-nicodemus/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a06:ECCA-309",
+      "evidence": "正式manifest acts-of-pilate，064_彼拉多行传31单元；实读输出题头、亚拿尼亚序及章节标题，含受难复活、降阴间及致革老丢书。"
+    }
+  ],
+  "access_failures": [
+    {
+      "url": "https://www.gnosis.org/naghamm/actp.html",
+      "result": "浏览超时，urllib503；替代转载页直接打开成功"
+    },
+    {
+      "url": "https://daten.digitale-sammlungen.de/~db/0004/bsb00041811/images/index.html",
+      "result": "旧viewer超时；改IIIF清单成功，未读图像"
+    }
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Acts of Pilate",
+    "last_completed_ecca": "309",
+    "next_title": "Acts of Simon and Theonoe",
+    "next_ecca": "223",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-simon-and-theonoe/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}
