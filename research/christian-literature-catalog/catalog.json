@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 190,
-    "catalogue_records_after_one_merge": 189,
+    "worker_records": 192,
+    "catalogue_records_after_one_merge": 191,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 298
+    "unique_source_urls": 301
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -112,6 +112,10 @@
     {
       "path": "workers/eclavis_c01.json",
       "sha256": "b34cb6ad4cf4381c3e271cb7a766cdca9b356515eeeffc079ef7c4cbcb7ca27a"
+    },
+    {
+      "path": "workers/eclavis_c02.json",
+      "sha256": "0eacc6914aa66619dae358e31064dd6b2245234a163fe30c0a755c3b689f80d4"
     }
   ],
   "records": [
@@ -10887,6 +10891,145 @@
           "limits": "HTML页面标题误为Allogenes，页脚误署Turner/Wintermute而正文题头及MLA署Wisse；正式使用需核印本，暂记录冲突，不混作异邦人篇",
           "language": "英语",
           "resource_type": "online_translation_attribution_conflict",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_c02:ECCA-470",
+      "area": "e-Clavis系统扫描续查C02",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "巴多罗买归信记",
+      "original_title": "Conversion of Bartholomew / De nativitate sancti Bartholomei apostoli",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语",
+      "synopsis": "两种版本叙述王子巴多罗买归信及成为门徒。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "未见manifest独立题名；不等于ECCA166诞生记，虽相关且校刊于同一研究。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未见manifest独立题名；不等于ECCA166诞生记，虽相关且校刊于同一研究。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/conversion-of-bartholomew/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_c02.json",
+      "worker_entry_id": "ECCA-470",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "470"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/conversion-of-bartholomew/",
+          "edition": "Astrid Krüger, De ortu sancti Bartholomei, AnBoll128 (2010)",
+          "location": "版本1校本129–132；版本2为133–135",
+          "verified": "实际核专业条目两版本及对应校刊页",
+          "limits": "本轮未取得拉丁校本；现代译文栏空白不是绝无译本的证据",
+          "language": "拉丁语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://doi.org/10.1484/J.ABOL.5.102055",
+          "edition": "Krüger2010文章DOI",
+          "location": "整篇87–162，含多个相关传统",
+          "verified": "CSIC学术论文书目列此DOI；出版社doi直开失败",
+          "limits": "DOI路径可保存，未取得文章PDF；不把诞生、归信诸文本合并",
+          "language": "德语／拉丁语",
+          "resource_type": "edition_doi_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://handschriftenportal.de/search?hspobjectid=HSP-02015a19-3a02-358a-bebc-c7ee16f91e1c",
+          "edition": "Leipzig UB184手稿入口",
+          "location": "ff44v–45r据e-Clavis；前44r–44v为诞生记",
+          "verified": "实际由条目点击，返回无可解析正文的JS页",
+          "limits": "未读图像；相邻叶范围不能作为同一作品证据",
+          "language": "拉丁语",
+          "resource_type": "javascript_manuscript_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_c02:ECCA-169",
+      "area": "e-Clavis系统扫描续查C02",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "哥林多三书／哥林多人和保罗往来书信",
+      "original_title": "3 Corinthians / Epistulae mutuae Corinthiorum et Pauli",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、科普特语、亚美尼亚语、拉丁语等传本",
+      "synopsis": "包括哥林多人来信与归托保罗的回信，附叙事框架的版本须分辨。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "in_reference_anthology_component",
+      "repository_evidence": "中文总集保罗行传腓立比段49535–49555行已含来信、送信间叙与保罗回信至阿们，实际读首尾；manifest无独立3Cor，不能把正典林前后当本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "中文总集保罗行传腓立比段49535–49555行已含来信、送信间叙与保罗回信至阿们，实际读首尾；manifest无独立3Cor，不能把正典林前后当本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以中文49535–49555与Bodmer X两信、科普特框架及亚美尼亚扩展分别比对，既有正文不重复当缺书。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/3-corinthians/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://ctsfw.net/media/pdfs/ScharlemannThirdCorinthians.pdf",
+          "institution": "Concordia Theological Seminary机构档案",
+          "read_scope": "实际读13页文章中题头、译前说明与译文首尾",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_c02.json",
+      "worker_entry_id": "ECCA-169",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "169",
+        "CANT": "211.IV"
+      },
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/actspaul.html",
+          "edition": "M. R. James, The Apocryphal New Testament (1924)",
+          "location": "哥林多往来书信章节，回信III.1–40及版本异读标记",
+          "verified": "实际读来信、间叙、回信末尾及James题头",
+          "limits": "旧译含合并版本与大写补文，不等于Bodmer X纯希腊本；现代化改写网页另有，不混引",
+          "language": "英语",
+          "resource_type": "online_translation_component",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ctsfw.net/media/pdfs/ScharlemannThirdCorinthians.pdf",
+          "edition": "Martin H. Scharlemann, Third Corinthians, CTM26 (1955)",
+          "location": "全文518–529；译文524–528＝PDF第8–12页；译前说明523＝PDF7",
+          "verified": "实际核1955原题头、底本声明、两信及回信末尾2.18 Amen",
+          "limits": "译者明确据Rinck德译并对Boese柏林拉丁本，不是直接Bodmer希腊译本；文中尚未发现希腊本的旧研究判断已过时；NASSCAL将期刊名与译文页误记，依原扫描校核",
+          "language": "英语",
+          "resource_type": "institution_hosted_translation",
           "checked_date_beijing": "2026-11-12"
         }
       ]

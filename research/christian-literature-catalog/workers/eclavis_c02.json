@@ -1,0 +1,180 @@
+{
+  "worker": "eclavis_c02",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第89–90项；本轮新增2条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-470",
+      "title_zh": "巴多罗买归信记",
+      "original_title": "Conversion of Bartholomew / De nativitate sancti Bartholomei apostoli",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语",
+      "synopsis": "两种版本叙述王子巴多罗买归信及成为门徒。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "未见manifest独立题名；不等于ECCA166诞生记，虽相关且校刊于同一研究。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未见manifest独立题名；不等于ECCA166诞生记，虽相关且校刊于同一研究。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "470"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/conversion-of-bartholomew/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/conversion-of-bartholomew/",
+          "edition": "Astrid Krüger, De ortu sancti Bartholomei, AnBoll128 (2010)",
+          "location": "版本1校本129–132；版本2为133–135",
+          "verified": "实际核专业条目两版本及对应校刊页",
+          "limits": "本轮未取得拉丁校本；现代译文栏空白不是绝无译本的证据",
+          "language": "拉丁语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://doi.org/10.1484/J.ABOL.5.102055",
+          "edition": "Krüger2010文章DOI",
+          "location": "整篇87–162，含多个相关传统",
+          "verified": "CSIC学术论文书目列此DOI；出版社doi直开失败",
+          "limits": "DOI路径可保存，未取得文章PDF；不把诞生、归信诸文本合并",
+          "language": "德语／拉丁语",
+          "resource_type": "edition_doi_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://handschriftenportal.de/search?hspobjectid=HSP-02015a19-3a02-358a-bebc-c7ee16f91e1c",
+          "edition": "Leipzig UB184手稿入口",
+          "location": "ff44v–45r据e-Clavis；前44r–44v为诞生记",
+          "verified": "实际由条目点击，返回无可解析正文的JS页",
+          "limits": "未读图像；相邻叶范围不能作为同一作品证据",
+          "language": "拉丁语",
+          "resource_type": "javascript_manuscript_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-169",
+      "title_zh": "哥林多三书／哥林多人和保罗往来书信",
+      "original_title": "3 Corinthians / Epistulae mutuae Corinthiorum et Pauli",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、科普特语、亚美尼亚语、拉丁语等传本",
+      "synopsis": "包括哥林多人来信与归托保罗的回信，附叙事框架的版本须分辨。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "in_reference_anthology_component",
+      "repository_evidence": "中文总集保罗行传腓立比段49535–49555行已含来信、送信间叙与保罗回信至阿们，实际读首尾；manifest无独立3Cor，不能把正典林前后当本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "中文总集保罗行传腓立比段49535–49555行已含来信、送信间叙与保罗回信至阿们，实际读首尾；manifest无独立3Cor，不能把正典林前后当本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以中文49535–49555与Bodmer X两信、科普特框架及亚美尼亚扩展分别比对，既有正文不重复当缺书。",
+      "clavis": {
+        "ECCA": "169",
+        "CANT": "211.IV"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/3-corinthians/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://ctsfw.net/media/pdfs/ScharlemannThirdCorinthians.pdf",
+          "institution": "Concordia Theological Seminary机构档案",
+          "read_scope": "实际读13页文章中题头、译前说明与译文首尾",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/actspaul.html",
+          "edition": "M. R. James, The Apocryphal New Testament (1924)",
+          "location": "哥林多往来书信章节，回信III.1–40及版本异读标记",
+          "verified": "实际读来信、间叙、回信末尾及James题头",
+          "limits": "旧译含合并版本与大写补文，不等于Bodmer X纯希腊本；现代化改写网页另有，不混引",
+          "language": "英语",
+          "resource_type": "online_translation_component",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ctsfw.net/media/pdfs/ScharlemannThirdCorinthians.pdf",
+          "edition": "Martin H. Scharlemann, Third Corinthians, CTM26 (1955)",
+          "location": "全文518–529；译文524–528＝PDF第8–12页；译前说明523＝PDF7",
+          "verified": "实际核1955原题头、底本声明、两信及回信末尾2.18 Amen",
+          "limits": "译者明确据Rinck德译并对Boese柏林拉丁本，不是直接Bodmer希腊译本；文中尚未发现希腊本的旧研究判断已过时；NASSCAL将期刊名与译文页误记，依原扫描校核",
+          "language": "英语",
+          "resource_type": "institution_hosted_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "in_reference_anthology_component"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Krüger2010 conversion Bartholomew DOI",
+        "3Corinthians James actspaul Chinese Philippi",
+        "ScharlemannThirdCorinthians CTSFW1955 PDF"
+      ],
+      "result": "C区末两项；哥林多三书在中文总集已含两信与框架；1955译本实读核为CTM26印524–528，且为德译转译，不是后来发现的Bodmer希腊本。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "3 Corinthians",
+    "last_completed_ecca": "169",
+    "next_title": "Dance of the Savior",
+    "next_ecca": "592",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dance-of-the-savior/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

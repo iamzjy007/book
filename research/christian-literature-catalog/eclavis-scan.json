@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续88项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续90项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -881,15 +881,35 @@
       "evidence": "未见manifest独立匹配；中文总集本轮题名检索未定位，暂不判断全部中文出版情况。",
       "ordinal": 88,
       "batch": "2026-11-12-eclavis-c01"
+    },
+    {
+      "ecca": "470",
+      "title": "Conversion of Bartholomew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/conversion-of-bartholomew/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_c02:ECCA-470",
+      "evidence": "未见manifest独立题名；不等于ECCA166诞生记，虽相关且校刊于同一研究。",
+      "ordinal": 89,
+      "batch": "2026-11-12-eclavis-c02"
+    },
+    {
+      "ecca": "169",
+      "title": "3 Corinthians",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/3-corinthians/",
+      "decision": "in_reference_anthology_component",
+      "record_id": "eclavis_c02:ECCA-169",
+      "evidence": "中文总集保罗行传腓立比段49535–49555行已含来信、送信间叙与保罗回信至阿们，实际读首尾；manifest无独立3Cor，不能把正典林前后当本篇。",
+      "ordinal": 90,
+      "batch": "2026-11-12-eclavis-c02"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Concept of Our Great Power",
-    "last_completed_ecca": "650",
-    "next_title": "Conversion of Bartholomew",
-    "next_ecca": "470",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/conversion-of-bartholomew/",
+    "last_completed_title": "3 Corinthians",
+    "last_completed_ecca": "169",
+    "next_title": "Dance of the Savior",
+    "next_ecca": "592",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dance-of-the-savior/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -909,7 +929,8 @@
       "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
@@ -923,6 +944,13 @@
       "status": "initial_scan_completed_unresolved_versions_retained",
       "last_ecca": "914",
       "last_ordinal": 84,
+      "date_beijing": "2026-11-12"
+    },
+    {
+      "section": "C",
+      "status": "initial_scan_completed_unresolved_versions_retained",
+      "last_ecca": "169",
+      "last_ordinal": 90,
       "date_beijing": "2026-11-12"
     }
   ]
