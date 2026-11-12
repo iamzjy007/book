@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **144条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **149条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A06.md](RESOURCE-PATHS-A06.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A07.md](RESOURCE-PATHS-A07.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -3733,3 +3733,155 @@
 资源路径：[Part II Greek Form旧英译](https://www.newadvent.org/fathers/08072a.htm) — The Descent of Christ into Hell，章节从1(17)计；实际打开标题及初段；须与064降阴间12章单独映射，不能凭章数判断一致
 
 [完整调查记录](workers/eclavis_a06.json)，条目 `ECCA-309`。
+
+## e-Clavis系统扫描续查A07
+
+### 西门与忒俄诺厄行传
+
+- **原题：** Acts of Simon and Theonoe / Acta Simonis et Theonoae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语残篇
+
+叙西门受迫害及忒俄诺厄的获救，文本仅残存约三分之一。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：限定题名未在正式manifest匹配；不能据其他西门篇名判定覆盖。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-simon-and-theonoe/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [AELAC](https://wp.unil.ch/aelac/publications/pleiade/tome1/) — 实际读取1997卷1目录
+
+资源路径：[Morard法译，Écrits apocryphes chrétiens I (1997)](https://wp.unil.ch/aelac/publications/pleiade/tome1/) — AELAC目录列1527–1551；e-Clavis引1529–1551；实际读取学术协会目录，保留两处起页差异；目录入口，不是法译正文；需核1527是否包括导言
+
+资源路径：[Morard, La légende copte de Simon et Théonoé (1993)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-simon-and-theonoe/) — 科普特147–171；法译173–183；已核专业书目的版本及页码；未取得该校本全文；PAThs works/567直开404
+
+[完整调查记录](workers/eclavis_a07.json)，条目 `ECCA-223`。
+
+### 司提反行传（阿拉伯本及吉兹平行本）
+
+- **原题：** Acts of Stephen (Arabic) / Acta Stephani protomartyris (arabica)
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 阿拉伯语；吉兹语平行本
+
+叙司提反与术士的争胜及其归信，最后接执事任命与殉道。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest只有revelation-of-stephen（086_司提反启示录），不等于本作品；候选仍须核正文。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-arabic/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [HMML](https://w3id.org/vhmml/readingRoom/view/511630) — 读取阅读室记录；未访问图像
+
+资源路径：[Dayr al-Qiddīs Anbā Maqār, Hag.47／ABMQ00413](https://w3id.org/vhmml/readingRoom/view/511630) — pp.422–442（据e-Clavis；该见证仍标unevaluated）；实际打开vHMML阅读室目录入口；未打开相应手稿图像；不能认定已核全部文字或本篇归属
+
+资源路径：[BnF d’Abbadie110](https://gallica.bnf.fr/ark:/12148/btv1b10088020q) — ff.81r–88r吉兹平行本；路径来自专业书目，直开403；图像访问受阻，未读正文
+
+资源路径：[Abd Al-Masih / Khater, SOCC13 (1968–1969)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-arabic/) — 阿拉伯165–177；英译178–198；Labadie2015另有吉兹及法译426–469；已核专业书目页界与译种；两个不同版本；尚未取得论文正文
+
+[完整调查记录](workers/eclavis_a07.json)，条目 `ECCA-965`。
+
+### 司提反行传（科普特本）
+
+- **原题：** Acts of Stephen (Coptic) / Acta Stephani protomartyris (coptica)
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语
+
+以司提反口吻叙其女之死及三名盗贼改悔，包含圣母显现。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest的086_司提反启示录与本篇身份、结构不同；未匹配本题独立单元。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-coptic/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Morgan Library & Museum](https://ica.themorgan.org/manuscript/page/1/77278) — 读取M.577 fol.1v馆方题记与图像说明
+
+资源路径：[Morgan MS M.577图像目录](https://ica.themorgan.org/manuscript/page/1/77278) — 本篇ff.2r–12r据e-Clavis；实际打开页面为fol.1v插图；馆方网页确认M.577及司提反图像；只核1v插图记录；未读2r–12r，不能标全文已取
+
+资源路径：[Yassa Abd Al-Masih, A Coptic Apocryphon..., Le Muséon70 (1957)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-coptic/) — 329–347，基于M.577的科普特校本及英译；已核专业书目；论文正文尚未取得；Amélineau1888 825–826仅巴黎残片
+
+[完整调查记录](workers/eclavis_a07.json)，条目 `ECCA-255`。
+
+### 达太行传（希腊本）
+
+- **原题：** Acts of Thaddaeus / Acta Thaddaei
+- **作者／归属：** 匿名／传统归托
+- **年代：** 约6–7世纪（e-Clavis；不同于New Advent索引的较早笼统日期）
+- **语言：** 希腊语
+
+短篇叙亚布加、基督面像及达太在叙利亚地区的传教。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未匹配本题；已有《亚戴教义》不能自动覆盖本希腊短篇。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thaddaeus/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [New Advent](https://www.newadvent.org/fathers/0826.htm) — 实际读取短篇正文及Walker来源信息
+
+资源路径：[Alexander Walker英译，ANF8 (1886)](https://www.newadvent.org/fathers/0826.htm) — 全篇短文，自Lebbæus至贝鲁特安葬及Amen；实际打开开头、传教段、结尾和来源署名；旧译依Tischendorf1851；不是Palmer2009新校本英译
+
+资源路径：[Palmer, The Logos of the Mandylion (2009)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thaddaeus/) — 160–178，校本与新英译；旧Lipsius/Bonnet卷1 273–278；核专业版本书目；尚未打开新校本全文
+
+[完整调查记录](workers/eclavis_a07.json)，条目 `ECCA-642`。
+
+### 多马行传（版本及正文复核）
+
+- **原题：** Acts of Thomas / Acta Thomae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语、叙利亚语及其他古译
+
+多马赴印度传教及殉道的长篇故事，传本包含《灵魂之歌》。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest acts-of-thomas：074_多马行传，共2个单元；实际读output/074_多马行传.txt（51495字符）首尾、十三行述题目及殉道记、灵魂之歌与校注。正文已存在，不能按单元数少误判缺篇；尚未逐段校对所有版本。
+
+**下一步：** 保留已有中文正文；用James与Wright核关键异文，区分希腊与叙利亚系，无需重复收录同一长篇。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Early Christian Writings](https://www.earlychristianwritings.com/text/actsthomas.html) — 实际读取署名、James底本说明及若干结构节点
+- [New Advent](https://www.newadvent.org/fathers/0823.htm) — 实际读本页结尾；核只部分覆盖
+
+资源路径：[M.R.James英译 (1924) 网页转录](https://www.earlychristianwritings.com/text/actsthomas.html) — 十三行述、灵魂之歌及殉道；原书364–438据e-Clavis；实际读题头译者、版本说明、十三行述及末段范围；网页转录未逐字校原印本；以希腊Bonnet1903为主参考叙利亚，不代表所有古译
+
+资源路径：[Walker旧译：Acts of the Holy Apostle Thomas](https://www.newadvent.org/fathers/0823.htm) — 本网页至复活女子及劝勉段，未含后续第7–13行述；实际读本页首末与来源；只是旧校本的部分材料，殉道另页；不得代替James长本全篇
+
+资源路径：[Wright, Apocryphal Acts2 (1871)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas/) — 叙利亚原文卷1 172–333；英译卷2 147–298；核专业书目卷次与页界；本轮未打开Wright扫描正文；与希腊系需区分
+
+[完整调查记录](workers/eclavis_a07.json)，条目 `ECCA-125`。

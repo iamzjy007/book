@@ -35,3 +35,7 @@
 ## 最新续查（2026-11-12，A06）
 
 索引第34–38项；本轮新增4条调查，非同数新缺书。详见[资源路径A06](RESOURCE-PATHS-A06.md)；下一项Acts of Simon and Theonoe（ECCA223）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，A07）
+
+索引第39–43项；本轮新增5条调查，非同数新缺书。详见[资源路径A07](RESOURCE-PATHS-A07.md)；下一项Acts of Thomas and His Wonderworking Skin（ECCA504）。按用户指示，批次存档后持续推进，直至要求停止。

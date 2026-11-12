@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 145,
-    "catalogue_records_after_one_merge": 144,
+    "worker_records": 150,
+    "catalogue_records_after_one_merge": 149,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 213
+    "unique_source_urls": 224
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -68,6 +68,10 @@
     {
       "path": "workers/eclavis_a06.json",
       "sha256": "e014e90d3e4a8faf7a5abb340258d68046c655d755436c604d90085cbd5ce825"
+    },
+    {
+      "path": "workers/eclavis_a07.json",
+      "sha256": "bf02dc3e7a45047ee89da0265c4112d1ef6ac4f99ac2034edf1d53f82d478c42"
     }
   ],
   "records": [
@@ -7532,6 +7536,372 @@
           "limits": "须与064降阴间12章单独映射，不能凭章数判断一致",
           "language": "英语",
           "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a07:ECCA-223",
+      "area": "e-Clavis系统扫描续查A07",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "西门与忒俄诺厄行传",
+      "original_title": "Acts of Simon and Theonoe / Acta Simonis et Theonoae",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语残篇",
+      "synopsis": "叙西门受迫害及忒俄诺厄的获救，文本仅残存约三分之一。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "限定题名未在正式manifest匹配；不能据其他西门篇名判定覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "限定题名未在正式manifest匹配；不能据其他西门篇名判定覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-simon-and-theonoe/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://wp.unil.ch/aelac/publications/pleiade/tome1/",
+          "institution": "AELAC",
+          "read_scope": "实际读取1997卷1目录",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a07.json",
+      "worker_entry_id": "ECCA-223",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "223",
+        "CANT": "283"
+      },
+      "resources": [
+        {
+          "url": "https://wp.unil.ch/aelac/publications/pleiade/tome1/",
+          "edition": "Morard法译，Écrits apocryphes chrétiens I (1997)",
+          "location": "AELAC目录列1527–1551；e-Clavis引1529–1551",
+          "verified": "实际读取学术协会目录，保留两处起页差异",
+          "limits": "目录入口，不是法译正文；需核1527是否包括导言",
+          "language": "法语",
+          "resource_type": "table_of_contents",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-simon-and-theonoe/",
+          "edition": "Morard, La légende copte de Simon et Théonoé (1993)",
+          "location": "科普特147–171；法译173–183",
+          "verified": "已核专业书目的版本及页码",
+          "limits": "未取得该校本全文；PAThs works/567直开404",
+          "language": "科普特语／法语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a07:ECCA-965",
+      "area": "e-Clavis系统扫描续查A07",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "司提反行传（阿拉伯本及吉兹平行本）",
+      "original_title": "Acts of Stephen (Arabic) / Acta Stephani protomartyris (arabica)",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "阿拉伯语；吉兹语平行本",
+      "synopsis": "叙司提反与术士的争胜及其归信，最后接执事任命与殉道。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest只有revelation-of-stephen（086_司提反启示录），不等于本作品；候选仍须核正文。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest只有revelation-of-stephen（086_司提反启示录），不等于本作品；候选仍须核正文。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-arabic/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://w3id.org/vhmml/readingRoom/view/511630",
+          "institution": "HMML",
+          "read_scope": "读取阅读室记录；未访问图像",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a07.json",
+      "worker_entry_id": "ECCA-965",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "965",
+        "CANT": "301"
+      },
+      "resources": [
+        {
+          "url": "https://w3id.org/vhmml/readingRoom/view/511630",
+          "edition": "Dayr al-Qiddīs Anbā Maqār, Hag.47／ABMQ00413",
+          "location": "pp.422–442（据e-Clavis；该见证仍标unevaluated）",
+          "verified": "实际打开vHMML阅读室目录入口",
+          "limits": "未打开相应手稿图像；不能认定已核全部文字或本篇归属",
+          "language": "阿拉伯语",
+          "resource_type": "manuscript_catalog",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b10088020q",
+          "edition": "BnF d’Abbadie110",
+          "location": "ff.81r–88r吉兹平行本",
+          "verified": "路径来自专业书目，直开403",
+          "limits": "图像访问受阻，未读正文",
+          "language": "吉兹语",
+          "resource_type": "blocked_manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-arabic/",
+          "edition": "Abd Al-Masih / Khater, SOCC13 (1968–1969)",
+          "location": "阿拉伯165–177；英译178–198；Labadie2015另有吉兹及法译426–469",
+          "verified": "已核专业书目页界与译种",
+          "limits": "两个不同版本；尚未取得论文正文",
+          "language": "阿拉伯语／英语／吉兹语／法语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a07:ECCA-255",
+      "area": "e-Clavis系统扫描续查A07",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "司提反行传（科普特本）",
+      "original_title": "Acts of Stephen (Coptic) / Acta Stephani protomartyris (coptica)",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语",
+      "synopsis": "以司提反口吻叙其女之死及三名盗贼改悔，包含圣母显现。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest的086_司提反启示录与本篇身份、结构不同；未匹配本题独立单元。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest的086_司提反启示录与本篇身份、结构不同；未匹配本题独立单元。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-coptic/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://ica.themorgan.org/manuscript/page/1/77278",
+          "institution": "Morgan Library & Museum",
+          "read_scope": "读取M.577 fol.1v馆方题记与图像说明",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a07.json",
+      "worker_entry_id": "ECCA-255",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "255",
+        "CANT": "300"
+      },
+      "resources": [
+        {
+          "url": "https://ica.themorgan.org/manuscript/page/1/77278",
+          "edition": "Morgan MS M.577图像目录",
+          "location": "本篇ff.2r–12r据e-Clavis；实际打开页面为fol.1v插图",
+          "verified": "馆方网页确认M.577及司提反图像",
+          "limits": "只核1v插图记录；未读2r–12r，不能标全文已取",
+          "language": "科普特语",
+          "resource_type": "manuscript_catalog",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-coptic/",
+          "edition": "Yassa Abd Al-Masih, A Coptic Apocryphon..., Le Muséon70 (1957)",
+          "location": "329–347，基于M.577的科普特校本及英译",
+          "verified": "已核专业书目",
+          "limits": "论文正文尚未取得；Amélineau1888 825–826仅巴黎残片",
+          "language": "科普特语／英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a07:ECCA-642",
+      "area": "e-Clavis系统扫描续查A07",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "达太行传（希腊本）",
+      "original_title": "Acts of Thaddaeus / Acta Thaddaei",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "约6–7世纪（e-Clavis；不同于New Advent索引的较早笼统日期）",
+      "language": "希腊语",
+      "synopsis": "短篇叙亚布加、基督面像及达太在叙利亚地区的传教。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未匹配本题；已有《亚戴教义》不能自动覆盖本希腊短篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未匹配本题；已有《亚戴教义》不能自动覆盖本希腊短篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thaddaeus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0826.htm",
+          "institution": "New Advent",
+          "read_scope": "实际读取短篇正文及Walker来源信息",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a07.json",
+      "worker_entry_id": "ECCA-642",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "642",
+        "CANT": "299"
+      },
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0826.htm",
+          "edition": "Alexander Walker英译，ANF8 (1886)",
+          "location": "全篇短文，自Lebbæus至贝鲁特安葬及Amen",
+          "verified": "实际打开开头、传教段、结尾和来源署名",
+          "limits": "旧译依Tischendorf1851；不是Palmer2009新校本英译",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thaddaeus/",
+          "edition": "Palmer, The Logos of the Mandylion (2009)",
+          "location": "160–178，校本与新英译；旧Lipsius/Bonnet卷1 273–278",
+          "verified": "核专业版本书目",
+          "limits": "尚未打开新校本全文",
+          "language": "希腊语／英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a07:ECCA-125",
+      "area": "e-Clavis系统扫描续查A07",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "多马行传（版本及正文复核）",
+      "original_title": "Acts of Thomas / Acta Thomae",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、叙利亚语及其他古译",
+      "synopsis": "多马赴印度传教及殉道的长篇故事，传本包含《灵魂之歌》。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "manifest acts-of-thomas：074_多马行传，共2个单元；实际读output/074_多马行传.txt（51495字符）首尾、十三行述题目及殉道记、灵魂之歌与校注。正文已存在，不能按单元数少误判缺篇；尚未逐段校对所有版本。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest acts-of-thomas：074_多马行传，共2个单元；实际读output/074_多马行传.txt（51495字符）首尾、十三行述题目及殉道记、灵魂之歌与校注。正文已存在，不能按单元数少误判缺篇；尚未逐段校对所有版本。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "保留已有中文正文；用James与Wright核关键异文，区分希腊与叙利亚系，无需重复收录同一长篇。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/actsthomas.html",
+          "institution": "Early Christian Writings",
+          "read_scope": "实际读取署名、James底本说明及若干结构节点",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0823.htm",
+          "institution": "New Advent",
+          "read_scope": "实际读本页结尾；核只部分覆盖",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a07.json",
+      "worker_entry_id": "ECCA-125",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "125",
+        "CANT": "245"
+      },
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/actsthomas.html",
+          "edition": "M.R.James英译 (1924) 网页转录",
+          "location": "十三行述、灵魂之歌及殉道；原书364–438据e-Clavis",
+          "verified": "实际读题头译者、版本说明、十三行述及末段范围",
+          "limits": "网页转录未逐字校原印本；以希腊Bonnet1903为主参考叙利亚，不代表所有古译",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0823.htm",
+          "edition": "Walker旧译：Acts of the Holy Apostle Thomas",
+          "location": "本网页至复活女子及劝勉段，未含后续第7–13行述",
+          "verified": "实际读本页首末与来源",
+          "limits": "只是旧校本的部分材料，殉道另页；不得代替James长本全篇",
+          "language": "英语",
+          "resource_type": "partial_online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas/",
+          "edition": "Wright, Apocryphal Acts2 (1871)",
+          "location": "叙利亚原文卷1 172–333；英译卷2 147–298",
+          "verified": "核专业书目卷次与页界",
+          "limits": "本轮未打开Wright扫描正文；与希腊系需区分",
+          "language": "叙利亚语／英语",
+          "resource_type": "edition_bibliography",
           "checked_date_beijing": "2026-11-12"
         }
       ]

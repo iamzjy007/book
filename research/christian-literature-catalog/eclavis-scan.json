@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续38项；A字母尚未完成。",
+  "scope": "索引开头连续43项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -381,15 +381,65 @@
       "evidence": "正式manifest acts-of-pilate，064_彼拉多行传31单元；实读输出题头、亚拿尼亚序及章节标题，含受难复活、降阴间及致革老丢书。",
       "ordinal": 38,
       "batch": "2026-11-12-eclavis-a06"
+    },
+    {
+      "ecca": "223",
+      "title": "Acts of Simon and Theonoe",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-simon-and-theonoe/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a07:ECCA-223",
+      "evidence": "限定题名未在正式manifest匹配；不能据其他西门篇名判定覆盖。",
+      "ordinal": 39,
+      "batch": "2026-11-12-eclavis-a07"
+    },
+    {
+      "ecca": "965",
+      "title": "Acts of Stephen (Arabic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-arabic/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a07:ECCA-965",
+      "evidence": "manifest只有revelation-of-stephen（086_司提反启示录），不等于本作品；候选仍须核正文。",
+      "ordinal": 40,
+      "batch": "2026-11-12-eclavis-a07"
+    },
+    {
+      "ecca": "255",
+      "title": "Acts of Stephen (Coptic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-stephen-coptic/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a07:ECCA-255",
+      "evidence": "manifest的086_司提反启示录与本篇身份、结构不同；未匹配本题独立单元。",
+      "ordinal": 41,
+      "batch": "2026-11-12-eclavis-a07"
+    },
+    {
+      "ecca": "642",
+      "title": "Acts of Thaddaeus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thaddaeus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a07:ECCA-642",
+      "evidence": "正式manifest未匹配本题；已有《亚戴教义》不能自动覆盖本希腊短篇。",
+      "ordinal": 42,
+      "batch": "2026-11-12-eclavis-a07"
+    },
+    {
+      "ecca": "125",
+      "title": "Acts of Thomas",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a07:ECCA-125",
+      "evidence": "manifest acts-of-thomas：074_多马行传，共2个单元；实际读output/074_多马行传.txt（51495字符）首尾、十三行述题目及殉道记、灵魂之歌与校注。正文已存在，不能按单元数少误判缺篇；尚未逐段校对所有版本。",
+      "ordinal": 43,
+      "batch": "2026-11-12-eclavis-a07"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Acts of Pilate",
-    "last_completed_ecca": "309",
-    "next_title": "Acts of Simon and Theonoe",
-    "next_ecca": "223",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-simon-and-theonoe/",
+    "last_completed_title": "Acts of Thomas",
+    "last_completed_ecca": "125",
+    "next_title": "Acts of Thomas and His Wonderworking Skin",
+    "next_ecca": "504",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-and-his-wonderworking-skin/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -398,7 +448,8 @@
       "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }
