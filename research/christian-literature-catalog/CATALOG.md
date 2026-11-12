@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **163条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **167条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A10.md](RESOURCE-PATHS-A10.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A11.md](RESOURCE-PATHS-A11.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -2669,10 +2669,19 @@
 
 **中文线索：** mainland：已有《古代诺斯替主义经典文集》大陆出版线索，尚未逐项核其目录及译文范围，不能断言本作无中文。；evidence：url：https://www.lib.tongji.edu.cn/index.php?classid=12020&newsid=3340&t=show；level：search_index_only_open_403；finding：检索索引列东方出版社版馆藏；直接打开403，未读该馆正文。；url：https://book.douban.com/subject/36663348/；level：search_index_only；finding：检索列人民出版社修订版；不是本作具体收录证明。；confidence：collection_lead_only；next：核人民出版社修订版或2017东方版的版权页及逐篇目录；大陆／港台译本分列。
 
-**下一步：** 先核中文文集逐篇目录，再定位校本／译本与古代文本关系；不因列入目录而直接启动翻译。
+**下一步：** 继续核中文文集逐篇目录，现有中文总集只提及约翰藏经，不能据提及确认全文；分辨Wisse英译与Barc/Funk短本。
 
 **来源：**
 - [拉瓦尔大学出版社](https://www.pulaval.com/livres/le-livre-des-secrets-de-jean-recension-breve-nh-iii-1-et-bg-2-bcnh-textes-no-35) — Funk／Barc、短本NH III,1及BG,2、2012、408页、ISBN9782763793801；页面无完整作品导论
+- [Early Christian Writings](https://www.earlychristianwritings.com/text/apocryphonjohn.html) — 实际读译者及Pronoia末段
+- [Bibliothèque copte de Nag Hammadi学术项目](https://www.naghammadi.org/sites/naghammadi.org/files/contenu/translations/Le-Livre-des-secrets-de-Jean-abstact.pdf) — 实际读单页摘要及书目
+- [NASSCAL索引](https://www.nasscal.com/e-clavis-christian-apocrypha/) — 确认ECCA216；独立条目直开403，未声称读其正文
+
+资源路径：[Frederik Wisse英译转录](https://www.earlychristianwritings.com/text/apocryphonjohn.html) — 含篇末Pronoia三次降临段；对应长本范围的线索；实际读取译者署名、开头及末段Pronoia；没有逐段校对长短本；与既有Barc/Funk短本书目分列，不合成一版
+
+资源路径：[Barc / Funk, Le Livre des secrets de Jean (2012) 摘要](https://www.naghammadi.org/sites/naghammadi.org/files/contenu/translations/Le-Livre-des-secrets-de-Jean-abstact.pdf) — BCNH Textes35；短本NH III,1与BG,2；XI+392页；实际打开1页学术项目PDF，核作者、题名、2012及短本范围；只有摘要，不是原书或全译；与出版社既有408页商品计数不强行等同
+
+[补充资源调查](workers/eclavis_a11.json)，补证 `ECCA-216-resource-supplement`。
 
 [完整调查记录](workers/root.json)，条目 `apocryphon-john`。
 
@@ -4306,3 +4315,121 @@
 资源路径：[Geigenfeind, MNTA2 (2020)](https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-thomas/) — 580–604，长短本并排译文；James555–562；实际核专业书目及版本范围；现代并排译文尚未取得；085与长短本逐段比较待办
 
 [完整调查记录](workers/eclavis_a10.json)，条目 `ECCA-513`。
+
+## e-Clavis系统扫描续查A11
+
+### 圣母启示录（希腊系，库存版本有矛盾）
+
+- **原题：** Apocalypse of the Virgin / Apocalypsis Mariae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语及古译；库存导言称吉兹但正文对应希腊系待核
+
+圣母与米迦勒巡游刑罚之地并为罪人代求。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** formal_inventory_version_conflict
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式087_童女启示录31单元；实读7850字首尾及28–30章，正文开头、30章结尾、28章从亘古措辞、29章I was sin均与Rutherfurd希腊系英译对应。库存导言却称据埃塞俄比亚文，须核底本；不将这一标签当548本已收证明。
+
+**下一步：** 先追087英文底本导言来源及正文版本；按希腊旧译逐段比对，不直接改动现有译文。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [New Advent](https://www.newadvent.org/fathers/1005.htm) — 实际读30节旧英译的首尾、特殊措辞及译者来源
+
+资源路径：[Andrew Rutherfurd英译，ANF9 (1896)](https://www.newadvent.org/fathers/1005.htm) — 30节，橄榄山开头至30节赞颂Amen；实际读正文首尾、28–29节特殊措辞及来源署名，与087对应；e-Clavis概要所述另一版本分34章，不能混用章号；库存导言语种有冲突待解决
+
+资源路径：[Shoemaker, MNTA1 (2016)](https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/) — 492–509；以Vat.gr.1190为底本；实际核版本书目；未读本章新译；Rutherfurd旧译据James版，非同底本
+
+[完整调查记录](workers/eclavis_a11.json)，条目 `ECCA-900`。
+
+### 圣母启示录（阿拉伯本：索引占位）
+
+- **原题：** Apocalypse of the Virgin (Arabic)
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 阿拉伯语（索引标识）
+
+e-Clavis索引只有题名及ECCA970，尚不足以界定其文本边界与其他圣母启示作品关系。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** index_placeholder_unresolved
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未确认库存覆盖，也未确认独立文本身份；保留待办，不据笼统Arabic或圣母题名合并。
+
+**下一步：** 从独立校本、手稿及编辑说明确认ECCA970定义；六书型阿拉伯材料暂不并入。
+
+**来源：**
+- [NASSCAL索引](https://www.nasscal.com/e-clavis-christian-apocrypha/) — 只读ECCA970题名，无独立条目
+- [Collectanea Christiana Orientalia](https://journals.uco.es/cco/article/download/14704/13114/28990) — 读论文摘要及类型说明；ECCA对应未确认
+
+资源路径：[e-Clavis索引占位，ECCA970](https://www.nasscal.com/e-clavis-christian-apocrypha/) — Apocalypse of the Virgin (Arabic)，无独立超链接，附星号；实际读索引该行；仅题名元数据；没有独立概要、校本或全文可供核对
+
+资源路径：[Grypeou / Monferrer-Sala, A tour of the other world (2009)](https://journals.uco.es/cco/article/download/14704/13114/28990) — 115–166；Vat.ar.698六书型启示校本及译文；实际打开51页论文，读题名摘要与四类作品区分；只作为身份比较线索；尚无证据将本文六书型对应ECCA970，不能冒充该条全文
+
+[完整调查记录](workers/eclavis_a11.json)，条目 `ECCA-970`。
+
+### 圣母启示录（吉兹本）
+
+- **原题：** Apocalypse of the Virgin (Ethiopic) / Apocalypsis Mariae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 吉兹语
+
+与Visio Pauli有重用关系的圣母启示文本。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：087导言虽称吉兹，正文起讫对应Rutherfurd希腊系30节；本批不确认087已覆盖此独立吉兹本。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin-ethiopic/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Internet Archive metadata API](https://archive.org/metadata/LegendsOfOurLadyMary) — 实际读作者、年份、文件名；只取PDF32字节
+
+资源路径：[Budge, Legends of Our Lady Mary (1922)](https://archive.org/download/LegendsOfOurLadyMary/LegendsOfOurLadyMary.pdf) — 245–278（据e-Clavis）；IA metadata核作者、1922与PDF文件；Range206读32字节PDF头，总9296897字节；web直开超时，未读该篇正文或核PDF页偏移
+
+资源路径：[Chaîne, Apocrypha de Beata Maria Virgine, CSCO39–40 (1909)](https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin-ethiopic/) — 吉兹50–78；拉丁43–68；核专业书目页码与抄本；未读校本；d’Abbadie214 Gallica直开403
+
+[完整调查记录](workers/eclavis_a11.json)，条目 `ECCA-548`。
+
+### 雅各密传／雅各藏经
+
+- **原题：** Apocryphon of James / Secret Book of James
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语，NHC I,2
+
+以书信框架叙复活后耶稣给雅各和彼得的秘密教导。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_reference_anthology
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见独立本题；中文总集第232章48109–48213行已有《雅各藏经》；实际读简介及文本起首、十个月前寄书段，身份对应NHC I,2，不算新缺书。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-james/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Early Christian Writings](https://www.earlychristianwritings.com/text/secretjames.html) — 实际读译者、开头和转载来源
+
+资源路径：[Francis E.Williams英译转录](https://www.earlychristianwritings.com/text/secretjames.html) — NHC I,2；秘密书信至结尾；实际读译者署名、书信开头与网页转载说明；现代译文仅保留链接，未逐字核科普特原文或印本
+
+资源路径：[Williams, Coptic Gnostic Library1 (1985)](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-james/) — 13–53；科普特及英译28–53；实际核专业书目；未打开校本原书；参考中文与此译本是否同底本待比
+
+[完整调查记录](workers/eclavis_a11.json)，条目 `ECCA-495`。

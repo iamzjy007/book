@@ -1,0 +1,389 @@
+{
+  "worker": "eclavis_a11",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第59–63项；本轮新增4条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-900",
+      "title_zh": "圣母启示录（希腊系，库存版本有矛盾）",
+      "original_title": "Apocalypse of the Virgin / Apocalypsis Mariae",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语及古译；库存导言称吉兹但正文对应希腊系待核",
+      "synopsis": "圣母与米迦勒巡游刑罚之地并为罪人代求。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "formal_inventory_version_conflict",
+      "repository_evidence": "正式087_童女启示录31单元；实读7850字首尾及28–30章，正文开头、30章结尾、28章从亘古措辞、29章I was sin均与Rutherfurd希腊系英译对应。库存导言却称据埃塞俄比亚文，须核底本；不将这一标签当548本已收证明。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式087_童女启示录31单元；实读7850字首尾及28–30章，正文开头、30章结尾、28章从亘古措辞、29章I was sin均与Rutherfurd希腊系英译对应。库存导言却称据埃塞俄比亚文，须核底本；不将这一标签当548本已收证明。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "先追087英文底本导言来源及正文版本；按希腊旧译逐段比对，不直接改动现有译文。",
+      "clavis": {
+        "ECCA": "900",
+        "CANT": "327"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/1005.htm",
+          "institution": "New Advent",
+          "read_scope": "实际读30节旧英译的首尾、特殊措辞及译者来源",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/1005.htm",
+          "edition": "Andrew Rutherfurd英译，ANF9 (1896)",
+          "location": "30节，橄榄山开头至30节赞颂Amen",
+          "verified": "实际读正文首尾、28–29节特殊措辞及来源署名，与087对应",
+          "limits": "e-Clavis概要所述另一版本分34章，不能混用章号；库存导言语种有冲突待解决",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/",
+          "edition": "Shoemaker, MNTA1 (2016)",
+          "location": "492–509；以Vat.gr.1190为底本",
+          "verified": "实际核版本书目",
+          "limits": "未读本章新译；Rutherfurd旧译据James版，非同底本",
+          "language": "英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "formal_inventory_version_conflict"
+    },
+    {
+      "id": "ECCA-970",
+      "title_zh": "圣母启示录（阿拉伯本：索引占位）",
+      "original_title": "Apocalypse of the Virgin (Arabic)",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "阿拉伯语（索引标识）",
+      "synopsis": "e-Clavis索引只有题名及ECCA970，尚不足以界定其文本边界与其他圣母启示作品关系。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "index_placeholder_unresolved",
+      "repository_evidence": "未确认库存覆盖，也未确认独立文本身份；保留待办，不据笼统Arabic或圣母题名合并。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "未确认库存覆盖，也未确认独立文本身份；保留待办，不据笼统Arabic或圣母题名合并。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "从独立校本、手稿及编辑说明确认ECCA970定义；六书型阿拉伯材料暂不并入。",
+      "clavis": {
+        "ECCA": "970"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+          "institution": "NASSCAL索引",
+          "read_scope": "只读ECCA970题名，无独立条目",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://journals.uco.es/cco/article/download/14704/13114/28990",
+          "institution": "Collectanea Christiana Orientalia",
+          "read_scope": "读论文摘要及类型说明；ECCA对应未确认",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+          "edition": "e-Clavis索引占位，ECCA970",
+          "location": "Apocalypse of the Virgin (Arabic)，无独立超链接，附星号",
+          "verified": "实际读索引该行",
+          "limits": "仅题名元数据；没有独立概要、校本或全文可供核对",
+          "language": "阿拉伯语",
+          "resource_type": "index_placeholder",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://journals.uco.es/cco/article/download/14704/13114/28990",
+          "edition": "Grypeou / Monferrer-Sala, A tour of the other world (2009)",
+          "location": "115–166；Vat.ar.698六书型启示校本及译文",
+          "verified": "实际打开51页论文，读题名摘要与四类作品区分",
+          "limits": "只作为身份比较线索；尚无证据将本文六书型对应ECCA970，不能冒充该条全文",
+          "language": "阿拉伯语／英语",
+          "resource_type": "unassigned_comparison_resource",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "index_placeholder_unresolved"
+    },
+    {
+      "id": "ECCA-548",
+      "title_zh": "圣母启示录（吉兹本）",
+      "original_title": "Apocalypse of the Virgin (Ethiopic) / Apocalypsis Mariae",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "吉兹语",
+      "synopsis": "与Visio Pauli有重用关系的圣母启示文本。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "087导言虽称吉兹，正文起讫对应Rutherfurd希腊系30节；本批不确认087已覆盖此独立吉兹本。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "087导言虽称吉兹，正文起讫对应Rutherfurd希腊系30节；本批不确认087已覆盖此独立吉兹本。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "548",
+        "CANT": "330"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin-ethiopic/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/metadata/LegendsOfOurLadyMary",
+          "institution": "Internet Archive metadata API",
+          "read_scope": "实际读作者、年份、文件名；只取PDF32字节",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/LegendsOfOurLadyMary/LegendsOfOurLadyMary.pdf",
+          "edition": "Budge, Legends of Our Lady Mary (1922)",
+          "location": "245–278（据e-Clavis）",
+          "verified": "IA metadata核作者、1922与PDF文件；Range206读32字节PDF头，总9296897字节",
+          "limits": "web直开超时，未读该篇正文或核PDF页偏移",
+          "language": "英语",
+          "resource_type": "digitized_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin-ethiopic/",
+          "edition": "Chaîne, Apocrypha de Beata Maria Virgine, CSCO39–40 (1909)",
+          "location": "吉兹50–78；拉丁43–68",
+          "verified": "核专业书目页码与抄本",
+          "limits": "未读校本；d’Abbadie214 Gallica直开403",
+          "language": "吉兹语／拉丁语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-495",
+      "title_zh": "雅各密传／雅各藏经",
+      "original_title": "Apocryphon of James / Secret Book of James",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语，NHC I,2",
+      "synopsis": "以书信框架叙复活后耶稣给雅各和彼得的秘密教导。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_reference_anthology",
+      "repository_evidence": "正式manifest未见独立本题；中文总集第232章48109–48213行已有《雅各藏经》；实际读简介及文本起首、十个月前寄书段，身份对应NHC I,2，不算新缺书。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未见独立本题；中文总集第232章48109–48213行已有《雅各藏经》；实际读简介及文本起首、十个月前寄书段，身份对应NHC I,2，不算新缺书。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "495"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-james/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/secretjames.html",
+          "institution": "Early Christian Writings",
+          "read_scope": "实际读译者、开头和转载来源",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/secretjames.html",
+          "edition": "Francis E.Williams英译转录",
+          "location": "NHC I,2；秘密书信至结尾",
+          "verified": "实际读译者署名、书信开头与网页转载说明",
+          "limits": "现代译文仅保留链接，未逐字核科普特原文或印本",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-james/",
+          "edition": "Williams, Coptic Gnostic Library1 (1985)",
+          "location": "13–53；科普特及英译28–53",
+          "verified": "实际核专业书目",
+          "limits": "未打开校本原书；参考中文与此译本是否同底本待比",
+          "language": "科普特语／英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_reference_anthology"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Apocalypse Virgin Arabic Bauckham",
+        "Legends of Our Lady1922 archive metadata",
+        "087中文首尾与Rutherfurd1005比对"
+      ],
+      "result": "三项先存；900库存版本矛盾，970仍占位，548资源PDF头可核但本篇未读。"
+    },
+    {
+      "result": "雅各藏经在中文总集232章已有；约翰只找到提及，未认全文。John独立e-Clavis403，Gnosis合集超时；用可读Wisse转录及BCNH单页摘要补证。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "supplements": [
+    {
+      "id": "ECCA-216-resource-supplement",
+      "target_id": "root:apocryphon-john",
+      "clavis": {
+        "ECCA": "216"
+      },
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/apocryphonjohn.html",
+          "edition": "Frederik Wisse英译转录",
+          "location": "含篇末Pronoia三次降临段；对应长本范围的线索",
+          "verified": "实际读取译者署名、开头及末段Pronoia",
+          "limits": "没有逐段校对长短本；与既有Barc/Funk短本书目分列，不合成一版",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.naghammadi.org/sites/naghammadi.org/files/contenu/translations/Le-Livre-des-secrets-de-Jean-abstact.pdf",
+          "edition": "Barc / Funk, Le Livre des secrets de Jean (2012) 摘要",
+          "location": "BCNH Textes35；短本NH III,1与BG,2；XI+392页",
+          "verified": "实际打开1页学术项目PDF，核作者、题名、2012及短本范围",
+          "limits": "只有摘要，不是原书或全译；与出版社既有408页商品计数不强行等同",
+          "language": "法语／英语摘要",
+          "resource_type": "abstract_only",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/apocryphonjohn.html",
+          "institution": "Early Christian Writings",
+          "read_scope": "实际读译者及Pronoia末段",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.naghammadi.org/sites/naghammadi.org/files/contenu/translations/Le-Livre-des-secrets-de-Jean-abstact.pdf",
+          "institution": "Bibliothèque copte de Nag Hammadi学术项目",
+          "read_scope": "实际读单页摘要及书目",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+          "institution": "NASSCAL索引",
+          "read_scope": "确认ECCA216；独立条目直开403，未声称读其正文",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "next": "继续核中文文集逐篇目录，现有中文总集只提及约翰藏经，不能据提及确认全文；分辨Wisse英译与Barc/Funk短本。"
+    }
+  ],
+  "scan_records": [
+    {
+      "ecca": "900",
+      "title": "Apocalypse of the Virgin",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/",
+      "decision": "formal_inventory_version_conflict",
+      "record_id": "eclavis_a11:ECCA-900",
+      "evidence": "正式087_童女启示录31单元；实读7850字首尾及28–30章，正文开头、30章结尾、28章从亘古措辞、29章I was sin均与Rutherfurd希腊系英译对应。库存导言却称据埃塞俄比亚文，须核底本；不将这一标签当548本已收证明。"
+    },
+    {
+      "ecca": "970",
+      "title": "Apocalypse of the Virgin (Arabic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "decision": "index_placeholder_unresolved",
+      "record_id": "eclavis_a11:ECCA-970",
+      "evidence": "未确认库存覆盖，也未确认独立文本身份；保留待办，不据笼统Arabic或圣母题名合并。"
+    },
+    {
+      "ecca": "548",
+      "title": "Apocalypse of the Virgin (Ethiopic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin-ethiopic/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a11:ECCA-548",
+      "evidence": "087导言虽称吉兹，正文起讫对应Rutherfurd希腊系30节；本批不确认087已覆盖此独立吉兹本。"
+    },
+    {
+      "ecca": "495",
+      "title": "Apocryphon of James",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-james/",
+      "decision": "already_in_reference_anthology",
+      "record_id": "eclavis_a11:ECCA-495",
+      "evidence": "正式manifest未见独立本题；中文总集第232章48109–48213行已有《雅各藏经》；实际读简介及文本起首、十个月前寄书段，身份对应NHC I,2，不算新缺书。"
+    },
+    {
+      "ecca": "216",
+      "title": "Apocryphon of John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-john/",
+      "decision": "existing_catalog_resource_supplement",
+      "record_id": "root:apocryphon-john",
+      "evidence": "既有root:apocryphon-john补英译及短本摘要路径；独立e-Clavis页403。"
+    }
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Apocryphon of John",
+    "last_completed_ecca": "216",
+    "next_title": "Apostle of Marcion",
+    "next_ecca": "326",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apostle-of-marcion/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

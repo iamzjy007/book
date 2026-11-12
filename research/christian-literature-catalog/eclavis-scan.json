@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续58项；A字母尚未完成。",
+  "scope": "索引开头连续63项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -581,15 +581,65 @@
       "evidence": "正式manifest revelation-of-thomas：085_多马启示录5单元，实际读1860字首尾及七日征兆；中文参考264章另有文本。不能据已有简短正文认定长本也完整。",
       "ordinal": 58,
       "batch": "2026-11-12-eclavis-a10"
+    },
+    {
+      "ecca": "900",
+      "title": "Apocalypse of the Virgin",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/",
+      "decision": "formal_inventory_version_conflict",
+      "record_id": "eclavis_a11:ECCA-900",
+      "evidence": "正式087_童女启示录31单元；实读7850字首尾及28–30章，正文开头、30章结尾、28章从亘古措辞、29章I was sin均与Rutherfurd希腊系英译对应。库存导言却称据埃塞俄比亚文，须核底本；不将这一标签当548本已收证明。",
+      "ordinal": 59,
+      "batch": "2026-11-12-eclavis-a11"
+    },
+    {
+      "ecca": "970",
+      "title": "Apocalypse of the Virgin (Arabic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "decision": "index_placeholder_unresolved",
+      "record_id": "eclavis_a11:ECCA-970",
+      "evidence": "未确认库存覆盖，也未确认独立文本身份；保留待办，不据笼统Arabic或圣母题名合并。",
+      "ordinal": 60,
+      "batch": "2026-11-12-eclavis-a11"
+    },
+    {
+      "ecca": "548",
+      "title": "Apocalypse of the Virgin (Ethiopic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin-ethiopic/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a11:ECCA-548",
+      "evidence": "087导言虽称吉兹，正文起讫对应Rutherfurd希腊系30节；本批不确认087已覆盖此独立吉兹本。",
+      "ordinal": 61,
+      "batch": "2026-11-12-eclavis-a11"
+    },
+    {
+      "ecca": "495",
+      "title": "Apocryphon of James",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-james/",
+      "decision": "already_in_reference_anthology",
+      "record_id": "eclavis_a11:ECCA-495",
+      "evidence": "正式manifest未见独立本题；中文总集第232章48109–48213行已有《雅各藏经》；实际读简介及文本起首、十个月前寄书段，身份对应NHC I,2，不算新缺书。",
+      "ordinal": 62,
+      "batch": "2026-11-12-eclavis-a11"
+    },
+    {
+      "ecca": "216",
+      "title": "Apocryphon of John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-john/",
+      "decision": "existing_catalog_resource_supplement",
+      "record_id": "root:apocryphon-john",
+      "evidence": "既有root:apocryphon-john补英译及短本摘要路径；独立e-Clavis页403。",
+      "ordinal": 63,
+      "batch": "2026-11-12-eclavis-a11"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Apocalypse of Thomas",
-    "last_completed_ecca": "513",
-    "next_title": "Apocalypse of the Virgin",
-    "next_ecca": "900",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/",
+    "last_completed_title": "Apocryphon of John",
+    "last_completed_ecca": "216",
+    "next_title": "Apostle of Marcion",
+    "next_ecca": "326",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apostle-of-marcion/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -602,7 +652,8 @@
       "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }
