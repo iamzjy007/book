@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续63项；A字母尚未完成。",
+  "scope": "索引开头连续68项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -631,15 +631,65 @@
       "evidence": "既有root:apocryphon-john补英译及短本摘要路径；独立e-Clavis页403。",
       "ordinal": 63,
       "batch": "2026-11-12-eclavis-a11"
+    },
+    {
+      "ecca": "326",
+      "title": "Apostle of Marcion",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apostle-of-marcion/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a12:ECCA-326",
+      "evidence": "正式manifest中的正典保罗各书不能算马吉安书集版本；限定题名未见独立单元。",
+      "ordinal": 64,
+      "batch": "2026-11-12-eclavis-a12"
+    },
+    {
+      "ecca": "365",
+      "title": "Apostolic Histories",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apostolic-histories-virtutes-apostolorum/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a12:ECCA-365",
+      "evidence": "正式manifest有若干单篇行传，不能据单篇存在判整套集合已收；与A03拉丁约翰及A06拉丁腓力等存在构件重叠。",
+      "ordinal": 65,
+      "batch": "2026-11-12-eclavis-a12"
+    },
+    {
+      "ecca": "570",
+      "title": "Armenian Infancy Gospel",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/armenian-infancy-gospel/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a12:ECCA-570",
+      "evidence": "正式manifest有雅各、多马及阿拉伯婴孩作品，未匹配独立亚美尼亚本；不能据故事相似判覆盖。",
+      "ordinal": 66,
+      "batch": "2026-11-12-eclavis-a12"
+    },
+    {
+      "ecca": "596",
+      "title": "Arabic Infancy Gospel",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/arabic-infancy-gospel/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a12:ECCA-596",
+      "evidence": "正式manifest arabic-infancy-gospel：056_阿拉伯婴孩福音57单元；实际读16415字起讫，55章结构及该亚法开头与Walker旧译相合，属Sike系覆盖线索，不等于L本也完整。",
+      "ordinal": 67,
+      "batch": "2026-11-12-eclavis-a12"
+    },
+    {
+      "ecca": "983",
+      "title": "Ascension of Isaiah",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ascension-of-isaiah/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a12:ECCA-983",
+      "evidence": "正式manifest ascension-of-isaiah：036_以赛亚升天记12单元；实际读13574字首尾，1–11章及版本译注。中文总集256章另有文本，不是确定缺书。",
+      "ordinal": 68,
+      "batch": "2026-11-12-eclavis-a12"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Apocryphon of John",
-    "last_completed_ecca": "216",
-    "next_title": "Apostle of Marcion",
-    "next_ecca": "326",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apostle-of-marcion/",
+    "last_completed_title": "Ascension of Isaiah",
+    "last_completed_ecca": "983",
+    "next_title": "Assumption of the Virgin by Pseudo-Melito",
+    "next_ecca": "657",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -653,7 +703,8 @@
       "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }

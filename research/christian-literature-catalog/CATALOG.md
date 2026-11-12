@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **167条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **172条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A11.md](RESOURCE-PATHS-A11.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A12.md](RESOURCE-PATHS-A12.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -4433,3 +4433,150 @@ e-Clavis索引只有题名及ECCA970，尚不足以界定其文本边界与其�
 资源路径：[Williams, Coptic Gnostic Library1 (1985)](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-james/) — 13–53；科普特及英译28–53；实际核专业书目；未打开校本原书；参考中文与此译本是否同底本待比
 
 [完整调查记录](workers/eclavis_a11.json)，条目 `ECCA-495`。
+
+## e-Clavis系统扫描续查A12
+
+### 马吉安使徒书集（重构本）
+
+- **原题：** Apostle of Marcion / Apostolos Marcionis
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语重构及英译；古代引文多语
+
+从古代引文等材料重构的马吉安保罗书信集，原集无完整存世抄本。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest中的正典保罗各书不能算马吉安书集版本；限定题名未见独立单元。
+
+**下一步：** 分别标明各重构者、版本及证据强度，不将重构读法或编者优先性论断当学界定论。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/apostle-of-marcion/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Zenodo学术存储库](https://zenodo.org/records/8271824) — 实际读取v1.01与许可、API文件元数据
+
+资源路径：[Bilby / Vinzent, Paul’s Literary Metamorphosis (2023)](https://zenodo.org/records/8271824) — Zenodo v1.01，11.0MB PDF，译Vinzent2023工作稿；实际读Zenodo作者、版本、许可及文件列表；API确认文件11035520字节；现代学术重构与比较译本，不是存世古抄本或2025 TANZ团队终版
+
+资源路径：[Marcion_Apostolos数字资料库](https://codeberg.org/mgbilby/Marcion_Apostolos) — 多种重构本的标准化数据（据e-Clavis）；专业条目有明确链接；web直开受限；未读取仓库内容；Dataverse DOI与API访问也受阻
+
+[完整调查记录](workers/eclavis_a12.json)，条目 `ECCA-326`。
+
+### 使徒史／伪亚布底亚使徒神迹集
+
+- **原题：** Apostolic Histories / Virtutes apostolorum
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语集合；各构件有希腊来源
+
+中世纪流传的使徒行迹集合，篇次与构件不固定，不能统一认作亚布底亚一人著作。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest有若干单篇行传，不能据单篇存在判整套集合已收；与A03拉丁约翰及A06拉丁腓力等存在构件重叠。
+
+**下一步：** 建立集合与已查单篇关系，勿把整集与构件都计作独立缺书；James与Elliott仅摘要，不当全译。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/apostolic-histories-virtutes-apostolorum/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[J.A.Giles, Codex Apocryphus Novi Testamenti (1852)](https://archive.org/download/codexapocryphus00gilegoog/codexapocryphus00gilegoog.pdf) — 集合256–456（据e-Clavis）；其中约翰336–369、腓力453–456已分查；前批已核IA metadata及PDF头，本批核集合书目范围；旧版重印Fabricius；未读整套扫描正文，不是现代综合校本
+
+资源路径：[BSB Clm12641 IIIF图像清单](https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00041811/manifest) — 201扫描画布，馆方label Passio sive Legenda SS.Apostolorum；A06已实际读取JSON清单，本批专业书目确认该抄本为集合见证；未读全抄本图像；画布序号不等于叶码
+
+[完整调查记录](workers/eclavis_a12.json)，条目 `ECCA-365`。
+
+### 亚美尼亚婴孩福音
+
+- **原题：** Armenian Infancy Gospel / Euangelium infantiae armeniace
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 亚美尼亚语
+
+耶稣与马利亚早年故事的多版本传统，与雅各及多马婴孩作品有材料关系。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest有雅各、多马及阿拉伯婴孩作品，未匹配独立亚美尼亚本；不能据故事相似判覆盖。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/armenian-infancy-gospel/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [OUP图书发行预览](https://api.pageplace.de/preview/DT0400.9780191562068_A23535343/preview-9780191562068_A23535343.pdf) — 实际读取23页文件题头、版权、目录与底本说明
+
+资源路径：[Abraham Terian, The Armenian Gospel of the Infancy (OUP2008)](https://api.pageplace.de/preview/DT0400.9780191562068_A23535343/preview-9780191562068_A23535343.pdf) — 23页预览；题名、版权、目录、致谢及部分导言；实际读2008版权页ISBN9780199541560、底本M7574说明；只有预览，未到完整译文；本书不含亚美尼亚语校本，不能称双语校本
+
+资源路径：[Peeters / Michel, Evangiles apocryphes2 (1914)](https://www.nasscal.com/e-clavis-christian-apocrypha/armenian-infancy-gospel/) — 法译69–286，Copy A，B异文入注；核专业书目与版本范围；本轮未取得旧法译扫描；Conybeare1897仅1–6章
+
+[完整调查记录](workers/eclavis_a12.json)，条目 `ECCA-570`。
+
+### 阿拉伯婴孩福音（S／L版本分辨）
+
+- **原题：** Arabic Infancy Gospel / Euangelium infantiae arabice
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 阿拉伯语；与叙利亚童女史有关系
+
+耶稣童年神迹集合，Sike牛津本与Provera佛罗伦萨本的开头及内容范围不同。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest arabic-infancy-gospel：056_阿拉伯婴孩福音57单元；实际读16415字起讫，55章结构及该亚法开头与Walker旧译相合，属Sike系覆盖线索，不等于L本也完整。
+
+**下一步：** 以056现有文本比S与L不同处，优先补核Provera，不重复翻译旧55章。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/arabic-infancy-gospel/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [New Advent](https://www.newadvent.org/fathers/0806.htm) — 实际读取首章、末章与Walker来源
+
+资源路径：[Alexander Walker英译，ANF8 (1886)](https://www.newadvent.org/fathers/0806.htm) — 第1–55章，含前后题辞；实际读1章该亚法、51–55章及结尾与署名，对应056首尾；旧Sike系，不是Provera L本；不同版本不可只据同名合并
+
+资源路径：[Provera／Genequand版本路径](https://www.nasscal.com/e-clavis-christian-apocrypha/arabic-infancy-gospel/) — L本有成人期材料；Genequand法译EAC1 207–238；实际核专业书目与S、L之别；尚未取得L本正文；James1924只有摘要选段
+
+[完整调查记录](workers/eclavis_a12.json)，条目 `ECCA-596`。
+
+### 以赛亚升天记（版本补查）
+
+- **原题：** Ascension of Isaiah / Ascensio Isaiae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 吉兹语全本；希腊、拉丁、斯拉夫等版本
+
+包含以赛亚殉道、希西家遗训及升天异象的复合传统。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest ascension-of-isaiah：036_以赛亚升天记12单元；实际读13574字首尾，1–11章及版本译注。中文总集256章另有文本，不是确定缺书。
+
+**下一步：** 保留036正文，核其英文本来源与11章缺文；希腊殉道传说与吉兹复合作品分范围比较。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/ascension-of-isaiah/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Early Christian Writings](https://www.earlychristianwritings.com/text/ascension.html) — 实际读篇首及章节结构，未确认该网页底本署名
+- [Early Christian Writings作品索引](https://www.earlychristianwritings.com/ascension.html) — 实际读English Translation (R.H.Charles)链接署名
+
+资源路径：[R.H.Charles英译转录（站内索引署名）](https://www.earlychristianwritings.com/text/ascension.html) — 1–11章，自希西家传言至11章结尾；实际读正文首尾及11章；另读ECW作品索引，English Translation链接明署R.H.Charles；站内索引确认译者，但未核转录依据Charles哪一印本；网页有OCR错字，不宜直接据此校定古文
+
+资源路径：[Charles1900及CCSA7 (1995)](https://www.nasscal.com/e-clavis-christian-apocrypha/ascension-of-isaiah/) — Charles英译1–82、平行古语83–139；CCSA7含吉兹、希腊、拉丁诸文本；核专业版本书目与各部分语言覆盖；本轮未取得原印本对应页；CANT315／316包含相关希腊传说范围，不能据036认全部覆盖
+
+[完整调查记录](workers/eclavis_a12.json)，条目 `ECCA-983`。

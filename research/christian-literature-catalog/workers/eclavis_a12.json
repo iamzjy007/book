@@ -1,0 +1,366 @@
+{
+  "worker": "eclavis_a12",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第64–68项；本轮新增5条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-326",
+      "title_zh": "马吉安使徒书集（重构本）",
+      "original_title": "Apostle of Marcion / Apostolos Marcionis",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语重构及英译；古代引文多语",
+      "synopsis": "从古代引文等材料重构的马吉安保罗书信集，原集无完整存世抄本。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest中的正典保罗各书不能算马吉安书集版本；限定题名未见独立单元。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest中的正典保罗各书不能算马吉安书集版本；限定题名未见独立单元。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "分别标明各重构者、版本及证据强度，不将重构读法或编者优先性论断当学界定论。",
+      "clavis": {
+        "ECCA": "326"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apostle-of-marcion/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://zenodo.org/records/8271824",
+          "institution": "Zenodo学术存储库",
+          "read_scope": "实际读取v1.01与许可、API文件元数据",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://zenodo.org/records/8271824",
+          "edition": "Bilby / Vinzent, Paul’s Literary Metamorphosis (2023)",
+          "location": "Zenodo v1.01，11.0MB PDF，译Vinzent2023工作稿",
+          "verified": "实际读Zenodo作者、版本、许可及文件列表；API确认文件11035520字节",
+          "limits": "现代学术重构与比较译本，不是存世古抄本或2025 TANZ团队终版",
+          "language": "英语",
+          "resource_type": "open_reconstruction_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://codeberg.org/mgbilby/Marcion_Apostolos",
+          "edition": "Marcion_Apostolos数字资料库",
+          "location": "多种重构本的标准化数据（据e-Clavis）",
+          "verified": "专业条目有明确链接；web直开受限",
+          "limits": "未读取仓库内容；Dataverse DOI与API访问也受阻",
+          "language": "希腊语／数据",
+          "resource_type": "blocked_dataset_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "record_kind": "reconstructed_corpus_survey"
+    },
+    {
+      "id": "ECCA-365",
+      "title_zh": "使徒史／伪亚布底亚使徒神迹集",
+      "original_title": "Apostolic Histories / Virtutes apostolorum",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语集合；各构件有希腊来源",
+      "synopsis": "中世纪流传的使徒行迹集合，篇次与构件不固定，不能统一认作亚布底亚一人著作。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest有若干单篇行传，不能据单篇存在判整套集合已收；与A03拉丁约翰及A06拉丁腓力等存在构件重叠。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest有若干单篇行传，不能据单篇存在判整套集合已收；与A03拉丁约翰及A06拉丁腓力等存在构件重叠。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "建立集合与已查单篇关系，勿把整集与构件都计作独立缺书；James与Elliott仅摘要，不当全译。",
+      "clavis": {
+        "ECCA": "365",
+        "CANT": "256"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apostolic-histories-virtutes-apostolorum/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/codexapocryphus00gilegoog/codexapocryphus00gilegoog.pdf",
+          "edition": "J.A.Giles, Codex Apocryphus Novi Testamenti (1852)",
+          "location": "集合256–456（据e-Clavis）；其中约翰336–369、腓力453–456已分查",
+          "verified": "前批已核IA metadata及PDF头，本批核集合书目范围",
+          "limits": "旧版重印Fabricius；未读整套扫描正文，不是现代综合校本",
+          "language": "拉丁语",
+          "resource_type": "digitized_edition",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00041811/manifest",
+          "edition": "BSB Clm12641 IIIF图像清单",
+          "location": "201扫描画布，馆方label Passio sive Legenda SS.Apostolorum",
+          "verified": "A06已实际读取JSON清单，本批专业书目确认该抄本为集合见证",
+          "limits": "未读全抄本图像；画布序号不等于叶码",
+          "language": "拉丁语",
+          "resource_type": "manuscript_iiif_manifest",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "record_kind": "corpus_or_collection_survey"
+    },
+    {
+      "id": "ECCA-570",
+      "title_zh": "亚美尼亚婴孩福音",
+      "original_title": "Armenian Infancy Gospel / Euangelium infantiae armeniace",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "亚美尼亚语",
+      "synopsis": "耶稣与马利亚早年故事的多版本传统，与雅各及多马婴孩作品有材料关系。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest有雅各、多马及阿拉伯婴孩作品，未匹配独立亚美尼亚本；不能据故事相似判覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest有雅各、多马及阿拉伯婴孩作品，未匹配独立亚美尼亚本；不能据故事相似判覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "570",
+        "CANT": "59"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/armenian-infancy-gospel/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://api.pageplace.de/preview/DT0400.9780191562068_A23535343/preview-9780191562068_A23535343.pdf",
+          "institution": "OUP图书发行预览",
+          "read_scope": "实际读取23页文件题头、版权、目录与底本说明",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://api.pageplace.de/preview/DT0400.9780191562068_A23535343/preview-9780191562068_A23535343.pdf",
+          "edition": "Abraham Terian, The Armenian Gospel of the Infancy (OUP2008)",
+          "location": "23页预览；题名、版权、目录、致谢及部分导言",
+          "verified": "实际读2008版权页ISBN9780199541560、底本M7574说明",
+          "limits": "只有预览，未到完整译文；本书不含亚美尼亚语校本，不能称双语校本",
+          "language": "英语",
+          "resource_type": "publisher_preview",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/armenian-infancy-gospel/",
+          "edition": "Peeters / Michel, Evangiles apocryphes2 (1914)",
+          "location": "法译69–286，Copy A，B异文入注",
+          "verified": "核专业书目与版本范围",
+          "limits": "本轮未取得旧法译扫描；Conybeare1897仅1–6章",
+          "language": "法语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-596",
+      "title_zh": "阿拉伯婴孩福音（S／L版本分辨）",
+      "original_title": "Arabic Infancy Gospel / Euangelium infantiae arabice",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "阿拉伯语；与叙利亚童女史有关系",
+      "synopsis": "耶稣童年神迹集合，Sike牛津本与Provera佛罗伦萨本的开头及内容范围不同。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式manifest arabic-infancy-gospel：056_阿拉伯婴孩福音57单元；实际读16415字起讫，55章结构及该亚法开头与Walker旧译相合，属Sike系覆盖线索，不等于L本也完整。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest arabic-infancy-gospel：056_阿拉伯婴孩福音57单元；实际读16415字起讫，55章结构及该亚法开头与Walker旧译相合，属Sike系覆盖线索，不等于L本也完整。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以056现有文本比S与L不同处，优先补核Provera，不重复翻译旧55章。",
+      "clavis": {
+        "ECCA": "596",
+        "CANT": "58"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/arabic-infancy-gospel/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0806.htm",
+          "institution": "New Advent",
+          "read_scope": "实际读取首章、末章与Walker来源",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0806.htm",
+          "edition": "Alexander Walker英译，ANF8 (1886)",
+          "location": "第1–55章，含前后题辞",
+          "verified": "实际读1章该亚法、51–55章及结尾与署名，对应056首尾",
+          "limits": "旧Sike系，不是Provera L本；不同版本不可只据同名合并",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/arabic-infancy-gospel/",
+          "edition": "Provera／Genequand版本路径",
+          "location": "L本有成人期材料；Genequand法译EAC1 207–238",
+          "verified": "实际核专业书目与S、L之别",
+          "limits": "尚未取得L本正文；James1924只有摘要选段",
+          "language": "阿拉伯语／法语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_formal_inventory"
+    },
+    {
+      "id": "ECCA-983",
+      "title_zh": "以赛亚升天记（版本补查）",
+      "original_title": "Ascension of Isaiah / Ascensio Isaiae",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "吉兹语全本；希腊、拉丁、斯拉夫等版本",
+      "synopsis": "包含以赛亚殉道、希西家遗训及升天异象的复合传统。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式manifest ascension-of-isaiah：036_以赛亚升天记12单元；实际读13574字首尾，1–11章及版本译注。中文总集256章另有文本，不是确定缺书。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest ascension-of-isaiah：036_以赛亚升天记12单元；实际读13574字首尾，1–11章及版本译注。中文总集256章另有文本，不是确定缺书。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "保留036正文，核其英文本来源与11章缺文；希腊殉道传说与吉兹复合作品分范围比较。",
+      "clavis": {
+        "ECCA": "983",
+        "CANT": [
+          "315",
+          "316"
+        ],
+        "CAVT": "218"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ascension-of-isaiah/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/ascension.html",
+          "institution": "Early Christian Writings",
+          "read_scope": "实际读篇首及章节结构，未确认该网页底本署名",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/ascension.html",
+          "institution": "Early Christian Writings作品索引",
+          "read_scope": "实际读English Translation (R.H.Charles)链接署名",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/ascension.html",
+          "edition": "R.H.Charles英译转录（站内索引署名）",
+          "location": "1–11章，自希西家传言至11章结尾",
+          "verified": "实际读正文首尾及11章；另读ECW作品索引，English Translation链接明署R.H.Charles",
+          "limits": "站内索引确认译者，但未核转录依据Charles哪一印本；网页有OCR错字，不宜直接据此校定古文",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ascension-of-isaiah/",
+          "edition": "Charles1900及CCSA7 (1995)",
+          "location": "Charles英译1–82、平行古语83–139；CCSA7含吉兹、希腊、拉丁诸文本",
+          "verified": "核专业版本书目与各部分语言覆盖",
+          "limits": "本轮未取得原印本对应页；CANT315／316包含相关希腊传说范围，不能据036认全部覆盖",
+          "language": "多语／英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_formal_inventory"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Marcion Apostolos Codeberg Dataverse DOI",
+        "Zenodo8271824 API",
+        "Terian Armenian Infancy2008 preview",
+        "Virtutes apostolorum Giles256–456"
+      ],
+      "result": "三项先存；重构集、使徒集合及现代预览的访问层级分别记录。"
+    },
+    {
+      "result": "ZenodoPDF超web大小限，但元数据/API确认文件；056实核55章旧Sike系，036实核全本章节存在，仍保留异文及独立希腊传说范围。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Ascension of Isaiah",
+    "last_completed_ecca": "983",
+    "next_title": "Assumption of the Virgin by Pseudo-Melito",
+    "next_ecca": "657",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}
