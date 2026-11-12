@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续150项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续154项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1501,15 +1501,55 @@
       "evidence": "正式064《彼拉多行传》末尾已有独立题头“彼拉多致革老丢书”，一章9节全文实际读毕；不是此前所查尼禄续篇。",
       "ordinal": 150,
       "batch": "2026-11-12-eclavis-e07"
+    },
+    {
+      "ecca": "585",
+      "title": "Epistle of Pilate to Tiberius",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
+      "decision": "component_already_in_formal_text",
+      "record_id": "eclavis_e08:ECCA-585",
+      "evidence": "正式066《彼拉多书信集》第三篇题为“彼拉多呈报”，一章8节，实际全文核对：开头提及上次报告，含西卜先知、哲人预兆及四月朔日前第五日，正对应本信。标题Anaphora不等于其他较长呈报版本。",
+      "ordinal": 151,
+      "batch": "2026-11-12-eclavis-e08"
+    },
+    {
+      "ecca": "908",
+      "title": "Epistle of Pseudo-Dionysius the Areopagite to Timothy",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pseudo-dionysius-the-areopagite-to-timothy/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e08:ECCA-908",
+      "evidence": "两套manifest中的亚历山大及哥林多狄奥尼修不是本篇；未见独立本信。十卷总集丢尼修命中为其他人物，未定位本篇。",
+      "ordinal": 152,
+      "batch": "2026-11-12-eclavis-e08"
+    },
+    {
+      "ecca": "204",
+      "title": "Epistle of Pseudo-Dionysius the Areopagite to Titus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pseudo-dionysius-the-areopagite-to-titus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e08:ECCA-204",
+      "evidence": "manifest未见本篇；总集致提多／狄奥尼等未定位。已有其他圣母安息叙事不自动覆盖这个亚美尼亚文本。",
+      "ordinal": 153,
+      "batch": "2026-11-12-eclavis-e08"
+    },
+    {
+      "ecca": "334",
+      "title": "(Apocryphal) Epistle of Titus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-of-titus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e08:ECCA-334",
+      "evidence": "manifest TITUS为明确排除的正典提多书；不是本篇。十卷总集伪提多／偽提多等未定位，不能由未命中断定中文从未出版。",
+      "ordinal": 154,
+      "batch": "2026-11-12-eclavis-e08"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Epistle of Pilate to Claudius",
-    "last_completed_ecca": "259",
-    "next_title": "Epistle of Pilate to Tiberius",
-    "next_ecca": "585",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
+    "last_completed_title": "(Apocryphal) Epistle of Titus",
+    "last_completed_ecca": "334",
+    "next_title": "Epistle of the Presbyters and Deacons of Achaea",
+    "next_ecca": "888",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaia/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1544,7 +1584,8 @@
       "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Epistle of Pilate to Claudius",
-        "last_completed_ecca": "259",
-        "next_title": "Epistle of Pilate to Tiberius",
-        "next_ecca": "585",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
+        "last_completed_title": "(Apocryphal) Epistle of Titus",
+        "last_completed_ecca": "334",
+        "next_title": "Epistle of the Presbyters and Deacons of Achaea",
+        "next_ecca": "888",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaia/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -102,10 +102,11 @@
           "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Epistle of Pilate to Tiberius ECCA585",
+      "next": "继续 Epistle of the Presbyters and Deacons of Achaea ECCA888",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -139,7 +140,8 @@
         "2026-11-12-eclavis-e04",
         "2026-11-12-eclavis-e05",
         "2026-11-12-eclavis-e06",
-        "2026-11-12-eclavis-e07"
+        "2026-11-12-eclavis-e07",
+        "2026-11-12-eclavis-e08"
       ],
       "last_batch_records_scanned": 4,
       "assigned_worker": "current_session_single_worker"

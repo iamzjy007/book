@@ -1,0 +1,310 @@
+{
+  "worker": "eclavis_e08",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第151–154项；本轮新增4条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-585",
+      "title_zh": "彼拉多致提庇留书",
+      "original_title": "Epistle of Pilate to Tiberius",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语；英语及中文",
+      "synopsis": "以彼拉多名义为耶稣辩护的短札，以三月二十八日问安结束。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "component_already_in_formal_text",
+      "repository_evidence": "正式066《彼拉多书信集》第三篇题为“彼拉多呈报”，一章8节，实际全文核对：开头提及上次报告，含西卜先知、哲人预兆及四月朔日前第五日，正对应本信。标题Anaphora不等于其他较长呈报版本。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式066《彼拉多书信集》第三篇题为“彼拉多呈报”，一章8节，实际全文核对：开头提及上次报告，含西卜先知、哲人预兆及四月朔日前第五日，正对应本信。标题Anaphora不等于其他较长呈报版本。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "已有中文组成部分；后续按底本核对，不据066旧总引言将本篇定为四世纪。",
+      "clavis": {
+        "ECCA": "585",
+        "CANT": "68"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0810.htm",
+          "edition": "Alexander Walker旧英译，ANF8 (1886)，New Advent电子版",
+          "location": "Letter of Pilate to Tiberius；整封短札",
+          "verified": "实际读取整封英文，从问安、神迹、门徒行为到Farewell及28th March，与正式066对应",
+          "limits": "只覆盖此拉丁短信；不能与希腊Anaphora Pilati长篇或致革老丢书互代",
+          "language": "英语",
+          "resource_type": "complete_historical_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
+          "edition": "NASSCAL条目所刊Elliott现代英译",
+          "location": "第1节完整短信；校本Tischendorf1876:433–434的书目",
+          "verified": "实际读完整短信及拉丁见证书目",
+          "limits": "现代译文只保存路径；早期作者提及彼拉多报告不能直接证明此具体短信在当时已存在",
+          "language": "英语",
+          "resource_type": "scholarly_entry_complete_short_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "component_already_in_formal_text"
+    },
+    {
+      "id": "ECCA-908",
+      "title_zh": "伪狄奥尼修致提摩太论彼得保罗之死书",
+      "original_title": "Epistle of Pseudo-Dionysius the Areopagite to Timothy",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "阿拉伯语、叙利亚语、拉丁语、亚美尼亚语、格鲁吉亚语、埃塞俄比亚语等",
+      "synopsis": "哀悼并赞颂彼得和保罗，以见证者口吻叙述殉难与异象；各语种和修订本结尾不同。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "两套manifest中的亚历山大及哥林多狄奥尼修不是本篇；未见独立本信。十卷总集丢尼修命中为其他人物，未定位本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "两套manifest中的亚历山大及哥林多狄奥尼修不是本篇；未见独立本信。十卷总集丢尼修命中为其他人物，未定位本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "阿拉伯本旧英译已可读；优先取得2021各语种校译或Eastman2015拉丁英译343–365，与旧本结尾分别比较。",
+      "clavis": {
+        "ECCA": "908",
+        "CANT": "197",
+        "CPG": "6631",
+        "BHL": "6671"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pseudo-dionysius-the-areopagite-to-timothy/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/americanjournal04litegoog/americanjournal04litegoog_djvu.txt",
+          "edition": "W.Scott Watson, An Arabic Version of the Epistle of Dionysius the Areopagite to Timothy, AJSL16.4 (1900)225–241，原刊扫描OCR",
+          "location": "导言225；阿拉伯文226–236；英译236–241，TRANSLATION至双Amen",
+          "verified": "实际读导言和完整英文译文，含受刑、领巾及末尾劝提摩太禁食祈祷；该阿拉伯本不含NASSCAL概要末尾寻回保罗头颅故事",
+          "limits": "OCR阿拉伯字严重失真，英文也有误识，未逐页图校；全文仅指此特定阿拉伯版本的旧英译，不能代表拉丁长本",
+          "language": "英语／阿拉伯语",
+          "resource_type": "digitized_original_journal_complete_recension_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110698060/html",
+          "edition": "Macé / Mühlenberg / Muthreich / Wulf, Corpus DionysiacumIII/1, PTS79 (2021)",
+          "location": "叙利亚／阿拉伯校译277起；亚美尼亚337起；格鲁吉亚／拉丁383起，据正式预览目录",
+          "verified": "实际读出版社书目、两类修订本说明，并查看67页正式预览目录",
+          "limits": "此预览不含277以后的目标校译正文；不能报为现代全书取得。与标准Corpus十封信区别",
+          "language": "多语校文／德语",
+          "resource_type": "publisher_critical_edition_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://api.pageplace.de/preview/DT0400.9783110698060_A42395648/preview-9783110698060_A42395648.pdf",
+          "edition": "出版社授权67页预览",
+          "location": "书名版权与目录PDF1–12；后为导论",
+          "verified": "实际核书名、系列、编者及校译分部页码",
+          "limits": "仅前置材料与导论，非目标正文",
+          "language": "德语",
+          "resource_type": "publisher_limited_preview",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-204",
+      "title_zh": "伪狄奥尼修致提多论马利亚安息书",
+      "original_title": "Epistle of Pseudo-Dionysius the Areopagite to Titus",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "亚美尼亚语；现代英语",
+      "synopsis": "圣母离世、使徒聚集、革西马尼安葬与迟来使徒要求开墓，终以空墓解释肉身迁移。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见本篇；总集致提多／狄奥尼等未定位。已有其他圣母安息叙事不自动覆盖这个亚美尼亚文本。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见本篇；总集致提多／狄奥尼等未定位。已有其他圣母安息叙事不自动覆盖这个亚美尼亚文本。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "现代完整英译路径及页码已核，继续取得1874和1895亚美尼亚校文，保留不知名使徒与无衣带叙事特点。",
+      "clavis": {
+        "ECCA": "204",
+        "CANT": "164",
+        "BHO": "642",
+        "Dormition_group": "AM7"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pseudo-dionysius-the-areopagite-to-titus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.marquette.edu/maqom/roots123.pdf",
+          "edition": "Stephen J.Shoemaker, Ps.-Ps.-Dionysius on the Dormition of the Virgin Mary: The Armenian Letter of Dionysius to Titus, Jewish Roots of Eastern Christian Mysticism (2020)325–336，Marquette大学托管",
+          "location": "目标研究325–336=PDF345–356；附录完整英译335–336=PDF355–356",
+          "verified": "实际读取335–336附录全篇，始于致提多问安说明，终于空墓与颂赞Amen；并读研究部分底本与年代讨论",
+          "limits": "整部407页PDF只在内存解析选页，未保存现代全书。仅此亚美尼亚版本；正文不点名迟来使徒，不能擅补成多马，也不补出其他安息文本中的衣带遗物",
+          "language": "英语",
+          "resource_type": "university_hosted_complete_modern_recension_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-334",
+      "title_zh": "伪提多论贞洁书",
+      "original_title": "(Apocryphal) Epistle of Titus / Epistula Titi discipuli Pauli de dispositione sanctimonii",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语；现代英法德等译本线索",
+      "synopsis": "面向男女禁欲群体的劝诫，引用多种使徒行传；与正典提多书、伪狄奥尼修致提多安息书不同。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest TITUS为明确排除的正典提多书；不是本篇。十卷总集伪提多／偽提多等未定位，不能由未命中断定中文从未出版。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest TITUS为明确排除的正典提多书；不是本篇。十卷总集伪提多／偽提多等未定位，不能由未命中断定中文从未出版。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "优先取得de Bruyne拉丁原刊或Wilson完整英译；现有俄译仅若干约翰片段。",
+      "clavis": {
+        "ECCA": "334",
+        "CANT": "307"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-of-titus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.bibliothek.uni-wuerzburg.de/en/collections/manuscript-collection/register/",
+          "edition": "维尔茨堡大学图书馆手稿登记表",
+          "location": "M.p.th.f.28；目标fol84r–93v据NASSCAL",
+          "verified": "实际看到馆方登记表该号及描述／浏览链接；跟进旧vb浏览与167.html均未取得图像",
+          "limits": "本轮为馆藏导航可用、具体旧查看器失败；未看手稿正文，不报为全文已读",
+          "language": "拉丁语",
+          "resource_type": "institution_manuscript_gateway_viewer_unavailable",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ojs.patristic.ru/index.php/bkhd/article/download/112/88",
+          "edition": "Andrey Yu.Vinogradov, Apocryphal Acts of John PartI, Bible and Christian Antiquity1(5),2020:65–96, DOI10.31802/2658-4476-2020-1-5-65-96",
+          "location": "70页=PDF6，标明来自伪提多书的Fragment3；77页=PDF13脚注44另引Fragment2",
+          "verified": "实际读取PDF6婚宴劝贞洁片段及PDF13关于Dyrus执事的脚注引用",
+          "limits": "只翻译或引述伪提多内的约翰材料，绝非整封伪提多书；不能以文章宣称全译约翰行传推成全译本信",
+          "language": "俄语",
+          "resource_type": "publisher_open_selected_passages_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-of-titus/",
+          "edition": "NASSCAL校本和译本书目",
+          "location": "de Bruyne, RBén37(1925)47–72，校文48–64据条目；Schneemelcher/Wilson英译第二卷53–74；Cottier法译2005第二卷1133–1171",
+          "verified": "实际读取版本书目，辨明Elliott1993:532–533仅概要",
+          "limits": "未取得上述拉丁校本或完整现代译本正文，页码作为待核书目；不将Elliott概要当作全译",
+          "language": "拉丁语／英语／法语",
+          "resource_type": "scholarly_bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "formal066 actual full third component vs ECCA585 not long Anaphora",
+        "two manifests Dionysius entries are Alexandria/Corinth, not Areopagite",
+        "ten-volume anthology 致提摩太／致提多／伪提多／偽提多／狄奥尼／丢尼修",
+        "Watson original AJSL16 IA complete OCR English236–241",
+        "Shoemaker2020 university PDF appendix335–336 actual complete English",
+        "Wurzburg register M.p.th.f.28 old vb viewer fails; Russian2020 only PseudoTitus fragments"
+      ],
+      "result": "4项调查；1项正式中文组成部分已有；阿拉伯本旧英译与亚美尼亚安息书完整现代英译已核；伪提多完整本仍待取。",
+      "rejected_lead": "bibliography.mk.iq/files/4cbf2b6870ce8f26.pdf搜索命中Watson但实际是Witkam莱顿手稿目录，不是Watson论文，未收为全文。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "(Apocryphal) Epistle of Titus",
+    "last_completed_ecca": "334",
+    "next_title": "Epistle of the Presbyters and Deacons of Achaea",
+    "next_ecca": "888",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaia/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}
