@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **153条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **158条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A08.md](RESOURCE-PATHS-A08.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A09.md](RESOURCE-PATHS-A09.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -4012,3 +4012,147 @@
 资源路径：[Bremer-McCollum, Adoration of the Magi, MNTA2 (2020)](https://www.nasscal.com/e-clavis-christian-apocrypha/adoration-of-the-magi/) — 3–12，新英译及导言；已核专业书目题名、译者和页码；未取得现代英译全文；Olschki1950仅部分英译
 
 [完整调查记录](workers/eclavis_a08.json)，条目 `ECCA-230`。
+
+## e-Clavis系统扫描续查A09
+
+### 耶稣零散语录（语料集合）
+
+- **原题：** Agrapha of Jesus / Agrapha Iesu
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语及多种传承语言
+
+福音书通行文本外归于耶稣的零散言语集合，各汇编取舍不同；不是单一古代作品。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立Agrapha汇编；中文总集的“耶稣语录”命中处在多马福音简介，不能据此宣称完整集合已收。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/agrapha-of-jesus/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Rick Brannan作者网站](https://rickbrannan.com/wp-content/uploads/2019/11/five-agrapha-from-fragmentary-early-christian-papyri-2019-11-21.pdf) — 实际读14页论文的题名、摘要和若干转写译文节点
+
+资源路径：[Rick Brannan, Five Agrapha from Fragmentary Early Christian Papyri (2019)](https://rickbrannan.com/wp-content/uploads/2019/11/five-agrapha-from-fragmentary-early-christian-papyri-2019-11-21.pdf) — 14页；P.Amh.Gr.1.2、P.Iand.5.69、P.Gen.3.125中的5条候选；实际读取作者网站会议论文题头、摘要与转写、译文段；专题五条候选，不是Agrapha全集；归属和界限仍须逐条判断
+
+资源路径：[Stroker, Extracanonical Sayings of Jesus (1989)](https://www.nasscal.com/e-clavis-christian-apocrypha/agrapha-of-jesus/) — 266条，分类汇编；另James1924 32–37；实际核专业书目汇编范围；未取得Stroker正文；不同集合不能用条数直接合并
+
+[完整调查记录](workers/eclavis_a09.json)，条目 `ECCA-508`。
+
+### 第一典外约翰启示录
+
+- **原题：** 1 Apocryphal Apocalypse of John / 1 Apocalypsis Iohannis apocrypha
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语及多种古译
+
+约翰在他泊山获末世启示，以问答叙再来、敌基督和复活。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未匹配本题；中文总集“约翰启示录”命中主要为正典比较或附录书单，并非已确认本篇正文；062中的小约翰启示亦须另辨。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/1-apocryphal-apocalypse-of-john/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [New Advent](https://www.newadvent.org/fathers/0831.htm) — 实际读取起讫与Walker来源信息
+
+资源路径：[Alexander Walker英译，ANF8 (1886)](https://www.newadvent.org/fathers/0831.htm) — 自他泊山祈祷至回返他泊山、Amen；实际读首尾及来源署名，与ECCA885故事框架相符；旧译依Tischendorf；不对应ECCA107礼仪问答或ECCA324亚伯拉罕问答
+
+[完整调查记录](workers/eclavis_a09.json)，条目 `ECCA-885`。
+
+### 第二典外约翰启示录（礼仪问答）
+
+- **原题：** 2 Apocryphal Apocalypse of John / Apocalypse of John Chrysostom
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语
+
+以约翰与主的问答解释主日、禁食及礼仪，部分抄本称约翰为金口约翰。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见此礼仪问答题名；不能因其他约翰作品已收就判覆盖。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/2-apocryphal-apocalypse-of-john/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[François Nau, Une deuxième Apocalypse..., RB11.2 (1914)](https://www.jstor.org/stable/44101528) — 209–221，Recension B校本（据e-Clavis）；JSTOR期目录搜索确认作者、页界及稳定号；直开文章仅空壳；未读校本文字；不是完整现代英译
+
+资源路径：[Draughon / Sellick / Spittler, MNTA2 (2020)](https://www.nasscal.com/e-clavis-christian-apocrypha/2-apocryphal-apocalypse-of-john/) — 399–422，新译及导言；Court2000另67–103；实际核专业书目；未取得现代译文；版本A、B须区分
+
+[完整调查记录](workers/eclavis_a09.json)，条目 `ECCA-107`。
+
+### 第三典外约翰启示录（亚伯拉罕问答）
+
+- **原题：** 3 Apocryphal Apocalypse of John / 3 Apocalypsis Iohannis apocrypha
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语、教会斯拉夫语及保加利亚语
+
+约翰向亚伯拉罕问灵魂、来世与教会生活；不同见证内容有缺损或差异。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见本篇独立题名；中文总集附录有笼统约翰启示录书名，不能据此判本篇正文已收。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/3-apocryphal-apocalypse-of-john/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Peeters Online Journals](https://poj.peeters-leuven.be/content.php?id=3288873&url=article) — 实际读文章元数据与摘要；下载按钮转订阅登录
+
+资源路径：[Bonar / Burke, Le Muséon133.3–4 (2020)](https://poj.peeters-leuven.be/content.php?id=3288873&url=article) — 397–454，希腊传统首刊及英译；实际读期刊官网题名、作者、DOI与摘要；点击Download article显示订阅登录；已确认文章入口，全文未取得；没有将登录页当PDF
+
+资源路径：[Bonar / Burke / Čéplö, MNTA2 (2020)](https://www.nasscal.com/e-clavis-christian-apocrypha/3-apocryphal-apocalypse-of-john/) — 423–460；另Miltenova2018斯拉夫本704–717；核专业书目的两种版本路径；未读现代译文；Miltenova题名4 Apocalypse对应本ECCA324，编号不同须保留
+
+[完整调查记录](workers/eclavis_a09.json)，条目 `ECCA-324`。
+
+### 典外歌罗西书残段（博比奥弥撒书）
+
+- **原题：** Apocryphal Epistle to the Colossians / Epistola Pauli apostoli ad Colos
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语
+
+弥撒读经中的短篇劝诫，缺少书信格式；文类可能是讲道，不能认作保罗失信实证。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest colossians是正典歌罗西书；未核到本博比奥片段独立单元。
+
+**下一步：** 取Latin13246 ff212r–v或James479–480核内容；Princeton搜索命中为HBS61研究卷，不当成HBS58正文卷。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-to-the-colossians/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [University of Galway手稿项目](https://elmss.universityofgalway.ie/catalogue/1033) — 搜索返回Bobbio Missal及Gallica永久路径，未读手稿图像
+
+资源路径：[BnF Latin13246，Bobbio Missal](https://gallica.bnf.fr/ark:/12148/btv1b550103970) — ff.212r–212v（据e-Clavis）；学术资料及大学手稿目录指向此Gallica标识；web与IIIF接口均403；未读图像，手稿页界来自专业书目；不标已取全文
+
+资源路径：[James, Apocryphal New Testament (1924)](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-to-the-colossians/) — 英译479–480；拉丁转写Zahn1892 587–589；实际核专业条目页界和文类争议；未打开原印本对应页；《致亚历山大人书》的身份关联并不确定
+
+[完整调查记录](workers/eclavis_a09.json)，条目 `ECCA-991`。

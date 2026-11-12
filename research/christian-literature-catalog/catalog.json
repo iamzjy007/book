@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 154,
-    "catalogue_records_after_one_merge": 153,
+    "worker_records": 159,
+    "catalogue_records_after_one_merge": 158,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 230
+    "unique_source_urls": 239
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -76,6 +76,10 @@
     {
       "path": "workers/eclavis_a08.json",
       "sha256": "fb5501ddef44938b3461860f46e05801b86aeae3bba75a44a27be8a12175f32d"
+    },
+    {
+      "path": "workers/eclavis_a09.json",
+      "sha256": "1d64399d0aaa5bf909e9c43e9fb696eff1f942f277d587e3c73283a2289e83bd"
     }
   ],
   "records": [
@@ -8224,6 +8228,328 @@
           "verified": "已核专业书目题名、译者和页码",
           "limits": "未取得现代英译全文；Olschki1950仅部分英译",
           "language": "英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a09:ECCA-508",
+      "area": "e-Clavis系统扫描续查A09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "耶稣零散语录（语料集合）",
+      "original_title": "Agrapha of Jesus / Agrapha Iesu",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语及多种传承语言",
+      "synopsis": "福音书通行文本外归于耶稣的零散言语集合，各汇编取舍不同；不是单一古代作品。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立Agrapha汇编；中文总集的“耶稣语录”命中处在多马福音简介，不能据此宣称完整集合已收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立Agrapha汇编；中文总集的“耶稣语录”命中处在多马福音简介，不能据此宣称完整集合已收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/agrapha-of-jesus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://rickbrannan.com/wp-content/uploads/2019/11/five-agrapha-from-fragmentary-early-christian-papyri-2019-11-21.pdf",
+          "institution": "Rick Brannan作者网站",
+          "read_scope": "实际读14页论文的题名、摘要和若干转写译文节点",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a09.json",
+      "worker_entry_id": "ECCA-508",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "508",
+        "CANT": "18"
+      },
+      "resources": [
+        {
+          "url": "https://rickbrannan.com/wp-content/uploads/2019/11/five-agrapha-from-fragmentary-early-christian-papyri-2019-11-21.pdf",
+          "edition": "Rick Brannan, Five Agrapha from Fragmentary Early Christian Papyri (2019)",
+          "location": "14页；P.Amh.Gr.1.2、P.Iand.5.69、P.Gen.3.125中的5条候选",
+          "verified": "实际读取作者网站会议论文题头、摘要与转写、译文段",
+          "limits": "专题五条候选，不是Agrapha全集；归属和界限仍须逐条判断",
+          "language": "希腊语／英语",
+          "resource_type": "author_research_paper",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/agrapha-of-jesus/",
+          "edition": "Stroker, Extracanonical Sayings of Jesus (1989)",
+          "location": "266条，分类汇编；另James1924 32–37",
+          "verified": "实际核专业书目汇编范围",
+          "limits": "未取得Stroker正文；不同集合不能用条数直接合并",
+          "language": "多语／英语",
+          "resource_type": "collection_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a09:ECCA-885",
+      "area": "e-Clavis系统扫描续查A09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "第一典外约翰启示录",
+      "original_title": "1 Apocryphal Apocalypse of John / 1 Apocalypsis Iohannis apocrypha",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语及多种古译",
+      "synopsis": "约翰在他泊山获末世启示，以问答叙再来、敌基督和复活。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未匹配本题；中文总集“约翰启示录”命中主要为正典比较或附录书单，并非已确认本篇正文；062中的小约翰启示亦须另辨。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未匹配本题；中文总集“约翰启示录”命中主要为正典比较或附录书单，并非已确认本篇正文；062中的小约翰启示亦须另辨。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/1-apocryphal-apocalypse-of-john/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0831.htm",
+          "institution": "New Advent",
+          "read_scope": "实际读取起讫与Walker来源信息",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a09.json",
+      "worker_entry_id": "ECCA-885",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "885",
+        "CANT": "331"
+      },
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0831.htm",
+          "edition": "Alexander Walker英译，ANF8 (1886)",
+          "location": "自他泊山祈祷至回返他泊山、Amen",
+          "verified": "实际读首尾及来源署名，与ECCA885故事框架相符",
+          "limits": "旧译依Tischendorf；不对应ECCA107礼仪问答或ECCA324亚伯拉罕问答",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a09:ECCA-107",
+      "area": "e-Clavis系统扫描续查A09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "第二典外约翰启示录（礼仪问答）",
+      "original_title": "2 Apocryphal Apocalypse of John / Apocalypse of John Chrysostom",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语",
+      "synopsis": "以约翰与主的问答解释主日、禁食及礼仪，部分抄本称约翰为金口约翰。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未见此礼仪问答题名；不能因其他约翰作品已收就判覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未见此礼仪问答题名；不能因其他约翰作品已收就判覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/2-apocryphal-apocalypse-of-john/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a09.json",
+      "worker_entry_id": "ECCA-107",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "107",
+        "CANT": "332"
+      },
+      "resources": [
+        {
+          "url": "https://www.jstor.org/stable/44101528",
+          "edition": "François Nau, Une deuxième Apocalypse..., RB11.2 (1914)",
+          "location": "209–221，Recension B校本（据e-Clavis）",
+          "verified": "JSTOR期目录搜索确认作者、页界及稳定号；直开文章仅空壳",
+          "limits": "未读校本文字；不是完整现代英译",
+          "language": "希腊语／法语",
+          "resource_type": "article_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/2-apocryphal-apocalypse-of-john/",
+          "edition": "Draughon / Sellick / Spittler, MNTA2 (2020)",
+          "location": "399–422，新译及导言；Court2000另67–103",
+          "verified": "实际核专业书目",
+          "limits": "未取得现代译文；版本A、B须区分",
+          "language": "英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a09:ECCA-324",
+      "area": "e-Clavis系统扫描续查A09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "第三典外约翰启示录（亚伯拉罕问答）",
+      "original_title": "3 Apocryphal Apocalypse of John / 3 Apocalypsis Iohannis apocrypha",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、教会斯拉夫语及保加利亚语",
+      "synopsis": "约翰向亚伯拉罕问灵魂、来世与教会生活；不同见证内容有缺损或差异。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未见本篇独立题名；中文总集附录有笼统约翰启示录书名，不能据此判本篇正文已收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未见本篇独立题名；中文总集附录有笼统约翰启示录书名，不能据此判本篇正文已收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/3-apocryphal-apocalypse-of-john/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://poj.peeters-leuven.be/content.php?id=3288873&url=article",
+          "institution": "Peeters Online Journals",
+          "read_scope": "实际读文章元数据与摘要；下载按钮转订阅登录",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a09.json",
+      "worker_entry_id": "ECCA-324",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "324"
+      },
+      "resources": [
+        {
+          "url": "https://poj.peeters-leuven.be/content.php?id=3288873&url=article",
+          "edition": "Bonar / Burke, Le Muséon133.3–4 (2020)",
+          "location": "397–454，希腊传统首刊及英译",
+          "verified": "实际读期刊官网题名、作者、DOI与摘要；点击Download article显示订阅登录",
+          "limits": "已确认文章入口，全文未取得；没有将登录页当PDF",
+          "language": "希腊语／英语",
+          "resource_type": "subscription_article_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/3-apocryphal-apocalypse-of-john/",
+          "edition": "Bonar / Burke / Čéplö, MNTA2 (2020)",
+          "location": "423–460；另Miltenova2018斯拉夫本704–717",
+          "verified": "核专业书目的两种版本路径",
+          "limits": "未读现代译文；Miltenova题名4 Apocalypse对应本ECCA324，编号不同须保留",
+          "language": "英语／教会斯拉夫语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a09:ECCA-991",
+      "area": "e-Clavis系统扫描续查A09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "典外歌罗西书残段（博比奥弥撒书）",
+      "original_title": "Apocryphal Epistle to the Colossians / Epistola Pauli apostoli ad Colos",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语",
+      "synopsis": "弥撒读经中的短篇劝诫，缺少书信格式；文类可能是讲道，不能认作保罗失信实证。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest colossians是正典歌罗西书；未核到本博比奥片段独立单元。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest colossians是正典歌罗西书；未核到本博比奥片段独立单元。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "取Latin13246 ff212r–v或James479–480核内容；Princeton搜索命中为HBS61研究卷，不当成HBS58正文卷。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-to-the-colossians/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://elmss.universityofgalway.ie/catalogue/1033",
+          "institution": "University of Galway手稿项目",
+          "read_scope": "搜索返回Bobbio Missal及Gallica永久路径，未读手稿图像",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a09.json",
+      "worker_entry_id": "ECCA-991",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "991"
+      },
+      "resources": [
+        {
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b550103970",
+          "edition": "BnF Latin13246，Bobbio Missal",
+          "location": "ff.212r–212v（据e-Clavis）",
+          "verified": "学术资料及大学手稿目录指向此Gallica标识；web与IIIF接口均403",
+          "limits": "未读图像，手稿页界来自专业书目；不标已取全文",
+          "language": "拉丁语",
+          "resource_type": "blocked_manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-to-the-colossians/",
+          "edition": "James, Apocryphal New Testament (1924)",
+          "location": "英译479–480；拉丁转写Zahn1892 587–589",
+          "verified": "实际核专业条目页界和文类争议",
+          "limits": "未打开原印本对应页；《致亚历山大人书》的身份关联并不确定",
+          "language": "英语／拉丁语",
           "resource_type": "edition_bibliography",
           "checked_date_beijing": "2026-11-12"
         }

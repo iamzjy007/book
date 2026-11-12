@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "id": "2026-11-12-eclavis-a09",
+  "date_beijing": "2026-11-12",
+  "base_commit": "c69759938c0480973cfdbf0bdea368315a2bf727",
+  "task": "eclavis-systematic",
+  "status": "completed_batch",
+  "researcher": "current_session_single_worker",
+  "counts": {
+    "index_positions_scanned": 5,
+    "new_catalog_records": 5,
+    "cumulative_index_positions_scanned": 53,
+    "candidate_inventory_unconfirmed": 5
+  },
+  "sources_and_queries": "workers/eclavis_a09.json",
+  "resource_report": "RESOURCE-PATHS-A09.md",
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Apocryphal Epistle to the Colossians",
+    "last_completed_ecca": "991",
+    "next_title": "Apocalypse of Paul",
+    "next_ecca": "818",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-paul/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  },
+  "user_instruction": "持续执行任务，直至用户要求停止；完成批次不是停止理由。",
+  "publication_status": "提交结果以远端核验为准，不预填成功。",
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ]
+}

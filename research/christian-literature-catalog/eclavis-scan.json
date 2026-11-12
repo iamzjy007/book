@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续48项；A字母尚未完成。",
+  "scope": "索引开头连续53项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -481,15 +481,65 @@
       "evidence": "manifest未匹配独立题名；其他童年福音或博士主题文本不自动覆盖此古回鹘残篇。",
       "ordinal": 48,
       "batch": "2026-11-12-eclavis-a08"
+    },
+    {
+      "ecca": "508",
+      "title": "Agrapha of Jesus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/agrapha-of-jesus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a09:ECCA-508",
+      "evidence": "manifest未见独立Agrapha汇编；中文总集的“耶稣语录”命中处在多马福音简介，不能据此宣称完整集合已收。",
+      "ordinal": 49,
+      "batch": "2026-11-12-eclavis-a09"
+    },
+    {
+      "ecca": "885",
+      "title": "1 Apocryphal Apocalypse of John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/1-apocryphal-apocalypse-of-john/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a09:ECCA-885",
+      "evidence": "正式manifest未匹配本题；中文总集“约翰启示录”命中主要为正典比较或附录书单，并非已确认本篇正文；062中的小约翰启示亦须另辨。",
+      "ordinal": 50,
+      "batch": "2026-11-12-eclavis-a09"
+    },
+    {
+      "ecca": "107",
+      "title": "2 Apocryphal Apocalypse of John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/2-apocryphal-apocalypse-of-john/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a09:ECCA-107",
+      "evidence": "正式manifest未见此礼仪问答题名；不能因其他约翰作品已收就判覆盖。",
+      "ordinal": 51,
+      "batch": "2026-11-12-eclavis-a09"
+    },
+    {
+      "ecca": "324",
+      "title": "3 Apocryphal Apocalypse of John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/3-apocryphal-apocalypse-of-john/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a09:ECCA-324",
+      "evidence": "正式manifest未见本篇独立题名；中文总集附录有笼统约翰启示录书名，不能据此判本篇正文已收。",
+      "ordinal": 52,
+      "batch": "2026-11-12-eclavis-a09"
+    },
+    {
+      "ecca": "991",
+      "title": "Apocryphal Epistle to the Colossians",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-to-the-colossians/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a09:ECCA-991",
+      "evidence": "manifest colossians是正典歌罗西书；未核到本博比奥片段独立单元。",
+      "ordinal": 53,
+      "batch": "2026-11-12-eclavis-a09"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Adoration of the Magi",
-    "last_completed_ecca": "230",
-    "next_title": "Agrapha of Jesus",
-    "next_ecca": "508",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/agrapha-of-jesus/",
+    "last_completed_title": "Apocryphal Epistle to the Colossians",
+    "last_completed_ecca": "991",
+    "next_title": "Apocalypse of Paul",
+    "next_ecca": "818",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-paul/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -500,7 +550,8 @@
       "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }
