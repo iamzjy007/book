@@ -1,0 +1,476 @@
+{
+  "worker": "eclavis_e02",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第127–131项；本轮新增5条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-866",
+      "title_zh": "尼基塔：巴多罗买颂",
+      "original_title": "Encomium on Bartholomew by Nicetas of Paphlagonia",
+      "author": "Nicetas David of Paphlagonia",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；旧拉丁译文",
+      "synopsis": "尼基塔使徒颂词中的独立作品。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未见本篇；中文总集Nicetas／尼基塔检索未定位，不能据相关使徒行传视作已收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未见本篇；中文总集Nicetas／尼基塔检索未定位，不能据相关使徒行传视作已收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "PG105原扫描首尾已核；继续现代译本与中段版本核对。",
+      "clavis": {
+        "ECCA": "866",
+        "BHG": "231"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-bartholomew-by-nicetas-of-paphlagonia/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/details/patrologia-graeca_202105/105",
+          "institution": "PG105原版／Internet Archive",
+          "read_scope": "实际查看题页CV1862与本篇首尾扫描，纠正专目115卷号",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/details/patrologia-graeca_202105/105",
+          "edition": "Migne, PG105 (1862)，希腊文与旧拉丁译文",
+          "location": "Latin cols195–213、Greek196–214；篇首leaf102，末尾leaf111；Combefis1672卷1:392–399据专目",
+          "verified": "实际查看本卷题页CV=105及本篇首尾图像，篇题／Amen均可见",
+          "limits": "e-Clavis重复写PG115不符原卷题页；改为PG105。首尾已核，未逐页读全文，未取得现代全译。",
+          "language": "希腊语／拉丁语",
+          "resource_type": "historic_edition_scan_pending_verification",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b10086092t",
+          "edition": "BnF grec1180数字化入口",
+          "location": "gr1180 ff219r–224v",
+          "verified": "巴多罗买条目实点Gallica403；雅各同卷位置据专业目录",
+          "limits": "未读手稿图像，目标叶码尚未独立核图",
+          "language": "希腊语",
+          "resource_type": "manuscript_viewer_access_blocked",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0102.jp2&id=patrologia-graeca_202105&scale=3&rotate=0",
+          "edition": "PG105 (1862)原扫描：巴多罗买颂起页195/196",
+          "location": "BookReader leafNum 102",
+          "verified": "实际取得并查看该页图像；只保存路径",
+          "limits": "这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录",
+          "language": "希腊语／拉丁语",
+          "resource_type": "verified_historic_edition_page_image",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0111.jp2&id=patrologia-graeca_202105&scale=3&rotate=0",
+          "edition": "PG105 (1862)原扫描：巴多罗买颂终页213/214",
+          "location": "BookReader leafNum 111",
+          "verified": "实际取得并查看该页图像；只保存路径",
+          "limits": "这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录",
+          "language": "希腊语／拉丁语",
+          "resource_type": "verified_historic_edition_page_image",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-379",
+      "title_zh": "尼基塔：亚勒腓之子雅各颂",
+      "original_title": "Encomium on James Son of Alphaeus by Nicetas of Paphlagonia",
+      "author": "Nicetas David of Paphlagonia",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；旧拉丁译文",
+      "synopsis": "尼基塔使徒颂词中的独立作品。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未见本篇；中文总集Nicetas／尼基塔检索未定位，不能据相关使徒行传视作已收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未见本篇；中文总集Nicetas／尼基塔检索未定位，不能据相关使徒行传视作已收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "PG105原扫描首尾已核；继续现代译本与中段版本核对。",
+      "clavis": {
+        "ECCA": "379",
+        "BHG": "763"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-james-son-of-alphaeus-by-nicetas-of-paphlagonia/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/details/patrologia-graeca_202105/105",
+          "institution": "PG105原版／Internet Archive",
+          "read_scope": "实际查看题页CV1862与本篇首尾扫描，纠正专目115卷号",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/details/patrologia-graeca_202105/105",
+          "edition": "Migne, PG105 (1862)，希腊文与旧拉丁译文",
+          "location": "cols145–164，篇首leaf77，末尾leaf86；Combefis1672卷1:372–379据专目",
+          "verified": "实际查看本卷题页CV=105及本篇首尾图像，篇题／Amen均可见",
+          "limits": "e-Clavis重复写PG115不符原卷题页；改为PG105。首尾已核，未逐页读全文，未取得现代全译。",
+          "language": "希腊语／拉丁语",
+          "resource_type": "historic_edition_scan_pending_verification",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b10086092t",
+          "edition": "BnF grec1180数字化入口",
+          "location": "gr1180 ff31v–36r",
+          "verified": "巴多罗买条目实点Gallica403；雅各同卷位置据专业目录",
+          "limits": "未读手稿图像，目标叶码尚未独立核图",
+          "language": "希腊语",
+          "resource_type": "manuscript_viewer_access_blocked",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0077.jp2&id=patrologia-graeca_202105&scale=3&rotate=0",
+          "edition": "PG105 (1862)原扫描：雅各颂起页145/146",
+          "location": "BookReader leafNum 77",
+          "verified": "实际取得并查看该页图像；只保存路径",
+          "limits": "这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录",
+          "language": "希腊语／拉丁语",
+          "resource_type": "verified_historic_edition_page_image",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0086.jp2&id=patrologia-graeca_202105&scale=3&rotate=0",
+          "edition": "PG105 (1862)原扫描：雅各颂终页163/164",
+          "location": "BookReader leafNum 86",
+          "verified": "实际取得并查看该页图像；只保存路径",
+          "limits": "这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录",
+          "language": "希腊语／拉丁语",
+          "resource_type": "verified_historic_edition_page_image",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-543",
+      "title_zh": "伪金口约翰：施洗约翰颂",
+      "original_title": "Encomium on John the Baptist",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "萨希德科普特语；英译",
+      "synopsis": "结合约翰讲词与第三天异象的使徒回忆录。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未见独立篇；中文总集约翰颂／施洗约翰颂等未定位，第三重天零星检索结果不能证明本篇已收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未见独立篇；中文总集约翰颂／施洗约翰颂等未定位，第三重天零星检索结果不能证明本篇已收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以校样233–246对照最终出版与Or7024；巴黎片段只有部分章节，不能当完整第二版本。",
+      "clavis": {
+        "ECCA": "543",
+        "CANT": "184",
+        "CPC": "0170",
+        "CPG": "5150.3"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-baptist/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "edition": "Philip L. Tite英译，MNTA1(2016)编者所存校样",
+          "location": "全章印217–246；译文233–246=PDF第283–296页（零基282–295），§1–21",
+          "verified": "实际读译者、底本说明、译文§1题头与§21.6Amen终；从 London Or7024据Budge并参考Paris碎片",
+          "limits": "是2016第三次校样，非保证与印行本逐字相同；CANT185狄奥多西颂为另一作品，不混；不复制全译",
+          "language": "英语",
+          "resource_type": "editor_hosted_full_translation_proof",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/details/copticapocryphai00budguoft",
+          "edition": "Budge, Coptic Apocrypha (1913)旧版扫描入口",
+          "location": "科普特文128–145；英译335–351据专业目录",
+          "verified": "已核专目与Tite对旧版的说明",
+          "limits": "本轮未读本入口目标扫描；Budge抄本985年为旧误，Tite据题记校987；保留版本差异",
+          "language": "科普特语／英语",
+          "resource_type": "historic_edition_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-544",
+      "title_zh": "归狄奥多西：施洗约翰颂",
+      "original_title": "Encomium on John the Baptist by Theodosius of Alexandria",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "萨希德科普特语；Kuhn英译",
+      "synopsis": "以施洗约翰为主题的独立讲词，须与伪金口约翰CANT184分开。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立题名；中文总集Theodosius同名未定位本篇；其他约翰传说不自动覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立题名；中文总集Theodosius同名未定位本篇；其他约翰传说不自动覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "取得Kuhn269英译目标正文；1966原文与1975新增残片分别核对。",
+      "clavis": {
+        "ECCA": "544",
+        "CANT": "185",
+        "CPC": "0513"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-baptist-by-theodosius-of-alexandria/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb331911548",
+          "edition": "K. H. Kuhn, A Panegyric on John the Baptist attributed to Theodosius (1966)",
+          "location": "CSCO268/Copt33科普特文；269/Copt34英译，分2卷",
+          "verified": "实际检索法国国家图书馆馆藏目录明确vol1原文／vol2英译，附馆藏路径",
+          "limits": "仅书目和馆藏，不是在线全文；页数XXII-86/II-71与出版社2022目录XXI-86/II-69有差异，暂不统一",
+          "language": "科普特语／英语",
+          "resource_type": "national_library_edition_translation_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.peeters-leuven.be/catalogue_download.php?n=995%24General+Catalogue+2022.pdf",
+          "edition": "Peeters2022出版社目录中的Kuhn双卷",
+          "location": "CSCO268 T／269 V",
+          "verified": "搜索索引返回出版社目录双卷书目；实际打开PDF超时",
+          "limits": "仅索引书目，未读目标全译；网站活目录269封面ISBN与该旧PDF一号偏移，ISBN待出版社具体页核对后定",
+          "language": "待核",
+          "resource_type": "publisher_catalogue_indexed_access_timeout",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://atlas.paths-erc.eu/works/512",
+          "edition": "PAThs作品目录入口",
+          "location": "CPC0513，MONB.OY／CLM829据NASSCAL",
+          "verified": "从专目实际点入返回404",
+          "limits": "未读取项目现行记录，身份与抄本范围仍据专目；不能把失效链接当图像可读",
+          "language": "科普特语",
+          "resource_type": "project_catalogue_broken_link",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-842",
+      "title_zh": "Blemmydes：福音作者约翰颂",
+      "original_title": "Encomium on John the Evangelist by Blemmydes",
+      "author": "Nikephoros Blemmydes",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；Munitiz英译",
+      "synopsis": "约翰福音序言释义为主、含使徒传说的拜占庭颂词。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立题名；中文总集Blemmydes/Munitiz检索未定位；普罗科罗约翰行传与本颂词分开。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立题名；中文总集Blemmydes/Munitiz检索未定位；普罗科罗约翰行传与本颂词分开。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "取得Munitiz1989希英对照302–346，或核Barocci131目标原图。",
+      "clavis": {
+        "ECCA": "842",
+        "BHG": "931"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-evangelist-by-blemmydes/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://doi.org/10.1484/J.ABOL.4.03259",
+          "edition": "Joseph A. Munitiz, Blemmydes Encomium on St John the Evangelist (BHG931)",
+          "location": "Analecta Bollandiana107.3–4(1989):285–346；希英对照302–346据NASSCAL",
+          "verified": "从根特DBBE大学数据库实点DOI，出版方返回不可访问",
+          "limits": "正文未取得；NASSCAL作者Munitz拼写与大学目录Munitiz不同，采用大学规范署名；章节不能误作其自传或书信英译",
+          "language": "希腊语／英语",
+          "resource_type": "journal_critical_edition_translation_access_blocked",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://dbbe.ugent.be/articles/33020",
+          "edition": "Ghent University DBBE论文记录",
+          "location": "作者Joseph A.Munitiz，卷期及页码，附出版方DOI",
+          "verified": "实际读大学项目书目及DOI链接",
+          "limits": "书目记录不是论文全文",
+          "language": "英语",
+          "resource_type": "university_bibliographic_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://digital.bodleian.ox.ac.uk/objects/8f71e031-ea60-436f-937b-81275c271527/",
+          "edition": "Oxford Bodleian MS Barocci131数字对象",
+          "location": "约1280年，ff350–353据NASSCAL",
+          "verified": "实际点击专业目录所列IMAGES至机构对象",
+          "limits": "仅对象入口可达，未核手稿图像和叶序，不称已有全文可读",
+          "language": "希腊语",
+          "resource_type": "institutional_manuscript_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Nicetas Bartholomew James PG105 versus115 original scan",
+        "Tite2016 EncomiumJohnBaptist proof233–246 Or7024",
+        "inventory Nicetas Blemmydes encomium titlevariants"
+      ],
+      "result": "索引127–129检查点：两篇希腊颂词原版路径待核；施洗约翰颂现代英译首尾已核。"
+    },
+    {
+      "queries": [
+        "PG105 original BookReader titleCV1862 selected images",
+        "Kuhn268269 BnF English volume versusNASSCAL blanktranslation",
+        "Munitiz BHG931 Ghent DOI Bodleian131"
+      ],
+      "result": "原扫描验证PG105；修正2条新记录并为E01 Andrew补卷号；Kuhn及Munitiz仅书目正文待取。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "supplements": [
+    {
+      "id": "ECCA-918-PG105-correction",
+      "target_id": "eclavis_e01:ECCA-918",
+      "clavis": {
+        "ECCA": "918",
+        "BHG": "106"
+      },
+      "resources": [
+        {
+          "url": "https://archive.org/details/patrologia-graeca_202105/105",
+          "edition": "PG105(1862)安得烈颂BHG106原卷复核",
+          "location": "Greek53–80，Latin54–79；leaf31/44",
+          "verified": "实际查看本卷题页CV、53/54底部OratioIV题头及79/80尾Amen；起句与Vinogradov2024§1、尾文§42相合",
+          "limits": "纠正E01所留PG105/115冲突：原版105成立；E01原工作记录保留历史，当前采用本补证；只核首尾未读所有中页",
+          "language": "希腊语／拉丁语",
+          "resource_type": "verified_historic_edition_identity",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0031.jp2&id=patrologia-graeca_202105&scale=3&rotate=0",
+          "edition": "PG105 (1862)原扫描：安得烈颂起页53/54",
+          "location": "BookReader leafNum 31",
+          "verified": "实际取得并查看该页图像；只保存路径",
+          "limits": "这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录",
+          "language": "希腊语／拉丁语",
+          "resource_type": "verified_historic_edition_page_image",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0044.jp2&id=patrologia-graeca_202105&scale=3&rotate=0",
+          "edition": "PG105 (1862)原扫描：安得烈颂终页79/80",
+          "location": "BookReader leafNum 44",
+          "verified": "实际取得并查看该页图像；只保存路径",
+          "limits": "这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录",
+          "language": "希腊语／拉丁语",
+          "resource_type": "verified_historic_edition_page_image",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://archive.org/details/patrologia-graeca_202105/105",
+          "institution": "PG105原版扫描",
+          "read_scope": "题页与安得烈首尾实图",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "next": "PG卷号冲突已据原版解决为105；俄译身份与希拉首尾已对应。"
+    }
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Encomium on John the Evangelist by Blemmydes",
+    "last_completed_ecca": "842",
+    "next_title": "Encomium on John the Theologian by Pseudo-John Chrysostom",
+    "next_ecca": "370",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-theologian-by-pseudo-john-chrysostom/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续126项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续131项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1261,15 +1261,65 @@
       "evidence": "manifest未见独立题名；巴拿巴行传与巴拿巴书信是不同作品。",
       "ordinal": 126,
       "batch": "2026-11-12-eclavis-e01"
+    },
+    {
+      "ecca": "866",
+      "title": "Encomium on Bartholomew by Nicetas of Paphlagonia",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-bartholomew-by-nicetas-of-paphlagonia/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e02:ECCA-866",
+      "evidence": "正式manifest未见本篇；中文总集Nicetas／尼基塔检索未定位，不能据相关使徒行传视作已收。",
+      "ordinal": 127,
+      "batch": "2026-11-12-eclavis-e02"
+    },
+    {
+      "ecca": "379",
+      "title": "Encomium on James Son of Alphaeus by Nicetas of Paphlagonia",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-james-son-of-alphaeus-by-nicetas-of-paphlagonia/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e02:ECCA-379",
+      "evidence": "正式manifest未见本篇；中文总集Nicetas／尼基塔检索未定位，不能据相关使徒行传视作已收。",
+      "ordinal": 128,
+      "batch": "2026-11-12-eclavis-e02"
+    },
+    {
+      "ecca": "543",
+      "title": "Encomium on John the Baptist",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-baptist/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e02:ECCA-543",
+      "evidence": "正式manifest未见独立篇；中文总集约翰颂／施洗约翰颂等未定位，第三重天零星检索结果不能证明本篇已收。",
+      "ordinal": 129,
+      "batch": "2026-11-12-eclavis-e02"
+    },
+    {
+      "ecca": "544",
+      "title": "Encomium on John the Baptist by Theodosius of Alexandria",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-baptist-by-theodosius-of-alexandria/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e02:ECCA-544",
+      "evidence": "manifest未见独立题名；中文总集Theodosius同名未定位本篇；其他约翰传说不自动覆盖。",
+      "ordinal": 130,
+      "batch": "2026-11-12-eclavis-e02"
+    },
+    {
+      "ecca": "842",
+      "title": "Encomium on John the Evangelist by Blemmydes",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-evangelist-by-blemmydes/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e02:ECCA-842",
+      "evidence": "manifest未见独立题名；中文总集Blemmydes/Munitiz检索未定位；普罗科罗约翰行传与本颂词分开。",
+      "ordinal": 131,
+      "batch": "2026-11-12-eclavis-e02"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Encomium on Barnabas by Alexander Monachus",
-    "last_completed_ecca": "693",
-    "next_title": "Encomium on Bartholomew by Nicetas of Paphlagonia",
-    "next_ecca": "866",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-bartholomew-by-nicetas-of-paphlagonia/",
+    "last_completed_title": "Encomium on John the Evangelist by Blemmydes",
+    "last_completed_ecca": "842",
+    "next_title": "Encomium on John the Theologian by Pseudo-John Chrysostom",
+    "next_ecca": "370",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-theologian-by-pseudo-john-chrysostom/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1298,7 +1348,8 @@
       "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

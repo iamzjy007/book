@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **226条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **231条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E01.md](RESOURCE-PATHS-E01.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E02.md](RESOURCE-PATHS-E02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -6148,14 +6148,23 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 
 **中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立题名；现有安得烈行传不自动覆盖本颂词。
 
-**下一步：** 核PG105/115卷号差异与俄译§1–42旧版对应；BHG100另行区分。
+**下一步：** PG卷号冲突已据原版解决为105；俄译身份与希拉首尾已对应。
 
 **来源：**
 - [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-andrew-by-nicetas-of-paphlagonia/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [PG105原版扫描](https://archive.org/details/patrologia-graeca_202105/105) — 题页与安得烈首尾实图
 
 资源路径：[Andrej Yu. Vinogradov俄译，Aspiratio1.2(2024):104–123](https://publications.hse.ru/pubs/share/direct/985644930.pdf) — 译文印108–122=PDF第5–19页；§1–42；实际读导言BHG106、译文§1开头及§42阿们结束；全文俄译可读，底本是旧版，非新希腊校本；脚注及书目将PG卷写105，而NASSCAL为115，保留卷号冲突；另一Laudatio BHG100不可混同
 
 资源路径：[Migne, PG115希腊／拉丁旧版](https://commons.wikimedia.org/wiki/File:Patrologia_Graeca_Vol._115.pdf) — cols53–80据NASSCAL；Combefis1672卷1:335–346；定位扫描对象与专目书目；未核原扫描目标页，不把PDF入口称作已读校文；现代俄译脚注卷105须后续核版
+
+资源路径：[PG105(1862)安得烈颂BHG106原卷复核](https://archive.org/details/patrologia-graeca_202105/105) — Greek53–80，Latin54–79；leaf31/44；实际查看本卷题页CV、53/54底部OratioIV题头及79/80尾Amen；起句与Vinogradov2024§1、尾文§42相合；纠正E01所留PG105/115冲突：原版105成立；E01原工作记录保留历史，当前采用本补证；只核首尾未读所有中页
+
+资源路径：[PG105 (1862)原扫描：安得烈颂起页53/54](https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0031.jp2&id=patrologia-graeca_202105&scale=3&rotate=0) — BookReader leafNum 31；实际取得并查看该页图像；只保存路径；这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录
+
+资源路径：[PG105 (1862)原扫描：安得烈颂终页79/80](https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0044.jp2&id=patrologia-graeca_202105&scale=3&rotate=0) — BookReader leafNum 44；实际取得并查看该页图像；只保存路径；这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录
+
+[补充资源调查](workers/eclavis_e02.json)，补证 `ECCA-918-PG105-correction`。
 
 [完整调查记录](workers/eclavis_e01.json)，条目 `ECCA-918`。
 
@@ -6220,3 +6229,159 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Palatinus graecus325机构数字化入口](https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_325) — fol82v–96v据专目；从专目点击到海德堡入口，实际返回Anubis Access Denied；未读手稿图像，不绕过挑战；保留机构原路径
 
 [完整调查记录](workers/eclavis_e01.json)，条目 `ECCA-693`。
+
+## e-Clavis系统扫描续查E02
+
+### 尼基塔：巴多罗买颂
+
+- **原题：** Encomium on Bartholomew by Nicetas of Paphlagonia
+- **作者／归属：** Nicetas David of Paphlagonia
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；旧拉丁译文
+
+尼基塔使徒颂词中的独立作品。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见本篇；中文总集Nicetas／尼基塔检索未定位，不能据相关使徒行传视作已收。
+
+**下一步：** PG105原扫描首尾已核；继续现代译本与中段版本核对。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-bartholomew-by-nicetas-of-paphlagonia/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [PG105原版／Internet Archive](https://archive.org/details/patrologia-graeca_202105/105) — 实际查看题页CV1862与本篇首尾扫描，纠正专目115卷号
+
+资源路径：[Migne, PG105 (1862)，希腊文与旧拉丁译文](https://archive.org/details/patrologia-graeca_202105/105) — Latin cols195–213、Greek196–214；篇首leaf102，末尾leaf111；Combefis1672卷1:392–399据专目；实际查看本卷题页CV=105及本篇首尾图像，篇题／Amen均可见；e-Clavis重复写PG115不符原卷题页；改为PG105。首尾已核，未逐页读全文，未取得现代全译。
+
+资源路径：[BnF grec1180数字化入口](https://gallica.bnf.fr/ark:/12148/btv1b10086092t) — gr1180 ff219r–224v；巴多罗买条目实点Gallica403；雅各同卷位置据专业目录；未读手稿图像，目标叶码尚未独立核图
+
+资源路径：[PG105 (1862)原扫描：巴多罗买颂起页195/196](https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0102.jp2&id=patrologia-graeca_202105&scale=3&rotate=0) — BookReader leafNum 102；实际取得并查看该页图像；只保存路径；这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录
+
+资源路径：[PG105 (1862)原扫描：巴多罗买颂终页213/214](https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0111.jp2&id=patrologia-graeca_202105&scale=3&rotate=0) — BookReader leafNum 111；实际取得并查看该页图像；只保存路径；这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录
+
+[完整调查记录](workers/eclavis_e02.json)，条目 `ECCA-866`。
+
+### 尼基塔：亚勒腓之子雅各颂
+
+- **原题：** Encomium on James Son of Alphaeus by Nicetas of Paphlagonia
+- **作者／归属：** Nicetas David of Paphlagonia
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；旧拉丁译文
+
+尼基塔使徒颂词中的独立作品。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见本篇；中文总集Nicetas／尼基塔检索未定位，不能据相关使徒行传视作已收。
+
+**下一步：** PG105原扫描首尾已核；继续现代译本与中段版本核对。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-james-son-of-alphaeus-by-nicetas-of-paphlagonia/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [PG105原版／Internet Archive](https://archive.org/details/patrologia-graeca_202105/105) — 实际查看题页CV1862与本篇首尾扫描，纠正专目115卷号
+
+资源路径：[Migne, PG105 (1862)，希腊文与旧拉丁译文](https://archive.org/details/patrologia-graeca_202105/105) — cols145–164，篇首leaf77，末尾leaf86；Combefis1672卷1:372–379据专目；实际查看本卷题页CV=105及本篇首尾图像，篇题／Amen均可见；e-Clavis重复写PG115不符原卷题页；改为PG105。首尾已核，未逐页读全文，未取得现代全译。
+
+资源路径：[BnF grec1180数字化入口](https://gallica.bnf.fr/ark:/12148/btv1b10086092t) — gr1180 ff31v–36r；巴多罗买条目实点Gallica403；雅各同卷位置据专业目录；未读手稿图像，目标叶码尚未独立核图
+
+资源路径：[PG105 (1862)原扫描：雅各颂起页145/146](https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0077.jp2&id=patrologia-graeca_202105&scale=3&rotate=0) — BookReader leafNum 77；实际取得并查看该页图像；只保存路径；这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录
+
+资源路径：[PG105 (1862)原扫描：雅各颂终页163/164](https://ia600405.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/patrologia-graeca_202105/105_jp2.zip&file=105_jp2/105_0086.jp2&id=patrologia-graeca_202105&scale=3&rotate=0) — BookReader leafNum 86；实际取得并查看该页图像；只保存路径；这是原版指定页，非现代译文，未通读全篇；图片预览仅留临时目录
+
+[完整调查记录](workers/eclavis_e02.json)，条目 `ECCA-379`。
+
+### 伪金口约翰：施洗约翰颂
+
+- **原题：** Encomium on John the Baptist
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 萨希德科普特语；英译
+
+结合约翰讲词与第三天异象的使徒回忆录。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见独立篇；中文总集约翰颂／施洗约翰颂等未定位，第三重天零星检索结果不能证明本篇已收。
+
+**下一步：** 以校样233–246对照最终出版与Or7024；巴黎片段只有部分章节，不能当完整第二版本。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-baptist/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Philip L. Tite英译，MNTA1(2016)编者所存校样](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 全章印217–246；译文233–246=PDF第283–296页（零基282–295），§1–21；实际读译者、底本说明、译文§1题头与§21.6Amen终；从 London Or7024据Budge并参考Paris碎片；是2016第三次校样，非保证与印行本逐字相同；CANT185狄奥多西颂为另一作品，不混；不复制全译
+
+资源路径：[Budge, Coptic Apocrypha (1913)旧版扫描入口](https://archive.org/details/copticapocryphai00budguoft) — 科普特文128–145；英译335–351据专业目录；已核专目与Tite对旧版的说明；本轮未读本入口目标扫描；Budge抄本985年为旧误，Tite据题记校987；保留版本差异
+
+[完整调查记录](workers/eclavis_e02.json)，条目 `ECCA-543`。
+
+### 归狄奥多西：施洗约翰颂
+
+- **原题：** Encomium on John the Baptist by Theodosius of Alexandria
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 萨希德科普特语；Kuhn英译
+
+以施洗约翰为主题的独立讲词，须与伪金口约翰CANT184分开。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立题名；中文总集Theodosius同名未定位本篇；其他约翰传说不自动覆盖。
+
+**下一步：** 取得Kuhn269英译目标正文；1966原文与1975新增残片分别核对。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-baptist-by-theodosius-of-alexandria/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[K. H. Kuhn, A Panegyric on John the Baptist attributed to Theodosius (1966)](https://catalogue.bnf.fr/ark:/12148/cb331911548) — CSCO268/Copt33科普特文；269/Copt34英译，分2卷；实际检索法国国家图书馆馆藏目录明确vol1原文／vol2英译，附馆藏路径；仅书目和馆藏，不是在线全文；页数XXII-86/II-71与出版社2022目录XXI-86/II-69有差异，暂不统一
+
+资源路径：[Peeters2022出版社目录中的Kuhn双卷](https://www.peeters-leuven.be/catalogue_download.php?n=995%24General+Catalogue+2022.pdf) — CSCO268 T／269 V；搜索索引返回出版社目录双卷书目；实际打开PDF超时；仅索引书目，未读目标全译；网站活目录269封面ISBN与该旧PDF一号偏移，ISBN待出版社具体页核对后定
+
+资源路径：[PAThs作品目录入口](https://atlas.paths-erc.eu/works/512) — CPC0513，MONB.OY／CLM829据NASSCAL；从专目实际点入返回404；未读取项目现行记录，身份与抄本范围仍据专目；不能把失效链接当图像可读
+
+[完整调查记录](workers/eclavis_e02.json)，条目 `ECCA-544`。
+
+### Blemmydes：福音作者约翰颂
+
+- **原题：** Encomium on John the Evangelist by Blemmydes
+- **作者／归属：** Nikephoros Blemmydes
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；Munitiz英译
+
+约翰福音序言释义为主、含使徒传说的拜占庭颂词。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立题名；中文总集Blemmydes/Munitiz检索未定位；普罗科罗约翰行传与本颂词分开。
+
+**下一步：** 取得Munitiz1989希英对照302–346，或核Barocci131目标原图。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-evangelist-by-blemmydes/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Joseph A. Munitiz, Blemmydes Encomium on St John the Evangelist (BHG931)](https://doi.org/10.1484/J.ABOL.4.03259) — Analecta Bollandiana107.3–4(1989):285–346；希英对照302–346据NASSCAL；从根特DBBE大学数据库实点DOI，出版方返回不可访问；正文未取得；NASSCAL作者Munitz拼写与大学目录Munitiz不同，采用大学规范署名；章节不能误作其自传或书信英译
+
+资源路径：[Ghent University DBBE论文记录](https://dbbe.ugent.be/articles/33020) — 作者Joseph A.Munitiz，卷期及页码，附出版方DOI；实际读大学项目书目及DOI链接；书目记录不是论文全文
+
+资源路径：[Oxford Bodleian MS Barocci131数字对象](https://digital.bodleian.ox.ac.uk/objects/8f71e031-ea60-436f-937b-81275c271527/) — 约1280年，ff350–353据NASSCAL；实际点击专业目录所列IMAGES至机构对象；仅对象入口可达，未核手稿图像和叶序，不称已有全文可读
+
+[完整调查记录](workers/eclavis_e02.json)，条目 `ECCA-842`。
