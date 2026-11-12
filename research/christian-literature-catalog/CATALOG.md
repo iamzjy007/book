@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **246条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **250条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E06.md](RESOURCE-PATHS-E06.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E07.md](RESOURCE-PATHS-E07.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -6821,3 +6821,115 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[JHU Virginia Fox Stern Center馆藏专题](https://sterncenter.library.jhu.edu/early-book-collections/three-pseudepigrapha/) — 列约1795英单张、约1675荷德双语单张、约1775法语稿，并提供数字化链接；实际读馆藏页书目及对Lentulus中世纪伪托的说明；本页是馆藏解说与节录；完整单张OCR另列。成书年代、历史人物真实性不能沿用正式051旧引言的猜测作定论
 
 [完整调查记录](workers/eclavis_e06.json)，条目 `ECCA-507`。
+
+## e-Clavis系统扫描续查E07
+
+### 马利亚致佛罗伦萨居民书
+
+- **原题：** Epistle of Mary to the Inhabitants of Florence
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语；另有Garshuni抄本线索
+
+托称马利亚致佛罗伦萨的极短信札，劝守信、祈祷和忍耐。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest及十卷总集Florence／佛罗伦萨／佛羅倫薩未定位本篇；不据此判断中文出版。
+
+**下一步：** 拉丁短篇全文图像已定位；继续查Garshuni稿及中文目录。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-mary-to-the-inhabitants-of-florence/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Fabricius, Codex Apocryphus Novi Testamenti I (1703)，巴伐利亚州立图书馆](https://www.digitale-sammlungen.de/en/details/bsb11399290) — 讨论851；完整拉丁短信852=扫描0956；IIIF图像bsb11399290_00956；实际查看851与852图像；852题头至apud Deum完整短信及两项异文注均可辨；信后进入其他材料；网页查看器受JavaScript限制，IIIF manifest及单页图像可用。此处是Fabricius拉丁印本，不是所列Garshuni稿本
+
+资源路径：[BSB原版第852页图像](https://api.digitale-sammlungen.de/iiif/image/v2/bsb11399290_00956/full/1000,/0/default.jpg) — 拉丁短信及页底(a)(b)异文；实际查看图像并核正文边界；Florentia开头，Deum结尾；页顶为前页讨论续文，不属于短信正文；附注异文不可混成统一正文
+
+[完整调查记录](workers/eclavis_e07.json)，条目 `ECCA-539`。
+
+### 马利亚致墨西拿居民书
+
+- **原题：** Epistle of Mary to the Inhabitants of Messina
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语、意大利语；十七世纪汉译残件、现代英译
+
+墨西拿地方圣母书信传统；存有带年月署名的长本、较短本及十七世纪汉译残件，不能互相补齐。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 总索引将本篇与佛罗伦萨都标539，详细条目明确540，采用540并保留索引原误。42年为伪托书信内部日期，非汉译或实物年代；论文推测译于1644–1646澳门，布帛寄送约1655–1662，均须保留限定。
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：2018论文639图2提供十七世纪中文布帛残件释文；原件墨西拿Museo Regionale Inv1051，约27×23厘米，约100字可辨，不是完整现代中译。
+
+**下一步：** 优先校录并考证已见历史汉译残件；各长短拉丁版本和日期异文独立处理。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-mary-to-the-inhabitants-of-messina/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Agostino Giuliano / Maurizio Scarpari, The Letter of the Madonna to the People of Messina in Chinese, Journal of Jesuit Studies5 (2018)631–641, DOI10.1163/22141332-00504008](https://www.fondazioneintorcetta.info/pdf/TheLetteroftheMadonnatothePeopleofMessinainChinese.pdf) — 中文释文639图2=PDF9；残件英译640–641=PDF10–11；1556拉丁版本及其完整英译641=PDF11；实际读取论文及附录，并查看639汉字释文图；14列中第5–7列已佚，多列残损；641完整英译对应1556拉丁文本；汉译仅为历史残件，不能把附录另一版本的完整英文倒灌为汉译全本；译者归于Saccano本人或其指导下，非确定亲笔。文章开放许可CC BY-NC，本站保存路径与定位而不复制正文
+
+资源路径：[JHU Virginia Fox Stern Center：Virgin Mary’s Fake Sicilian Letter](https://sterncenter.library.jhu.edu/early-book-collections/virgin-marys-fake-sicilian-letter/) — 十七世纪拉丁彩饰稿本介绍及其全文英译；馆方约定1674–1678，纹章进一步指向1674–1675；实际读馆方页面及整封短英译，含六月三日日期与署名；该稿与1556版和Inchofer短本分别记录；NASSCAL称无拉丁稿本与JHU所藏稿本不一致，不沿用无稿本结论；没有取得该稿逐字拉丁转录
+
+[完整调查记录](workers/eclavis_e07.json)，条目 `ECCA-540`。
+
+### 佩拉吉娅书信／传记
+
+- **原题：** Epistle of Pelagia
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 埃塞俄比亚语；英语旧译
+
+题为书信的叙事：保罗给狮子施洗，佩拉吉娅弃绝婚姻并转向禁欲生活；可读旧译结尾写丈夫自尽及她为父亲约翰祈祷。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest及十卷总集Pelagia／佩拉吉／培拉吉／柏拉姬未定位；不同圣女同名，须以保罗与狮子情节辨认。
+
+**下一步：** 旧英译全文可读；继续核2020 Čéplö新译MNTA2:343–352及埃塞俄比亚底本。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pelagia/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Fordham Internet Medieval Sourcebook / St Pachomius Library所转载Goodspeed (1904)译文](https://sourcebooks.web.fordham.edu/basis/pelagia.asp) — 页面The Epistle of Pelagia标题至末尾祈祷Amen；原刊AJSL20.2 (1904)95–108，英译105–108；实际读取该英文叙事全文，含保罗狮子、拒婚、丈夫死亡和最后祈祷；网页总题称Martyrdom of Pelagia of Caesarea；正文并未叙述佩拉吉娅死亡。是Goodspeed旧译，不是2020新译；普通sourcebooks子域受robots限制，带web子域实际可读
+
+资源路径：[Edgar J.Goodspeed, The Epistle of Pelagia, AJSL20.2 (1904)95–108](https://www.jstor.org/stable/527799) — 全文14页；英译105–108据NASSCAL与转载署名；检索结果核到原刊题名、年代和页码；本轮未读JSTOR原刊页面；不将原刊与转载文字逐字校定说成完成
+
+[完整调查记录](workers/eclavis_e07.json)，条目 `ECCA-831`。
+
+### 彼拉多致革老丢书
+
+- **原题：** Epistle of Pilate to Claudius
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语、拉丁语、叙利亚语；中文已有
+
+以彼拉多向革老丢报告耶稣奇迹、受刑、复活及守卫受贿的短札；常附《彼拉多行传》。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** component_already_in_formal_text
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式064《彼拉多行传》末尾已有独立题头“彼拉多致革老丢书”，一章9节全文实际读毕；不是此前所查尼禄续篇。
+
+**下一步：** 中文作为064组成部分已有；继续按希腊、拉丁、叙利亚版本核异文，不新列确定缺书。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-claudius/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[M.R.James (1924)英译，由Northwest Nazarene University Wesley Center刊载](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-gospels/the-gospel-of-nicodemus-or-acts-of-pilate/) — 网页末尾XIII(XXIX)之后的Epistle or Report；Pontius Pilate unto Claudius问安至末尾不信虚假报告句；实际读题前版本说明与整封英文短札，并核中文064末尾一章9节的对应内容；James说明以希腊本为基并列部分拉丁异文；不是叙利亚本全译。网页在同页包含其他篇章，不能把整页范围当成本信范围
+
+[完整调查记录](workers/eclavis_e07.json)，条目 `ECCA-259`。

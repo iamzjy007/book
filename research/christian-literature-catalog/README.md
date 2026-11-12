@@ -135,3 +135,7 @@
 ## 最新续查（2026-11-12，E06）
 
 索引第143–146项；本轮新增4条调查，非同数新缺书。详见[资源路径E06](RESOURCE-PATHS-E06.md)；下一项Epistle of Mary to the Inhabitants of Florence（ECCA539）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，E07）
+
+索引第147–150项；本轮新增4条调查，非同数新缺书。详见[资源路径E07](RESOURCE-PATHS-E07.md)；下一项Epistle of Pilate to Tiberius（ECCA585）。按用户指示，批次存档后持续推进，直至要求停止。

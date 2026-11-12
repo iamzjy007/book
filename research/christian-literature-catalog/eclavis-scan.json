@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续146项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续150项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1461,15 +1461,55 @@
       "evidence": "正式051 epistle-of-lentulus全文已读：一章16节，从问安、耶稣外貌至愿你们安好；属于已有。其旧引言的希腊原本与早期年代说未获现代校本支持，待另作校注。",
       "ordinal": 146,
       "batch": "2026-11-12-eclavis-e06"
+    },
+    {
+      "ecca": "539",
+      "title": "Epistle of Mary to the Inhabitants of Florence",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-mary-to-the-inhabitants-of-florence/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e07:ECCA-539",
+      "evidence": "manifest及十卷总集Florence／佛罗伦萨／佛羅倫薩未定位本篇；不据此判断中文出版。",
+      "ordinal": 147,
+      "batch": "2026-11-12-eclavis-e07"
+    },
+    {
+      "ecca": "540",
+      "title": "Epistle of Mary to the Inhabitants of Messina",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-mary-to-the-inhabitants-of-messina/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e07:ECCA-540",
+      "evidence": "manifest及十卷总集Messina／墨西拿未定位独立篇；但2018开放论文已刊历史汉译残件释文，不能写成中文全无。",
+      "ordinal": 148,
+      "batch": "2026-11-12-eclavis-e07"
+    },
+    {
+      "ecca": "831",
+      "title": "Epistle of Pelagia",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pelagia/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e07:ECCA-831",
+      "evidence": "manifest及十卷总集Pelagia／佩拉吉／培拉吉／柏拉姬未定位；不同圣女同名，须以保罗与狮子情节辨认。",
+      "ordinal": 149,
+      "batch": "2026-11-12-eclavis-e07"
+    },
+    {
+      "ecca": "259",
+      "title": "Epistle of Pilate to Claudius",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-claudius/",
+      "decision": "component_already_in_formal_text",
+      "record_id": "eclavis_e07:ECCA-259",
+      "evidence": "正式064《彼拉多行传》末尾已有独立题头“彼拉多致革老丢书”，一章9节全文实际读毕；不是此前所查尼禄续篇。",
+      "ordinal": 150,
+      "batch": "2026-11-12-eclavis-e07"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Epistle of Lentulus",
-    "last_completed_ecca": "507",
-    "next_title": "Epistle of Mary to the Inhabitants of Florence",
-    "next_ecca": "539",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Epistle of Pilate to Claudius",
+    "last_completed_ecca": "259",
+    "next_title": "Epistle of Pilate to Tiberius",
+    "next_ecca": "585",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1503,7 +1543,8 @@
       "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
