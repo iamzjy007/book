@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续100项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续105项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1001,15 +1001,65 @@
       "evidence": "manifest未见独立匹配；不以正典受试探故事或巴多罗买提问代替本篇。",
       "ordinal": 100,
       "batch": "2026-11-12-eclavis-d02"
+    },
+    {
+      "ecca": "425",
+      "title": "Dialogue of the Paralytic with Christ",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-paralytic-with-christ/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d03:ECCA-425",
+      "evidence": "manifest未见独立匹配；中文总集未定位本篇，不以正典医治瘫子故事替代。",
+      "ordinal": 101,
+      "batch": "2026-11-12-eclavis-d03"
+    },
+    {
+      "ecca": "487",
+      "title": "Dialogue of the Second Advent",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+      "decision": "identity_unresolved",
+      "record_id": "eclavis_d03:ECCA-487",
+      "evidence": "仅有英文题名与ECCA487，尚不能可靠对应库存中的某篇末世对话。",
+      "ordinal": 102,
+      "batch": "2026-11-12-eclavis-d03"
+    },
+    {
+      "ecca": "127",
+      "title": "Diatessaron",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/diatessaron/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d03:ECCA-127",
+      "evidence": "manifest未见独立匹配；中文总集关键词未定位同名正文，不以正典四福音库存视作已含此编排。",
+      "ordinal": 103,
+      "batch": "2026-11-12-eclavis-d03"
+    },
+    {
+      "ecca": "586",
+      "title": "Discourse of the Savior",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discourse-of-the-savior/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d03:ECCA-586",
+      "evidence": "未见manifest独立匹配；不是NHC与救主的对话ECCA362，也不是同抄本第二篇救主之舞592。",
+      "ordinal": 104,
+      "batch": "2026-11-12-eclavis-d03"
+    },
+    {
+      "ecca": "613",
+      "title": "Discovery of John the Baptist’s Head",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-john-the-baptists-head/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d03:ECCA-613",
+      "evidence": "manifest未见独立匹配；与约翰出生及斩首叙事分别调查，各语言相关文本不预设逐段等同。",
+      "ordinal": 105,
+      "batch": "2026-11-12-eclavis-d03"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Dialogue between Jesus and the Devil",
-    "last_completed_ecca": "395",
-    "next_title": "Dialogue of the Paralytic with Christ",
-    "next_ecca": "425",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-paralytic-with-christ/",
+    "last_completed_title": "Discovery of John the Baptist’s Head",
+    "last_completed_ecca": "613",
+    "next_title": "Discovery of Bartholomew’s Relics",
+    "next_ecca": "988",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-bartholomews-relics/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1032,7 +1082,8 @@
       "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

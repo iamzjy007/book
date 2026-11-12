@@ -91,3 +91,7 @@
 ## 最新续查（2026-11-12，D02）
 
 索引第96–100项；本轮新增5条调查，非同数新缺书。详见[资源路径D02](RESOURCE-PATHS-D02.md)；下一项Dialogue of the Paralytic with Christ（ECCA425）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，D03）
+
+索引第101–105项；本轮新增5条调查，非同数新缺书。详见[资源路径D03](RESOURCE-PATHS-D03.md)；下一项Discovery of Bartholomew’s Relics（ECCA988）。按用户指示，批次存档后持续推进，直至要求停止。

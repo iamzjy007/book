@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **201条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **206条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-D02.md](RESOURCE-PATHS-D02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-D03.md](RESOURCE-PATHS-D03.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -5463,3 +5463,147 @@ e-Clavis归入Modern Apocrypha；正文及传本身份待具体出版物核实�
 资源路径：[Chance Bonar / Slavomír Čéplö, MNTA3 (2023)](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — 章36–64，现代英译据专业条目；原目录核章首36；实际读前置目录；未取得36–64正文；前言文件不能标全文；1955Casey/Thomson49–65另含斯拉夫R1/R2译文，不能认为2023等同所有版本
 
 [完整调查记录](workers/eclavis_d02.json)，条目 `ECCA-395`。
+
+## e-Clavis系统扫描续查D03
+
+### 瘫子与基督对话
+
+- **原题：** Dialogue of the Paralytic with Christ
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 格鲁吉亚语及亚美尼亚语，多版本
+
+复活后基督化身旅人与瘫子交谈，最后医治他；各版本篇幅及结尾不同。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；中文总集未定位本篇，不以正典医治瘫子故事替代。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-the-paralytic-with-christ/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Bradley N. Rice, MNTA1 (2016)，作者网站第三校样](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 整章印140–157；GeoA英译149–151=PDF199–201；ArmD英译152–157=PDF202–207；实际读译者底本说明147、两译文起止；GeoA至4.8Amen，ArmD至17.3护教结语；是2016第三校样非最终排印本；GeoA据Qubaneišvili的Tbilisi A70/A153，ArmD据Oxford Arm.c3 342r–344r；不是所有异本的合成全文
+
+资源路径：[Bernard Outtier, Écrits apocryphes chrétiens II (2005)](https://wp.unil.ch/aelac/publications/pleiade/tome2/) — 项目目录章61–74；Rice书目列63–74；项目原目录前批读过，当前Rice印148书目另读63–74；e-Clavis的605–615与两项来源不符，暂不沿用；61章首页与63正文／简介起页关系待核，不声称已读法译全文
+
+[完整调查记录](workers/eclavis_d03.json)，条目 `ECCA-425`。
+
+### 再临对话（身份待核）
+
+- **原题：** Dialogue of the Second Advent
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 尚未确定
+
+索引列名，缺少独立介绍及版本信息，暂不推定内容。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** identity_unresolved
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：仅有英文题名与ECCA487，尚不能可靠对应库存中的某篇末世对话。
+
+**下一步：** 继续按其他语言题名和目录辨认身份；保留未决，不把索引记录当取得正文。
+
+**来源：**
+- [NASSCAL](https://www.nasscal.com/e-clavis-christian-apocrypha/) — 实际读取索引占位及相邻题名
+
+资源路径：[NASSCAL e-Clavis索引占位](https://www.nasscal.com/e-clavis-christian-apocrypha/) — 位于瘫子与基督对话之后、Diatessaron之前；实际读索引题名及ECCA487；精确英文题名与编号检索只回到索引；无独立链接；语言、作者、年代和译本均未确认，不能误配救主讲论或多马启示录
+
+[完整调查记录](workers/eclavis_d03.json)，条目 `ECCA-487`。
+
+### 四福音合参（塔提安）
+
+- **原题：** Diatessaron
+- **作者／归属：** 传统归于Tatian；现存阿拉伯语传本有后续传承
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 阿拉伯语传本；原作语言问题另论
+
+将四福音叙事协调编排的福音合参传统。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；中文总集关键词未定位同名正文，不以正典四福音库存视作已含此编排。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/diatessaron/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Hope W. Hogg英译，Ante-Nicene Fathers9 (1896)](https://www.newadvent.org/fathers/1002.htm) — 55节目录，正文100201.htm至100255.htm；实际读目录、译者出版信息、第1节开头及55节结尾17；首尾路径均可读；核到完整55节导航及首尾，未逐节校对；阿拉伯传本英译不能称塔提安失传原作的无缺原貌
+
+资源路径：[Hogg原译者导言在线转写](https://biblehub.com/library/hogg/the_diatessaron_of_tatian/introduction.htm) — The Text Translated / The Present Translation / The Arabic Text；实际读明确声明直接译自Ciasca1888阿拉伯文本，独立于Ciasca拉丁译和Hill1894英译；导言反映19世纪所知抄本状况，不当作现今仅存两阿拉伯抄本的结论
+
+[完整调查记录](workers/eclavis_d03.json)，条目 `ECCA-127`。
+
+### 救主论十字架奥秘的讲论
+
+- **原题：** Discourse of the Savior / Adhortatio salvatoris
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语、古努比亚语
+
+以升天前基督与使徒对话为框架，讲论十字架在末日审判中的作用。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：未见manifest独立匹配；不是NHC与救主的对话ECCA362，也不是同抄本第二篇救主之舞592。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/discourse-of-the-savior/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Tsakos / Bull / Abercrombie / Thomassen, CCO10 (2013)](https://journals.uco.es/cco/article/download/14645/13055/28931) — 文章193–209；第一篇科普特校文及英译196–204=PDF4–12，对应抄本页3–23；实际读第一篇开头及23页末Amen、分隔后24页开始第二篇；是Qasr el-Wizz科普特本；不当作古努比亚版的完整校译；OCR科普特字体失真，使用PDF图像校核
+
+资源路径：[Paul C. Dilley, MNTA1 (2016)，第三校样](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 合章184–196；第一篇译文193–194=PDF243–244；实际读1–10节至末Amen；下页195开始Dance of the Savior；主文为科普特本，脚注选列古努比亚差异，不是古努比亚完整双本全文；最终印本须另校
+
+资源路径：[Browne1983 / Griffith1913古努比亚版本书目](https://www.nasscal.com/e-clavis-christian-apocrypha/discourse-of-the-savior/) — Browne75–119；Griffith41–53；实际读专业条目，定位Berlin orient.quart1020页1–18；古努比亚底本和整篇现代英译未取得，本批不以科普特本代替
+
+[完整调查记录](workers/eclavis_d03.json)，条目 `ECCA-586`。
+
+### 发现施洗约翰的头颅
+
+- **原题：** Discovery of John the Baptist’s Head
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语、拉丁语、阿拉伯语、科普特语、叙利亚语见证
+
+发现及迁移施洗约翰头颅的圣徒遗物叙事群。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；与约翰出生及斩首叙事分别调查，各语言相关文本不预设逐段等同。
+
+**下一步：** 核PL67分篇及BHG839/840对应，继续找Steindorff扫描和PAThs科普特残篇；原Corpus Corporum入口不可达，DCO超时均非正文取得。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-john-the-baptists-head/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Migne PL67 (1848)数字转写，Dionysius Exiguus拉丁译及希腊并文](https://la.wikisource.org/wiki/De_inventione_capitis_Ioannis_Baptistae) — 序言；In primam inventionem；In secundam inventionem，后附其他发现讲论；实际读来源声明为Corpus Corporum TEI2013、拉丁序言及首次发现完整短篇（两修士至Marcellus），另读第二篇开头；页面汇集多个发现叙事和希腊并文，不把整页一概算BHG839；第二篇和后附讲论未通读；转写无校勘装置，需印本核对
+
+资源路径：[Berlin Papyrus Database P.8776](https://berlpap.smb.museum/17812-2/?lang=en) — 一张羊皮纸双面；平行Steindorff1883 156.4–157.6；实际读机构目录、10世纪、内容与双面600dpi／DFG图像链接；只核目录和图像入口，未核图像文字；这是Gesios/Isidoros残叶，不是完整希腊或拉丁叙事
+
+资源路径：[e-Clavis各语言书目](https://www.nasscal.com/e-clavis-christian-apocrypha/discovery-of-john-the-baptists-head/) — Steindorff1883 137–158；PL67栏420–430及432–454；Sinai ar409 191v–194v等；实际读阿拉伯、科普特、希腊、拉丁与叙利亚见证目录；栏号不能当页号；不同BHG/BHO文本保留区别；叙利亚语尚未刊行的说法仅按条目记录，未作穷尽检验
+
+[完整调查记录](workers/eclavis_d03.json)，条目 `ECCA-613`。

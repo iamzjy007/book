@@ -5,13 +5,13 @@
   "stop_at_3_percent_implemented": false,
   "inventory_manifest_rows": 286,
   "inventory_note": "两清单合计行数，含重复和排除条目；不是286部已收录作品。",
-  "last_checkpoint": "索引第96–100项；本轮新增5条调查，非同数新缺书。下一项Dialogue of the Paralytic with Christ ECCA425",
+  "last_checkpoint": "索引第101–105项；本轮新增5条调查，非同数新缺书。下一项Discovery of Bartholomew’s Relics ECCA988",
   "background_service_installed": false,
   "counts": {
-    "worker_records": 202,
-    "catalogue_records_after_one_merge": 201,
+    "worker_records": 207,
+    "catalogue_records_after_one_merge": 206,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 312
+    "unique_source_urls": 316
   },
   "first_phase_branches_completed": 6,
   "followup_tasks_pending": 11,
@@ -20,6 +20,6 @@
   "stop_reason": null,
   "workers_state": "当前会话单一工作者持续推进；无后台研究服务。",
   "followup_tasks_in_progress": 1,
-  "latest_session": "sessions/2026-11-12-eclavis-d02.json",
-  "latest_resource_report": "RESOURCE-PATHS-D02.md"
+  "latest_session": "sessions/2026-11-12-eclavis-d03.json",
+  "latest_resource_report": "RESOURCE-PATHS-D03.md"
 }
