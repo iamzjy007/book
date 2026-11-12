@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Dormition of the Virgin (Epitome) by Gregory of Tours",
-        "last_completed_ecca": "150",
-        "next_title": "Dormition of the Virgin, Six-Books",
-        "next_ecca": "220",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/six-books-dormition-of-the-virgin/",
+        "last_completed_title": "Dormition of the Virgin Transitus Latin W",
+        "last_completed_ecca": "701",
+        "next_title": "Dream of Nero",
+        "next_ecca": "163",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dream-of-nero/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -93,10 +93,11 @@
           "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Dormition of the Virgin, Six-Books ECCA220",
+      "next": "继续 Dream of Nero ECCA163",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -121,9 +122,10 @@
         "2026-11-12-eclavis-d02",
         "2026-11-12-eclavis-d03",
         "2026-11-12-eclavis-d04",
-        "2026-11-12-eclavis-d05"
+        "2026-11-12-eclavis-d05",
+        "2026-11-12-eclavis-d06"
       ],
-      "last_batch_records_scanned": 5,
+      "last_batch_records_scanned": 4,
       "assigned_worker": "current_session_single_worker"
     },
     {

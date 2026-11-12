@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **216条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **220条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-D05.md](RESOURCE-PATHS-D05.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-D06.md](RESOURCE-PATHS-D06.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -5901,3 +5901,129 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Raymond Van Dam, Glory of the Martyrs (Liverpool University Press,1988)](https://utpdistribution.com/9780853232360/gregory-of-tours-glory-of-the-martyrs/) — 专业条目相关译文21–22；ISBN9780853232360；实际读出版社发行渠道确认译者、1988版与译文目录；获取／采购路径，不是公开全文；当前发行页160页与旧书目150页存在计页差别，暂不拿总页数推定正文分页
 
 [完整调查记录](workers/eclavis_d05.json)，条目 `ECCA-150`。
+
+## e-Clavis系统扫描续查D06
+
+### 圣母安息六书
+
+- **原题：** Dormition of the Virgin, Six-Books / Libri VI de dormitione
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 叙利亚、阿拉伯、埃塞俄比亚、粟特语等不同见证
+
+伯利恒传统的圣母离世、礼仪纪念及游历天界叙事群；六书结构在部分抄本不全。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见以六书独立收录；正式087童女启示录30章是另一希腊启示作品，不直接算六书；与ECCA299安息书和290叙利亚安息另分。
+
+**下一步：** 继续核Lewis与Wright较完整叙利亚本及2023Göttingen底本新译；阿拉伯Vat698另见旧调查970的未配对路径，勿仅凭末世游历合并。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/six-books-dormition-of-the-virgin/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Stephen J. Shoemaker, Ancient Traditions (2002)，AppendixD](https://epub.uni-regensburg.de/53216/3/9780199210749.pdf) — 埃塞俄比亚本英译印375–396=PDF392–413；译者据Chaine1909科普斯21–49；实际读题名、底本脚注、开头主墓祈祷及末Tanse’a Krestos抄写赞辞，核与下一附录边界；这里只是埃塞俄比亚六书传承中的Chaine见证，不是全部叙利亚六书全文；方括号23–49是Chaine印页，不是段号
+
+资源路径：[Shoemaker2002 AppendixC，叙利亚重写本残篇新英译](https://epub.uni-regensburg.de/53216/3/9780199210749.pdf) — 印370–374=PDF387–391，页标S.P.151a等；实际读开头six books声明和末天界门阙至第七门缺文；只译Lewis1902刊出的Sinai syr30残片，不是CambridgeOr1287 12–69整篇，也不是Wright完整本
+
+资源路径：[Agnes Smith Lewis, Apocrypha Syriaca (1902)旧版扫描](https://archive.org/details/apocryphasyriac00goog) — CambridgeOr1287本文叙利亚2–115、英译12–69，据专业条目；实际从Tony Burke专业书目点击原扫描入口；出版社Cambridge再版简介另核原书1902；本轮未实读12–69对应扫描页；本身残缺与后补部分须核，不能称六卷全无缺
+
+资源路径：[William Wright, Departure of my Lady Mary (1865)期刊抽印本机构扫描](https://opendata.uni-halle.de/bitstream/1981185920/100348/136/146772415.pdf) — 英译原刊7卷129–160；抽印本物理页映射未核；检索有原题名页文字，实际打开是Anubis验证页；当前未读PDF，不标取得全文；不与Contributions1865另一卷中的叙利亚290或Repose299材料混同
+
+资源路径：[Shoemaker, The Dormition and Assumption of the Virgin Mary (2023)](https://www.brepols.net/products/IS-9782503606163-1) — 六书章175–233，据e-Clavis，底本Göttingen syr10；实际读出版社目录确认第二章Six Books及2023版；出版社获取路径；现代该版英译正文未取得，与2002附录版不同
+
+[完整调查记录](workers/eclavis_d06.json)，条目 `ECCA-220`。
+
+### 圣母安息（希腊R本）
+
+- **原题：** Dormition of the Virgin Transitus Greek R
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语，另有拉丁关联本
+
+带棕榈杖与秘密祷告的安息叙事，保留不同传统结合的痕迹。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；虽也归约翰，不是ECCA458那篇主墓焚香开头的伪约翰本。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-transitus-greek-r/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Shoemaker2002 AppendixB：The Earliest Greek Dormition Narrative](https://epub.uni-regensburg.de/53216/3/9780199210749.pdf) — 英译351–369=PDF368–386，1–48段；实际读题名、底本脚注（Wenger1955与Manns1989）、第1段及48段末Amen；是Vat.gr1982相关希腊R译文；不是ECCA458或全部拉丁W701；未逐字校希腊底本，作者修补见脚注
+
+资源路径：[Shoemaker2023新增翻译合集](https://www.brepols.net/products/IS-9782503606163-1) — 专业条目希腊235–256；其所列拉丁257–268与W条目重合；实际读出版社第三章Greek Revision、第四章Latin Revision目录；只核目录，无该版分页正文；拉丁相关页257–268归属需核该版，不因页码重合把CANT112与W114合并
+
+[完整调查记录](workers/eclavis_d06.json)，条目 `ECCA-428`。
+
+### 圣母安息（拉丁C本，Colbertine）
+
+- **原题：** Dormition of the Virgin Transitus Latin C
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语
+
+首尾借用伪美利托、主体压缩较早叙事的Colbertine本。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；区别于W701及伪美利托657，版本字母依学者命名系统可变。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-transitus-latin-c/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[BnF lat2672数字化入口](https://gallica.bnf.fr/ark:/12148/btv1b10721613k) — fol7v–12r，据e-Clavis；实际从专业条目点击403；未读手稿图像；不能把不可访问入口算已取得原文
+
+资源路径：[Capelle1949版本及意译书目](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-transitus-latin-c/) — 校文44–48；Erbetta I.2 480–482；Moraldi I879–884；实际读本篇身份及版本页段；网页引文模板误指LatinW，未照抄为本篇标题／作者；原校文和意译正文未取得
+
+资源路径：[Rudolph Willard1939，La ville d’Agathé？](https://www.persee.fr/doc/rebyz_1146-9447_1939_num_38_195_2940) — 论文346–354，实际读346及其Wilmart334引用；实际确认旧文称TransitusC的是Wilmart所刊九见证系统；这是研究论文，不是本Colbertine校文；旧命名C与今e-Clavis C774不得凭字母直接合并，须以抄本和底本识别
+
+[完整调查记录](workers/eclavis_d06.json)，条目 `ECCA-774`。
+
+### 圣母安息（拉丁W本）
+
+- **原题：** Dormition of the Virgin Transitus Latin W
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语，相关古英语改写
+
+与希腊R本结构平行、细节不同的安息叙事，结尾在各见证间有差异。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；不把ECCA299安息书英译当W本；相关古英语讲道还混入伪美利托尾段。
+
+**下一步：** 以G抄本p115–142和Wilmart版本识别W本；继续核2023实际正文及其他见证末段地狱游历，不将C本或古英语混成W全本。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-transitus-latin-w/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[e-codices机构馆藏详目，Lenz/Ortelli2014](https://www.e-codices.unifr.ch/en/description/csg/0732/Lenz) — St Gallen Cod.Sang732，实际p115–142，BHL5352d，Wilmart G／recensioGMPT；实际读该篇首尾标识、页码及9世纪第一季度年代，确认Wilmart1933 325–357所用G见证；e-Clavis写fol115r–142r且11世纪，与机构原目录不符；此本共98叶／194页，使用机构页码，未读手稿图像全文
+
+资源路径：[St Gallen732数字化及IIIF入口](https://www.e-codices.unifr.ch/en/list/one/csg/0732) — 机构页115–142，非叶115r–142r；详情有IIIF manifest；实际读数字对象年代、物理规模与影像导航；只核目录和图像导航，无现代英译；不能因数字阅览器存在就声称抄本逐页已读
+
+资源路径：[Shoemaker2023 The Dormition and Assumption of the Virgin Mary](https://www.brepols.net/products/IS-9782503606163-1) — 第四章The Latin Revision of the Book of Mary’s Repose；英译257–268据e-ClavisW条目；实际读出版社目录及出版信息，确认第四章与第三希腊修订本分别列出；仅获取路径，正文未取得；R条目同引257–268为Latin text，须核2023正文确定CANT112/114关系，不以页码相同合并
+
+资源路径：[Wilmart1933及古英语版本书目](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-transitus-latin-w/) — Wilmart校文323–357（机构引325–357）；Morris Blickling Homilies1874–1880 136–159；实际读原文、古英语两个分支及现代英译书目；古英语是W与伪美利托15–17的组合改写，不能当纯W拉丁本英译；Blickling英译实际未取得
+
+[完整调查记录](workers/eclavis_d06.json)，条目 `ECCA-701`。
