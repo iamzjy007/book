@@ -1,0 +1,261 @@
+{
+  "worker": "eclavis_e11",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第163–165项；本轮新增3条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-265",
+      "title_zh": "使徒书信",
+      "original_title": "Epistle of the Apostles / Epistula Apostolorum",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "埃塞俄比亚语全本；科普特语、拉丁语残存；英语、中文",
+      "synopsis": "以十一位使徒共同作证框架记耶稣事迹及复活后启示对话；科普特本有多处缺损，完整结尾据埃塞俄比亚本。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式045《使徒书信》已有51章；本轮核全部章题、1–3及51全文和译者注，确认从联名书信至升天的整体覆盖，未逐字通读全部中章。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式045《使徒书信》已有51章；本轮核全部章题、1–3及51全文和译者注，确认从联名书信至升天的整体覆盖，未逐字通读全部中章。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "整体中文已收；新科普特直译用于异文校核，继续Watson2020等后出多见证版本，不将残本当成新独立缺书。",
+      "clavis": {
+        "ECCA": "265",
+        "CANT": "22",
+        "CPC": "0034"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-apostles/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-writings/epistle-of-the-apostles/",
+          "edition": "M.R.James1924英译，NNU Wesley Center",
+          "location": "全篇1–51；导言说明依Schmidt与Guerrier、缺科普特起首借埃塞俄比亚本",
+          "verified": "实际核导言、1–3及45–51末段，51云中升天与中文045一致",
+          "limits": "页面来源标NewAdvent但译者自述和文字对应James1924；作为James译文路径记录。不是完好的单一科普特抄本全译",
+          "language": "英语",
+          "resource_type": "university_hosted_complete_composite_version_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.roger-pearse.com/weblog/wp-content/uploads/2013/01/epistula-apostolorum_alcock_2012.pdf",
+          "edition": "Anthony Alcock, Epistula Apostolorum: English Translation of the Coptic Text (2012)",
+          "location": "15页PDF；导论1–3，译文4–15；依原科普特页数9起，末至64",
+          "verified": "实际读1–3导论、4译文起首和14–15结尾，末明确The end is missing",
+          "limits": "完整翻译的是现存科普特残本，不能说原作全文完整；不补入埃塞俄比亚本1–7或49–51。PDF中的9–64主要为原抄本页码，不应误报64章",
+          "language": "英语；科普特本",
+          "resource_type": "translator_hosted_surviving_coptic_fragmentary_version_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_formal_inventory"
+    },
+    {
+      "id": "ECCA-138",
+      "title_zh": "致老底嘉人书",
+      "original_title": "Epistle to the Laodiceans",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语及中世纪诸译；英文、中文",
+      "synopsis": "托称保罗致老底嘉的约20节短信；与歌罗西4:16所提书信及穆拉多利所斥书信的身份关系不能直接等同。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式048《致老底嘉人书》一章20节，本轮全文读毕，从保罗问安至互读歌罗西书信结尾。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式048《致老底嘉人书》一章20节，本轮全文读毕，从保罗问安至互读歌罗西书信结尾。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "已有中文全篇；后续校核Fuldensis拉丁及阿拉伯等见证，不因目录异名作确定合并。",
+      "clavis": {
+        "ECCA": "138",
+        "CANT": "305"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-laodiceans/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-writings/epistle-to-the-laodiceans/",
+          "edition": "M.R.James1924完整英译，NNU Wesley Center",
+          "location": "编号1–20，原书478–480；20节互读书信后结束",
+          "verified": "实际读20节全篇并核中文048；随后Bobbio讲道片段是另一材料，不接成本信21节以后",
+          "limits": "网页将第6节误排第二个5，中文正常为6；这是显示错误，不是少一节。目录中的同名失传书身份仍保留争议",
+          "language": "英语",
+          "resource_type": "university_hosted_complete_historical_short_letter_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_formal_inventory"
+    },
+    {
+      "id": "ECCA-181",
+      "title_zh": "抹大拉马利亚隐修传",
+      "original_title": "Eremitic Life of Mary Magdalene / Narrat Josephus",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语诸版本；现代英译线索",
+      "synopsis": "记马利亚在洞穴隐居三十年、天使供养、一位司祭发现她及最后领圣餐离世；短长和插补版本须分。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立隐修传；总集隐修／隐居未命中，抹大拉马利亚命中提庇留书信而非本传；同名福音、颂或其他传记不自动等于本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立隐修传；总集隐修／隐居未命中，抹大拉马利亚命中提庇留书信而非本传；同名福音、颂或其他传记不自动等于本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "插补本完整拉丁校文已可读；优先取得2023短A英译及Cross1978:20–22、24–25，继续逐版本核。",
+      "clavis": {
+        "ECCA": "181",
+        "BHL_versions": "Short A5453–5454; Abbreviated5455; Short B5456; Interpolated另列"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/eremitic-life-of-mary-magdalene/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.persee.fr/doc/mefr_1123-9883_1992_num_104_1_3222",
+          "edition": "Guy Lobrichon, Le dossier magdalénien aux XIe-XIIe siècles, MEFRM104.1 (1992)163–180, DOI10.3406/mefr.1992.3222",
+          "location": "本篇是III Vie érémitique interpolée，177下半至180；BNF lat14363 fol177v–178v；不是163起整篇均为本传",
+          "verified": "实际读取Persée 177–180四页网页文本，并查看177、180原图；177前半为上一篇结尾。180主体以Amen结束，后另排斜体Transiit…Maximinus附尾",
+          "limits": "本校文为插补本，图像用疏排字标相对Cross短本的增文，不能改称ShortA或2023英译的底本；PDF下载表单有验证，本轮使用官方逐页文本与图像",
+          "language": "拉丁语",
+          "resource_type": "official_journal_complete_interpolated_version_edition",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://brandonwhawk.net/cv/",
+          "edition": "Brandon W.Hawk作者书目：MNTA3 (2023)130–139",
+          "location": "The Eremitic Life of Mary Magdalene；短A版英译据NASSCAL",
+          "verified": "实际读作者履历的已出版章节题名与页码，出版社目录亦有此章",
+          "limits": "作者CV没有译文正文；未取得2023短A完整英译，不以Persée插补本顶替。NASSCAL所称长本校文forthcoming本轮未找到正式出版证据",
+          "language": "英语书目",
+          "resource_type": "author_confirmed_modern_translation_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "formal04551chapter headings and first/end, formal04820verses complete",
+        "James NNU EpApostles composition version and Alcock2012 PDF4–15 fragment boundaries",
+        "Persée Lobrichon1992 official page177–180 HTML complete Latin, images177/180 actual seen",
+        "Hawk CV2023 published130–139 not full text",
+        "Index Euthymiac History see-reference points to JohnDamascus392, not a separate ECCA work"
+      ],
+      "result": "3个有独立ECCA条目推进；2篇中文已有，1篇插补拉丁全文路径。Euthymiac交叉指引单独记，不冒增独立佚书全文或重计392。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "cross_references": [
+    {
+      "label": "Euthymiac History",
+      "index_text": "Euthymiac History (see Homilies on the Dormition of the Virgin, by John of Damascus)",
+      "target_ecca": "392",
+      "target_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homilies-on-the-dormition-of-the-virgin-by-john-of-damascus/",
+      "decision": "交叉指引，无独立ECCA编号；在392主条目核II18所引III40残段，原书不能报作完整存世。",
+      "resource_note": "Shoemaker2020大学PDF331注25给Kotter536–539、Daley224–226具体定位，并质疑阿拉伯见证归属；NASSCAL所列PG114需原卷复核，暂不采用。"
+    }
+  ],
+  "supplements": [
+    {
+      "id": "ECCA-462-Bobbio-identity-qualification",
+      "target_id": "eclavis_e10:ECCA-462",
+      "resources": [
+        {
+          "url": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-writings/epistle-to-the-laodiceans/",
+          "edition": "James1924老底嘉书后附Bobbio读经片段的身份讨论",
+          "location": "20节老底嘉书后Zahn believed…至James反对意见",
+          "verified": "实际读该短篇及两种归属意见：稿本自题Colossians，Zahn曾拟认Alexandrians，James反对其为apocryphon",
+          "limits": "有可读片段不等于已经证明是失传Alexandrians正文；与既有ApocryphalColossians记录继续交叉比较，不复原佚书",
+          "language": "英语",
+          "resource_type": "disputed_identification_fragment_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "next": "现已核James所列Bobbio片段及Zahn/James相反归属意见；不能绝对断言没有任何拟认片段，亦不将它确定标为Alexandrians正文。"
+    }
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Eremitic Life of Mary Magdalene",
+    "last_completed_ecca": "181",
+    "next_title": "Ever-New Tongue",
+    "next_ecca": "209",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ever-new-tongue/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e11未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}

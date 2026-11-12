@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Epistle to the Alexandrians",
-        "last_completed_ecca": "462",
-        "next_title": "Epistle of the Apostles",
-        "next_ecca": "265",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-apostles/",
+        "last_completed_title": "Eremitic Life of Mary Magdalene",
+        "last_completed_ecca": "181",
+        "next_title": "Ever-New Tongue",
+        "next_ecca": "209",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ever-new-tongue/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -105,10 +105,11 @@
           "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-e11未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Epistle of the Apostles ECCA265",
+      "next": "继续 Ever-New Tongue ECCA209",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -145,9 +146,10 @@
         "2026-11-12-eclavis-e07",
         "2026-11-12-eclavis-e08",
         "2026-11-12-eclavis-e09",
-        "2026-11-12-eclavis-e10"
+        "2026-11-12-eclavis-e10",
+        "2026-11-12-eclavis-e11"
       ],
-      "last_batch_records_scanned": 4,
+      "last_batch_records_scanned": 3,
       "assigned_worker": "current_session_single_worker"
     },
     {

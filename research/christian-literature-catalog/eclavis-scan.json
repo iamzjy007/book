@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续162项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续165项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1621,15 +1621,45 @@
       "evidence": "教父正式018《穆拉多利正典》第29–30节实际读到致亚历山大人书及拒收语句的中文；这是书目见证而不是佚书的中文全文。不能把亚历山大的狄奥尼修信件或正典希伯来书直接充作此佚信。",
       "ordinal": 162,
       "batch": "2026-11-12-eclavis-e10"
+    },
+    {
+      "ecca": "265",
+      "title": "Epistle of the Apostles",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-apostles/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_e11:ECCA-265",
+      "evidence": "正式045《使徒书信》已有51章；本轮核全部章题、1–3及51全文和译者注，确认从联名书信至升天的整体覆盖，未逐字通读全部中章。",
+      "ordinal": 163,
+      "batch": "2026-11-12-eclavis-e11"
+    },
+    {
+      "ecca": "138",
+      "title": "Epistle to the Laodiceans",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-laodiceans/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_e11:ECCA-138",
+      "evidence": "正式048《致老底嘉人书》一章20节，本轮全文读毕，从保罗问安至互读歌罗西书信结尾。",
+      "ordinal": 164,
+      "batch": "2026-11-12-eclavis-e11"
+    },
+    {
+      "ecca": "181",
+      "title": "Eremitic Life of Mary Magdalene",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/eremitic-life-of-mary-magdalene/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e11:ECCA-181",
+      "evidence": "manifest未见独立隐修传；总集隐修／隐居未命中，抹大拉马利亚命中提庇留书信而非本传；同名福音、颂或其他传记不自动等于本篇。",
+      "ordinal": 165,
+      "batch": "2026-11-12-eclavis-e11"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Epistle to the Alexandrians",
-    "last_completed_ecca": "462",
-    "next_title": "Epistle of the Apostles",
-    "next_ecca": "265",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-apostles/",
+    "last_completed_title": "Eremitic Life of Mary Magdalene",
+    "last_completed_ecca": "181",
+    "next_title": "Ever-New Tongue",
+    "next_ecca": "209",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ever-new-tongue/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1667,7 +1697,8 @@
       "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e11未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

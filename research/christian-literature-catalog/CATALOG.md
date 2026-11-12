@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **262条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **265条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E10.md](RESOURCE-PATHS-E10.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E11.md](RESOURCE-PATHS-E11.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -7267,7 +7267,7 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 
 **中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：教父正式018《穆拉多利正典》第29–30节实际读到致亚历山大人书及拒收语句的中文；这是书目见证而不是佚书的中文全文。不能把亚历山大的狄奥尼修信件或正典希伯来书直接充作此佚信。
 
-**下一步：** 保存佚书见证；继续查身份研究及可能残篇，不列为可直接下载全文的缺书。
+**下一步：** 现已核James所列Bobbio片段及Zahn/James相反归属意见；不能绝对断言没有任何拟认片段，亦不将它确定标为Alexandrians正文。
 
 **来源：**
 - [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-alexandrians/) — 实际读取身份、概要或版本书目；未通读所列校本
@@ -7276,4 +7276,92 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 
 资源路径：[NASSCAL占位条目](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-alexandrians/) — ECCA462，Status unassigned；概要和书目为空；实际打开完整占位页并确认其空白状态；未从空白页推导年代、语言或全文可得性；见证由另列目录原文翻译提供
 
+资源路径：[James1924老底嘉书后附Bobbio读经片段的身份讨论](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-writings/epistle-to-the-laodiceans/) — 20节老底嘉书后Zahn believed…至James反对意见；实际读该短篇及两种归属意见：稿本自题Colossians，Zahn曾拟认Alexandrians，James反对其为apocryphon；有可读片段不等于已经证明是失传Alexandrians正文；与既有ApocryphalColossians记录继续交叉比较，不复原佚书
+
+[补充资源调查](workers/eclavis_e11.json)，补证 `ECCA-462-Bobbio-identity-qualification`。
+
 [完整调查记录](workers/eclavis_e10.json)，条目 `ECCA-462`。
+
+## e-Clavis系统扫描续查E11
+
+### 使徒书信
+
+- **原题：** Epistle of the Apostles / Epistula Apostolorum
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 埃塞俄比亚语全本；科普特语、拉丁语残存；英语、中文
+
+以十一位使徒共同作证框架记耶稣事迹及复活后启示对话；科普特本有多处缺损，完整结尾据埃塞俄比亚本。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式045《使徒书信》已有51章；本轮核全部章题、1–3及51全文和译者注，确认从联名书信至升天的整体覆盖，未逐字通读全部中章。
+
+**下一步：** 整体中文已收；新科普特直译用于异文校核，继续Watson2020等后出多见证版本，不将残本当成新独立缺书。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-apostles/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[M.R.James1924英译，NNU Wesley Center](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-writings/epistle-of-the-apostles/) — 全篇1–51；导言说明依Schmidt与Guerrier、缺科普特起首借埃塞俄比亚本；实际核导言、1–3及45–51末段，51云中升天与中文045一致；页面来源标NewAdvent但译者自述和文字对应James1924；作为James译文路径记录。不是完好的单一科普特抄本全译
+
+资源路径：[Anthony Alcock, Epistula Apostolorum: English Translation of the Coptic Text (2012)](https://www.roger-pearse.com/weblog/wp-content/uploads/2013/01/epistula-apostolorum_alcock_2012.pdf) — 15页PDF；导论1–3，译文4–15；依原科普特页数9起，末至64；实际读1–3导论、4译文起首和14–15结尾，末明确The end is missing；完整翻译的是现存科普特残本，不能说原作全文完整；不补入埃塞俄比亚本1–7或49–51。PDF中的9–64主要为原抄本页码，不应误报64章
+
+[完整调查记录](workers/eclavis_e11.json)，条目 `ECCA-265`。
+
+### 致老底嘉人书
+
+- **原题：** Epistle to the Laodiceans
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语及中世纪诸译；英文、中文
+
+托称保罗致老底嘉的约20节短信；与歌罗西4:16所提书信及穆拉多利所斥书信的身份关系不能直接等同。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式048《致老底嘉人书》一章20节，本轮全文读毕，从保罗问安至互读歌罗西书信结尾。
+
+**下一步：** 已有中文全篇；后续校核Fuldensis拉丁及阿拉伯等见证，不因目录异名作确定合并。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-laodiceans/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[M.R.James1924完整英译，NNU Wesley Center](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-writings/epistle-to-the-laodiceans/) — 编号1–20，原书478–480；20节互读书信后结束；实际读20节全篇并核中文048；随后Bobbio讲道片段是另一材料，不接成本信21节以后；网页将第6节误排第二个5，中文正常为6；这是显示错误，不是少一节。目录中的同名失传书身份仍保留争议
+
+[完整调查记录](workers/eclavis_e11.json)，条目 `ECCA-138`。
+
+### 抹大拉马利亚隐修传
+
+- **原题：** Eremitic Life of Mary Magdalene / Narrat Josephus
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语诸版本；现代英译线索
+
+记马利亚在洞穴隐居三十年、天使供养、一位司祭发现她及最后领圣餐离世；短长和插补版本须分。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立隐修传；总集隐修／隐居未命中，抹大拉马利亚命中提庇留书信而非本传；同名福音、颂或其他传记不自动等于本篇。
+
+**下一步：** 插补本完整拉丁校文已可读；优先取得2023短A英译及Cross1978:20–22、24–25，继续逐版本核。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/eremitic-life-of-mary-magdalene/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Guy Lobrichon, Le dossier magdalénien aux XIe-XIIe siècles, MEFRM104.1 (1992)163–180, DOI10.3406/mefr.1992.3222](https://www.persee.fr/doc/mefr_1123-9883_1992_num_104_1_3222) — 本篇是III Vie érémitique interpolée，177下半至180；BNF lat14363 fol177v–178v；不是163起整篇均为本传；实际读取Persée 177–180四页网页文本，并查看177、180原图；177前半为上一篇结尾。180主体以Amen结束，后另排斜体Transiit…Maximinus附尾；本校文为插补本，图像用疏排字标相对Cross短本的增文，不能改称ShortA或2023英译的底本；PDF下载表单有验证，本轮使用官方逐页文本与图像
+
+资源路径：[Brandon W.Hawk作者书目：MNTA3 (2023)130–139](https://brandonwhawk.net/cv/) — The Eremitic Life of Mary Magdalene；短A版英译据NASSCAL；实际读作者履历的已出版章节题名与页码，出版社目录亦有此章；作者CV没有译文正文；未取得2023短A完整英译，不以Persée插补本顶替。NASSCAL所称长本校文forthcoming本轮未找到正式出版证据
+
+[完整调查记录](workers/eclavis_e11.json)，条目 `ECCA-181`。
