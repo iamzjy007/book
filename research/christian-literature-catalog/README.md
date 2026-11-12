@@ -131,3 +131,7 @@
 ## 最新续查（2026-11-12，E05）
 
 索引第140–142项；本轮新增3条调查，非同数新缺书。详见[资源路径E05](RESOURCE-PATHS-E05.md)；下一项Epistles of Christ and Abgar（ECCA489）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，E06）
+
+索引第143–146项；本轮新增4条调查，非同数新缺书。详见[资源路径E06](RESOURCE-PATHS-E06.md)；下一项Epistle of Mary to the Inhabitants of Florence（ECCA539）。按用户指示，批次存档后持续推进，直至要求停止。

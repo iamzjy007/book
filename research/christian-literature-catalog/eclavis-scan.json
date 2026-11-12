@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续142项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续146项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1421,15 +1421,55 @@
       "evidence": "manifest与中文总集四活物颂／四无形活物／Wansink未定位；以诺书及四福音象征说明不自动覆盖本篇。",
       "ordinal": 142,
       "batch": "2026-11-12-eclavis-e05"
+    },
+    {
+      "ecca": "489",
+      "title": "Epistles of Christ and Abgar",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-christ-and-abgar/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_e06:ECCA-489",
+      "evidence": "正式044 epistles-of-king-abgar-and-jesus全文已读：两章10节；正式025《教会史》I13另有同组书信；十卷总集第214章《亚伯加传记》也有书信及达太叙事。扩写阿拉伯本不能由此视为全覆盖。",
+      "ordinal": 143,
+      "batch": "2026-11-12-eclavis-e06"
+    },
+    {
+      "ecca": "880",
+      "title": "Epistle of Christ from Heaven",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-christ-from-heaven/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e06:ECCA-880",
+      "evidence": "manifest未见独立主日书／天降书条目；十卷总集主日书／天降书／天来书未定位；普通天降字样不算本篇。",
+      "ordinal": 144,
+      "batch": "2026-11-12-eclavis-e06"
+    },
+    {
+      "ecca": "490",
+      "title": "Epistle of James to Quadratus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-james-to-quadratus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e06:ECCA-490",
+      "evidence": "manifest未见本信；十卷总集Quadratus／夸德／昆德未定位；正典雅各书不是本篇。",
+      "ordinal": 145,
+      "batch": "2026-11-12-eclavis-e06"
+    },
+    {
+      "ecca": "507",
+      "title": "Epistle of Lentulus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-lentulus/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_e06:ECCA-507",
+      "evidence": "正式051 epistle-of-lentulus全文已读：一章16节，从问安、耶稣外貌至愿你们安好；属于已有。其旧引言的希腊原本与早期年代说未获现代校本支持，待另作校注。",
+      "ordinal": 146,
+      "batch": "2026-11-12-eclavis-e06"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Encomium on the Four Bodiless Creatures by Pseudo-John Chrysostom",
-    "last_completed_ecca": "685",
-    "next_title": "Epistles of Christ and Abgar",
-    "next_ecca": "489",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-christ-and-abgar/",
+    "last_completed_title": "Epistle of Lentulus",
+    "last_completed_ecca": "507",
+    "next_title": "Epistle of Mary to the Inhabitants of Florence",
+    "next_ecca": "539",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1462,7 +1502,8 @@
       "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

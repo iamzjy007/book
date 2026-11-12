@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Encomium on the Four Bodiless Creatures by Pseudo-John Chrysostom",
-        "last_completed_ecca": "685",
-        "next_title": "Epistles of Christ and Abgar",
-        "next_ecca": "489",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-christ-and-abgar/",
+        "last_completed_title": "Epistle of Lentulus",
+        "last_completed_ecca": "507",
+        "next_title": "Epistle of Mary to the Inhabitants of Florence",
+        "next_ecca": "539",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -100,10 +100,11 @@
           "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Epistles of Christ and Abgar ECCA489",
+      "next": "继续 Epistle of Mary to the Inhabitants of Florence ECCA539",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -135,9 +136,10 @@
         "2026-11-12-eclavis-e02",
         "2026-11-12-eclavis-e03",
         "2026-11-12-eclavis-e04",
-        "2026-11-12-eclavis-e05"
+        "2026-11-12-eclavis-e05",
+        "2026-11-12-eclavis-e06"
       ],
-      "last_batch_records_scanned": 3,
+      "last_batch_records_scanned": 4,
       "assigned_worker": "current_session_single_worker"
     },
     {

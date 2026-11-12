@@ -1,0 +1,302 @@
+{
+  "worker": "eclavis_e06",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第143–146项；本轮新增4条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-489",
+      "title_zh": "基督与亚伯加王通信",
+      "original_title": "Epistles of Christ and Abgar",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、叙利亚语、阿拉伯语等；中文已收短本",
+      "synopsis": "书信传统有优西比乌短本及附画像、教堂建造等故事的扩写本。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式044 epistles-of-king-abgar-and-jesus全文已读：两章10节；正式025《教会史》I13另有同组书信；十卷总集第214章《亚伯加传记》也有书信及达太叙事。扩写阿拉伯本不能由此视为全覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式044 epistles-of-king-abgar-and-jesus全文已读：两章10节；正式025《教会史》I13另有同组书信；十卷总集第214章《亚伯加传记》也有书信及达太叙事。扩写阿拉伯本不能由此视为全覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "已收短本保留；扩写阿拉伯本和科普特护符按版本补充，不新增为确定缺书。",
+      "clavis": {
+        "ECCA": "489",
+        "CANT": "88"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-christ-and-abgar/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/250101.htm",
+          "edition": "优西比乌 Church History I13, NPNF英译",
+          "location": "I13.6–9两封书信；10以后为达太故事",
+          "verified": "实际读两封短信的题头、正文与回信结尾，与正式044中文核对",
+          "limits": "这是优西比乌所传版本，不代表全部阿拉伯、科普特护符或画像扩写本",
+          "language": "英语",
+          "resource_type": "verified_short_recension_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://journals.uco.es/cco/article/download/14724/13134/29010",
+          "edition": "Monferrer-Sala/Zomeño, Abgari regis fabulæ versio, CCO5 (2008)147–181",
+          "location": "阿拉伯校文165–172；西班牙译文172–181=PDF26–35；两封信位于172–174，随后另有画像及建堂故事",
+          "verified": "实际读封面、译文起首、两封信、画像中段及181结束Amen",
+          "limits": "NASSCAL将译文误列English并将抄本写455；原刊明确西班牙语与Sinai ar.445，按原刊记录。这里只核首尾和部分中段，未逐页通读",
+          "language": "阿拉伯语／西班牙语",
+          "resource_type": "publisher_open_expanded_recension_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_formal_inventory"
+    },
+    {
+      "id": "ECCA-880",
+      "title_zh": "天降基督书／主日书信",
+      "original_title": "Epistle of Christ from Heaven",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、拉丁语等；英译",
+      "synopsis": "围绕守主日而流传的伪托书信，多种文本传统须分别定位。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立主日书／天降书条目；十卷总集主日书／天降书／天来书未定位；普通天降字样不算本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立主日书／天降书条目；十卷总集主日书／天降书／天来书未定位；普通天降字样不算本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "现有GreekAlphaI现代英译可读；继续取得2023各recension校译，不混入近代单张。",
+      "clavis": {
+        "ECCA": "880",
+        "CANT": "311"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-christ-from-heaven/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "edition": "Calogero A.Miceli, MNTA1 (2016), 编者校样",
+          "location": "章节455–463；英译460–463=PDF510–513",
+          "verified": "实际读译文依据Paris gr929／Bittner16–21说明、460题头、462警告段及463主教结语Amen；下一篇464起",
+          "limits": "只覆盖Greek Alpha I这一见证；不能说是所有希腊、拉丁、叙利亚等版本的综合全译；未整本保存",
+          "language": "英语",
+          "resource_type": "editor_hosted_recension_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://sola.acdh.oeaw.ac.at/posts/uta-heil-ed-the-apocryphal-sunday-history-and-texts-from-late-antiquity",
+          "edition": "Uta Heil编 The Apocryphal Sunday (2023)，奥地利科学院项目页",
+          "location": "LatinII221–237、LatinI245–289、GreekAlpha291–327、GreekBeta329–386页据NASSCAL；项目页有分篇责任者目录",
+          "verified": "实际读项目公告，确认各拉丁／希腊版本独立校译及出版社链接",
+          "limits": "项目页为书目与目录，不含以上译文正文；出版社入口本轮受限，不把可读目录标为全书可读",
+          "language": "英语",
+          "resource_type": "research_project_edition_translation_catalogue",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://archive.org/download/bib_fict_4102650/bib_fict_4102650_djvu.txt",
+          "edition": "JHU Bibliotheca Fictiva约1795年英文单张，大学馆藏扫描OCR",
+          "location": "同张合刊天降书、亚伯加往复信、Lentulus书信及基督奇迹摘录",
+          "verified": "实际读该单张全部OCR：从Saturday6点休工、复制书信条款到主日书结尾",
+          "limits": "近代通俗改写本，与Miceli希腊本不可互代；OCR多误字，未核扫描原图；此版题头sixty-three years，JHU介绍文写fifty-three有差异",
+          "language": "英语",
+          "resource_type": "institution_digitized_early_print_recension",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-490",
+      "title_zh": "雅各致夸德拉图书",
+      "original_title": "Epistle of James to Quadratus",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语／亚美尼亚语；拉丁译文及现代英译线索",
+      "synopsis": "托称耶路撒冷主教雅各致意大利夸德拉图的信，和同名二世纪护教者须区别。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见本信；十卷总集Quadratus／夸德／昆德未定位；正典雅各书不是本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见本信；十卷总集Quadratus／夸德／昆德未定位；正典雅各书不是本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "拉丁全译已可读；优先取得2023现代双版本英译，核亚美尼亚旧刊386–391。",
+      "clavis": {
+        "ECCA": "490",
+        "CANT": "308"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-james-to-quadratus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/4268797",
+          "edition": "Ignatius EphraemII Rahmani, Studia SyriacaI (1904)，波恩大学馆藏",
+          "location": "拉丁译文1–2：图像4353967/4353968；叙利亚文独立编号1–2：4354094/4354093",
+          "verified": "实际查看4张图像；拉丁全文从Jacobus…Quadrato到请求答复，2下半起CaputII；叙利亚图页首尾亦已见",
+          "limits": "拉丁译对应叙利亚本；不等于亚美尼亚本翻译。叙文与拉丁各有独立1–2页，不可按PDF页面倒置；只保留路径与验证笔记",
+          "language": "叙利亚语／拉丁语",
+          "resource_type": "institution_digitized_edition_full_latin_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "edition": "Brent Landau/Bradley Rice/J.Edward Walters, MNTA3 (2023)",
+          "location": "目标章节525–534；本PDF仅19页前言目录，ix列题名及作者",
+          "verified": "实际读版权2023、ISBN9780802877932、目录525及前言说明叙利亚／亚美尼亚两本",
+          "limits": "目录预览不含525–534正文，不能报为现代英译已取得；记录作者顺序按原刊目录",
+          "language": "英语",
+          "resource_type": "editor_hosted_contents_only",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-507",
+      "title_zh": "伦图鲁书信",
+      "original_title": "Epistle of Lentulus",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语及多种译本；中文已有",
+      "synopsis": "以罗马官员名义描述耶稣外貌的伪托书信，各修订本差异应保留。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式051 epistle-of-lentulus全文已读：一章16节，从问安、耶稣外貌至愿你们安好；属于已有。其旧引言的希腊原本与早期年代说未获现代校本支持，待另作校注。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式051 epistle-of-lentulus全文已读：一章16节，从问安、耶稣外貌至愿你们安好；属于已有。其旧引言的希腊原本与早期年代说未获现代校本支持，待另作校注。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "已有中文不重列缺书；核Dobschütz各修订本与Lutz1975现代校译，并给旧引言加考证建议。",
+      "clavis": {
+        "ECCA": "507",
+        "CANT": "310"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-lentulus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/download/bib_fict_4102650/bib_fict_4102650_djvu.txt",
+          "edition": "JHU约1795年英文合刊单张中的Lentulus书信",
+          "location": "OCR末尾LENTULUS’s Epistle to the Senate of ROME独立题头至Sons of Men",
+          "verified": "实际读该独立短篇全部，和正式051中文外貌内容比对",
+          "limits": "与中文在身高、发色措辞及问安格式有异，不认定为同一底本；OCR未对原图，不用作精校定本",
+          "language": "英语",
+          "resource_type": "institution_digitized_early_print_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://sterncenter.library.jhu.edu/early-book-collections/three-pseudepigrapha/",
+          "edition": "JHU Virginia Fox Stern Center馆藏专题",
+          "location": "列约1795英单张、约1675荷德双语单张、约1775法语稿，并提供数字化链接",
+          "verified": "实际读馆藏页书目及对Lentulus中世纪伪托的说明",
+          "limits": "本页是馆藏解说与节录；完整单张OCR另列。成书年代、历史人物真实性不能沿用正式051旧引言的猜测作定论",
+          "language": "英语／荷兰语／德语／法语",
+          "resource_type": "institution_early_print_manuscript_catalogue",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "already_in_formal_inventory"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "formal044 and051 actual full Chinese; formal025I13; anthologychapter214",
+        "Abgar CCO2008 official Arabic445 Spanish172–181 not English/455",
+        "Miceli2016 Parisgr929 English460–463 actual boundaries",
+        "Bonn Rahmani1904 IIIF Latin1–2 Syriac1–2 four images",
+        "JHU Fictiva combined broadside1795 complete OCR"
+      ],
+      "result": "两项正式中文已有；两项继续候选。新增阿拉伯／西译与叙利亚／拉丁全译路径；更正阿布加尔译文语种和抄本号；保存各近代合刊文本边界。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Epistle of Lentulus",
+    "last_completed_ecca": "507",
+    "next_title": "Epistle of Mary to the Inhabitants of Florence",
+    "next_ecca": "539",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}
