@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 259,
-    "catalogue_records_after_one_merge": 258,
+    "worker_records": 263,
+    "catalogue_records_after_one_merge": 262,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 368
+    "unique_source_urls": 372
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -180,6 +180,10 @@
     {
       "path": "workers/eclavis_e09.json",
       "sha256": "57980ab5d5ad4a05fcd457e5b19ad9a116996aace9cc636f14b502b3d9683610"
+    },
+    {
+      "path": "workers/eclavis_e10.json",
+      "sha256": "6c2352e67c6cf91916cc5a0135a29747c30ef9f0e04e30ac8da4df92e1ad6a81"
     }
   ],
   "records": [
@@ -15714,6 +15718,233 @@
           "limits": "正文尚未取得；应与Agapius转译独立标记",
           "language": "英语",
           "resource_type": "editor_hosted_contents_only",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e10:ECCA-117",
+      "area": "e-Clavis系统扫描续查E10",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "保罗与塞涅卡通信",
+      "original_title": "Epistles of Paul and Seneca",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语；英语及中文已有",
+      "synopsis": "十四封伪托保罗和哲人塞涅卡的往返信，含保罗书信评价、修辞和罗马火灾材料；不同校本次序有异。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式049《保罗与塞涅卡通信》已有十四封：塞涅卡八封、保罗六封；实际核全部题头、首尾及火灾等中段。不是十四封保罗书信。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式049《保罗与塞涅卡通信》已有十四封：塞涅卡八封、保罗六封；实际核全部题头、首尾及火灾等中段。不是十四封保罗书信。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "十四封中文已有；如精校用Barlow1938拉丁校本及后出译本核次序，保留伪托年代与信中日期区别。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-paul-and-seneca/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e10.json",
+      "worker_entry_id": "ECCA-117",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "117",
+        "CANT": "306"
+      },
+      "resources": [
+        {
+          "url": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-writings/the-correspondence-of-paul-and-seneca/",
+          "edition": "M.R.James (1924)完整英译，NNU Wesley Center",
+          "location": "网页Introduction后1–14封；原书480–484",
+          "verified": "实际读14封全部，终至第14封八月朔日署年，与中文049各自编号对应",
+          "limits": "James旧译次序中的火灾信为12，与Barlow编号／部分研究称11有差别；不可将编号混为内容不同。ECW旧index.php?id=2220已404，使用本实际可读路径",
+          "language": "英语",
+          "resource_type": "university_hosted_complete_historical_fourteen_letter_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e10:ECCA-785",
+      "area": "e-Clavis系统扫描续查E10",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "彼拉多与希律通信",
+      "original_title": "Epistles of Pilate and Herod",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语、叙利亚语等；中文两信已有",
+      "synopsis": "一信写彼拉多与妻子在加利利见复活耶稣，另一信写希律家中灾难；各版本有附加段落。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "component_already_in_formal_text",
+      "repository_evidence": "正式066《彼拉多书信集》前两篇分别一章22节及19节，两封正文本轮实际读毕；十卷总集243章另有摘要。正式中文不含希腊版朗吉努斯持续受狮惩罚的尾增，也不含西奥多往复等附录。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式066《彼拉多书信集》前两篇分别一章22节及19节，两封正文本轮实际读毕；十卷总集243章另有摘要。正式中文不含希腊版朗吉努斯持续受狮惩罚的尾增，也不含西奥多往复等附录。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "两封中文主体已有；希腊尾增及叙利亚附加段落独立核，不以066标题概括所有见证。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-herod/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e10.json",
+      "worker_entry_id": "ECCA-785",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "785",
+        "CANT": "67",
+        "BHG": "779q"
+      },
+      "resources": [
+        {
+          "url": "https://archive.org/download/apocryphaanecdot05jame/apocryphaanecdot05jame_djvu.txt",
+          "edition": "W.Wright1865叙利亚本英译，由M.R.James, Apocrypha AnecdotaII (1897)重刊",
+          "location": "两信英译71–75；前置说明与THE LETTER OF PILATE TO HEROD起至Herod信末",
+          "verified": "实际读整段两信英文OCR，核Procla、十二兵、五十兵、Azbonius、耳环和印戒，和066对应",
+          "limits": "OCR未逐页精校；James明确省去叙利亚本后附三段摘录，因此这条路径不能当作西奥多往复或其他附录也已取得。希腊校本66–70另有差异",
+          "language": "英语；叙利亚本",
+          "resource_type": "digitized_historical_complete_two_letter_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e10:ECCA-587",
+      "area": "e-Clavis系统扫描续查E10",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "彼拉多与西奥多通信",
+      "original_title": "Epistles of Pilate and Theodore",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语；现代英语",
+      "synopsis": "附在叙利亚文彼拉多与希律通信后的极短问答：西奥多质问审判是否公正，彼拉多以神迹和自称王的指控作答。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式066两信及第三篇提庇留短信全文已核，不见此问答；总集西奥多命中为马可神秘福音收信人，非本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式066两信及第三篇提庇留短信全文已核，不见此问答；总集西奥多命中为马可神秘福音收信人，非本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "短篇现代英译完整可读；继续取得Wright17／24或Rahmani37／19原版，比较各见证。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-theodore/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e10.json",
+      "worker_entry_id": "ECCA-587",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "587"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-theodore/",
+          "edition": "Tony Burke据Rahmani校本所译完整问答，NASSCAL",
+          "location": "SUMMARY中The letter which Theodore wrote to Pilate题头及随后整段",
+          "verified": "实际读西奥多的两个司法问题与彼拉多两句答复，完整短篇均在该页",
+          "limits": "只覆盖条目所刊Rahmani版本；没有将其误接为James1897两信的完整附录。其来源仍不明，抄本年代不等于成书年代",
+          "language": "英语",
+          "resource_type": "scholarly_entry_complete_modern_short_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-theodore/",
+          "edition": "Wright1865与Rahmani1908叙利亚、拉丁及英语书目",
+          "location": "Wright Syriac24、English17；RahmaniII Syriac19、Latin37，据条目",
+          "verified": "实际读书目与BL Add14609 fol122r等见证表",
+          "limits": "尚未读取这些指定原刊页；只有本页Burke完整英译已核",
+          "language": "叙利亚语／拉丁语／英语",
+          "resource_type": "scholarly_edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e10:ECCA-462",
+      "area": "e-Clavis系统扫描续查E10",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "致亚历山大人书（佚书见证）",
+      "original_title": "Epistle to the Alexandrians",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "原作语言未能据存文确定；目录见证存拉丁语及译本",
+      "synopsis": "古代正典目录提及的一封托名保罗书信；本轮没有取得可归属的正文残篇，只能保存见证路径。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "patristic_testimonium_in_formal_inventory",
+      "repository_evidence": "教父正式018《穆拉多利正典》第29–30节实际读到致亚历山大人书及拒收语句的中文；这是书目见证而不是佚书的中文全文。不能把亚历山大的狄奥尼修信件或正典希伯来书直接充作此佚信。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "教父正式018《穆拉多利正典》第29–30节实际读到致亚历山大人书及拒收语句的中文；这是书目见证而不是佚书的中文全文。不能把亚历山大的狄奥尼修信件或正典希伯来书直接充作此佚信。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "保存佚书见证；继续查身份研究及可能残篇，不列为可直接下载全文的缺书。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-alexandrians/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e10.json",
+      "worker_entry_id": "ECCA-462",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "462"
+      },
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/muratorian-metzger.html",
+          "edition": "Bruce M.Metzger英译Muratorian Fragment，由Early Christian Writings刊载",
+          "location": "目录第63–67行，尤其64–65行；注6c",
+          "verified": "实际读提及Laodiceans和Alexandrians的整句及注6c，核与仓库018:29对应",
+          "limits": "该页是目录的全文，绝非Alexandrians正文；有关马吉安、句法和失传书身份仍应依研究限定，不以现代补写复原",
+          "language": "英语；拉丁目录的翻译",
+          "resource_type": "ancient_bibliographic_testimonium_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-alexandrians/",
+          "edition": "NASSCAL占位条目",
+          "location": "ECCA462，Status unassigned；概要和书目为空",
+          "verified": "实际打开完整占位页并确认其空白状态",
+          "limits": "未从空白页推导年代、语言或全文可得性；见证由另列目录原文翻译提供",
+          "language": "英语书目",
+          "resource_type": "index_identity_placeholder",
           "checked_date_beijing": "2026-11-12"
         }
       ]

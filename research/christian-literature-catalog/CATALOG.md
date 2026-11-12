@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **258条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **262条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E09.md](RESOURCE-PATHS-E09.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E10.md](RESOURCE-PATHS-E10.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -7167,3 +7167,113 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Tony Burke, MNTA3 (2023)目录预览](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — 目标章节535–548据NASSCAL；此前核过19页前言目录；19页PDF不包含本篇目标页；保存现代英译取得入口；正文尚未取得；应与Agapius转译独立标记
 
 [完整调查记录](workers/eclavis_e09.json)，条目 `ECCA-140`。
+
+## e-Clavis系统扫描续查E10
+
+### 保罗与塞涅卡通信
+
+- **原题：** Epistles of Paul and Seneca
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语；英语及中文已有
+
+十四封伪托保罗和哲人塞涅卡的往返信，含保罗书信评价、修辞和罗马火灾材料；不同校本次序有异。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式049《保罗与塞涅卡通信》已有十四封：塞涅卡八封、保罗六封；实际核全部题头、首尾及火灾等中段。不是十四封保罗书信。
+
+**下一步：** 十四封中文已有；如精校用Barlow1938拉丁校本及后出译本核次序，保留伪托年代与信中日期区别。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-paul-and-seneca/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[M.R.James (1924)完整英译，NNU Wesley Center](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-writings/the-correspondence-of-paul-and-seneca/) — 网页Introduction后1–14封；原书480–484；实际读14封全部，终至第14封八月朔日署年，与中文049各自编号对应；James旧译次序中的火灾信为12，与Barlow编号／部分研究称11有差别；不可将编号混为内容不同。ECW旧index.php?id=2220已404，使用本实际可读路径
+
+[完整调查记录](workers/eclavis_e10.json)，条目 `ECCA-117`。
+
+### 彼拉多与希律通信
+
+- **原题：** Epistles of Pilate and Herod
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语、叙利亚语等；中文两信已有
+
+一信写彼拉多与妻子在加利利见复活耶稣，另一信写希律家中灾难；各版本有附加段落。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** component_already_in_formal_text
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式066《彼拉多书信集》前两篇分别一章22节及19节，两封正文本轮实际读毕；十卷总集243章另有摘要。正式中文不含希腊版朗吉努斯持续受狮惩罚的尾增，也不含西奥多往复等附录。
+
+**下一步：** 两封中文主体已有；希腊尾增及叙利亚附加段落独立核，不以066标题概括所有见证。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-herod/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[W.Wright1865叙利亚本英译，由M.R.James, Apocrypha AnecdotaII (1897)重刊](https://archive.org/download/apocryphaanecdot05jame/apocryphaanecdot05jame_djvu.txt) — 两信英译71–75；前置说明与THE LETTER OF PILATE TO HEROD起至Herod信末；实际读整段两信英文OCR，核Procla、十二兵、五十兵、Azbonius、耳环和印戒，和066对应；OCR未逐页精校；James明确省去叙利亚本后附三段摘录，因此这条路径不能当作西奥多往复或其他附录也已取得。希腊校本66–70另有差异
+
+[完整调查记录](workers/eclavis_e10.json)，条目 `ECCA-785`。
+
+### 彼拉多与西奥多通信
+
+- **原题：** Epistles of Pilate and Theodore
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 叙利亚语；现代英语
+
+附在叙利亚文彼拉多与希律通信后的极短问答：西奥多质问审判是否公正，彼拉多以神迹和自称王的指控作答。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式066两信及第三篇提庇留短信全文已核，不见此问答；总集西奥多命中为马可神秘福音收信人，非本篇。
+
+**下一步：** 短篇现代英译完整可读；继续取得Wright17／24或Rahmani37／19原版，比较各见证。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-theodore/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Tony Burke据Rahmani校本所译完整问答，NASSCAL](https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-theodore/) — SUMMARY中The letter which Theodore wrote to Pilate题头及随后整段；实际读西奥多的两个司法问题与彼拉多两句答复，完整短篇均在该页；只覆盖条目所刊Rahmani版本；没有将其误接为James1897两信的完整附录。其来源仍不明，抄本年代不等于成书年代
+
+资源路径：[Wright1865与Rahmani1908叙利亚、拉丁及英语书目](https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-theodore/) — Wright Syriac24、English17；RahmaniII Syriac19、Latin37，据条目；实际读书目与BL Add14609 fol122r等见证表；尚未读取这些指定原刊页；只有本页Burke完整英译已核
+
+[完整调查记录](workers/eclavis_e10.json)，条目 `ECCA-587`。
+
+### 致亚历山大人书（佚书见证）
+
+- **原题：** Epistle to the Alexandrians
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 原作语言未能据存文确定；目录见证存拉丁语及译本
+
+古代正典目录提及的一封托名保罗书信；本轮没有取得可归属的正文残篇，只能保存见证路径。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** patristic_testimonium_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：教父正式018《穆拉多利正典》第29–30节实际读到致亚历山大人书及拒收语句的中文；这是书目见证而不是佚书的中文全文。不能把亚历山大的狄奥尼修信件或正典希伯来书直接充作此佚信。
+
+**下一步：** 保存佚书见证；继续查身份研究及可能残篇，不列为可直接下载全文的缺书。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-alexandrians/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Bruce M.Metzger英译Muratorian Fragment，由Early Christian Writings刊载](https://www.earlychristianwritings.com/text/muratorian-metzger.html) — 目录第63–67行，尤其64–65行；注6c；实际读提及Laodiceans和Alexandrians的整句及注6c，核与仓库018:29对应；该页是目录的全文，绝非Alexandrians正文；有关马吉安、句法和失传书身份仍应依研究限定，不以现代补写复原
+
+资源路径：[NASSCAL占位条目](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-alexandrians/) — ECCA462，Status unassigned；概要和书目为空；实际打开完整占位页并确认其空白状态；未从空白页推导年代、语言或全文可得性；见证由另列目录原文翻译提供
+
+[完整调查记录](workers/eclavis_e10.json)，条目 `ECCA-462`。

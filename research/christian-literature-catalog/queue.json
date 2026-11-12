@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Epistles of Longinus, Augustus, Ursinius, and Patrophilus",
-        "last_completed_ecca": "140",
-        "next_title": "Epistles of Paul and Seneca",
-        "next_ecca": "117",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-paul-and-seneca/",
+        "last_completed_title": "Epistle to the Alexandrians",
+        "last_completed_ecca": "462",
+        "next_title": "Epistle of the Apostles",
+        "next_ecca": "265",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-apostles/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -104,10 +104,11 @@
           "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Epistles of Paul and Seneca ECCA117",
+      "next": "继续 Epistle of the Apostles ECCA265",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -143,7 +144,8 @@
         "2026-11-12-eclavis-e06",
         "2026-11-12-eclavis-e07",
         "2026-11-12-eclavis-e08",
-        "2026-11-12-eclavis-e09"
+        "2026-11-12-eclavis-e09",
+        "2026-11-12-eclavis-e10"
       ],
       "last_batch_records_scanned": 4,
       "assigned_worker": "current_session_single_worker"

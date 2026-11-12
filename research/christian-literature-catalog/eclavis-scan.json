@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续158项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续162项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1581,15 +1581,55 @@
       "evidence": "manifest未见此组；总集朗吉努命中为彼拉多致希律书中百夫长及保罗叙事人物，帕特罗命中马加比人名，皆非这组哲人证言。",
       "ordinal": 158,
       "batch": "2026-11-12-eclavis-e09"
+    },
+    {
+      "ecca": "117",
+      "title": "Epistles of Paul and Seneca",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-paul-and-seneca/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_e10:ECCA-117",
+      "evidence": "正式049《保罗与塞涅卡通信》已有十四封：塞涅卡八封、保罗六封；实际核全部题头、首尾及火灾等中段。不是十四封保罗书信。",
+      "ordinal": 159,
+      "batch": "2026-11-12-eclavis-e10"
+    },
+    {
+      "ecca": "785",
+      "title": "Epistles of Pilate and Herod",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-herod/",
+      "decision": "component_already_in_formal_text",
+      "record_id": "eclavis_e10:ECCA-785",
+      "evidence": "正式066《彼拉多书信集》前两篇分别一章22节及19节，两封正文本轮实际读毕；十卷总集243章另有摘要。正式中文不含希腊版朗吉努斯持续受狮惩罚的尾增，也不含西奥多往复等附录。",
+      "ordinal": 160,
+      "batch": "2026-11-12-eclavis-e10"
+    },
+    {
+      "ecca": "587",
+      "title": "Epistles of Pilate and Theodore",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-pilate-and-theodore/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e10:ECCA-587",
+      "evidence": "正式066两信及第三篇提庇留短信全文已核，不见此问答；总集西奥多命中为马可神秘福音收信人，非本篇。",
+      "ordinal": 161,
+      "batch": "2026-11-12-eclavis-e10"
+    },
+    {
+      "ecca": "462",
+      "title": "Epistle to the Alexandrians",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-to-the-alexandrians/",
+      "decision": "patristic_testimonium_in_formal_inventory",
+      "record_id": "eclavis_e10:ECCA-462",
+      "evidence": "教父正式018《穆拉多利正典》第29–30节实际读到致亚历山大人书及拒收语句的中文；这是书目见证而不是佚书的中文全文。不能把亚历山大的狄奥尼修信件或正典希伯来书直接充作此佚信。",
+      "ordinal": 162,
+      "batch": "2026-11-12-eclavis-e10"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Epistles of Longinus, Augustus, Ursinius, and Patrophilus",
-    "last_completed_ecca": "140",
-    "next_title": "Epistles of Paul and Seneca",
-    "next_ecca": "117",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-paul-and-seneca/",
+    "last_completed_title": "Epistle to the Alexandrians",
+    "last_completed_ecca": "462",
+    "next_title": "Epistle of the Apostles",
+    "next_ecca": "265",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-apostles/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1626,7 +1666,8 @@
       "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e10未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
