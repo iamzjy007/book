@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **136条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **140条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-A04.md](RESOURCE-PATHS-A04.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-A05.md](RESOURCE-PATHS-A05.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -3476,3 +3476,123 @@
 资源路径：[TU11合订卷扫描](https://archive.org/download/texteunduntersuc11akad/texteunduntersuc11akad.pdf) — 第二分册IV+70页定位仍待逐页核对；Range206，PDF1.5头；metadata核卷11；文件可响应不等于分册内容已校读
 
 [完整调查记录](workers/eclavis_a04.json)，条目 `ECCA-876`。
+
+## e-Clavis系统扫描续查A05
+
+### 保罗行传（版本覆盖补证）
+
+- **原题：** Acts of Paul / Acta Pauli
+- **作者／归属：** 匿名／传统归托
+- **年代：** 二世纪作品传统；各部分与拼合关系有争议
+- **语言：** 希腊语、科普特语等残存及古译
+
+保罗传教故事的残存集合，包括独立流传的特格拉篇、哥林多三书及殉道篇；古代全书并非完整存世。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest acts-of-paul，070_保罗行传5单元；实读中文题头、第一行述及第二行述特格拉开头；目录另列哥林多三书与殉道。manifest单元数不是故事总数。
+
+**下一步：** 以1936汉堡纸草及后续Bodmer文本核现有版本缺口；不能把James1924重构当后续新见证已覆盖。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Early Christian Writings旧译转录](https://www.earlychristianwritings.com/text/actspaul.html) — 实读导论和第一、第二行述开头
+- [NASSCAL特格拉独立词条](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul-and-thecla/) — 实读身份、独立流传与所属关系，CANT211.III
+- [New Advent旧译](https://www.newadvent.org/fathers/0816.htm) — 实际读标题及以哥念开头，未全文逐行校勘
+
+资源路径：[M.R.James1924旧译网页](https://www.earlychristianwritings.com/text/actspaul.html) — 导论、第一残篇、第二行述特格拉篇等；实际打开题头、版本说明和初始正文；与正式中文开头对应；网页重构旧译，非完整古代原作；不含1936才刊布的汉堡纸草新材料
+
+资源路径：[Walker：Acts of Paul and Thecla](https://www.newadvent.org/fathers/0816.htm) — 特格拉独立篇网页；实际打开题头、以哥念开头及正文片段；对应正式070第二行述；是ECCA787/CANT211.III构件，链接本调查，不另计新缺书
+
+[完整调查记录](workers/eclavis_a05.json)，条目 `ECCA-779`。
+
+### 彼得行传（版本覆盖补证）
+
+- **原题：** Acts of Peter / Actus Vercellenses / Actus Petri cum Simone
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语残存；拉丁Vercelli本及殉道古译
+
+彼得与术士西门的较量及在罗马殉道；Vercelli主体与科普特短篇须分清。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest acts-of-peter，071_彼得行传42单元；实际读输出题头及第1章，主体从保罗在罗马起，附33–41章殉道部分。不能因英译网页另拼科普特短篇便宣称正式071也含它。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Early Christian Writings旧译](https://www.earlychristianwritings.com/text/actspeter.html) — 实际读材料分类及科普特短篇；Vercelli部分逐页覆盖仍待比对
+
+资源路径：[M.R.James1924旧译网页](https://www.earlychristianwritings.com/text/actspeter.html) — 网页先列THE COPTIC FRAGMENT，随后Vercelli部分及殉道；实际打开题头与版本说明、科普特开头及Vercelli定位；网页拼合多个材料，须分别映射；ECCA177科普特短篇已在A01登记，不重造
+
+[完整调查记录](workers/eclavis_a05.json)，条目 `ECCA-933`。
+
+### 彼得与安得烈行传（版本补证）
+
+- **原题：** Acts of Peter and Andrew / Acta Petri et Andreae
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语及科普特、斯拉夫等见证
+
+承接安得烈离开食人者城市的故事，含耕作及骆驼穿针等神迹；旧译底本有缺文。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** already_in_formal_inventory
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest acts-of-peter-and-andrew，078_彼得与安得烈行传4单元；实读题头及三章正文片段，与Walker开头对应。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-andrew/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [New Advent旧译](https://www.newadvent.org/fathers/0821.htm) — 实际读题头及正文段落；未全文校勘
+
+资源路径：[Alexander Walker旧译，New Advent转录](https://www.newadvent.org/fathers/0821.htm) — 题头From a Bodleian manuscript；网页正文；实际打开并读开头、耕作及骆驼穿针情节；据Oxford Barocci180的旧版含缺文；不代表Bonnet兼用Vat.gr1192后全体校文
+
+资源路径：[Bonnet, Acta apostolorum apocrypha2.1](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-andrew/) — pp.117–127；对照Oxford Barocci180与Vat.gr1192；实际核版本表及Barocci180缺4、11和21部分的说明；本批未打开校本扫描；仓库3章编排与学术章号须另建对照
+
+[完整调查记录](workers/eclavis_a05.json)，条目 `ECCA-755`。
+
+### 彼得与保罗行传（科普特残篇）
+
+- **原题：** Acts of Peter and Paul (Coptic) / Acta Petri et Pauli
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语
+
+已刊三叶残片叙彼得、保罗及Mastema；其他疑似见证未完成认定。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式076_彼得与保罗行传题头及首章实际从保罗由意大利近岛赴罗马起；这与BL Or.8802残片不同，不能凭同名视为已经覆盖。
+
+**下一步：** 优先取得BL Or.8802原校本230–235及法译242–244；其他候选见证保持未确认。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-paul-coptic/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Mohr Siebeck出版社](https://www.mohrsiebeck.com/en/book/coptic-apocrypha-9783162005502/) — 实际打开电子本入口及目录；未获取本篇PDF
+
+资源路径：[van Lantschoot, Les textes palimpsestes de B.M.Or.8802, Le Muséon41 (1928)](https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-paul-coptic/) — 原文230–235；法译242–244；实际核BL Or.8802及三叶残片的版本定位；尚未取得1928校本或法译正文；存续语言不直接证明原作原语
+
+资源路径：[Borg.copt.109 cass.XXVI fasc.130](https://digi.vatlib.it/view/MSS_Borg.copt.109.cass.XXVI.fasc.130) — pp.101–108（据e-Clavis；属于未确认见证）；实际打开DigiVatLib题名与viewer外壳；未读图像、未确认归属，不能把此梵蒂冈材料当已核BL三叶替代
+
+资源路径：[Coptic Apocrypha: New Frontiers–New Perspectives, 2026](https://www.mohrsiebeck.com/en/book/coptic-apocrypha-9783162005502/) — 目录含Miroshnikov, Textual Fluidity in the Coptic Apocryphal Acts of the Apostles；实际打开出版社纸本和电子本入口，目录有该研究；页面标Open Access；未打开电子书PDF；纸本页面仍forthcoming，不预断实际发行或全文可取
+
+[完整调查记录](workers/eclavis_a05.json)，条目 `ECCA-242`。

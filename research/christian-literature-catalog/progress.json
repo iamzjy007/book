@@ -5,13 +5,13 @@
   "stop_at_3_percent_implemented": false,
   "inventory_manifest_rows": 286,
   "inventory_note": "两清单合计行数，含重复和排除条目；不是286部已收录作品。",
-  "last_checkpoint": "索引第24–28项；本轮新增5条调查，非同数新缺书。下一项Acts of Paul ECCA779",
+  "last_checkpoint": "索引第29–33项；本轮新增4条调查，非同数新缺书。下一项Acts of Peter and the Twelve Apostles ECCA124",
   "background_service_installed": false,
   "counts": {
-    "worker_records": 137,
-    "catalogue_records_after_one_merge": 136,
+    "worker_records": 141,
+    "catalogue_records_after_one_merge": 140,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 189
+    "unique_source_urls": 199
   },
   "first_phase_branches_completed": 6,
   "followup_tasks_pending": 11,
@@ -20,6 +20,6 @@
   "stop_reason": null,
   "workers_state": "当前会话单一工作者持续推进；无后台研究服务。",
   "followup_tasks_in_progress": 1,
-  "latest_session": "sessions/2026-11-12-eclavis-a04.json",
-  "latest_resource_report": "RESOURCE-PATHS-A04.md"
+  "latest_session": "sessions/2026-11-12-eclavis-a05.json",
+  "latest_resource_report": "RESOURCE-PATHS-A05.md"
 }

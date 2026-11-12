@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续28项；A字母尚未完成。",
+  "scope": "索引开头连续33项；A字母尚未完成。",
   "records": [
     {
       "ordinal": 1,
@@ -281,22 +281,73 @@
       "record_id": "eclavis_a04:ECCA-876",
       "evidence": "限定manifest与参考标题无明确该作；《彼得的女儿》相关版本已有不等于整部行传已有。",
       "batch": "2026-11-12-eclavis-a04"
+    },
+    {
+      "ecca": "779",
+      "title": "Acts of Paul",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a05:ECCA-779",
+      "evidence": "正式manifest acts-of-paul，070_保罗行传5单元；实读中文题头、第一行述及第二行述特格拉开头；目录另列哥林多三书与殉道。manifest单元数不是故事总数。",
+      "ordinal": 29,
+      "batch": "2026-11-12-eclavis-a05"
+    },
+    {
+      "ecca": "787",
+      "title": "Acts of Paul and Thecla",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul-and-thecla/",
+      "decision": "component_already_in_formal_text",
+      "record_id": "eclavis_a05:ECCA-779",
+      "evidence": "正式070第二行述明确题名保罗与特格拉，实际读开头；保留独立流传身份及ECCA编号，资源归入母项779，不另增作品调查。",
+      "ordinal": 30,
+      "batch": "2026-11-12-eclavis-a05"
+    },
+    {
+      "ecca": "933",
+      "title": "Acts of Peter",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a05:ECCA-933",
+      "evidence": "manifest acts-of-peter，071_彼得行传42单元；实际读输出题头及第1章，主体从保罗在罗马起，附33–41章殉道部分。不能因英译网页另拼科普特短篇便宣称正式071也含它。",
+      "ordinal": 31,
+      "batch": "2026-11-12-eclavis-a05"
+    },
+    {
+      "ecca": "755",
+      "title": "Acts of Peter and Andrew",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-andrew/",
+      "decision": "already_in_formal_inventory",
+      "record_id": "eclavis_a05:ECCA-755",
+      "evidence": "正式manifest acts-of-peter-and-andrew，078_彼得与安得烈行传4单元；实读题头及三章正文片段，与Walker开头对应。",
+      "ordinal": 32,
+      "batch": "2026-11-12-eclavis-a05"
+    },
+    {
+      "ecca": "242",
+      "title": "Acts of Peter and Paul (Coptic)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-paul-coptic/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_a05:ECCA-242",
+      "evidence": "正式076_彼得与保罗行传题头及首章实际从保罗由意大利近岛赴罗马起；这与BL Or.8802残片不同，不能凭同名视为已经覆盖。",
+      "ordinal": 33,
+      "batch": "2026-11-12-eclavis-a05"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Acts of Nereus and Achilleus",
-    "last_completed_ecca": "876",
-    "next_title": "Acts of Paul",
-    "next_ecca": "779",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul/",
+    "last_completed_title": "Acts of Peter and Paul (Coptic)",
+    "last_completed_ecca": "242",
+    "next_title": "Acts of Peter and the Twelve Apostles",
+    "next_ecca": "124",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-the-twelve-apostles/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
       "Acts of Andrew (Latin) ECCA750构件未回查",
       "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
       "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   }
 }

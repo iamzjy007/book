@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 137,
-    "catalogue_records_after_one_merge": 136,
+    "worker_records": 141,
+    "catalogue_records_after_one_merge": 140,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 189
+    "unique_source_urls": 199
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -60,6 +60,10 @@
     {
       "path": "workers/eclavis_a04.json",
       "sha256": "f225260a4761c435dc6d30131d78ca63be8707a04452e15e014fea04cc3f0570"
+    },
+    {
+      "path": "workers/eclavis_a05.json",
+      "sha256": "4540482a18834bf5ef2194c074f43d294ab54c072f28946328d72de612d10f06"
     }
   ],
   "records": [
@@ -6843,6 +6847,307 @@
           "limits": "文件可响应不等于分册内容已校读",
           "language": "希腊语／德语",
           "resource_type": "digitized_volume",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a05:ECCA-779",
+      "area": "e-Clavis系统扫描续查A05",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "保罗行传（版本覆盖补证）",
+      "original_title": "Acts of Paul / Acta Pauli",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "二世纪作品传统；各部分与拼合关系有争议",
+      "language": "希腊语、科普特语等残存及古译",
+      "synopsis": "保罗传教故事的残存集合，包括独立流传的特格拉篇、哥林多三书及殉道篇；古代全书并非完整存世。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式manifest acts-of-paul，070_保罗行传5单元；实读中文题头、第一行述及第二行述特格拉开头；目录另列哥林多三书与殉道。manifest单元数不是故事总数。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest acts-of-paul，070_保罗行传5单元；实读中文题头、第一行述及第二行述特格拉开头；目录另列哥林多三书与殉道。manifest单元数不是故事总数。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以1936汉堡纸草及后续Bodmer文本核现有版本缺口；不能把James1924重构当后续新见证已覆盖。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/actspaul.html",
+          "institution": "Early Christian Writings旧译转录",
+          "read_scope": "实读导论和第一、第二行述开头",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul-and-thecla/",
+          "institution": "NASSCAL特格拉独立词条",
+          "read_scope": "实读身份、独立流传与所属关系，CANT211.III",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0816.htm",
+          "institution": "New Advent旧译",
+          "read_scope": "实际读标题及以哥念开头，未全文逐行校勘",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a05.json",
+      "worker_entry_id": "ECCA-779",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "779",
+        "CANT": "211"
+      },
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/actspaul.html",
+          "edition": "M.R.James1924旧译网页",
+          "location": "导论、第一残篇、第二行述特格拉篇等",
+          "verified": "实际打开题头、版本说明和初始正文；与正式中文开头对应",
+          "limits": "网页重构旧译，非完整古代原作；不含1936才刊布的汉堡纸草新材料",
+          "language": "英语",
+          "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0816.htm",
+          "edition": "Walker：Acts of Paul and Thecla",
+          "location": "特格拉独立篇网页",
+          "verified": "实际打开题头、以哥念开头及正文片段；对应正式070第二行述",
+          "limits": "是ECCA787/CANT211.III构件，链接本调查，不另计新缺书",
+          "language": "英语",
+          "resource_type": "component_online_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "relationships": [
+        {
+          "type": "has_component",
+          "ecca": "787",
+          "title": "Acts of Paul and Thecla",
+          "repo_location": "070_保罗行传，第二行述",
+          "count_policy": "扫描独立条目但不另造重复作品调查"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a05:ECCA-933",
+      "area": "e-Clavis系统扫描续查A05",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "彼得行传（版本覆盖补证）",
+      "original_title": "Acts of Peter / Actus Vercellenses / Actus Petri cum Simone",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语残存；拉丁Vercelli本及殉道古译",
+      "synopsis": "彼得与术士西门的较量及在罗马殉道；Vercelli主体与科普特短篇须分清。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "manifest acts-of-peter，071_彼得行传42单元；实际读输出题头及第1章，主体从保罗在罗马起，附33–41章殉道部分。不能因英译网页另拼科普特短篇便宣称正式071也含它。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest acts-of-peter，071_彼得行传42单元；实际读输出题头及第1章，主体从保罗在罗马起，附33–41章殉道部分。不能因英译网页另拼科普特短篇便宣称正式071也含它。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.earlychristianwritings.com/text/actspeter.html",
+          "institution": "Early Christian Writings旧译",
+          "read_scope": "实际读材料分类及科普特短篇；Vercelli部分逐页覆盖仍待比对",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a05.json",
+      "worker_entry_id": "ECCA-933",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "933",
+        "CANT": "190"
+      },
+      "resources": [
+        {
+          "url": "https://www.earlychristianwritings.com/text/actspeter.html",
+          "edition": "M.R.James1924旧译网页",
+          "location": "网页先列THE COPTIC FRAGMENT，随后Vercelli部分及殉道",
+          "verified": "实际打开题头与版本说明、科普特开头及Vercelli定位",
+          "limits": "网页拼合多个材料，须分别映射；ECCA177科普特短篇已在A01登记，不重造",
+          "language": "英语",
+          "resource_type": "online_composite_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "relationships": [
+        {
+          "type": "related_text_not_automatically_same_work",
+          "ecca": "177",
+          "record_id": "eclavis_a01:ECCA-177",
+          "title": "Act of Peter (Coptic)"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a05:ECCA-755",
+      "area": "e-Clavis系统扫描续查A05",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "彼得与安得烈行传（版本补证）",
+      "original_title": "Acts of Peter and Andrew / Acta Petri et Andreae",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语及科普特、斯拉夫等见证",
+      "synopsis": "承接安得烈离开食人者城市的故事，含耕作及骆驼穿针等神迹；旧译底本有缺文。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "already_in_formal_inventory",
+      "repository_evidence": "正式manifest acts-of-peter-and-andrew，078_彼得与安得烈行传4单元；实读题头及三章正文片段，与Walker开头对应。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest acts-of-peter-and-andrew，078_彼得与安得烈行传4单元；实读题头及三章正文片段，与Walker开头对应。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-andrew/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/0821.htm",
+          "institution": "New Advent旧译",
+          "read_scope": "实际读题头及正文段落；未全文校勘",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a05.json",
+      "worker_entry_id": "ECCA-755",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "755",
+        "CANT": "237"
+      },
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0821.htm",
+          "edition": "Alexander Walker旧译，New Advent转录",
+          "location": "题头From a Bodleian manuscript；网页正文",
+          "verified": "实际打开并读开头、耕作及骆驼穿针情节",
+          "limits": "据Oxford Barocci180的旧版含缺文；不代表Bonnet兼用Vat.gr1192后全体校文",
+          "language": "英语",
+          "resource_type": "online_old_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-andrew/",
+          "edition": "Bonnet, Acta apostolorum apocrypha2.1",
+          "location": "pp.117–127；对照Oxford Barocci180与Vat.gr1192",
+          "verified": "实际核版本表及Barocci180缺4、11和21部分的说明",
+          "limits": "本批未打开校本扫描；仓库3章编排与学术章号须另建对照",
+          "language": "希腊语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_a05:ECCA-242",
+      "area": "e-Clavis系统扫描续查A05",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "彼得与保罗行传（科普特残篇）",
+      "original_title": "Acts of Peter and Paul (Coptic) / Acta Petri et Pauli",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语",
+      "synopsis": "已刊三叶残片叙彼得、保罗及Mastema；其他疑似见证未完成认定。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式076_彼得与保罗行传题头及首章实际从保罗由意大利近岛赴罗马起；这与BL Or.8802残片不同，不能凭同名视为已经覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式076_彼得与保罗行传题头及首章实际从保罗由意大利近岛赴罗马起；这与BL Or.8802残片不同，不能凭同名视为已经覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "优先取得BL Or.8802原校本230–235及法译242–244；其他候选见证保持未确认。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-paul-coptic/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/coptic-apocrypha-9783162005502/",
+          "institution": "Mohr Siebeck出版社",
+          "read_scope": "实际打开电子本入口及目录；未获取本篇PDF",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_a05.json",
+      "worker_entry_id": "ECCA-242",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "242",
+        "CANT": "201"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-paul-coptic/",
+          "edition": "van Lantschoot, Les textes palimpsestes de B.M.Or.8802, Le Muséon41 (1928)",
+          "location": "原文230–235；法译242–244",
+          "verified": "实际核BL Or.8802及三叶残片的版本定位",
+          "limits": "尚未取得1928校本或法译正文；存续语言不直接证明原作原语",
+          "language": "科普特语／法语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://digi.vatlib.it/view/MSS_Borg.copt.109.cass.XXVI.fasc.130",
+          "edition": "Borg.copt.109 cass.XXVI fasc.130",
+          "location": "pp.101–108（据e-Clavis；属于未确认见证）",
+          "verified": "实际打开DigiVatLib题名与viewer外壳",
+          "limits": "未读图像、未确认归属，不能把此梵蒂冈材料当已核BL三叶替代",
+          "language": "科普特语",
+          "resource_type": "uncertain_manuscript_viewer",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.mohrsiebeck.com/en/book/coptic-apocrypha-9783162005502/",
+          "edition": "Coptic Apocrypha: New Frontiers–New Perspectives, 2026",
+          "location": "目录含Miroshnikov, Textual Fluidity in the Coptic Apocryphal Acts of the Apostles",
+          "verified": "实际打开出版社纸本和电子本入口，目录有该研究；页面标Open Access",
+          "limits": "未打开电子书PDF；纸本页面仍forthcoming，不预断实际发行或全文可取",
+          "language": "英语",
+          "resource_type": "publisher_research_gateway",
           "checked_date_beijing": "2026-11-12"
         }
       ]
