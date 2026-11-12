@@ -43,6 +43,6 @@
 
 ## 断点与限制
 
-下一项：[Epistle of the Presbyters and Deacons of Achaea（ECCA888）](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaia/)。当前字母区段按游标定位；未取得版本继续保留。
+下一项：[Epistle of the Presbyters and Deacons of Achaea（ECCA888）](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaea/)。当前字母区段按游标定位；未取得版本继续保留。
 
 本批未检索大陆与港台正式出版目录，不作未出版结论。实际查询、来源与访问失败见[工作记录](workers/eclavis_e08.json)。用户已要求持续推进，批次存档后继续下一项。

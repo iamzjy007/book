@@ -143,3 +143,7 @@
 ## 最新续查（2026-11-12，E08）
 
 索引第151–154项；本轮新增4条调查，非同数新缺书。详见[资源路径E08](RESOURCE-PATHS-E08.md)；下一项Epistle of the Presbyters and Deacons of Achaea（ECCA888）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，E09）
+
+索引第155–158项；本轮新增4条调查，非同数新缺书。详见[资源路径E09](RESOURCE-PATHS-E09.md)；下一项Epistles of Paul and Seneca（ECCA117）。按用户指示，批次存档后持续推进，直至要求停止。

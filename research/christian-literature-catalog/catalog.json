@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 255,
-    "catalogue_records_after_one_merge": 254,
+    "worker_records": 259,
+    "catalogue_records_after_one_merge": 258,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 364
+    "unique_source_urls": 368
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -175,7 +175,11 @@
     },
     {
       "path": "workers/eclavis_e08.json",
-      "sha256": "94eebf24d3d58c09cfd7ad89363f52509fdf7bb42150d73704a4e19c157280e2"
+      "sha256": "f3a73ef760a9a0b23e284d58fcc1dee768eaaa0bd0e78b31a6bff0819b09ffed"
+    },
+    {
+      "path": "workers/eclavis_e09.json",
+      "sha256": "57980ab5d5ad4a05fcd457e5b19ad9a116996aace9cc636f14b502b3d9683610"
     }
   ],
   "records": [
@@ -15209,7 +15213,7 @@
         "online_or_repository": "正式066《彼拉多书信集》第三篇题为“彼拉多呈报”，一章8节，实际全文核对：开头提及上次报告，含西卜先知、哲人预兆及四月朔日前第五日，正对应本信。标题Anaphora不等于其他较长呈报版本。"
       },
       "priority": "按实际版本覆盖与可得性继续核查",
-      "next": "已有中文组成部分；后续按底本核对，不据066旧总引言将本篇定为四世纪。",
+      "next": "正式066及十卷总集238均已有此完整短信；总集Hercules与日期译法须另校，原记录未列238由本补证补足。",
       "sources": [
         {
           "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
@@ -15245,6 +15249,22 @@
           "language": "英语",
           "resource_type": "scholarly_entry_complete_short_translation",
           "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://github.com/iamzjy007/book/blob/main/bible/基督教典外文献（共10册）_手机版.txt",
+          "edition": "仓库十卷总集第238章《彼拉多给提庇留的信》",
+          "location": "第238章完整短信，起问安至末尾历法日期",
+          "verified": "实际读全部中文，与正式066及Walker英译对应",
+          "limits": "总集将by Hercules处理为出身叙述、日期作四月五日，与英文和正式066不同；保存差异，不静默改写原文",
+          "language": "中文",
+          "resource_type": "repository_complete_translation_with_variant_notes",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "resource_supplements": [
+        {
+          "worker_record": "workers/eclavis_e09.json",
+          "id": "ECCA-585-anthology238-supplement"
         }
       ]
     },
@@ -15444,6 +15464,256 @@
           "limits": "未取得上述拉丁校本或完整现代译本正文，页码作为待核书目；不将Elliott概要当作全译",
           "language": "拉丁语／英语／法语",
           "resource_type": "scholarly_bibliographic_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e09:ECCA-888",
+      "area": "e-Clavis系统扫描续查E09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "亚该亚长老执事书／安得烈受难记",
+      "original_title": "Epistle of the Presbyters and Deacons of Achaea",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语、希腊语三修订本、爱尔兰语等；英语",
+      "synopsis": "以亚该亚长老执事目击证人的书信框架叙述安得烈与官长辩论、入狱和十架受难；不同修订本有扩写。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式073《安得烈行传》末尾25段殉道记属另一叙述：以使徒在狱中开始，没有本篇长老执事书信框架及前半辩论，日数、人数也不同；不能由同为安得烈殉道判为本篇全文已有。总集251章相近材料也不能当本书信全本。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式073《安得烈行传》末尾25段殉道记属另一叙述：以使徒在狱中开始，没有本篇长老执事书信框架及前半辩论，日数、人数也不同；不能由同为安得烈殉道判为本篇全文已有。总集251章相近材料也不能当本书信全本。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "旧英译完整路径已得；继续BonnetII.1:1–37多本对照及爱尔兰译本351–356，不因073同名材料取消版本待办。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaea/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e09.json",
+      "worker_entry_id": "ECCA-888",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "888",
+        "CANT": "226",
+        "BHL": "428",
+        "BHG": "93–94,94c"
+      },
+      "resources": [
+        {
+          "url": "https://ccel.org/ccel/schaff/anf08/anf08.vii.xxix.html",
+          "edition": "Alexander Walker旧英译，ANF8:511–516，CCEL",
+          "location": "题名Acts and Martyrdom of the Holy Apostle Andrew；长老执事致众教会题头至十一月三十日、末尾Amen",
+          "verified": "实际核书信起首、前半十架与圣餐辩论、中后段、Maximilla葬尸及结语；内容与正式073区分",
+          "limits": "译文依Tischendorf印本，并在注中列拉丁及Bodleian异文；不能径称未出版Greek3已取得，也不将现有073另一殉道记改写成本篇",
+          "language": "英语",
+          "resource_type": "complete_historical_translation_boundary_verified",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://metseditions.org/read/vGpvXWzSMEBwsQ1bgFmxvYf4ayB2Rg4g",
+          "edition": "Middle English Texts Series：The Martyrdom of St.Andrew导论",
+          "location": "中世纪英语改写的编辑说明；有关书信型拉丁受难记的版本关系",
+          "verified": "实际读取编辑导论检索命中，说明删改及辩论框架",
+          "limits": "本页为导论；英语诗歌改写、拉丁原书信和希腊版本分别处理，未读目标诗歌正文",
+          "language": "英语",
+          "resource_type": "scholarly_edition_introduction_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e09:ECCA-982",
+      "area": "e-Clavis系统扫描续查E09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "提庇留致彼拉多书",
+      "original_title": "Epistle of Tiberius to Pilate",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；中文摘要已有",
+      "synopsis": "皇帝因耶稣之死召回彼拉多，书信外另有押送、惩罚官长和狩猎误杀彼拉多的叙事。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "十卷总集第244章《提庇留给彼拉多的信》实际全文读毕，但其“文本”下明确写“摘要”；正式066只有反向的彼拉多致提庇留短信，不含本篇，不能标成全本已有。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "十卷总集第244章《提庇留给彼拉多的信》实际全文读毕，但其“文本”下明确写“摘要”；正式066只有反向的彼拉多致提庇留短信，不含本篇，不能标成全本已有。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "已有中文摘要不等于全译；优先取得Ehrman/Pleše2011:529–535现代英译，并据James希腊校文核摘要省略处。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-tiberius-to-pilate/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e09.json",
+      "worker_entry_id": "ECCA-982",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "982",
+        "CANT": "65 Rescriptus",
+        "BHG": "779xII"
+      },
+      "resources": [
+        {
+          "url": "https://archive.org/details/apocryphaanecdot05jame",
+          "edition": "M.R.James, Apocrypha Anecdota second series, TS5.1 (1897)，Princeton扫描",
+          "location": "希腊校文78–81；实际图像路径/download/apocryphaanecdot05jame/page/n189.jpg至n192.jpg",
+          "verified": "实际查看78题头及Raab与两千兵、79马利亚告发与召回、81鹿与箭误杀结尾Amen；读导论xlix–l的OCR",
+          "limits": "仅核首、中、尾，未逐行精校80页。Archive元数据leafNum与page/n接口有一页偏移，按实际页面为准；此校本明为希腊文，NASSCAL的James1924译Tischendorf拉丁文说不能据此承袭",
+          "language": "希腊语",
+          "resource_type": "digitized_critical_edition_boundary_verified",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://commons.ptsem.edu/id/apocryphaanecdot05jame",
+          "edition": "Princeton Theological Commons馆藏记录",
+          "location": "Apocrypha anecdota: second series,1897；数字化标识同上",
+          "verified": "机构检索结果核题名、作者与年份；直接条目本轮不可访问",
+          "limits": "馆藏页面未打开，实际原版图像由Archive镜像读取；698页为合订数字对象，非本信篇幅",
+          "language": "英语书目",
+          "resource_type": "institution_digitization_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e09:ECCA-691",
+      "area": "e-Clavis系统扫描续查E09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "伪伊格那丢与约翰、童女马利亚通信",
+      "original_title": "Epistles of Ignatius to Mary and John",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语；英语与中文已有；另有希腊／Garshuni见证线索",
+      "synopsis": "四封信：致约翰两封、致童女马利亚及马利亚回信，托称想访问圣母及耶路撒冷群体。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "component_already_in_formal_text",
+      "repository_evidence": "教父正式049《伪伊格那丢（第四世纪）》末尾四封全部实际读毕；其原译者注已经区分中世纪西方拉丁四信与晚古其他伪信。不可把前面的归信者马利亚／尼亚波利斯马利亚二信算进这四封。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "教父正式049《伪伊格那丢（第四世纪）》末尾四封全部实际读毕；其原译者注已经区分中世纪西方拉丁四信与晚古其他伪信。不可把前面的归信者马利亚／尼亚波利斯马利亚二信算进这四封。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "四封中文已有；如需精校，按中世纪拉丁校本与其他语种见证比较，勿将七封通常承认的伊格那丢书信等同本组。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-ignatius-to-mary-and-john/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e09.json",
+      "worker_entry_id": "ECCA-691",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "691"
+      },
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0114.htm",
+          "edition": "ANF1 (1885)旧英译，New Advent：Spurious Epistles",
+          "location": "同页最后四个题头：First/Second Epistle to St.John、Ignatius to Virgin Mary、Reply of Blessed Virgin",
+          "verified": "实际读四信全文至各Amen，并与中文049四信核对应",
+          "limits": "同页前面其他伪信及非圣母马利亚往复不属本组。合集文件标题第四世纪不能作为末附四封的成书日期",
+          "language": "英语",
+          "resource_type": "complete_historical_four_letter_collection_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e09:ECCA-140",
+      "area": "e-Clavis系统扫描续查E09",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "朗吉努斯、奥古斯都、乌尔西尼乌斯与帕特罗菲鲁斯书信组",
+      "original_title": "Epistles of Longinus, Augustus, Ursinius, and Patrophilus",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "叙利亚语、阿拉伯语；拉丁英译等",
+      "synopsis": "四项伪托异教哲人材料，包括东方博士往返信、受难天象证词以及师生论耶稣和门徒的对话。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见此组；总集朗吉努命中为彼拉多致希律书中百夫长及保罗叙事人物，帕特罗命中马加比人名，皆非这组哲人证言。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见此组；总集朗吉努命中为彼拉多致希律书中百夫长及保罗叙事人物，帕特罗命中马加比人名，皆非这组哲人证言。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "Agapius版本四项英语路径已读；继续eCSCO实际检索或取得Arzhanov2019及Burke2023叙利亚底本英译。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-longinus-augustus-ursinius-and-patrophilus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e09.json",
+      "worker_entry_id": "ECCA-140",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "140",
+        "CANT": "309.1–4"
+      },
+      "resources": [
+        {
+          "url": "https://www.tertullian.org/fathers/agapius_history_02_part2.htm",
+          "edition": "Agapius Universal History，Roger Pearse据Vasiliev法译转成英语",
+          "location": "网页卷内页7–8：Longinus/Augustus短信；15：Ursinus天象证词；45–46：Patrophilus与Ursinus对话",
+          "verified": "实际读两封短信、天象短证词和师生对话全部相关段落；四项均可定位于本阿拉伯编年史版本",
+          "limits": "转译自法语，并非直接叙利亚校译；Agapius另加奥古斯都致希律及希律回信，须与核心四项分开；不能冒称Arzhanov2019叙利亚本全译",
+          "language": "英语",
+          "resource_type": "translator_hosted_four_short_texts_in_arabic_chronicle_recension",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.ecsco.peeters-leuven.be/search/ENG",
+          "edition": "Peeters eCSCO现代英语语料库",
+          "location": "作品列表含Anonymous—Syriac Sayings of Greek Philosophers；2019 CSCO669 Subsidia138",
+          "verified": "实际打开英文检索入口并确认该作品可选；出版社2022目录核ISBN9789042937253",
+          "limits": "仅确认检索入口，尚未返回目标片段正文；300–301、306–311页据NASSCAL；不把可选语料当作已读全译",
+          "language": "英语／叙利亚语",
+          "resource_type": "publisher_searchable_corpus_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "edition": "Tony Burke, MNTA3 (2023)目录预览",
+          "location": "目标章节535–548据NASSCAL；此前核过19页前言目录",
+          "verified": "19页PDF不包含本篇目标页；保存现代英译取得入口",
+          "limits": "正文尚未取得；应与Agapius转译独立标记",
+          "language": "英语",
+          "resource_type": "editor_hosted_contents_only",
           "checked_date_beijing": "2026-11-12"
         }
       ]

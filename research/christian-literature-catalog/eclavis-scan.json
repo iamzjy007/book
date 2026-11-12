@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续154项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续158项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1541,15 +1541,55 @@
       "evidence": "manifest TITUS为明确排除的正典提多书；不是本篇。十卷总集伪提多／偽提多等未定位，不能由未命中断定中文从未出版。",
       "ordinal": 154,
       "batch": "2026-11-12-eclavis-e08"
+    },
+    {
+      "ecca": "888",
+      "title": "Epistle of the Presbyters and Deacons of Achaea",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaea/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e09:ECCA-888",
+      "evidence": "正式073《安得烈行传》末尾25段殉道记属另一叙述：以使徒在狱中开始，没有本篇长老执事书信框架及前半辩论，日数、人数也不同；不能由同为安得烈殉道判为本篇全文已有。总集251章相近材料也不能当本书信全本。",
+      "ordinal": 155,
+      "batch": "2026-11-12-eclavis-e09"
+    },
+    {
+      "ecca": "982",
+      "title": "Epistle of Tiberius to Pilate",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-tiberius-to-pilate/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e09:ECCA-982",
+      "evidence": "十卷总集第244章《提庇留给彼拉多的信》实际全文读毕，但其“文本”下明确写“摘要”；正式066只有反向的彼拉多致提庇留短信，不含本篇，不能标成全本已有。",
+      "ordinal": 156,
+      "batch": "2026-11-12-eclavis-e09"
+    },
+    {
+      "ecca": "691",
+      "title": "Epistles of Ignatius to Mary and John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-ignatius-to-mary-and-john/",
+      "decision": "component_already_in_formal_text",
+      "record_id": "eclavis_e09:ECCA-691",
+      "evidence": "教父正式049《伪伊格那丢（第四世纪）》末尾四封全部实际读毕；其原译者注已经区分中世纪西方拉丁四信与晚古其他伪信。不可把前面的归信者马利亚／尼亚波利斯马利亚二信算进这四封。",
+      "ordinal": 157,
+      "batch": "2026-11-12-eclavis-e09"
+    },
+    {
+      "ecca": "140",
+      "title": "Epistles of Longinus, Augustus, Ursinius, and Patrophilus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-longinus-augustus-ursinius-and-patrophilus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e09:ECCA-140",
+      "evidence": "manifest未见此组；总集朗吉努命中为彼拉多致希律书中百夫长及保罗叙事人物，帕特罗命中马加比人名，皆非这组哲人证言。",
+      "ordinal": 158,
+      "batch": "2026-11-12-eclavis-e09"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "(Apocryphal) Epistle of Titus",
-    "last_completed_ecca": "334",
-    "next_title": "Epistle of the Presbyters and Deacons of Achaea",
-    "next_ecca": "888",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaia/",
+    "last_completed_title": "Epistles of Longinus, Augustus, Ursinius, and Patrophilus",
+    "last_completed_ecca": "140",
+    "next_title": "Epistles of Paul and Seneca",
+    "next_ecca": "117",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-paul-and-seneca/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1585,7 +1625,8 @@
       "2026-11-12-eclavis-e05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e09未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

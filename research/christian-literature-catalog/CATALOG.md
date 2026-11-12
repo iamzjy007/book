@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **254条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **258条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E08.md](RESOURCE-PATHS-E08.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E09.md](RESOURCE-PATHS-E09.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -6953,7 +6953,7 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 
 **中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式066《彼拉多书信集》第三篇题为“彼拉多呈报”，一章8节，实际全文核对：开头提及上次报告，含西卜先知、哲人预兆及四月朔日前第五日，正对应本信。标题Anaphora不等于其他较长呈报版本。
 
-**下一步：** 已有中文组成部分；后续按底本核对，不据066旧总引言将本篇定为四世纪。
+**下一步：** 正式066及十卷总集238均已有此完整短信；总集Hercules与日期译法须另校，原记录未列238由本补证补足。
 
 **来源：**
 - [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/) — 实际读取身份、概要或版本书目；未通读所列校本
@@ -6961,6 +6961,10 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Alexander Walker旧英译，ANF8 (1886)，New Advent电子版](https://www.newadvent.org/fathers/0810.htm) — Letter of Pilate to Tiberius；整封短札；实际读取整封英文，从问安、神迹、门徒行为到Farewell及28th March，与正式066对应；只覆盖此拉丁短信；不能与希腊Anaphora Pilati长篇或致革老丢书互代
 
 资源路径：[NASSCAL条目所刊Elliott现代英译](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/) — 第1节完整短信；校本Tischendorf1876:433–434的书目；实际读完整短信及拉丁见证书目；现代译文只保存路径；早期作者提及彼拉多报告不能直接证明此具体短信在当时已存在
+
+资源路径：[仓库十卷总集第238章《彼拉多给提庇留的信》](https://github.com/iamzjy007/book/blob/main/bible/基督教典外文献（共10册）_手机版.txt) — 第238章完整短信，起问安至末尾历法日期；实际读全部中文，与正式066及Walker英译对应；总集将by Hercules处理为出身叙述、日期作四月五日，与英文和正式066不同；保存差异，不静默改写原文
+
+[补充资源调查](workers/eclavis_e09.json)，补证 `ECCA-585-anthology238-supplement`。
 
 [完整调查记录](workers/eclavis_e08.json)，条目 `ECCA-585`。
 
@@ -7049,3 +7053,117 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[NASSCAL校本和译本书目](https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-of-titus/) — de Bruyne, RBén37(1925)47–72，校文48–64据条目；Schneemelcher/Wilson英译第二卷53–74；Cottier法译2005第二卷1133–1171；实际读取版本书目，辨明Elliott1993:532–533仅概要；未取得上述拉丁校本或完整现代译本正文，页码作为待核书目；不将Elliott概要当作全译
 
 [完整调查记录](workers/eclavis_e08.json)，条目 `ECCA-334`。
+
+## e-Clavis系统扫描续查E09
+
+### 亚该亚长老执事书／安得烈受难记
+
+- **原题：** Epistle of the Presbyters and Deacons of Achaea
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语、希腊语三修订本、爱尔兰语等；英语
+
+以亚该亚长老执事目击证人的书信框架叙述安得烈与官长辩论、入狱和十架受难；不同修订本有扩写。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式073《安得烈行传》末尾25段殉道记属另一叙述：以使徒在狱中开始，没有本篇长老执事书信框架及前半辩论，日数、人数也不同；不能由同为安得烈殉道判为本篇全文已有。总集251章相近材料也不能当本书信全本。
+
+**下一步：** 旧英译完整路径已得；继续BonnetII.1:1–37多本对照及爱尔兰译本351–356，不因073同名材料取消版本待办。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-presbyters-and-deacons-of-achaea/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Alexander Walker旧英译，ANF8:511–516，CCEL](https://ccel.org/ccel/schaff/anf08/anf08.vii.xxix.html) — 题名Acts and Martyrdom of the Holy Apostle Andrew；长老执事致众教会题头至十一月三十日、末尾Amen；实际核书信起首、前半十架与圣餐辩论、中后段、Maximilla葬尸及结语；内容与正式073区分；译文依Tischendorf印本，并在注中列拉丁及Bodleian异文；不能径称未出版Greek3已取得，也不将现有073另一殉道记改写成本篇
+
+资源路径：[Middle English Texts Series：The Martyrdom of St.Andrew导论](https://metseditions.org/read/vGpvXWzSMEBwsQ1bgFmxvYf4ayB2Rg4g) — 中世纪英语改写的编辑说明；有关书信型拉丁受难记的版本关系；实际读取编辑导论检索命中，说明删改及辩论框架；本页为导论；英语诗歌改写、拉丁原书信和希腊版本分别处理，未读目标诗歌正文
+
+[完整调查记录](workers/eclavis_e09.json)，条目 `ECCA-888`。
+
+### 提庇留致彼拉多书
+
+- **原题：** Epistle of Tiberius to Pilate
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；中文摘要已有
+
+皇帝因耶稣之死召回彼拉多，书信外另有押送、惩罚官长和狩猎误杀彼拉多的叙事。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：十卷总集第244章《提庇留给彼拉多的信》实际全文读毕，但其“文本”下明确写“摘要”；正式066只有反向的彼拉多致提庇留短信，不含本篇，不能标成全本已有。
+
+**下一步：** 已有中文摘要不等于全译；优先取得Ehrman/Pleše2011:529–535现代英译，并据James希腊校文核摘要省略处。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-tiberius-to-pilate/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[M.R.James, Apocrypha Anecdota second series, TS5.1 (1897)，Princeton扫描](https://archive.org/details/apocryphaanecdot05jame) — 希腊校文78–81；实际图像路径/download/apocryphaanecdot05jame/page/n189.jpg至n192.jpg；实际查看78题头及Raab与两千兵、79马利亚告发与召回、81鹿与箭误杀结尾Amen；读导论xlix–l的OCR；仅核首、中、尾，未逐行精校80页。Archive元数据leafNum与page/n接口有一页偏移，按实际页面为准；此校本明为希腊文，NASSCAL的James1924译Tischendorf拉丁文说不能据此承袭
+
+资源路径：[Princeton Theological Commons馆藏记录](https://commons.ptsem.edu/id/apocryphaanecdot05jame) — Apocrypha anecdota: second series,1897；数字化标识同上；机构检索结果核题名、作者与年份；直接条目本轮不可访问；馆藏页面未打开，实际原版图像由Archive镜像读取；698页为合订数字对象，非本信篇幅
+
+[完整调查记录](workers/eclavis_e09.json)，条目 `ECCA-982`。
+
+### 伪伊格那丢与约翰、童女马利亚通信
+
+- **原题：** Epistles of Ignatius to Mary and John
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语；英语与中文已有；另有希腊／Garshuni见证线索
+
+四封信：致约翰两封、致童女马利亚及马利亚回信，托称想访问圣母及耶路撒冷群体。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** component_already_in_formal_text
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：教父正式049《伪伊格那丢（第四世纪）》末尾四封全部实际读毕；其原译者注已经区分中世纪西方拉丁四信与晚古其他伪信。不可把前面的归信者马利亚／尼亚波利斯马利亚二信算进这四封。
+
+**下一步：** 四封中文已有；如需精校，按中世纪拉丁校本与其他语种见证比较，勿将七封通常承认的伊格那丢书信等同本组。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-ignatius-to-mary-and-john/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[ANF1 (1885)旧英译，New Advent：Spurious Epistles](https://www.newadvent.org/fathers/0114.htm) — 同页最后四个题头：First/Second Epistle to St.John、Ignatius to Virgin Mary、Reply of Blessed Virgin；实际读四信全文至各Amen，并与中文049四信核对应；同页前面其他伪信及非圣母马利亚往复不属本组。合集文件标题第四世纪不能作为末附四封的成书日期
+
+[完整调查记录](workers/eclavis_e09.json)，条目 `ECCA-691`。
+
+### 朗吉努斯、奥古斯都、乌尔西尼乌斯与帕特罗菲鲁斯书信组
+
+- **原题：** Epistles of Longinus, Augustus, Ursinius, and Patrophilus
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 叙利亚语、阿拉伯语；拉丁英译等
+
+四项伪托异教哲人材料，包括东方博士往返信、受难天象证词以及师生论耶稣和门徒的对话。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见此组；总集朗吉努命中为彼拉多致希律书中百夫长及保罗叙事人物，帕特罗命中马加比人名，皆非这组哲人证言。
+
+**下一步：** Agapius版本四项英语路径已读；继续eCSCO实际检索或取得Arzhanov2019及Burke2023叙利亚底本英译。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-longinus-augustus-ursinius-and-patrophilus/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Agapius Universal History，Roger Pearse据Vasiliev法译转成英语](https://www.tertullian.org/fathers/agapius_history_02_part2.htm) — 网页卷内页7–8：Longinus/Augustus短信；15：Ursinus天象证词；45–46：Patrophilus与Ursinus对话；实际读两封短信、天象短证词和师生对话全部相关段落；四项均可定位于本阿拉伯编年史版本；转译自法语，并非直接叙利亚校译；Agapius另加奥古斯都致希律及希律回信，须与核心四项分开；不能冒称Arzhanov2019叙利亚本全译
+
+资源路径：[Peeters eCSCO现代英语语料库](https://www.ecsco.peeters-leuven.be/search/ENG) — 作品列表含Anonymous—Syriac Sayings of Greek Philosophers；2019 CSCO669 Subsidia138；实际打开英文检索入口并确认该作品可选；出版社2022目录核ISBN9789042937253；仅确认检索入口，尚未返回目标片段正文；300–301、306–311页据NASSCAL；不把可选语料当作已读全译
+
+资源路径：[Tony Burke, MNTA3 (2023)目录预览](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — 目标章节535–548据NASSCAL；此前核过19页前言目录；19页PDF不包含本篇目标页；保存现代英译取得入口；正文尚未取得；应与Agapius转译独立标记
+
+[完整调查记录](workers/eclavis_e09.json)，条目 `ECCA-140`。
