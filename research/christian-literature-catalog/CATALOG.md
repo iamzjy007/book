@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **211条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **216条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-D04.md](RESOURCE-PATHS-D04.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-D05.md](RESOURCE-PATHS-D05.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -5759,3 +5759,145 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Meyer1890及希腊抄本书目](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-luke/) — Meyer423–434中校文428–431；BHG992／992b／992c及990y／990z分列；实际读专业条目各组手稿和版次定位；只取得版本目录，Meyer对应原页未取得；不将同条目列出各篇全归同一版本
 
 [完整调查记录](workers/eclavis_d04.json)，条目 `ECCA-883`。
+
+## e-Clavis系统扫描续查D05
+
+### 彼得与约翰所述圣母安息及升天
+
+- **原题：** Dormition and Assumption of the Virgin by Peter and John
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语Bohairic，残篇
+
+归于彼得与约翰的第一人称叙事，圣母安息及升天分属两个科普特历日。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；不是伪约翰希腊安息篇，不能以同名主题合并。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-and-assumption-of-the-virgin-by-peter-and-john/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Hugh G. Evelyn White, The Monasteries of the Wadi n Natrun I (1926)](https://cdm16028.contentdm.oclc.org/digital/collection/p15324coll10/id/164454) — 印54简介；55–58七残片校文／英译；机构数字对象第110–114幅，子项164098–164102；实际逐页读54–58扫描图像；首片题名与十童女、童年耶稣异象，中片对话／应许，末片结尾Amen均核；刊行的是七残片的存世内容，大量缺文与推补仍在；未核Yale另见证和原抄本照片；不能称原作无缺全文
+
+资源路径：[Yale P.CtYBR inv.1788数字目录](https://findit.library.yale.edu/catalog/digcoll:2759455) — 8／9世纪另残片，据e-Clavis；实际由专业条目点入，403；未读图像，不能和10世纪MACA.EK认作同一抄本
+
+资源路径：[Met原书单页IIIF图像示例](https://libmma.contentdm.oclc.org/iiif/2/p15324coll10:164099/full/1500,/0/default.jpg) — 印55=子项164099；54=164098、56=164100、57=164101、58=164102；实际读取并目视核印页及科普特／英译对照；这是1926刊本图像，不是原手稿照片；只在临时目录查看指定页，交付仅保存路径
+
+[完整调查记录](workers/eclavis_d05.json)，条目 `ECCA-126`。
+
+### 圣母安息（亚美尼亚本）
+
+- **原题：** Dormition of the Virgin (Armenian) / Liber de dormitione
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 亚美尼亚语，长／短本
+
+含较长童贞赞颂的安息叙事，有长短版本，部分抄本归于尼哥底母。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；未将其他圣母安息篇当本亚美尼亚版本。
+
+**下一步：** 继续取得Vetter321–349原图，辨译文准确起止；短本另核Tayeci1898，不把Erbetta524–525摘要当译文。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-armenian/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Paul Vetter, Die armenische Dormitio Mariae，ThQ84 (1902)](https://opendigi.ub.uni-tuebingen.de/opendigi/thq_1902) — 文章321–349；机构IIIF印321=canvas328，印349=canvas356；实际读Tübingen期刊原目录与METS/IIIF页标映射，确认作者和页段；原图请求500或超时；取得机构可定位数字路径；未读正文图像，不能称德译已核全文；页面PDF按钮只是生成界面，不是直接可读PDF
+
+资源路径：[BnF Arm.117数字化入口](https://gallica.bnf.fr/ark:/12148/btv1b100882193) — 长本fol151起，据e-Clavis；条目提示Mimouni作118；实际点入403，保留专业条目抄本标识冲突；未读图像，未擅改为Arm118；Vetter长本德译与Tayeci1898卷2 451–478短本不能合并
+
+[完整调查记录](workers/eclavis_d05.json)，条目 `ECCA-283`。
+
+### 使徒约翰所述圣母安息
+
+- **原题：** Dormition of the Virgin by the Apostle John
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语及阿拉伯、格鲁吉亚、拉丁等版本
+
+圣母在主墓祈祷、使徒乘云来伯利恒，随后在耶路撒冷离世并被迁至乐园。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见本篇独立匹配；正式087童女启示录是另一末世文本，不自动覆盖安息叙事。
+
+**下一步：** 按Tischendorf希腊CANT101本对照全文；不把同网页约瑟本和伪美利托本或六书本全并入。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-the-apostle-john/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Alexander Walker英译，ANF8 (1886)网页第一篇](https://www.newadvent.org/fathers/0832.htm) — The Account of St.John the Theologian of the Falling Asleep，至The Passing of Mary题头前；实际读首段在主墓焚香及末乐园众圣、使徒颂赞Amen，核清后两拉丁本另篇边界；这里只记录网页最前一篇；不是把整页三篇都归ECCA458；其他语言异本和GreekR428仍需分别核
+
+[完整调查记录](workers/eclavis_d05.json)，条目 `ECCA-458`。
+
+### 亚利马太的约瑟所述圣母离世
+
+- **原题：** Dormition of the Virgin by Joseph of Arimathea / Transitus Mariae A
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语及相关斯拉夫传承
+
+以约瑟自述作结，含多马迟到及圣母腰带的离世升天叙事。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；不能因已有约瑟相关福音篇或伪美利托本认定本篇已经收录。
+
+**下一步：** 保留TransitusA与在线First Latin Form的实际对应，核Tischendorf113–123及相邻B1；勿照别名Second Latin Form误配。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-joseph-of-arimathea/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Alexander Walker英译，网页The Passing of Mary: First Latin Form](https://www.newadvent.org/fathers/0832.htm) — 该小标题至Second Latin Form之前；起于受难前圣母问离世，末I am Joseph自述与Amen；实际读起止、三童女Sepphora/Abigea/Zael、多马得腰带和约瑟声明；e-Clavis别名写Second Latin Form，但此网页实际第一拉丁篇正文才与约瑟本一致；明确按正文识别，不交换相邻伪美利托本ECCA657
+
+资源路径：[Tischendorf1866及现代译本书目](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-joseph-of-arimathea/) — 拉丁校本113–123；Walker1873 515–521；James1924 216–218仅摘要；实际读专业条目版本与书目；和在线正文做身份比对；原校本正文尚未读；条目西译书目称Greek text，但本篇拉丁传统不能据此改成希腊原作，需核原书
+
+[完整调查记录](workers/eclavis_d05.json)，条目 `ECCA-119`。
+
+### 图尔的格列高利所述圣母安息摘要
+
+- **原题：** Dormition of the Virgin (Epitome) by Gregory of Tours / Glor. mart.4
+- **作者／归属：** Gregory of Tours（图尔的格列高利）
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语
+
+殉道者的荣耀第4章中的短篇安息升天叙事，第8章另有回指。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；这只是格列高利书中的一章，不独立声称找到一部失传安息全书。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-epitome-by-gregory-of-tours/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[MGH Krusch编Gregorii Turonensis miracula et opera minora，SS rer.Merov.1.2数字化](https://www.dmgh.de/mgh_ss_rer_merov_1_2/index.htm#page/39/mode/1up) — 专业条目定位1939二版39及43，分别对应第4及8章；实际打开MGH官方目录，确认Miracula et opera minora数字对象；阅览器需JavaScript，未实读页39/43图像；此地址页号为定位线索，尚未核印页和图像映射及当前对象版次，不标正文已读
+
+资源路径：[Raymond Van Dam, Glory of the Martyrs (Liverpool University Press,1988)](https://utpdistribution.com/9780853232360/gregory-of-tours-glory-of-the-martyrs/) — 专业条目相关译文21–22；ISBN9780853232360；实际读出版社发行渠道确认译者、1988版与译文目录；获取／采购路径，不是公开全文；当前发行页160页与旧书目150页存在计页差别，暂不拿总页数推定正文分页
+
+[完整调查记录](workers/eclavis_d05.json)，条目 `ECCA-150`。

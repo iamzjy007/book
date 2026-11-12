@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续110项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续115项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1101,15 +1101,65 @@
       "evidence": "manifest未见独立匹配；不以路加福音、使徒行传或路加殉道其他传承代替。",
       "ordinal": 110,
       "batch": "2026-11-12-eclavis-d04"
+    },
+    {
+      "ecca": "126",
+      "title": "Dormition and Assumption of the Virgin by Peter and John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-and-assumption-of-the-virgin-by-peter-and-john/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d05:ECCA-126",
+      "evidence": "manifest未见独立匹配；不是伪约翰希腊安息篇，不能以同名主题合并。",
+      "ordinal": 111,
+      "batch": "2026-11-12-eclavis-d05"
+    },
+    {
+      "ecca": "283",
+      "title": "Dormition of the Virgin (Armenian)",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-armenian/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d05:ECCA-283",
+      "evidence": "manifest未见独立匹配；未将其他圣母安息篇当本亚美尼亚版本。",
+      "ordinal": 112,
+      "batch": "2026-11-12-eclavis-d05"
+    },
+    {
+      "ecca": "458",
+      "title": "Dormition of the Virgin by the Apostle John",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-the-apostle-john/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d05:ECCA-458",
+      "evidence": "manifest未见本篇独立匹配；正式087童女启示录是另一末世文本，不自动覆盖安息叙事。",
+      "ordinal": 113,
+      "batch": "2026-11-12-eclavis-d05"
+    },
+    {
+      "ecca": "119",
+      "title": "Dormition of the Virgin by Joseph of Arimathea",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-joseph-of-arimathea/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d05:ECCA-119",
+      "evidence": "manifest未见独立匹配；不能因已有约瑟相关福音篇或伪美利托本认定本篇已经收录。",
+      "ordinal": 114,
+      "batch": "2026-11-12-eclavis-d05"
+    },
+    {
+      "ecca": "150",
+      "title": "Dormition of the Virgin (Epitome) by Gregory of Tours",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-epitome-by-gregory-of-tours/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d05:ECCA-150",
+      "evidence": "manifest未见独立匹配；这只是格列高利书中的一章，不独立声称找到一部失传安息全书。",
+      "ordinal": 115,
+      "batch": "2026-11-12-eclavis-d05"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Dormition of Luke",
-    "last_completed_ecca": "883",
-    "next_title": "Dormition and Assumption of the Virgin by Peter and John",
-    "next_ecca": "126",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-and-assumption-of-the-virgin-by-peter-and-john/",
+    "last_completed_title": "Dormition of the Virgin (Epitome) by Gregory of Tours",
+    "last_completed_ecca": "150",
+    "next_title": "Dormition of the Virgin, Six-Books",
+    "next_ecca": "220",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/six-books-dormition-of-the-virgin/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1134,7 +1184,8 @@
       "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

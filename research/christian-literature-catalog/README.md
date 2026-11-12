@@ -99,3 +99,7 @@
 ## 最新续查（2026-11-12，D04）
 
 索引第106–110项；本轮新增5条调查，非同数新缺书。详见[资源路径D04](RESOURCE-PATHS-D04.md)；下一项Dormition and Assumption of the Virgin by Peter and John（ECCA126）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，D05）
+
+索引第111–115项；本轮新增5条调查，非同数新缺书。详见[资源路径D05](RESOURCE-PATHS-D05.md)；下一项Dormition of the Virgin, Six-Books（ECCA220）。按用户指示，批次存档后持续推进，直至要求停止。

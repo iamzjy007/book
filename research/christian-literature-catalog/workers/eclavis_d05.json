@@ -1,0 +1,356 @@
+{
+  "worker": "eclavis_d05",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第111–115项；本轮新增5条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-126",
+      "title_zh": "彼得与约翰所述圣母安息及升天",
+      "original_title": "Dormition and Assumption of the Virgin by Peter and John",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语Bohairic，残篇",
+      "synopsis": "归于彼得与约翰的第一人称叙事，圣母安息及升天分属两个科普特历日。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；不是伪约翰希腊安息篇，不能以同名主题合并。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；不是伪约翰希腊安息篇，不能以同名主题合并。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "126",
+        "CANT": "131",
+        "CPC": "0573"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-and-assumption-of-the-virgin-by-peter-and-john/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://cdm16028.contentdm.oclc.org/digital/collection/p15324coll10/id/164454",
+          "edition": "Hugh G. Evelyn White, The Monasteries of the Wadi n Natrun I (1926)",
+          "location": "印54简介；55–58七残片校文／英译；机构数字对象第110–114幅，子项164098–164102",
+          "verified": "实际逐页读54–58扫描图像；首片题名与十童女、童年耶稣异象，中片对话／应许，末片结尾Amen均核",
+          "limits": "刊行的是七残片的存世内容，大量缺文与推补仍在；未核Yale另见证和原抄本照片；不能称原作无缺全文",
+          "language": "科普特语／英语",
+          "resource_type": "institution_scanned_fragment_edition_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://findit.library.yale.edu/catalog/digcoll:2759455",
+          "edition": "Yale P.CtYBR inv.1788数字目录",
+          "location": "8／9世纪另残片，据e-Clavis",
+          "verified": "实际由专业条目点入，403",
+          "limits": "未读图像，不能和10世纪MACA.EK认作同一抄本",
+          "language": "科普特语",
+          "resource_type": "blocked_manuscript_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://libmma.contentdm.oclc.org/iiif/2/p15324coll10:164099/full/1500,/0/default.jpg",
+          "edition": "Met原书单页IIIF图像示例",
+          "location": "印55=子项164099；54=164098、56=164100、57=164101、58=164102",
+          "verified": "实际读取并目视核印页及科普特／英译对照",
+          "limits": "这是1926刊本图像，不是原手稿照片；只在临时目录查看指定页，交付仅保存路径",
+          "language": "科普特语／英语",
+          "resource_type": "verified_edition_page_image",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "record_kind": "fragmentary_dormition_narrative"
+    },
+    {
+      "id": "ECCA-283",
+      "title_zh": "圣母安息（亚美尼亚本）",
+      "original_title": "Dormition of the Virgin (Armenian) / Liber de dormitione",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "亚美尼亚语，长／短本",
+      "synopsis": "含较长童贞赞颂的安息叙事，有长短版本，部分抄本归于尼哥底母。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；未将其他圣母安息篇当本亚美尼亚版本。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；未将其他圣母安息篇当本亚美尼亚版本。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "继续取得Vetter321–349原图，辨译文准确起止；短本另核Tayeci1898，不把Erbetta524–525摘要当译文。",
+      "clavis": {
+        "ECCA": "283",
+        "CANT": "160",
+        "BHO": "640–641"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-armenian/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://opendigi.ub.uni-tuebingen.de/opendigi/thq_1902",
+          "edition": "Paul Vetter, Die armenische Dormitio Mariae，ThQ84 (1902)",
+          "location": "文章321–349；机构IIIF印321=canvas328，印349=canvas356",
+          "verified": "实际读Tübingen期刊原目录与METS/IIIF页标映射，确认作者和页段；原图请求500或超时",
+          "limits": "取得机构可定位数字路径；未读正文图像，不能称德译已核全文；页面PDF按钮只是生成界面，不是直接可读PDF",
+          "language": "德语",
+          "resource_type": "institution_digitized_translation_locator",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b100882193",
+          "edition": "BnF Arm.117数字化入口",
+          "location": "长本fol151起，据e-Clavis；条目提示Mimouni作118",
+          "verified": "实际点入403，保留专业条目抄本标识冲突",
+          "limits": "未读图像，未擅改为Arm118；Vetter长本德译与Tayeci1898卷2 451–478短本不能合并",
+          "language": "亚美尼亚语",
+          "resource_type": "blocked_manuscript_gateway",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-458",
+      "title_zh": "使徒约翰所述圣母安息",
+      "original_title": "Dormition of the Virgin by the Apostle John",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语及阿拉伯、格鲁吉亚、拉丁等版本",
+      "synopsis": "圣母在主墓祈祷、使徒乘云来伯利恒，随后在耶路撒冷离世并被迁至乐园。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见本篇独立匹配；正式087童女启示录是另一末世文本，不自动覆盖安息叙事。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见本篇独立匹配；正式087童女启示录是另一末世文本，不自动覆盖安息叙事。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "按Tischendorf希腊CANT101本对照全文；不把同网页约瑟本和伪美利托本或六书本全并入。",
+      "clavis": {
+        "ECCA": "458",
+        "CANT": [
+          "101",
+          "110",
+          "142",
+          "170"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-the-apostle-john/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0832.htm",
+          "edition": "Alexander Walker英译，ANF8 (1886)网页第一篇",
+          "location": "The Account of St.John the Theologian of the Falling Asleep，至The Passing of Mary题头前",
+          "verified": "实际读首段在主墓焚香及末乐园众圣、使徒颂赞Amen，核清后两拉丁本另篇边界",
+          "limits": "这里只记录网页最前一篇；不是把整页三篇都归ECCA458；其他语言异本和GreekR428仍需分别核",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-119",
+      "title_zh": "亚利马太的约瑟所述圣母离世",
+      "original_title": "Dormition of the Virgin by Joseph of Arimathea / Transitus Mariae A",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语及相关斯拉夫传承",
+      "synopsis": "以约瑟自述作结，含多马迟到及圣母腰带的离世升天叙事。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；不能因已有约瑟相关福音篇或伪美利托本认定本篇已经收录。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；不能因已有约瑟相关福音篇或伪美利托本认定本篇已经收录。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "保留TransitusA与在线First Latin Form的实际对应，核Tischendorf113–123及相邻B1；勿照别名Second Latin Form误配。",
+      "clavis": {
+        "ECCA": "119",
+        "CANT": "116"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-joseph-of-arimathea/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0832.htm",
+          "edition": "Alexander Walker英译，网页The Passing of Mary: First Latin Form",
+          "location": "该小标题至Second Latin Form之前；起于受难前圣母问离世，末I am Joseph自述与Amen",
+          "verified": "实际读起止、三童女Sepphora/Abigea/Zael、多马得腰带和约瑟声明",
+          "limits": "e-Clavis别名写Second Latin Form，但此网页实际第一拉丁篇正文才与约瑟本一致；明确按正文识别，不交换相邻伪美利托本ECCA657",
+          "language": "英语",
+          "resource_type": "online_translation_verified_identity",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-joseph-of-arimathea/",
+          "edition": "Tischendorf1866及现代译本书目",
+          "location": "拉丁校本113–123；Walker1873 515–521；James1924 216–218仅摘要",
+          "verified": "实际读专业条目版本与书目；和在线正文做身份比对",
+          "limits": "原校本正文尚未读；条目西译书目称Greek text，但本篇拉丁传统不能据此改成希腊原作，需核原书",
+          "language": "拉丁语／多语",
+          "resource_type": "edition_bibliography_with_metadata_conflict",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-150",
+      "title_zh": "图尔的格列高利所述圣母安息摘要",
+      "original_title": "Dormition of the Virgin (Epitome) by Gregory of Tours / Glor. mart.4",
+      "author": "Gregory of Tours（图尔的格列高利）",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语",
+      "synopsis": "殉道者的荣耀第4章中的短篇安息升天叙事，第8章另有回指。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；这只是格列高利书中的一章，不独立声称找到一部失传安息全书。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；这只是格列高利书中的一章，不独立声称找到一部失传安息全书。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "clavis": {
+        "ECCA": "150",
+        "CANT": "113"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-epitome-by-gregory-of-tours/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.dmgh.de/mgh_ss_rer_merov_1_2/index.htm#page/39/mode/1up",
+          "edition": "MGH Krusch编Gregorii Turonensis miracula et opera minora，SS rer.Merov.1.2数字化",
+          "location": "专业条目定位1939二版39及43，分别对应第4及8章",
+          "verified": "实际打开MGH官方目录，确认Miracula et opera minora数字对象",
+          "limits": "阅览器需JavaScript，未实读页39/43图像；此地址页号为定位线索，尚未核印页和图像映射及当前对象版次，不标正文已读",
+          "language": "拉丁语",
+          "resource_type": "official_digitized_edition_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://utpdistribution.com/9780853232360/gregory-of-tours-glory-of-the-martyrs/",
+          "edition": "Raymond Van Dam, Glory of the Martyrs (Liverpool University Press,1988)",
+          "location": "专业条目相关译文21–22；ISBN9780853232360",
+          "verified": "实际读出版社发行渠道确认译者、1988版与译文目录",
+          "limits": "获取／采购路径，不是公开全文；当前发行页160页与旧书目150页存在计页差别，暂不拿总页数推定正文分页",
+          "language": "英语",
+          "resource_type": "publisher_distribution_record",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed",
+      "record_kind": "embedded_dormition_epitome"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Peter John MACA.EK Evelyn White1926 Met CONTENTdm single page metadata",
+        "Armenian Dormition Vetter1902 Tubingen METS IIIF",
+        "PseudoJohn Dormition NewAdvent0832 first text boundary",
+        "中文总集圣母安息／升天题名及manifest比对"
+      ],
+      "result": "前三项保存：约翰希腊本英译可读；亚美尼亚长本找到机构精确页码但图像500／超时；彼得约翰科普特残篇正在核Met原图。"
+    },
+    {
+      "queries": [
+        "Met1926 print54–58 IIIF164098–164102 actual scans",
+        "Joseph Arimathea First Latin Form NewAdvent actual Joseph colophon",
+        "Gregory GlorMart4 Krusch1939 MGH39 43 VanDam1988"
+      ],
+      "result": "完成五项；Met七残片逐页校核成功，交付仅路径；校正约瑟本在线标题映射。Vetter图像500／超时及MGH JS限制均保留待办。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Dormition of the Virgin (Epitome) by Gregory of Tours",
+    "last_completed_ecca": "150",
+    "next_title": "Dormition of the Virgin, Six-Books",
+    "next_ecca": "220",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/six-books-dormition-of-the-virgin/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}
