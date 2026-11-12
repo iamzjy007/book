@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **191条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **196条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-C02.md](RESOURCE-PATHS-C02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-D01.md](RESOURCE-PATHS-D01.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -5171,3 +5171,147 @@ e-Clavis占位条目，内容与版本栏未填；暂不据同名作品填入概
 资源路径：[Martin H. Scharlemann, Third Corinthians, CTM26 (1955)](https://ctsfw.net/media/pdfs/ScharlemannThirdCorinthians.pdf) — 全文518–529；译文524–528＝PDF第8–12页；译前说明523＝PDF7；实际核1955原题头、底本声明、两信及回信末尾2.18 Amen；译者明确据Rinck德译并对Boese柏林拉丁本，不是直接Bodmer希腊译本；文中尚未发现希腊本的旧研究判断已过时；NASSCAL将期刊名与译文页误记，依原扫描校核
 
 [完整调查记录](workers/eclavis_c02.json)，条目 `ECCA-169`。
+
+## e-Clavis系统扫描续查D01
+
+### 救主之舞／十字架颂歌
+
+- **原题：** Dance of the Savior / Chorea salvatoris
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语
+
+耶稣与使徒围绕十字架唱和的礼仪性叙事。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest无独立卷；约翰行传94–95有相似舞歌，不能认定同一作品；柏林—斯特拉斯堡外典相关片段也不能代替本篇。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/dance-of-the-savior/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [科尔多瓦大学期刊CCO](https://journals.uco.es/cco/article/download/14645/13055/28931) — 实际核校本译文起止页与两作品分界
+
+资源路径：[Tsakos / Bull / Abercrombie / Thomassen, CCO10 (2013)](https://journals.uco.es/cco/article/download/14645/13055/28931) — 全篇193–209；救主之舞204–208＝PDF12–16，抄本页24–33；实际核科普特文英译对照、第二篇起点、四段舞歌及末尾颂荣；PDF科普特字形抽取不全，需原版图像校读；只存路径；Helvia副本直开空白，使用期刊原站可读链接
+
+资源路径：[Paul C. Dilley, MNTA1 (2016) 第三校样](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 救主之舞印195–196＝PDF245–246；合章184–196；实际读篇首、四段及4.23末颂荣，章界清楚；2016-06-20第三校样非最终印本；前193–194为另一篇救主讲论，不混入本篇
+
+[完整调查记录](workers/eclavis_d01.json)，条目 `ECCA-592`。
+
+### 帕皮亚所传犹大之死
+
+- **原题：** Death of Judas according to Papias
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语教父引文
+
+由释经汇编转引帕皮亚的犹大死亡故事，长短两本。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式manifest未见Papias独立条目；本篇是引文传统，不能据已有福音书或犹大福音判断已收。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-judas-according-to-papias/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Geoffrey S. Smith, MNTA1 (2016) 第三校样](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 章309–313＝PDF359–363；两版本译文均在印313＝PDF363；实际读短本、长本全文及底本说明：Cramer马太汇编1:231、使徒行传汇编3:12–13；为现代校样译文路径，非Papias五卷失传著作全文；长短版本不要合成一个原样叙述
+
+[完整调查记录](workers/eclavis_d01.json)，条目 `ECCA-653`。
+
+### 彼拉多之死
+
+- **原题：** Death of Pilate / Mors Pilati
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 拉丁语；其他中世纪语言传本
+
+涉及圣容、彼拉多自尽及尸体迁移的中世纪传奇。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest064彼拉多行传与066书信集实查：前者为受难、降阴与致革老丢，后者为希律往来及呈报；未见本篇圣容至尸体迁移叙事，不能视两卷自动包含。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-pilate-mors-pilati/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Alexander Walker英译，ANF8 (1886)](https://www.newadvent.org/fathers/0812.htm) — 完整短篇：提庇留求医至Losania山坑末尾；实际读取开头、末尾及译者来源；系晚期传奇，不是罗马法庭记录或使徒时代史料；不同于Handing Over of Pilate及Vengeance of Savior
+
+资源路径：[拉丁校本及现代译本书目](https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-pilate-mors-pilati/) — Tischendorf1853 432–435／第二版456–458；EhrmanPleše2011 559–560；核专业条目版本、语种和页码；校本未实读；James157–158和Elliott217只是摘要，不能当全译
+
+[完整调查记录](workers/eclavis_d01.json)，条目 `ECCA-109`。
+
+### 耶稣死刑令（近代外典）
+
+- **原题：** Death Warrant of Jesus
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 具体版本语言待核
+
+e-Clavis归入Modern Apocrypha；正文及传本身份待具体出版物核实。
+
+**价值：** historical：近代伪古文献传播与接受史，不能作为耶稣审判的同时代记录。；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立匹配；不能把正典审判场景或064彼拉多行传当本近代作品。
+
+**下一步：** 核底本及库存覆盖，按明确版本评估补收。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/death-warrant-of-jesus/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[NASSCAL ECCA925与研究路径](https://www.nasscal.com/e-clavis-christian-apocrypha/death-warrant-of-jesus/) — Beskow Strange Tales16–24；Goodspeed Modern Apocrypha92–96；Sutcliffe Pilate’s Verdict；实际读取分类及三项研究线索，概要和校本栏空白；保留近代外典类别，不给未经底本验证的古代法院档案身份；具体正文未取得
+
+资源路径：[Edgar J. Goodspeed, Modern Apocrypha (1956)](https://books.google.com/books/about/Modern_Apocrypha.html?id=7eDYAAAAMAAJ) — 目录Death Warrant of Jesus Christ起92，后篇97；实际核Beacon1956、124页及目录条目；目录可读，92–96正文未读；此书与1931 Strange New Gospels版次不同
+
+[完整调查记录](workers/eclavis_d01.json)，条目 `ECCA-925`。
+
+### 先驱约翰斩首记
+
+- **原题：** Decapitation of John the Forerunner / Passio de Iohanne Baptista
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语两修订本及教会斯拉夫语
+
+归托约翰门徒Eurippus的殉道叙事。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：正式059施洗约翰生平实读开头属瑟拉皮恩传统，不能等同Eurippus本；B01已另列Birth ECCA381。
+
+**下一步：** 取VasilievA本1–4及Burke2023对照AB新译；不将059瑟拉皮恩生平或381诞生短篇代替400。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/decapitation-of-john-the-forerunner/) — 实际读取身份、概要或版本书目；未通读所列校本
+- [Tony Burke作者网站](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — 实际读MNTA3前置目录，不含158–177正文
+
+资源路径：[A. Vasiliev, Anecdota graeco-byzantina (1893)](https://archive.org/details/anecdotagraecob00vasigoog) — 希腊修订A校本印1–4，据e-Clavis；实际打开扫描项目；Pinakes书目也指向本ID；未核印1–4图像及物理页码；只确认扫描本路径，不称正文已读；不能据A本覆盖B本
+
+资源路径：[Tony Burke, MNTA3 (2023) 前置目录](https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf) — Decapitation章158–177；末176–177为Birth附录，不能全部算斩首正文；实际读目录和导言中Birth附录关系；19页文件仅前置页；未读本章译文，不能以导言当全文。2024研究引B本15岁和A本30岁属版本差异，尚不用于补正文
+
+资源路径：[Oxford Holkham gr43目录](https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6167) — ff270v–273v，据e-Clavis；由专业条目实际点击，403；未读手稿图像
+
+[完整调查记录](workers/eclavis_d01.json)，条目 `ECCA-400`。

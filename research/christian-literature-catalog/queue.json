@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "3 Corinthians",
-        "last_completed_ecca": "169",
-        "next_title": "Dance of the Savior",
-        "next_ecca": "592",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dance-of-the-savior/",
+        "last_completed_title": "Decapitation of John the Forerunner",
+        "last_completed_ecca": "400",
+        "next_title": "Dialogue of Mary and Christ on the Departure of the Soul",
+        "next_ecca": "753",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -88,10 +88,11 @@
           "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Dance of the Savior ECCA592",
+      "next": "继续 Dialogue of Mary and Christ on the Departure of the Soul ECCA753",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -111,9 +112,10 @@
         "2026-11-12-eclavis-b02",
         "2026-11-12-eclavis-b03",
         "2026-11-12-eclavis-c01",
-        "2026-11-12-eclavis-c02"
+        "2026-11-12-eclavis-c02",
+        "2026-11-12-eclavis-d01"
       ],
-      "last_batch_records_scanned": 2,
+      "last_batch_records_scanned": 5,
       "assigned_worker": "current_session_single_worker"
     },
     {

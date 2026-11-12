@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 192,
-    "catalogue_records_after_one_merge": 191,
+    "worker_records": 197,
+    "catalogue_records_after_one_merge": 196,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 301
+    "unique_source_urls": 307
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -116,6 +116,10 @@
     {
       "path": "workers/eclavis_c02.json",
       "sha256": "0eacc6914aa66619dae358e31064dd6b2245234a163fe30c0a755c3b689f80d4"
+    },
+    {
+      "path": "workers/eclavis_d01.json",
+      "sha256": "549177e32d98f022c952a9143ae5b9405f35b937a5a5597c5646b48b7ef24728"
     }
   ],
   "records": [
@@ -11030,6 +11034,325 @@
           "limits": "译者明确据Rinck德译并对Boese柏林拉丁本，不是直接Bodmer希腊译本；文中尚未发现希腊本的旧研究判断已过时；NASSCAL将期刊名与译文页误记，依原扫描校核",
           "language": "英语",
           "resource_type": "institution_hosted_translation",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d01:ECCA-592",
+      "area": "e-Clavis系统扫描续查D01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "救主之舞／十字架颂歌",
+      "original_title": "Dance of the Savior / Chorea salvatoris",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语",
+      "synopsis": "耶稣与使徒围绕十字架唱和的礼仪性叙事。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest无独立卷；约翰行传94–95有相似舞歌，不能认定同一作品；柏林—斯特拉斯堡外典相关片段也不能代替本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest无独立卷；约翰行传94–95有相似舞歌，不能认定同一作品；柏林—斯特拉斯堡外典相关片段也不能代替本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dance-of-the-savior/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://journals.uco.es/cco/article/download/14645/13055/28931",
+          "institution": "科尔多瓦大学期刊CCO",
+          "read_scope": "实际核校本译文起止页与两作品分界",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d01.json",
+      "worker_entry_id": "ECCA-592",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "592"
+      },
+      "resources": [
+        {
+          "url": "https://journals.uco.es/cco/article/download/14645/13055/28931",
+          "edition": "Tsakos / Bull / Abercrombie / Thomassen, CCO10 (2013)",
+          "location": "全篇193–209；救主之舞204–208＝PDF12–16，抄本页24–33",
+          "verified": "实际核科普特文英译对照、第二篇起点、四段舞歌及末尾颂荣",
+          "limits": "PDF科普特字形抽取不全，需原版图像校读；只存路径；Helvia副本直开空白，使用期刊原站可读链接",
+          "language": "科普特语／英语",
+          "resource_type": "journal_open_edition_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "edition": "Paul C. Dilley, MNTA1 (2016) 第三校样",
+          "location": "救主之舞印195–196＝PDF245–246；合章184–196",
+          "verified": "实际读篇首、四段及4.23末颂荣，章界清楚",
+          "limits": "2016-06-20第三校样非最终印本；前193–194为另一篇救主讲论，不混入本篇",
+          "language": "英语",
+          "resource_type": "author_hosted_translation_proof",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d01:ECCA-653",
+      "area": "e-Clavis系统扫描续查D01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "帕皮亚所传犹大之死",
+      "original_title": "Death of Judas according to Papias",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语教父引文",
+      "synopsis": "由释经汇编转引帕皮亚的犹大死亡故事，长短两本。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式manifest未见Papias独立条目；本篇是引文传统，不能据已有福音书或犹大福音判断已收。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式manifest未见Papias独立条目；本篇是引文传统，不能据已有福音书或犹大福音判断已收。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-judas-according-to-papias/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d01.json",
+      "worker_entry_id": "ECCA-653",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "653"
+      },
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "edition": "Geoffrey S. Smith, MNTA1 (2016) 第三校样",
+          "location": "章309–313＝PDF359–363；两版本译文均在印313＝PDF363",
+          "verified": "实际读短本、长本全文及底本说明：Cramer马太汇编1:231、使徒行传汇编3:12–13",
+          "limits": "为现代校样译文路径，非Papias五卷失传著作全文；长短版本不要合成一个原样叙述",
+          "language": "英语",
+          "resource_type": "author_hosted_fragment_translations_proof",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d01:ECCA-109",
+      "area": "e-Clavis系统扫描续查D01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "彼拉多之死",
+      "original_title": "Death of Pilate / Mors Pilati",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "拉丁语；其他中世纪语言传本",
+      "synopsis": "涉及圣容、彼拉多自尽及尸体迁移的中世纪传奇。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest064彼拉多行传与066书信集实查：前者为受难、降阴与致革老丢，后者为希律往来及呈报；未见本篇圣容至尸体迁移叙事，不能视两卷自动包含。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest064彼拉多行传与066书信集实查：前者为受难、降阴与致革老丢，后者为希律往来及呈报；未见本篇圣容至尸体迁移叙事，不能视两卷自动包含。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-pilate-mors-pilati/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d01.json",
+      "worker_entry_id": "ECCA-109",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "109",
+        "CANT": "71"
+      },
+      "resources": [
+        {
+          "url": "https://www.newadvent.org/fathers/0812.htm",
+          "edition": "Alexander Walker英译，ANF8 (1886)",
+          "location": "完整短篇：提庇留求医至Losania山坑末尾",
+          "verified": "实际读取开头、末尾及译者来源",
+          "limits": "系晚期传奇，不是罗马法庭记录或使徒时代史料；不同于Handing Over of Pilate及Vengeance of Savior",
+          "language": "英语",
+          "resource_type": "online_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-pilate-mors-pilati/",
+          "edition": "拉丁校本及现代译本书目",
+          "location": "Tischendorf1853 432–435／第二版456–458；EhrmanPleše2011 559–560",
+          "verified": "核专业条目版本、语种和页码",
+          "limits": "校本未实读；James157–158和Elliott217只是摘要，不能当全译",
+          "language": "拉丁语／英语",
+          "resource_type": "edition_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d01:ECCA-925",
+      "area": "e-Clavis系统扫描续查D01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "耶稣死刑令（近代外典）",
+      "original_title": "Death Warrant of Jesus",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "具体版本语言待核",
+      "synopsis": "e-Clavis归入Modern Apocrypha；正文及传本身份待具体出版物核实。",
+      "value": {
+        "historical": "近代伪古文献传播与接受史，不能作为耶稣审判的同时代记录。",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立匹配；不能把正典审判场景或064彼拉多行传当本近代作品。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立匹配；不能把正典审判场景或064彼拉多行传当本近代作品。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核底本及库存覆盖，按明确版本评估补收。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-warrant-of-jesus/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d01.json",
+      "worker_entry_id": "ECCA-925",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "925"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-warrant-of-jesus/",
+          "edition": "NASSCAL ECCA925与研究路径",
+          "location": "Beskow Strange Tales16–24；Goodspeed Modern Apocrypha92–96；Sutcliffe Pilate’s Verdict",
+          "verified": "实际读取分类及三项研究线索，概要和校本栏空白",
+          "limits": "保留近代外典类别，不给未经底本验证的古代法院档案身份；具体正文未取得",
+          "language": "待核",
+          "resource_type": "unresolved_text_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://books.google.com/books/about/Modern_Apocrypha.html?id=7eDYAAAAMAAJ",
+          "edition": "Edgar J. Goodspeed, Modern Apocrypha (1956)",
+          "location": "目录Death Warrant of Jesus Christ起92，后篇97",
+          "verified": "实际核Beacon1956、124页及目录条目",
+          "limits": "目录可读，92–96正文未读；此书与1931 Strange New Gospels版次不同",
+          "language": "英语",
+          "resource_type": "digitized_book_catalogue",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_d01:ECCA-400",
+      "area": "e-Clavis系统扫描续查D01",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "先驱约翰斩首记",
+      "original_title": "Decapitation of John the Forerunner / Passio de Iohanne Baptista",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语两修订本及教会斯拉夫语",
+      "synopsis": "归托约翰门徒Eurippus的殉道叙事。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "正式059施洗约翰生平实读开头属瑟拉皮恩传统，不能等同Eurippus本；B01已另列Birth ECCA381。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "正式059施洗约翰生平实读开头属瑟拉皮恩传统，不能等同Eurippus本；B01已另列Birth ECCA381。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "取VasilievA本1–4及Burke2023对照AB新译；不将059瑟拉皮恩生平或381诞生短篇代替400。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/decapitation-of-john-the-forerunner/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "institution": "Tony Burke作者网站",
+          "read_scope": "实际读MNTA3前置目录，不含158–177正文",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_d01.json",
+      "worker_entry_id": "ECCA-400",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "400",
+        "CANT": "180.2"
+      },
+      "resources": [
+        {
+          "url": "https://archive.org/details/anecdotagraecob00vasigoog",
+          "edition": "A. Vasiliev, Anecdota graeco-byzantina (1893)",
+          "location": "希腊修订A校本印1–4，据e-Clavis",
+          "verified": "实际打开扫描项目；Pinakes书目也指向本ID",
+          "limits": "未核印1–4图像及物理页码；只确认扫描本路径，不称正文已读；不能据A本覆盖B本",
+          "language": "希腊语",
+          "resource_type": "digitized_edition_gateway",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-MNTA-3-Introduction.pdf",
+          "edition": "Tony Burke, MNTA3 (2023) 前置目录",
+          "location": "Decapitation章158–177；末176–177为Birth附录，不能全部算斩首正文",
+          "verified": "实际读目录和导言中Birth附录关系",
+          "limits": "19页文件仅前置页；未读本章译文，不能以导言当全文。2024研究引B本15岁和A本30岁属版本差异，尚不用于补正文",
+          "language": "英语",
+          "resource_type": "front_matter_only",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6167",
+          "edition": "Oxford Holkham gr43目录",
+          "location": "ff270v–273v，据e-Clavis",
+          "verified": "由专业条目实际点击，403",
+          "limits": "未读手稿图像",
+          "language": "希腊语",
+          "resource_type": "blocked_manuscript_gateway",
           "checked_date_beijing": "2026-11-12"
         }
       ]

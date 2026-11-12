@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续90项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续95项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -901,15 +901,65 @@
       "evidence": "中文总集保罗行传腓立比段49535–49555行已含来信、送信间叙与保罗回信至阿们，实际读首尾；manifest无独立3Cor，不能把正典林前后当本篇。",
       "ordinal": 90,
       "batch": "2026-11-12-eclavis-c02"
+    },
+    {
+      "ecca": "592",
+      "title": "Dance of the Savior",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dance-of-the-savior/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d01:ECCA-592",
+      "evidence": "manifest无独立卷；约翰行传94–95有相似舞歌，不能认定同一作品；柏林—斯特拉斯堡外典相关片段也不能代替本篇。",
+      "ordinal": 91,
+      "batch": "2026-11-12-eclavis-d01"
+    },
+    {
+      "ecca": "653",
+      "title": "Death of Judas according to Papias",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-judas-according-to-papias/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d01:ECCA-653",
+      "evidence": "正式manifest未见Papias独立条目；本篇是引文传统，不能据已有福音书或犹大福音判断已收。",
+      "ordinal": 92,
+      "batch": "2026-11-12-eclavis-d01"
+    },
+    {
+      "ecca": "109",
+      "title": "Death of Pilate",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-of-pilate-mors-pilati/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d01:ECCA-109",
+      "evidence": "manifest064彼拉多行传与066书信集实查：前者为受难、降阴与致革老丢，后者为希律往来及呈报；未见本篇圣容至尸体迁移叙事，不能视两卷自动包含。",
+      "ordinal": 93,
+      "batch": "2026-11-12-eclavis-d01"
+    },
+    {
+      "ecca": "925",
+      "title": "Death Warrant of Jesus",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/death-warrant-of-jesus/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d01:ECCA-925",
+      "evidence": "manifest未见独立匹配；不能把正典审判场景或064彼拉多行传当本近代作品。",
+      "ordinal": 94,
+      "batch": "2026-11-12-eclavis-d01"
+    },
+    {
+      "ecca": "400",
+      "title": "Decapitation of John the Forerunner",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/decapitation-of-john-the-forerunner/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_d01:ECCA-400",
+      "evidence": "正式059施洗约翰生平实读开头属瑟拉皮恩传统，不能等同Eurippus本；B01已另列Birth ECCA381。",
+      "ordinal": 95,
+      "batch": "2026-11-12-eclavis-d01"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "3 Corinthians",
-    "last_completed_ecca": "169",
-    "next_title": "Dance of the Savior",
-    "next_ecca": "592",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dance-of-the-savior/",
+    "last_completed_title": "Decapitation of John the Forerunner",
+    "last_completed_ecca": "400",
+    "next_title": "Dialogue of Mary and Christ on the Departure of the Soul",
+    "next_ecca": "753",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -930,7 +980,8 @@
       "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [
