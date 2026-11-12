@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续131项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续135项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1311,15 +1311,55 @@
       "evidence": "manifest未见独立题名；中文总集Blemmydes/Munitiz检索未定位；普罗科罗约翰行传与本颂词分开。",
       "ordinal": 131,
       "batch": "2026-11-12-eclavis-e02"
+    },
+    {
+      "ecca": "370",
+      "title": "Encomium on John the Theologian by Pseudo-John Chrysostom",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-theologian-by-pseudo-john-chrysostom/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e03:ECCA-370",
+      "evidence": "manifest未见独立本颂；中文总集约翰颂未定位；已有约翰行传片段不能自动代表本篇。",
+      "ordinal": 132,
+      "batch": "2026-11-12-eclavis-e03"
+    },
+    {
+      "ecca": "333",
+      "title": "Encomium on Longinus by Pseudo-Hesychius of Jerusalem",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-longinus-by-pseudo-hesychius-of-jerusalem/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e03:ECCA-333",
+      "evidence": "manifest未见本篇；中文总集Longinus／隆基努斯颂未定位；不同朗基努斯殉道版本不能合并。",
+      "ordinal": 133,
+      "batch": "2026-11-12-eclavis-e03"
+    },
+    {
+      "ecca": "277",
+      "title": "Encomium on Mark by John of Shmun",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-mark-by-john-of-shmun/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e03:ECCA-277",
+      "evidence": "manifest未见本篇；中文总集马可颂／Shmun未定位；马可行传或殉道篇不自动覆盖。",
+      "ordinal": 134,
+      "batch": "2026-11-12-eclavis-e03"
+    },
+    {
+      "ecca": "744",
+      "title": "Encomium on Mary Magdalene",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-mary-magdalene/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e03:ECCA-744",
+      "evidence": "manifest未见本颂独立记录；中文总集抹大拉马利亚颂／Magdalene未定位；《马利亚福音》不是本作品。",
+      "ordinal": 135,
+      "batch": "2026-11-12-eclavis-e03"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Encomium on John the Evangelist by Blemmydes",
-    "last_completed_ecca": "842",
-    "next_title": "Encomium on John the Theologian by Pseudo-John Chrysostom",
-    "next_ecca": "370",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-theologian-by-pseudo-john-chrysostom/",
+    "last_completed_title": "Encomium on Mary Magdalene",
+    "last_completed_ecca": "744",
+    "next_title": "Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala",
+    "next_ecca": "567",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1349,7 +1389,8 @@
       "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

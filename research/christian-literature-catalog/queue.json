@@ -63,11 +63,11 @@
       "entry_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
       "cursor": {
         "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-        "last_completed_title": "Encomium on John the Evangelist by Blemmydes",
-        "last_completed_ecca": "842",
-        "next_title": "Encomium on John the Theologian by Pseudo-John Chrysostom",
-        "next_ecca": "370",
-        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-theologian-by-pseudo-john-chrysostom/",
+        "last_completed_title": "Encomium on Mary Magdalene",
+        "last_completed_ecca": "744",
+        "next_title": "Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala",
+        "next_ecca": "567",
+        "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala/",
         "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
         "unresolved_before_cursor": [
           "Aberdeen Ostracon ECCA984占位未解决",
@@ -97,10 +97,11 @@
           "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
           "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-          "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+          "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+          "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
         ]
       },
-      "next": "继续 Encomium on John the Theologian by Pseudo-John Chrysostom ECCA370",
+      "next": "继续 Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala ECCA567",
       "warning": "队列in_progress表示任务已开始而未完成，不证明有后台工作者运行。",
       "completed_batches": [
         "2026-11-10-eclavis-a01",
@@ -129,9 +130,10 @@
         "2026-11-12-eclavis-d06",
         "2026-11-12-eclavis-d07",
         "2026-11-12-eclavis-e01",
-        "2026-11-12-eclavis-e02"
+        "2026-11-12-eclavis-e02",
+        "2026-11-12-eclavis-e03"
       ],
-      "last_batch_records_scanned": 5,
+      "last_batch_records_scanned": 4,
       "assigned_worker": "current_session_single_worker"
     },
     {

@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **231条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **235条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E02.md](RESOURCE-PATHS-E02.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E03.md](RESOURCE-PATHS-E03.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -6385,3 +6385,121 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[Oxford Bodleian MS Barocci131数字对象](https://digital.bodleian.ox.ac.uk/objects/8f71e031-ea60-436f-937b-81275c271527/) — 约1280年，ff350–353据NASSCAL；实际点击专业目录所列IMAGES至机构对象；仅对象入口可达，未核手稿图像和叶序，不称已有全文可读
 
 [完整调查记录](workers/eclavis_e02.json)，条目 `ECCA-842`。
+
+## e-Clavis系统扫描续查E03
+
+### 伪金口约翰：神学家约翰颂
+
+- **原题：** Encomium on John the Theologian by Pseudo-John Chrysostom
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；阿拉伯语异本
+
+围绕约翰迁离、墓地纪念及以弗所神庙事件的颂词。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见独立本颂；中文总集约翰颂未定位；已有约翰行传片段不能自动代表本篇。
+
+**下一步：** 将Lewis阿拉伯译文与1983希腊校文412–419／Culpepper236–241对照；保留版本差异。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-theologian-by-pseudo-john-chrysostom/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Agnes Smith Lewis, The Mythological Acts of the Apostles (1904), Horae Semiticae4](https://archive.org/details/mythologicalacts00lewi/page/171/mode/1up) — 本颂印171下半–174；BookReader leaf225–228；实际查看4页全部：独立祷词起首、题头Praise of the Apostle John、末尾John1.1与Amen；从阿拉伯语译出，不能充作Junod/Kaestli希腊校本的英译；171上半是前一篇约翰之死结尾须排除；此本隔日空墓与希腊概要7日不同，墓池与细尘措辞亦不同
+
+资源路径：[R. Alan Culpepper, John the Son of Zebedee，现代希腊本英译线索](https://ms.fortresspress.com/downloads/FP_Fall_2013_Academic_Catalog.pdf) — 236–241据NASSCAL；ISBN9780800631673由出版社目录核；搜索定位出版方目录书目与ISBN；未读目标页；保存现代版本线索，出版方主域robots阻断；不得与Lewis阿拉伯本混同
+
+[完整调查记录](workers/eclavis_e03.json)，条目 `ECCA-370`。
+
+### 伪耶路撒冷赫叙基乌斯：朗基努斯颂
+
+- **原题：** Encomium on Longinus by Pseudo-Hesychius of Jerusalem
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；法译及意译
+
+将朗基努斯生平与殉道传统扩写的讲词第二十篇。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见本篇；中文总集Longinus／隆基努斯颂未定位；不同朗基努斯殉道版本不能合并。
+
+**下一步：** 取得AubineauII872–901或2017意译目标正文；1868旧刊只有§23–30选段。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-longinus-by-pseudo-hesychius-of-jerusalem/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Michel Aubineau, Les homélies festales d’Hésychius de Jérusalem II (1980), SH59](https://bollandistes.org/our-publications/susbidia-hagiographica/) — 本颂希法对照872–901据NASSCAL；实际检索出版学会系列目录确认双卷、1978–1980年；未读目标正文；Homily19殉道篇817–844与Homily20本颂不同，不当同一作品
+
+资源路径：[Gianluca Orsola, Longino il santo della lancia (2017)](https://www.graphe.it/scheda-libro/gianluca-orsola/longino-il-santo-della-lancia-9788893720106-400692.html) — 修订本ISBN9788893720106；160页；电子9788893720113；实际读出版社新版、作者和讲词／passio意译说明；2008版101–112据NASSCAL，不能不经核对转作2017新版页码；未取得译文正文
+
+资源路径：[Cult of Saints in Late Antiquity，E06103](http://csla.history.ox.ac.uk/record.php?recid=E06103) — Longinos颂研究条目；实际打开超时；未读取条目正文；即使摘要可读也不等于全译
+
+[完整调查记录](workers/eclavis_e03.json)，条目 `ECCA-333`。
+
+### 施慕恩的约翰：马可颂
+
+- **原题：** Encomium on Mark by John of Shmun
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语；拉丁译文
+
+以残片传存的马可颂词。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见本篇；中文总集马可颂／Shmun未定位；马可行传或殉道篇不自动覆盖。
+
+**下一步：** 作者校文拉丁译可读；继续核另一1968论文MONB.AY374–381/397–398与Sheridan2011英译选段451–454。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-mark-by-john-of-shmun/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Tito Orlandi, Studi copti (1968)，作者CMCL自存PDF](https://www.cmcl.it/~orlandi/pubbli/stucop.pdf) — 75页双页扫描；研究7–52，科普特／拉丁正文12–51=PDF第7–26页，52为注释；实际查看12/13题头Johannes和Mark、20/21及38/39中段、50/51末残片与52注释；75页PDF路径可读；仅现存残片校文及拉丁译文，不是原颂完整无缺文本；未逐页通读；75页含另两项研究不能全部算马可颂。整本PDF未落盘，仅内存读取并生成指定临时预览页
+
+资源路径：[Orlandi本人出版物目录](https://www.cmcl.it/~orlandi/pubegi.html) — 专书4 Studi copti，三构件分列；实际读目录并点作者PDF路径；目录本身不含译文；另篇Un codice copto del Monastero Bianco的pubbli13.pdf本轮超时，MONB.AY新增部分待独立比对
+
+[完整调查记录](workers/eclavis_e03.json)，条目 `ECCA-277`。
+
+### 伪耶路撒冷西里尔：抹大拉马利亚颂
+
+- **原题：** Encomium on Mary Magdalene
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语；法语及英语译文
+
+由数块残片传存的颂词，含抹大拉马利亚、耶稣母亲及宝洞传统材料。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest未见本颂独立记录；中文总集抹大拉马利亚颂／Magdalene未定位；《马利亚福音》不是本作品。
+
+**下一步：** 以现代英译串联IFAO和Morgan残片；保留各段缺页，继续核Chauleur及Poirier原刊。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-mary-magdalene/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Christine Luckritz Marquis, Encomium on Mary Magdalene, MNTA1，编者公开校样](https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf) — 章节197–216；翻译204–216=PDF第254–266页；实际读引论、§1译文起首及215–216末残片：§78家谱后另缺4页，末§82.5停在fourteenth…；覆盖译者所编现存残篇；§21至78之间大量缺失，编号不能当成82章完整存世；不是恢复原颂全文。只保留路径与书目
+
+资源路径：[René-Georges Coquin/Gérard Godron, Un encomion copte sur Marie-Madeleine attribué à Cyrille de Jérusalem, BIFAO90](https://www.ifao.egnet.net/bifao/090/09) — 全篇169–212；法译200–212=PDF第32–44页；有科普特校文与残片图版；实际核文章题页、175科普特起首、数页校文、图版，以及200法译起首／203／208中段／212末残片；可读取44页出版方PDF；未逐页通读；只核指定页。法译对应本文所编残片，不包含所有后续整理成果；publisher标1991，NASSCAL记1990，保留差异。整本PDF未落盘，内存处理后仅临时预览指定页
+
+资源路径：[IFAO出版记录](https://www.ifao.egnet.net/publications/catalogue/?nif=BIFAO090_art_09.pdf&nv=0) — BIFAO90，1991，169–212，44页；实际检索出版方书目与公开PDF入口；出版年份差异需依具体引用版本注明
+
+[完整调查记录](workers/eclavis_e03.json)，条目 `ECCA-744`。

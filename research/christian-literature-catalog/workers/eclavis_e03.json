@@ -1,0 +1,319 @@
+{
+  "worker": "eclavis_e03",
+  "date_beijing": "2026-11-12",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "索引第132–135项；本轮新增4条调查，非同数新缺书。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；每3–5项保存",
+  "items": [
+    {
+      "id": "ECCA-370",
+      "title_zh": "伪金口约翰：神学家约翰颂",
+      "original_title": "Encomium on John the Theologian by Pseudo-John Chrysostom",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；阿拉伯语异本",
+      "synopsis": "围绕约翰迁离、墓地纪念及以弗所神庙事件的颂词。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见独立本颂；中文总集约翰颂未定位；已有约翰行传片段不能自动代表本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见独立本颂；中文总集约翰颂未定位；已有约翰行传片段不能自动代表本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "将Lewis阿拉伯译文与1983希腊校文412–419／Culpepper236–241对照；保留版本差异。",
+      "clavis": {
+        "ECCA": "370",
+        "CANT": "224",
+        "CPG": "4936",
+        "BHG": "932f"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-theologian-by-pseudo-john-chrysostom/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/details/mythologicalacts00lewi/page/171/mode/1up",
+          "edition": "Agnes Smith Lewis, The Mythological Acts of the Apostles (1904), Horae Semiticae4",
+          "location": "本颂印171下半–174；BookReader leaf225–228",
+          "verified": "实际查看4页全部：独立祷词起首、题头Praise of the Apostle John、末尾John1.1与Amen",
+          "limits": "从阿拉伯语译出，不能充作Junod/Kaestli希腊校本的英译；171上半是前一篇约翰之死结尾须排除；此本隔日空墓与希腊概要7日不同，墓池与细尘措辞亦不同",
+          "language": "英语",
+          "resource_type": "verified_historic_arabic_version_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://ms.fortresspress.com/downloads/FP_Fall_2013_Academic_Catalog.pdf",
+          "edition": "R. Alan Culpepper, John the Son of Zebedee，现代希腊本英译线索",
+          "location": "236–241据NASSCAL；ISBN9780800631673由出版社目录核",
+          "verified": "搜索定位出版方目录书目与ISBN",
+          "limits": "未读目标页；保存现代版本线索，出版方主域robots阻断；不得与Lewis阿拉伯本混同",
+          "language": "英语",
+          "resource_type": "publisher_catalogue_translation_lead",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-333",
+      "title_zh": "伪耶路撒冷赫叙基乌斯：朗基努斯颂",
+      "original_title": "Encomium on Longinus by Pseudo-Hesychius of Jerusalem",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；法译及意译",
+      "synopsis": "将朗基努斯生平与殉道传统扩写的讲词第二十篇。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见本篇；中文总集Longinus／隆基努斯颂未定位；不同朗基努斯殉道版本不能合并。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见本篇；中文总集Longinus／隆基努斯颂未定位；不同朗基努斯殉道版本不能合并。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "取得AubineauII872–901或2017意译目标正文；1868旧刊只有§23–30选段。",
+      "clavis": {
+        "ECCA": "333",
+        "BHG": "990",
+        "CPG": "6590"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-longinus-by-pseudo-hesychius-of-jerusalem/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://bollandistes.org/our-publications/susbidia-hagiographica/",
+          "edition": "Michel Aubineau, Les homélies festales d’Hésychius de Jérusalem II (1980), SH59",
+          "location": "本颂希法对照872–901据NASSCAL",
+          "verified": "实际检索出版学会系列目录确认双卷、1978–1980年",
+          "limits": "未读目标正文；Homily19殉道篇817–844与Homily20本颂不同，不当同一作品",
+          "language": "希腊语／法语",
+          "resource_type": "publisher_critical_edition_translation_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.graphe.it/scheda-libro/gianluca-orsola/longino-il-santo-della-lancia-9788893720106-400692.html",
+          "edition": "Gianluca Orsola, Longino il santo della lancia (2017)",
+          "location": "修订本ISBN9788893720106；160页；电子9788893720113",
+          "verified": "实际读出版社新版、作者和讲词／passio意译说明",
+          "limits": "2008版101–112据NASSCAL，不能不经核对转作2017新版页码；未取得译文正文",
+          "language": "意大利语",
+          "resource_type": "publisher_translation_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "http://csla.history.ox.ac.uk/record.php?recid=E06103",
+          "edition": "Cult of Saints in Late Antiquity，E06103",
+          "location": "Longinos颂研究条目",
+          "verified": "实际打开超时",
+          "limits": "未读取条目正文；即使摘要可读也不等于全译",
+          "language": "英语",
+          "resource_type": "research_catalogue_access_timeout",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-277",
+      "title_zh": "施慕恩的约翰：马可颂",
+      "original_title": "Encomium on Mark by John of Shmun",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语；拉丁译文",
+      "synopsis": "以残片传存的马可颂词。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见本篇；中文总集马可颂／Shmun未定位；马可行传或殉道篇不自动覆盖。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见本篇；中文总集马可颂／Shmun未定位；马可行传或殉道篇不自动覆盖。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "作者校文拉丁译可读；继续核另一1968论文MONB.AY374–381/397–398与Sheridan2011英译选段451–454。",
+      "clavis": {
+        "ECCA": "277",
+        "CANT": "289",
+        "CC": "0186"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-mark-by-john-of-shmun/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.cmcl.it/~orlandi/pubbli/stucop.pdf",
+          "edition": "Tito Orlandi, Studi copti (1968)，作者CMCL自存PDF",
+          "location": "75页双页扫描；研究7–52，科普特／拉丁正文12–51=PDF第7–26页，52为注释",
+          "verified": "实际查看12/13题头Johannes和Mark、20/21及38/39中段、50/51末残片与52注释；75页PDF路径可读",
+          "limits": "仅现存残片校文及拉丁译文，不是原颂完整无缺文本；未逐页通读；75页含另两项研究不能全部算马可颂。整本PDF未落盘，仅内存读取并生成指定临时预览页",
+          "language": "科普特语／拉丁语",
+          "resource_type": "author_hosted_fragment_edition_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.cmcl.it/~orlandi/pubegi.html",
+          "edition": "Orlandi本人出版物目录",
+          "location": "专书4 Studi copti，三构件分列",
+          "verified": "实际读目录并点作者PDF路径",
+          "limits": "目录本身不含译文；另篇Un codice copto del Monastero Bianco的pubbli13.pdf本轮超时，MONB.AY新增部分待独立比对",
+          "language": "意大利语",
+          "resource_type": "author_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ECCA-744",
+      "title_zh": "伪耶路撒冷西里尔：抹大拉马利亚颂",
+      "original_title": "Encomium on Mary Magdalene",
+      "author": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语；法语及英语译文",
+      "synopsis": "由数块残片传存的颂词，含抹大拉马利亚、耶稣母亲及宝洞传统材料。",
+      "historical_value": "使徒传统、地方教会记忆和版本比较材料",
+      "devotional_value": "待结合全文与文类评估",
+      "attribution_issues": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest未见本颂独立记录；中文总集抹大拉马利亚颂／Magdalene未定位；《马利亚福音》不是本作品。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest未见本颂独立记录；中文总集抹大拉马利亚颂／Magdalene未定位；《马利亚福音》不是本作品。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "以现代英译串联IFAO和Morgan残片；保留各段缺页，继续核Chauleur及Poirier原刊。",
+      "clavis": {
+        "ECCA": "744",
+        "CANT": "73",
+        "CPC": "0118"
+      },
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-mary-magdalene/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.tonyburke.ca/wp-content/uploads/Burke-Landau-New-Testament-Apocrypha.pdf",
+          "edition": "Christine Luckritz Marquis, Encomium on Mary Magdalene, MNTA1，编者公开校样",
+          "location": "章节197–216；翻译204–216=PDF第254–266页",
+          "verified": "实际读引论、§1译文起首及215–216末残片：§78家谱后另缺4页，末§82.5停在fourteenth…",
+          "limits": "覆盖译者所编现存残篇；§21至78之间大量缺失，编号不能当成82章完整存世；不是恢复原颂全文。只保留路径与书目",
+          "language": "英语",
+          "resource_type": "editor_hosted_surviving_fragment_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.ifao.egnet.net/bifao/090/09",
+          "edition": "René-Georges Coquin/Gérard Godron, Un encomion copte sur Marie-Madeleine attribué à Cyrille de Jérusalem, BIFAO90",
+          "location": "全篇169–212；法译200–212=PDF第32–44页；有科普特校文与残片图版",
+          "verified": "实际核文章题页、175科普特起首、数页校文、图版，以及200法译起首／203／208中段／212末残片；可读取44页出版方PDF",
+          "limits": "未逐页通读；只核指定页。法译对应本文所编残片，不包含所有后续整理成果；publisher标1991，NASSCAL记1990，保留差异。整本PDF未落盘，内存处理后仅临时预览指定页",
+          "language": "科普特语／法语",
+          "resource_type": "publisher_open_fragment_edition_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.ifao.egnet.net/publications/catalogue/?nif=BIFAO090_art_09.pdf&nv=0",
+          "edition": "IFAO出版记录",
+          "location": "BIFAO90，1991，169–212，44页",
+          "verified": "实际检索出版方书目与公开PDF入口",
+          "limits": "出版年份差异需依具体引用版本注明",
+          "language": "法语",
+          "resource_type": "publisher_metadata",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    }
+  ],
+  "search_log": [
+    {
+      "queries": [
+        "Lewis1904 Arabic John encomium171–174 actual4page images",
+        "Longinus Aubineau SH59 official catalogue Orsola2017 publisher",
+        "JohnShmun Orlandi1968 stucop authorPDF selected pages"
+      ],
+      "result": "前三项检查点：约翰颂阿拉伯英译已读4页，朗基努斯仅现代版路径，马可科普特／拉丁残片校本可读。"
+    },
+    {
+      "queries": [
+        "Mary Magdalene Luckritz Marquis chapter197–216 translation204–216",
+        "IFAO BIFAO90 selected pages French200–212"
+      ],
+      "result": "新增现存残篇现代英译及IFAO科普特／法译路径；明确大段缺页、年份异记及实际查看范围。"
+    }
+  ],
+  "limits": [
+    "中文出版目录未作本批检索，不判断有无正式中文出版。",
+    "书目、预览和全文路径分别标记，候选不是确定缺书。"
+  ],
+  "next_cursor": {
+    "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
+    "last_completed_title": "Encomium on Mary Magdalene",
+    "last_completed_ecca": "744",
+    "next_title": "Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala",
+    "next_ecca": "567",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala/",
+    "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
+    "unresolved_before_cursor": [
+      "Aberdeen Ostracon ECCA984占位未解决",
+      "Acts of Andrew (Latin) ECCA750构件未回查",
+      "ECCA709校本拟刊状态、ECCA102校本末页差异及被阻手稿详见A02工作记录",
+      "2026-11-12-eclavis-a03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a08未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a09未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a10未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a11未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a12未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-a13未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-b03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-c02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d04未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d05未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d06未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+    ]
+  }
+}
