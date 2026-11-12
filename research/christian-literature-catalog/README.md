@@ -123,3 +123,7 @@
 ## 最新续查（2026-11-12，E03）
 
 索引第132–135项；本轮新增4条调查，非同数新缺书。详见[资源路径E03](RESOURCE-PATHS-E03.md)；下一项Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala（ECCA567）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-12，E04）
+
+索引第136–139项；本轮新增4条调查，非同数新缺书。详见[资源路径E04](RESOURCE-PATHS-E04.md)；下一项Encomium on Thomas, by Nicetas of Paphlagonia（ECCA294）。按用户指示，批次存档后持续推进，直至要求停止。

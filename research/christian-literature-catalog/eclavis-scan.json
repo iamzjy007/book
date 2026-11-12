@@ -2,7 +2,7 @@
   "schema": 1,
   "date_beijing": "2026-11-12",
   "task": "eclavis-systematic",
-  "scope": "索引开头连续135项；当前字母区段按游标定位；未取得版本继续保留。",
+  "scope": "索引开头连续139项；当前字母区段按游标定位；未取得版本继续保留。",
   "records": [
     {
       "ordinal": 1,
@@ -1351,15 +1351,55 @@
       "evidence": "manifest未见本颂独立记录；中文总集抹大拉马利亚颂／Magdalene未定位；《马利亚福音》不是本作品。",
       "ordinal": 135,
       "batch": "2026-11-12-eclavis-e03"
+    },
+    {
+      "ecca": "567",
+      "title": "Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e04:ECCA-567",
+      "evidence": "manifest与中文总集十二使徒颂／Severian未见命中；使徒行传和殉道选篇不代表本颂。",
+      "ordinal": 136,
+      "batch": "2026-11-12-eclavis-e04"
+    },
+    {
+      "ecca": "376",
+      "title": "Encomium on Paul, by Nicetas of Paphlagonia",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-paul-by-nicetas-of-paphlagonia/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e04:ECCA-376",
+      "evidence": "manifest与中文总集保罗颂／Nicetas未命中；已有保罗行传不自动代表本篇。",
+      "ordinal": 137,
+      "batch": "2026-11-12-eclavis-e04"
+    },
+    {
+      "ecca": "413",
+      "title": "Encomium on Philip",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-philip/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e04:ECCA-413",
+      "evidence": "manifest与中文总集腓力颂／斐理伯颂／Frey未命中；已有腓力行传并非本颂。",
+      "ordinal": 138,
+      "batch": "2026-11-12-eclavis-e04"
+    },
+    {
+      "ecca": "135",
+      "title": "Encomium on Philip, by Nicetas of Paphlagonia",
+      "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-philip-by-nicetas-of-paphlagonia/",
+      "decision": "candidate_inventory_unconfirmed",
+      "record_id": "eclavis_e04:ECCA-135",
+      "evidence": "manifest与中文总集腓力颂／Nicetas未命中；不据已有腓力行传取消候选。",
+      "ordinal": 139,
+      "batch": "2026-11-12-eclavis-e04"
     }
   ],
   "next_cursor": {
     "index_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/",
-    "last_completed_title": "Encomium on Mary Magdalene",
-    "last_completed_ecca": "744",
-    "next_title": "Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala",
-    "next_ecca": "567",
-    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala/",
+    "last_completed_title": "Encomium on Philip, by Nicetas of Paphlagonia",
+    "last_completed_ecca": "135",
+    "next_title": "Encomium on Thomas, by Nicetas of Paphlagonia",
+    "next_ecca": "294",
+    "next_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-thomas-by-nicetas-of-paphlagonia/",
     "pagination": "单页索引，以相邻题名及ECCA定位，无分页cursor。",
     "unresolved_before_cursor": [
       "Aberdeen Ostracon ECCA984占位未解决",
@@ -1390,7 +1430,8 @@
       "2026-11-12-eclavis-d07未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e01未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
       "2026-11-12-eclavis-e02未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
-      "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
+      "2026-11-12-eclavis-e03未取得或访问受阻版本见工作记录；不因游标推进取消待办。",
+      "2026-11-12-eclavis-e04未取得或访问受阻版本见工作记录；不因游标推进取消待办。"
     ]
   },
   "milestones": [

@@ -3,10 +3,10 @@
   "date_beijing": "2026-11-12",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 236,
-    "catalogue_records_after_one_merge": 235,
+    "worker_records": 240,
+    "catalogue_records_after_one_merge": 239,
     "modern_anthology_gateways": 1,
-    "unique_source_urls": 345
+    "unique_source_urls": 349
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -156,6 +156,10 @@
     {
       "path": "workers/eclavis_e03.json",
       "sha256": "f09fb8567b18768007da2e2ebe53b54c9f720bfa2e4513e2e97603372575a6c7"
+    },
+    {
+      "path": "workers/eclavis_e04.json",
+      "sha256": "9590d71f2d7d3614e54e20b7dcfeb5b32c7ed9566d91a751dd40136e08541fc1"
     }
   ],
   "records": [
@@ -14219,6 +14223,256 @@
           "limits": "出版年份差异需依具体引用版本注明",
           "language": "法语",
           "resource_type": "publisher_metadata",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e04:ECCA-567",
+      "area": "e-Clavis系统扫描续查E04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "伪加巴拉塞维里安：十二使徒颂",
+      "original_title": "Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "科普特语／阿拉伯语；意译及英译",
+      "synopsis": "在使徒纪念日宣讲的颂词，兼有马可、路加等传统；各抄本内容和日期有异。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest与中文总集十二使徒颂／Severian未见命中；使徒行传和殉道选篇不代表本颂。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest与中文总集十二使徒颂／Severian未见命中；使徒行传和殉道选篇不代表本颂。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "继续核2011新萨希德残片及其相对1993、2004校本新增内容；保留科普特与双阿拉伯本差异。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e04.json",
+      "worker_entry_id": "ECCA-567",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "567",
+        "CC": "0331",
+        "CPG": "4281"
+      },
+      "resources": [
+        {
+          "url": "https://www.cmcl.it/~cmcl/severiano_vol1.pdf",
+          "edition": "Davide Righi, In apostolos (2004), 第一卷，CMCL公开版本",
+          "location": "260页PDF；科普特文及意译118–213=PDF118–213；意译起首119",
+          "verified": "实际读取封面、目录、119§1–14与213§632–637及colophon，214空白",
+          "limits": "仅核首尾，未通读96页。科普特本题头称彼得被钉十字架，末colophon却称被斩首，照录差异不擅改；PDF在内存提取指定页，未整本保存",
+          "language": "科普特语／意大利语",
+          "resource_type": "institution_hosted_edition_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.cmcl.it/~cmcl/severiano_vol2.pdf",
+          "edition": "Davide Righi, In apostolos (2004), 第二卷",
+          "location": "178页PDF；双阿拉伯本及意译262–405=PDF6–149；补充题记406–407=PDF150–151",
+          "verified": "实际读263双列起首与405结尾§732–736和colophon、407题记，及309中段",
+          "limits": "V和C两本并列；起首纪念日分别5Abib与6Hatur，不能抹平为统一文本；只核指定页；阿拉伯字体文本抽取乱码，意译可读，原文待图像核对",
+          "language": "阿拉伯语／意大利语",
+          "resource_type": "institution_hosted_parallel_versions_translation",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.peeters-leuven.be/catalogue_download.php?n=995%24General+Catalogue+2022.pdf",
+          "edition": "Foat译文所收Encomiastica, CSCO544/545 (1993)",
+          "location": "科普特85–130／英语65–101据NASSCAL；出版方目录确认544文字卷、545翻译卷",
+          "verified": "实际检索出版方目录确认卷号和配套关系",
+          "limits": "尚未取得该英译正文；不能将Righi意译标成英语译文",
+          "language": "英语",
+          "resource_type": "publisher_translation_catalogue",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e04:ECCA-376",
+      "area": "e-Clavis系统扫描续查E04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "帕夫拉戈尼亚的尼基塔斯：保罗颂",
+      "original_title": "Encomium on Paul, by Nicetas of Paphlagonia",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；法译",
+      "synopsis": "把正典使徒行传与保罗、彼得传说合并的保罗颂词。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest与中文总集保罗颂／Nicetas未命中；已有保罗行传不自动代表本篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest与中文总集保罗颂／Nicetas未命中；已有保罗行传不自动代表本篇。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "优先取得Vogt1931 pp58–97；核gr755叶码及现代法译版本。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-paul-by-nicetas-of-paphlagonia/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e04.json",
+      "worker_entry_id": "ECCA-376",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "376",
+        "CANT": "214",
+        "BHG": "1462n"
+      },
+      "resources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-paul-by-nicetas-of-paphlagonia/",
+          "edition": "Albert Vogt, Deux discours inédits de Nicétas de Paphlagonie, OrChr23.1/no.71 (1931)",
+          "location": "全刊5–97；本篇希法对照58–97据条目",
+          "verified": "实际读e-Clavis身份与版本清单；同期Estudios Eclesiásticos书评检索也确认OrChrXXIII-1/no71与1931",
+          "limits": "未取得Vogt正文；不能因作者其他颂词在PG105即假定本篇也已收于PG；保存可追踪书目路径",
+          "language": "希腊语／法语",
+          "resource_type": "critical_edition_translation_bibliography",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://gallica.bnf.fr/ark:/12148/btv1b10509299n/f1.item",
+          "edition": "BnF Paris gr.755在线图像入口",
+          "location": "本篇fols76r–93v据NASSCAL",
+          "verified": "实际跟随条目Gallica链接返回403",
+          "limits": "未见目标手稿图像；入口保存待重试；手稿不是现成法译",
+          "language": "希腊语",
+          "resource_type": "institution_manuscript_gateway_403",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e04:ECCA-413",
+      "area": "e-Clavis系统扫描续查E04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "匿名腓力颂",
+      "original_title": "Encomium on Philip",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；法译",
+      "synopsis": "十一月圣徒传集中的腓力颂，与尼基塔斯版分立。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest与中文总集腓力颂／斐理伯颂／Frey未命中；已有腓力行传并非本颂。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest与中文总集腓力颂／斐理伯颂／Frey未命中；已有腓力行传并非本颂。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "取得Frey181–209希法对照；与BHG1530尼基塔斯版独立比较。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-philip/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e04.json",
+      "worker_entry_id": "ECCA-413",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "413",
+        "BHG": "1530b"
+      },
+      "resources": [
+        {
+          "url": "https://www.brepols.net/products/IS-9782503502892-1",
+          "edition": "Albert Frey, L’Éloge de Philippe… BHG1530b, Apocrypha3 (1992)",
+          "location": "论文165–209，希法对照181–209据NASSCAL；整期286页，ISBN9782503502892",
+          "verified": "实际读出版方页面题名、1992年及目录中Frey本篇；确认电子版入口",
+          "limits": "未读论文正文；1983日内瓦学位稿另版不能与1992页码混用",
+          "language": "希腊语／法语",
+          "resource_type": "publisher_edition_translation_record",
+          "checked_date_beijing": "2026-11-12"
+        },
+        {
+          "url": "https://www.brepolsonline.net/toc/apocra/1992/3/+",
+          "edition": "Apocrypha3电子版目录",
+          "location": "出版方页面所链电子期刊",
+          "verified": "实际点击返回403",
+          "limits": "不标为已取得电子正文；保存正规在线入口",
+          "language": "法语",
+          "resource_type": "publisher_ejournal_gateway_403",
+          "checked_date_beijing": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "eclavis_e04:ECCA-135",
+      "area": "e-Clavis系统扫描续查E04",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "帕夫拉戈尼亚的尼基塔斯：腓力颂",
+      "original_title": "Encomium on Philip, by Nicetas of Paphlagonia",
+      "author_or_attribution": "匿名／传统归托",
+      "date": "本批未定；不以抄本年代代替成书年代",
+      "language": "希腊语；拉丁译文",
+      "synopsis": "尼基塔斯对腓力事迹的颂词，独立于BHG1530b匿名作品。",
+      "value": {
+        "historical": "使徒传统、地方教会记忆和版本比较材料",
+        "spiritual": "待结合全文与文类评估"
+      },
+      "cautions": "须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "manifest与中文总集腓力颂／Nicetas未命中；不据已有腓力行传取消候选。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "manifest与中文总集腓力颂／Nicetas未命中；不据已有腓力行传取消候选。"
+      },
+      "priority": "按实际版本覆盖与可得性继续核查",
+      "next": "核1672 CombefisI379–386及1916 Moscow异文1517–1519；保留附录奇迹文本与本颂边界。",
+      "sources": [
+        {
+          "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-philip-by-nicetas-of-paphlagonia/",
+          "institution": "NASSCAL e-Clavis",
+          "read_scope": "实际读取身份、概要或版本书目；未通读所列校本",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "worker_record": "workers/eclavis_e04.json",
+      "worker_entry_id": "ECCA-135",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "clavis": {
+        "ECCA": "135",
+        "BHG": "1530"
+      },
+      "resources": [
+        {
+          "url": "https://archive.org/details/patrologia-graeca_202105/105",
+          "edition": "Migne, PG105 (1862), OratioIX",
+          "location": "拉丁163–183／希腊164–184；BookReader leaf86–96，86底部起篇",
+          "verified": "实际查看163/164 OratioIX独立题头、171/172中段、183/184赞辞及Amen结尾；卷题页CV及1862已核",
+          "limits": "184下方另起Ex miraculis Philippi，不并入本颂。只核首尾和中段，未逐栏通读；现代译文栏目空白不等于不存在现代译文",
+          "language": "希腊语／拉丁语",
+          "resource_type": "verified_historic_edition_translation",
           "checked_date_beijing": "2026-11-12"
         }
       ]

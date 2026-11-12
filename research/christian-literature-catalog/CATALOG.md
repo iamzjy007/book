@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **235条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **239条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E03.md](RESOURCE-PATHS-E03.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-E04.md](RESOURCE-PATHS-E04.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -6503,3 +6503,117 @@ Marutha在亚美尼亚寻找巴多罗买遗物并迁至Maypherkat的叙事。
 资源路径：[IFAO出版记录](https://www.ifao.egnet.net/publications/catalogue/?nif=BIFAO090_art_09.pdf&nv=0) — BIFAO90，1991，169–212，44页；实际检索出版方书目与公开PDF入口；出版年份差异需依具体引用版本注明
 
 [完整调查记录](workers/eclavis_e03.json)，条目 `ECCA-744`。
+
+## e-Clavis系统扫描续查E04
+
+### 伪加巴拉塞维里安：十二使徒颂
+
+- **原题：** Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 科普特语／阿拉伯语；意译及英译
+
+在使徒纪念日宣讲的颂词，兼有马可、路加等传统；各抄本内容和日期有异。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest与中文总集十二使徒颂／Severian未见命中；使徒行传和殉道选篇不代表本颂。
+
+**下一步：** 继续核2011新萨希德残片及其相对1993、2004校本新增内容；保留科普特与双阿拉伯本差异。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Davide Righi, In apostolos (2004), 第一卷，CMCL公开版本](https://www.cmcl.it/~cmcl/severiano_vol1.pdf) — 260页PDF；科普特文及意译118–213=PDF118–213；意译起首119；实际读取封面、目录、119§1–14与213§632–637及colophon，214空白；仅核首尾，未通读96页。科普特本题头称彼得被钉十字架，末colophon却称被斩首，照录差异不擅改；PDF在内存提取指定页，未整本保存
+
+资源路径：[Davide Righi, In apostolos (2004), 第二卷](https://www.cmcl.it/~cmcl/severiano_vol2.pdf) — 178页PDF；双阿拉伯本及意译262–405=PDF6–149；补充题记406–407=PDF150–151；实际读263双列起首与405结尾§732–736和colophon、407题记，及309中段；V和C两本并列；起首纪念日分别5Abib与6Hatur，不能抹平为统一文本；只核指定页；阿拉伯字体文本抽取乱码，意译可读，原文待图像核对
+
+资源路径：[Foat译文所收Encomiastica, CSCO544/545 (1993)](https://www.peeters-leuven.be/catalogue_download.php?n=995%24General+Catalogue+2022.pdf) — 科普特85–130／英语65–101据NASSCAL；出版方目录确认544文字卷、545翻译卷；实际检索出版方目录确认卷号和配套关系；尚未取得该英译正文；不能将Righi意译标成英语译文
+
+[完整调查记录](workers/eclavis_e04.json)，条目 `ECCA-567`。
+
+### 帕夫拉戈尼亚的尼基塔斯：保罗颂
+
+- **原题：** Encomium on Paul, by Nicetas of Paphlagonia
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；法译
+
+把正典使徒行传与保罗、彼得传说合并的保罗颂词。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest与中文总集保罗颂／Nicetas未命中；已有保罗行传不自动代表本篇。
+
+**下一步：** 优先取得Vogt1931 pp58–97；核gr755叶码及现代法译版本。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-paul-by-nicetas-of-paphlagonia/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Albert Vogt, Deux discours inédits de Nicétas de Paphlagonie, OrChr23.1/no.71 (1931)](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-paul-by-nicetas-of-paphlagonia/) — 全刊5–97；本篇希法对照58–97据条目；实际读e-Clavis身份与版本清单；同期Estudios Eclesiásticos书评检索也确认OrChrXXIII-1/no71与1931；未取得Vogt正文；不能因作者其他颂词在PG105即假定本篇也已收于PG；保存可追踪书目路径
+
+资源路径：[BnF Paris gr.755在线图像入口](https://gallica.bnf.fr/ark:/12148/btv1b10509299n/f1.item) — 本篇fols76r–93v据NASSCAL；实际跟随条目Gallica链接返回403；未见目标手稿图像；入口保存待重试；手稿不是现成法译
+
+[完整调查记录](workers/eclavis_e04.json)，条目 `ECCA-376`。
+
+### 匿名腓力颂
+
+- **原题：** Encomium on Philip
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；法译
+
+十一月圣徒传集中的腓力颂，与尼基塔斯版分立。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest与中文总集腓力颂／斐理伯颂／Frey未命中；已有腓力行传并非本颂。
+
+**下一步：** 取得Frey181–209希法对照；与BHG1530尼基塔斯版独立比较。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-philip/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Albert Frey, L’Éloge de Philippe… BHG1530b, Apocrypha3 (1992)](https://www.brepols.net/products/IS-9782503502892-1) — 论文165–209，希法对照181–209据NASSCAL；整期286页，ISBN9782503502892；实际读出版方页面题名、1992年及目录中Frey本篇；确认电子版入口；未读论文正文；1983日内瓦学位稿另版不能与1992页码混用
+
+资源路径：[Apocrypha3电子版目录](https://www.brepolsonline.net/toc/apocra/1992/3/+) — 出版方页面所链电子期刊；实际点击返回403；不标为已取得电子正文；保存正规在线入口
+
+[完整调查记录](workers/eclavis_e04.json)，条目 `ECCA-413`。
+
+### 帕夫拉戈尼亚的尼基塔斯：腓力颂
+
+- **原题：** Encomium on Philip, by Nicetas of Paphlagonia
+- **作者／归属：** 匿名／传统归托
+- **年代：** 本批未定；不以抄本年代代替成书年代
+- **语言：** 希腊语；拉丁译文
+
+尼基塔斯对腓力事迹的颂词，独立于BHG1530b匿名作品。
+
+**价值：** historical：使徒传统、地方教会记忆和版本比较材料；spiritual：待结合全文与文类评估
+
+**文本注意：** 须分辨作品、版本、节译及后期改写；不能直接据传说认定使徒时代事实
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：manifest与中文总集腓力颂／Nicetas未命中；不据已有腓力行传取消候选。
+
+**下一步：** 核1672 CombefisI379–386及1916 Moscow异文1517–1519；保留附录奇迹文本与本颂边界。
+
+**来源：**
+- [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-philip-by-nicetas-of-paphlagonia/) — 实际读取身份、概要或版本书目；未通读所列校本
+
+资源路径：[Migne, PG105 (1862), OratioIX](https://archive.org/details/patrologia-graeca_202105/105) — 拉丁163–183／希腊164–184；BookReader leaf86–96，86底部起篇；实际查看163/164 OratioIX独立题头、171/172中段、183/184赞辞及Amen结尾；卷题页CV及1862已核；184下方另起Ex miraculis Philippi，不并入本颂。只核首尾和中段，未逐栏通读；现代译文栏目空白不等于不存在现代译文
+
+[完整调查记录](workers/eclavis_e04.json)，条目 `ECCA-135`。
