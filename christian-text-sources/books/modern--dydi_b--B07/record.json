@@ -55,11 +55,67 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.989312+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Charles Stanley：Life Principle 22 Walking In The Holy Spirit 讲章大纲／改编正文",
+        "url": "https://www.intouch.org/watch/sermons/life-principle-22-walking-in-the-holy-spirit",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "In Touch Watch／Sermon Outline；标 2019-11-01；改编自 The Charles F. Stanley Life Principles Bible ©2009",
+        "coverage": "单篇讲章页：经文列表、Sermon Outline 要点与结语可读；不是整本 Life Principles Bible",
+        "verification": "实际打开页面：可见标题、日期、多处经文与完整大纲段落至结尾 Trust Him to guide you；标明 Adapted from…；未播放视频。",
+        "accessed": "2026-11-13",
+        "rights_note": "保存路径；现代版权；大纲／改编文不等于原书全文。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "In Touch 文章：Good News of Great Joy（改编讲章）",
+        "url": "https://www.intouch.org/read/articles/good-news-of-great-joy",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Read/Articles；改编自讲章 Great Joy",
+        "coverage": "单篇文章可读；相对事工全库为样本",
+        "verification": "打开文章页可见标题、作者 Charles F. Stanley、经文与正文段落及 Adapted from the sermon 声明。",
+        "accessed": "2026-11-13",
+        "rights_note": "保存路径，不复制全文入库。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "In Touch Store（付费渠道标注）",
+        "url": "https://store.intouch.org/",
+        "kind": "restricted",
+        "language": "英语",
+        "edition": "官方商店（原研究已提示 Store 售产品）",
+        "coverage": "付费产品；非全部讲章免费文字稿",
+        "verification": "原研究 access_and_cost 已提示 Store；本批记录购买入口供后续统一处理；未下单。若域名跳转以当时官网为准。",
+        "accessed": "2026-11-13",
+        "rights_note": "付费；用户后续采购。",
+        "purchase_url": "https://store.intouch.org/"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.intouch.org/watch/sermons/life-principle-22-walking-in-the-holy-spirit",
+        "result": "打开讲章页；核大纲与改编声明；未播放影音。"
+      },
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.intouch.org/read/articles/good-news-of-great-joy",
+        "result": "打开文章页至改编声明。"
+      },
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "purchase_channel_lookup",
+        "url": "https://store.intouch.org/",
+        "result": "标注付费商店入口；未代购。"
+      }
+    ],
+    "next_action": "已核讲章大纲页与一篇改编文章；视频未对时。Life Principles Bible 纸书／电子书若需全书另寻购买版并核 ISBN。中文资源待核。",
+    "updated_at": "2026-11-13T07:15:29.322498+00:00"
   }
 }

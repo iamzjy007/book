@@ -65,11 +65,54 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['以China’s Millions和West China Missionary News抽查卷期、永久链接与下载；逐卷记录缺页和OCR质量。']",
-    "updated_at": "2026-11-10T09:17:54.990620+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Internet Archive：China’s Millions 1879 卷（影像＋OCR 文本流）",
+        "url": "https://archive.org/details/chinasmillions1879chin",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "China’s Millions 1879；Archive ID chinasmillions1879chin；含 page viewer 与 djvu.txt OCR",
+        "coverage": "整卷扫描在线可读；OCR 文本流可下载但质量粗糙（地图页等噪声多）；不等于耶鲁全部卷期齐套",
+        "verification": "打开 details 与 /page/n7/mode/1up；下载 chinasmillions1879chin_djvu.txt 得 text/plain，可见 CHINA/Millions/Hudson 等词与馆藏页眉。",
+        "accessed": "2026-11-13",
+        "rights_note": "公有领域扫描候选；以 Archive 权利声明为准。",
+        "content_unit_status": "scan_candidate"
+      },
+      {
+        "label": "Yale Guide：China’s Millions 在线卷期列表",
+        "url": "https://guides.library.yale.edu/missionperiodicals/chinas_millions",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "Mission Periodicals Online；链 Yale Digital Collections 与 NYPL full view",
+        "coverage": "列 1879、1886–1912 等卷期链接；非单卷正文",
+        "verification": "打开指南页：核题名、Morgan & Scott London、Yale Digital Collections 与 Full view 1884–1886 链。",
+        "accessed": "2026-11-13",
+        "rights_note": "机构指南公开。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-13T07:27:27.707793+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://archive.org/details/chinasmillions1879chin",
+        "result": "打开 1879 卷详情与翻页器。"
+      },
+      {
+        "date": "2026-11-13T07:27:27.707793+00:00",
+        "method": "ocr_text_stream_verification",
+        "url": "https://archive.org/download/chinasmillions1879chin/chinasmillions1879chin_djvu.txt",
+        "result": "下载 OCR 文本流样本；质量粗糙但可确认卷别。"
+      },
+      {
+        "date": "2026-11-13T07:27:27.707793+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://guides.library.yale.edu/missionperiodicals/chinas_millions",
+        "result": "核耶鲁卷期列表入口。"
+      }
+    ],
+    "next_action": "已核 1879 一卷扫描与耶鲁卷期表。后续抽 West China Missionary News；逐卷记缺页与 OCR 质量。Yale Digital Collections 直链可再核。",
+    "updated_at": "2026-11-13T07:27:27.707793+00:00"
   }
 }

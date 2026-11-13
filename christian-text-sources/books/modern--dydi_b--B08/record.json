@@ -64,11 +64,67 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.989450+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Chuck Swindoll：Major Realities of Life, Part One 日课全文",
+        "url": "https://insight.org/resources/daily-devotional/major-realities-of-life-part-one",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Insight for Today 日课；标 September 3, 2026；摘自 Living on the Ragged Edge ©1985,2004",
+        "coverage": "单日灵修全文（主权之手、死亡确定性等段）可读；注明 Taken from… HarperCollins 许可；非整书",
+        "verification": "实际读取日课页正文至第三现实引入及版权行；未把日课日期当作原书出版日。",
+        "accessed": "2026-11-13",
+        "rights_note": "现代版权日课；路径保存；全书需另购 Living on the Ragged Edge。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "日课库入口（近三月列表）",
+        "url": "https://insight.org/resources/daily-devotional",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "Devotional Library",
+        "coverage": "可浏览多篇日课题名与日期；不等于已核全部正文",
+        "verification": "打开库页见多条题名与日期列表。",
+        "accessed": "2026-11-13",
+        "rights_note": "公开日课与付费书籍／CD 并存。"
+      },
+      {
+        "label": "Living on the Ragged Edge 原书购买线索（付费）",
+        "url": "https://www.harpercollinschristian.com/",
+        "kind": "restricted",
+        "language": "英语",
+        "edition": "日课页版权指向 HarperCollins Christian Publishing",
+        "coverage": "原书付费出版渠道线索",
+        "verification": "据日课 Taken from 行记录出版方；具体 ISBN／购买页待用户下单时再核。",
+        "accessed": "2026-11-13",
+        "rights_note": "付费；后续统一采购。",
+        "purchase_url": "https://www.harpercollinschristian.com/",
+        "purchase_note": "检索书名 Living on the Ragged Edge Charles Swindoll；日课页 www.harpercollinschristian.com"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://insight.org/resources/daily-devotional",
+        "result": "打开日课库列表。"
+      },
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://insight.org/resources/daily-devotional/major-realities-of-life-part-one",
+        "result": "打开单日全文与版权行；savor-the-meal 工具超时，改用本篇。"
+      },
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "purchase_channel_lookup",
+        "url": "https://www.harpercollinschristian.com/",
+        "result": "标注原书出版方购买线索；未代购。"
+      }
+    ],
+    "next_action": "已核单日灵修全文样本与日课库入口。整书 Living on the Ragged Edge／其他 workbooks 付费，见购买线索。中文待核。",
+    "updated_at": "2026-11-13T07:15:29.322498+00:00"
   }
 }

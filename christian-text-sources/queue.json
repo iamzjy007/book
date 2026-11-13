@@ -1,98 +1,8 @@
 {
   "schema": 1,
   "active_scope": "modern-christian-resources",
-  "next_task": "modern:dydi_b:B06",
+  "next_task": "modern:dydi_c:MC04",
   "tasks": [
-    {
-      "id": "modern:dydi_b:B06",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B06/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 128,
-      "updated_at": "2026-11-10T09:17:54.989175+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B07",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B07/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 129,
-      "updated_at": "2026-11-10T09:17:54.989312+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B08",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B08/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 130,
-      "updated_at": "2026-11-10T09:17:54.989450+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B09",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B09/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 131,
-      "updated_at": "2026-11-10T09:17:54.989603+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B10",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B10/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 132,
-      "updated_at": "2026-11-10T09:17:54.989760+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B11",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B11/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 133,
-      "updated_at": "2026-11-10T09:17:54.989909+00:00"
-    },
-    {
-      "id": "modern:dydi_b:B12",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-      "record_path": "books/modern--dydi_b--B12/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 134,
-      "updated_at": "2026-11-10T09:17:54.990096+00:00"
-    },
-    {
-      "id": "modern:dydi_c:MC01",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['选定Collection 15/74，核开放限制与实际数字对象；不要把展览建站时间当档案年代。']",
-      "record_path": "books/modern--dydi_c--MC01/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 135,
-      "updated_at": "2026-11-10T09:17:54.990260+00:00"
-    },
-    {
-      "id": "modern:dydi_c:MC02",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['浏览器核CARLI具体书信、图像和转录覆盖；区别本学院与Northfield Moody Center馆藏。']",
-      "record_path": "books/modern--dydi_c--MC02/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 136,
-      "updated_at": "2026-11-10T09:17:54.990438+00:00"
-    },
-    {
-      "id": "modern:dydi_c:MC03",
-      "status": "queued",
-      "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['以China’s Millions和West China Missionary News抽查卷期、永久链接与下载；逐卷记录缺页和OCR质量。']",
-      "record_path": "books/modern--dydi_c--MC03/record.json",
-      "scope": "modern-christian-resources",
-      "sequence": 137,
-      "updated_at": "2026-11-10T09:17:54.990620+00:00"
-    },
     {
       "id": "modern:dydi_c:MC04",
       "status": "queued",
@@ -587,6 +497,96 @@
       "scope": "modern-christian-resources",
       "sequence": 127,
       "updated_at": "2026-11-10T09:24:04.671732+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B06",
+      "status": "partial_online",
+      "next_action": "已核单篇讲章文字稿样本；后续可按经文系列另选一篇核对日期与音视频一致性。付费注释／纸书见 shop.gty.org，未代购。中文官方资源仍待核。",
+      "record_path": "books/modern--dydi_b--B06/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 128,
+      "updated_at": "2026-11-13T07:15:29.322498+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B07",
+      "status": "partial_online",
+      "next_action": "已核讲章大纲页与一篇改编文章；视频未对时。Life Principles Bible 纸书／电子书若需全书另寻购买版并核 ISBN。中文资源待核。",
+      "record_path": "books/modern--dydi_b--B07/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 129,
+      "updated_at": "2026-11-13T07:15:29.322498+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B08",
+      "status": "partial_online",
+      "next_action": "已核单日灵修全文样本与日课库入口。整书 Living on the Ragged Edge／其他 workbooks 付费，见购买线索。中文待核。",
+      "record_path": "books/modern--dydi_b--B08/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 130,
+      "updated_at": "2026-11-13T07:15:29.322498+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B09",
+      "status": "partial_online",
+      "next_action": "已核两篇完整英语问答。全站未穷尽。中文站 gotquestions.org/Chinese 等映射待另批抽核。推荐书付费链接随页而变，采购时取当页。",
+      "record_path": "books/modern--dydi_b--B09/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 131,
+      "updated_at": "2026-11-13T07:15:29.322498+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B10",
+      "status": "partial_online",
+      "next_action": "已核一篇完整文章与一本免费书下载入口（文件未落盘）。相关 Crossway 专著付费，见 purchase_note。免费课程材料另见 Membership Matters 资源页。中文待核。",
+      "record_path": "books/modern--dydi_b--B10/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 132,
+      "updated_at": "2026-11-13T07:15:29.322498+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B11",
+      "status": "partial_online",
+      "next_action": "已核 Hebrews 单课概览与 HRM Pt.1 笔记正文（PDF 未落盘）。后续可选落盘笔记 PDF、抽查其他 Hebrews 课笔记。视频本身非文字全文。中文待核。",
+      "record_path": "books/modern--dydi_b--B11/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 133,
+      "updated_at": "2026-11-13T07:27:27.707793+00:00"
+    },
+    {
+      "id": "modern:dydi_b:B12",
+      "status": "partial_online",
+      "next_action": "已核一篇完整 Q&A。专著经 Store 付费。Defenders 课程与 Translations 入口可另抽查。中文 Translations 曾遇 403，待再核。",
+      "record_path": "books/modern--dydi_b--B12/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 134,
+      "updated_at": "2026-11-13T07:27:27.707793+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC01",
+      "status": "partial_online",
+      "next_action": "已核一件 Graham 关联展览说明与门户。Transcript PDF 与 Collection 15/74 数字对象待过验证后抽查。付费/版权件联系馆方。",
+      "record_path": "books/modern--dydi_c--MC01/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 135,
+      "updated_at": "2026-11-13T07:27:27.707793+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC02",
+      "status": "partial_online",
+      "next_action": "已核一封带完整转录的 Moody 书信。可继续抽查其他 id；现场未数字化信件仍按 Moody 档案政策。区别 Northfield Moody Center。",
+      "record_path": "books/modern--dydi_c--MC02/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 136,
+      "updated_at": "2026-11-13T07:27:27.707793+00:00"
+    },
+    {
+      "id": "modern:dydi_c:MC03",
+      "status": "partial_online",
+      "next_action": "已核 1879 一卷扫描与耶鲁卷期表。后续抽 West China Missionary News；逐卷记缺页与 OCR 质量。Yale Digital Collections 直链可再核。",
+      "record_path": "books/modern--dydi_c--MC03/record.json",
+      "scope": "modern-christian-resources",
+      "sequence": 137,
+      "updated_at": "2026-11-13T07:27:27.707793+00:00"
     },
     {
       "id": "dydi_a:east-aphrahat",

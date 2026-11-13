@@ -1,8 +1,8 @@
 # 近现代资源内容获取进度
 
-共65条去重资源；已初检20条、待初检45条。部分正文13条、仅书目／版本入口7条。书籍、作者、文章平台、期刊及馆藏分列；单篇全文不代表全站或全书取得。
+共65条去重资源；已初检30条、待初检35条。部分正文23条、仅书目／版本入口7条。书籍、作者、文章平台、期刊及馆藏分列；单篇全文不代表全站或全书取得。
 
-下一任务：`modern:dydi_b:B06`。断点以[queue.json](queue.json)、各条record及[最新阶段报告](REPORT.md)为准。
+下一任务：`modern:dydi_c:MC04`。断点以[queue.json](queue.json)、各条record及[最新阶段报告](REPORT.md)为准。
 
 | 序号 | 资源档案 | 原研究类型 | 获取状态 | 已核资源及渠道 |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@
 | 125 | [Ligonier Ministries / Renewing Your Mind](books/modern--dydi_b--B03/README.md) | 教义文章、讲章、广播与播客 | 部分正文可直达 | [Ligonier：The Prayer of the Lord具页码原书节选](https://www.ligonier.org/posts/the-prayer-of-the-lord-by-rc-sproul) |
 | 126 | [Truth For Life / Alistair Begg](books/modern--dydi_b--B04/README.md) | 释经讲章、广播、文章、灵修 | 部分正文可直达 | [Alistair Begg：How Great a Salvation!完整讲章文字稿](https://www.truthforlife.org/resources/sermon/how-great-a-salvation/) |
 | 127 | [BibleProject](books/modern--dydi_b--B05/README.md) | 圣经主题视频、长篇对谈播客、课程、文章 | 部分正文可直达 | [What Is the Bible?具体视频与下载导航](https://bibleproject.com/videos/what-is-bible/)；[官方3页Script References：逐字对话及出处](https://d1bsmz3sdihplr.cloudfront.net/media/Script%20References/What_Is_The_Bible_Script-References.pdf)；[官方5页Video Study Notes](https://d1bsmz3sdihplr.cloudfront.net/media/Study%20Notes/What_Is_the_Bible_Study_Notes.pdf) |
-| 128 | [Grace to You / John MacArthur](books/modern--dydi_b--B06/README.md) | 讲章档案、广播、灵修、问答播客 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 129 | [In Touch Ministries / Charles Stanley](books/modern--dydi_b--B07/README.md) | 灵修文章、广播、讲道视频 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 130 | [Insight for Living / Chuck Swindoll](books/modern--dydi_b--B08/README.md) | 广播、文章库、日用灵修、查经 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 131 | [Got Questions Ministries / GotQuestions.org](books/modern--dydi_b--B09/README.md) | 圣经问答文章、音视频与播客 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 132 | [9Marks](books/modern--dydi_b--B10/README.md) | 牧养文章、书评、期刊、播客与课程 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 133 | [BibleThinker / Mike Winger](books/modern--dydi_b--B11/README.md) | 长篇视频释经、专题研究、直播问答与播客 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 134 | [Reasonable Faith / William Lane Craig](books/modern--dydi_b--B12/README.md) | 护教文章、每周问答、播客、讲座与辩论 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 135 | [惠顿学院 Billy Graham 相关档案与数字展览](books/modern--dydi_c--MC01/README.md) | 个人/机构档案及数字展览 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 136 | [穆迪圣经学院 D. L. Moody Collection](books/modern--dydi_c--MC02/README.md) | 书信、讲章笔记、剪报档案 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
-| 137 | [耶鲁 Day Missions Collection：宣教期刊数字化馆藏](books/modern--dydi_c--MC03/README.md) | 近现代宣教期刊 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
+| 128 | [Grace to You / John MacArthur](books/modern--dydi_b--B06/README.md) | 讲章档案、广播、灵修、问答播客 | 部分正文可直达 | [John MacArthur：The Unparalleled Humility of Jesus 完整讲章文字稿](https://www.gty.org/sermons/81-60/the-unparalleled-humility-of-jesus)；[GTY 官方商店／书籍购买入口（付费）](https://shop.gty.org/store/books) |
+| 129 | [In Touch Ministries / Charles Stanley](books/modern--dydi_b--B07/README.md) | 灵修文章、广播、讲道视频 | 部分正文可直达 | [Charles Stanley：Life Principle 22 Walking In The Holy Spirit 讲章大纲／改编正文](https://www.intouch.org/watch/sermons/life-principle-22-walking-in-the-holy-spirit)；[In Touch 文章：Good News of Great Joy（改编讲章）](https://www.intouch.org/read/articles/good-news-of-great-joy)；[In Touch Store（付费渠道标注）](https://store.intouch.org/) |
+| 130 | [Insight for Living / Chuck Swindoll](books/modern--dydi_b--B08/README.md) | 广播、文章库、日用灵修、查经 | 部分正文可直达 | [Chuck Swindoll：Major Realities of Life, Part One 日课全文](https://insight.org/resources/daily-devotional/major-realities-of-life-part-one)；[日课库入口（近三月列表）](https://insight.org/resources/daily-devotional)；[Living on the Ragged Edge 原书购买线索（付费）](https://www.harpercollinschristian.com/) |
+| 131 | [Got Questions Ministries / GotQuestions.org](books/modern--dydi_b--B09/README.md) | 圣经问答文章、音视频与播客 | 部分正文可直达 | [GotQuestions：What is the gospel? 完整问答](https://www.gotquestions.org/what-is-the-gospel.html)；[相关篇：What are the essentials of the gospel message?](https://www.gotquestions.org/gospel-message.html)；[推荐书籍／Amazon·Logos 付费渠道（原研究已提示）](https://www.gotquestions.org/donate.html) |
+| 132 | [9Marks](books/modern--dydi_b--B10/README.md) | 牧养文章、书评、期刊、播客与课程 | 部分正文可直达 | [Jonathan Leeman：What Is Church Membership? 完整文章](https://www.9marks.org/article/what-is-church-membership/)；[Rediscover Church 免费下载入口](https://www.9marks.org/rediscover-church-free-download/)；[Church Membership / Church Discipline 等 Crossway 付费书](https://www.crossway.org/) |
+| 133 | [BibleThinker / Mike Winger](books/modern--dydi_b--B11/README.md) | 长篇视频释经、专题研究、直播问答与播客 | 部分正文可直达 | [Hebrews Series pt 1 课程页（全书概览课）](https://biblethinker.org/the-entire-book-in-one-video-the-hebrews-series-pt-1/)；[Hebrew Roots Movement Series Pt.1 讲课笔记 PDF（索引核验）](https://biblethinker.org/wp-content/uploads/2019/01/HRM_Series_Pt._1_Notes.pdf)；[Hebrews 系列目录页](https://biblethinker.org/hebrews/) |
+| 134 | [Reasonable Faith / William Lane Craig](books/modern--dydi_b--B12/README.md) | 护教文章、每周问答、播客、讲座与辩论 | 部分正文可直达 | [Q&A #246 A Contradiction in the Kalam Cosmological Argument? 全文](https://www.reasonablefaith.org/writings/question-answer/a-contradiction-in-the-kalam-cosmological-argument/)；[Reasonable Faith Store（图书等付费）](https://www.reasonablefaith.org/store) |
+| 135 | [惠顿学院 Billy Graham 相关档案与数字展览](books/modern--dydi_c--MC01/README.md) | 个人/机构档案及数字展览 | 部分正文可直达 | [数字展览件：L. Nelson Bell 致 Philip Howard 信（1957）说明页](https://exhibits.archives.wheaton.edu/to-carry-the-light-further/items/obj_0109.html)；[Wheaton Archives Digital Exhibits 门户](https://exhibits.archives.wheaton.edu/)；[Billy Graham Resources 馆藏说明（研究页）](https://www.wheaton.edu/about-wheaton/museums-library-and-collections/wheaton-archives-and-special-collections/research/billy-graham-resources) |
+| 136 | [穆迪圣经学院 D. L. Moody Collection](books/modern--dydi_c--MC02/README.md) | 书信、讲章笔记、剪报档案 | 部分正文可直达 | [CARLI：Moody to A.F. Gaylord 书信（1896-03-24）影像＋馆方转录](https://collections.carli.illinois.edu/digital/collection/mbi_dlm/id/223/)；[CARLI mbi_dlm 馆藏集合入口](https://collections.carli.illinois.edu/digital/collection/mbi_dlm) |
+| 137 | [耶鲁 Day Missions Collection：宣教期刊数字化馆藏](books/modern--dydi_c--MC03/README.md) | 近现代宣教期刊 | 部分正文可直达 | [Internet Archive：China’s Millions 1879 卷（影像＋OCR 文本流）](https://archive.org/details/chinasmillions1879chin)；[Yale Guide：China’s Millions 在线卷期列表](https://guides.library.yale.edu/missionperiodicals/chinas_millions) |
 | 138 | [Hartford International University：校史档案与刊物](books/modern--dydi_c--MC04/README.md) | 校史、书信、会议记录和数字刊物 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
 | 139 | [Emory Pitts：Charles Wesley family papers 数字馆藏](books/modern--dydi_c--MC05/README.md) | 家庭书信与手稿 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |
 | 140 | [Princeton Theological Seminary：Theological Commons](books/modern--dydi_c--MC06/README.md) | 神学图书、期刊与档案聚合数字馆 | 待检索 | 尚未执行内容获取，原研究出处见独立档案 |

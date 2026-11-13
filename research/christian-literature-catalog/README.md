@@ -171,3 +171,11 @@
 ## 最新续查（2026-11-12，E15）
 
 索引第175–177项；本轮新增3条调查，非同数新缺书。详见[资源路径E15](RESOURCE-PATHS-E15.md)；下一项Apocryphal Gospel of John（ECCA518）。按用户指示，批次存档后持续推进，直至要求停止。
+
+## 最新续查（2026-11-13，埃塞资源 R01）
+
+启动队列 `ethiopic-systematic`：写入[资源地图](resource-map-ethiopic.md)与[资源路径 ETHIOPIC-01](RESOURCE-PATHS-ETHIOPIC-01.md)。纳入 Beta／HMML-EMML／ethiopiancanon／Atrons／CCEL Charles／GitHub Geʽez／Manchester／Archive／商业 Ultimate 等入口；新增以诺一书、禧年书、1–3 Meqabyan 作品调查；对已有 `C09`／`C10`／`C12`／`lb02` 仅做 URL 补证，不复制作品。e-Clavis 字母游标**未改**，仍停在 ECCA518。工作记录见 [workers/ethiopic_r01.json](workers/ethiopic_r01.json)。
+
+## 最新续查（2026-11-13，埃塞资源 R02／代理补漏）
+
+对照三类清单查漏；失败站经本地代理 `127.0.0.1:10808` 重试。正式补入 Princeton、Cambridge、OCP、ethiopiabible.com、Geʽez reader、STEPBible；PO 作交叉引用不重复建库；Sacred Texts 总索引仍 403。详见[资源路径 ETHIOPIC-02](RESOURCE-PATHS-ETHIOPIC-02.md)与 [workers/ethiopic_r02.json](workers/ethiopic_r02.json)。

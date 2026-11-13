@@ -73,11 +73,67 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.989603+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "GotQuestions：What is the gospel? 完整问答",
+        "url": "https://www.gotquestions.org/what-is-the-gospel.html",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "GotQuestions.org 标准问答页",
+        "coverage": "单篇问答正文（gospel 词义、广义／狭义、救恩核心）可读；相对全站数千问答为样本",
+        "verification": "实际打开页面可读完整回答主体；未核每条外链与中文镜像是否逐字对应。",
+        "accessed": "2026-11-13",
+        "rights_note": "保存路径；站点内容有使用条款，不批量复制入库。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "相关篇：What are the essentials of the gospel message?",
+        "url": "https://www.gotquestions.org/gospel-message.html",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "GotQuestions.org",
+        "coverage": "另一单篇问答全文可读（林前15要点）",
+        "verification": "打开并核 1 Corinthians 15:1–4 三段要素论述至文中信靠／恩典段落。",
+        "accessed": "2026-11-13",
+        "rights_note": "保存路径。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "推荐书籍／Amazon·Logos 付费渠道（原研究已提示）",
+        "url": "https://www.gotquestions.org/donate.html",
+        "kind": "restricted",
+        "language": "英语",
+        "edition": "捐赠页／站外商店链接生态",
+        "coverage": "问答免费；推荐书多为站外付费",
+        "verification": "原研究注明 Amazon/Logos 推荐；本批打开捐赠／关于生态页作渠道标注，具体书链随文章底部变化，采购时以当页为准。",
+        "accessed": "2026-11-13",
+        "rights_note": "付费图书另购。",
+        "purchase_note": "各问答页 Related／Recommended 常链 Amazon 或 Logos；用户统一采购时从具体文章页底部取当前链接。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.gotquestions.org/what-is-the-gospel.html",
+        "result": "打开完整问答正文。"
+      },
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.gotquestions.org/gospel-message.html",
+        "result": "打开第二篇完整问答。"
+      },
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "purchase_channel_lookup",
+        "url": "https://www.gotquestions.org/donate.html",
+        "result": "标注捐赠／站外购书生态；未代购具体书。"
+      }
+    ],
+    "next_action": "已核两篇完整英语问答。全站未穷尽。中文站 gotquestions.org/Chinese 等映射待另批抽核。推荐书付费链接随页而变，采购时取当页。",
+    "updated_at": "2026-11-13T07:15:29.322498+00:00"
   }
 }

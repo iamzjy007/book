@@ -76,11 +76,65 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['选定Collection 15/74，核开放限制与实际数字对象；不要把展览建站时间当档案年代。']",
-    "updated_at": "2026-11-10T09:17:54.990260+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "数字展览件：L. Nelson Bell 致 Philip Howard 信（1957）说明页",
+        "url": "https://exhibits.archives.wheaton.edu/to-carry-the-light-further/items/obj_0109.html",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "To Carry the Light Further 展览；Collection 278 Elisabeth Elliot Papers；提供 Download Transcript (PDF)",
+        "coverage": "展览说明全文（日期、作者、与 Billy Graham／Christianity Today 关系、致谢购书意图）；信件扫描图可见缩略；Transcript PDF 未下载核验",
+        "verification": "实际打开展览件：核标题、1957-05-29、Collection 278、Rights In Copyright、Download Transcript 入口。",
+        "accessed": "2026-11-13",
+        "rights_note": "In Copyright；联系 archives@wheaton.edu。",
+        "content_unit_status": "partial"
+      },
+      {
+        "label": "Wheaton Archives Digital Exhibits 门户",
+        "url": "https://exhibits.archives.wheaton.edu/",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "ASC 数字展览首页；支持 CSV/JSON 元数据视角",
+        "coverage": "展览门户与集合导航；非单一全宗全文",
+        "verification": "打开首页：确认展览宗旨与 Explore/Objects 入口。",
+        "accessed": "2026-11-13",
+        "rights_note": "公开展览门户。"
+      },
+      {
+        "label": "Billy Graham Resources 馆藏说明（研究页）",
+        "url": "https://www.wheaton.edu/about-wheaton/museums-library-and-collections/wheaton-archives-and-special-collections/research/billy-graham-resources",
+        "kind": "metadata",
+        "language": "英语",
+        "edition": "惠顿官方 Billy Graham 相关全宗概述（Coll 6/8/15 等）",
+        "coverage": "全宗目录入口说明；本批直取遇 403／Cloudflare，依赖原研究已读范围",
+        "verification": "本批代理直取 wheaton.edu 资源页 403；archives.wheaton.edu 人机验证。保留原研究 2026-11-10 已读证据，未升级为新核全文。",
+        "accessed": "2026-11-13",
+        "rights_note": "馆藏限制以馆方为准；现场阅览另约。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-13T07:27:27.707793+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://exhibits.archives.wheaton.edu/to-carry-the-light-further/items/obj_0109.html",
+        "result": "打开 Graham 关联展览信件说明与 Transcript 下载入口。"
+      },
+      {
+        "date": "2026-11-13T07:27:27.707793+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://exhibits.archives.wheaton.edu/",
+        "result": "核数字展览门户。"
+      },
+      {
+        "date": "2026-11-13T07:27:27.707793+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://archives.wheaton.edu/repositories/2/resources/15",
+        "result": "Collection 15 finding aid 403／人机验证，未展开数字对象。"
+      }
+    ],
+    "next_action": "已核一件 Graham 关联展览说明与门户。Transcript PDF 与 Collection 15/74 数字对象待过验证后抽查。付费/版权件联系馆方。",
+    "updated_at": "2026-11-13T07:27:27.707793+00:00"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "session_id": "2026-11-13-ethiopic-r02",
+  "date_beijing": "2026-11-13",
+  "worker": "ethiopic_r02",
+  "task_id": "ethiopic-systematic",
+  "status": "batch_saved",
+  "background_service": false,
+  "proxy_used": "http://127.0.0.1:10808",
+  "note": "用户确认可用 10808 代理重试；补全三类清单未正式入册项。",
+  "files_written": [
+    "workers/ethiopic_r02.json",
+    "RESOURCE-PATHS-ETHIOPIC-02.md",
+    "sessions/2026-11-13-ethiopic-r02.json"
+  ],
+  "counts": {
+    "new_items": 7,
+    "supplements_to_existing_works": 1,
+    "proxy_successes": 6,
+    "still_blocked": 2
+  },
+  "still_blocked": [
+    "sacred-texts.com/chr/index.htm 403",
+    "about.brepolis.net POD page 403",
+    "betamasaheft.eu anti-bot challenge page"
+  ],
+  "next": "浏览器过 Beta；Sacred/POD 换镜像；或 Harden1920／EMML515／EPUB；或 ECCA518"
+}

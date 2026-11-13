@@ -87,11 +87,48 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：['浏览器核CARLI具体书信、图像和转录覆盖；区别本学院与Northfield Moody Center馆藏。']",
-    "updated_at": "2026-11-10T09:17:54.990438+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "CARLI：Moody to A.F. Gaylord 书信（1896-03-24）影像＋馆方转录",
+        "url": "https://collections.carli.illinois.edu/digital/collection/mbi_dlm/id/223/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "Dwight L. Moody Collection (Moody Bible Institute)；compound object id/223；页图 id/222 jp2；Scan #00070",
+        "coverage": "单通信元数据、手稿页影像 URI、format 字段完整英文转录；不等于近千封通信库全文",
+        "verification": "经代理+未校验证书打开 CONTENTdm API：确认标题 Moody to A.F. Gaylord - March 24, 1896、作者 Moody、收件人 Gaylord、转录全文（Palm Beach→Chicago、book No 24、Park Av Hotel 等）。",
+        "accessed": "2026-11-13",
+        "rights_note": "版权/许可联系 archives@moody.edu；公开浏览不等于再发布许可。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "CARLI mbi_dlm 馆藏集合入口",
+        "url": "https://collections.carli.illinois.edu/digital/collection/mbi_dlm",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "Dwight L. Moody Collection 数字集合",
+        "coverage": "集合浏览入口；需 JS／API 展开单件",
+        "verification": "HTTP 200 返回 CONTENTdm SPA 壳；单件经 API 核验。",
+        "accessed": "2026-11-13",
+        "rights_note": "公开数字馆藏门户。"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-13T07:27:27.707793+00:00",
+        "method": "contentdm_api_verification",
+        "url": "https://collections.carli.illinois.edu/digital/api/collections/mbi_dlm/items/223/false",
+        "result": "取得 id/223 元数据与完整 Transcript 字段。"
+      },
+      {
+        "date": "2026-11-13T07:27:27.707793+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://collections.carli.illinois.edu/digital/collection/mbi_dlm/id/223/",
+        "result": "打开单件页（SPA）；细节以 API 为准。"
+      }
+    ],
+    "next_action": "已核一封带完整转录的 Moody 书信。可继续抽查其他 id；现场未数字化信件仍按 Moody 档案政策。区别 Northfield Moody Center。",
+    "updated_at": "2026-11-13T07:27:27.707793+00:00"
   }
 }

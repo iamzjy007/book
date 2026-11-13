@@ -1,0 +1,392 @@
+{
+  "worker": "ethiopic_r02",
+  "date_beijing": "2026-11-13",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "对照三类资源清单查漏；经本地代理 127.0.0.1:10808 重试失败站；补正式网关条目，去重不重复 R01／lori_b 已立者。",
+  "method": "HTTP(S) 经 ProxyHandler(http://127.0.0.1:10808)；部分站点需宽松 SSL；只记入口核验与摘要，不下载全书。",
+  "proxy": {
+    "host": "127.0.0.1",
+    "port": 10808,
+    "scheme": "http",
+    "used_for": [
+      "betamasaheft.eu",
+      "pseudepigrapha.org",
+      "dpul.princeton.edu",
+      "cudl.lib.cam.ac.uk",
+      "ethiopiabible.com",
+      "yhwhyaway.com",
+      "stepbible.org"
+    ]
+  },
+  "coverage_checklist_vs_prior_list": {
+    "academic_hubs": {
+      "Beta_masaheft": "R01有；本批代理重试：200但为反爬 cookie 挑战页，仍非完整首页正文",
+      "HMML_EMML_EMIP": "R01已纳入 gateway-hmml-emml",
+      "Princeton_Ethiopic": "R01待访→本批正式纳入 gateway-princeton-ethiopic",
+      "Cambridge_CUDL": "R01待访→本批正式纳入 gateway-cambridge-ethiopian",
+      "Manchester_Ethiopic": "R01已纳入"
+    },
+    "english_traceable_collections": {
+      "ethiopiancanon": "R01已纳入",
+      "Atrons_EOTC81": "R01已纳入",
+      "GitHub_cpradmin": "R01已纳入",
+      "Archive_EOTC": "R01已纳入（替换404旧链）",
+      "ethiopiabible_com": "R01仅资源地图提及→本批正式纳入",
+      "yhwhyaway_geez_reader": "R01仅资源地图提及→本批正式纳入",
+      "commercial_Ultimate": "R01已纳入案例"
+    },
+    "pd_critical_and_pseudepigrapha": {
+      "CCEL_Charles": "R01已纳入",
+      "Archive_Charles_Enoch_Dillmann_Jubilees": "挂在 ETH-Enoch／ETH-Jubilees",
+      "Online_Critical_Pseudepigrapha": "R01超时→本批正式纳入",
+      "Sacred_Texts_Christian_index": "总索引仍403；单篇已在e-Clavis用过；本批记 unresolved，不虚称已核总目",
+      "Patrologia_Orientalis": "已在 resource-map-lori_b／queue csco-po；本批交叉引用，不新建重复总目条目",
+      "STEPBible": "仅经 Atrons 提及→本批正式纳入独立入口"
+    }
+  },
+  "dedup_notes": [
+    "不重复 R01 的 gateway-beta／hmml／ethiopiancanon／atrons／ccel／github／manchester／archive／commercial。",
+    "PO 不新建与 lori_b 资源地图冲突的第二总目；用关系说明指向既有地图与 csco-po 任务。",
+    "Sacred Texts 总索引403，不立假成功网关。"
+  ],
+  "items": [
+    {
+      "id": "gateway-princeton-ethiopic",
+      "title_zh": "普林斯顿大学埃塞抄本数字化馆藏（Digital PUL）",
+      "original_title": "Princeton Digital PUL — Ethiopic Manuscripts",
+      "author": "Princeton University Library",
+      "date": "抄本多为18–20世纪，少数更早；当代数字化开放",
+      "language": "Geʽez 为主，部分阿姆哈拉旁注",
+      "synopsis": "开放埃塞抄本影像集合，含诗篇、圣母奇迹、礼仪书等；学术手稿层入口，非英文全本圣经。",
+      "historical_value": "西方馆藏数字化见证",
+      "devotional_value": "抄本阅读",
+      "attribution_issues": "年代鉴定困难；开放影像≠校本",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "R01 直连超时；本批经代理+宽松SSL取得集合页。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英文馆藏"
+      },
+      "priority": "手稿层补全",
+      "next": "打开具体抄本条目核题名与图像权限。",
+      "sources": [
+        {
+          "url": "https://dpul.princeton.edu/ethiopic_manuscripts",
+          "institution": "Princeton Digital PUL",
+          "read_scope": "经代理取得 Digital PUL 集合页 HTML；确认 Ethiopic 集合标题；未逐件打开全部抄本",
+          "accessed": "2026-11-13",
+          "access_note": "proxy 127.0.0.1:10808；证书校验放宽后成功"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://dpul.princeton.edu/ethiopic_manuscripts",
+          "edition": "Digital PUL Ethiopic Manuscripts 集合页",
+          "location": "开放抄本集合入口",
+          "verified": "代理下 HTTP 200；读取页面 title Digital PUL 与集合结构片段",
+          "limits": "未通读每件元数据；直连曾超时／证书失败",
+          "language": "英语",
+          "resource_type": "institutional_digitized_manuscript_collection",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-cambridge-ethiopian",
+      "title_zh": "剑桥大学数字图书馆埃塞手稿集合",
+      "original_title": "Cambridge Digital Library — Ethiopian Manuscripts",
+      "author": "Cambridge University Library",
+      "date": "含重要大抄本等；当代数字化",
+      "language": "Geʽez 等",
+      "synopsis": "CUDL 埃塞手稿集合；直连曾403，经本地代理可打开集合页。含旧约大抄本等重要见证线索。",
+      "historical_value": "一级馆藏数字化",
+      "devotional_value": "抄本阅读",
+      "attribution_issues": "访问依赖网络路径；403可能因地而异",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "R01 直连403；本批代理200。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英文馆藏"
+      },
+      "priority": "手稿层补全",
+      "next": "核 Add.1570 等具体条目与图像开放级别。",
+      "sources": [
+        {
+          "url": "https://cudl.lib.cam.ac.uk/collections/ethiopianmanuscripts",
+          "institution": "Cambridge Digital Library",
+          "read_scope": "经代理取得集合页；确认标题 Ethiopian Manuscripts；未通读全部条目",
+          "accessed": "2026-11-13",
+          "access_note": "proxy 127.0.0.1:10808"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://cudl.lib.cam.ac.uk/collections/ethiopianmanuscripts",
+          "edition": "CUDL Ethiopian Manuscripts 集合",
+          "location": "集合级入口",
+          "verified": "代理下 HTTP 200；读取 title 与页面头",
+          "limits": "未打开单件全文图像；直连403",
+          "language": "英语",
+          "resource_type": "institutional_digitized_manuscript_collection",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-ocp-pseudepigrapha",
+      "title_zh": "Online Critical Pseudepigrapha（伪经校勘电子版）",
+      "original_title": "Online Critical Pseudepigrapha (OCP)",
+      "author": "OCP 项目（开放校勘电子版）",
+      "date": "当代数字校勘库；文本为古代伪经传统",
+      "language": "原语校勘＋界面英语等",
+      "synopsis": "犹太／早期基督教伪经及相关文献的校勘电子版入口，含异文；属公版／开放学术骨干，不等于埃塞 81 卷英译合集。",
+      "historical_value": "伪经文本批评一级工具",
+      "devotional_value": "研究用途为主",
+      "attribution_issues": "收录范围按 OCP 目录，非 EOTC 正典表",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "R01 超时；本批代理可读项目说明。",
+      "chinese_availability": {
+        "mainland": "本批未检索中文镜像",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英文／原语电子校勘"
+      },
+      "priority": "次经／伪经骨干",
+      "next": "打开具体书卷（如 Enoch 相关）核对 TEI／异文界面。",
+      "sources": [
+        {
+          "url": "https://pseudepigrapha.org/",
+          "institution": "Online Critical Pseudepigrapha",
+          "read_scope": "经代理读取首页：Critical Electronic Editions 说明、开放许可概述；未通读全部书卷",
+          "accessed": "2026-11-13",
+          "access_note": "proxy 127.0.0.1:10808"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://pseudepigrapha.org/",
+          "edition": "OCP 项目首页",
+          "location": "校勘目录与阅读器入口",
+          "verified": "代理下 HTTP 200；确认 title Online Critical Pseudepigrapha 与 description",
+          "limits": "未逐书打开平行阅读器；收录≠埃塞正典清单",
+          "language": "英语界面",
+          "resource_type": "open_critical_edition_portal",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-ethiopiabible-online",
+      "title_zh": "ethiopiabible.com 公版英译在线阅读",
+      "original_title": "Read the Ethiopian Bible Online in English (ethiopiabible.com)",
+      "author": "站点汇编（公版 Charles／KJV Apocrypha 等）",
+      "date": "当代网站；底本多为公版旧译",
+      "language": "英语",
+      "synopsis": "提供禧年、以诺、多比等部分书卷在线英读；明确非 81 卷全覆盖，与 ethiopiancanon 拼装本互补。",
+      "historical_value": "英文可及性入口",
+      "devotional_value": "选读书卷可读",
+      "attribution_issues": "公版拼装；不是吉兹新译",
+      "repository_status": "modern_anthology_gateway",
+      "repository_evidence": "R01 已 HTTP 核验但未立正式条目。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英文在线"
+      },
+      "priority": "英文合集补全",
+      "next": "列出站点实际可读书卷清单并与 Charles／仓库对照。",
+      "sources": [
+        {
+          "url": "https://ethiopiabible.com/read-the-ethiopian-bible-online-in-english/",
+          "institution": "ethiopiabible.com",
+          "read_scope": "代理／直连均可；读取在线阅读页 HTML 头与 SEO 摘要区；未点开全部章节",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://ethiopiabible.com/read-the-ethiopian-bible-online-in-english/",
+          "edition": "Online English reader 页",
+          "location": "部分书卷章节阅读入口",
+          "verified": "HTTP 200；确认页面可检索",
+          "limits": "非全 81 卷；底本为公版旧译",
+          "language": "英语",
+          "resource_type": "public_domain_english_online_reader",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-yhwh-geez-reader",
+      "title_zh": "进行中的 Geʽez—英文对照阅读器说明",
+      "original_title": "About the Geʽez Bible reader (YHWH Ya’ Way)",
+      "author": "站点项目（手稿转写进行中）",
+      "date": "当代进行中项目",
+      "language": "Geʽez 与英语对照",
+      "synopsis": "说明从剑桥等手稿转写吉兹圣经并附直译英文；目前仅部分书卷／章节可点开，不能当作完整 81 卷。",
+      "historical_value": "进行中的原文层工程线索",
+      "devotional_value": "已完成章节可读",
+      "attribution_issues": "覆盖率随进度变化；须以站点 progress 为准",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "R01 已核但未立正式条目。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英／吉兹对照"
+      },
+      "priority": "原文层对照",
+      "next": "记录当前可点击书卷列表与稿本引用。",
+      "sources": [
+        {
+          "url": "https://www.yhwhyaway.com/about-the-geez-bible.html",
+          "institution": "YHWH Ya’ Way",
+          "read_scope": "HTTP 200 取得 about 页；确认手稿来源与对照阅读方法说明；打印片段时本机控制台编码报错不影响读取",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.yhwhyaway.com/about-the-geez-bible.html",
+          "edition": "Geʽez Bible reader 方法说明页",
+          "location": "稿本与转写政策说明",
+          "verified": "HTTP 200；确认页面可访问",
+          "limits": "非完整 81 卷；进度未在本批逐书清点",
+          "language": "英语说明",
+          "resource_type": "ongoing_geez_english_reader_project",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-stepbible",
+      "title_zh": "STEPBible 多译本／原文工具入口",
+      "original_title": "STEPBible",
+      "author": "STEPBible 项目",
+      "date": "当代圣经软件／网站",
+      "language": "多语；含 Geʽez 等数据层（经第三方引用）",
+      "synopsis": "多译本与原文工具门户；Atrons 的 Geʽez 选项声明来自 STEPBible CC BY 4.0。本条立独立入口，避免只挂在 Atrons 下。",
+      "historical_value": "对照工具",
+      "devotional_value": "读经工具",
+      "attribution_issues": "站点功能与 Geʽez 覆盖范围须在站内再核；不等于埃塞正典英译",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "与 gateway-atrons-eotc81 交叉；不合并删除 Atrons。",
+      "chinese_availability": {
+        "mainland": "本批未检索中文界面可用性",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "多语工具站"
+      },
+      "priority": "工具层",
+      "next": "在 STEPBible 内确认 Geʽez 模块名称与许可页。",
+      "sources": [
+        {
+          "url": "https://www.stepbible.org/",
+          "institution": "STEPBible",
+          "read_scope": "代理／直连 HTTP 200；读取首页 HTML；未登录全部模块",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.stepbible.org/",
+          "edition": "STEPBible 首页",
+          "location": "多译本工具入口",
+          "verified": "HTTP 200",
+          "limits": "未在本批核 Geʽez 数据包完整性；与 Atrons 引用关系需再核许可页",
+          "language": "英语界面为主",
+          "resource_type": "multilingual_bible_tool_portal",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-po-crossref",
+      "title_zh": "Patrologia Orientalis（交叉引用，不重复建库）",
+      "original_title": "Patrologia Orientalis / POD (cross-reference)",
+      "author": "Brepols 等（东方教父／东方语文本系列）",
+      "date": "纸本系列长期出版；POD 为机构订阅数据库",
+      "language": "叙利亚、科普特、亚美尼亚、阿拉伯、Geʽez 等＋现代译文",
+      "synopsis": "东方基督教文本骨干系列；已在 phase1 礼仪／资源地图与 queue csco-po 登记。本条仅作三类清单对照的交叉引用，避免与 lori_b 地图重复充数。",
+      "historical_value": "东方语校本／译文线索",
+      "devotional_value": "视具体卷",
+      "attribution_issues": "全文多需订阅；本批 about.brepolis.net 仍 403",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "见 resource-map-lori_b.md PO 行；queue id=csco-po 仍 pending。",
+      "chinese_availability": {
+        "mainland": "本批未新检索",
+        "hong_kong_taiwan": "本批未新检索",
+        "online_or_repository": "机构库／纸本"
+      },
+      "priority": "维持 csco-po 队列，不在本批假扫全套",
+      "next": "csco-po 任务启动时按卷号游标扫描；可试 Gallica／Archive 单卷开放本。",
+      "relationships": {
+        "already_mapped_in": "resource-map-lori_b.md",
+        "queue_task": "csco-po"
+      },
+      "sources": [
+        {
+          "url": "https://www.brepols.net/products/IS-9782503620558-1",
+          "institution": "Brepols（lori_b 已用目录页）",
+          "read_scope": "本批未重新打开；沿用 phase1 资源地图已核说明，作交叉引用",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.brepols.net/products/IS-9782503620558-1",
+          "edition": "PO／相关目录出版方页（既有地图引用）",
+          "location": "系列书目",
+          "verified": "交叉引用既有 lori_b 核验；本批 about.brepolis.net POD 说明页仍 403",
+          "limits": "不是本批新扫全套 PO；订阅库全文未取得",
+          "language": "英语／出版说明",
+          "resource_type": "cross_reference_to_existing_resource_map",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "cross_reference_only"
+    }
+  ],
+  "supplements": [
+    {
+      "id": "supp-beta-proxy-r02",
+      "target_id": "ethiopic_r01:gateway-beta-masaheft",
+      "note": "代理重试 betamasaheft.eu：HTTP 200 但正文为反爬 cookie 挑战脚本页，仍不能计为已读完整项目首页。",
+      "sources": [
+        {
+          "url": "https://betamasaheft.eu/",
+          "institution": "Beta maṣāḥǝft",
+          "read_scope": "proxy 10808 下 200；响应为 ds_verification_token cookie 跳转页（约264字节），非完整站点正文",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://betamasaheft.eu/apidoc.html",
+          "edition": "API 文档 URL（代理重试）",
+          "location": "apidoc 路径",
+          "verified": "proxy 下同为挑战页模式；CAe 镜像仍为可操作入口",
+          "limits": "反爬通过前不能声称已读 API 全文",
+          "language": "英语",
+          "resource_type": "proxy_retry_challenge_page",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "next": "浏览器过反爬后再核首页与 API；继续以 CAe 为可用镜像。"
+    }
+  ],
+  "unresolved": [
+    "sacred-texts.com/chr/index.htm 代理后仍 403（单篇路径既往可用）",
+    "about.brepolis.net POD 说明页代理后仍 403",
+    "betamasaheft.eu 反爬挑战页，未取得完整首页"
+  ],
+  "next_cursor": {
+    "task": "ethiopic-systematic",
+    "next": "浏览器过 Beta 反爬；Sacred Texts／POD 换入口或镜像；继续 Harden1920／EMML515／EPUB 对照"
+  }
+}

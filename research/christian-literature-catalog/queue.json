@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_date_beijing": "2026-11-12",
+  "updated_date_beijing": "2026-11-13",
   "tasks": [
     {
       "id": "phase1-syriac",
@@ -202,7 +202,7 @@
       "status": "pending",
       "entry_url": "https://www.vhmml.org/readingRoom/",
       "cursor": null,
-      "next": "从已确认作品回查馆藏号；不先承诺每页可开放读取",
+      "next": "已有 HMML/EMML 总入口见 ethiopic_r01；仍从已确认作品回查馆藏号，不承诺整库翻页。",
       "warning": "入口是后续任务线索，不代表本轮已完整查阅"
     },
     {
@@ -226,11 +226,29 @@
     {
       "id": "ethiopic-systematic",
       "title": "吉兹文书目与Sinodos／Didascalia文本家族",
-      "status": "pending",
-      "entry_url": "https://www.ethiopianorthodox.org/",
-      "cursor": null,
-      "next": "核内容与书名映射，不因81卷名单直接计为已定位全文",
-      "warning": "入口是后续任务线索，不代表本轮已完整查阅"
+      "status": "in_progress",
+      "entry_url": "https://ethiopiancanon.com/sources",
+      "cursor": {
+        "resource_map": "resource-map-ethiopic.md",
+        "last_batch": "2026-11-13-ethiopic-r02",
+        "last_completed": "三类清单补漏：Princeton/Cambridge/OCP/ethiopiabible/yhwh/STEP + PO crossref",
+        "next": "Harden1920 page bounds; vHMML EMML 515; local Ultimate EPUB vs ethiopiancanon table; Princeton/Cambridge pending; betamasaheft.eu SSL retry",
+        "pagination": "入口级资源地图，无字母索引游标；后续按作品／稿号清单推进。",
+        "unresolved": [
+          "sacred-texts.com/chr/index.htm 403",
+          "about.brepolis.net POD 403",
+          "betamasaheft.eu anti-bot challenge",
+          "Harden1920/EMML515/EPUB对照待做"
+        ],
+        "proxy": "127.0.0.1:10808"
+      },
+      "next": "浏览器过Beta反爬；或 Harden1920／EMML515／EPUB对照；或切回 ECCA518",
+      "warning": "队列 in_progress 不证明有后台工作者；与 eclavis-systematic 并行，字母游标未改。",
+      "assigned_worker": "ethiopic_r01",
+      "completed_batches": [
+        "2026-11-13-ethiopic-r01",
+        "2026-11-13-ethiopic-r02"
+      ]
     },
     {
       "id": "slavonic-russian",
@@ -260,5 +278,10 @@
       "warning": "入口是后续任务线索，不代表本轮已完整查阅"
     }
   ],
-  "next_task": "eclavis-systematic"
+  "next_task": "ethiopic-systematic",
+  "parallel_in_progress": [
+    "eclavis-systematic",
+    "ethiopic-systematic"
+  ],
+  "note": "2026-11-13 优先完成埃塞资源纳入；e-Clavis 游标仍停在 ECCA518，可随时切回。"
 }

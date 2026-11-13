@@ -1,8 +1,8 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **277条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **296条**，合并《神圣攀登的天梯》重复调查一条。含现代文选／资源网关入口若干；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
-最新资源路径见 [RESOURCE-PATHS-E15.md](RESOURCE-PATHS-E15.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
+最新资源路径见 [RESOURCE-PATHS-ETHIOPIC-02.md](RESOURCE-PATHS-ETHIOPIC-02.md)，埃塞资源地图见 [resource-map-ethiopic.md](resource-map-ethiopic.md)，前批 e-Clavis 路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)／[RESOURCE-PATHS-E15.md](RESOURCE-PATHS-E15.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
 ## 叙利亚与阿拉伯传统
 
@@ -1034,11 +1034,16 @@
 
 **中文线索：** status：not_verified；finding：本轮未核实可明确识别的中文完整译本；不等于没有出版。
 
-**下一步：** Beta主站本轮502，只取得索引；Bonn书目页实际打开。；不因在埃塞俄比亚受尊崇便宣布所有教会承认为圣经正典。
+**下一步：** 主站可访问后复核 LIT1709／CAe 与 Bonn1905 关系。
 
 **来源：**
 - [https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/7639171](https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/7639171) — 书目/目录/出版说明或学术条目；非全书核读
 - [https://betamasaheft.awhamburg.de/works/LIT1709Kebran/main](https://betamasaheft.awhamburg.de/works/LIT1709Kebran/main) — 仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。
+- [ethiopiancanon.com](https://ethiopiancanon.com/sources) — 来源页语境中的埃塞传统书卷拼装说明；Kebra Nagast 非本页独立分卷英译主张，仅作正典语境对照
+
+资源路径：[Beta maṣāḥǝft 规范主站（相对旧 awhamburg 作品链）](https://betamasaheft.eu/) — 项目总入口；本轮 SSL 失败；保留规范 URL 与既有 awhamburg／Bonn 证据并存；未新打开 LIT1709 正文；不覆盖 dydi_c 原有书目结论
+
+[补充资源调查](workers/ethiopic_r01.json)，补证 `supp-C09-ethiopic-r01`。
 
 [完整调查记录](workers/dydi_c.json)，条目 `C09`。
 
@@ -1059,11 +1064,16 @@
 
 **中文线索：** status：not_verified；finding：本轮未核实可明确识别的中文完整译本；不等于没有出版。
 
-**下一步：** Beta主站502，CAe镜像实际核别名；Bausi论文仅书目摘要。；正典范围需精确到构件，不称整部所有内容皆圣经；此项版本构成核实仍属第二阶段。
+**下一步：** 建立 Senodos 构件与八卷英译题名对照表。
 
 **来源：**
 - [https://cae.ethiopicist.com/works/2317/](https://cae.ethiopicist.com/works/2317/) — 书目/目录/出版说明或学术条目；非全书核读
 - [https://iris.uniroma1.it/handle/11573/1693213](https://iris.uniroma1.it/handle/11573/1693213) — 仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。
+- [ethiopiancanon.com](https://ethiopiancanon.com/sources) — 实际阅读 Books of Church Order 八卷来源表（含 Didascalia=Harden1920 等）
+
+资源路径：[Church Order 分卷来源表](https://ethiopiancanon.com/sources) — Sirate Tsion 至 Qalementos 八卷底本说明；实际阅读该表；拼装英译构件≠Senodos 吉兹合集全等；须逐构件对照 CAe2317
+
+[补充资源调查](workers/ethiopic_r01.json)，补证 `supp-C10-ethiopic-r01`。
 
 [完整调查记录](workers/dydi_c.json)，条目 `C10`。
 
@@ -1108,11 +1118,16 @@
 
 **中文线索：** status：not_verified；finding：本轮未核实可明确识别的中文完整译本；不等于没有出版。
 
-**下一步：** Beta主站502，已核CAe镜像。；书目身份确认，吉兹底本选择仍未完成；年代范围不强断。；宗派正典地位另须针对具体清单考证。
+**下一步：** 继续寻吉兹校本与可靠现代译。
 
 **来源：**
 - [https://cae.ethiopicist.com/works/2598/](https://cae.ethiopicist.com/works/2598/) — 书目/目录/出版说明或学术条目；非全书核读
 - [https://catalogue.bnf.fr/ark%3A/12148/cb165216156](https://catalogue.bnf.fr/ark%3A/12148/cb165216156) — 仅检索结果可见书目/项目摘要；未成功打开全文网页，不计作正文核读。
+- [ethiopiancanon.com](https://ethiopiancanon.com/sources) — 实际阅读 Josippon 卷说明：无公版 Geʽez→英全译；Munster／Breithaupt／Budge 近似；116 章
+
+资源路径：[Josippon（Zena Ayhud）拼装说明](https://ethiopiancanon.com/sources) — OT volume 55 说明段；实际阅读该段；近似英译不能当吉兹校本；与 Josephus 原作继续区分
+
+[补充资源调查](workers/ethiopic_r01.json)，补证 `supp-C12-ethiopic-r01`。
 
 [完整调查记录](workers/dydi_c.json)，条目 `C12`。
 
@@ -2280,10 +2295,15 @@
 
 **中文线索：** not_verified
 
-**下一步：** 先查叙利亚版章节对照；中文增搜使徒遗范而非只搜Didascalia。
+**下一步：** 取得 Harden1920 实际页界与叙利亚章对照。
 
 **来源：**
 - [https://gedsh.bethmardutho.org/Didascalia-Apostolorum](https://gedsh.bethmardutho.org/Didascalia-Apostolorum) — GEDSH学术百科；实际读条目开头、传本、Primary Sources
+- [ethiopiancanon.com](https://ethiopiancanon.com/sources) — Church Order 表列 Didascalia：J.M. Harden, The Ethiopic Didascalia (1920)
+
+资源路径：[Harden 1920 Ethiopic Didascalia（经拼装本来源表定位）](https://ethiopiancanon.com/sources) — Books of Church Order #86；实际阅读来源表该行；本批未打开 Harden 原书 PDF；埃塞传本与叙利亚 Didascalia 章节对照仍待做；不与 Apostolic Constitutions 混同
+
+[补充资源调查](workers/ethiopic_r01.json)，补证 `supp-lb02-ethiopic-r01`。
 
 [完整调查记录](workers/lori_b.json)，条目 `lb02`。
 
@@ -7715,3 +7735,518 @@ Cynewulf署名头韵诗，述使徒行旅殉道，尾以卢恩署名和祷求收
 资源路径：[Andrew S.Jacobs, Gospel Thrillers, USC Scalar，2023更新](https://scalar.usc.edu/works/gospel-thrillers/the-gospel-of-jesus-wife) — 作者回顾2012–2016及King后续承认趋向伪作的证据；实际读研究页面全篇，确认后续结论与旧哈佛初发资料不同；研究回顾不是转录新校本；指向旧Harvard站403、旧DASH链接429，已另取得当前机构API路径
 
 [完整调查记录](workers/eclavis_e15.json)，条目 `ECCA-343`。
+
+## 埃塞俄比亚与吉兹文献资源续查R01
+
+### Beta maṣāḥǝft（埃塞／厄立特里亚手稿数字研究环境）
+
+- **原题：** Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea
+- **作者／归属：** Universität Hamburg / Hiob Ludolf Centre（长期项目 2016–2040）
+- **年代：** 数字项目；手稿年代跨中古至近现代
+- **语言：** 元数据英语等；文本主要为 Geʽez 等
+
+开放 TEI 手稿与作品编码、Clavis、机构／人物／地点关联及 API／GitHub 数据；是吉兹文献书目的核心学术入口，不是一部英文圣经。
+
+**价值：** historical：作品身份消歧与手稿见证定位的一级工具；spiritual：研究基础设施，非灵修读本
+
+**文本注意：** 主站本轮 SSL 失败；旧 awhamburg 域名与 CAe 镜像并存，须标明实际打开的主机
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未检索大陆出版社及国家图书馆；hong_kong_taiwan：本批未检索港台出版目录；online_or_repository：数字研究环境；无对应“中文译本”概念
+
+**下一步：** 浏览器过反爬后再核首页与 API；继续以 CAe 为可用镜像。
+
+**来源：**
+- [CAe / Ethiopicist mirror](https://cae.ethiopicist.com/) — HTTP 200；作为 Beta／Clavis 相关可访问镜像入口；未通读站内全部作品
+- [Beta maṣāḥǝft](https://betamasaheft.eu/) — 本轮 SSL 握手失败；保留为规范主 URL，不作已打开正文
+
+资源路径：[Clavis Aethiopica / Ethiopicist 可访问入口](https://cae.ethiopicist.com/) — 作品与别名检索门户；HTTP 200；读取响应头与首页片段；镜像≠已核每条 CAe；不能替代手稿图像阅读；与 awhamburg 旧链同族不去重成两项目
+
+资源路径：[API 文档 URL（代理重试）](https://betamasaheft.eu/apidoc.html) — apidoc 路径；proxy 下同为挑战页模式；CAe 镜像仍为可操作入口；反爬通过前不能声称已读 API 全文
+
+[补充资源调查](workers/ethiopic_r02.json)，补证 `supp-beta-proxy-r02`。
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-beta-masaheft`。
+
+### HMML／EMML 埃塞手稿显微胶卷数字化入口
+
+- **原题：** Ethiopian Manuscript Microfilm Library (EMML) at HMML Reading Room
+- **作者／归属：** Hill Museum & Manuscript Library 等
+- **年代：** 显微拍摄约 1973 起；数字化约 2004–2025 完成 EMML 胶卷上线
+- **语言：** 手稿主要为 Geʽez；目录英语
+
+世界最重要的埃塞手稿影像来源之一；Reading Room 可按项目号检索 EMML／EMIP 等。与 manuscript-east 任务交叉，本条只记总入口。
+
+**价值：** historical：原文见证与版本比较的一级影像库；spiritual：研究／校读用途为主
+
+**文本注意：** 影像开放不等于编目完成；EMIP 大量条目尚缺完整目录
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：手稿影像库；非中文译本
+
+**下一步：** 从 Meqabyan／Enoch 等作品建立 EMML 稿号清单；不先承诺整库翻页扫完。
+
+**来源：**
+- [HMML](https://hmml.org/stories/the-ethiopian-manuscript-microfilm-library-is-now-digital/) — 实际阅读 EMML 数字化完成说明：约 7500 卷胶卷、Reading Room 上线、4000 件已有在线描述里程碑
+- [vHMML Reading Room](https://www.vhmml.org/readingRoom/) — HTTP 200；打开阅读室入口页；未在本批按项目号翻完整库
+
+资源路径：[HMML Ethiopian Manuscript Collection Guide PDF](https://hmml.org/assets/pdf/HMML_Ethiopian_Manuscript_Collection_Guide.pdf) — EMML／EMIP／EMDA 等项目检索说明；HTTP 200；确认 PDF 头 %PDF-1.5；未通读全部 11 页导读正文；导读不是手稿全文；具体稿号须在 Reading Room 再核
+
+资源路径：[vHMML Reading Room](https://www.vhmml.org/readingRoom/) — 按 Project Number 检索影像与目录；HTTP 200 打开入口；入口可访问≠已评估全部 EMML 图像质量或版权下载条款
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-hmml-emml`。
+
+### 埃塞俄比亚正典英文拼装本（来源可追溯）
+
+- **原题：** The Ethiopian Canon / Ethiopian Bible in English — Sources & Methodology
+- **作者／归属：** Clear Text Editions（现代拼装；分卷标注公版底本）
+- **年代：** 当代电子／印刷合集；底本多为 19–20 世纪公版
+- **语言：** 现代英语（改写自公版）；部分 Meqabyan 自吉兹
+
+按卷列出 Brenton LXX、WEB、Charles、Harden Didascalia、Horner 规程及 Meqabyan 手稿路径；是评估“完整英文埃塞圣经”声明的说明书，不是教会官方译本。
+
+**价值：** historical：英文可及性与底本透明度高；便于与商业合集对照；spiritual：可读拼装本；独特书卷质量参差
+
+**文本注意：** 81 卷计数与 90 分册印刷是不同计数；教会规程八卷多数商业本缺失；Josippon 为近似英译
+
+**仓库情况：** modern_anthology_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：英文拼装；中文全套对应本未在本批核
+
+**下一步：** 逐卷映射本地 Ultimate EPUB 目录与本表差异；Meqabyan 版权页与在线免费范围再核。
+
+**来源：**
+- [ethiopiancanon.com](https://ethiopiancanon.com/sources) — 实际阅读 License Summary、OT／独特书卷／Josippon／NT／八卷教会规程来源表及 Meqabyan 手稿说明与 2026-11 署名更正
+
+资源路径：[Sources & Methodology 分卷来源表](https://ethiopiancanon.com/sources) — 全书分卷底本与许可说明；实际阅读上述表段与 Meqabyan／Church Order 说明；拼装本≠吉兹直译全库；不代表 EOTC 官方核准；Meqabyan 现署 © Clear Text
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-ethiopiancanon`。
+
+### Atrons：埃塞正教 81 卷多语入口
+
+- **原题：** Atrons — Ethiopian Orthodox Tewahedo Bible (81 books)
+- **作者／归属：** Atrons（自称 Ethiopian Church library 入口）
+- **年代：** 当代网站；文本来源分 Amharic EOTC／STEPBible Geʽez／KJVA
+- **语言：** 阿姆哈拉语、Geʽez、英语（KJVA）
+
+提供 81 卷结构下的多译本切换；英语侧为公版 KJV+次经，不是从吉兹新译的完整正典英译本。
+
+**价值：** historical：观察教会侧如何呈现 81 卷结构的实用入口；spiritual：多语阅读入口
+
+**文本注意：** 站点自称与教会官方关系未在本批独立核证；KJVA≠Geʽez 传统异文
+
+**仓库情况：** modern_anthology_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：阿姆哈拉／吉兹／英文入口；非中文
+
+**下一步：** 打开具体书卷样页核对章界与题名；查站点运营主体。
+
+**来源：**
+- [Atrons](https://atrons.et/library/eotc81) — 实际阅读 81 卷页：Amharic AMH-EOTC、Ge'ez STEPBible CC BY 4.0、KJVA 三选项及 Structure／Scripture 提示
+
+资源路径：[EOTC 81 books 多语选择页](https://atrons.et/library/eotc81) — 译本切换入口；实际阅读三译本标签与结构提示；未在本批点开全部 81 卷正文；KJVA 不能冒充吉兹直译
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-atrons-eotc81`。
+
+### Charles《旧约次经与伪经》英译合集（CCEL）
+
+- **原题：** Apocrypha and Pseudepigrapha of the Old Testament in English (R. H. Charles)
+- **作者／归属：** R. H. Charles（辑译）；CCEL 托管
+- **年代：** 约 1913 英译合集；当代数字化
+- **语言：** 英语
+
+公版学术英译合集入口，常含以诺等；用于英文可及性，不等于埃塞 81 卷清单本身。
+
+**价值：** historical：20 世纪初伪经英译标准入口之一；spiritual：旧译可读；专名与章界或与埃塞传统不同
+
+**文本注意：** 合集范围按 Charles 选目，非 EOTC 正典表
+
+**仓库情况：** modern_anthology_gateway
+
+**中文线索：** mainland：本批未检索 Charles 合集中文对应；hong_kong_taiwan：本批未检索；online_or_repository：CCEL 英文
+
+**下一步：** 在 CCEL 内定位 Enoch／Jubilees 分卷链接与本地中文次经总集映射。
+
+**来源：**
+- [CCEL](https://www.ccel.org/ccel/charles/otpseudepig) — 实际阅读作品摘要、格式列表与作者简介区；未通读合集全书
+
+资源路径：[CCEL Charles OT Pseudepigrapha 作品页](https://www.ccel.org/ccel/charles/otpseudepig) — 在线读／PDF／TXT／XML 等格式入口；实际阅读 Summary 与 Available formats；旧译；数字化页不等于已核每篇页码；收录≠埃塞正典
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-ccel-charles`。
+
+### 开源 Geʽez 81 卷＋转写数据层
+
+- **原题：** cpradmin/ethiopian-bible (Ge'ez with transliteration)
+- **作者／归属：** cpradmin 等（开源项目；声称依据 Beta Masaheft TEI 等）
+- **年代：** 当代数字项目
+- **语言：** Geʽez、拉丁转写；英译仅对照层
+
+以 Geʽez 与转写为主的开源数据；明确不以西方英译作主文本。可作对照，须核许可与底本声明。
+
+**价值：** historical：机器可读吉兹层线索；spiritual：依赖读者识读能力
+
+**文本注意：** README 主张与实际文件覆盖须抽样核验；非教会官方发布
+
+**仓库情况：** modern_anthology_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：GitHub 开源；许可 CC BY-NC-SA 4.0（据 README）
+
+**下一步：** 抽样核对 books.json／canon.json 与 EOTC 清单；核 TEI 来源声明。
+
+**来源：**
+- [GitHub](https://github.com/cpradmin/ethiopian-bible) — 实际阅读仓库 README 摘要：81 卷 Geʽez＋转写、英译对照层、开源声明
+
+资源路径：[GitHub 仓库 README／数据说明](https://github.com/cpradmin/ethiopian-bible) — data/ 层与 canon 元数据（据 README）；实际阅读 README 摘要要点；未克隆全库核文件；英译非主文本；许可非商业条款需遵守
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-github-geez81`。
+
+### 曼彻斯特大学埃塞手稿数字化馆藏
+
+- **原题：** University of Manchester Digital Collections — Ethiopic Manuscripts
+- **作者／归属：** University of Manchester Special Collections
+- **年代：** 抄本约 16–20 世纪；当代数字化
+- **语言：** Geʽez 等
+
+45 件数字化埃塞抄本；含 Enoch（MS 23）、礼仪书 Deggwā、圣米迦勒讲道等；说明含 Magdala 掠夺出处。
+
+**价值：** historical：可读影像与出处史；spiritual：抄本阅读
+
+**文本注意：** 子集不能代表全部埃塞传统；掠夺史须标注
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：英文馆藏说明
+
+**下一步：** 打开 Ethiopic MS 23 等单件元数据与图像权限；Cambridge／Princeton 待访。
+
+**来源：**
+- [University of Manchester](https://www.digitalcollections.manchester.ac.uk/collections/ethiopic) — 实际阅读馆藏介绍：45 件、Enoch MS 23、Deggwā MS 4、Magdala 相关三件及征集说明
+
+资源路径：[Manchester Ethiopic Manuscripts 数字馆藏页](https://www.digitalcollections.manchester.ac.uk/collections/ethiopic) — 集合级说明与条目入口；实际阅读集合说明正文；未在本批打开全部 45 件图像；内容警告项未逐一点开
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-manchester-ethiopic`。
+
+### Internet Archive 埃塞／正教圣经电子本线索
+
+- **原题：** Internet Archive Ethiopian / Ethiopic Bible items
+- **作者／归属：** 各上传者（非统一校本）
+- **年代：** 数字化上传年代不一
+- **语言：** 须逐条核：阿姆哈拉／吉兹／扫描 OCR
+
+可发现电子本的档案库入口；旧常用标识 EOTXC_HOLYSCRIPTS_ALL_BOOKS 本轮 404，改记仍可打开的条目。
+
+**价值：** historical：可得性线索；spiritual：视具体条目质量
+
+**文本注意：** 上传元数据常不完整；不能当官方定本
+
+**仓库情况：** modern_anthology_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：Archive 扫描／电子文件
+
+**下一步：** 打开条目元数据确认语种、页数、是否含 Enoch／Jubilees；废弃 404 旧链。
+
+**来源：**
+- [Internet Archive](https://archive.org/details/ethiopian-orthodox-tewahedo-church-bible-bible) — HTTP 200；确认条目可打开；未通读全书
+- [Internet Archive](https://archive.org/details/Etiopbiblia) — HTTP 200；目录列 PDF／DOC 等文件；未通读
+
+资源路径：[Archive: ETHIOPIAN ORTHODOX TEWAHEDO CHURCH BIBLE](https://archive.org/details/ethiopian-orthodox-tewahedo-church-bible-bible) — 条目页；HTTP 200；未核是否 81 卷、语种与 OCR；不作官方定本
+
+资源路径：[Archive: Etiopbiblia](https://archive.org/details/Etiopbiblia) — PDF／DOC 等下载列表；HTTP 200；见文件列表线索；未通读；须核是否为吉兹全文及来源
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-archive-ethiopic-bible`。
+
+### 商业合集案例：Ultimate Ethiopian Bible（英文）
+
+- **原题：** The Ultimate Ethiopian Bible in English (Dunatos Publishing) / Kindle ASIN B0FFNHTD3W
+- **作者／归属：** Dunatos Publishing（商业汇编）
+- **年代：** Kindle 页称 2025-06-26；本地 EPUB 文件时间 2026-11-04
+- **语言：** 现代英语
+
+商业“终极”英文合集；自称含印刷 88 书并扩出数字库，且含正典外材料。用作对照案例，不作学术底本或教会官方英译。
+
+**价值：** historical：反映英语市场对“完整埃塞圣经”的商品化呈现；spiritual：可读性因版本而异；来源透明度低于 ethiopiancanon 分卷表
+
+**文本注意：** 81 卷传统计数与商品 88 书／扩库不能直接等同；含 2/3 Enoch 等超出传统清单的材料（据商品页）
+
+**仓库情况：** modern_anthology_gateway
+
+**中文线索：** mainland：本批未检索中文版；hong_kong_taiwan：本批未检索；online_or_repository：英文 Kindle／本地 EPUB
+
+**下一步：** 用 ethiopiancanon 来源表对照 EPUB 目录：多出／缺失／是否标底本。
+
+**来源：**
+- [Amazon product page](https://www.amazon.com/dp/B0FFNHTD3W) — 实际阅读商品说明：88 书、数字库扩容、正典计数说明、扩出材料声明；未通读 13341 页正文
+
+资源路径：[Amazon Kindle ASIN B0FFNHTD3W](https://www.amazon.com/dp/B0FFNHTD3W) — 商品描述与读者评论摘要区；实际阅读商品页要点与部分评论摘要；营销文案；评论有“缺书／假货”等争议，未作法证鉴定；本地 EPUB 未在本批做全文哈希比对 Kindle
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `gateway-commercial-ultimate`。
+
+### 以诺一书（埃塞传统完整存本）
+
+- **原题：** 1 Enoch / Maṣḥafa Henok / Liber Henoch aethiopice
+- **作者／归属：** 匿名；多层犹太启示传统；完整文本主要依 Geʽez 传存
+- **年代：** 成书层次约前 3–前 1 世纪等（学界分期）；吉兹译传中古
+- **语言：** Geʽez 全本；希腊／阿拉米残片；现代英译
+
+埃塞正教旧约传统重要书卷；完整古代文本主要靠吉兹保存。英文常用 Charles 译；不等于已从最新校本重译。
+
+**价值：** historical：第二圣殿犹太启示与早期基督教接受史核心文献；spiritual：埃塞传统尊为正典；西方多作伪经／次经外
+
+**文本注意：** 1／2／3 Enoch 不可混为一书；商业合集常扩收 2/3 Enoch
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：存在中文《以诺一书》出版／流传线索，完整度与底本本批未核版权页；hong_kong_taiwan：本批未系统检索；online_or_repository：公版英译与本地中文 PDF 线索并存
+
+**下一步：** 核本地中文 PDF 译者／底本；对照 Manchester MS 23 与 Dillmann／Charles 章界。
+
+**来源：**
+- [Internet Archive](https://archive.org/details/thebookofenoch00unknuoft) — HTTP 200；Charles 依 Dillmann 吉兹本之英译条目可打开；未通读 391 页
+- [ethiopiancanon.com](https://ethiopiancanon.com/sources) — 来源表列 1 Enoch：R.H. Charles 1912，改写为埃塞 42 章划分
+
+资源路径：[R. H. Charles, The Book of Enoch (Oxford Clarendon 相关扫描)](https://archive.org/details/thebookofenoch00unknuoft) — Archive 条目；HTTP 200 打开条目；未通读；旧译；章界或与埃塞印刷本不同
+
+资源路径：[Manchester 集合说明提及 Ethiopic MS 23 Enoch](https://www.digitalcollections.manchester.ac.uk/collections/ethiopic) — 集合级说明；实际阅读集合介绍中的 Enoch 提及；未打开 MS 23 单件图像
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `ETH-Enoch`。
+
+### 禧年书／小创世记（库法勒）
+
+- **原题：** Jubilees / Kufale / Liber Jubilaeorum
+- **作者／归属：** 匿名犹太重述传统；完整文本主要依 Geʽez
+- **年代：** 约前 2 世纪前后（学界估计）；吉兹传存
+- **语言：** Geʽez 全本；希伯来残片等；英译 Charles 1902 等
+
+按禧年历重述创世至出埃及；埃塞传统重要书卷。Dillmann 吉兹印本与 Charles 英译为常用公版入口。
+
+**价值：** historical：历法、律法重述与第二圣殿思想史；spiritual：埃塞传统正典；西方多作伪经
+
+**文本注意：** 西方 50 章与埃塞 34 章划分不同（据 ethiopiancanon 说明）
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：存在中文《禧年书》流传线索，底本未核；hong_kong_taiwan：本批未系统检索；online_or_repository：公版英译／吉兹印本 Archive
+
+**下一步：** 核本地中文 PDF；对照 Dillmann 1859 与 Charles 章界。
+
+**来源：**
+- [Internet Archive](https://archive.org/details/liberjubilaeorum00dilluoft) — HTTP 200；Dillmann 1859 吉兹印本条目可打开；未通读
+- [ethiopiancanon.com](https://ethiopiancanon.com/sources) — 来源表列 Jubilees：Charles 1902，改为埃塞 34 章
+
+资源路径：[August Dillmann, Liber Jubilaeorum (1859) Geʽez](https://archive.org/details/liberjubilaeorum00dilluoft) — Archive 条目；HTTP 200；未通读；拉丁书名页／吉兹正文须用时再核
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `ETH-Jubilees`。
+
+### 埃塞马加比书（1–3 Meqabyan）
+
+- **原题：** 1–3 Meqabyan / Ethiopic Maccabees
+- **作者／归属：** 匿名；与希腊 1–4 Maccabees 非同书
+- **年代：** 中古埃塞传统（具体年代待专论）
+- **语言：** Geʽez；阿姆哈拉印刷本；现代英译有限
+
+埃塞正典独特书卷族；与希腊马加比书不同。ethiopiancanon 称据 EMML 515 等自吉兹新译，并更正此前错误署名。
+
+**价值：** historical：埃塞正典独特性与文本批评材料；spiritual：教会传统正典部分
+
+**文本注意：** 不可与 LXX 马加比书合并；英译版权与公版状态须分卷看
+
+**仓库情况：** candidate_inventory_unconfirmed
+
+**中文线索：** mainland：本批未确认正式全译；hong_kong_taiwan：本批未检索；online_or_repository：英文在线拼装本有收；版权 © Clear Text（据来源页）
+
+**下一步：** 在 vHMML 定位 EMML 515／652；核 ethiopiancanon 在线免费章节范围。
+
+**来源：**
+- [ethiopiancanon.com](https://ethiopiancanon.com/sources) — 实际阅读 Meqabyan 三卷来源：EMML 515、BnF d'Abbadie 55、EMML 652 及署名更正说明
+
+资源路径：[Clear Text Meqabyan 来源与方法说明](https://ethiopiancanon.com/sources) — 1/2/3 Meqabyan 分卷表与手稿说明；实际阅读该段；本批未打开三卷全文阅读器；译文有版权，不等于公版；须与希腊马加比书分开
+
+资源路径：[HMML EMML 数字化说明（定位 EMML 影像总库）](https://hmml.org/stories/the-ethiopian-manuscript-microfilm-library-is-now-digital/) — Reading Room 背景；实际阅读 EMML 上线说明；未在本批打开 EMML 515 图像
+
+[完整调查记录](workers/ethiopic_r01.json)，条目 `ETH-Meqabyan`。
+
+## 埃塞俄比亚与吉兹文献资源续查R02
+
+### 普林斯顿大学埃塞抄本数字化馆藏（Digital PUL）
+
+- **原题：** Princeton Digital PUL — Ethiopic Manuscripts
+- **作者／归属：** Princeton University Library
+- **年代：** 抄本多为18–20世纪，少数更早；当代数字化开放
+- **语言：** Geʽez 为主，部分阿姆哈拉旁注
+
+开放埃塞抄本影像集合，含诗篇、圣母奇迹、礼仪书等；学术手稿层入口，非英文全本圣经。
+
+**价值：** historical：西方馆藏数字化见证；spiritual：抄本阅读
+
+**文本注意：** 年代鉴定困难；开放影像≠校本
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：英文馆藏
+
+**下一步：** 打开具体抄本条目核题名与图像权限。
+
+**来源：**
+- [Princeton Digital PUL](https://dpul.princeton.edu/ethiopic_manuscripts) — 经代理取得 Digital PUL 集合页 HTML；确认 Ethiopic 集合标题；未逐件打开全部抄本
+
+资源路径：[Digital PUL Ethiopic Manuscripts 集合页](https://dpul.princeton.edu/ethiopic_manuscripts) — 开放抄本集合入口；代理下 HTTP 200；读取页面 title Digital PUL 与集合结构片段；未通读每件元数据；直连曾超时／证书失败
+
+[完整调查记录](workers/ethiopic_r02.json)，条目 `gateway-princeton-ethiopic`。
+
+### 剑桥大学数字图书馆埃塞手稿集合
+
+- **原题：** Cambridge Digital Library — Ethiopian Manuscripts
+- **作者／归属：** Cambridge University Library
+- **年代：** 含重要大抄本等；当代数字化
+- **语言：** Geʽez 等
+
+CUDL 埃塞手稿集合；直连曾403，经本地代理可打开集合页。含旧约大抄本等重要见证线索。
+
+**价值：** historical：一级馆藏数字化；spiritual：抄本阅读
+
+**文本注意：** 访问依赖网络路径；403可能因地而异
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：英文馆藏
+
+**下一步：** 核 Add.1570 等具体条目与图像开放级别。
+
+**来源：**
+- [Cambridge Digital Library](https://cudl.lib.cam.ac.uk/collections/ethiopianmanuscripts) — 经代理取得集合页；确认标题 Ethiopian Manuscripts；未通读全部条目
+
+资源路径：[CUDL Ethiopian Manuscripts 集合](https://cudl.lib.cam.ac.uk/collections/ethiopianmanuscripts) — 集合级入口；代理下 HTTP 200；读取 title 与页面头；未打开单件全文图像；直连403
+
+[完整调查记录](workers/ethiopic_r02.json)，条目 `gateway-cambridge-ethiopian`。
+
+### Online Critical Pseudepigrapha（伪经校勘电子版）
+
+- **原题：** Online Critical Pseudepigrapha (OCP)
+- **作者／归属：** OCP 项目（开放校勘电子版）
+- **年代：** 当代数字校勘库；文本为古代伪经传统
+- **语言：** 原语校勘＋界面英语等
+
+犹太／早期基督教伪经及相关文献的校勘电子版入口，含异文；属公版／开放学术骨干，不等于埃塞 81 卷英译合集。
+
+**价值：** historical：伪经文本批评一级工具；spiritual：研究用途为主
+
+**文本注意：** 收录范围按 OCP 目录，非 EOTC 正典表
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未检索中文镜像；hong_kong_taiwan：本批未检索；online_or_repository：英文／原语电子校勘
+
+**下一步：** 打开具体书卷（如 Enoch 相关）核对 TEI／异文界面。
+
+**来源：**
+- [Online Critical Pseudepigrapha](https://pseudepigrapha.org/) — 经代理读取首页：Critical Electronic Editions 说明、开放许可概述；未通读全部书卷
+
+资源路径：[OCP 项目首页](https://pseudepigrapha.org/) — 校勘目录与阅读器入口；代理下 HTTP 200；确认 title Online Critical Pseudepigrapha 与 description；未逐书打开平行阅读器；收录≠埃塞正典清单
+
+[完整调查记录](workers/ethiopic_r02.json)，条目 `gateway-ocp-pseudepigrapha`。
+
+### ethiopiabible.com 公版英译在线阅读
+
+- **原题：** Read the Ethiopian Bible Online in English (ethiopiabible.com)
+- **作者／归属：** 站点汇编（公版 Charles／KJV Apocrypha 等）
+- **年代：** 当代网站；底本多为公版旧译
+- **语言：** 英语
+
+提供禧年、以诺、多比等部分书卷在线英读；明确非 81 卷全覆盖，与 ethiopiancanon 拼装本互补。
+
+**价值：** historical：英文可及性入口；spiritual：选读书卷可读
+
+**文本注意：** 公版拼装；不是吉兹新译
+
+**仓库情况：** modern_anthology_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：英文在线
+
+**下一步：** 列出站点实际可读书卷清单并与 Charles／仓库对照。
+
+**来源：**
+- [ethiopiabible.com](https://ethiopiabible.com/read-the-ethiopian-bible-online-in-english/) — 代理／直连均可；读取在线阅读页 HTML 头与 SEO 摘要区；未点开全部章节
+
+资源路径：[Online English reader 页](https://ethiopiabible.com/read-the-ethiopian-bible-online-in-english/) — 部分书卷章节阅读入口；HTTP 200；确认页面可检索；非全 81 卷；底本为公版旧译
+
+[完整调查记录](workers/ethiopic_r02.json)，条目 `gateway-ethiopiabible-online`。
+
+### 进行中的 Geʽez—英文对照阅读器说明
+
+- **原题：** About the Geʽez Bible reader (YHWH Ya’ Way)
+- **作者／归属：** 站点项目（手稿转写进行中）
+- **年代：** 当代进行中项目
+- **语言：** Geʽez 与英语对照
+
+说明从剑桥等手稿转写吉兹圣经并附直译英文；目前仅部分书卷／章节可点开，不能当作完整 81 卷。
+
+**价值：** historical：进行中的原文层工程线索；spiritual：已完成章节可读
+
+**文本注意：** 覆盖率随进度变化；须以站点 progress 为准
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未检索；hong_kong_taiwan：本批未检索；online_or_repository：英／吉兹对照
+
+**下一步：** 记录当前可点击书卷列表与稿本引用。
+
+**来源：**
+- [YHWH Ya’ Way](https://www.yhwhyaway.com/about-the-geez-bible.html) — HTTP 200 取得 about 页；确认手稿来源与对照阅读方法说明；打印片段时本机控制台编码报错不影响读取
+
+资源路径：[Geʽez Bible reader 方法说明页](https://www.yhwhyaway.com/about-the-geez-bible.html) — 稿本与转写政策说明；HTTP 200；确认页面可访问；非完整 81 卷；进度未在本批逐书清点
+
+[完整调查记录](workers/ethiopic_r02.json)，条目 `gateway-yhwh-geez-reader`。
+
+### STEPBible 多译本／原文工具入口
+
+- **原题：** STEPBible
+- **作者／归属：** STEPBible 项目
+- **年代：** 当代圣经软件／网站
+- **语言：** 多语；含 Geʽez 等数据层（经第三方引用）
+
+多译本与原文工具门户；Atrons 的 Geʽez 选项声明来自 STEPBible CC BY 4.0。本条立独立入口，避免只挂在 Atrons 下。
+
+**价值：** historical：对照工具；spiritual：读经工具
+
+**文本注意：** 站点功能与 Geʽez 覆盖范围须在站内再核；不等于埃塞正典英译
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未检索中文界面可用性；hong_kong_taiwan：本批未检索；online_or_repository：多语工具站
+
+**下一步：** 在 STEPBible 内确认 Geʽez 模块名称与许可页。
+
+**来源：**
+- [STEPBible](https://www.stepbible.org/) — 代理／直连 HTTP 200；读取首页 HTML；未登录全部模块
+
+资源路径：[STEPBible 首页](https://www.stepbible.org/) — 多译本工具入口；HTTP 200；未在本批核 Geʽez 数据包完整性；与 Atrons 引用关系需再核许可页
+
+[完整调查记录](workers/ethiopic_r02.json)，条目 `gateway-stepbible`。
+
+### Patrologia Orientalis（交叉引用，不重复建库）
+
+- **原题：** Patrologia Orientalis / POD (cross-reference)
+- **作者／归属：** Brepols 等（东方教父／东方语文本系列）
+- **年代：** 纸本系列长期出版；POD 为机构订阅数据库
+- **语言：** 叙利亚、科普特、亚美尼亚、阿拉伯、Geʽez 等＋现代译文
+
+东方基督教文本骨干系列；已在 phase1 礼仪／资源地图与 queue csco-po 登记。本条仅作三类清单对照的交叉引用，避免与 lori_b 地图重复充数。
+
+**价值：** historical：东方语校本／译文线索；spiritual：视具体卷
+
+**文本注意：** 全文多需订阅；本批 about.brepolis.net 仍 403
+
+**仓库情况：** modern_research_gateway
+
+**中文线索：** mainland：本批未新检索；hong_kong_taiwan：本批未新检索；online_or_repository：机构库／纸本
+
+**下一步：** csco-po 任务启动时按卷号游标扫描；可试 Gallica／Archive 单卷开放本。
+
+**来源：**
+- [Brepols（lori_b 已用目录页）](https://www.brepols.net/products/IS-9782503620558-1) — 本批未重新打开；沿用 phase1 资源地图已核说明，作交叉引用
+
+资源路径：[PO／相关目录出版方页（既有地图引用）](https://www.brepols.net/products/IS-9782503620558-1) — 系列书目；交叉引用既有 lori_b 核验；本批 about.brepolis.net POD 说明页仍 403；不是本批新扫全套 PO；订阅库全文未取得
+
+[完整调查记录](workers/ethiopic_r02.json)，条目 `gateway-po-crossref`。

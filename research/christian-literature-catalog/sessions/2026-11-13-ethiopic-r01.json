@@ -1,0 +1,37 @@
+{
+  "session_id": "2026-11-13-ethiopic-r01",
+  "date_beijing": "2026-11-13",
+  "worker": "ethiopic_r01",
+  "task_id": "ethiopic-systematic",
+  "status": "batch_saved",
+  "background_service": false,
+  "note": "接续总研究目录之滚动任务；本批优先纳入埃塞／古籍合集资源并去重，不推进 e-Clavis ECCA518。",
+  "files_written": [
+    "workers/ethiopic_r01.json",
+    "resource-map-ethiopic.md",
+    "RESOURCE-PATHS-ETHIOPIC-01.md",
+    "sessions/2026-11-13-ethiopic-r01.json"
+  ],
+  "counts": {
+    "new_items": 12,
+    "supplements_to_existing_works": 4,
+    "gateway_or_collection_items": 9,
+    "new_work_candidates": 3,
+    "urls_verified_http_or_read": 18,
+    "access_failures_recorded": 5
+  },
+  "dedup": {
+    "skipped_new_records_for": [
+      "dydi_c:C09",
+      "dydi_c:C10",
+      "dydi_c:C12",
+      "lori_b:lb02"
+    ],
+    "replaced_dead_archive_id": "EOTXC_HOLYSCRIPTS_ALL_BOOKS"
+  },
+  "eclavis_cursor_unchanged": {
+    "next_title": "Apocryphal Gospel of John",
+    "next_ecca": "518"
+  },
+  "next": "Harden1920／EMML515／本地 Ultimate EPUB 与 ethiopiancanon 对照；待访 Princeton／Cambridge；恢复后复核 betamasaheft.eu；可择机续 ECCA518"
+}

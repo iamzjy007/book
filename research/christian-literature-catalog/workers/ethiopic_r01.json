@@ -1,0 +1,710 @@
+{
+  "worker": "ethiopic_r01",
+  "date_beijing": "2026-11-13",
+  "status": "batch_completed_scan_in_progress",
+  "scope": "启动 ethiopic-systematic：资源地图入口核验；新增以诺／禧年／Meqabyan 作品调查；对既有 C09/C10/C12/lb02 做 URL 补证去重。不推进 e-Clavis 字母游标。",
+  "method": "当前会话单一工作者；只保存书目与资源路径；实际打开或 HTTP 核验入口；SSL／超时／404／403 如实记录；不下载全书翻译。",
+  "dedup_notes": [
+    "不新建诸王荣耀／Senodos／约西蓬／使徒遗范作品记录；改用 supplements。",
+    "betamasaheft.eu 与既有 betamasaheft.awhamburg.de／cae.ethiopicist.com 视为同一项目族。",
+    "旧 Archive 标识 EOTXC_HOLYSCRIPTS_ALL_BOOKS 本轮 404；改记可打开的 ethiopian-orthodox-tewahedo-church-bible-bible 与 Etiopbiblia。",
+    "HMML 单篇稿号已在 e-Clavis 批次出现者不重复立作品；本批只记馆藏总入口。"
+  ],
+  "items": [
+    {
+      "id": "gateway-beta-masaheft",
+      "title_zh": "Beta maṣāḥǝft（埃塞／厄立特里亚手稿数字研究环境）",
+      "original_title": "Beta maṣāḥǝft: Manuscripts of Ethiopia and Eritrea",
+      "author": "Universität Hamburg / Hiob Ludolf Centre（长期项目 2016–2040）",
+      "date": "数字项目；手稿年代跨中古至近现代",
+      "language": "元数据英语等；文本主要为 Geʽez 等",
+      "synopsis": "开放 TEI 手稿与作品编码、Clavis、机构／人物／地点关联及 API／GitHub 数据；是吉兹文献书目的核心学术入口，不是一部英文圣经。",
+      "historical_value": "作品身份消歧与手稿见证定位的一级工具",
+      "devotional_value": "研究基础设施，非灵修读本",
+      "attribution_issues": "主站本轮 SSL 失败；旧 awhamburg 域名与 CAe 镜像并存，须标明实际打开的主机",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "既有 dydi_c 已引用 awhamburg 作品页与 CAe；本批新建总入口以免与单作品重复。",
+      "chinese_availability": {
+        "mainland": "本批未检索大陆出版社及国家图书馆",
+        "hong_kong_taiwan": "本批未检索港台出版目录",
+        "online_or_repository": "数字研究环境；无对应“中文译本”概念"
+      },
+      "priority": "后续逐作品回查 CAe／Beta ID 时优先",
+      "next": "主站 SSL 恢复后打开 betamasaheft.eu 首页与 API 文档；继续用 CAe 镜像核作品 ID。",
+      "sources": [
+        {
+          "url": "https://cae.ethiopicist.com/",
+          "institution": "CAe / Ethiopicist mirror",
+          "read_scope": "HTTP 200；作为 Beta／Clavis 相关可访问镜像入口；未通读站内全部作品",
+          "accessed": "2026-11-13"
+        },
+        {
+          "url": "https://betamasaheft.eu/",
+          "institution": "Beta maṣāḥǝft",
+          "read_scope": "本轮 SSL 握手失败；保留为规范主 URL，不作已打开正文",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://cae.ethiopicist.com/",
+          "edition": "Clavis Aethiopica / Ethiopicist 可访问入口",
+          "location": "作品与别名检索门户",
+          "verified": "HTTP 200；读取响应头与首页片段",
+          "limits": "镜像≠已核每条 CAe；不能替代手稿图像阅读；与 awhamburg 旧链同族不去重成两项目",
+          "language": "英语界面",
+          "resource_type": "digital_research_environment_gateway",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-hmml-emml",
+      "title_zh": "HMML／EMML 埃塞手稿显微胶卷数字化入口",
+      "original_title": "Ethiopian Manuscript Microfilm Library (EMML) at HMML Reading Room",
+      "author": "Hill Museum & Manuscript Library 等",
+      "date": "显微拍摄约 1973 起；数字化约 2004–2025 完成 EMML 胶卷上线",
+      "language": "手稿主要为 Geʽez；目录英语",
+      "synopsis": "世界最重要的埃塞手稿影像来源之一；Reading Room 可按项目号检索 EMML／EMIP 等。与 manuscript-east 任务交叉，本条只记总入口。",
+      "historical_value": "原文见证与版本比较的一级影像库",
+      "devotional_value": "研究／校读用途为主",
+      "attribution_issues": "影像开放不等于编目完成；EMIP 大量条目尚缺完整目录",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "e-Clavis 批次已引用个别 vHMML 稿号；本条不重复那些单篇。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "手稿影像库；非中文译本"
+      },
+      "priority": "按作品回查稿号时使用",
+      "next": "从 Meqabyan／Enoch 等作品建立 EMML 稿号清单；不先承诺整库翻页扫完。",
+      "sources": [
+        {
+          "url": "https://hmml.org/stories/the-ethiopian-manuscript-microfilm-library-is-now-digital/",
+          "institution": "HMML",
+          "read_scope": "实际阅读 EMML 数字化完成说明：约 7500 卷胶卷、Reading Room 上线、4000 件已有在线描述里程碑",
+          "accessed": "2026-11-13"
+        },
+        {
+          "url": "https://www.vhmml.org/readingRoom/",
+          "institution": "vHMML Reading Room",
+          "read_scope": "HTTP 200；打开阅读室入口页；未在本批按项目号翻完整库",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://hmml.org/assets/pdf/HMML_Ethiopian_Manuscript_Collection_Guide.pdf",
+          "edition": "HMML Ethiopian Manuscript Collection Guide PDF",
+          "location": "EMML／EMIP／EMDA 等项目检索说明",
+          "verified": "HTTP 200；确认 PDF 头 %PDF-1.5；未通读全部 11 页导读正文",
+          "limits": "导读不是手稿全文；具体稿号须在 Reading Room 再核",
+          "language": "英语",
+          "resource_type": "repository_collection_guide",
+          "checked_date_beijing": "2026-11-13"
+        },
+        {
+          "url": "https://www.vhmml.org/readingRoom/",
+          "edition": "vHMML Reading Room",
+          "location": "按 Project Number 检索影像与目录",
+          "verified": "HTTP 200 打开入口",
+          "limits": "入口可访问≠已评估全部 EMML 图像质量或版权下载条款",
+          "language": "英语界面",
+          "resource_type": "manuscript_reading_room_gateway",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-ethiopiancanon",
+      "title_zh": "埃塞俄比亚正典英文拼装本（来源可追溯）",
+      "original_title": "The Ethiopian Canon / Ethiopian Bible in English — Sources & Methodology",
+      "author": "Clear Text Editions（现代拼装；分卷标注公版底本）",
+      "date": "当代电子／印刷合集；底本多为 19–20 世纪公版",
+      "language": "现代英语（改写自公版）；部分 Meqabyan 自吉兹",
+      "synopsis": "按卷列出 Brenton LXX、WEB、Charles、Harden Didascalia、Horner 规程及 Meqabyan 手稿路径；是评估“完整英文埃塞圣经”声明的说明书，不是教会官方译本。",
+      "historical_value": "英文可及性与底本透明度高；便于与商业合集对照",
+      "devotional_value": "可读拼装本；独特书卷质量参差",
+      "attribution_issues": "81 卷计数与 90 分册印刷是不同计数；教会规程八卷多数商业本缺失；Josippon 为近似英译",
+      "repository_status": "modern_anthology_gateway",
+      "repository_evidence": "仓库有 Ultimate Ethiopian Bible EPUB 等商业合集；不能与本条等同。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英文拼装；中文全套对应本未在本批核"
+      },
+      "priority": "对照商业 EPUB／本地合集时优先打开本页",
+      "next": "逐卷映射本地 Ultimate EPUB 目录与本表差异；Meqabyan 版权页与在线免费范围再核。",
+      "sources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "institution": "ethiopiancanon.com",
+          "read_scope": "实际阅读 License Summary、OT／独特书卷／Josippon／NT／八卷教会规程来源表及 Meqabyan 手稿说明与 2026-11 署名更正",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "edition": "Sources & Methodology 分卷来源表",
+          "location": "全书分卷底本与许可说明",
+          "verified": "实际阅读上述表段与 Meqabyan／Church Order 说明",
+          "limits": "拼装本≠吉兹直译全库；不代表 EOTC 官方核准；Meqabyan 现署 © Clear Text",
+          "language": "英语",
+          "resource_type": "documented_english_composite_edition_gateway",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-atrons-eotc81",
+      "title_zh": "Atrons：埃塞正教 81 卷多语入口",
+      "original_title": "Atrons — Ethiopian Orthodox Tewahedo Bible (81 books)",
+      "author": "Atrons（自称 Ethiopian Church library 入口）",
+      "date": "当代网站；文本来源分 Amharic EOTC／STEPBible Geʽez／KJVA",
+      "language": "阿姆哈拉语、Geʽez、英语（KJVA）",
+      "synopsis": "提供 81 卷结构下的多译本切换；英语侧为公版 KJV+次经，不是从吉兹新译的完整正典英译本。",
+      "historical_value": "观察教会侧如何呈现 81 卷结构的实用入口",
+      "devotional_value": "多语阅读入口",
+      "attribution_issues": "站点自称与教会官方关系未在本批独立核证；KJVA≠Geʽez 传统异文",
+      "repository_status": "modern_anthology_gateway",
+      "repository_evidence": "与 ethiopiancanon 拼装、商业 Ultimate 合集分层保存。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "阿姆哈拉／吉兹／英文入口；非中文"
+      },
+      "priority": "核 81 卷结构时对照",
+      "next": "打开具体书卷样页核对章界与题名；查站点运营主体。",
+      "sources": [
+        {
+          "url": "https://atrons.et/library/eotc81",
+          "institution": "Atrons",
+          "read_scope": "实际阅读 81 卷页：Amharic AMH-EOTC、Ge'ez STEPBible CC BY 4.0、KJVA 三选项及 Structure／Scripture 提示",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://atrons.et/library/eotc81",
+          "edition": "EOTC 81 books 多语选择页",
+          "location": "译本切换入口",
+          "verified": "实际阅读三译本标签与结构提示",
+          "limits": "未在本批点开全部 81 卷正文；KJVA 不能冒充吉兹直译",
+          "language": "多语界面",
+          "resource_type": "church_side_multilingual_bible_portal",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-ccel-charles",
+      "title_zh": "Charles《旧约次经与伪经》英译合集（CCEL）",
+      "original_title": "Apocrypha and Pseudepigrapha of the Old Testament in English (R. H. Charles)",
+      "author": "R. H. Charles（辑译）；CCEL 托管",
+      "date": "约 1913 英译合集；当代数字化",
+      "language": "英语",
+      "synopsis": "公版学术英译合集入口，常含以诺等；用于英文可及性，不等于埃塞 81 卷清单本身。",
+      "historical_value": "20 世纪初伪经英译标准入口之一",
+      "devotional_value": "旧译可读；专名与章界或与埃塞传统不同",
+      "attribution_issues": "合集范围按 Charles 选目，非 EOTC 正典表",
+      "repository_status": "modern_anthology_gateway",
+      "repository_evidence": "与单部以诺／禧年作品记录互补；不另立多部同名古书。",
+      "chinese_availability": {
+        "mainland": "本批未检索 Charles 合集中文对应",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "CCEL 英文"
+      },
+      "priority": "公版英译对照",
+      "next": "在 CCEL 内定位 Enoch／Jubilees 分卷链接与本地中文次经总集映射。",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/charles/otpseudepig",
+          "institution": "CCEL",
+          "read_scope": "实际阅读作品摘要、格式列表与作者简介区；未通读合集全书",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.ccel.org/ccel/charles/otpseudepig",
+          "edition": "CCEL Charles OT Pseudepigrapha 作品页",
+          "location": "在线读／PDF／TXT／XML 等格式入口",
+          "verified": "实际阅读 Summary 与 Available formats",
+          "limits": "旧译；数字化页不等于已核每篇页码；收录≠埃塞正典",
+          "language": "英语",
+          "resource_type": "public_domain_english_anthology_gateway",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-github-geez81",
+      "title_zh": "开源 Geʽez 81 卷＋转写数据层",
+      "original_title": "cpradmin/ethiopian-bible (Ge'ez with transliteration)",
+      "author": "cpradmin 等（开源项目；声称依据 Beta Masaheft TEI 等）",
+      "date": "当代数字项目",
+      "language": "Geʽez、拉丁转写；英译仅对照层",
+      "synopsis": "以 Geʽez 与转写为主的开源数据；明确不以西方英译作主文本。可作对照，须核许可与底本声明。",
+      "historical_value": "机器可读吉兹层线索",
+      "devotional_value": "依赖读者识读能力",
+      "attribution_issues": "README 主张与实际文件覆盖须抽样核验；非教会官方发布",
+      "repository_status": "modern_anthology_gateway",
+      "repository_evidence": "与 Atrons／ethiopiancanon 英文拼装分层。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "GitHub 开源；许可 CC BY-NC-SA 4.0（据 README）"
+      },
+      "priority": "技术对照候选",
+      "next": "抽样核对 books.json／canon.json 与 EOTC 清单；核 TEI 来源声明。",
+      "sources": [
+        {
+          "url": "https://github.com/cpradmin/ethiopian-bible",
+          "institution": "GitHub",
+          "read_scope": "实际阅读仓库 README 摘要：81 卷 Geʽez＋转写、英译对照层、开源声明",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://github.com/cpradmin/ethiopian-bible",
+          "edition": "GitHub 仓库 README／数据说明",
+          "location": "data/ 层与 canon 元数据（据 README）",
+          "verified": "实际阅读 README 摘要要点",
+          "limits": "未克隆全库核文件；英译非主文本；许可非商业条款需遵守",
+          "language": "英语说明；Geʽez 数据",
+          "resource_type": "open_source_geez_text_dataset",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-manchester-ethiopic",
+      "title_zh": "曼彻斯特大学埃塞手稿数字化馆藏",
+      "original_title": "University of Manchester Digital Collections — Ethiopic Manuscripts",
+      "author": "University of Manchester Special Collections",
+      "date": "抄本约 16–20 世纪；当代数字化",
+      "language": "Geʽez 等",
+      "synopsis": "45 件数字化埃塞抄本；含 Enoch（MS 23）、礼仪书 Deggwā、圣米迦勒讲道等；说明含 Magdala 掠夺出处。",
+      "historical_value": "可读影像与出处史",
+      "devotional_value": "抄本阅读",
+      "attribution_issues": "子集不能代表全部埃塞传统；掠夺史须标注",
+      "repository_status": "modern_research_gateway",
+      "repository_evidence": "与 HMML 总库互补的西方馆藏数字化。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英文馆藏说明"
+      },
+      "priority": "以诺等单件回查",
+      "next": "打开 Ethiopic MS 23 等单件元数据与图像权限；Cambridge／Princeton 待访。",
+      "sources": [
+        {
+          "url": "https://www.digitalcollections.manchester.ac.uk/collections/ethiopic",
+          "institution": "University of Manchester",
+          "read_scope": "实际阅读馆藏介绍：45 件、Enoch MS 23、Deggwā MS 4、Magdala 相关三件及征集说明",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.digitalcollections.manchester.ac.uk/collections/ethiopic",
+          "edition": "Manchester Ethiopic Manuscripts 数字馆藏页",
+          "location": "集合级说明与条目入口",
+          "verified": "实际阅读集合说明正文",
+          "limits": "未在本批打开全部 45 件图像；内容警告项未逐一点开",
+          "language": "英语",
+          "resource_type": "institutional_digitized_manuscript_collection",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-archive-ethiopic-bible",
+      "title_zh": "Internet Archive 埃塞／正教圣经电子本线索",
+      "original_title": "Internet Archive Ethiopian / Ethiopic Bible items",
+      "author": "各上传者（非统一校本）",
+      "date": "数字化上传年代不一",
+      "language": "须逐条核：阿姆哈拉／吉兹／扫描 OCR",
+      "synopsis": "可发现电子本的档案库入口；旧常用标识 EOTXC_HOLYSCRIPTS_ALL_BOOKS 本轮 404，改记仍可打开的条目。",
+      "historical_value": "可得性线索",
+      "devotional_value": "视具体条目质量",
+      "attribution_issues": "上传元数据常不完整；不能当官方定本",
+      "repository_status": "modern_anthology_gateway",
+      "repository_evidence": "与本地 EPUB／印刷本分层。",
+      "chinese_availability": {
+        "mainland": "本批未检索",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "Archive 扫描／电子文件"
+      },
+      "priority": "下载前核语种与卷数",
+      "next": "打开条目元数据确认语种、页数、是否含 Enoch／Jubilees；废弃 404 旧链。",
+      "sources": [
+        {
+          "url": "https://archive.org/details/ethiopian-orthodox-tewahedo-church-bible-bible",
+          "institution": "Internet Archive",
+          "read_scope": "HTTP 200；确认条目可打开；未通读全书",
+          "accessed": "2026-11-13"
+        },
+        {
+          "url": "https://archive.org/details/Etiopbiblia",
+          "institution": "Internet Archive",
+          "read_scope": "HTTP 200；目录列 PDF／DOC 等文件；未通读",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/details/ethiopian-orthodox-tewahedo-church-bible-bible",
+          "edition": "Archive: ETHIOPIAN ORTHODOX TEWAHEDO CHURCH BIBLE",
+          "location": "条目页",
+          "verified": "HTTP 200",
+          "limits": "未核是否 81 卷、语种与 OCR；不作官方定本",
+          "language": "待核",
+          "resource_type": "archive_electronic_bible_candidate",
+          "checked_date_beijing": "2026-11-13"
+        },
+        {
+          "url": "https://archive.org/details/Etiopbiblia",
+          "edition": "Archive: Etiopbiblia",
+          "location": "PDF／DOC 等下载列表",
+          "verified": "HTTP 200；见文件列表线索",
+          "limits": "未通读；须核是否为吉兹全文及来源",
+          "language": "待核",
+          "resource_type": "archive_electronic_bible_candidate",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "gateway-commercial-ultimate",
+      "title_zh": "商业合集案例：Ultimate Ethiopian Bible（英文）",
+      "original_title": "The Ultimate Ethiopian Bible in English (Dunatos Publishing) / Kindle ASIN B0FFNHTD3W",
+      "author": "Dunatos Publishing（商业汇编）",
+      "date": "Kindle 页称 2025-06-26；本地 EPUB 文件时间 2026-11-04",
+      "language": "现代英语",
+      "synopsis": "商业“终极”英文合集；自称含印刷 88 书并扩出数字库，且含正典外材料。用作对照案例，不作学术底本或教会官方英译。",
+      "historical_value": "反映英语市场对“完整埃塞圣经”的商品化呈现",
+      "devotional_value": "可读性因版本而异；来源透明度低于 ethiopiancanon 分卷表",
+      "attribution_issues": "81 卷传统计数与商品 88 书／扩库不能直接等同；含 2/3 Enoch 等超出传统清单的材料（据商品页）",
+      "repository_status": "modern_anthology_gateway",
+      "repository_evidence": "本地文件：prophet/github/book/bible/The Ultimate Ethiopian Bible in English.epub；与 ethiopiancanon 拼装分层。",
+      "chinese_availability": {
+        "mainland": "本批未检索中文版",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英文 Kindle／本地 EPUB"
+      },
+      "priority": "对照研究样本",
+      "next": "用 ethiopiancanon 来源表对照 EPUB 目录：多出／缺失／是否标底本。",
+      "sources": [
+        {
+          "url": "https://www.amazon.com/dp/B0FFNHTD3W",
+          "institution": "Amazon product page",
+          "read_scope": "实际阅读商品说明：88 书、数字库扩容、正典计数说明、扩出材料声明；未通读 13341 页正文",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://www.amazon.com/dp/B0FFNHTD3W",
+          "edition": "Amazon Kindle ASIN B0FFNHTD3W",
+          "location": "商品描述与读者评论摘要区",
+          "verified": "实际阅读商品页要点与部分评论摘要",
+          "limits": "营销文案；评论有“缺书／假货”等争议，未作法证鉴定；本地 EPUB 未在本批做全文哈希比对 Kindle",
+          "language": "英语",
+          "resource_type": "commercial_english_composite_case_study",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "gateway_recorded"
+    },
+    {
+      "id": "ETH-Enoch",
+      "title_zh": "以诺一书（埃塞传统完整存本）",
+      "original_title": "1 Enoch / Maṣḥafa Henok / Liber Henoch aethiopice",
+      "author": "匿名；多层犹太启示传统；完整文本主要依 Geʽez 传存",
+      "date": "成书层次约前 3–前 1 世纪等（学界分期）；吉兹译传中古",
+      "language": "Geʽez 全本；希腊／阿拉米残片；现代英译",
+      "synopsis": "埃塞正教旧约传统重要书卷；完整古代文本主要靠吉兹保存。英文常用 Charles 译；不等于已从最新校本重译。",
+      "historical_value": "第二圣殿犹太启示与早期基督教接受史核心文献",
+      "devotional_value": "埃塞传统尊为正典；西方多作伪经／次经外",
+      "attribution_issues": "1／2／3 Enoch 不可混为一书；商业合集常扩收 2/3 Enoch",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "中文总集／manifest 本轮未做穷尽命中；本地有《01以诺一书.pdf》等文件线索，待与 Charles／吉兹校本对照，不在本批计为已核正式收录。",
+      "chinese_availability": {
+        "mainland": "存在中文《以诺一书》出版／流传线索，完整度与底本本批未核版权页",
+        "hong_kong_taiwan": "本批未系统检索",
+        "online_or_repository": "公版英译与本地中文 PDF 线索并存"
+      },
+      "priority": "高：独特正典书卷",
+      "next": "核本地中文 PDF 译者／底本；对照 Manchester MS 23 与 Dillmann／Charles 章界。",
+      "clavis": {
+        "note": "本批未填 CANT／CPG；待专条核验后再写"
+      },
+      "sources": [
+        {
+          "url": "https://archive.org/details/thebookofenoch00unknuoft",
+          "institution": "Internet Archive",
+          "read_scope": "HTTP 200；Charles 依 Dillmann 吉兹本之英译条目可打开；未通读 391 页",
+          "accessed": "2026-11-13"
+        },
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "institution": "ethiopiancanon.com",
+          "read_scope": "来源表列 1 Enoch：R.H. Charles 1912，改写为埃塞 42 章划分",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/details/thebookofenoch00unknuoft",
+          "edition": "R. H. Charles, The Book of Enoch (Oxford Clarendon 相关扫描)",
+          "location": "Archive 条目",
+          "verified": "HTTP 200 打开条目",
+          "limits": "未通读；旧译；章界或与埃塞印刷本不同",
+          "language": "英语",
+          "resource_type": "public_domain_english_translation",
+          "checked_date_beijing": "2026-11-13"
+        },
+        {
+          "url": "https://www.digitalcollections.manchester.ac.uk/collections/ethiopic",
+          "edition": "Manchester 集合说明提及 Ethiopic MS 23 Enoch",
+          "location": "集合级说明",
+          "verified": "实际阅读集合介绍中的 Enoch 提及",
+          "limits": "未打开 MS 23 单件图像",
+          "language": "英语说明",
+          "resource_type": "manuscript_collection_witness_pointer",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ETH-Jubilees",
+      "title_zh": "禧年书／小创世记（库法勒）",
+      "original_title": "Jubilees / Kufale / Liber Jubilaeorum",
+      "author": "匿名犹太重述传统；完整文本主要依 Geʽez",
+      "date": "约前 2 世纪前后（学界估计）；吉兹传存",
+      "language": "Geʽez 全本；希伯来残片等；英译 Charles 1902 等",
+      "synopsis": "按禧年历重述创世至出埃及；埃塞传统重要书卷。Dillmann 吉兹印本与 Charles 英译为常用公版入口。",
+      "historical_value": "历法、律法重述与第二圣殿思想史",
+      "devotional_value": "埃塞传统正典；西方多作伪经",
+      "attribution_issues": "西方 50 章与埃塞 34 章划分不同（据 ethiopiancanon 说明）",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "本地有《06禧年书.pdf》线索；本批未核与 Charles／Dillmann 对应关系。",
+      "chinese_availability": {
+        "mainland": "存在中文《禧年书》流传线索，底本未核",
+        "hong_kong_taiwan": "本批未系统检索",
+        "online_or_repository": "公版英译／吉兹印本 Archive"
+      },
+      "priority": "高：独特正典书卷",
+      "next": "核本地中文 PDF；对照 Dillmann 1859 与 Charles 章界。",
+      "sources": [
+        {
+          "url": "https://archive.org/details/liberjubilaeorum00dilluoft",
+          "institution": "Internet Archive",
+          "read_scope": "HTTP 200；Dillmann 1859 吉兹印本条目可打开；未通读",
+          "accessed": "2026-11-13"
+        },
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "institution": "ethiopiancanon.com",
+          "read_scope": "来源表列 Jubilees：Charles 1902，改为埃塞 34 章",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://archive.org/details/liberjubilaeorum00dilluoft",
+          "edition": "August Dillmann, Liber Jubilaeorum (1859) Geʽez",
+          "location": "Archive 条目",
+          "verified": "HTTP 200",
+          "limits": "未通读；拉丁书名页／吉兹正文须用时再核",
+          "language": "Geʽez／学术拉丁说明",
+          "resource_type": "public_domain_geez_printed_edition",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    },
+    {
+      "id": "ETH-Meqabyan",
+      "title_zh": "埃塞马加比书（1–3 Meqabyan）",
+      "original_title": "1–3 Meqabyan / Ethiopic Maccabees",
+      "author": "匿名；与希腊 1–4 Maccabees 非同书",
+      "date": "中古埃塞传统（具体年代待专论）",
+      "language": "Geʽez；阿姆哈拉印刷本；现代英译有限",
+      "synopsis": "埃塞正典独特书卷族；与希腊马加比书不同。ethiopiancanon 称据 EMML 515 等自吉兹新译，并更正此前错误署名。",
+      "historical_value": "埃塞正典独特性与文本批评材料",
+      "devotional_value": "教会传统正典部分",
+      "attribution_issues": "不可与 LXX 马加比书合并；英译版权与公版状态须分卷看",
+      "repository_status": "candidate_inventory_unconfirmed",
+      "repository_evidence": "仓库未见独立 Meqabyan 正式篇目命中（本批关键词级）；不宣称无任何散见。",
+      "chinese_availability": {
+        "mainland": "本批未确认正式全译",
+        "hong_kong_taiwan": "本批未检索",
+        "online_or_repository": "英文在线拼装本有收；版权 © Clear Text（据来源页）"
+      },
+      "priority": "高：缺可靠公版英译的独特书卷",
+      "next": "在 vHMML 定位 EMML 515／652；核 ethiopiancanon 在线免费章节范围。",
+      "sources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "institution": "ethiopiancanon.com",
+          "read_scope": "实际阅读 Meqabyan 三卷来源：EMML 515、BnF d'Abbadie 55、EMML 652 及署名更正说明",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "edition": "Clear Text Meqabyan 来源与方法说明",
+          "location": "1/2/3 Meqabyan 分卷表与手稿说明",
+          "verified": "实际阅读该段",
+          "limits": "本批未打开三卷全文阅读器；译文有版权，不等于公版；须与希腊马加比书分开",
+          "language": "英语说明",
+          "resource_type": "documented_modern_geez_to_english_translation_gateway",
+          "checked_date_beijing": "2026-11-13"
+        },
+        {
+          "url": "https://hmml.org/stories/the-ethiopian-manuscript-microfilm-library-is-now-digital/",
+          "edition": "HMML EMML 数字化说明（定位 EMML 影像总库）",
+          "location": "Reading Room 背景",
+          "verified": "实际阅读 EMML 上线说明",
+          "limits": "未在本批打开 EMML 515 图像",
+          "language": "英语",
+          "resource_type": "manuscript_repository_context",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "scan_decision": "candidate_inventory_unconfirmed"
+    }
+  ],
+  "supplements": [
+    {
+      "id": "supp-C09-ethiopic-r01",
+      "target_id": "dydi_c:C09",
+      "note": "诸王荣耀已有记录；仅补可追溯英文拼装语境与 Beta 主站规范 URL，不新建作品。",
+      "sources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "institution": "ethiopiancanon.com",
+          "read_scope": "来源页语境中的埃塞传统书卷拼装说明；Kebra Nagast 非本页独立分卷英译主张，仅作正典语境对照",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://betamasaheft.eu/",
+          "edition": "Beta maṣāḥǝft 规范主站（相对旧 awhamburg 作品链）",
+          "location": "项目总入口",
+          "verified": "本轮 SSL 失败；保留规范 URL 与既有 awhamburg／Bonn 证据并存",
+          "limits": "未新打开 LIT1709 正文；不覆盖 dydi_c 原有书目结论",
+          "language": "英语",
+          "resource_type": "project_homepage_alias_note",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "next": "主站可访问后复核 LIT1709／CAe 与 Bonn1905 关系。"
+    },
+    {
+      "id": "supp-C10-ethiopic-r01",
+      "target_id": "dydi_c:C10",
+      "note": "Senodos 已有；补教会规程英译拼装线索（Horner／Harden 等），强调构件级映射。",
+      "sources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "institution": "ethiopiancanon.com",
+          "read_scope": "实际阅读 Books of Church Order 八卷来源表（含 Didascalia=Harden1920 等）",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "edition": "Church Order 分卷来源表",
+          "location": "Sirate Tsion 至 Qalementos 八卷底本说明",
+          "verified": "实际阅读该表",
+          "limits": "拼装英译构件≠Senodos 吉兹合集全等；须逐构件对照 CAe2317",
+          "language": "英语",
+          "resource_type": "composite_church_order_english_gateway",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "next": "建立 Senodos 构件与八卷英译题名对照表。"
+    },
+    {
+      "id": "supp-C12-ethiopic-r01",
+      "target_id": "dydi_c:C12",
+      "note": "约西蓬已有；补 ethiopiancanon 对其英译近似性的明确声明。",
+      "sources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "institution": "ethiopiancanon.com",
+          "read_scope": "实际阅读 Josippon 卷说明：无公版 Geʽez→英全译；Munster／Breithaupt／Budge 近似；116 章",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "edition": "Josippon（Zena Ayhud）拼装说明",
+          "location": "OT volume 55 说明段",
+          "verified": "实际阅读该段",
+          "limits": "近似英译不能当吉兹校本；与 Josephus 原作继续区分",
+          "language": "英语",
+          "resource_type": "english_approximation_gateway",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "next": "继续寻吉兹校本与可靠现代译。"
+    },
+    {
+      "id": "supp-lb02-ethiopic-r01",
+      "target_id": "lori_b:lb02",
+      "note": "使徒遗范已有叙利亚传统记录；补埃塞／吉兹英译 Harden1920 入口，不合并为新作品。",
+      "sources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "institution": "ethiopiancanon.com",
+          "read_scope": "Church Order 表列 Didascalia：J.M. Harden, The Ethiopic Didascalia (1920)",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://ethiopiancanon.com/sources",
+          "edition": "Harden 1920 Ethiopic Didascalia（经拼装本来源表定位）",
+          "location": "Books of Church Order #86",
+          "verified": "实际阅读来源表该行",
+          "limits": "本批未打开 Harden 原书 PDF；埃塞传本与叙利亚 Didascalia 章节对照仍待做；不与 Apostolic Constitutions 混同",
+          "language": "英语书目",
+          "resource_type": "ethiopic_recension_english_translation_pointer",
+          "checked_date_beijing": "2026-11-13"
+        }
+      ],
+      "next": "取得 Harden1920 实际页界与叙利亚章对照。"
+    }
+  ],
+  "unresolved": [
+    "betamasaheft.eu SSL 本轮失败",
+    "Princeton Digital PUL Ethiopic 超时",
+    "Cambridge CUDL Ethiopian 403",
+    "Online Critical Pseudepigrapha 超时",
+    "Archive 旧标识 EOTXC_HOLYSCRIPTS_ALL_BOOKS 404",
+    "本地 Ultimate EPUB 尚未与 ethiopiancanon 表逐卷对照"
+  ],
+  "next_cursor": {
+    "task": "ethiopic-systematic",
+    "next": "打开 Harden1920／Charles Enoch 实际页界；vHMML 检索 EMML 515；对照本地 Ultimate EPUB 目录；待访 Princeton／Cambridge；主站 SSL 恢复后复核 Beta"
+  }
+}

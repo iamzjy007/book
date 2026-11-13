@@ -13,6 +13,12 @@ for _path in sorted((ROOT / 'workers').glob('eclavis_*.json')):
         WORKERS.append(_path.stem)
         AREAS.append('e-Clavis系统扫描续查' + _path.stem.removeprefix('eclavis_').upper())
 
+# Ethiopic / Ge'ez resource-map batches (not e-Clavis letter scans).
+for _path in sorted((ROOT / 'workers').glob('ethiopic_*.json')):
+    if _path.stem not in WORKERS:
+        WORKERS.append(_path.stem)
+        AREAS.append('埃塞俄比亚与吉兹文献资源续查' + _path.stem.removeprefix('ethiopic_').upper())
+
 def pick(d, *keys, default='待进一步核实'):
     return next((d[k] for k in keys if d.get(k) not in (None, '', [], {})), default)
 
@@ -25,14 +31,17 @@ def prose(v):
 def save(name, obj):
     p = ROOT / name
     temp = p.with_suffix(p.suffix + '.tmp')
-    temp.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + '\n')
+    temp.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     temp.replace(p)
+
+def read_json(path):
+    return json.loads(Path(path).read_text(encoding='utf-8'))
 
 def main():
     records, snapshots = [], []
     for worker, area in zip(WORKERS, AREAS):
         path = ROOT / 'workers' / (worker + '.json')
-        data = json.loads(path.read_text())
+        data = read_json(path)
         snapshots.append({'path': str(path.relative_to(ROOT)), 'sha256': hashlib.sha256(path.read_bytes()).hexdigest()})
         items = pick(data, 'items', 'entries', 'verified_items', 'works', default=[])
         assert isinstance(items, list), worker
@@ -52,7 +61,11 @@ def main():
             entry = {
                 'id': worker + ':' + raw_id,
                 'area': area,
-                'record_kind': 'modern_anthology_gateway' if raw_id == 'east-mingana-mystics' else 'work_or_text_collection_record',
+                'record_kind': (
+                    'modern_anthology_gateway'
+                    if raw_id == 'east-mingana-mystics' or raw_id.startswith('gateway-')
+                    else 'work_or_text_collection_record'
+                ),
                 'title_zh': pick(item, 'title_zh', 'title_zh_working', 'title_zh_provisional'),
                 'original_title': pick(item, 'original_title', 'title_original', 'original_or_standard_title', 'title_original_or_standard'),
                 'author_or_attribution': pick(item, 'author', 'author_attribution', 'attribution_and_date', 'date_and_attribution', 'authorship_and_textual_issues'),
@@ -78,7 +91,7 @@ def main():
     # APPLY_RESOURCE_SUPPLEMENTS: enrich existing works without adding duplicate records.
     by_id = {x['id']: x for x in records}
     for worker in WORKERS:
-        payload = json.loads((ROOT / 'workers' / (worker + '.json')).read_text())
+        payload = read_json(ROOT / 'workers' / (worker + '.json'))
         for supplement in payload.get('supplements', []):
             target = by_id[supplement['target_id']]
             for resource in supplement.get('resources', []):
@@ -100,8 +113,10 @@ def main():
     assert len({x['id'] for x in records}) == len(records)
     urls = {s['url'] for x in records for s in x['sources']}
     counts = {'worker_records': len(records) + 1, 'catalogue_records_after_one_merge': len(records), 'modern_anthology_gateways': sum(x['record_kind'] == 'modern_anthology_gateway' for x in records), 'unique_source_urls': len(urls)}
-    save('catalog.json', {'schema': 1, 'date_beijing': '2026-11-12', 'phase': 'rolling_followup', 'counts': counts, 'count_limit': '条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。', 'merge_log': [{'from': 'dydi_c:C08', 'into': d['id'], 'reason': '同一John Climacus天梯，合并东方与希腊组证据；不同于Guigo修士天梯、雅各天梯或阶梯之书。'}], 'snapshots': snapshots, 'records': records})
-    lines = ['# 古代基督教文献书目目录（滚动更新）', '', f'当前汇总 **{len(records)}条**，合并《神圣攀登的天梯》重复调查一条。含现代文选入口1条；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。', '', '最新资源路径见 [RESOURCE-PATHS-E15.md](RESOURCE-PATHS-E15.md)，前批路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。', '']
+    progress_meta = read_json(ROOT / 'progress.json') if (ROOT / 'progress.json').exists() else {}
+    latest_report = progress_meta.get('latest_resource_report', 'RESOURCE-PATHS-E15.md')
+    save('catalog.json', {'schema': 1, 'date_beijing': progress_meta.get('updated_date_beijing', '2026-11-13'), 'phase': 'rolling_followup', 'counts': counts, 'count_limit': '条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。', 'merge_log': [{'from': 'dydi_c:C08', 'into': d['id'], 'reason': '同一John Climacus天梯，合并东方与希腊组证据；不同于Guigo修士天梯、雅各天梯或阶梯之书。'}], 'snapshots': snapshots, 'records': records})
+    lines = ['# 古代基督教文献书目目录（滚动更新）', '', f'当前汇总 **{len(records)}条**，合并《神圣攀登的天梯》重复调查一条。含现代文选／资源网关入口若干；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。', '', f'最新资源路径见 [{latest_report}]({latest_report})，埃塞资源地图见 [resource-map-ethiopic.md](resource-map-ethiopic.md)，前批 e-Clavis 路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)／[RESOURCE-PATHS-E15.md](RESOURCE-PATHS-E15.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。', '']
     for area in AREAS:
         lines += ['## ' + area, '']
         for x in records:
@@ -116,9 +131,9 @@ def main():
             for supplement in x.get('resource_supplements', []):
                 lines += ['', f"[补充资源调查]({supplement['worker_record']})，补证 `{supplement['id']}`。"]
             lines += ['', f"[完整调查记录]({x['worker_record']})，条目 `{x['worker_entry_id']}`。", '']
-    (ROOT / 'CATALOG.md').write_text('\n'.join(lines))
+    (ROOT / 'CATALOG.md').write_text('\n'.join(lines), encoding='utf-8')
     save('validation.json', {'checks': {'all_worker_json_parse': True, 'catalog_ids_unique': True, 'every_record_has_title_and_original_title': True, 'every_record_has_resolved_source_urls': True, 'known_climacus_duplicate_merged': True}, 'counts': counts, 'limits': '这是文件结构、来源入口及已知重复校验，不证明所有书目信息无误，也不是全网或大陆出版情况的穷尽查证。'})
-    scan = json.loads((ROOT / 'eclavis-scan.json').read_text())
+    scan = read_json(ROOT / 'eclavis-scan.json')
     scan_ids = [x['ecca'] for x in scan['records']]
     assert len(scan_ids) == len(set(scan_ids))
     assert [x['ordinal'] for x in scan['records']] == list(range(1, len(scan_ids) + 1))
@@ -126,19 +141,19 @@ def main():
     assert all(x.get('record_id') in catalogue_ids for x in scan['records'] if x.get('record_id'))
     batches = {}
     for worker in [w for w in WORKERS if w.startswith('eclavis_')]:
-        expected = len(json.loads((ROOT / 'workers' / (worker + '.json')).read_text())['items'])
+        expected = len(read_json(ROOT / 'workers' / (worker + '.json'))['items'])
         batch_records = [x for x in records if x['worker_record'] == f'workers/{worker}.json']
         assert len(batch_records) == expected
         assert all(x.get('resources') for x in batch_records)
         assert all(r.get('verified') and r.get('limits') for x in batch_records for r in x['resources'])
         batches[worker] = len(batch_records)
     for json_path in ROOT.rglob('*.json'):
-        json.loads(json_path.read_text())
-    validation = json.loads((ROOT / 'validation.json').read_text())
+        read_json(json_path)
+    validation = read_json(ROOT / 'validation.json')
     validation['checks'].update(scan_ecca_unique=True, scan_ordinals_contiguous=True, scan_record_ids_resolve=True, resource_locators_have_verification_and_limits=True, all_saved_json_parse=True)
     validation['scan_record_count'] = len(scan_ids)
     validation['batch_catalogue_record_counts'] = batches
-    validation['followup_counts'] = json.loads((ROOT / json.loads((ROOT / 'progress.json').read_text())['latest_session']).read_text())['counts']
+    validation['followup_counts'] = read_json(ROOT / read_json(ROOT / 'progress.json')['latest_session'])['counts']
     save('validation.json', validation)
     print(json.dumps(counts, ensure_ascii=False))
 

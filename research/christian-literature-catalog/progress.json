@@ -1,25 +1,36 @@
 {
   "schema": 1,
+  "updated_date_beijing": "2026-11-13",
   "status": "active_rolling_research",
   "quota_percentage_accessible": false,
   "stop_at_3_percent_implemented": false,
   "inventory_manifest_rows": 286,
   "inventory_note": "两清单合计行数，含重复和排除条目；不是286部已收录作品。",
-  "last_checkpoint": "索引第175–177项；本轮新增3条调查，非同数新缺书。下一项Apocryphal Gospel of John ECCA518",
+  "last_checkpoint": "2026-11-13 ethiopic-r02：三类清单查漏；代理10808重试；补 Princeton/Cambridge/OCP/ethiopiabible/yhwh/STEP；PO交叉引用。e-Clavis仍ECCA518。",
   "background_service_installed": false,
   "counts": {
-    "worker_records": 278,
-    "catalogue_records_after_one_merge": 277,
-    "modern_anthology_gateways": 1,
-    "unique_source_urls": 386
+    "worker_records": 297,
+    "catalogue_records_after_one_merge": 296,
+    "modern_anthology_gateways": 17,
+    "unique_source_urls": 407
   },
   "first_phase_branches_completed": 6,
-  "followup_tasks_pending": 11,
-  "next_task": "eclavis-systematic",
+  "followup_tasks_pending": 9,
+  "followup_tasks_in_progress": 2,
+  "next_task": "ethiopic-systematic",
+  "parallel_tasks": [
+    "eclavis-systematic",
+    "ethiopic-systematic"
+  ],
+  "proxy_hint": "127.0.0.1:10808",
   "quota_stop_reason": null,
   "stop_reason": null,
-  "workers_state": "当前会话单一工作者持续推进；无后台研究服务。",
-  "followup_tasks_in_progress": 1,
-  "latest_session": "sessions/2026-11-12-eclavis-e15.json",
-  "latest_resource_report": "RESOURCE-PATHS-E15.md"
+  "workers_state": "当前会话单一工作者；无后台研究服务。",
+  "latest_session": "sessions/2026-11-13-ethiopic-r02.json",
+  "latest_resource_report": "RESOURCE-PATHS-ETHIOPIC-02.md",
+  "eclavis_cursor_preserved": {
+    "next_title": "Apocryphal Gospel of John",
+    "next_ecca": "518",
+    "last_batch": "RESOURCE-PATHS-E15.md"
+  }
 }

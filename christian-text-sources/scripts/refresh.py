@@ -5,15 +5,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 LABELS={'queued':'待检索','fulltext_online':'正文可直达','partial_online':'部分正文可直达','scan_candidate':'扫描入口待核','metadata_only':'仅书目／版本入口','blocked':'访问受阻','needs_review':'待版本复核'}
 def save(path, obj):
-    tmp=path.with_suffix(path.suffix+'.tmp'); tmp.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n'); tmp.replace(path)
+    tmp=path.with_suffix(path.suffix+'.tmp'); tmp.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n', encoding='utf-8'); tmp.replace(path)
 def write_text(path, value):
-    tmp=path.with_suffix(path.suffix+'.tmp'); tmp.write_text(value); tmp.replace(path)
+    tmp=path.with_suffix(path.suffix+'.tmp'); tmp.write_text(value, encoding='utf-8'); tmp.replace(path)
 
 def run():
-    manifest=json.loads((ROOT/'inventory/manifest.json').read_text())
+    manifest=json.loads((ROOT/'inventory/manifest.json').read_text(encoding='utf-8'))
     counts=collections.Counter(); rows=[]; queue=[]; ids=set(); sequences=set(); paths=set()
     for item in manifest['records']:
-        path=ROOT/item['path']; rec=json.loads(path.read_text()); rid=rec['id']; assert rid not in ids; ids.add(rid)
+        path=ROOT/item['path']; rec=json.loads(path.read_text(encoding='utf-8')); rid=rec['id']; assert rid not in ids; ids.add(rid)
         assert rid == item['id'] and rec['sequence'] == item['sequence'], rid
         assert item['sequence'] not in sequences and item['path'] not in paths, rid
         sequences.add(item['sequence']); paths.add(item['path'])
@@ -57,7 +57,7 @@ def run():
     scope_counts={}
     modern_rows=[]
     for item in manifest['records']:
-        rec=json.loads((ROOT/item['path']).read_text())
+        rec=json.loads((ROOT/item['path']).read_text(encoding='utf-8'))
         scope=rec.get('provenance',{}).get('scope','ancient-christian-literature')
         stats=scope_counts.setdefault(scope, collections.Counter())
         stats[rec['acquisition']['status']]+=1

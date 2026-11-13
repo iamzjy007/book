@@ -73,11 +73,67 @@
     }
   },
   "acquisition": {
-    "status": "queued",
-    "searched": false,
-    "resources": [],
-    "attempts": [],
-    "next_action": "沿原研究出处取得具体版本的正文／样章；平台或馆藏先定位具名文章／卷期／单件永久ID。原研究待办：按主题选一篇或一期核其完整内容、原讲日期和使用权限；任何翻译发布另核版权。未替用户订阅。",
-    "updated_at": "2026-11-10T09:17:54.989760+00:00"
+    "status": "partial_online",
+    "searched": true,
+    "resources": [
+      {
+        "label": "Jonathan Leeman：What Is Church Membership? 完整文章",
+        "url": "https://www.9marks.org/article/what-is-church-membership/",
+        "kind": "partial",
+        "language": "英语",
+        "edition": "9Marks 文章；2014-08-22；注明摘自 Church Discipline (Crossway, 2012)，非封面所示 Church Membership 全书",
+        "coverage": "单篇文章全文可读至末段；编辑说明指向更长讨论在另一书；不等于取得 Church Membership 专著全文",
+        "verification": "实际打开文章：核作者、日期、定义段、洗礼要求段与 Editor’s note；未下载 Crossway 电子书。",
+        "accessed": "2026-11-13",
+        "rights_note": "保存路径；文章可在线读；专著另购。",
+        "content_unit_status": "fulltext_online"
+      },
+      {
+        "label": "Rediscover Church 免费下载入口",
+        "url": "https://www.9marks.org/rediscover-church-free-download/",
+        "kind": "edition_gateway",
+        "language": "英语",
+        "edition": "Collin Hansen & Jonathan Leeman；Crossway／TGC／9Marks 联合提供免费下载页",
+        "coverage": "免费电子书下载入口已定位；本批未下载全书文件入库",
+        "verification": "打开邀请下载页；确认书名与合作方；未完成文件落盘与逐页核验。",
+        "accessed": "2026-11-13",
+        "rights_note": "免费下载仍受出版方条款约束；下载文件后续另存并核。"
+      },
+      {
+        "label": "Church Membership / Church Discipline 等 Crossway 付费书",
+        "url": "https://www.crossway.org/",
+        "kind": "restricted",
+        "language": "英语",
+        "edition": "文章脚注所指专著出版方",
+        "coverage": "付费纸书／电子书",
+        "verification": "据文章 Editor’s note 指向 Crossway 2012 等；购买页以 Crossway 检索书名为准，本批未下单。",
+        "accessed": "2026-11-13",
+        "rights_note": "付费；用户后续采购。",
+        "purchase_url": "https://www.crossway.org/",
+        "purchase_note": "检索 Church Membership Jonathan Leeman；Church Discipline How the Church Protects the Name of Jesus"
+      }
+    ],
+    "attempts": [
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.9marks.org/article/what-is-church-membership/",
+        "result": "打开完整文章与编辑说明。"
+      },
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "direct_page_and_resource_verification",
+        "url": "https://www.9marks.org/rediscover-church-free-download/",
+        "result": "定位免费下载入口；未下载文件。"
+      },
+      {
+        "date": "2026-11-13T07:15:29.322498+00:00",
+        "method": "purchase_channel_lookup",
+        "url": "https://www.crossway.org/",
+        "result": "标注 Crossway 付费专著采购线索。"
+      }
+    ],
+    "next_action": "已核一篇完整文章与一本免费书下载入口（文件未落盘）。相关 Crossway 专著付费，见 purchase_note。免费课程材料另见 Membership Matters 资源页。中文待核。",
+    "updated_at": "2026-11-13T07:15:29.322498+00:00"
   }
 }

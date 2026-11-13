@@ -12,10 +12,10 @@
     "all_saved_json_parse": true
   },
   "counts": {
-    "worker_records": 278,
-    "catalogue_records_after_one_merge": 277,
-    "modern_anthology_gateways": 1,
-    "unique_source_urls": 386
+    "worker_records": 297,
+    "catalogue_records_after_one_merge": 296,
+    "modern_anthology_gateways": 17,
+    "unique_source_urls": 407
   },
   "limits": "这是文件结构、来源入口及已知重复校验，不证明所有书目信息无误，也不是全网或大陆出版情况的穷尽查证。",
   "scan_record_count": 177,
@@ -62,10 +62,9 @@
     "eclavis_e15": 3
   },
   "followup_counts": {
-    "index_positions_scanned": 3,
-    "new_catalog_records": 3,
-    "cumulative_index_positions_scanned": 177,
-    "identity_unresolved": 1,
-    "candidate_inventory_unconfirmed": 2
+    "new_items": 7,
+    "supplements_to_existing_works": 1,
+    "proxy_successes": 6,
+    "still_blocked": 2
   }
 }

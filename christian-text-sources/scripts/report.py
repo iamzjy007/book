@@ -3,7 +3,7 @@
 import json
 from refresh import ROOT,LABELS,run,write_text
 run()
-p=json.loads((ROOT/'progress.json').read_text())
+p=json.loads((ROOT/'progress.json').read_text(encoding='utf-8'))
 lines=['# 内容获取阶段报告','',f"更新：{p['updated_at']}。共{p['total']}条档案，当前执行来源：{p.get('active_scope')}。",'', '| 状态 | 条数 |','|---|---|']
 lines += [f"| {LABELS.get(k,k)} | {v} |" for k,v in p['counts'].items()]
 lines += ['', '## 按研究来源统计', '', '| 来源 | 状态 | 条数 |', '|---|---|---|']
