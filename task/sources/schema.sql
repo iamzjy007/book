@@ -1,0 +1,4 @@
+CREATE TABLE book(id TEXT PRIMARY KEY, project_id TEXT NOT NULL,catalog_id TEXT NOT NULL,sequence INTEGER UNIQUE NOT NULL,scope TEXT NOT NULL,active_scope INTEGER NOT NULL,status TEXT NOT NULL,next_action TEXT NOT NULL,last_checked TEXT,record_path TEXT NOT NULL,baseline_json TEXT NOT NULL,revision INTEGER NOT NULL DEFAULT 0,created_at TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')), updated_at TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')));
+CREATE TABLE attempt(book_id TEXT REFERENCES book, seq INTEGER,observed_at TEXT,detail_json TEXT NOT NULL,PRIMARY KEY(book_id,seq));
+CREATE TABLE locator(book_id TEXT REFERENCES book, seq INTEGER,observed_at TEXT,url TEXT NOT NULL,kind TEXT NOT NULL,detail_json TEXT NOT NULL,PRIMARY KEY(book_id,seq));
+CREATE VIEW queue AS SELECT * FROM book WHERE status!='fulltext_online' ORDER BY active_scope DESC,(status='queued') DESC,CASE WHEN status!='queued' THEN last_checked END,sequence;

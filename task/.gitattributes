@@ -1,0 +1,5 @@
+*.sqlite3 binary
+*.py text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+
