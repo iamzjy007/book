@@ -82,6 +82,9 @@ def main():
                 load_sources(db)
             else:
                 load_translations(db)
+                db.commit()
+                from translation_reviews import migrate
+                migrate(db)
             for f in sorted(tracked):
                 db.execute('INSERT INTO baseline VALUES(?,?,?)',(f,sha(canon(REPO/f)),commit))
             db.commit()

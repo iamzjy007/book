@@ -13,3 +13,7 @@ freeze 与上例共用 id、revision、request_key、observed_at、next_action�
 
 5. 运行 `python -X utf8 ../workflow.py resume --id lori_b:lb13` 读回；用 `python -X utf8 ../workflow.py export --id lori_b:lb13` 输出当前 Markdown 正文（包括已保存草稿）；正式交付前核 book.status 和 unit.status，并附 book.review。新事实存于本库。仓库旧 translation.md、queue.json 和脚本记录的是基线版。访问 Git 的第三方模型须同步更新后的 SQLite 再接手。完整交班操作见 [总指南](../README.md)。
 
+
+## 多模型审校升级
+
+当前翻译库已升级 v3。Luna 初译、Astra 对照审校和修订的请求格式、版本规则及恢复方法见 [REVIEW.md](REVIEW.md)。

@@ -59,6 +59,9 @@ def resume(db,stage,rid,project):
         r['edition']=json.loads(r.pop('edition_json') or 'null')
         u=next_unit(db,rid)
         r['next_unit']=dict(u) if u else None
+        if db.execute('PRAGMA user_version').fetchone()[0] >= 3:
+            from translation_reviews import context
+            r['independent_review']=context(db,rid)
         if u:
             r['neighbors']=[dict(row) for row in db.execute('SELECT id,source_locator,source_anchor,body FROM unit WHERE book_id=? AND seq IN (?,?) ORDER BY seq',(rid,u['seq']-1,u['seq']+1))]
     return r
@@ -139,7 +142,11 @@ def translation_save(db,p,book):
     else:
         require(sha(canon(REPO/book['source_record']))==book['source_sha256'],'frozen source record differs')
     op=p['operation']
-    if op=='freeze':
+    if op=='review':
+        from translation_reviews import save_review
+        save_review(db,p)
+        status=book['status']
+    elif op=='freeze':
         require(not book['edition_json'],'edition already frozen')
         e=p['edition']
         nonempty(e,'language','edition')
@@ -160,14 +167,19 @@ def translation_save(db,p,book):
     elif op in ('blocked_source','deferred_incomplete'):
         nonempty(p,'reason')
         status=op
-    elif op in ('draft','self_reviewed'):
-        u=next_unit(db,rid)
+    elif op in ('draft','self_reviewed','revise'):
+        u=db.execute('SELECT * FROM unit WHERE book_id=? AND id=?',(rid,p['unit'])).fetchone() if op=='revise' else next_unit(db,rid)
         require(book['edition_json'] and u and u['id']==p['unit'],'save first unfinished frozen unit')
+        if op=='revise':
+            require(u['body'] and p['expected_body_sha256']==u['body_sha256'],'revision targets stale text')
         nonempty(p,'body','review_note')
         body=p['body'].replace('\r\n','\n').strip()
         if op=='self_reviewed':
             require('TODO' not in body and '待翻译' not in body,'unfinished text')
-        db.execute(f'UPDATE unit SET status=?,body=?,body_sha256=?,reviewed_at=?,updated_at={NOW} WHERE book_id=? AND id=?',(op,body,sha(body.encode()),when if op=='self_reviewed' else None,rid,p['unit']))
+        db.execute(f'UPDATE unit SET status=?,body=?,body_sha256=?,reviewed_at=?,updated_at={NOW} WHERE book_id=? AND id=?',('draft' if op=='revise' else op,body,sha(body.encode()),when if op=='self_reviewed' else None,rid,p['unit']))
+        if db.execute('PRAGMA user_version').fetchone()[0] >= 3:
+            from translation_reviews import snapshot
+            snapshot(db,rid,p['unit'],p.get('model','unspecified'),op,when,p['request_key'])
         status='translating' if next_unit(db,rid) else 'translated_self_reviewed'
     else:
         raise ValueError('unknown translation operation')
@@ -193,7 +205,7 @@ def save(db,stage,p):
             if stage=='sources':
                 source_save(db,p)
             else:
-                require(b['status']!='translated_self_reviewed','already completed')
+                require(b['status']!='translated_self_reviewed' or p.get('operation') in ('review','revise'),'already completed')
                 translation_save(db,p,b)
         rev=p['revision']+1
         db.execute('INSERT INTO receipt(request_key,payload_sha256,subject,revision,payload_json) VALUES(?,?,?,?,?)',(p['request_key'],digest,p['id'],rev,payload))
@@ -232,6 +244,9 @@ def main():
             for file in db.execute('SELECT path,sha256 FROM baseline'):
                 require(sha(canon(REPO/file['path']))==file['sha256'],'legacy baseline changed: '+file['path'])
             if a.stage=='translations':
+                if db.execute('PRAGMA user_version').fetchone()[0] >= 3:
+                    from translation_reviews import verify
+                    verify(db)
                 for u in db.execute('SELECT * FROM unit WHERE body IS NOT NULL OR status="self_reviewed"'):
                     require(u['body'] and sha(u['body'].encode())==u['body_sha256'],'unit hash mismatch: '+u['id'])
             result={'verified':True,'receipts':db.execute('SELECT count(*) FROM receipt').fetchone()[0]}
