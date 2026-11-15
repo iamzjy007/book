@@ -6,9 +6,9 @@
 |---|---|---|
 | [书目研究](catalog/README.md) | task/catalog | 古代默认埃塞 R02 后续，另有 e-Clavis ECCA518；现代默认 versions |
 | [获取正文](sources/README.md) | task/sources | 175 条档案，当前优先现代范围，下一项 modern:dydi_c:MC04 |
-| [翻译中文](translations/README.md) | task/translations | 110 条输入、51 条候选；4 篇译毕自校，《皮奥尼乌斯殉道记》VII.1-6 |
+| [翻译中文](translations/README.md) | task/translations | 110 条输入、51 条常规候选，另有 3 项优先队列；8 篇冻结、407 个断点单元。当前优先：Simon of Taibutheh p281 初译；Josippon 的 Ge’ez 影像范围 003–167；《我主遗训》I.2 |
 
-**复制给第三方 AI**：“在完整 book 仓库进入我指定的 task 子目录，先读该目录 README.md，执行 verify、resume。说明当前依据与下一动作，再开展实际工作。用 save 存档，重新打开库读回断点；成果交由我推送。” 旧文档的检索、版本和翻译质量要求继续适用；新框架的写入与交付顺序以本指南和本次委托为准。
+**复制给第三方 AI**：“在完整 book 仓库进入我指定的 task 子目录，先读该目录 README.md，执行 verify、resume。说明当前依据与下一动作，再开展实际工作。用 save 存档，重新打开库读回断点；成果交由我推送。” 旧文档的检索、版本和翻译质量要求继续适用；新框架的写入与交付顺序以本指南和本次委托为准。附件优先队列当前前三项的真实状态及版本边界见 [翻译任务说明](translations/README.md)。
 
 ## 从新会话接手
 

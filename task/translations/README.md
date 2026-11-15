@@ -14,6 +14,22 @@ freeze 与上例共用 id、revision、request_key、observed_at、next_action�
 5. 运行 `python -X utf8 ../workflow.py resume --id lori_b:lb13` 读回；用 `python -X utf8 ../workflow.py export --id lori_b:lb13` 输出当前 Markdown 正文（包括已保存草稿）；正式交付前核 book.status 和 unit.status，并附 book.review。新事实存于本库。仓库旧 translation.md、queue.json 和脚本记录的是基线版。访问 Git 的第三方模型须同步更新后的 SQLite 再接手。完整交班操作见 [总指南](../README.md)。
 
 
+## 附件优先队列
+
+`priority_queue` 保存 `D:/work/workspace/git/priority.txt` 的用户排序，不改写原有 51 条固定翻译候选顺序。先查看：
+
+```sql
+SELECT rank,title,book_id,status,next_action FROM priority_queue ORDER BY rank;
+```
+
+`blocked_source` 表示没有核实可译底本；`needs_completeness_check` 表示已有候选入口但尚未通过完整性门槛；取得并核实全篇后才可冻结版本、建立 unit 并进入翻译。`book_id` 尚未匹配的条目保持 NULL。处理完成后同步更新该行的 status、next_action、updated_at。该队列不是自动“就绪”标志，也不替换原 queue。
+
+当前附件前 3 项的进度（2026-11-15）：
+
+- Mingana《早期基督教神秘家文选》是多篇作品组成的选集。1934 年卷 7 开放扫描中，Simon of Taibutheh 的叙利亚文印页 281–320 对应 scan leaves n292–n331，页序连续。已另建 `dydi_a:east-mingana-mystics:simon-taibutheh`，按印页冻结 40 个断点单元，并从叙利亚文开始翻译；p281 开篇句已保存为未完成草稿。英译版权状态未解决，因此只作辅助对照，不作为中文转译底本。之后需逐篇建立其他作者的独立记录，不能将整卷当成单一作品。
+- 吉兹《约西蓬》已找到 EAP704/2/3 Marawe Krestos 手稿（1595–1605）。抽检全部 174 张数字影像：003–167 为文字影像，168–174 为书册边缘、装订或封面影像；已将文字影像 003–167 界定为本项目的有界可译范围，冻结为 165 个按影像续跑的单元。它不是“全书104章已核全”的声明；译者需逐处标示缺损和不可读字。英国国家图书馆注明手稿状况很差、边缘大面积缺损且仅供研究。现有 Bowman 英译是 Hebrew Sepher Yosippon 的完整译本，不是埃塞俄比亚 Ge’ez 版本；Binyam 研究提供部分对读，不是全书英译。可在已证实平行处作标明来源的辅助参照，不能无标记补写为吉兹原文。
+- 《我主遗训》已冻结 Rahmani 1899 叙利亚文—拉丁文对照本，75 个断点单元。序言 I.0 已复核并自校，`magnanimitas` 依对页叙利亚文和赛11:2语境改为“能力”；第一节 I.1 已初译并自校。中文以 Rahmani 拉丁译文为底本，参照对页叙利亚文核词，不冒称直接由叙利亚文翻译。底本为单一见证本，不是现代校勘本；未纳入前言、导论、校勘装置和索引。下一单元 I.2。
+
 ## 多模型审校升级
 
 当前翻译库已升级 v3。Luna 初译、Astra 对照审校和修订的请求格式、版本规则及恢复方法见 [REVIEW.md](REVIEW.md)。
