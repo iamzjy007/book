@@ -19,6 +19,9 @@ for _path in sorted((ROOT / 'workers').glob('ethiopic_*.json')):
         WORKERS.append(_path.stem)
         AREAS.append('埃塞俄比亚与吉兹文献资源续查' + _path.stem.removeprefix('ethiopic_').upper())
 
+WORKERS.append('syriac_dadisho')
+AREAS.append('叙利亚作品索引续查')
+
 def pick(d, *keys, default='待进一步核实'):
     return next((d[k] for k in keys if d.get(k) not in (None, '', [], {})), default)
 

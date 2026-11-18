@@ -12,10 +12,10 @@
     "all_saved_json_parse": true
   },
   "counts": {
-    "worker_records": 297,
-    "catalogue_records_after_one_merge": 296,
+    "worker_records": 301,
+    "catalogue_records_after_one_merge": 300,
     "modern_anthology_gateways": 17,
-    "unique_source_urls": 407
+    "unique_source_urls": 414
   },
   "limits": "这是文件结构、来源入口及已知重复校验，不证明所有书目信息无误，也不是全网或大陆出版情况的穷尽查证。",
   "scan_record_count": 177,

@@ -1,6 +1,6 @@
 # 古代基督教文献书目目录（滚动更新）
 
-当前汇总 **296条**，合并《神圣攀登的天梯》重复调查一条。含现代文选／资源网关入口若干；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
+当前汇总 **300条**，合并《神圣攀登的天梯》重复调查一条。含现代文选／资源网关入口若干；不能把总数当作新增古书数或无中文译本数。各条简介为书目信息层面的概述；并未通读全书。
 
 最新资源路径见 [RESOURCE-PATHS-ETHIOPIC-02.md](RESOURCE-PATHS-ETHIOPIC-02.md)，埃塞资源地图见 [resource-map-ethiopic.md](resource-map-ethiopic.md)，前批 e-Clavis 路径见 [RESOURCE-PATHS-A01.md](RESOURCE-PATHS-A01.md)／[RESOURCE-PATHS-E15.md](RESOURCE-PATHS-E15.md)，扫描游标见 [eclavis-scan.json](eclavis-scan.json)。详细证据、检索式和限制见链接的工作记录；机器可读索引见 [catalog.json](catalog.json)。中文“未查得”不等于未出版。
 
@@ -8250,3 +8250,107 @@ CUDL 埃塞手稿集合；直连曾403，经本地代理可打开集合页。含
 资源路径：[PO／相关目录出版方页（既有地图引用）](https://www.brepols.net/products/IS-9782503620558-1) — 系列书目；交叉引用既有 lori_b 核验；本批 about.brepolis.net POD 说明页仍 403；不是本批新扫全套 PO；订阅库全文未取得
 
 [完整调查记录](workers/ethiopic_r02.json)，条目 `gateway-po-crossref`。
+
+## 叙利亚作品索引续查
+
+### 独修与祈祷论
+
+- **原题：** Treatise on Solitude and Prayer
+- **作者／归属：** Dadishoʿ Qaṭraya（达迪绍）
+- **年代：** 七世纪后期
+- **语言：** 叙利亚文
+
+Mingana 原书目录题为 Treatise on Solitude and Prayer，第70–76页为编者前言，第76–143页为英译，第201–247页为叙利亚文。GEDSH 条目将两种语言的页码对调，以原书目录为准。
+
+**价值：** 记述七周独修的实践。
+
+**文本注意：** 待进一步核实
+
+**仓库情况：** 待进一步核实
+
+**中文线索：** 中文出版情况待证
+
+**下一步：** 待进一步核实
+
+**来源：**
+- [gedsh.bethmardutho.org](https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html) — 层级详见工作记录
+
+[完整调查记录](workers/syriac_dadisho.json)，条目 `solitude`。
+
+### 致 Abkosh 论寂静书
+
+- **原题：** Letter to Abkosh on Stillness
+- **作者／归属：** Dadishoʿ Qaṭraya（达迪绍）
+- **年代：** 七世纪后期
+- **语言：** 叙利亚文
+
+Lettre de Dadisho Qatraya à Abkosh sur l'hésychia，Antoine Guillaumont 与 Micheline Albert，载 Mémorial André-Jean Festugière，Cahiers d'Orientalisme 10，Genève: Patrick Cramer，1984，页235–245。Syriaca 标注为叙文原典附法译；Guillaumont 的法兰西学院成果报告确认篇名、合作者与页码。
+
+**价值：** 以书信体讨论静修，可与同作者的长篇论著对读。
+
+**文本注意：** 待进一步核实
+
+**仓库情况：** 待进一步核实
+
+**中文线索：** 中文出版情况待证
+
+**下一步：** 待进一步核实
+
+**来源：**
+- [gedsh.bethmardutho.org](https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html) — 层级详见工作记录
+- [syriaca.org](https://syriaca.org/cbss/5QNTGTPZ) — 层级详见工作记录
+
+[完整调查记录](workers/syriac_dadisho.json)，条目 `abkosh`。
+
+### 教父乐园注释
+
+- **原题：** Commentary on the Paradise of the Fathers
+- **作者／归属：** Dadishoʿ Qaṭraya（达迪绍）
+- **年代：** 七世纪后期
+- **语言：** 叙利亚文
+
+David Phillips 校订并译注，Commentaire sur le Paradis des Pères，Paris: Cerf，2022，叙法对照。SC 626 为第一部分（ISBN 9782204147026），SC 627 为第二部分第1–178问（9782204147033），SC 628 为第二部分第179–291问（9782204147040）。同一作品的三册。
+
+**价值：** 记录东方教会修士如何研读沙漠教父选集。
+
+**文本注意：** 待进一步核实
+
+**仓库情况：** 待进一步核实
+
+**中文线索：** 中文出版情况待证
+
+**下一步：** 待进一步核实
+
+**来源：**
+- [gedsh.bethmardutho.org](https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html) — 层级详见工作记录
+- [syriaca.org](https://syriaca.org/cbss/3WURHQBZ) — 层级详见工作记录
+- [syri.ac](https://syri.ac/dadisho-qa%E1%B9%ADraya-commentary-paradise-fathers-kitchen) — 层级详见工作记录
+- [sourceschretiennes.org](https://sourceschretiennes.org/collection/auteurs-anciens/d) — 层级详见工作记录
+
+[完整调查记录](workers/syriac_dadisho.json)，条目 `paradise`。
+
+### 阿爸以赛亚注释
+
+- **原题：** Commentary on the Asceticon of Abba Isaiah
+- **作者／归属：** Dadishoʿ Qaṭraya（达迪绍）
+- **年代：** 七世纪后期
+- **语言：** 叙利亚文
+
+Peeters 的法译卷说明明确区分：1972 年 CSCO 326 / Scriptores Syri 144 为叙利亚文校本；CSCO 327 / Scriptores Syri 145 为 Draguet 的法译，ISBN 9789042903685，出版方页数记作 21*-266 p.。本书为 Dadisho 对 logoi I–XV 的注释。出版详情未列所据抄本。
+
+**价值：** 保存东方叙利亚传统对以赛亚修道论述的释读。
+
+**文本注意：** 待进一步核实
+
+**仓库情况：** 待进一步核实
+
+**中文线索：** 中文出版情况待证
+
+**下一步：** 待进一步核实
+
+**来源：**
+- [gedsh.bethmardutho.org](https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html) — 层级详见工作记录
+- [www.peeters-leuven.be](https://www.peeters-leuven.be/detail.php?search_key=9789042903685) — 层级详见工作记录
+- [www1.ihp.sinica.edu.tw](https://www1.ihp.sinica.edu.tw/storage/w2_file/1770sDWArsC.pdf) — 层级详见工作记录
+
+[完整调查记录](workers/syriac_dadisho.json)，条目 `isaiah`。

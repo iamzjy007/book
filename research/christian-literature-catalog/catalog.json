@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "date_beijing": "2026-11-13",
+  "date_beijing": "2026-11-18",
   "phase": "rolling_followup",
   "counts": {
-    "worker_records": 297,
-    "catalogue_records_after_one_merge": 296,
+    "worker_records": 301,
+    "catalogue_records_after_one_merge": 300,
     "modern_anthology_gateways": 17,
-    "unique_source_urls": 407
+    "unique_source_urls": 414
   },
   "count_limit": "条目包括古代原作、残篇、不同文本集及现代版本入口；不是这么多部新发现或未出版古书。",
   "merge_log": [
@@ -212,6 +212,10 @@
     {
       "path": "workers\\ethiopic_r02.json",
       "sha256": "594737f325be151b3a0808c779a6c1a367c29a5fd48865df0cf49cc9aac55f24"
+    },
+    {
+      "path": "workers\\syriac_dadisho.json",
+      "sha256": "32d28ad10a7ad35be816b710d16ed0309c994f0259a23e9e4bd450991636b38a"
     }
   ],
   "records": [
@@ -18030,6 +18034,141 @@
         "already_mapped_in": "resource-map-lori_b.md",
         "queue_task": "csco-po"
       }
+    },
+    {
+      "id": "syriac_dadisho:solitude",
+      "area": "叙利亚作品索引续查",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "独修与祈祷论",
+      "original_title": "Treatise on Solitude and Prayer",
+      "author_or_attribution": "Dadishoʿ Qaṭraya（达迪绍）",
+      "date": "七世纪后期",
+      "language": "叙利亚文",
+      "synopsis": "Mingana 原书目录题为 Treatise on Solitude and Prayer，第70–76页为编者前言，第76–143页为英译，第201–247页为叙利亚文。GEDSH 条目将两种语言的页码对调，以原书目录为准。",
+      "value": "记述七周独修的实践。",
+      "cautions": "待进一步核实",
+      "repository_status": "待进一步核实",
+      "repository_evidence": "sessions/2026-11-18-syriac-dadisho.json",
+      "chinese_availability": "中文出版情况待证",
+      "priority": "待进一步核实",
+      "next": "待进一步核实",
+      "sources": [
+        {
+          "url": "https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html",
+          "title": "gedsh.bethmardutho.org"
+        }
+      ],
+      "worker_record": "workers/syriac_dadisho.json",
+      "worker_entry_id": "solitude",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。",
+      "relationships": [
+        "收于 dydi_a:east-mingana-mystics"
+      ]
+    },
+    {
+      "id": "syriac_dadisho:abkosh",
+      "area": "叙利亚作品索引续查",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "致 Abkosh 论寂静书",
+      "original_title": "Letter to Abkosh on Stillness",
+      "author_or_attribution": "Dadishoʿ Qaṭraya（达迪绍）",
+      "date": "七世纪后期",
+      "language": "叙利亚文",
+      "synopsis": "Lettre de Dadisho Qatraya à Abkosh sur l'hésychia，Antoine Guillaumont 与 Micheline Albert，载 Mémorial André-Jean Festugière，Cahiers d'Orientalisme 10，Genève: Patrick Cramer，1984，页235–245。Syriaca 标注为叙文原典附法译；Guillaumont 的法兰西学院成果报告确认篇名、合作者与页码。",
+      "value": "以书信体讨论静修，可与同作者的长篇论著对读。",
+      "cautions": "待进一步核实",
+      "repository_status": "待进一步核实",
+      "repository_evidence": "sessions/2026-11-18-syriac-dadisho.json",
+      "chinese_availability": "中文出版情况待证",
+      "priority": "待进一步核实",
+      "next": "待进一步核实",
+      "sources": [
+        {
+          "url": "https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html",
+          "title": "gedsh.bethmardutho.org"
+        },
+        {
+          "url": "https://syriaca.org/cbss/5QNTGTPZ",
+          "title": "syriaca.org"
+        }
+      ],
+      "worker_record": "workers/syriac_dadisho.json",
+      "worker_entry_id": "abkosh",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+    },
+    {
+      "id": "syriac_dadisho:paradise",
+      "area": "叙利亚作品索引续查",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "教父乐园注释",
+      "original_title": "Commentary on the Paradise of the Fathers",
+      "author_or_attribution": "Dadishoʿ Qaṭraya（达迪绍）",
+      "date": "七世纪后期",
+      "language": "叙利亚文",
+      "synopsis": "David Phillips 校订并译注，Commentaire sur le Paradis des Pères，Paris: Cerf，2022，叙法对照。SC 626 为第一部分（ISBN 9782204147026），SC 627 为第二部分第1–178问（9782204147033），SC 628 为第二部分第179–291问（9782204147040）。同一作品的三册。",
+      "value": "记录东方教会修士如何研读沙漠教父选集。",
+      "cautions": "待进一步核实",
+      "repository_status": "待进一步核实",
+      "repository_evidence": "sessions/2026-11-18-syriac-dadisho.json",
+      "chinese_availability": "中文出版情况待证",
+      "priority": "待进一步核实",
+      "next": "待进一步核实",
+      "sources": [
+        {
+          "url": "https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html",
+          "title": "gedsh.bethmardutho.org"
+        },
+        {
+          "url": "https://syriaca.org/cbss/3WURHQBZ",
+          "title": "syriaca.org"
+        },
+        {
+          "url": "https://syri.ac/dadisho-qa%E1%B9%ADraya-commentary-paradise-fathers-kitchen",
+          "title": "syri.ac"
+        },
+        {
+          "url": "https://sourceschretiennes.org/collection/auteurs-anciens/d",
+          "title": "sourceschretiennes.org"
+        }
+      ],
+      "worker_record": "workers/syriac_dadisho.json",
+      "worker_entry_id": "paradise",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
+    },
+    {
+      "id": "syriac_dadisho:isaiah",
+      "area": "叙利亚作品索引续查",
+      "record_kind": "work_or_text_collection_record",
+      "title_zh": "阿爸以赛亚注释",
+      "original_title": "Commentary on the Asceticon of Abba Isaiah",
+      "author_or_attribution": "Dadishoʿ Qaṭraya（达迪绍）",
+      "date": "七世纪后期",
+      "language": "叙利亚文",
+      "synopsis": "Peeters 的法译卷说明明确区分：1972 年 CSCO 326 / Scriptores Syri 144 为叙利亚文校本；CSCO 327 / Scriptores Syri 145 为 Draguet 的法译，ISBN 9789042903685，出版方页数记作 21*-266 p.。本书为 Dadisho 对 logoi I–XV 的注释。出版详情未列所据抄本。",
+      "value": "保存东方叙利亚传统对以赛亚修道论述的释读。",
+      "cautions": "待进一步核实",
+      "repository_status": "待进一步核实",
+      "repository_evidence": "sessions/2026-11-18-syriac-dadisho.json",
+      "chinese_availability": "中文出版情况待证",
+      "priority": "待进一步核实",
+      "next": "待进一步核实",
+      "sources": [
+        {
+          "url": "https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html",
+          "title": "gedsh.bethmardutho.org"
+        },
+        {
+          "url": "https://www.peeters-leuven.be/detail.php?search_key=9789042903685",
+          "title": "www.peeters-leuven.be"
+        },
+        {
+          "url": "https://www1.ihp.sinica.edu.tw/storage/w2_file/1770sDWArsC.pdf",
+          "title": "www1.ihp.sinica.edu.tw"
+        }
+      ],
+      "worker_record": "workers/syriac_dadisho.json",
+      "worker_entry_id": "isaiah",
+      "evidence_limit": "以来源注明的实际阅读层级为准；书目、摘要与简介不等于全文阅读。"
     }
   ]
 }

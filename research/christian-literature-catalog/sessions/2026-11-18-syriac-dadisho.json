@@ -9,8 +9,8 @@
     "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
     "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
   ],
-  "next": "依 catalog.json 与 workers 的多语别名去重，汇总 Dadisho 四部作品和各版关系；查明细后再登记成熟条目。",
-  "new_works": 0,
+  "next": "继续 Simon d-Taibutheh：对照 Mingana 第七卷目录、正文分篇与仓库已有译稿，区分选集和单篇。",
+  "new_works": 4,
   "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。",
   "edition_checks": [
     {
