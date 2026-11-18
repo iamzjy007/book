@@ -6,7 +6,7 @@
   "stop_at_3_percent_implemented": false,
   "inventory_manifest_rows": 286,
   "inventory_note": "两清单合计行数，含重复和排除条目；不是286部已收录作品。",
-  "last_checkpoint": "达迪绍四作已去重汇总，后续核西门作品。",
+  "last_checkpoint": "已核西门医学灵修著作在 Mingana 第七卷的双语页段及前言。",
   "background_service_installed": false,
   "counts": {
     "worker_records": 301,
@@ -33,5 +33,5 @@
     "next_ecca": "518",
     "last_batch": "RESOURCE-PATHS-E15.md"
   },
-  "active_session": "sessions/2026-11-18-syriac-dadisho.json"
+  "active_session": "sessions/2026-11-18-syriac-simon.json"
 }

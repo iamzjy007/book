@@ -1,0 +1,12 @@
+{
+  "task": "syriac-systematic",
+  "source": "task/translations/drafts/mingana-simon/ocr.txt",
+  "locator": "Woodbrooke Studies VII，目录页 vii 及编者前言首页",
+  "findings": [
+    "Mingana 标作 Medico-Mystical Work, by Simon of Taibutheh。前言页1–9、英译页10–69、叙文页281–320；第281页也列作上一作者作品末页。",
+    "编者称所据为 Mingana Syr. 601，说明西门以医者身份探讨灵魂诸能力、身体与修道操练。其当时所知抄本范围不能作今日唯一传本的证据。",
+    "本地有281页试译及复核请求文件，尚未核定整篇中文译稿状态。"
+  ],
+  "next": "核 Birmingham 馆藏 Mingana Syr. 601 与作品叶码，并查英译正文分篇和本地实际译稿覆盖范围。",
+  "new_works": 0
+}
