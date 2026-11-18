@@ -9,7 +9,7 @@
     "Platt 所据抄本缺叶且止于其第22章中途，对应 Harden 第23章中途。不能将两版都登记为全译。",
     "Harden 对照表将埃塞第38–43章对应 Apostolic Constitutions VII.36–46；对应关系不能代替作品鉴定。"
   ],
-  "next": "转核 Meqabyan 第二卷 20:1–21:3 的影像入口和具体叶码；Didascalia 首尾抽查已完成。",
+  "next": "尝试 Beta maṣāḥǝft 的 EMML652 IIIF 或 vHMML 202935 获取叶标。若受限，将经节叶码留待影像可用时复核，继续下一待办。",
   "new_works": 0,
   "followup_checks": [
     {
@@ -51,6 +51,14 @@
     {
       "result": "核读 Harden 英译第43章末尾（OCR 第2582–2595行），内容为按城排列的主教名录、劝勉及祝祷。逐文件扫描 EPUB 全部 XHTML，末段两串 receive their admonition and observe their words、preach and to teach in their several regions 均零命中；按原顺序允许间隔词的 Aquila / Nicetas（0–15词）及 Evodius / Ignatius（0–25词）也均零命中。暂未识别相应首尾；此检查不能排除中段节录、异拼或意译。",
       "source": "https://zoraweb.com/ethiopic-didascalia"
+    },
+    {
+      "result": "从 BNFabb55 TEI 的 idno/@facs 定位数字本。Gallica IIIF manifest.json 直连及本机10808代理均返回403；当前无法由该接口建立扫描序号与叶码对应。",
+      "source": "https://gallica.bnf.fr/ark:/12148/btv1b525112698"
+    },
+    {
+      "result": "EMML652 TEI 的 graphic/@url 明列此永久入口；idno 的 facs 为 EMIP/Codices/2755/。尚未判读影像。",
+      "source": "https://w3id.org/vhmml/readingRoom/view/202935"
     }
   ]
 }
