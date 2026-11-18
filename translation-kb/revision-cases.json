@@ -1,0 +1,211 @@
+[
+  {
+    "id": "DYDI-001",
+    "book": "dydi",
+    "source": "Some will stay where they have been planted. I move people around for what is best in their life.",
+    "baseline": "有些人会留在我栽种他们的地方。我使人迁移，是为他们生命中最有益的事。",
+    "protected": [],
+    "rounds": [
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "Some will stay where they have been planted.",
+          "before": "我栽种他们的地方",
+          "after": "自己被栽种的地方",
+          "category": "忠实性",
+          "reading": "首句说有些人留下，未明说是谁栽种；次句才明确以我为主语。",
+          "reason": "去掉初稿补明的施事。",
+          "preserves": "保留栽种的意象和两句的对照。"
+        }
+      ],
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "Some will stay where they have been planted. I move people around for what is best in their life.",
+          "before": "有些人会留在自己被栽种的地方。我使人迁移，是为他们生命中最有益的事。",
+          "after": "有些人栽在哪里，就会留在哪里。我使人迁往别处，是因为那样对他们最好。",
+          "category": "句法",
+          "reading": "先说有人留下，再说我使人迁移的用意。",
+          "reason": "用“在哪里……就……在哪里”承接栽种和留下；末句直接说对谁最好。",
+          "preserves": "保留“有些”、将来意味、栽种意象、第一人称与最高程度。"
+        }
+      ],
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "Some will stay where they have been planted. I move people around for what is best in their life.",
+          "before": "有些人栽在哪里",
+          "after": "有些人被栽在哪里",
+          "category": "忠实性",
+          "reading": "人是被栽种的一方，施事未明说。",
+          "reason": "朗读稿省了“被”，句首短暂可读成人去栽种。保留原来的停顿，同时写明受事。",
+          "preserves": "留在哪里、谁使人迁移和迁移的用意仍清楚。"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    "final": "有些人被栽在哪里，就会留在哪里。我使人迁往别处，是因为那样对他们最好。"
+  },
+  {
+    "id": "DYDI-200",
+    "book": "dydi",
+    "source": "There is so much invention and innovation coming – that if I told you it all – your head would spin and spin.",
+    "baseline": "许多发明和创新正在来到；若我把一切都告诉你们，你们会惊讶得目不暇接。",
+    "protected": [],
+    "rounds": [
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "if I told you it all – your head would spin and spin.",
+          "before": "惊讶得目不暇接",
+          "after": "听得晕头转向",
+          "category": "词义",
+          "reading": "事情若全由我告诉听者，信息之多使他们应接不暇。",
+          "reason": "目不暇接写眼睛看不过来，原句写听到这么多后的感受。",
+          "preserves": "保留假设、听者和强烈感受。"
+        }
+      ],
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "There is so much invention and innovation coming – that if I told you it all – your head would spin and spin.",
+          "before": "许多发明和创新正在来到；若我把一切都告诉你们，你们会听得晕头转向。",
+          "after": "还有许多新发明、新创意将要问世。我若一一讲给你们听，你们会听得晕头转向。",
+          "category": "句法",
+          "reading": "先说将要出现的发明，再假设把它们一一讲给人听。",
+          "reason": "“发明正在来到”的主谓搭配生硬，改用“问世”。分开两层意思便于朗读。",
+          "preserves": "保住发明与创新、将来时间、假设和听觉语境。"
+        }
+      ],
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "There is so much invention and innovation coming – that if I told you it all – your head would spin and spin.",
+          "before": "还有许多新发明、新创意将要问世。",
+          "after": "往后还会有许多发明、许多革新。",
+          "category": "词义",
+          "reading": "作者说今后将有许多发明和革新。",
+          "reason": "innovation 在前后文指实际的创新发展，“创意”容易把它缩成点子。",
+          "preserves": "保留两项并列、数量和将来意味。"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    "final": "往后还会有许多发明、许多革新。我若一一讲给你们听，你们会听得晕头转向。"
+  },
+  {
+    "id": "DYDI-428",
+    "book": "dydi",
+    "source": "Let ME order your steps and direct your pathways as to whom I want you to check out and listen to.",
+    "baseline": "让我安排你们的脚步，指引你们的道路，指示我要你们查看并聆听的是谁。",
+    "protected": [],
+    "rounds": [
+      [],
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "Let ME order your steps and direct your pathways as to whom I want you to check out and listen to.",
+          "before": "让我安排你们的脚步，指引你们的道路，指示我要你们查看并聆听的是谁。",
+          "after": "让我引领你们的脚步，指明你们的路，告诉你们该去了解谁、听谁的话。",
+          "category": "句法",
+          "reading": "说话者邀请听者让他引导，具体说明要了解谁、听谁的话。",
+          "reason": "将“查看并聆听的是谁”拆成两个各有受词的动宾短语。",
+          "preserves": "三层动作仍由“让我”统领，没有改成无条件应许。"
+        }
+      ],
+      []
+    ],
+    "final": "让我引领你们的脚步，指明你们的路，告诉你们该去了解谁、听谁的话。"
+  },
+  {
+    "id": "Lori-039",
+    "book": "lori",
+    "source": "I have had My daughter deliver some tough truths. It’s all to prepare you for the summer events. It’s to keep you aware and to know so it will be expected and not a surprise.",
+    "baseline": "我已让我的女儿传达了一些难以接受的真相，都是为预备你们迎接夏季的事，让你们留心、知道，使这一切在你们意料之中，不至惊讶。",
+    "protected": [],
+    "rounds": [
+      [],
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "I have had My daughter deliver some tough truths. It’s all to prepare you for the summer events. It’s to keep you aware and to know so it will be expected and not a surprise.",
+          "before": "我已让我的女儿传达了一些难以接受的真相，都是为预备你们迎接夏季的事，让你们留心、知道，使这一切在你们意料之中，不至惊讶。",
+          "after": "我已让我的女儿把一些难以接受的真相告诉你们。这都是让你们为夏天将要发生的事做好准备。你们先知道了，事到临头就有数，不至于惊讶。",
+          "category": "节奏",
+          "reading": "我借女儿告诉众人真相，使他们有准备，事情临到时心里有数。",
+          "reason": "将三个使令结构分开，消除“让你们留心、知道，使……”的悬空搭配。",
+          "preserves": "保留传话者、受话者、预备和免于惊讶两层目的。"
+        }
+      ],
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "I have had My daughter deliver some tough truths. It’s all to prepare you for the summer events. It’s to keep you aware and to know so it will be expected and not a surprise.",
+          "before": "你们先知道了，事到临头就有数，不至于惊讶。",
+          "after": "我让你们预先知道，好在这些事临到时心里有数，不至惊讶。",
+          "category": "词义",
+          "reading": "预先告知的用意，是让听者有所预期。",
+          "reason": "“事到临头”常带坏事逼近的意味，原文没有限定那些事都是坏事。",
+          "preserves": "留下预知、预期与不致惊讶三层意思。"
+        }
+      ],
+      [],
+      [
+        {
+          "source_p": 1,
+          "target_p": 1,
+          "source": "I have had My daughter deliver some tough truths. It’s all to prepare you for the summer events. It’s to keep you aware and to know so it will be expected and not a surprise.",
+          "before": "。这都是让你们为夏天将要发生的事做好准备。我让你们预先知道，好在这些事临到时心里有数，不至惊讶。",
+          "after": "，为的是让你们对夏天将要发生的事有所准备。你们预先知道了，等这些事临到，心里就有数，不至惊讶。",
+          "category": "节奏",
+          "reading": "预备听者和使听者预先知道都是告知真相的用意。",
+          "reason": "全段三次以“让”连接。把目的接在告知之后，末句从听者的角度收束。",
+          "preserves": "保留预先知道、事情临到、有所预期以及不至惊讶。"
+        }
+      ],
+      []
+    ],
+    "final": "我已让我的女儿把一些难以接受的真相告诉你们，为的是让你们对夏天将要发生的事有所准备。你们预先知道了，等这些事临到，心里就有数，不至惊讶。"
+  },
+  {
+    "id": "Lori-129",
+    "book": "lori",
+    "source": "I will lead you to greener pastures and still waters.",
+    "baseline": "我必领你们到青草地上、可安歇的水边。",
+    "protected": [
+      "我必领你们到青草地上、可安歇的水边。"
+    ],
+    "rounds": [
+      [],
+      [],
+      []
+    ],
+    "final": "我必领你们到青草地上、可安歇的水边。"
+  },
+  {
+    "id": "Lori-132",
+    "book": "lori",
+    "source": "If you are uncertain, come to Me. I will answer you. I will My child. I am your Father.",
+    "baseline": "你若拿不准，就到我这里来。我会回答你。我的孩子，我一定会。我是你的父。",
+    "protected": [],
+    "rounds": [
+      [],
+      [],
+      []
+    ],
+    "final": "你若拿不准，就到我这里来。我会回答你。我的孩子，我一定会。我是你的父。"
+  }
+]

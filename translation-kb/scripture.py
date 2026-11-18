@@ -1,8 +1,10 @@
 """Offline Scripture lookup. Reference numbers are interpreted in each edition independently."""
 import argparse
+from contextlib import closing
 import re
 import sqlite3
 from pathlib import Path
+from wordstudy import GROUPS, lookup as word_lookup, packet_notes
 
 DB = Path(__file__).resolve().with_name("bible-style.sqlite3")
 
@@ -84,10 +86,13 @@ def suggestions(db, source):
     for pattern, ref, wording, limit in ALLUSIONS:
         if re.search(pattern, source, re.I):
             terms.append(f"- {ref} 用“{wording}”。{limit}")
+    specific = {en.casefold() for en, in db.execute("SELECT en FROM word_senses")}
     for en, zh, kind, book, ch, v in db.execute(
         "SELECT t.en,t.zh,t.kind,b.name,t.ch,t.v FROM terms t JOIN books b ON "
         "b.code=t.code AND b.edition='cmn-cu89s' ORDER BY (t.kind='搭配') DESC,length(t.en) DESC,t.en"
     ):
+        if kind == "搭配" and en.casefold().removeprefix("the ") in specific:
+            continue
         flags = re.I if kind == "搭配" else 0
         term = re.escape(en) if flags else f"(?:{re.escape(en)}|{re.escape(en.upper())})"
         pattern = r"\b" + term + r"\b"
@@ -97,12 +102,17 @@ def suggestions(db, source):
             terms.append(f"- {en} → {zh}（{kind}，{book} {ch}:{v}）")
             if len(terms) == 8:
                 break
-    if not terms and not notes:
+    words = packet_notes(db, source)
+    if not terms and not notes and not words:
         return []
     return ["## 和合本参照",
             "译名只供辨明为同一人物或地点时采用。同节经文或英文措辞重合只供核对；"
             "保留作者改动的受词、人称与条件。已评阅的本书译法优先。",
-            *terms, *notes]
+            *terms, *notes,
+            *(["## 本篇词语与经文用例",
+               "先读原句，认清谁对谁说、动作落在谁身上。意思相合时，只借用合适的词或半句，再用自然中文读一遍。"
+               "普通用法照常译。作者只写半个意象，就停在那里。经节编号用于核对，勿自行加进译文。",
+               *words] if words else [])]
 
 
 def main():
@@ -110,13 +120,23 @@ def main():
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--ref")
     group.add_argument("--find")
+    group.add_argument("--word", help="按中英文词或短语找义项及双语经节")
+    parser.add_argument("--collection", choices=tuple(GROUPS), help="限定诗篇、智慧书（诗篇另列）、保罗书信或新约")
+    parser.add_argument("--context", action="store_true", help="查词时附同章前后各一节和合本")
     args = parser.parse_args()
-    with sqlite3.connect(DB.as_uri()+"?mode=ro", uri=True) as db:
+    if (args.collection or args.context) and args.word is None:
+        parser.error("--collection 和 --context 用于 --word")
+    with closing(sqlite3.connect(DB.as_uri()+"?mode=ro", uri=True)) as db:
         if args.ref:
             for ref in references(db,args.ref):
                 for row in passage(db,*ref):
                     print(row)
-        elif args.find.strip():
+        elif args.word is not None:
+            query = args.word.strip()
+            if not query:
+                parser.error("请输入查找词")
+            print("\n\n".join(word_lookup(db, query, args.collection, args.context)) or "本范围未检得用例。")
+        elif args.find and args.find.strip():
             for name,ch,lo,hi,text in db.execute(
                 "SELECT b.name,v.ch,v.first,v.last,v.text FROM verses v JOIN books b USING(edition,code) "
                 "WHERE instr(lower(v.text),lower(?))>0 ORDER BY v.rowid LIMIT 20", (args.find,)

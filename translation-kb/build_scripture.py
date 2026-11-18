@@ -1,10 +1,12 @@
 """Rebuild the scripture tables from the four eBible VPL/USFM ZIPs."""
 import argparse
+from contextlib import closing
 import hashlib
 import re
 import sqlite3
 import zipfile
 from pathlib import Path
+from wordstudy import install as install_wordstudy
 
 ROOT = Path(__file__).resolve().parent
 EDITIONS = ("cmn-cu89s", "engwebp")
@@ -52,7 +54,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("archives", type=Path)
     args = parser.parse_args()
-    with sqlite3.connect(ROOT / "bible-style.sqlite3") as db:
+    with closing(sqlite3.connect(ROOT / "bible-style.sqlite3")) as db, db:
         db.execute("BEGIN IMMEDIATE")
         for table in ("quotes", "verses", "books", "sources", "terms"):
             db.execute(f"DROP TABLE IF EXISTS {table}")
@@ -74,6 +76,7 @@ def main():
             if not re.search(r"\b"+re.escape(en)+r"\b", editions["engwebp"], re.I) or zh not in editions["cmn-cu89s"]:
                 raise ValueError(line)
             db.execute("INSERT INTO terms VALUES (?,?,?,?,?,?)", (en,zh,kind,code,ch,verse))
+        install_wordstudy(db)
 
 
 if __name__ == "__main__":

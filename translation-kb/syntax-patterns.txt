@@ -1,0 +1,13 @@
+# 标识|层次|英文触发正则（忽略大小写）|复核问句|适用边界
+ellipsis|省略|\b(?:i (?:will|shall)|i am here and i will|trust i will)(?:\s*,?\s*my child)?\s*[.!?]|will 后省了哪个动作？回看上一句，中文应能听出回应的是什么。|完整的 I will answer 已有动词；勿凭空扩为“我必成就一切”。
+negated-speech|否定辖域|\b(?:never|not|didn['’]t|haven['’]t|have not)\s+(?:ever\s+)?(?:said?|say|told|tell|given|give)\b|否定的是说过这话、给过日期，还是事情会发生？把否定放回同一谓语。|“我没说何时发生”不能扩大成“这事不会发生”。
+condition|条件|\b(?:unless|only if|if you|if they|if i|as long as|provided that)\b|条件管到哪一个结果？命令、可能、应许分别有多强？|if 出现在间接问句时可能是“是否”；不自动添“只要……就必”。
+time|时间从句|\b(?:when i|when you|before you|until you|once (?:i|you|it|they))\b|先发生什么，谁在何时做下一件事？中文可前置时间从句，再落主句。|不要把时间先后写成因果，也别把已发生的事移到将来。
+voice|引语与插话|[“”]|此处引号内外各是谁说话、向谁说？祷告者、记录者和神的话须分清。|同一说话者只是在引用一个词时，无须另立声部。
+passive|施事|\b(?:ha(?:s|ve|d) been|will be|were|was)\s+(?:[a-z]+ed|given|sent|made|chosen|told|seen|shown|taken|written|heard)\b|原文是否说明谁做了这件事？中文可换语序，施事和受事各要有据。|作者未点明施事时，改成主动句不可自行填“我”或“神”。
+parallel|排比与承接|\b(everything|you have|you will|no more|some will|plans to|look at|it is)\b[^.!?\n]{1,90}?(?:[,.!]|\band\b)\s*\1\b|两句反复了什么，末句推进到哪里？先读出共同起句，再安排停顿。|重复若是宣告、恳求或对举，应保留。普通连接重复可重排。
+beneficiary|动词的对象|\b(?:provide (?:your|their|for)|give (?:you|them|us)|for what is best|ask (?:me|him|them)|take care of)\b|谁向谁求、谁赐给谁、益处归谁？把英文介词链改成中文动词。|不要把“对人有益”写成“人一定蒙福”，也不要把对象倒置。
+register|语域与比喻|\b(?:head would spin|head is spinning|make rent|remote control|price (?:jump|rise)|fault line|press play)\b|这里是日常动作、惯用比喻还是经文意象？换成一句当代读者能听懂的话。|中文可以朴素。明确的经文引句仍按引文处理。
+vocative|称呼与数|\bmy (?:child|children|kids|son|daughter)\b|这是称呼，还是句中的第三人称？从邻句确认“你”“你们”及“我”的所指。|提到“我的儿子”未必是在称呼听者。
+purpose-chain|连续目的句|\b(?:to prepare you|so (?:that )?(?:you|it|they) (?:will|may|can)|in order (?:for|to))\b|先说目的落在谁身上。相邻两句都在说目的时，中文能否用一个动作领起，下一句改从受益者落笔？|保留每个独立目的；不可仅因重复就删去“预先知道”或其他内容。
+shared-object|并列动词与宾语|\b(?:whom|who)\b[^.!?\n]{0,60}\b(?:and listen to|and (?:to )?follow|and (?:to )?trust)\b|还原每个动词和它的宾语，再决定中文是否要分说，如“了解谁、听谁的话”。|两个动词若分属两个人，要各自交代；勿见 and 就合用一个中文宾语。
