@@ -9,7 +9,7 @@
     "Platt 所据抄本缺叶且止于其第22章中途，对应 Harden 第23章中途。不能将两版都登记为全译。",
     "Harden 对照表将埃塞第38–43章对应 Apostolic Constitutions VII.36–46；对应关系不能代替作品鉴定。"
   ],
-  "next": "优先查 BNFabb55 的 TEI 全目或 IIIF 影像定位 Meqabyan，再查 EMML 652 并完成 EPUB 正文比对。",
+  "next": "比对本地 EPUB 正文与 Harden 首尾；若取得两抄本图像，在上述第二卷范围核对 20:1 至 21:3。",
   "new_works": 0,
   "followup_checks": [
     {
@@ -27,6 +27,14 @@
     {
       "source": "https://betamasaheft.awhamburg.de/manuscripts/BNFabb55/main",
       "result": "Beta maṣāḥǝft 的 BNFabb55 草目将抄本断代为1450–1550年。索引可见首项以诺书 ff. 1ra–14vc；Meqabyan 对应叶码仍待核。"
+    },
+    {
+      "source": "https://github.com/BetaMasaheft/Manuscripts/blob/master/ParisBNF/abb/BNFabb55.xml",
+      "result": "按 TEI 的三个子条目，Meqabyan 第一至三卷依次为 ff. 178rc–191rb、191rb–199rb、199rb–202v。总条目的末叶另细标为 202vc。"
+    },
+    {
+      "source": "https://github.com/BetaMasaheft/Manuscripts/blob/master/EMML/1-1000/EMML652.xml",
+      "result": "EMML 652（另号 EMIP 2755）著录相同的三个作品标识，依次为 ff. 1r–51v、51v–78v、79r–92r。两馆目录可独立定位第二卷；20:1 至 21:3 的确切叶码仍需逐叶核对。"
     }
   ]
 }
