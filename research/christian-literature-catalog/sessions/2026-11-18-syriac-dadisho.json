@@ -9,7 +9,7 @@
     "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
     "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
   ],
-  "next": "查大陆和港台馆藏：用 Dadisho／Dadišo、法文题名及三册 ISBN 区分外文馆藏与中文译本；对存疑结果保留检索边界。",
+  "next": "从大陆、台湾馆藏系统直查原题、作者变体和中文译名，再检查出版社及目录。",
   "new_works": 0,
   "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。",
   "edition_checks": [
@@ -30,5 +30,10 @@
       ],
       "result": "David Phillips 校订并译注，Commentaire sur le Paradis des Pères，Paris: Cerf，2022，叙法对照。SC 626 为第一部分（ISBN 9782204147026），SC 627 为第二部分第1–178问（9782204147033），SC 628 为第二部分第179–291问（9782204147040）。同一作品的三册。"
     }
-  ]
+  ],
+  "hku_check": {
+    "url": "https://julac-hku.primo.exlibrisgroup.com/primaws/rest/pub/pnxs",
+    "scope": "852JULAC_HKU:HKU / MyInstitution / any,contains",
+    "results": "三册 ISBN 分别为0条；Dadisho 1条，为执法伦理研究，与本作者无关。教父樂園为218条宽匹配，首条无关，未遍历。Bible 对照返回26398条。大陆及台湾机构域名定向网页索引检索无结果，尚待两地馆藏系统直查。中文出版状态待核。"
+  }
 }
