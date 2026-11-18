@@ -9,7 +9,7 @@
     "Platt 所据抄本缺叶且止于其第22章中途，对应 Harden 第23章中途。不能将两版都登记为全译。",
     "Harden 对照表将埃塞第38–43章对应 Apostolic Constitutions VII.36–46；对应关系不能代替作品鉴定。"
   ],
-  "next": "尝试 Beta maṣāḥǝft 的 EMML652 IIIF 或 vHMML 202935 获取叶标。若受限，将经节叶码留待影像可用时复核，继续下一待办。",
+  "next": "搁置需影像判读的经节叶码。按 queue 首个 pending 项 syriac-systematic，从已有叙利亚文作者、作品索引断点续查。",
   "new_works": 0,
   "followup_checks": [
     {
@@ -59,6 +59,10 @@
     {
       "result": "EMML652 TEI 的 graphic/@url 明列此永久入口；idno 的 facs 为 EMIP/Codices/2755/。尚未判读影像。",
       "source": "https://w3id.org/vhmml/readingRoom/view/202935"
+    },
+    {
+      "result": "vHMML 馆藏记录标题确认 EMML 652 藏于 Addis Ababa 的 Ethiopian Orthodox Tawāḥedo Church Patriarchate Library。测试 https://betamasaheft.eu/api/iiif/EMML652/manifest 直连及10808均返回404，仅记录该路径失败。尚无目标经节与扫描叶的可靠对照。",
+      "source": "https://www.vhmml.org/readingRoom/view/202935"
     }
   ]
 }
