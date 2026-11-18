@@ -9,7 +9,7 @@
     "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
     "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
   ],
-  "next": "从大陆、台湾馆藏系统直查原题、作者变体和中文译名，再检查出版社及目录。",
+  "next": "继续大陆高校或国家图书馆馆藏直查，核查出版社目录与译名变体。",
   "new_works": 0,
   "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。",
   "edition_checks": [
@@ -35,5 +35,11 @@
     "url": "https://julac-hku.primo.exlibrisgroup.com/primaws/rest/pub/pnxs",
     "scope": "852JULAC_HKU:HKU / MyInstitution / any,contains",
     "results": "三册 ISBN 分别为0条；Dadisho 1条，为执法伦理研究，与本作者无关。教父樂園为218条宽匹配，首条无关，未遍历。Bible 对照返回26398条。大陆及台湾机构域名定向网页索引检索无结果，尚待两地馆藏系统直查。中文出版状态待核。"
+  },
+  "ntu_check": {
+    "source": "https://www.lib.ntu.edu.tw/node/981",
+    "result": "三册 ISBN 各自返回0条；法文原题及试拟中文题名「教父樂園注釋」的 title,exact 均返回0条。按 creator,contains 查 Dadisho、Dadišo 各返回1条，分别为执法伦理和加密货币法规，与目标作者无关。对照 Bible 有返回。检索范围为台大馆藏。",
+    "scope": "886NTU_INST:886NTU_INST / MyInstitution / LibraryCatalog",
+    "endpoint": "https://ntu.primo.exlibrisgroup.com/primaws/rest/pub/pnxs"
   }
 }
