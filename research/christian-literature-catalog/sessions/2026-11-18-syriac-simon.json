@@ -7,8 +7,9 @@
     "编者称所据为 Mingana Syr. 601，说明西门以医者身份探讨灵魂诸能力、身体与修道操练。其当时所知抄本范围不能作今日唯一传本的证据。",
     "本地有281页试译及复核请求文件，尚未核定整篇中文译稿状态。",
     "原书导言第 vi 页说明：叙文按手稿次序编排，英译页边标手稿叶号。西门英译 OCR 中可直接辨认 164a、165a、169a、180a、196a、199a 和 200a 等边码。这些是卷内定位锚点，首末完整叶界尚待题记及图像确认。",
-    "已关联仓库 christian-text-sources/books/dydi_a--east-mingana-mystics/README.md；该目录登记多作者文选入口，未提供西门全文中译完成的证据。"
+    "已关联仓库 christian-text-sources/books/dydi_a--east-mingana-mystics/README.md；该目录登记多作者文选入口，未提供西门全文中译完成的证据。",
+    "task/translations/README.md 将印页281–320对应至扫描序号 n292–n331，并记录独立书目 ID dydi_a:east-mingana-mystics:simon-taibutheh。只读查 task/translations/state.sqlite3：该书为 translating，40个单元中 seq 0（p281）已 self_reviewed，seq 1–39 仍 pending。README 所述首句草稿为较早状态；全书尚未完成。"
   ],
-  "next": "以译本页边号为线索，核 Birmingham 原始目录及首末图像；查译稿覆盖时按作品中文题名和任务清单检索。",
+  "next": "核伯明翰馆藏目录 Mingana Syriac 601、原书英译起讫及作品分篇；书目关联沿用已有独立翻译 ID。",
   "new_works": 0
 }
