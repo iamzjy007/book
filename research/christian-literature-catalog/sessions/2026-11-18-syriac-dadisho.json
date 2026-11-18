@@ -1,0 +1,14 @@
+{
+  "task": "syriac-systematic",
+  "source": "https://gedsh.bethmardutho.org/entry/Dadisho-Qatraya.html",
+  "query": "GEDSH Dadisho Qatraya",
+  "scope": "GEDSH 单一作者条目及其原典书目",
+  "findings": [
+    "《论寂静》见 Mingana, Woodbrooke Studies 7 (1934)，叙文70–143页，英译201–247页。",
+    "《致 Abkosh 论寂静书》另有 Guillaumont 与 Albert 的1984年刊本，235–245页；与前项分别登记为作品线索。",
+    "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
+    "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
+  ],
+  "next": "核 Mingana 第7卷扫描目录及分篇页码；以出版目录查《教父乐园注释》后出的刊本，随后核中文馆藏和既有别名。",
+  "new_works": 0
+}

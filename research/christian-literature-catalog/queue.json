@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_date_beijing": "2026-11-13",
+  "updated_date_beijing": "2026-11-18",
   "tasks": [
     {
       "id": "phase1-syriac",
@@ -165,8 +165,8 @@
       "title": "syri.ac／GEDSH／Syriaca作品级索引扫描",
       "status": "pending",
       "entry_url": "https://syri.ac/",
-      "cursor": null,
-      "next": "从作者与作品索引起，不能把网站首页算整站扫描",
+      "cursor": "sessions/2026-11-18-syriac-dadisho.json",
+      "next": "核 Mingana 第7卷扫描目录及分篇页码；以出版目录查《教父乐园注释》后出的刊本，随后核中文馆藏和既有别名。",
       "warning": "入口是后续任务线索，不代表本轮已完整查阅"
     },
     {
