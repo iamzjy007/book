@@ -9,7 +9,7 @@
     "Platt 所据抄本缺叶且止于其第22章中途，对应 Harden 第23章中途。不能将两版都登记为全译。",
     "Harden 对照表将埃塞第38–43章对应 Apostolic Constitutions VII.36–46；对应关系不能代替作品鉴定。"
   ],
-  "next": "比对本地 EPUB 正文与 Harden 首尾；若取得两抄本图像，在上述第二卷范围核对 20:1 至 21:3。",
+  "next": "核查 c1AMM、c1C5F、c1FT2、c6UB 四处上下文，取得 Harden 正文首尾作异译比对；Meqabyan 影像定位仍待查。",
   "new_works": 0,
   "followup_checks": [
     {
@@ -35,6 +35,10 @@
     {
       "source": "https://github.com/BetaMasaheft/Manuscripts/blob/master/EMML/1-1000/EMML652.xml",
       "result": "EMML 652（另号 EMIP 2755）著录相同的三个作品标识，依次为 ff. 1r–51v、51v–78v、79r–92r。两馆目录可独立定位第二卷；20:1 至 21:3 的确切叶码仍需逐叶核对。"
+    },
+    {
+      "source": "本地 EPUB：全部4593个 XHTML，去标签、实体解码、合并空白、忽略大小写",
+      "result": "didascal、didaskal 均零命中。meqab 仅见 c34.xhtml：出版介绍明确将 Meqabyan 列于 Expanded Digital Library。apostolic constitutions 仅见 cG8Z.xhtml，为 Apostolic Church Order 导言区分作品的说明。doctrine of the apostles 见 c1HH2.xhtml，为句中用语。teaching of the apostles 命中4个文件，待结合正文辨认。"
     }
   ]
 }
