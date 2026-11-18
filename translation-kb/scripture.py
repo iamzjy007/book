@@ -18,24 +18,32 @@ def aliases(db):
     for code, usfm, name in db.execute("SELECT code,usfm,name FROM books"):
         for alias in (code, usfm, name):
             names[alias.casefold()] = code
-    names.update({"psalm": "PSA", "song of songs": "SOL", "revelations": "REV"})
+    names.update({"psalm": "PSA", "ps": "PSA", "matt": "MAT", "deut": "DEU",
+                  "exod": "EXO", "song of songs": "SOL", "revelations": "REV"})
+    for name, code in list(names.items()):
+        if re.match(r"^[123] ", name):
+            digit, title = name.split(" ", 1)
+            names[{"1":"i", "2":"ii", "3":"iii"}[digit] + " " + title] = code
     return names
 
 
 def references(db, source):
     names = aliases(db)
     options = "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True))
-    pattern = rf"(?<!\w)({options})\.?\s*(\d+)\s*[:：]\s*(\d+)(?:\s*[-–]\s*(\d+))?"
+    segment = r"\d+(?:[ \t]*[-–—][ \t]*\d+)?"
+    pattern = rf"(?<!\w)({options})\.?[ \t]*(\d+)[ \t]*[:：][ \t]*({segment}(?:[ \t]*[,、][ \t]*{segment})*)"
     for m in re.finditer(pattern, source, re.I):
-        yield names[m[1].casefold()], int(m[2]), int(m[3]), int(m[4] or m[3])
+        for part in re.split(r"[,、]", m[3]):
+            bounds = re.split(r"[-–—]", part)
+            yield names[m[1].casefold()], int(m[2]), int(bounds[0]), int(bounds[-1])
 
 
-def passage(db, code, ch, lo, hi):
+def passage(db, code, ch, lo, hi, edition=None):
     result = []
     for name, first, last, text in db.execute(
         "SELECT b.name,v.first,v.last,v.text FROM verses v JOIN books b USING(edition,code) "
         "WHERE v.code=? AND v.ch=? AND v.first<=? AND v.last>=? "
-        "ORDER BY v.edition,v.first", (code, ch, hi, lo)
+        "AND (? IS NULL OR v.edition=?) ORDER BY v.edition,v.first", (code, ch, hi, lo, edition, edition)
     ):
         label = str(first) if first == last else f"{first}–{last}"
         result.append(f"{name} {ch}:{label}　{text or '〔底本该节无正文〕'}")
@@ -46,14 +54,18 @@ def suggestions(db, source):
     # An explicit reference takes precedence over an inferred verbal parallel.
     notes = []
     count = 0
-    for code, ch, lo, hi in dict.fromkeys(references(db, source)):
-        lines = passage(db, code, ch, lo, min(hi,lo+1))
+    supplied_version = re.search(r"\b(?:AMPC|NKJV)\b", source, re.I)
+    # Prefer standalone attribution lines to references inside AMPC parentheses.
+    citation_lines = "\n".join(line for line in source.splitlines()
+                               if re.search(r"\b(?:AMPC|NKJV)\s*$", line, re.I))
+    for code, ch, lo, hi in dict.fromkeys(references(db, citation_lines or source)):
+        lines = passage(db, code, ch, lo, min(hi,lo+2), "cmn-cu89s" if supplied_version else None)
         if lines:
             notes.extend(lines)
             count += 1
         if count == 2:
             break
-    if not notes:
+    if not notes and not supplied_version:
         for para in source.split("\n"):
             tokens = re.findall(r"[A-Za-z]+", para.lower())
             for i in range(0, len(tokens)-7, 4):
@@ -78,7 +90,10 @@ def suggestions(db, source):
     ):
         flags = re.I if kind == "搭配" else 0
         term = re.escape(en) if flags else f"(?:{re.escape(en)}|{re.escape(en.upper())})"
-        if re.search(r"\b"+term+r"\b", source, flags):
+        pattern = r"\b" + term + r"\b"
+        if en == "Mark":
+            pattern += r"(?!\s+(?i:my|your|the|these|those)\b)"
+        if re.search(pattern, source, flags):
             terms.append(f"- {en} → {zh}（{kind}，{book} {ch}:{v}）")
             if len(terms) == 8:
                 break
