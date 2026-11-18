@@ -22,6 +22,8 @@ freeze 与上例共用 id、revision、request_key、observed_at、next_action�
 SELECT rank,title,book_id,status,next_action FROM priority_queue ORDER BY rank;
 ```
 
+2026-11-17 起，用户指定优先继续 **约西蓬 Gagnier 1706 拉丁译本**（`dydi_c:C12-gagnier1706`），因为已有部分译稿。接手时先处理 I.3–6 的现有工作稿与自校，再续译；不可与同一任务下独立的 Ge’ez 手稿版本（`dydi_c:C12`）混并。
+
 `blocked_source` 表示没有核实可译底本；`needs_completeness_check` 表示已有候选入口但尚未通过完整性门槛；取得并核实全篇后才可冻结版本、建立 unit 并进入翻译。`book_id` 尚未匹配的条目保持 NULL。处理完成后同步更新该行的 status、next_action、updated_at。该队列不是自动“就绪”标志，也不替换原 queue。
 
 当前附件前 3 项的进度（2026-11-15）：

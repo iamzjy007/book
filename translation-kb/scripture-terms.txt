@@ -1,0 +1,187 @@
+# 类别|英文|和合本片段|卷代码|章:节
+人名|Adam|亚当|GEN|3:17
+人名|Eve|夏娃|GEN|3:20
+人名|Cain|该隐|GEN|4:1
+人名|Abel|亚伯|GEN|4:2
+人名|Enoch|以诺|GEN|4:17
+人名|Noah|挪亚|GEN|5:29
+人名|Shem|闪|GEN|5:32
+人名|Ham|含|GEN|5:32
+人名|Japheth|雅弗|GEN|5:32
+人名|Abraham|亚伯拉罕|GEN|17:5
+人名|Abram|亚伯兰|GEN|11:26
+人名|Sarah|撒拉|GEN|17:15
+人名|Sarai|撒莱|GEN|11:29
+人名|Hagar|夏甲|GEN|16:1
+人名|Ishmael|以实玛利|GEN|16:11
+人名|Isaac|以撒|GEN|17:19
+人名|Rebekah|利百加|GEN|24:15
+人名|Jacob|雅各|GEN|25:26
+人名|Esau|以扫|GEN|25:25
+人名|Rachel|拉结|GEN|29:6
+人名|Leah|利亚|GEN|29:16
+人名|Laban|拉班|GEN|24:29
+人名|Joseph|约瑟|GEN|30:24
+人名|Benjamin|便雅悯|GEN|35:18
+人名|Simeon|西缅|GEN|29:33
+人名|Levi|利未|GEN|29:34
+人名|Judah|犹大|GEN|29:35
+人名|Dan|但|GEN|30:6
+人名|Naphtali|拿弗他利|GEN|30:8
+人名|Gad|迦得|GEN|30:11
+人名|Asher|亚设|GEN|30:13
+人名|Issachar|以萨迦|GEN|30:18
+人名|Zebulun|西布伦|GEN|30:20
+人名|Dinah|底拿|GEN|30:21
+人名|Tamar|她玛|GEN|38:6
+人名|Moses|摩西|EXO|2:10
+人名|Aaron|亚伦|EXO|4:14
+人名|Miriam|米利暗|EXO|15:20
+人名|Joshua|约书亚|EXO|17:9
+人名|Caleb|迦勒|NUM|13:6
+人名|Eleazar|以利亚撒|EXO|6:23
+人名|Balaam|巴兰|NUM|22:5
+人名|Rahab|喇合|JOS|2:1
+人名|Deborah|底波拉|GEN|35:8
+人名|Gideon|基甸|JDG|6:11
+人名|Samson|参孙|JDG|13:24
+人名|Delilah|大利拉|JDG|16:4
+人名|Ruth|路得|RUT|1:4
+人名|Naomi|拿俄米|RUT|1:2
+人名|Boaz|波阿斯|RUT|2:1
+人名|Samuel|撒母耳|1SA|1:20
+人名|Hannah|哈拿|1SA|1:2
+人名|Eli|以利|1SA|1:3
+人名|Saul|扫罗|1SA|9:2
+人名|David|大卫|RUT|4:17
+人名|Jonathan|约拿单|JDG|18:30
+人名|Goliath|歌利亚|1SA|17:4
+人名|Abigail|亚比该|1SA|25:3
+人名|Nathan|拿单|2SA|5:14
+人名|Solomon|所罗门|2SA|5:14
+人名|Absalom|押沙龙|2SA|3:3
+人名|Joab|约押|1SA|26:6
+人名|Elijah|以利亚|1KI|17:1
+人名|Elisha|以利沙|1KI|19:16
+人名|Ahab|亚哈|1KI|16:28
+人名|Jezebel|耶洗别|1KI|16:31
+人名|Hezekiah|希西家|2KI|16:20
+人名|Josiah|约西亚|1KI|13:2
+人名|Ezra|以斯拉|EZR|7:1
+人名|Nehemiah|尼希米|EZR|2:2
+人名|Esther|以斯帖|EST|2:7
+人名|Mordecai|末底改|EZR|2:2
+人名|Haman|哈曼|EST|3:1
+人名|Job|约伯|JOB|1:1
+人名|Isaiah|以赛亚|2KI|19:2
+人名|Jeremiah|耶利米|2KI|23:31
+人名|Ezekiel|以西结|EZE|1:3
+人名|Daniel|但以理|EZR|8:2
+人名|Hosea|何西阿|HOS|1:1
+人名|Joel|约珥|1SA|8:2
+人名|Amos|阿摩司|AMO|1:1
+人名|Obadiah|俄巴底亚|1CH|3:21
+人名|Jonah|约拿|2KI|14:25
+人名|Micah|弥迦|JER|26:18
+人名|Nahum|那鸿|NAH|1:1
+人名|Habakkuk|哈巴谷|HAB|1:1
+人名|Zephaniah|西番雅|1CH|6:36
+人名|Haggai|哈该|EZR|5:1
+人名|Zechariah|撒迦利亚|1CH|26:2
+人名|Malachi|玛拉基|MAL|1:1
+人名|Nebuchadnezzar|尼布甲尼撒|2KI|24:1
+人名|Jesus|耶稣|MAT|1:1
+称号|Christ|基督|MAT|1:1
+人名|Mary|马利亚|MAT|1:16
+人名|Martha|马大|LUK|10:38
+人名|Lazarus|拉撒路|LUK|16:20
+人名|Peter|彼得|MAT|4:18
+人名|Andrew|安得烈|MAT|4:18
+人名|James|雅各|MAT|4:21
+人名|John|约翰|MAT|3:1
+人名|Philip|腓力|MAT|10:3
+人名|Thomas|多马|MAT|10:3
+人名|Matthew|马太|MAT|9:9
+人名|Judas|犹大|MAT|10:4
+人名|Simon|西门|MAT|4:18
+人名|Herod|希律|MAT|2:1
+人名|Pilate|彼拉多|MAT|27:2
+人名|Paul|保罗|ACT|13:9
+人名|Barnabas|巴拿巴|ACT|4:36
+人名|Stephen|司提反|ACT|6:5
+人名|Silas|西拉|ACT|15:22
+人名|Timothy|提摩太|ACT|16:1
+人名|Titus|提多|2CO|2:13
+人名|Philemon|腓利门|PHM|1:1
+人名|Lydia|吕底亚|ACT|16:14
+人名|Priscilla|百基拉|ACT|18:2
+人名|Aquila|亚居拉|ACT|18:2
+人名|Apollos|亚波罗|ACT|18:24
+人名|Luke|路加|COL|4:14
+人名|Mark|马可|ACT|12:12
+人名|Gabriel|加百列|DAN|8:16
+人名|Michael|米迦勒|NUM|13:13
+地名|Jerusalem|耶路撒冷|JOS|10:1
+地名|Bethlehem|伯利恒|GEN|35:19
+地名|Nazareth|拿撒勒|MAT|2:23
+地名|Galilee|加利利|JOS|20:7
+地名|Judea|犹太|MAT|2:1
+地名|Jordan|约旦|GEN|13:10
+地名|Zion|锡安|2SA|5:7
+地名|Sinai|西奈|EXO|16:1
+地名|Horeb|何烈|EXO|3:1
+地名|Moab|摩押|RUT|1:1
+地名|Edom|以东|GEN|36:31
+地名|Egypt|埃及|GEN|12:10
+地名|Babylon|巴比伦|2KI|17:24
+地名|Canaan|迦南|GEN|12:5
+地名|Jericho|耶利哥|NUM|22:1
+地名|Bethel|伯特利|GEN|12:8
+地名|Shechem|示剑|GEN|12:6
+地名|Beersheba|别是巴|GEN|21:14
+地名|Gilgal|吉甲|DEU|11:30
+地名|Shiloh|示罗|JOS|16:6
+地名|Nineveh|尼尼微|GEN|10:11
+地名|Assyria|亚述|GEN|2:14
+地名|Lebanon|黎巴嫩|DEU|1:7
+地名|Sidon|西顿|MAT|11:21
+地名|Gaza|迦萨|GEN|10:19
+地名|Sodom|所多玛|GEN|10:19
+地名|Gomorrah|蛾摩拉|GEN|10:19
+地名|Eden|伊甸|GEN|2:8
+地名|Athens|雅典|ACT|17:15
+地名|Corinth|哥林多|ACT|18:1
+地名|Ephesus|以弗所|ACT|18:19
+地名|Rome|罗马|ACT|2:10
+地名|Philippi|腓立比|ACT|16:12
+地名|Antioch|安提阿|ACT|6:5
+地名|Cyprus|塞浦路斯|ACT|4:36
+地名|Macedonia|马其顿|ACT|16:9
+地名|Patmos|拔摩|REV|1:9
+地名|Capernaum|迦百农|MAT|4:13
+地名|Bethany|伯大尼|MAT|21:17
+地名|Gethsemane|客西马尼|MAT|26:36
+搭配|the light of the world|世上的光|MAT|5:14
+搭配|my sheep hear my voice|我的羊听我的声音|JOH|10:27
+搭配|the whole armor of God|全副军装|EPH|6:11
+搭配|the wiles of the devil|魔鬼的诡计|EPH|6:11
+搭配|the fruit of the Spirit|圣灵所结的果子|GAL|5:22
+搭配|we walk by faith|行事为人是凭着信心|2CO|5:7
+搭配|weeping and gnashing of teeth|哀哭切齿|MAT|8:12
+搭配|the LORD is my shepherd|耶和华是我的牧者|PSA|23:1
+搭配|all the days of my life|我一生一世|PSA|23:6
+搭配|pour out my Spirit on all flesh|将我的灵浇灌凡有血气的|JOE|2:28
+搭配|in the shadow of the Almighty|在全能者的荫下|PSA|91:1
+搭配|make a way in the wilderness|在旷野开道路|ISA|43:19
+搭配|renew their strength|从新得力|ISA|40:31
+搭配|Arise, shine|兴起，发光|ISA|60:1
+搭配|the renewing of your mind|心意更新而变化|ROM|12:2
+搭配|by their fruits|凭着他们的果子|MAT|7:16
+搭配|I will strengthen you|我必坚固你|ISA|41:10
+人名|Reuben|吕便|1CH|2:1
+人名|Cyrus|塞鲁士|2CH|36:22
+人名|Nicodemus|尼哥德慕|JOH|3:1
+地名|Samaria|撒马利亚|1KI|13:32
+地名|Damascus|大马士革|1CH|18:5
+地名|Tyre|泰尔|1CH|14:1
+地名|Euphrates|幼发拉底河|1CH|5:9
