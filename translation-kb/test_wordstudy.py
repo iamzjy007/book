@@ -42,6 +42,17 @@ class ScriptureUsage(unittest.TestCase):
         self.assertIn("箴言 4:23",notes)
         self.assertNotIn("腓立比书 4:7",notes)
 
+    def test_material_portion_and_bodily_strength(self):
+        from wordstudy import match_senses, senses
+        entries=senses(self.db)
+        for source,ref in (
+            ("From the tribute give a portion for the sacrifices of the Lord.","诗篇 73:26"),
+            ("By food strength is produced; in food is the foundation of strength.","诗篇 46:1"),
+        ):
+            self.assertNotIn(ref,{s.ref for s,_ in match_senses(entries,source)})
+        for source,ref in (("God is my portion forever.","诗篇 73:26"),("God is our refuge and strength.","诗篇 46:1")):
+            self.assertIn(ref,{s.ref for s,_ in match_senses(entries,source)})
+
     def test_ordinary_language(self):
         for source in (
             "I am looking for a new job and greener pastures.",

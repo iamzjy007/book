@@ -67,6 +67,17 @@ class RevisionTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             apply_response(db,{**original,"edits":[]})
 
+    def test_edition_notes_persist_and_old_jobs_resume(self):
+        path=Path(self.temp.name)/"edition.db"
+        initialize(path,"A child of three weeks.","一个三周大的孩子。","other",notes=["本节指幼童的年龄。"])
+        with closing(sqlite3.connect(path)) as db:
+            first=request(db)
+            self.assertEqual(first["editorial_notes"],["本节指幼童的年龄。"])
+            apply_response(db,{"request_id":first["request_id"],"edits":[]})
+            self.assertEqual(request(db)["editorial_notes"],first["editorial_notes"])
+            db.execute("ALTER TABLE job DROP COLUMN notes")
+            self.assertEqual(request(db)["editorial_notes"],[])
+
     def test_protects_user_wording_and_existing_scripture(self):
         db = self.job(source="John 11:35. I will answer you.", draft="耶稣哭了。\n\n我必回答你。",locks=["我必"])
         self.assertTrue(any("耶稣哭了" in t for t in json.loads(state(db)["locks"])))

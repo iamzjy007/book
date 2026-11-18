@@ -70,18 +70,20 @@ def protected_text(source, draft, literals, book):
     return sorted(locks)
 
 
-def initialize(path, source, draft, book, locks=()):
+def initialize(path, source, draft, book, locks=(), notes=()):
     if not source.strip() or not draft.strip():
         raise ValueError("原文与初稿均须有正文")
+    if isinstance(notes,str) or any(not isinstance(n,str) or not n.strip() for n in notes):
+        raise ValueError("校勘说明须逐条提供，每条均须有文字")
     locked = protected_text(source,draft,locks,book)
     # Atomic exclusive creation avoids truncating a previous run.
     with path.open("xb"):
         pass
     with closing(sqlite3.connect(path)) as db, db:
         db.execute("BEGIN IMMEDIATE")
-        db.execute("CREATE TABLE job(source, initial, draft, book, locks, round INTEGER, status, runner)")
+        db.execute("CREATE TABLE job(source, initial, draft, book, locks, round INTEGER, status, runner, notes)")
         db.execute("CREATE TABLE history(turn INTEGER PRIMARY KEY, request_id UNIQUE, response, result, status)")
-        db.execute("INSERT INTO job VALUES (?,?,?,?,?,0,'进行中',NULL)", (source,draft,draft,book,encode(locked)))
+        db.execute("INSERT INTO job VALUES (?,?,?,?,?,0,'进行中',NULL,?)", (source,draft,draft,book,encode(locked),encode(list(notes))))
 
 
 def state(db):
@@ -90,7 +92,10 @@ def state(db):
 
 
 def request_id(job):
-    return digest(encode([job["book"],job["source"],job["draft"],job["locks"],job["round"]]))
+    identity=[job["book"],job["source"],job["draft"],job["locks"],job["round"]]
+    if "notes" in job.keys() and job["notes"]!="[]":
+        identity.append(job["notes"])
+    return digest(encode(identity))
 
 
 def request(db):
@@ -98,9 +103,12 @@ def request(db):
     if job["status"] != "进行中":
         raise ValueError("本次审校已结束："+job["status"])
     phase = job["round"] % 3
+    notes=json.loads(job["notes"]) if "notes" in job.keys() else []
     history = [[{k:e[k] for k in ("target_p","before","after","reason")} for e in json.loads(r[0])["edits"]]
                for r in db.execute("SELECT response FROM history ORDER BY turn")]
-    return dict(request_id=request_id(job), stage=PHASES[phase], instruction=INSTRUCTIONS[phase],
+    return dict(request_id=request_id(job), stage=PHASES[phase], instruction=INSTRUCTIONS[phase]+(
+                "已有校勘说明是本篇证据。涉及其中的译法时，读清所据版本；只有更直接的证据才能推翻旧判断，并在理由中说明。" if notes else ""),
+                editorial_notes=notes,
                 source=paragraphs(job["source"]), draft=paragraphs(job["draft"]),
                 passage_guide=packet(job["source"],job["book"]).partition("## 待译原文\n")[0],
                 syntax=review_notes(job["source"],phase), protected=json.loads(job["locks"]), history=history,
@@ -227,6 +235,7 @@ def main():
     init.add_argument("--book",choices=["other","lori","dydi"],default="other")
     init.add_argument("--chapter",type=int)
     init.add_argument("--protect",action="append",default=[])
+    init.add_argument("--note",action="append",default=[],help="本篇已有的版本校勘或评阅说明，可重复提供")
     for action in ("next","apply","export","history","run"):
         child = actions.add_parser(action)
         child.add_argument("job",type=Path)
@@ -246,7 +255,7 @@ def main():
                 source,draft = chapter(source,args.chapter),chinese_chapter(draft,args.chapter)
             elif any(len(re.findall(r"(?m)^# Chapter \d+ · ",t))>1 for t in (source,draft)):
                 raise ValueError("合订本请用 --chapter 选择一篇")
-            initialize(args.job,source,draft,args.book,args.protect)
+            initialize(args.job,source,draft,args.book,args.protect,args.note)
             return
         with closing(sqlite3.connect(args.job.resolve().as_uri()+"?mode=rw",uri=True)) as db:
             if args.action=="next":
