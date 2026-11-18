@@ -9,7 +9,7 @@
     "Platt 所据抄本缺叶且止于其第22章中途，对应 Harden 第23章中途。不能将两版都登记为全译。",
     "Harden 对照表将埃塞第38–43章对应 Apostolic Constitutions VII.36–46；对应关系不能代替作品鉴定。"
   ],
-  "next": "取得 Harden 英译首尾并与 EPUB 全文比较；另待核 Meqabyan 抄本补译经节影像。",
+  "next": "从完整扫描本取得 Harden 第43章结尾，再检验 EPUB 中的异译或节录。",
   "new_works": 0,
   "followup_checks": [
     {
@@ -43,6 +43,10 @@
     {
       "source": "本地 EPUB：teaching of the apostles 四处正文复核",
       "result": "c1AMM 是亚他那修第39封节期书信的书目列举，题名与《牧人书》并列；c1C5F 是引约翰书信的论述；c1FT2 是致玛尔凯拉书信中的反问；c6UB 是徒2:42。四处均不能作为埃塞俄比亚 Didascalia 正文的见证。"
+    },
+    {
+      "source": "https://lojs.org/wp-content/uploads/2019/11/ethiopic-didascalia-the-apostolic-constitutions-and-ethiopic-church-orders-as-translated-by-j-m-harden.pdf",
+      "result": "Harden 第一章首段与 EPUB 的4593个 XHTML 比较：去标签、解码实体、按英文字母分词并转小写。our good and holy brother Paul 与 have ordained this right doctrine 均零命中；共有表达 the city of the great King 命中6个文件，不能单凭此语识别作品。该 PDF 网页抽取止于印页160句中，尚未取得末章收尾。"
     }
   ]
 }
