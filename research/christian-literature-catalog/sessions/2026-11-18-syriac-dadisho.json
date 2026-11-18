@@ -9,7 +9,7 @@
     "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
     "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
   ],
-  "next": "核《阿爸以赛亚注释》CSCO 326 与 327 的各卷语言、丛书分号与底本。",
+  "next": "查 Draguet 校本序言或手稿目录，核注释的具体抄本与覆盖范围，再转回作品总目录汇总。",
   "new_works": 0,
   "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。",
   "edition_checks": [
@@ -34,6 +34,10 @@
       "source": "https://syriaca.org/cbss/5QNTGTPZ",
       "result": "Lettre de Dadisho Qatraya à Abkosh sur l'hésychia，Antoine Guillaumont 与 Micheline Albert，载 Mémorial André-Jean Festugière，Cahiers d'Orientalisme 10，Genève: Patrick Cramer，1984，页235–245。Syriaca 标注为叙文原典附法译；Guillaumont 的法兰西学院成果报告确认篇名、合作者与页码。",
       "crosscheck": "https://www.college-de-france.fr/sites/default/files/media/document/2023-02/AN_84_guillaumont.pdf"
+    },
+    {
+      "source": "https://www.peeters-leuven.be/detail.php?search_key=9789042903685",
+      "result": "Peeters 的法译卷说明明确区分：1972 年 CSCO 326 / Scriptores Syri 144 为叙利亚文校本；CSCO 327 / Scriptores Syri 145 为 Draguet 的法译，ISBN 9789042903685，出版方页数记作 21*-266 p.。本书为 Dadisho 对 logoi I–XV 的注释。出版详情未列所据抄本。"
     }
   ],
   "hku_check": {
