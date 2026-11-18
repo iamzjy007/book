@@ -1,0 +1,32 @@
+{
+  "task": "ethiopic-systematic",
+  "date": "2026-11-18",
+  "status": "partial",
+  "source": "https://lojs.org/wp-content/uploads/2019/11/ethiopic-didascalia-the-apostolic-constitutions-and-ethiopic-church-orders-as-translated-by-j-m-harden.pdf",
+  "locator": "Harden 1920，导言 xiv、xviii–xxi，章节对照表及翻译方法",
+  "findings": [
+    "英译主底本为 British Museum Orient. 752；各章标题另校四份抄本。",
+    "Platt 所据抄本缺叶且止于其第22章中途，对应 Harden 第23章中途。不能将两版都登记为全译。",
+    "Harden 对照表将埃塞第38–43章对应 Apostolic Constitutions VII.36–46；对应关系不能代替作品鉴定。"
+  ],
+  "next": "优先查 BNFabb55 的 TEI 全目或 IIIF 影像定位 Meqabyan，再查 EMML 652 并完成 EPUB 正文比对。",
+  "new_works": 0,
+  "followup_checks": [
+    {
+      "source": "https://www.vhmml.org/readingRoom/view/202354",
+      "result": "EMML 515 对应 Addis Ababa 的 Qaċanē Dabra Salām Madḫānē Ālam Church。已核机构记录标题。静态页面未显示逐作品内容，影像需登录。"
+    },
+    {
+      "source": "https://www.ethiopiancanon.com/read/2-meqabyan",
+      "result": "出版方说明三卷主据 EMML 515；第二卷20:1至21:3缺文参考 d’Abbadie 55 与 EMML 652。尚未逐叶验证。"
+    },
+    {
+      "source": "本地 The Ultimate Ethiopian Bible in English.epub / NCX",
+      "result": "逐条检查5940个导航项。Didascal-/Didaskal-/Meqab- 无命中；命中 DIDACHE、1–4 MACCABEES。保留作品区分，不能据导航排除未标名嵌入文本。"
+    },
+    {
+      "source": "https://betamasaheft.awhamburg.de/manuscripts/BNFabb55/main",
+      "result": "Beta maṣāḥǝft 的 BNFabb55 草目将抄本断代为1450–1550年。索引可见首项以诺书 ff. 1ra–14vc；Meqabyan 对应叶码仍待核。"
+    }
+  ]
+}
