@@ -9,7 +9,7 @@
     "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
     "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
   ],
-  "next": "查 Draguet 校本序言或手稿目录，核注释的具体抄本与覆盖范围，再转回作品总目录汇总。",
+  "next": "依 catalog.json 与 workers 的多语别名去重，汇总 Dadisho 四部作品和各版关系；查明细后再登记成熟条目。",
   "new_works": 0,
   "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。",
   "edition_checks": [
@@ -38,6 +38,11 @@
     {
       "source": "https://www.peeters-leuven.be/detail.php?search_key=9789042903685",
       "result": "Peeters 的法译卷说明明确区分：1972 年 CSCO 326 / Scriptores Syri 144 为叙利亚文校本；CSCO 327 / Scriptores Syri 145 为 Draguet 的法译，ISBN 9789042903685，出版方页数记作 21*-266 p.。本书为 Dadisho 对 logoi I–XV 的注释。出版详情未列所据抄本。"
+    },
+    {
+      "source": "https://www1.ihp.sinica.edu.tw/storage/w2_file/1770sDWArsC.pdf",
+      "crosscheck": "https://www.iranicaonline.org/articles/dadiso-qatraya-late-7th-century-c/",
+      "result": "据 Sims-Williams 的残片校读论文，Draguet 主据1885年抄本 A，另校从 A 抄出的四本；A 源自今佚、约十四世纪的 S，Scher 1906 年刊有摘录。粟特文 C₂/25、C₂/19、C₂/22 三片合属连续两叶，保存第15篇注释开头附近。Iranica 指直接传本在第15篇近末残断，后续段落另见后人注释引文。卷题 I–XV 仅代表该刊本覆盖范围。"
     }
   ],
   "hku_check": {

@@ -166,7 +166,7 @@
       "status": "pending",
       "entry_url": "https://syri.ac/",
       "cursor": "sessions/2026-11-18-syriac-dadisho.json",
-      "next": "查 Draguet 校本序言或手稿目录，核注释的具体抄本与覆盖范围，再转回作品总目录汇总。",
+      "next": "依 catalog.json 与 workers 的多语别名去重，汇总 Dadisho 四部作品和各版关系；查明细后再登记成熟条目。",
       "warning": "入口是后续任务线索，不代表本轮已完整查阅"
     },
     {
