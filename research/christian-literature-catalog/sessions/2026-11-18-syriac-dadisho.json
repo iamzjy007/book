@@ -9,7 +9,7 @@
     "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
     "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
   ],
-  "next": "换查大陆高校或国家图书馆的公开目录，随后核查出版社；上海馆访问受限。",
+  "next": "从 Summon 官方网页的实际请求或另一大陆高校目录查题名、作者及 ISBN。",
   "new_works": 0,
   "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。",
   "edition_checks": [
@@ -53,5 +53,10 @@
     ],
     "result": "五项均仅得到权限验证页；作者、ISBN、法文题名直连超时后用10808重试仍显示验证过于频繁。无可判读的目录检索结果，停止重试此入口。",
     "source": "https://vufind.library.sh.cn/Search/Results"
+  },
+  "dku_check": {
+    "source": "https://library.dukekunshan.edu.cn/",
+    "scope": "Books and Media 表单实际指向 dukekunshan.summon.serialssolutions.com/en/，searchscope=Library Catalog",
+    "result": "测试 /2.0.0/search 以卷一 ISBN 查询，直连及10808均返回400，响应 Language not Supported by this Site。此路径未验证为有效查询接口，馆藏状态未知。"
   }
 }
