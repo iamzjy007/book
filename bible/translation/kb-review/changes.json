@@ -1,0 +1,1907 @@
+{
+  "framework_revision": "43113c34ab76f00ecb595bef5b9166fd33648d26",
+  "framework": "3c7fa39b3b4c3a4c591ac9ea85dfcebdf1925ae6",
+  "epub_sha256": "160da969e03e36ee4358982e1ae3ea6710f17941b540c1c21155f6330bdce9c6",
+  "baseline": {
+    "1-maccabees": "9a44d7c0f74276fc28ec5ac4ecaac914642c2f2a162351e4fa4cfc04983e4b40",
+    "2-esdras": "099adfcb906f7c78ac297f9d39493bfb4f7a7304fb0cae57944672209a7e6ad3",
+    "2-maccabees": "089d56bc287de0fa4971d2c8a16a95a7bbfc8daab7a391b71e7d342b05e59518",
+    "1-esdras": "b052294a14d39db920b14a38b6a94fcb7e06fe2b47dfd6a19ecdf80852d6bbe9",
+    "3-maccabees": "f32f33f0886112b40b5ebc9bb2847c881599615c5cc01845f46dcf3362640507",
+    "1-enoch": "14478810e2bd88a65283efa4241d3119e93ec078cf4245e3da6cd7a3d8173ae6",
+    "tobit": "d502225574cb1885a9b36e356f15102470d748e8aebe5c8efe2aa46b6cde471b",
+    "wisdom": "e8343089e59664b717600ad400ba369eefbaa5ed15b24f8991f69c8027b5e090",
+    "1-baruch": "5d5afaed46289cc34bd372bf85493c6096e87d212ebe5ef7e307312114e99767",
+    "4-maccabees": "18ad1b25e3f5e1fd1ac6b5be34a781c9b3e667dcff7aadd882a94e5f85e81ae1",
+    "revelation-of-peter": "79683eb24035bd0551f92497db65dc31091616773e2e4bf68f17c2cc679a3fb4",
+    "didache": "bf182aedff5ba603fc83ed6435fc19098c292dc0d74be736d7dc3e7b38b613f7",
+    "the-shepherd-of-hermas": "46ee734939187d47480aa250d703dbcdaf6a8cb8ecf1c58c291fe9de04f87e0e",
+    "judith": "2c78cb9a994c2d6e307374dc71f8c57df5d5e37264e37ab061a3204f5d8186f8",
+    "apocryphal-esther": "cf13c4a974970e5803b476e86592ad41fae5a21f787c5d3d438b085ddd316862",
+    "jubilees": "89bc224b93c9559d98982fb20c6ea23c2a713383d0cfc149418597c3dd859ed2",
+    "apocryphal-daniel": "8b65dfc610ad75a0c4df737357c9e5df620a048b0b9e6ef89ddeed142df403e8",
+    "sirach": "4233f79bf377b1254cb62b3fa18271e5ab610b9ddf4e12207d97326cf1ea16a1",
+    "testaments-of-the-twelve-patriarchs": "a2ac0401eb0a678d9ee61c7c237955a84b32fcaeaa21ee001b76da0eb607f8cd",
+    "jasher": "e6830bd60bb7e7112a416977803b3262932a73c8de7f202197a2699639048a1b"
+  },
+  "edits": [
+    {
+      "book": "1-maccabees",
+      "work": "马加比一书",
+      "unit": "c980",
+      "block": "p0046",
+      "section": "CHAPTER 11",
+      "verse": "45",
+      "en": "And they of the city gathered themselves together into the midst of the city, to the number of one hundred and twenty thousand men, and they were inclined to kill the king.",
+      "before": "城中的人聚集在城内，人数达到十二万，意图杀王。",
+      "after": "城里的人聚到城中央，共有十二万人，想要杀王。",
+      "category": "地点与语势",
+      "reason": "into the midst of the city 指城中央。"
+    },
+    {
+      "book": "2-esdras",
+      "work": "以斯拉二书",
+      "unit": "c9HT",
+      "block": "p0018",
+      "section": "CHAPTER 6",
+      "verse": "17",
+      "en": "And it happened, that when I had heard it I stood up on my feet, and listened, and behold, there was a voice that spoke, and the sound of it was like the sound of many waters.",
+      "before": "我听了，就站起来，留心听。看哪，有声音说话，声响如同众水。",
+      "after": "我听了，就站起来，留心听。看哪，我听见说话的声音，那声音如同众水的声音。",
+      "category": "异象叙述",
+      "reason": "让“声音”收束到众水的比喻，保留声响与声音的照应。"
+    },
+    {
+      "book": "2-esdras",
+      "work": "以斯拉二书",
+      "unit": "c9J1",
+      "block": "p0119",
+      "section": "CHAPTER 7",
+      "verse": "118",
+      "en": "O you Adam! What have you done? For though it was you that sinned, the evil is not fallen on you alone, but on all of us that come of you.",
+      "before": "哦，亚当，你做了什么！虽然犯罪的是你，灾祸却不单临到你，也临到我们所有出于你的人。",
+      "after": "亚当啊，你做了什么？犯罪的虽是你，灾祸却不单临到你，也临到我们所有作你后裔的人。",
+      "category": "呼告与问句",
+      "reason": "保留 What have you done 的问句，come of you 指亚当的后裔。",
+      "earlier": [
+        "亚当啊，你做了什么？犯罪的虽是你，灾祸却不单临到你，也临到我们这些后裔。"
+      ]
+    },
+    {
+      "book": "2-maccabees",
+      "work": "马加比二书",
+      "unit": "c9C1",
+      "block": "p0024",
+      "section": "CHAPTER 10",
+      "verse": "23",
+      "en": "And prospering with his arms in all things he took in hand, he destroyed in the two strongholds more than twenty thousand.",
+      "before": "他所进行的一切战事都很顺利，在这两座堡垒中歼灭了两万多人。",
+      "after": "他凡出战，都很顺利，在这两座堡垒中歼灭了两万多人。",
+      "category": "叙事动词",
+      "reason": "使 prospering with his arms 落在出战得利，免去办事公文语气。"
+    },
+    {
+      "book": "1-esdras",
+      "work": "以斯拉一书",
+      "unit": "c9F5",
+      "block": "p0005",
+      "section": "CHAPTER 6",
+      "verse": "4",
+      "en": "“By whose appointment do you build this house and this roof, and perform all the other things? and who are the builders that perform these things?”",
+      "before": "“谁准许你们建造这殿、这屋顶，并进行其他一切工程？承担这些工程的是什么人？”",
+      "after": "“你们奉谁的命建这殿、架这屋顶，又做其余各样工程？动手建造的是哪些人？”",
+      "category": "动宾与问句",
+      "reason": "建殿、架设屋顶和其余工程分别落实，保留连续两问。",
+      "earlier": [
+        "“你们奉谁的命建这殿、架这屋顶，又做这一切别的工？做这些工的是谁？”"
+      ]
+    },
+    {
+      "book": "3-maccabees",
+      "work": "马加比三书",
+      "unit": "c9NB",
+      "block": "p0003",
+      "section": "CHAPTER 3",
+      "verse": "2",
+      "en": "While this was going on, an invidious rumor was uttered abroad by men who had banded together to injure the Jewish race. The purport of their charge was that the Jews kept them away from the ordinances of the law.",
+      "before": "这事进行的时候，那些结伙谋害犹太民族的人四处散布恶意的谣言，指控犹太人不让他们参与律法的礼仪。",
+      "after": "这时，有人结伙要加害犹太人，四处散布恶意的谣言，指控犹太人不让他们参与律法的礼仪。",
+      "category": "叙事节奏",
+      "reason": "While this was going on 作时间引子，下文交代所散布的谣言。"
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBXW",
+      "block": "p0064",
+      "section": "CHAPTER 89",
+      "verse": "63",
+      "en": "And read out before Me by number how many they destroy and how many they deliver over for destruction, that I may have this as a testimony against them, and know every deed of the shepherds, that I may comprehend and see what they do, whether or not they abide by My command which I have commanded them.",
+      "before": "要按数目在我面前读出，他们杀了多少，又将多少交给毁灭，使我有凭据指证他们，知道牧羊人的每一项行为，明白并看清他们所做的，是否遵守我所吩咐的命令。",
+      "after": "要按数目在我面前读出，他们杀了多少，又交出了多少，任其灭亡，使我有凭据指证他们，知道牧羊人的每一项行为，明白并看清他们所做的，是否遵守我所吩咐的命令。",
+      "category": "动词受事",
+      "reason": "deliver over for destruction 描述交付以至毁灭；“交给毁灭”误把结局当成受领者。"
+    },
+    {
+      "book": "tobit",
+      "work": "多比传",
+      "unit": "c8B1",
+      "block": "p0012",
+      "section": "CHAPTER 5",
+      "verse": "11",
+      "en": "He said to him, “Do you seek a tribe and a family, or a hired man which will go with your son?” And Tobit said to him, “I want to know, brother, your relatives and your name.”",
+      "before": "他回答：“你要找的是支派和家族，还是一个雇来陪你儿子走路的人？”多比说：“弟兄，我想知道你的亲族和名字。”",
+      "after": "他回答：“你要找的是支派和家族，还是一个受雇与你儿子同行的人？”多比说：“弟兄，我想知道你的亲族和名字。”",
+      "category": "叙事语域",
+      "reason": "go with your son 指陪同上路，辨明旅伴受雇的身份。"
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8P2",
+      "block": "p0014",
+      "section": "CHAPTER 19",
+      "verse": "13",
+      "en": "Punishments came on the sinners, || Not without the signs that were given beforehand by the force of the thunders; For they justly suffered through their own wickedness, || For the hatred which they practiced toward guests was grievous indeed.",
+      "before": "刑罚临到罪人以前，猛烈的雷声已经发出预兆。他们因自己的恶行受苦，实属公义，因为他们仇视客旅的行为极其恶劣。",
+      "after": "刑罚临到罪人以前，猛烈的雷声已经发出预兆。他们因自己的恶行受苦，实属公义，因为他们对客旅的仇恨实在深重。",
+      "category": "训诲语气",
+      "reason": "把 hatred toward guests 落回人的恨意，去掉抽象的行为评价。",
+      "earlier": [
+        "刑罚临到罪人以前，猛烈的雷声已经发出预兆。他们因自己的恶行受苦，实属公义，因为他们待客旅实在深怀恨意。"
+      ]
+    },
+    {
+      "book": "1-baruch",
+      "work": "巴录一书",
+      "unit": "c94B",
+      "block": "p0003",
+      "section": "CHAPTER 3",
+      "verse": "2",
+      "en": "Hear, O Lord, and have mercy; for You are a merciful God: yes, have mercy on us, because we have sinned before You.",
+      "before": "主啊，求你垂听，施行怜悯，因为你是怜悯人的神；求你怜悯我们，因为我们在你面前犯了罪。",
+      "after": "主啊，求你垂听，求你怜悯，因为你是怜悯人的神。求你怜悯我们，因为我们在你面前犯了罪。",
+      "category": "祷告排比",
+      "reason": "反复的 have mercy 用祈求动词承接，避开“施行怜悯”的生硬搭配。"
+    },
+    {
+      "book": "2-esdras",
+      "work": "以斯拉二书",
+      "unit": "c9J9",
+      "block": "p0033",
+      "section": "CHAPTER 8",
+      "verse": "32",
+      "en": "For if You have a desire to have mercy on us, then You will be called merciful, to us, namely, that have no works of righteousness.",
+      "before": "祢若愿意怜悯我们这些没有义行的人，就必显出祢是满有怜悯的。",
+      "after": "祢若愿意怜悯我们这些没有义行的人，人就必称祢满有怜悯。",
+      "category": "谓语",
+      "reason": "will be called 说的是称呼；保留原稿对祷告对象的“祢”。"
+    },
+    {
+      "book": "4-maccabees",
+      "work": "马加比四书",
+      "unit": "c9UD",
+      "block": "p0009",
+      "section": "CHAPTER 15",
+      "verse": "8",
+      "en": "yet, through fear of God, she neglected the temporary salvation of her children.",
+      "before": "然而，因着敬畏神，她不顾儿女暂时的保全。",
+      "after": "然而，她敬畏神，连儿女眼前的性命也顾不得了。",
+      "category": "论说与动宾",
+      "reason": "在受难语境，temporary salvation 指当下保全性命。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4E",
+      "block": "p0003",
+      "section": "CHAPTER 1",
+      "verse": "2",
+      "en": "And he [(Peter)] pondered thereon, that he might perceive the mystery of the Son of God, the merciful and lover of mercy.",
+      "before": "他〔彼得〕思想这些事，要明白神儿子的奥秘；他满有怜悯，也喜爱怜悯。",
+      "after": "他〔彼得〕思想这些事，要明白神儿子的奥秘。这位神的儿子满有怜悯，也喜爱怜悯。",
+      "category": "代词先行词",
+      "reason": "the merciful and lover of mercy 修饰神的儿子；句首的彼得是思想的人。"
+    },
+    {
+      "book": "didache",
+      "work": "十二使徒遗训",
+      "unit": "cFSV",
+      "block": "p0010",
+      "section": "CHAPTER 4",
+      "verse": "9",
+      "en": "You will not withhold your hand from your son or from your daughter, but you will teach them the fear of God from their youth up.",
+      "before": "不可放任你的儿女，却要从幼年教导他们敬畏神。",
+      "after": "不可放任你的儿女，要趁他们年幼，教导他们敬畏神。",
+      "category": "年龄与施受",
+      "reason": "from their youth up 的年幼指儿女。"
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBYG",
+      "block": "p0018",
+      "section": "CHAPTER 91",
+      "verse": "18",
+      "en": "And now I tell you, my sons, || And show you the paths of righteousness and the paths of violence. Yes, I will show them to you again || That you may know what will come to pass.",
+      "before": "现在，我的孩子们，我告诉你们，向你们显明公义的道路和强暴的道路。是的，我要再次显明，使你们知道将要发生的事。",
+      "after": "我的孩子们，如今我要告诉你们，也要把义路和强暴之路指给你们看。是的，我要再指给你们看，好叫你们知道将要发生的事。",
+      "category": "智慧文学对举",
+      "reason": "paths of righteousness 可参诗23:3的“义路”，保留与强暴之路的对举。",
+      "earlier": [
+        "现在，我的孩子们，我告诉你们，把义路和强暴之路指给你们看。是的，我要再次显明，使你们知道将要发生的事。"
+      ]
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBYG",
+      "block": "p0019",
+      "section": "CHAPTER 91",
+      "verse": "19",
+      "en": "And now, listen to me, my sons, || And walk in the paths of righteousness, || And do not walk in the paths of violence, || For all who walk in the paths of unrighteousness will perish forever.”",
+      "before": "现在，我的孩子们，要听从我，行在公义的道路上，不要行强暴的道路；因为凡行不义之路的，都必永远灭亡。”",
+      "after": "现在，我的孩子们，要听从我，要走义路，不要走强暴之路；因为凡走不义之路的，都必永远灭亡。”",
+      "category": "训诲节奏",
+      "reason": "紧接上节再用“义路”，换成自然的走路搭配；保留警告。"
+    },
+    {
+      "book": "the-shepherd-of-hermas",
+      "work": "黑马牧人书",
+      "unit": "cJDW",
+      "block": "p0132",
+      "section": "VISION 3",
+      "verse": "70",
+      "en": "Now, therefore, listen to me, and be at peace one with another, and visit each other, and bear each other’s burdens, and do not partake of God’s creatures alone, but give abundantly of them to the needy.",
+      "before": "所以，如今要听我的话，彼此和睦，互相关顾，担当彼此的重担；不要独自享用神所造的，要丰丰富富地分给有需要的人。",
+      "after": "所以，如今要听我的话，彼此和睦，彼此探望，互相担当重担；不要独自享用神所造的，要丰丰富富地分给有需要的人。",
+      "category": "互指与具体动作",
+      "reason": "visit 不仅是关顾。加6:2提供“互相担当”的搭配。"
+    },
+    {
+      "book": "judith",
+      "work": "犹滴传",
+      "unit": "c8G4",
+      "block": "p0017",
+      "section": "CHAPTER 13",
+      "verse": "16",
+      "en": "And as the Lord lives, who preserved me in my way that I went, my countenance deceived him to his destruction, and he did not commit sin with me, to defile and shame me.”",
+      "before": "我指着在所行路上保守我的永生之主起誓：我的容貌迷惑他，使他灭亡，他却没有与我犯罪，玷污我，使我蒙羞。”",
+      "after": "我指着在所行路上保守我的永生之主起誓：我的容貌迷惑他，使他灭亡，他却未曾与我行不洁的事，我也没有受玷污、蒙羞。”",
+      "category": "否定辖域",
+      "reason": "末两项说明未发生的玷污与羞辱。",
+      "earlier": [
+        "我指着在所行路上保守我的永生之主起誓：我的容貌迷惑他，使他灭亡，他却没有与我犯罪，也没有玷污我、使我蒙羞。”"
+      ]
+    },
+    {
+      "book": "apocryphal-esther",
+      "work": "以斯帖补篇",
+      "unit": "c85C",
+      "block": "p0018",
+      "section": "CHAPTER 13",
+      "verse": "17",
+      "en": "Hear my supplication, and be merciful to Your lot and inheritance, and turn our mourning into joy, that we may live and praise Your Name, O Lord, and do not shut the mouths of them that sing to You.”",
+      "before": "主啊，求你垂听我的恳求，怜悯你所得的子民和产业，使我们的哀哭变为喜乐，叫我们得以存活，赞美你的名；求你不要封住那些向你歌唱之人的口。”",
+      "after": "主啊，求你垂听我的恳求，怜悯你所得的子民和产业，使我们的哀哭变为喜乐，叫我们得以存活，赞美你的名；求你不要封住向你歌唱之人的口。”",
+      "category": "祷告语气",
+      "reason": "those that 是关系从句，中文不用“那些”也能指明唱诗的人。"
+    },
+    {
+      "book": "jubilees",
+      "work": "禧年书",
+      "unit": "cB33",
+      "block": "p0027",
+      "section": "CHAPTER 23",
+      "verse": "26",
+      "en": "And in those days the children will begin to study the laws, and to seek the commands, and to return to the path of righteousness.",
+      "before": "那些日子，儿女必开始学习律法，寻求诫命，回到公义的道路。",
+      "after": "那些日子，儿女必开始学习律法，寻求诫命，重归义路。",
+      "category": "智慧文学搭配",
+      "reason": "return to the path of righteousness 借用诗23:3的“义路”，留下“重归”的动作。"
+    },
+    {
+      "book": "apocryphal-esther",
+      "work": "以斯帖补篇",
+      "unit": "c861",
+      "block": "p0002",
+      "section": "CHAPTER 16",
+      "verse": "1",
+      "en": "The great King Artaxerxes, from India to Ethiopia, to the governors and princes of one hundred and twenty-seven provinces, which obey our command, sends greetings.",
+      "before": "“亚达薛西大王向从印度直到古实、听从我们命令的一百二十七省的总督和首领问安。",
+      "after": "“亚达薛西大王向各省的总督和首领问安。从印度直到古实，听从我们命令的共有一百二十七省。",
+      "category": "诏书语序",
+      "reason": "拆开多重定语，保留辖境、对象和服从王命三项。",
+      "earlier": [
+        "“在从印度直到古实、听从我们命令的一百二十七省中，各省的总督和首领，亚达薛西大王向你们问安。"
+      ]
+    },
+    {
+      "book": "apocryphal-esther",
+      "work": "以斯帖补篇",
+      "unit": "c85U",
+      "block": "p0008",
+      "section": "CHAPTER 15",
+      "verse": "7",
+      "en": "And the other maid followed her lady, bearing up her train flowing on the ground.",
+      "before": "另一个侍女跟在女主人后面，托着拖在地上的长裙。",
+      "after": "另一个侍女跟在女主人后面，捧着她曳地的裙裾。",
+      "category": "词义",
+      "reason": "train 指拖在地上的裙裾，并非整件长裙。",
+      "earlier": [
+        "另一个侍女跟在女主人后面，托着逶迤在地的裙裾。",
+        "另一个侍女跟在女主人后面，捧着女主人曳地的裙裾。"
+      ]
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8N2",
+      "block": "p0008",
+      "section": "CHAPTER 15",
+      "verse": "7",
+      "en": "For a potter, kneading soft earth, laboriously molds each article for our service. He fashions out of the same clay both the vessels that minister to clean uses, || And those of a contrary sort, all in like manner. What will be the use of each article of either sort—the potter is the judge.",
+      "before": "陶匠揉捏软土，辛劳塑造各样物件，供我们使用；他用同一团泥，以同样的方法，造洁净用途的器皿，也造相反用途的器皿。每件究竟作何用途，由陶匠决定。",
+      "after": "陶匠揉捏软土，辛劳塑造各样物件，供我们使用；他用同一团泥，照同样的方法，做器皿供洁净之用，也做器皿供不洁之用。每件器皿作什么用，由陶匠决定。",
+      "category": "智慧文学对举",
+      "reason": "the contrary sort 承相对的用途，把抽象的“相反用途”还原为具体对举。"
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8JU",
+      "block": "p0006",
+      "section": "CHAPTER 6",
+      "verse": "5",
+      "en": "He will come on you awfully and swiftly, || Because a stern judgment comes on those who are in high places.",
+      "before": "他必可畏而迅速地临到你们，因为严厉的审判将临到身居高位的人。",
+      "after": "他必速速临到你们，叫人敬畏；因为身居高位的人，必受严厉的审判。",
+      "category": "节奏与施受",
+      "reason": "awfully 和 swiftly 共同描述来临，分开两层；保留受审对象。"
+    },
+    {
+      "book": "apocryphal-daniel",
+      "work": "但以理补篇",
+      "unit": "c888",
+      "block": "p0017",
+      "section": "CHAPTER 3B",
+      "verse": "16",
+      "en": "Nevertheless, in a contrite heart and a humble spirit let us be accepted,",
+      "before": "然而，求你悦纳我们这心存痛悔、灵里谦卑的人，",
+      "after": "然而，我们心里痛悔，灵里谦卑，求你悦纳我们，",
+      "category": "祷告句法",
+      "reason": "in a contrite heart and a humble spirit 说祈求者以怎样的心来到神面前。"
+    },
+    {
+      "book": "1-baruch",
+      "work": "耶利米书信",
+      "unit": "c94V",
+      "block": "p0068",
+      "section": "EPISTLE OF JEREMIAH",
+      "verse": "57",
+      "en": "Neither are those gods of wood, and overlaid with silver or with gold, able to escape either from thieves or robbers.",
+      "before": "这些包银镀金的木头神像，也不能逃脱小偷和强盗。",
+      "after": "这些木头神像外面虽包着银或金，却逃不过盗贼和强盗。",
+      "category": "并列逻辑",
+      "reason": "overlaid with silver or with gold 是二者择一；避免写成每尊兼有金银。",
+      "earlier": [
+        "这些木头神像，即使用银或金包裹，也逃不过盗贼和强盗。"
+      ]
+    },
+    {
+      "book": "sirach",
+      "work": "便西拉智训",
+      "unit": "c8RR",
+      "block": "p0015",
+      "section": "CHAPTER 5",
+      "verse": "14",
+      "en": "Do not be called a whisperer. Do not lie in wait with your tongue; For shame is on the thief, || And an evil condemnation is on him who has a double tongue.",
+      "before": "不要让人称你为搬弄是非的人，也不可用舌头设伏；因为羞辱必临到窃贼，严厉的定罪必临到口舌反复的人。",
+      "after": "不要让人称你为搬弄是非的人，也不可用舌头设伏；因为羞辱必临到窃贼，说两样话的人也必受严厉的判决。",
+      "category": "修辞与词义",
+      "reason": "double tongue 强调两面说话；condemnation 用自然的受判动词。"
+    },
+    {
+      "book": "2-esdras",
+      "work": "以斯拉二书",
+      "unit": "c9M9",
+      "block": "p0008",
+      "section": "CHAPTER 16",
+      "verse": "7",
+      "en": "May one turn again the arrow that is shot of a strong archer?",
+      "before": "大能弓箭手射出的箭，谁能使它折回？",
+      "after": "勇士射出去的箭，谁能使它折回？",
+      "category": "动宾搭配",
+      "reason": "strong archer 指善射有力之人；与“射出去的箭”合读。"
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBW5",
+      "block": "p0016",
+      "section": "CHAPTER 82",
+      "verse": "15",
+      "en": "In the beginning of the year Melkejal rises first and rules, who is named Tam’aini and Sun, and all the days of his dominion while he bears rule are ninety-one days.",
+      "before": "年初，玛基雅首先兴起掌权，他又名谭玛耶和太阳；他掌权的全部日子，共九十一日。",
+      "after": "年初，玛基雅首先兴起掌权，他又名谭玛耶和太阳；他掌权的日子共九十一日。",
+      "category": "重复与计数",
+      "reason": "全部与共语义重叠，保留数目以及掌权的时段。"
+    },
+    {
+      "book": "3-maccabees",
+      "work": "马加比三书",
+      "unit": "c9MV",
+      "block": "p0026",
+      "section": "CHAPTER 1",
+      "verse": "25",
+      "en": "The elders who surrounded the king tried in many ways to divert his arrogant mind from the design which he had formed.",
+      "before": "王身旁的长老想尽办法，要使他那傲慢的心转离既定的图谋。",
+      "after": "王身旁的长老多方劝他，要这傲慢的王打消原先的图谋。",
+      "category": "谓语与指代",
+      "reason": "divert his arrogant mind from the design 写劝王放弃自己的图谋。"
+    },
+    {
+      "book": "tobit",
+      "work": "多比传",
+      "unit": "c8A5",
+      "block": "p0016",
+      "section": "CHAPTER 1",
+      "verse": "15",
+      "en": "And when Enemessar was dead, Sennacherib his son reigned in his place. In his time, the highways were troubled, and I could no longer go into Media.",
+      "before": "以尼米撒死后，他儿子西拿基立接续作王。那时道路不靖，我不能再到玛代去。",
+      "after": "以尼米撒死后，他儿子西拿基立接续作王。那时路上不太平，我不能再往玛代去。",
+      "category": "叙事语域",
+      "reason": "highways were troubled 用当代可朗读的叙事口吻表达。"
+    },
+    {
+      "book": "sirach",
+      "work": "便西拉智训",
+      "unit": "c8RZ",
+      "block": "p0022",
+      "section": "CHAPTER 6",
+      "verse": "21",
+      "en": "She will rest on him as a mighty stone of trial. He will not hesitate to cast her from him.",
+      "before": "她如沉重的试炼之石压在他身上，他便急忙将她抛开。",
+      "after": "她如沉重的试炼之石压在他身上，他便毫不迟疑地把她抛开。",
+      "category": "动作方式",
+      "reason": "not hesitate 说毫不迟疑，未说明动作仓促。"
+    },
+    {
+      "book": "judith",
+      "work": "犹滴传",
+      "unit": "c8EU",
+      "block": "p0011",
+      "section": "CHAPTER 7",
+      "verse": "10",
+      "en": "For this people of the sons of Israel do not trust in their spears, but in the height of the mountains wherein they dwell, for it is not easy to come up to the tops of their mountains.",
+      "before": "以色列这百姓所倚靠的，不是枪矛，而是居住之山的高峻，因为要上到他们的山顶，实在不容易。",
+      "after": "以色列人不倚靠枪矛。他们倚靠自己所住的高山，因为那些山顶不容易上去。",
+      "category": "叙事句法",
+      "reason": "height of the mountains wherein they dwell 指居地的地势；下半节说明何以倚靠。",
+      "earlier": [
+        "以色列这百姓所倚靠的，不是枪矛，而是他们所住的山高峻险要，因为要上到他们的山顶，实在不容易。"
+      ]
+    },
+    {
+      "book": "testaments-of-the-twelve-patriarchs",
+      "work": "十二族长遗训",
+      "unit": "c9WT",
+      "block": "p0002",
+      "section": "CHAPTER 1",
+      "verse": "1",
+      "en": "The copy of the Testament of Reuben, even the commands which he gave his sons before he died in the one hundred and twenty-fifth year of his life.",
+      "before": "以下是流便的遗训，就是他一百二十五岁临终以前，给儿子们的吩咐。",
+      "after": "这是流便遗训的抄本，记下他一百二十五岁临终前给众子的吩咐。",
+      "category": "文书身份",
+      "reason": "恢复 the copy of；遗训内容与抄本的身份分别交代。"
+    },
+    {
+      "book": "testaments-of-the-twelve-patriarchs",
+      "work": "十二族长遗训",
+      "unit": "c9YG",
+      "block": "p0002",
+      "section": "CHAPTER 1",
+      "verse": "1",
+      "en": "The copy of the words of Simeon, the things which he spoke to his sons before he died, in the one hundred and twentieth year of his life, at which time his brother Joseph died.",
+      "before": "以下是西缅的话，就是他一百二十岁临终以前，对儿子们所说的；那时，他的兄弟约瑟也死了。",
+      "after": "这是西缅话语的抄本，记下他一百二十岁临终前对众子所说的话；那时，他的兄弟约瑟也死了。",
+      "category": "抄本题记",
+      "reason": "与邻篇相同的 the copy of the words 交代文书身份。"
+    },
+    {
+      "book": "testaments-of-the-twelve-patriarchs",
+      "work": "十二族长遗训",
+      "unit": "cA0N",
+      "block": "p0002",
+      "section": "CHAPTER 1",
+      "verse": "1",
+      "en": "The copy of the words of Levi, the things which he ordained to his sons, according to all that they should do, and what things should befall them until the Day of Judgment.",
+      "before": "以下是利未的话，就是他对儿子们所定的训诲，论到他们当行的一切，以及直到审判之日将临到他们的事。",
+      "after": "这是利未话语的抄本，记下他对众子的训诲，论到他们当行的一切，以及直到审判之日将临到他们的事。",
+      "category": "抄本题记",
+      "reason": "卷内同类题记相互校验，补回 copy。"
+    },
+    {
+      "book": "testaments-of-the-twelve-patriarchs",
+      "work": "十二族长遗训",
+      "unit": "cA50",
+      "block": "p0002",
+      "section": "CHAPTER 1",
+      "verse": "1",
+      "en": "The copy of the words of Judah, what things he spoke to his sons before he died.",
+      "before": "这是犹大临终前对儿子们所说的话。",
+      "after": "这是犹大话语的抄本，记下他临终前对众子所说的话。",
+      "category": "抄本题记",
+      "reason": "交代英文明确写出的抄本身份。"
+    },
+    {
+      "book": "testaments-of-the-twelve-patriarchs",
+      "work": "十二族长遗训",
+      "unit": "cAV9",
+      "block": "p0002",
+      "section": "CHAPTER 1",
+      "verse": "1",
+      "en": "The copy of the words of Benjamin, which he commanded his sons to observe after he had lived one hundred and twenty-five years.",
+      "before": "以下是便雅悯的话，就是他活到一百二十五岁时，吩咐儿子们遵守的。",
+      "after": "这是便雅悯话语的抄本。他一百二十五岁时，吩咐众子遵守这些话。",
+      "category": "抄本题记",
+      "reason": "保留抄本身份、年龄及嘱咐的对象。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c19CK",
+      "block": "p0003",
+      "section": "CHAPTER 27",
+      "verse": "2",
+      "en": "And Nimrod king of Babel, the same was Amraphel, also frequently went with his mighty men to hunt in the field, and to walk around with his men in the cool of the day.",
+      "before": "巴别王宁录，就是暗拉非，也常带着勇士到田野打猎，在天起凉风时与部下一同巡视。",
+      "after": "巴别王宁录，就是暗拉非，也常带着勇士到田野打猎，在天起凉风时与随行的人四处走走。",
+      "category": "词义",
+      "reason": "walk around 只说同行走动，未写巡视的公务目的。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c19D8",
+      "block": "p0009",
+      "section": "CHAPTER 30",
+      "verse": "8",
+      "en": "And when Jacob saw Rachel, the daughter of Laban, his mother’s brother, he ran and kissed her, and lifted up his voice and wept.",
+      "before": "雅各看见母亲的兄弟拉班的女儿拉结，就跑上前亲吻她，放声而哭。",
+      "after": "雅各看见舅父拉班的女儿拉结，就跑上前亲吻她，放声而哭。",
+      "category": "亲属关系与句法",
+      "reason": "his mother's brother 在汉语中可用舅父表达，保留拉班与拉结两代关系。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c198E",
+      "block": "p0003",
+      "section": "CHAPTER 8",
+      "verse": "2",
+      "en": "And when all the wise men and conjurers went out from the house of Terah, they lifted up their eyes toward the heavens that night to look at the stars, and they saw, and behold, one very large star came from the east and ran in the heavens, and he swallowed up the four stars from the four sides of the heavens.",
+      "before": "智慧人和术士离开他拉家时，举目望天，察看星辰；看哪，有一颗极大的星从东方而来，运行天上，吞了天四方的四颗星。",
+      "after": "那夜，智慧人和术士离了他拉的家，举目望天，察看星辰。看哪，一颗极大的星从东方而来，划过天空，吞了天四方的四颗星。",
+      "category": "动作意象",
+      "reason": "英文交代that night；同时保留ran in the heavens 的运动和从四方吞星的异象。",
+      "earlier": [
+        "智慧人和术士离开他拉家时，举目望天，察看星辰；看哪，有一颗极大的星从东方而来，划过天空，吞了天四方的四颗星。"
+      ]
+    },
+    {
+      "book": "2-maccabees",
+      "work": "马加比二书",
+      "unit": "c9D1",
+      "block": "p0018",
+      "section": "CHAPTER 14",
+      "verse": "17",
+      "en": "But Simon, the brother of Judas, had encountered Nicanor, yet not until late, having received a check by reason of the sudden consternation caused by his adversaries.",
+      "before": "犹大的兄弟西门与尼加诺交锋，却因敌军骤然引发的惊慌而受挫，迟了一步。",
+      "after": "犹大的兄弟西门因敌军骤然引起的惊慌而受挫，到后来才与尼加诺交锋。",
+      "category": "时间与范围",
+      "reason": "not until late 修饰交锋时间；没有说西门比某一方迟了一步。"
+    },
+    {
+      "book": "2-maccabees",
+      "work": "马加比二书",
+      "unit": "c9A9",
+      "block": "p0009",
+      "section": "CHAPTER 3",
+      "verse": "8",
+      "en": "So out with Heliodorus took his journey, under a color of visiting the cities of Coele-Syria and Phoenicia, but in fact to execute the king’s purpose.",
+      "before": "希流多若随即起程，表面上是巡视基利叙利亚和腓尼基各城，实际上却是要执行王的意图。",
+      "after": "希流多若随即起程，假称巡视基利叙利亚和腓尼基各城，其实是去办王吩咐的事。",
+      "category": "词义与搭配",
+      "reason": "under a color of 是借口；“执行意图”搭配生硬。",
+      "earlier": [
+        "希流多若随即起程，假称巡视基利叙利亚和腓尼基各城，其实是要成就王的意图。"
+      ]
+    },
+    {
+      "book": "4-maccabees",
+      "work": "马加比四书",
+      "unit": "c9S5",
+      "block": "p0017",
+      "section": "CHAPTER 6",
+      "verse": "16",
+      "en": "And Eleazar, as though the advice more painfully tortured him, cried out,",
+      "before": "这建议仿佛使以利亚撒受了更痛苦的折磨，他高声说：",
+      "after": "以利亚撒听了这番劝告，仿佛比受刑还痛苦，就高声说：",
+      "category": "比较与承接",
+      "reason": "the advice 指前文的劝告，比较的是它引起的痛苦。"
+    },
+    {
+      "book": "4-maccabees",
+      "work": "马加比四书",
+      "unit": "c9SX",
+      "block": "p0006",
+      "section": "CHAPTER 9",
+      "verse": "5",
+      "en": "And you think to scare us, by threatening us with death by tortures, as though you had learned nothing by the death of Eleazar.",
+      "before": "你竟想用酷刑致死的威胁恐吓我们，仿佛从以利亚撒的死，你什么也没有学到。",
+      "after": "你威吓我们，说要用酷刑置我们于死地，仿佛以利亚撒的死什么也没教会你。",
+      "category": "论辩口吻",
+      "reason": "保留直接向对方说话的语气，拆解“威胁恐吓”的重复。",
+      "earlier": [
+        "你拿受酷刑而死来威吓我们，仿佛以利亚撒的死什么也没教会你。"
+      ]
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c19FW",
+      "block": "p0036",
+      "section": "CHAPTER 42",
+      "verse": "35",
+      "en": "Rise, O my mother, rise! Awake from your sleep and see my father—how his soul is with me this day, and comfort him and ease his heart!”",
+      "before": "起来，哦，我母亲，起来！从睡梦中醒来，看看我父亲，今日他的心仍与我在一起；求你安慰他，使他的心宽慰！”",
+      "after": "起来，母亲啊，起来吧！从睡梦中醒来，看看我父亲；今日他的心仍与我在一起。求你安慰他，叫他的心宽舒！”",
+      "category": "哀歌呼告",
+      "reason": "将称呼嵌进反复的动词，保留哀恳的两层请求。"
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBUM",
+      "block": "p0003",
+      "section": "CHAPTER 75",
+      "verse": "2",
+      "en": "And owing to them men go wrong therein, for those luminaries truly render service on the world-stations, one in the first portal, one in the third portal of heaven, one in the fourth portal, and one in the sixth portal, and the exactness of the year is accomplished through its separate three hundred and sixty-four stations.",
+      "before": "人因此在计算中出错；其实这些光体都忠实地在世界所定的位置供职，一个在第一道门，一个在天的第三道门，一个在第四道门，一个在第六道门。一年借着三百六十四个各别的位置，准确完成。",
+      "after": "人因此在计算中出错；其实这些光体都忠实地在世界所定的位置供职，一个在第一道门，一个在天的第三道门，一个在第四道门，一个在第六道门。全年分为三百六十四个位置，由此可准确计算一年的长短。",
+      "category": "天文说明",
+      "reason": "the exactness of the year 联系前文计算，避免把一年说成被完成的事。",
+      "earlier": [
+        "人因此在计算中出错；其实这些光体都忠实地在世界所定的位置供职，一个在第一道门，一个在天的第三道门，一个在第四道门，一个在第六道门。这三百六十四个位置各有其分，一年的数目由此得以算准。"
+      ]
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8K2",
+      "block": "p0011",
+      "section": "CHAPTER 7",
+      "verse": "10",
+      "en": "I loved her more than health and beauty, || And I chose to have her rather than light, || Because her bright shining is never laid to sleep.",
+      "before": "我爱她胜过健康和美貌，宁愿得她，也不要光明，因为她的光辉从不沉睡。",
+      "after": "我爱她胜过健康和美貌，在她和光明之间，我拣选了她，因为她的光辉从不沉睡。",
+      "category": "比较范围",
+      "reason": "rather than 作比较；所爱的是智慧，毋须另说弃绝光明。",
+      "earlier": [
+        "我爱她胜过健康和美貌，宁取她，胜过光明，因为她的光辉从不沉睡。"
+      ]
+    },
+    {
+      "book": "jubilees",
+      "work": "禧年书",
+      "unit": "cAYY",
+      "block": "p0028",
+      "section": "CHAPTER 4",
+      "verse": "28",
+      "en": "And in the fifteenth jubilee in the third week Lamech took to himself a wife, and her name was Bêtênôs, the daughter of Bârâkî’îl, the daughter of his father’s brother, and in this week she bore him a son and he called his name Noah, saying, “This one will comfort me for my trouble, and all my work, and for the ground which the Lord has cursed.”",
+      "before": "第十五个禧年的第三个七年期，拉麦娶妻，名叫比蒂诺，是巴拉基伊的女儿，就是他父亲兄弟的女儿。在这七年期，她生了一个儿子，他起名叫挪亚，说：“这孩子必因我的忧愁、一切劳苦，以及主所咒诅的地，使我得安慰。”",
+      "after": "第十五个禧年的第三个七年期，拉麦娶妻，名叫比蒂诺，是巴拉基伊的女儿；巴拉基伊是拉麦父亲的兄弟。在这七年期，她生了一个儿子，他起名叫挪亚，说：“这孩子必因我的忧愁、一切劳苦，以及主所咒诅的地，使我得安慰。”",
+      "category": "亲属指代",
+      "reason": "两层同位语指同一位女子，点明父辈关系，避免两个“女儿”误读成前后两代。"
+    },
+    {
+      "book": "1-maccabees",
+      "work": "马加比一书",
+      "unit": "c98S",
+      "block": "p0024",
+      "section": "CHAPTER 14",
+      "verse": "23",
+      "en": "And it pleased the people to entertain the men honorably, and to put the copy of their words in the public records, to the end that the people of the Spartans might have a memorial thereof: moreover, they wrote a copy of these things to Simon the chief priest.",
+      "before": "百姓乐意尊敬地款待这些人，并将他们的话抄入公文，使斯巴达百姓永远记念此事；他们又把这些事抄了一份，送给大祭司西门。",
+      "after": "百姓乐意以上宾之礼接待这些人，并将他们的话抄入公文，给斯巴达百姓留下纪念；他们又把这些事抄了一份，送给大祭司西门。",
+      "category": "记述语体",
+      "reason": "entertain the men honorably 指以礼接待。公开存档是要留下纪念，英文没有说永远。",
+      "earlier": [
+        "百姓乐意以上宾之礼接待这些人，并将他们的话抄入公文，使斯巴达百姓永远记念此事；他们又把这些事抄了一份，送给大祭司西门。",
+        "百姓乐意以上宾之礼接待这些人，并将他们的话抄入公文，使斯巴达百姓有据可记念此事；他们又把这些事抄了一份，送给大祭司西门。"
+      ]
+    },
+    {
+      "book": "sirach",
+      "work": "便西拉智训",
+      "unit": "c8ZH",
+      "block": "p0024",
+      "section": "CHAPTER 36",
+      "verse": "23",
+      "en": "If there is mercy and meekness on her tongue, || Her husband is not like the sons of men.",
+      "before": "她舌上若有仁慈和温柔，她的丈夫就胜过常人。",
+      "after": "她说话若仁慈温柔，她的丈夫就与众不同。",
+      "category": "比较力度",
+      "reason": "not like the sons of men 写与众不同；不额外断言丈夫胜过别人。"
+    },
+    {
+      "book": "1-baruch",
+      "work": "耶利米书信",
+      "unit": "c94V",
+      "block": "p0028",
+      "section": "EPISTLE OF JEREMIAH",
+      "verse": "17",
+      "en": "For like as a vessel that a man uses is worth nothing when it is broken, even so it is with their gods: when they are set up in the temples their eyes are full of dust through the feet of those who come in.",
+      "before": "人所用的器皿破碎了，就毫无用处；他们的神像也是如此。神像被安置在庙中，进来的人脚下扬起的灰尘，积满了它们的眼睛。",
+      "after": "人所用的器皿破碎了，就毫无用处；他们的神像也是如此。神像被安置在庙中，人走进庙里，脚下扬起的尘土便蒙住神像的双眼。",
+      "category": "意象与指代",
+      "reason": "保留来人脚下的尘土，改掉“灰尘积满眼睛”的生硬搭配。"
+    },
+    {
+      "book": "the-shepherd-of-hermas",
+      "work": "黑马牧人书",
+      "unit": "cJDW",
+      "block": "p0182",
+      "section": "VISION 4",
+      "verse": "19",
+      "en": "Cast your cares on the Lord, and He will direct them. Trust the Lord, you who doubt, for He is all-powerful, and can turn His anger away from you, and send scourges on the doubters.",
+      "before": "你们要将忧虑卸给主，祂必料理。心怀疑惑的人啊，要信靠主，因为祂是全能的，既能使怒气转离你们，也能将管教的鞭打加在疑惑的人身上。",
+      "after": "你们要将忧虑卸给主，祂必料理。心怀疑惑的人啊，要信靠主，因为祂是全能的，能收回向你们所发的怒气，也能鞭责心怀疑惑的人。",
+      "category": "劝诫动词",
+      "reason": "turn His anger 与 send scourges 用两个清楚的动词承接。",
+      "earlier": [
+        "你们要将忧虑卸给主，祂必料理。心怀疑惑的人啊，要信靠主，因为祂是全能的，能向你们转消怒气，也能鞭责心怀疑惑的人。"
+      ]
+    },
+    {
+      "book": "jubilees",
+      "work": "禧年书",
+      "unit": "cB33",
+      "block": "p0026",
+      "section": "CHAPTER 23",
+      "verse": "25",
+      "en": "And the heads of the children will be white with grey hair, and a child of three weeks will appear old like a man of one hundred years, and their stature will be destroyed by tribulation and oppression.",
+      "before": "儿女头上必长满白发，才三周的孩子看起来如同百岁老人；患难和欺压必毁坏他们的身体。",
+      "after": "儿女头上必长满白发，才三周大的孩子，看起来却像百岁老人；患难和欺压必毁坏他们的身体。",
+      "category": "年龄与版本复核",
+      "reason": "本节不含 years，前后是儿童白头、未老先衰的异象。卷内既有校注及学术英译都支持三周大的孩子；撤回按47:9计年方式推为三个七年期的中间稿。",
+      "earlier": [
+        "儿女头上必长满白发，孩子才活了三个七年期，看起来却像百岁老人；患难和欺压必毁坏他们的身体。"
+      ]
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8NA",
+      "block": "p0027",
+      "section": "CHAPTER 16",
+      "verse": "26",
+      "en": "That Your sons, whom You loved, O Lord, || Might learn that it is not the growth of crops that nourishes a man, || But that Your word preserves those who trust You.",
+      "before": "主啊，这是要使你所爱的儿女明白，养活人的并非田间生长的庄稼；保全信靠你之人的，乃是你的话语。",
+      "after": "主啊，这是要使你所爱的儿女明白，养活人的不是田间长出的庄稼；是你的话保全了信靠你的人。",
+      "category": "虚词与对句",
+      "reason": "保留前半句的否定、后半句对神的话的强调。把两个倒装句改为容易听懂的一问一答式对照。"
+    },
+    {
+      "book": "3-maccabees",
+      "work": "马加比三书",
+      "unit": "c9NB",
+      "block": "p0016",
+      "section": "CHAPTER 3",
+      "verse": "15",
+      "en": "we resolved, not with strength of spear, but with gentleness and much humanity, as it were to nurse the inhabitants of Coele-Syria and Phoenicia, and to be their willing benefactors.",
+      "before": "此后，我们决意不用刀兵，乃以温和与厚仁，如同抚育一般对待基利叙利亚和腓尼基的居民，甘愿作他们的恩主。",
+      "after": "我们决意不用刀兵，要以温和仁厚的心抚育基利叙利亚和腓尼基的居民，甘愿作他们的恩主。",
+      "category": "虚词与搭配",
+      "reason": "王的文告以抚育比拟施政，gentleness and much humanity 可以落在抚育的态度上。"
+    },
+    {
+      "book": "jubilees",
+      "work": "禧年书",
+      "unit": "cAZC",
+      "block": "p0015",
+      "section": "CHAPTER 6",
+      "verse": "14",
+      "en": "And for this law there is no limit of days, for it is forever. They will observe it throughout their generations, so that they may continue supplicating on your behalf with blood before the altar; every day and at the time of morning and evening they will seek forgiveness on your behalf perpetually before the Lord that they may keep it and not be rooted out.",
+      "before": "这律法没有年日的界限，乃是永远的；他们要世世代代遵守，以便不断在坛前用血为你们祈求。他们每日早晚，都要在主面前长久为你们求赦免，使他们守住这律法，不被剪除。",
+      "after": "这律法永远长存，没有终期；他们要世世代代遵守，以便不断在坛前用血为你们祈求。他们每日早晚，都要在主面前长久为你们求赦免，使他们守住这律法，不被剪除。",
+      "category": "虚词与语序",
+      "reason": "no limit of days 与 forever 相互解释，改用自然的中文并保留永远有效之意。"
+    },
+    {
+      "book": "jubilees",
+      "work": "禧年书",
+      "unit": "cB3Z",
+      "block": "p0026",
+      "section": "CHAPTER 27",
+      "verse": "25",
+      "en": "And Jacob awoke from his sleep, and said, “Truly this place is the house of the Lord, and I did not know it.” And he was afraid and said, “This place is dreadful, which is none other than the house of God, and this is the gate of Heaven.”",
+      "before": "雅各睡醒，说：“这地方真是主的殿，我竟不知道！”他惧怕，又说：“这地方何等可畏！这不是别的，乃是神的殿，是天的门。”",
+      "after": "雅各睡醒，说：“这地方真是主的殿，我竟不知道！”他惧怕，又说：“这地方何等可畏！这正是神的殿，是天的门。”",
+      "category": "虚词与强调",
+      "reason": "none other than 在惊叹中用“正是”聚焦所见，保留神的殿和天的门两重意象。"
+    },
+    {
+      "book": "didache",
+      "work": "十二使徒遗训",
+      "unit": "cFVF",
+      "block": "p0008",
+      "section": "CHAPTER 16",
+      "verse": "7",
+      "en": "but not of all the dead, but as it was said, “The Lord will come and all His holy ones with Him.”",
+      "before": "但并不是所有死人都复活，乃如经上所说：“主必来，祂一切的圣者也与祂同来。”",
+      "after": "但死去的人并非全都复活。正如经上所说：“主必来，祂一切的圣者也与祂同来。”",
+      "category": "句间关系",
+      "reason": "与上一节“死人复活”衔接。第二个 but 引出用以说明范围的引文。"
+    },
+    {
+      "book": "the-shepherd-of-hermas",
+      "work": "黑马牧人书",
+      "unit": "cJDW",
+      "block": "p0021",
+      "section": "VISION 1",
+      "verse": "19",
+      "en": "“But God is not angry with you on account of this, but that you may convert [those of] your house, which have committed iniquity against the Lord, and against you, their parents. And although you love your sons, yet you did not warn your house, but permitted them to be terribly corrupted.",
+      "before": "然而，神向你发怒，不是因这事，乃是要你使家人回转。他们得罪主，也得罪了作父母的你们。你虽爱儿女，却没有警戒家人，反而任凭他们败坏到可怕的地步。",
+      "after": "然而，神向你发怒，不是为这件事，而是要你带领家人回转。他们得罪主，也得罪了作父母的你们。你虽爱儿女，却没有警戒家人，反而任凭他们败坏到可怕的地步。",
+      "category": "虚词与口吻",
+      "reason": "说话者解释神发怒的原因和用意；语气仍是当面的劝告。"
+    },
+    {
+      "book": "the-shepherd-of-hermas",
+      "work": "黑马牧人书",
+      "unit": "cJEC",
+      "block": "p0047",
+      "section": "COMMANDMENT 4",
+      "verse": "22",
+      "en": "He said to me, “That was sound doctrine which you heard; for that is really the case. For he who has received remission of his sins ought not to sin anymore, but to live in purity.",
+      "before": "他对我说：“你听见的是纯正的教训，实情确是如此。罪蒙赦免的人，不应再犯罪，乃当过纯洁的生活。",
+      "after": "他对我说：“你听见的是纯正的教训，实情确是如此。罪蒙赦免的人，就不该再犯罪，应当过清洁的生活。",
+      "category": "虚词与搭配",
+      "reason": "ought 同时管到两个动词；保留戒罪和过清洁生活两层。"
+    },
+    {
+      "book": "the-shepherd-of-hermas",
+      "work": "黑马牧人书",
+      "unit": "cJEC",
+      "block": "p0100",
+      "section": "COMMANDMENT 6",
+      "verse": "17",
+      "en": "You see, therefore, that it is good to follow the messenger of righteousness, but to bid farewell to the messenger of iniquity.",
+      "before": "“所以，你看，跟随公义的天使，离弃罪恶的天使，乃是好的。",
+      "after": "“你看，跟随公义的天使，离弃罪恶的天使，这样做是好的。",
+      "category": "虚词与朗读",
+      "reason": "it is good 的主语涵盖两个动作；用“这样做”收束整句。"
+    },
+    {
+      "book": "the-shepherd-of-hermas",
+      "work": "黑马牧人书",
+      "unit": "cJFA",
+      "block": "p0099",
+      "section": "SIMILITUDE 5",
+      "verse": "47",
+      "en": "“Hear,” He answered: “the Son of God is not in the form of a slave, but in great power and might.” “How so, Lord?” I said; “I do not understand.”",
+      "before": "他回答：“你听，神的儿子并不是奴仆的形象，乃是大有权能和力量。”我说：“先生，怎么讲呢？我不明白。”",
+      "after": "他回答：“你听，神的儿子并非以奴仆的形象显现，而是显出大能大力。”我说：“先生，怎么讲呢？我不明白。”",
+      "category": "语法与虚词",
+      "reason": "in the form of 与 in great power and might 都描写神子在比喻中显出的形象；补出中文谓语。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c199A",
+      "block": "p0053",
+      "section": "CHAPTER 12",
+      "verse": "52",
+      "en": "And a wise servant of the king, whose name was Anuki, answered the king, saying, “This is nothing else but the evil of Abram and his seed which will spring up against my lord and king in the latter days.",
+      "before": "王有一个聪明的臣仆，名叫亚努基，回答说：“这不是别的，乃是亚伯兰和他后裔的祸害，末后的日子必起来攻击我主我王。",
+      "after": "王有一个聪明的臣仆，名叫亚努基，回答说：“这梦所指的，正是亚伯兰和他后裔带来的祸患；到了末后的日子，他们必起来攻击我主我王。",
+      "category": "施事与虚词",
+      "reason": "臣仆在释梦；补明祸患从何而来，以及谁起来攻击。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c199A",
+      "block": "p0056",
+      "section": "CHAPTER 12",
+      "verse": "55",
+      "en": "And that which you saw of the river which turned to an egg as at first, and the young bird plucking out your eye, this means nothing else but the seed of Abram which will slay the king in latter days.",
+      "before": "你看见河重新变成蛋，如同起初，又有雏鸟啄掉你的眼睛，这也不是别的，乃是亚伯兰的后裔，末后必杀王。",
+      "after": "你看见河重新变成蛋，如同起初，又有雏鸟啄掉你的眼睛，这正是指亚伯兰的后裔，他们在末后的日子必杀王。",
+      "category": "虚词与指代",
+      "reason": "this means 引出梦的所指，中文把象征和所指分清。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c19G3",
+      "block": "p0029",
+      "section": "CHAPTER 43",
+      "verse": "28",
+      "en": "Arouse now and see how bitter my trouble is for you my son, although I did not rear you, nor fashion you, nor give you breath and soul, but it was God who formed you, and built your bones, and covered them with flesh, and breathed into your nostrils the breath of life, and then gave you to me.",
+      "before": "我儿，如今醒来，看看我为你何等痛苦！虽然并不是我养成你、塑造你，也不是我赐你气息和灵魂；乃是神塑造了你，构成你的骨骼，为它包上肉，又将生命的气息吹入你的鼻孔，然后把你赐给我。",
+      "after": "我儿，如今醒来，看看我为你何等痛苦！不是我养育你、塑造你，也不是我赐你气息和灵魂。是神塑造了你，使你长出骨骼，又用肉包裹你的骨骼，又将生命的气息吹入你的鼻孔，然后把你赐给我。",
+      "category": "动宾与朗读",
+      "reason": "母亲对儿子说话。rear 是养育。“为它包上肉”指代难辨，改为直指骨骼。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c196X",
+      "block": "p0030",
+      "section": "CHAPTER 1",
+      "verse": "29",
+      "en": "And Cain concealed his true motives, and said, “I do not know, am I my brother’s keeper?” And the Lord said to him, “What have you done? The voice of your brother’s blood cries to Me from the ground where you have slain him.",
+      "before": "该隐隐藏自己的真实心意，说：“我不知道！我岂是看守我兄弟的吗？”主对他说：“你作了什么事？你兄弟血的声音，从你杀他的那片土地向我哀告。",
+      "after": "该隐隐瞒自己的用心，说：“我不知道！我岂是看守我兄弟的吗？”主对他说：“你作了什么事？你兄弟血的声音，从你杀他的那片土地向我哀告。",
+      "category": "搭配",
+      "reason": "concealed his true motives 指掩饰用心，原句叠用“自己、真实、心意”。"
+    },
+    {
+      "book": "1-baruch",
+      "work": "耶利米书信",
+      "unit": "c94V",
+      "block": "p0015",
+      "section": "EPISTLE OF JEREMIAH",
+      "verse": "4",
+      "en": "But now you will see in Babylon gods of silver, and of gold, and of wood, borne on shoulders, which cause the nations to fear.",
+      "before": "你们在那里要看见金、银和木头做的神像，被人扛在肩上，使列国畏惧。",
+      "after": "你们在巴比伦要看见人把银、金和木头做的神像扛在肩上；列国的人见了便惧怕。",
+      "category": "专名与语序",
+      "reason": "依本节明说的地点与 silver、gold、wood 的次序，改用中文主动句。"
+    },
+    {
+      "book": "apocryphal-esther",
+      "work": "以斯帖补篇",
+      "unit": "c84K",
+      "block": "p0002",
+      "section": "APOCRYPHAL ESTHER",
+      "verse": null,
+      "en": "The Septuagint (LXX) version of Esther contains a number of sections not found in the Hebrew version of the text (chs. 11–16). These Greek chapters are canonical in a variety of traditions.",
+      "before": "《以斯帖记》的七十士译本（LXX）包含若干希伯来文本所没有的段落，即第十一至十六章。这些希腊文章节在多种信仰传统中被列为正典。",
+      "after": "《以斯帖记》的七十士译本（LXX）包含若干希伯来文本所没有的段落，即第十一至十六章。有好几种信仰传统将这几章希腊文列为正典。",
+      "category": "卷首说明",
+      "reason": "希腊文与章节连写易被读成“希腊文章”；原文主语所指为这些章。前一句明确指《以斯帖记》的七十士译本。"
+    },
+    {
+      "book": "sirach",
+      "work": "便西拉智训",
+      "unit": "c8WZ",
+      "block": "p0029",
+      "section": "CHAPTER 26",
+      "verse": "28",
+      "en": "For two things my heart is grieved; And for the third anger comes on me: A man of war that suffers for poverty; And men of understanding that are counted as refuse; One that turns back from righteousness to sin—The Lord will prepare him for the sword.",
+      "before": "有两件事使我心忧伤，第三件使我发怒：战士受贫穷之苦，明达人被视为废物；有人离弃公义，转向罪恶，主必为他预备刀剑。",
+      "after": "有两件事使我心忧伤，第三件使我发怒：战士受贫穷之苦，明达人被视为废物；有人离弃公义，转向罪恶，主必使他落在刀剑之下。",
+      "category": "施受关系",
+      "reason": "prepare him for the sword 中 him 是受事，刀剑是他的结局；不能反作替他预备一把刀剑。"
+    },
+    {
+      "book": "sirach",
+      "work": "便西拉智训",
+      "unit": "c8WZ",
+      "block": "p0030",
+      "section": "CHAPTER 26",
+      "verse": "29",
+      "en": "A merchant will hardly keep himself from wrongdoing; And a huckster will not be acquitted of sin.",
+      "before": "商人难以保守自己不行不义；小贩也难脱罪责。",
+      "after": "经商的人难免做不义的事；作小买卖的也不能免去罪责。",
+      "category": "否定与平行",
+      "reason": "hardly 与 will not 力度有别；精简双重否定，两个分句保持对称。",
+      "earlier": [
+        "经商的人很难不行不义；作小买卖的也不能免去罪责。"
+      ]
+    },
+    {
+      "book": "judith",
+      "work": "犹滴传",
+      "unit": "c8EU",
+      "block": "p0023",
+      "section": "CHAPTER 7",
+      "verse": "22",
+      "en": "Their young children were discouraged. The women and the young men fainted for thirst. They fell down in the streets of the city, and in the passages of the gates. There was no longer any strength in them.",
+      "before": "幼小的孩子无精打采，妇女和年轻男子因口渴昏倒，倒在城中街道和城门通道上，毫无力量。",
+      "after": "孩子们灰了心，妇女和青年男子渴得昏倒，倒在城中的街道上、城门的过道里，再没有力气。",
+      "category": "语气与节奏",
+      "reason": "城被围、水用尽，discouraged 指灰心。两个地点和前后因果都保留。"
+    },
+    {
+      "book": "1-maccabees",
+      "work": "马加比一书",
+      "unit": "c97S",
+      "block": "p0031",
+      "section": "CHAPTER 10",
+      "verse": "30",
+      "en": "And instead of the third part of the seed, and instead of the half of the fruit of the trees, which falls to me to receive, I release it from this day and from now on, so that I will not take it from the land of Judah, and from the three governments which are added to that from the country of Samaria and Galilee, from this day out and for all time.",
+      "before": "我本当收取你们谷物的三分之一和树上果实的一半，如今从今日起予以免除。从今直到永远，我不再向犹大地，以及从撒玛利亚和加利利划归犹大的三个地区征收这些。",
+      "after": "我本当收取你们谷物的三分之一和树上果实的一半，从今日起，我把这些税都免了。从今直到永远，我不再向犹大地，以及从撒玛利亚和加利利划归犹大的三个地区征收这些。",
+      "category": "语气与赘词",
+      "reason": "王宣告免税，直接写出“我”所行的事，去掉重复的时间词。"
+    },
+    {
+      "book": "1-esdras",
+      "work": "以斯拉一书",
+      "unit": "c9F5",
+      "block": "p0021",
+      "section": "CHAPTER 6",
+      "verse": "20",
+      "en": "Then Sanabassarus, having come here, laid the foundations of the house of the Lord which is in Jerusalem; and from that time to this being still a building, it is not yet fully ended.",
+      "before": "设巴萨便来到这里，为耶路撒冷主的殿立下根基。从那时直到如今，工程一直在进行，还没有全部完成。’",
+      "after": "设巴萨便来到这里，为耶路撒冷主的殿立下根基。从那时直到如今，这殿一直在建造，还没有完工。’",
+      "category": "指代与语域",
+      "reason": "still a building 说的是上文的殿，直接点出主语。"
+    },
+    {
+      "book": "1-esdras",
+      "work": "以斯拉一书",
+      "unit": "c9F5",
+      "block": "p0011",
+      "section": "CHAPTER 6",
+      "verse": "10",
+      "en": "And those works are done with great speed, and the work goes on prosperously in their hands, and it is accomplished with all glory and diligence.",
+      "before": "工程进行得很快，在他们手中顺利推进；他们殷勤施工，使所成的尽显荣美。",
+      "after": "他们建造得很快，手中的工也很顺利；他们殷勤做工，所建的甚是荣美。",
+      "category": "叙事与搭配",
+      "reason": "great speed、prosperously、glory 与 diligence 各有着落。"
+    },
+    {
+      "book": "4-maccabees",
+      "work": "马加比四书",
+      "unit": "c9UD",
+      "block": "p0015",
+      "section": "CHAPTER 15",
+      "verse": "14",
+      "en": "At the racking and roasting of each one of them, the observant mother was prevented by religion from changing.",
+      "before": "每一个儿子被拉扯、被炙烤时，她都在旁观看；信仰使这位母亲不至改变。",
+      "after": "每一个儿子被拉扯、被炙烤时，她都在旁观看；这位母亲因着信仰，心志始终没有动摇。",
+      "category": "语境与用词",
+      "reason": "changing 在母亲亲见儿子受苦的语境中指改变心志，“不至改变”缺少所指。"
+    },
+    {
+      "book": "jubilees",
+      "work": "禧年书",
+      "unit": "cB6U",
+      "block": "p0014",
+      "section": "CHAPTER 40",
+      "verse": "13",
+      "en": "And Joseph gathered food into every city until they were full of corn until they could no longer count and measure it for its multitude.",
+      "before": "约瑟把粮食积存在各城，城中都装满了五谷；数量极多，以致无法计算衡量。",
+      "after": "约瑟把粮食积存在各城，城中都装满了五谷；粮食多得数不清，也量不尽。",
+      "category": "意象与对句",
+      "reason": "count and measure 指数与量谷粮的实际动作，避免泛指评估的“衡量”。"
+    },
+    {
+      "book": "didache",
+      "work": "十二使徒遗训",
+      "unit": "cFUC",
+      "block": "p0002",
+      "section": "CHAPTER 11",
+      "verse": "1",
+      "en": "Whoever then comes and teaches you all these things previously mentioned, receive him.",
+      "before": "凡来教导你们上述一切的人，你们都要接待。",
+      "after": "人若到你们这里，教导你们前面所说的这一切，你们就要接待他。",
+      "category": "书信口吻",
+      "reason": "come 和 receive him 还原宾主双方，保留教导的限定。"
+    },
+    {
+      "book": "didache",
+      "work": "十二使徒遗训",
+      "unit": "cFS6",
+      "block": "p0007",
+      "section": "CHAPTER 1",
+      "verse": "6",
+      "en": "But concerning this it was also said, “Let your alms sweat into your hands until you know to whom you are giving.”",
+      "before": "关于这事，也有话说：“让你的施舍留在手里发汗，直到你知道要给谁。”",
+      "after": "关于这事，也有话说：“你预备施舍的，先握在手里，握到出汗，等你知道该给谁。”",
+      "category": "俗语与意象",
+      "reason": "让施舍物在手中发汗的比喻说的是等候；中文保留手和汗，并读清是谁在等。"
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBA1",
+      "block": "p0006",
+      "section": "CHAPTER 1",
+      "verse": "5",
+      "en": "And all will be smitten with fear, || And the Watchers will quake, || And great fear and trembling will seize them to the ends of the earth.",
+      "before": "众人都要被恐惧击中，守望者也要战抖；大恐惧和战兢要抓住他们，直到地极。",
+      "after": "众人都要惊惶，守望者也要战抖；大大的惊恐和战兢要临到他们，直到地极。",
+      "category": "搭配与诗行",
+      "reason": "smitten with fear 重在受惊；后半保留恐惧临到众人的意象。"
+    },
+    {
+      "book": "sirach",
+      "work": "便西拉智训",
+      "unit": "c8PZ",
+      "block": "p0017",
+      "section": "CHAPTER 2",
+      "verse": "16",
+      "en": "Those who fear the Lord will seek His good pleasure. Those who love Him will be filled with the Law.",
+      "before": "敬畏主的人必寻求他的喜悦；爱他的人必以律法为满足。",
+      "after": "敬畏主的人必寻求他的喜悦；爱他的人心里必充满律法。",
+      "category": "词义与对句",
+      "reason": "be filled with the Law 与得着满足的心理有别；保留律法充满爱主之人的意思。"
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBX0",
+      "block": "p0003",
+      "section": "CHAPTER 85",
+      "verse": "2",
+      "en": "And Enoch lifted up [his voice] and spoke to his son Methuselah: “To you, my son, I will speak: hear my words and incline your ear to the dream-vision of your father.",
+      "before": "以诺扬起〔声音〕，对他儿子玛土撒拉说：“我儿，我要对你说话。你当听我的话，侧耳听你父亲梦中的异象。",
+      "after": "以诺提高〔声音〕，对他儿子玛土撒拉说：“我儿，我要对你说话。你当听我的话，侧耳听你父亲梦中的异象。",
+      "category": "固定搭配",
+      "reason": "lifted up his voice 指提高声音。保留本版补词标记。"
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8MU",
+      "block": "p0020",
+      "section": "CHAPTER 14",
+      "verse": "19",
+      "en": "For he, wishing perhaps to please one in authority, || Used his art to force the likeness toward a greater beauty.",
+      "before": "因为他或许想讨掌权者欢心，便运用技艺，强使形像更加美丽。",
+      "after": "因为他或许想讨掌权者欢心，便施展技艺，把王像雕得比本人还美。",
+      "category": "比较与施事",
+      "reason": "the likeness toward a greater beauty 指刻意把所刻的王像美化；14:17 已交代所刻的是王。"
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8MU",
+      "block": "p0021",
+      "section": "CHAPTER 14",
+      "verse": "20",
+      "en": "So the multitude, allured by reason of the grace of his handiwork, || Now consider an object of devotion him that a little while before was honored as a man.",
+      "before": "群众被他手艺的精美吸引，原先不久前还只是作为人受尊荣的，如今却被他们当作膜拜对象。",
+      "after": "百姓见工匠雕得精美，便向那王膜拜。不久以前，他们还只把他当作凡人来尊敬。",
+      "category": "跨句指代",
+      "reason": "14:17–19 区分君王、工匠和百姓。his handiwork 属工匠，him that ... was honored 指受尊荣的王。"
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBXW",
+      "block": "p0071",
+      "section": "CHAPTER 89",
+      "verse": "70",
+      "en": "And so in the vision I saw how that one who wrote wrote down everyone that was destroyed by those shepherds day by day, and he carried [it] up, and laid [it] down, and actually showed the whole scroll to the Lord of the sheep—[even] everything that they had done, and all that each one of them had made away with, and all that they had given over to destruction.",
+      "before": "在异象中，我看见那记录者每日逐一记下被牧羊人毁灭的羊。他把书卷带上去，呈在羊群之主面前，将整卷书展示给祂：他们所做的一切、每个人除掉了多少、交给毁灭的又有多少，都在其中。",
+      "after": "在异象中，我看见那记录者每日逐一记下被牧羊人毁灭的羊。他把书卷带上去，呈在羊群之主面前，将整卷书展示给祂：牧羊人所做的一切，每人除掉了多少羊，又交出了多少、任其灭亡，卷上都记着。",
+      "category": "受事与篇内一致",
+      "reason": "89:63、70 同用交出去以致灭亡的结构。点明羊和记录它们的书卷。"
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBYR",
+      "block": "p0004",
+      "section": "CHAPTER 92",
+      "verse": "3",
+      "en": "And the righteous one will arise from sleep || And walk in the paths of righteousness, || And all his path and conversation || Will be in continuous goodness and grace.",
+      "before": "义人必从睡中兴起，行在公义的道路上；他一切的道路和言行，都必永远满有良善和恩典。",
+      "after": "义人必从睡中兴起，行在义路上；他的道路，他的为人，都必常有良善和恩典。",
+      "category": "诗歌与篇内一致",
+      "reason": "paths of righteousness 呼应诗23:3。“conversation”在这里与道路并列，指为人，continuous 指持续。",
+      "earlier": [
+        "义人必从睡中兴起，行在义路上；他一生所行的路和他的一切言行，都必永远满有良善和恩典。"
+      ]
+    },
+    {
+      "book": "1-enoch",
+      "work": "以诺一书",
+      "unit": "cBZ5",
+      "block": "p0002",
+      "section": "CHAPTER 94",
+      "verse": "1",
+      "en": "And now I say to you, my sons, love righteousness and walk therein, for the paths of righteousness are worthy of acceptance, but the paths of unrighteousness will suddenly be destroyed and vanish.",
+      "before": "我的儿子们，如今我告诉你们：要爱公义，行在其中；公义的道路值得领受，不义的道路却必忽然毁灭，归于无有。",
+      "after": "我的儿子们，如今我告诉你们：要爱公义，行在其中；义路是可取的，不义的路却必忽然毁灭，归于无有。",
+      "category": "意象与篇内一致",
+      "reason": "与前两章反复的义路呼应；前句已经劝儿子行在其中，worthy of acceptance 表明这条路值得接受。",
+      "earlier": [
+        "我的儿子们，如今我告诉你们：要爱公义，行在其中；义路值得持守，不义的路却必忽然毁灭，归于无有。"
+      ]
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8MU",
+      "block": "p0015",
+      "section": "CHAPTER 14",
+      "verse": "14",
+      "en": "For by the vain pride of men they entered into the world, || And therefore a speedy end was planned for them.",
+      "before": "因人的虚荣骄傲，它们进入世界；所以，迅速的结局已经为它们定下。",
+      "after": "因人的虚荣骄傲，它们进入世界；所以，它们的结局早已定下，转眼就要来到。",
+      "category": "时间与主语",
+      "reason": "a speedy end 是将迅速临到的结局；中文原有搭配“迅速的结局”生硬。"
+    },
+    {
+      "book": "wisdom",
+      "work": "所罗门智训",
+      "unit": "c8MU",
+      "block": "p0018",
+      "section": "CHAPTER 14",
+      "verse": "17",
+      "en": "And when men could not honor them in presence because they lived far off, imagining the likeness from afar, || They made a visible image of the king whom they honored, || That by their zeal they might flatter the absent as if present.",
+      "before": "人住得远，不能当面尊荣君王，就从远方想象他的样貌，为所尊荣的王造出可见的形像，好热切奉承那不在场的，如同他在场一样。",
+      "after": "人住得远，不能当面尊荣君王，就从远方想象他的样貌，为所尊荣的王造像，好向远方的王大献殷勤，如同他就在眼前。",
+      "category": "指代与比拟",
+      "reason": "the absent as if present 指王，前半句已说人远住不能亲见。",
+      "earlier": [
+        "人住得远，不能当面尊荣君王，就从远方想象他的样貌，就为所尊荣的王造像，好向远方的王大献殷勤，如同他就在眼前。"
+      ]
+    },
+    {
+      "book": "2-maccabees",
+      "work": "马加比二书",
+      "unit": "c9A9",
+      "block": "p0008",
+      "section": "CHAPTER 3",
+      "verse": "7",
+      "en": "And when Apollonius met the king, he informed him of the money of which he had been told; and the king appointed Heliodorus, who was his chancellor, and sent him with a command to accomplish the removal of the previously mentioned money.",
+      "before": "亚波罗尼见王的时候，就将所听见有关银钱的事告诉他；王便委派大臣希流多若，吩咐他前去，将上述银钱取回来。",
+      "after": "亚波罗尼见王的时候，就把听来的银钱之事禀告了王。王差大臣希流多若前去，吩咐他把那笔钱取来。",
+      "category": "叙事口吻",
+      "reason": "面对君王用“禀告”；取钱的命令用人物的动词叙说。"
+    },
+    {
+      "book": "3-maccabees",
+      "work": "马加比三书",
+      "unit": "c9NK",
+      "block": "p0016",
+      "section": "CHAPTER 4",
+      "verse": "15",
+      "en": "The registering of these men was carried on cruelly, zealously, assiduously, from the rising of the sun to its going down, and was not brought to an end in forty days.",
+      "before": "登记在残酷、狂热而不懈的催逼中进行，从日出直到日落，过了四十日还没有完成。",
+      "after": "负责登记的人严酷地催逼众人，从日出直到日落，片刻不肯停歇；过了四十日，仍没有登记完。",
+      "category": "语法与叙事",
+      "reason": "主动句让读者看清谁在催逼谁；保留四十日未完以及从早到晚的持续。"
+    },
+    {
+      "book": "3-maccabees",
+      "work": "马加比三书",
+      "unit": "c9NK",
+      "block": "p0018",
+      "section": "CHAPTER 4",
+      "verse": "17",
+      "en": "At the end of the above-mentioned interval of time, the registrars brought word to the king that the multitude of the Jews was too great for registration,",
+      "before": "过了上述那些日子，登记的官员禀告王，犹太人人数太多，无法全部登记，",
+      "after": "那四十日一过，登记的官员禀告王，犹太人人数太多，无法全部登记，",
+      "category": "篇内照应",
+      "reason": "above-mentioned interval 回指4:15、即相隔两节的四十日，可还原前文所说时长。"
+    },
+    {
+      "book": "testaments-of-the-twelve-patriarchs",
+      "work": "十二族长遗训",
+      "unit": "cASX",
+      "block": "p0002",
+      "section": "CHAPTER 11",
+      "verse": "1",
+      "en": "“My children, have the fear of God in all your works before your eyes, and honor your brothers.",
+      "before": "“我的孩子们，无论做什么，都要把敬畏神放在眼前，并尊重自己的兄弟。",
+      "after": "“我的孩子们，无论做什么，都要常存敬畏神的心，也要敬重自己的弟兄。",
+      "category": "劝勉与比喻",
+      "reason": "have ... before your eyes 劝人行事时时记得敬畏神，并要敬重自己的兄弟。",
+      "earlier": [
+        "“我的孩子们，无论做什么，眼中都要有神，存敬畏他的心，也要敬重自己的弟兄。"
+      ]
+    },
+    {
+      "book": "1-maccabees",
+      "work": "马加比一书",
+      "unit": "c988",
+      "block": "p0041",
+      "section": "CHAPTER 12",
+      "verse": "40",
+      "en": "And he was afraid lest perhaps Jonathan should not permit him, and lest he should fight against him; and he sought a way how to take him, that he might destroy him. And he went and came to Bethshan.",
+      "before": "但他怕约拿单不容他这样做，起来与他争战，就寻找机会擒拿约拿单，好除掉他。于是他动身来到伯珊。",
+      "after": "但他怕约拿单不许他这样做，又怕约拿单起来与他争战，就寻找机会擒拿约拿单，好除掉他。于是他动身来到伯珊。",
+      "category": "并列与语气",
+      "reason": "英文两次 lest 同受 was afraid 管辖。第二件是特罗弗担心会发生的事，不能读成约拿单已出战。"
+    },
+    {
+      "book": "1-esdras",
+      "work": "以斯拉一书",
+      "unit": "c9EX",
+      "block": "p0023",
+      "section": "CHAPTER 5",
+      "verse": "22",
+      "en": "the sons of Calamolalus and Onus, seven hundred and twenty-five; the sons of Jerechu, three hundred and forty-five;",
+      "before": "迦拉摩拉路和阿挪的子孙七百二十五人；耶利哥的子孙三百四十五人；",
+      "after": "迦拉摩拉路人和阿挪人共七百二十五人；耶利哥人三百四十五人；",
+      "category": "地名与平行名录",
+      "reason": "本段按城邑列归回者。参拉2:33–34、尼7:36，“耶利哥人三百四十五名”。采用地域称法，底本在前半节所列地名与数目照旧。"
+    },
+    {
+      "book": "1-esdras",
+      "work": "以斯拉一书",
+      "unit": "c9EX",
+      "block": "p0024",
+      "section": "CHAPTER 5",
+      "verse": "23",
+      "en": "the sons of Sanaas, three thousand three hundred and thirty.",
+      "before": "西拿的子孙三千三百三十人。",
+      "after": "西拿人三千三百三十人。",
+      "category": "地名与异文",
+      "reason": "本段仍是按城邑列举归回者。拉2:35也作“西拿人”；本版数为3330，与拉2:35的3630不同，保留本版数目。"
+    },
+    {
+      "book": "2-esdras",
+      "work": "以斯拉二书",
+      "unit": "c9H1",
+      "block": "p0030",
+      "section": "CHAPTER 3",
+      "verse": "29",
+      "en": "For it came to pass when I came here, that I also saw impieties without number, and my soul saw many evildoers in this thirtieth year, so that my heart failed me.",
+      "before": "我来到这里，看见无数不敬虔的事；到了这第三十年，我仍亲见许多作恶的人，我的心就沮丧了。",
+      "after": "我来到这里，看见无数不敬虔的事；如今是第三十年，我亲眼见了这么多作恶的人，心都灰了。",
+      "category": "纪年与感情",
+      "reason": "in this thirtieth year 与本章开头的纪年相合。my heart failed me 指心灰气馁，在本节用“心都灰了”。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4E",
+      "block": "p0016",
+      "section": "CHAPTER 1",
+      "verse": "15",
+      "en": "Behold and consider the corns of wheat that are sown in the earth. As things dry and men sow them in the earth without soul, so they live again and bear fruit, and the earth restores them as a pledge entrusted to it.",
+      "before": "你们要看，要思想那撒在地里的麦粒。它们虽是枯干、没有生命之物，人把它们种在地里，它们却又活了，结出果实；地像归还受托之物一样，把它们归还。",
+      "after": "你们要看，要思想那撒在地里的麦粒。人把枯干、没有生命的麦粒种在地里，它们却又活过来，结出果实。大地把它们交还，如同交还托付给它的信物。",
+      "category": "比喻与转折",
+      "reason": "种下和交还是同一幅复活比喻；pledge entrusted 指托存的信物，避免句末叠用两次归还。",
+      "earlier": [
+        "你们要看，要思想那撒在地里的麦粒。人把枯干、没有生命的麦粒种在地里，它们却又活过来，结出果实。大地把它们交还，如同交还人所寄存的凭据。"
+      ]
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4E",
+      "block": "p0023",
+      "section": "CHAPTER 1",
+      "verse": "22",
+      "en": "Uriel, the messenger of God, will bring forth the souls of those sinners who perished in the flood, and of all that dwelt in all idols, in every molten image, in every [object of] love, and in pictures, and of those that dwelt on all hills, and in stones, and by the wayside, whom men called gods: they will burn them with them in continuous fire; and after that, all of them—with their dwelling places—are destroyed. They will be punished agelong.”",
+      "before": "神的使者乌列要带出在洪水中灭亡之罪人的灵魂，以及一切住在偶像、铸像、所爱〔之物〕和画像中的灵，和那些住在山岭、石头、路旁，被人称为神的灵；他们要与那些居所一同被永火焚烧。随后，他们与居所全被毁灭，却仍要受永世的惩罚。”",
+      "after": "神的使者乌列要带出在洪水中灭亡之罪人的灵魂，以及一切住在偶像、铸像、所爱〔之物〕和画像中的灵，和那些住在山岭、石头、路旁，被人称为神的灵；他们和那些居所都要在不息的火中焚烧。随后，他们与居所全被毁灭，却仍要受永世的惩罚。”",
+      "category": "持续与篇内对照",
+      "reason": "同一节先形容火持续燃烧，末句另明说受罚agelong；分开两个表述。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4N",
+      "block": "p0007",
+      "section": "CHAPTER 2",
+      "verse": "6",
+      "en": "Other men and women will stand above them, naked; and their children stand over against them in a place of delight, and sigh and cry to God because of their parents, saying, These are they that have despised, and cursed, and transgressed Your commands and delivered us to death: they have cursed the messenger that formed us, and have hanged us up, and withheld from us the light which You have given to all creatures. And the milk of their mothers flowing from their breasts will congeal, and from it will come beasts devouring flesh, which will come forth, and turn, and torment them agelong with their husbands, because they forsook the commands of God and slew their children. As for their children, they will be delivered to the messenger Temlakos. And they that slew them will be tormented continuously, for God wills it so.",
+      "before": "另有男人和女人赤身站在她们上方；他们的孩子站在对面的喜乐之地，因父母的缘故叹息，向神呼喊，说：‘这些人轻看、咒诅、违背你的命令，把我们交付死亡；他们咒诅那塑造我们的使者，把我们悬起来，夺去你赐给一切受造之物的光。’母亲乳房流出的乳汁凝结，从中生出吃肉的野兽；野兽出来，转身永世折磨她们和她们的丈夫，因为他们离弃神的命令，杀害自己的儿女。孩子却要交给使者坦拉高斯。杀害他们的人要永远受苦，因为神如此定意。",
+      "after": "另有男人和女人赤身站在她们上方；他们的孩子站在对面的喜乐之地，因父母的缘故叹息，向神呼喊，说：‘这些人轻看、咒诅、违背你的命令，把我们交付死亡；他们咒诅那塑造我们的使者，把我们悬起来，夺去你赐给一切受造之物的光。’母亲乳房流出的乳汁凝结，从中生出吃肉的野兽；野兽出来，转身永世折磨她们和她们的丈夫，因为他们离弃神的命令，杀害自己的儿女。孩子却要交给使者坦拉高斯。杀害他们的人要受苦不息，因为神如此定意。",
+      "category": "持续与篇内对照",
+      "reason": "同一节前半用agelong，后半用continuously，结句保留不间断的意思。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4N",
+      "block": "p0012",
+      "section": "CHAPTER 2",
+      "verse": "11",
+      "en": "And other men and women cast themselves down from a high place and return again and run, and devils drive them. And they put them to the end of their wits, and they cast themselves down. And thus they do continually, and are tormented continuously. These are they which have cut their flesh as [apostles] of a man: and the women that were with them . . . and these are the men that defiled themselves together as women.",
+      "before": "还有男女从高处纵身跳下，回来再跑，被鬼魔驱赶，逼得无计可施，又纵身跳下。他们不断这样做，永远受折磨。这些人曾作某人的〔使徒〕而割伤自己的肉体；还有与他们同在的女人……这些男人彼此像女人一样相待，玷污自己。",
+      "after": "还有男女从高处纵身跳下，回来再跑，被鬼魔驱赶，逼得无计可施，又纵身跳下。他们不断这样做，受的折磨也没有间断。这些人曾作某人的〔使徒〕而割伤自己的肉体；还有与他们同在的女人……这些男人彼此像女人一样相待，玷污自己。",
+      "category": "平行与时间",
+      "reason": "continually 和 continuously 分别修饰动作和受苦，两者都表示连续。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4N",
+      "block": "p0014",
+      "section": "CHAPTER 2",
+      "verse": "13",
+      "en": "And beside them will be other men and women, burning in the fire of the judgment, and their torment is continuous. These are they that have forsaken the command of God and followed the persuasions of devils.”",
+      "before": "他们旁边，还有男女在审判之火中燃烧，永远受苦；他们离弃神的命令，听从鬼魔的劝诱。”",
+      "after": "他们旁边，还有男女在审判之火中燃烧，受苦不息；他们离弃神的命令，听从鬼魔的劝诱。”",
+      "category": "持续与语义",
+      "reason": "their torment is continuous 强调痛苦接续不断。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4W",
+      "block": "p0002",
+      "section": "CHAPTER 3",
+      "verse": "1",
+      "en": "“And there will be another place—very high. [[There will be a furnace and a brazier wherein fire will burn. The fire that will burn will come from one end of the brazier.]] The men and women whose feet slip will go rolling down into a place where fear is. And again, while the fire that is prepared flows, they mount up, and fall down again, and continue to roll down. Thus they will be tormented continuously. These are they that did not honor their father and mother, and of their own accord withheld themselves from them. Therefore, they will be punished continuously.",
+      "before": "“另有一处极高的地方。〔那里有炉和火盆，其中有火燃烧；燃烧的火从火盆一端涌出。〕男女脚下一滑，就滚到恐惧之地。预备的火流动时，他们又爬上去，再跌下，不断滚落。他们要这样永远受苦；他们曾不尊敬父母，自行离弃父母，所以要永远受罚。",
+      "after": "“另有一处极高的地方。〔那里有炉和火盆，其中有火燃烧；燃烧的火从火盆一端涌出。〕男女脚下一滑，就滚到恐惧之地。预备的火流动时，他们又爬上去，再跌下，不断滚落。他们就这样不断受苦。他们曾不敬父母，自己离弃了父母，所以刑罚也不间断。",
+      "category": "同节反复",
+      "reason": "两次 continuously 前后呼应，前者形容受苦，后者形容处罚。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4W",
+      "block": "p0005",
+      "section": "CHAPTER 3",
+      "verse": "4",
+      "en": "And again, other men and women, gnawing their tongues without ceasing, and being tormented with continuous fire—these are the servants which were not obedient to their masters; and this then is their continuous judgment.",
+      "before": "还有其他男女，不停地咬自己的舌头，受永火折磨；他们是不顺服主人的仆人，这就是他们永远的审判。",
+      "after": "还有其他男女，不停地咬自己的舌头，受那燃烧不息的火折磨。他们作仆人时不顺服主人，所受的审判也不间断。",
+      "category": "同节反复",
+      "reason": "continuous 先形容火，后形容审判；两次呼应都要读得出来。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4W",
+      "block": "p0009",
+      "section": "CHAPTER 3",
+      "verse": "8",
+      "en": "Thereafter the messengers will bring My chosen ones and righteous which are perfect in all uprightness, and bear them in their hands, and clothe them with the raiment of the life that is above. They will see their desire on them that hated them, when he punishes them, and the torment of everyone will be continuous according to his works.",
+      "before": "随后，使者要带来我所拣选、在一切正直之事上完全的义人，用手托着他们，给他们穿上属天生命的衣裳。当那些恨他们的人受罚时，他们必亲见自己所愿成就；各人要按自己的行为永远受苦。",
+      "after": "随后，使者要带来我所拣选、在一切正直之事上完全的义人，用手托着他们，给他们穿上属天生命的衣裳。当那些恨他们的人受罚时，他们必亲见自己所愿成就；各人要照自己所行的，受苦不息。",
+      "category": "持续与语气",
+      "reason": "按本节continuous和同书反复，将持续之意落在受苦。"
+    },
+    {
+      "book": "3-maccabees",
+      "work": "马加比三书",
+      "unit": "c9NB",
+      "block": "p0017",
+      "section": "CHAPTER 3",
+      "verse": "16",
+      "en": "So, having bestowed considerable sums of money on the temples of the several cities, we proceeded even as far as Jerusalem, and went up to honor the temple of these wretched beings who never cease from their folly.",
+      "before": "我们向各城神庙捐赠巨款，甚至来到耶路撒冷，前去尊重那些愚昧不改、可悲之人的圣殿。",
+      "after": "我们厚赠金钱给各城的神庙，还远赴耶路撒冷，向那些愚昧不改、可悲之人的圣殿致敬。",
+      "category": "语域与强度",
+      "reason": "远行的目的为honor the temple，即向圣殿致敬。保留文告发出者轻蔑的口吻，不能加重为敬拜圣殿。"
+    },
+    {
+      "book": "revelation-of-peter",
+      "work": "彼得启示录",
+      "unit": "cR4N",
+      "block": "p0005",
+      "section": "CHAPTER 2",
+      "verse": "4",
+      "en": "And the murderers and them that have made common cause with them they will cast into the fire, in a place full of venomous beasts, and they will be tormented without rest, feeling their pains; and their worms will be as many in number as a dark cloud. And the messenger Azrael will bring forth the souls of them that have been slain, and they will behold the torment of them that slew them, and say to one another: Righteousness and justice is the judgment of God. For we heard, but we did not believe, that we should come into this place of continuous judgment.",
+      "before": "杀人的，以及与他们同谋的人，要被扔进火中，那地方满了毒兽。他们不得歇息，受尽痛苦的折磨；身上的虫多如乌云。使者以斯拉尔要带出被杀之人的灵魂，使他们看见杀害自己的人受苦。他们彼此说：‘神的审判公义公平。我们听见过，却不相信自己会来到这永远审判之地。’",
+      "after": "杀人的，以及与他们同谋的人，要被扔进火中，那地方满了毒兽。他们不得歇息，受尽痛苦的折磨；身上的虫多如乌云。使者以斯拉尔要带出被杀之人的灵魂，使他们看见杀害自己的人受苦。他们彼此说：‘神的审判公义公平。我们听见过，却不相信自己会来到这审判不息之地。’",
+      "category": "篇内用词",
+      "reason": "continuous judgment 一如3:4强调审判不断。"
+    },
+    {
+      "book": "jubilees",
+      "work": "禧年书",
+      "unit": "cAZ5",
+      "block": "p0020",
+      "section": "CHAPTER 5",
+      "verse": "19",
+      "en": "And as for all those who corrupted their ways and their thoughts before the flood, no man’s person was accepted save that of Noah alone; for his person was accepted in behalf of his sons, whom [God] saved from the waters of the flood on his account; for his heart was righteous in all his ways, according as it was commanded regarding him, and he had not departed from anything that was ordained for him.",
+      "before": "洪水以前，凡败坏自己道路和意念的人，没有一个蒙悦纳，惟有挪亚。他的儿子因他蒙悦纳，〔神〕因他的缘故，救他们脱离洪水；因为他的心在一切道路上正直，遵照所吩咐他的，没有偏离为他定下的任何事。",
+      "after": "洪水以前，凡败坏自己道路和意念的人，没有一个蒙悦纳，惟有挪亚。挪亚蒙悦纳，这恩也临到他的儿子，〔神〕因他的缘故救他们脱离洪水。挪亚行事，心里一向正直；凡所吩咐他的，他都遵行，凡为他定下的，他都没有偏离。",
+      "category": "受事与受益者",
+      "reason": "his person was accepted 仍指挪亚本人，in behalf of his sons 才说这恩惠及谁。保留英文标出的补词〔神〕。"
+    },
+    {
+      "book": "didache",
+      "work": "十二使徒遗训",
+      "unit": "cFUC",
+      "block": "p0006",
+      "section": "CHAPTER 11",
+      "verse": "5",
+      "en": "but do not let him stay more than one day, or if need be a second as well; but if he stays three days, he is a false prophet.",
+      "before": "但不可让他住超过一天，若有需要，也可住第二天；若住三天，他就是假先知。",
+      "after": "但只可留他住一天；若有需要，可以再留一天。他若住了三天，就是假先知。",
+      "category": "条件与朗读",
+      "reason": "普通期限、按需要延长、第三日的判断分三层。用“再留一天”说清第二天是增留的一天。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c19JG",
+      "block": "p0106",
+      "section": "CHAPTER 54",
+      "verse": "105",
+      "en": "And Jacob said, “It is enough for me that my son Joseph is still living; I will go and see him before I die.”",
+      "before": "雅各说：“只要我的儿子约瑟还活着，我就满足了。我要在死以前去见他。”",
+      "after": "雅各说：“我的儿子约瑟还活着，我就知足了！我要趁未死以前去见他一面。”",
+      "category": "实情与条件",
+      "reason": "it is enough ... that Joseph is still living 是听见儿子仍然活着后的感叹。用已知事实起句，可参创45:28末句。"
+    },
+    {
+      "book": "jasher",
+      "work": "雅煞珥书",
+      "unit": "c19BR",
+      "block": "p0076",
+      "section": "CHAPTER 23",
+      "verse": "75",
+      "en": "And all that Abraham did on this occasion by the altar, he would exclaim and say, “This is in the room of my son, and may it be considered before the Lord in the place of my son this day”; and Abraham finished the whole of the service by the altar, and the service was accepted before the Lord, and was accounted as if it had been Isaac; and the Lord blessed Abraham and his seed on that day.",
+      "before": "亚伯拉罕在坛前每行一件事，都扬声说：“这是代替我儿子的；愿今日在主面前，看这为我儿子的代替。”亚伯拉罕在坛前完成了一切事奉；这事奉在主面前蒙悦纳，算作以撒已经献上。那日，主赐福给亚伯拉罕和他的后裔。",
+      "after": "亚伯拉罕在坛前每行一件事，都扬声说：“这是代替我儿子的；愿今日在主面前，这祭物算是代替了我的儿子。”亚伯拉罕在坛前行完这一切，所行的在主面前蒙了悦纳，就如所献的正是以撒。那日，主赐福给亚伯拉罕和他的后裔。",
+      "category": "比拟与朗读",
+      "reason": "祷词刻意复说代替，保留其重复；as if it had been Isaac 是比拟，不能误读成以撒确已献上。"
+    }
+  ],
+  "reader": {
+    "model": "Qwen3-4B-Instruct-2507, Q4_K_M",
+    "scope": "从21部各取最值得复读的一个正文段群，英中成对送进同一台机器的模型，再独立回到英文与前后文裁定；输入为本轮校订前的历史底稿。",
+    "pilot": "另试一次《以斯帖补篇》卷首，模型填错段号，又混淆书名与正文所指，拒绝其改书名的提案。",
+    "samples": [
+      {
+        "work": "以斯帖补篇",
+        "book": "apocryphal-esther",
+        "unit": "c855",
+        "first": "p0002",
+        "last": "p0007",
+        "blocks": 6,
+        "cases": [
+          {
+            "block": "p0002",
+            "verse": "1",
+            "proposed": "那时，末底改与王的两个太监迦百太和特拉同在王宫里；他们负责看守宫门。",
+            "verdict": "保留",
+            "reason": "原文的守门人只指两个太监。复述两人可排除末底改，单用“他们”反而不清楚。"
+          }
+        ]
+      },
+      {
+        "work": "但以理补篇",
+        "book": "apocryphal-daniel",
+        "unit": "c892",
+        "first": "p0002",
+        "last": "p0019",
+        "blocks": 18,
+        "cases": [
+          {
+            "block": "p0006",
+            "verse": "5",
+            "proposed": "因为我不可尊奉人手所造的偶像，只当敬拜活神。他创造天地，掌管凡有血气的。",
+            "verdict": "保留",
+            "reason": "“永生的神”是本卷准确、熟悉的译法。living God 不要求在这里换成“活神”。"
+          }
+        ]
+      },
+      {
+        "work": "多比传",
+        "book": "tobit",
+        "unit": "c8A5",
+        "first": "p0002",
+        "last": "p0019",
+        "blocks": 18,
+        "cases": [
+          {
+            "block": "p0003",
+            "verse": "2",
+            "proposed": "帖斯比在加利利的拿弗他利边境右侧，亚设之上。",
+            "verdict": "保留",
+            "reason": "Kedesh Naphtali 明写基低斯，建议把地名删成泛指的边境，失去地点。"
+          }
+        ]
+      },
+      {
+        "work": "犹滴传",
+        "book": "judith",
+        "unit": "c8FF",
+        "first": "p0019",
+        "last": "p0024",
+        "blocks": 6,
+        "cases": [
+          {
+            "block": "p0020",
+            "verse": "19",
+            "proposed": null,
+            "verdict": "保留",
+            "reason": "引号未对上中文，原译先说不可留下，再说理由，符合原句次序。"
+          }
+        ]
+      },
+      {
+        "work": "所罗门智训",
+        "book": "wisdom",
+        "unit": "c8MU",
+        "first": "p0020",
+        "last": "p0032",
+        "blocks": 13,
+        "cases": [
+          {
+            "block": "p0021",
+            "verse": "20",
+            "proposed": "群众被他手艺的精美吸引，先前还只是作为人受尊荣的，如今却将他当作膜拜对象。",
+            "verdict": "另拟修订",
+            "reason": "小模型看出了指代不清，却误称受拜的是工匠。连读14:17–20，把工匠、所刻的王和敬拜的百姓分清。"
+          }
+        ]
+      },
+      {
+        "work": "便西拉智训",
+        "book": "sirach",
+        "unit": "c8Z1",
+        "first": "p0020",
+        "last": "p0027",
+        "blocks": 8,
+        "cases": [
+          {
+            "block": "p0021",
+            "verse": "20",
+            "proposed": "拿穷人的财物献祭，好比当着父亲的面杀他儿子。",
+            "verdict": "保留",
+            "reason": "“他的儿子”与“他儿子”都表单数，改动没有澄清任何语义。"
+          }
+        ]
+      },
+      {
+        "work": "巴录一书",
+        "book": "1-baruch",
+        "unit": "c94K",
+        "first": "p0020",
+        "last": "p0037",
+        "blocks": 18,
+        "cases": [
+          {
+            "block": "p0021",
+            "verse": "20",
+            "proposed": "我已脱去平安的衣服，披上祈求的麻衣；我一生都要向永生者呼求。",
+            "verdict": "保留",
+            "reason": "祈求者披麻衣，现译已经交代祈求和麻衣的关系。"
+          }
+        ]
+      },
+      {
+        "work": "耶利米书信",
+        "book": "1-baruch",
+        "unit": "c94V",
+        "first": "p0057",
+        "last": "p0074",
+        "blocks": 18,
+        "cases": [
+          {
+            "block": "p0059",
+            "verse": "48",
+            "proposed": "战争或灾祸一临到，祭司就彼此商议，要在哪里与神像一同藏匿",
+            "verdict": "保留",
+            "reason": "建议只把“躲藏”改成“藏匿”，前者在叙事中清楚自然。"
+          }
+        ]
+      },
+      {
+        "work": "马加比一书",
+        "book": "1-maccabees",
+        "unit": "c988",
+        "first": "p0038",
+        "last": "p0054",
+        "blocks": 17,
+        "cases": [
+          {
+            "block": "p0041",
+            "verse": "40",
+            "proposed": "但他怕约拿单不容他这样做，便寻机擒拿他，好除掉他。于是他动身来到伯珊。",
+            "verdict": "另拟修订",
+            "reason": "建议删去约拿单交战，原文却有第二个 lest。从原文找回两个担心的事项。"
+          }
+        ]
+      },
+      {
+        "work": "马加比二书",
+        "book": "2-maccabees",
+        "unit": "c9A9",
+        "first": "p0019",
+        "last": "p0035",
+        "blocks": 17,
+        "cases": [
+          {
+            "block": "p0026",
+            "verse": "25",
+            "proposed": "他们看见一匹配着华美鞍辔的马，马上坐着一位威严可畏的骑士；马猛冲过来，用前蹄踢打希流多若，那骑马的人仿佛全身披着金甲。",
+            "verdict": "保留",
+            "reason": "现稿的“看上去”已经译出 it seemed。"
+          }
+        ]
+      },
+      {
+        "work": "以斯拉一书",
+        "book": "1-esdras",
+        "unit": "c9EX",
+        "first": "p0020",
+        "last": "p0037",
+        "blocks": 18,
+        "cases": [
+          {
+            "block": "p0023",
+            "verse": "22",
+            "proposed": "迦拉摩拉路和阿挪的子孙七百二十五人；耶利哥人三百四十五人；",
+            "verdict": "核准线索",
+            "reason": "查明平行名录拉2:33–34及尼7:36，确有“耶利哥人三百四十五名”。本段依城邑称人，另将相邻节的异文人数留住。"
+          }
+        ]
+      },
+      {
+        "work": "以斯拉二书",
+        "book": "2-esdras",
+        "unit": "c9H1",
+        "first": "p0020",
+        "last": "p0037",
+        "blocks": 18,
+        "cases": [
+          {
+            "block": "p0030",
+            "verse": "29",
+            "proposed": "我来到这里，看见无数不敬虔的事；到了第三十年，我仍亲见许多作恶的人，我的心就忧伤了。",
+            "verdict": "另拟修订",
+            "reason": "my heart failed me 宜作“心都灰了”。纪年应和本章起首保持一致。"
+          }
+        ]
+      },
+      {
+        "work": "马加比三书",
+        "book": "3-maccabees",
+        "unit": "c9NB",
+        "first": "p0002",
+        "last": "p0018",
+        "blocks": 17,
+        "cases": [
+          {
+            "block": "p0017",
+            "verse": "16",
+            "proposed": "我们向各城神庙捐赠巨款，甚至来到耶路撒冷，前去敬拜那群愚昧不改、可悲之人的圣殿。",
+            "verdict": "另拟修订",
+            "reason": "“尊重圣殿”可改为“向圣殿致敬”，小模型所提“敬拜圣殿”比 honor 更强。"
+          }
+        ]
+      },
+      {
+        "work": "马加比四书",
+        "book": "4-maccabees",
+        "unit": "c9UX",
+        "first": "p0002",
+        "last": "p0019",
+        "blocks": 18,
+        "cases": [
+          {
+            "block": "p0006",
+            "verse": "5",
+            "proposed": "你在神面前被立为尊贵，与儿子们一同安置在穹苍，你以信仰照亮他们，使他们如星辰。",
+            "verdict": "保留",
+            "reason": "原有“如同星辰”已译出明喻，拆句更利于朗读。"
+          }
+        ]
+      },
+      {
+        "work": "十二族长遗训",
+        "book": "testaments-of-the-twelve-patriarchs",
+        "unit": "cA32",
+        "first": "p0002",
+        "last": "p0008",
+        "blocks": 7,
+        "cases": [
+          {
+            "block": "p0002",
+            "verse": "1",
+            "proposed": "革顺娶妻，妻子为他生了立尼和示每。",
+            "verdict": "保留",
+            "reason": "谱系中“给他生了”清楚自然，“为他生了”并未改变或澄清所指。"
+          }
+        ]
+      },
+      {
+        "work": "禧年书",
+        "book": "jubilees",
+        "unit": "cAZ5",
+        "first": "p0017",
+        "last": "p0032",
+        "blocks": 16,
+        "cases": [
+          {
+            "block": "p0020",
+            "verse": "19",
+            "proposed": "洪水以前，凡败坏自己道路和意念的人，没有一个蒙悦纳，惟有挪亚；他的儿子因他蒙悦纳，神因他的缘故救他们脱离洪水；因为他的心在一切道路上正直，遵照所吩咐他的，没有偏离为他定下的任何事。",
+            "verdict": "另拟修订",
+            "reason": "再读发现受悦纳的是挪亚，儿子是受益者；小模型提出的标点改动没有解决这一点，且丢了〔神〕的补词标记。"
+          }
+        ]
+      },
+      {
+        "work": "以诺一书",
+        "book": "1-enoch",
+        "unit": "cBE6",
+        "first": "p0002",
+        "last": "p0009",
+        "blocks": 8,
+        "cases": [
+          {
+            "block": "p0003",
+            "verse": "2",
+            "proposed": "掌管世界和塔尔塔罗斯",
+            "verdict": "保留",
+            "reason": "音译差异本身不足以否定本书译名；“深渊”交代这一地名在书中的所指。"
+          }
+        ]
+      },
+      {
+        "work": "十二使徒遗训",
+        "book": "didache",
+        "unit": "cFUC",
+        "first": "p0002",
+        "last": "p0013",
+        "blocks": 12,
+        "cases": [
+          {
+            "block": "p0006",
+            "verse": "5",
+            "proposed": "但不可让他住超过一日，若有需要，也可住至第二日；若住三日，他就是假先知。",
+            "verdict": "另拟修订",
+            "reason": "不必把一天换成一日；原句涉及通常只留一天、必要时再留一天和三天的判断。按三个层次另拟。"
+          }
+        ]
+      },
+      {
+        "work": "黑马牧人书",
+        "book": "the-shepherd-of-hermas",
+        "unit": "cJEC",
+        "first": "p0156",
+        "last": "p0169",
+        "blocks": 13,
+        "cases": [
+          {
+            "block": "p0163",
+            "verse": "17",
+            "proposed": null,
+            "verdict": "保留",
+            "reason": "返回的中文提案不完整，并把格式说明写进替换文字。底稿本来已有问答标记。"
+          }
+        ]
+      },
+      {
+        "work": "彼得启示录",
+        "book": "revelation-of-peter",
+        "unit": "cR4E",
+        "first": "p0002",
+        "last": "p0008",
+        "blocks": 7,
+        "cases": [
+          {
+            "block": "p0002",
+            "verse": "1",
+            "proposed": "基督再来，以及死人复活；他们因罪而死，因未遵守创造他们之神的命令。",
+            "verdict": "保留",
+            "reason": "这是全书起首的题述，原文说因自己的罪而死。原译忠实，省掉‘自己的’并无必要。"
+          }
+        ]
+      },
+      {
+        "work": "雅煞珥书",
+        "book": "jasher",
+        "unit": "c1980",
+        "first": "p0033",
+        "last": "p0043",
+        "blocks": 11,
+        "cases": [
+          {
+            "block": "p0038",
+            "verse": "37",
+            "proposed": null,
+            "verdict": "保留",
+            "reason": "a full year 已译出“一整年”；换成“整整一年”对理解无增益，而且引用的待换文字与底稿不一致。"
+          }
+        ]
+      }
+    ]
+  }
+}
