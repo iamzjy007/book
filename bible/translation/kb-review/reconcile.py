@@ -15,6 +15,20 @@ def content_hash(text):
 
 def reconcile(apply=False):
     report=json.loads((HERE/"changes.json").read_text(encoding="utf-8"))
+    for number in (2,3):
+        followup=HERE/f"round-{number}"/"changes.json"
+        if not followup.exists():
+            break
+        later=json.loads(followup.read_text(encoding="utf-8"))
+        if later["epub_sha256"]!=report["epub_sha256"]:
+            raise ValueError("两轮使用的底本不同")
+        indexed={(e["book"],e["unit"],e["block"]):e for e in report["edits"]}
+        for e in later["edits"]:
+            key=e["book"],e["unit"],e["block"]
+            if key in indexed and indexed[key]["after"]!=e["before"]:
+                raise ValueError("两轮中文底稿未衔接："+str(key))
+            indexed[key]=e
+        report={**report,"baseline":later["baseline"],"edits":list(indexed.values())}
     if report["epub_sha256"]!=pipeline.manifest()["source_sha256"]:
         raise ValueError("英文底本与审校记录不同")
     edits=defaultdict(list)
