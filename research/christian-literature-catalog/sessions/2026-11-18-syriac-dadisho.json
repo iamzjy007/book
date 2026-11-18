@@ -9,7 +9,18 @@
     "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
     "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
   ],
-  "next": "查《教父乐园注释》后出刊本及其卷册、语言；随后查中文馆藏。",
+  "next": "以 David Phillips 及 Commentaire du Paradis 检索法文校本出版记录，再查中文馆藏。",
   "new_works": 0,
-  "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。"
+  "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。",
+  "edition_checks": [
+    {
+      "source": "https://syriaca.org/cbss/3WURHQBZ",
+      "publisher": "https://gorgiaspress.com/dadisho-qatrayas-compendious-commentary-on-the-paradise-of-the-egyptian-fathers",
+      "result": "已刊 Garshuni 简编本（阿拉伯语，叙利亚字母），Gorgias Press，Texts from Christian Late Antiquity 43，2016。出版方注明封面题记见 Mingana Syriac 174, f. 44v。"
+    },
+    {
+      "result": "Kitchen 英译属项目登记，列拟出版系列和 Phillips 校本。此次未从该登记确认英译已刊。",
+      "source": "https://syri.ac/dadisho-qa%E1%B9%ADraya-commentary-paradise-fathers-kitchen"
+    }
+  ]
 }
