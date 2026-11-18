@@ -9,7 +9,7 @@
     "《阿爸以赛亚注释》logoi I–XV 见 Draguet 1972，CSCO 326–327，叙文及法译。",
     "《教父乐园注释》另以ʿEnanishoʿ所编选集为注释对象；GEDSH 著录阿拉伯语、埃塞俄比亚语及粟特语残篇。"
   ],
-  "next": "以 David Phillips 及 Commentaire du Paradis 检索法文校本出版记录，再查中文馆藏。",
+  "next": "查大陆和港台馆藏：用 Dadisho／Dadišo、法文题名及三册 ISBN 区分外文馆藏与中文译本；对存疑结果保留检索边界。",
   "new_works": 0,
   "primary_check": "Woodbrooke Studies VII，本地 task/translations/drafts/mingana-simon/ocr.txt 第134–138、162–164行；正文亦有英文七周独修论述。",
   "edition_checks": [
@@ -21,6 +21,14 @@
     {
       "result": "Kitchen 英译属项目登记，列拟出版系列和 Phillips 校本。此次未从该登记确认英译已刊。",
       "source": "https://syri.ac/dadisho-qa%E1%B9%ADraya-commentary-paradise-fathers-kitchen"
+    },
+    {
+      "source": "https://sourceschretiennes.org/collection/auteurs-anciens/d",
+      "crosschecks": [
+        "https://research.dial.uclouvain.be/entities/publication/21d02b19-354a-4218-986d-3b8f5a958ee9",
+        "https://www.college-de-france.fr/sites/default/files/media/document/2023-07/Documents%20acquis%20par%20la%20Biblioth%C3%A8que%20byzantine%20Janvier-Juin%202023.pdf"
+      ],
+      "result": "David Phillips 校订并译注，Commentaire sur le Paradis des Pères，Paris: Cerf，2022，叙法对照。SC 626 为第一部分（ISBN 9782204147026），SC 627 为第二部分第1–178问（9782204147033），SC 628 为第二部分第179–291问（9782204147040）。同一作品的三册。"
     }
   ]
 }
