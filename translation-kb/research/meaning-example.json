@@ -1,0 +1,25 @@
+{
+  "source": {
+    "text": "The elder did not promise that the gate would open.",
+    "clauses": {
+      "speech": {"predicate":["PROMISE","promise"],"agent":["ELDER","elder"],"negated":["yes","did not promise"],"content":["opening","that the gate would open"]},
+      "opening": {"predicate":["OPEN","open"],"theme":["GATE","gate"]}
+    }
+  },
+  "candidates": {
+    "甲": {
+      "text":"长老没有应许说，大门会开。",
+      "clauses":{
+        "speech":{"predicate":["PROMISE","应许"],"agent":["ELDER","长老"],"negated":["yes","没有应许"],"content":["opening","大门会开"]},
+        "opening":{"predicate":["OPEN","开"],"theme":["GATE","大门"]}
+      }
+    },
+    "乙": {
+      "text":"长老应许说，大门不会开。",
+      "clauses":{
+        "speech":{"predicate":["PROMISE","应许"],"agent":["ELDER","长老"],"content":["opening","大门不会开"]},
+        "opening":{"predicate":["OPEN","开"],"theme":["GATE","大门"],"negated":["yes","不会开"]}
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "roles",
+    "source": "Isaac bound his father Abraham and laid him on the wood of the altar.",
+    "faithful": "以撒捆绑父亲亚伯拉罕，把他放在坛的柴上。",
+    "foil": "亚伯拉罕捆绑他的儿子以撒，把他放在坛的柴上。",
+    "criterion": "即使熟悉创世记，仍要保留试句所写的施事和受事。这是刻意倒转的测试句。"
+  },
+  {
+    "id": "condition",
+    "source": "If they return, I will gather them; until then I will wait.",
+    "faithful": "他们若回转，我就招聚他们。在此以前，我要等候。",
+    "foil": "他们必回转，我也必招聚他们。在此以前，我要等候。",
+    "criterion": "条件句没有预言他们必定回转。"
+  },
+  {
+    "id": "negation",
+    "source": "I did not promise that the road would be short.",
+    "faithful": "我没有应许说，这条路会很短。",
+    "foil": "我应许过，这条路不会短。",
+    "criterion": "否定落在应许这个言语行为上。"
+  },
+  {
+    "id": "speaker",
+    "source": "The elder said, “I have not heard the Lord say, ‘Go today.’”",
+    "faithful": "长老说：“我没有听见主说‘今天就去’。”",
+    "foil": "主说：“我没有吩咐长老今天就去。”",
+    "criterion": "长老对所听见之事的见证不能升格为神的宣告。"
+  },
+  {
+    "id": "modality",
+    "source": "Perhaps the weary will find rest here.",
+    "faithful": "疲乏的人也许能在这里得安息。",
+    "foil": "疲乏的人必在这里得安息。",
+    "criterion": "安息的传统措辞可以沿用，或然语气须保留。"
+  },
+  {
+    "id": "image",
+    "source": "Your word was a lamp in my brother’s hands.",
+    "faithful": "你的话是我弟兄手中的灯。",
+    "foil": "你的话是我脚前的灯，是我路上的光。",
+    "criterion": "灯的持有者和位置已变；原段只用了一个比喻。"
+  },
+  {
+    "id": "rhythm",
+    "source": "They broke bread together; together they prayed.",
+    "faithful": "他们一同擘饼，一同祷告。",
+    "foil": "他们一起进行了擘饼，也共同进行了祷告。",
+    "criterion": "两译基本同义。朗读时共享主语、一同复现、两个动词直接收束，作为本项目编辑偏好。"
+  },
+  {
+    "id": "register",
+    "source": "Open the door for the woman carrying the water.",
+    "faithful": "给那提水的妇人开门。",
+    "foil": "当为那提水之妇启其门。",
+    "criterion": "普通叙事保留直接和自然的称呼，不因文献属基督教就增加文言虚词。"
+  }
+]

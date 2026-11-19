@@ -4,8 +4,8 @@
   "title": "皮奥尼乌斯殉道记",
   "status": "translating",
   "expected_units": 30,
-  "next_unit": "VII.1-6",
-  "next_action": "I—VI已译并自校9个工作单元（47个原编号段）；从VII.1-6续译。底本印页101末行起至102页，先核本章στρατηγός、ἐκκλησία集会语义、撒比娜笑与威胁卖入妓院的对话，勿漏跨页句；依冻结30单元接续。",
+  "next_unit": "IX.1-9",
+  "next_action": "核读103至104页，保留IX.8拟补与IX.9跨页答语。",
   "unit_policy": "以原章及连续编号段范围打包，每包保留全部原段号和分段，不拆句；较长章分包，均约600希腊词以内。工作单元数不等于原段落数。",
   "units": [
     {
@@ -75,13 +75,15 @@
       "id": "VII.1-6",
       "source_locator": "Gebhardt 1902, p. 101–102, VII.1-6",
       "source_anchor": "Τοῦ δὲ δήμου βουλομένου ἐκκλησίαν",
-      "status": "pending"
+      "status": "self_reviewed",
+      "translation_sha256": "0afe2c0a103bbe1764c7effaf17556ca379c875c66178a0aa6b60a272a001b8f"
     },
     {
       "id": "VIII.1-4",
       "source_locator": "Gebhardt 1902, p. 102–103, VIII.1-4",
       "source_anchor": "Πάλιν δὲ Πιονίῳ εἶπεν Πολέμων",
-      "status": "pending"
+      "status": "self_reviewed",
+      "translation_sha256": "ff9739eaea090ab655ab1659a288c6bb75caf5167ee3e52aadb6dab896d48249"
     },
     {
       "id": "IX.1-9",

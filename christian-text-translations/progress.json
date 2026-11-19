@@ -4,14 +4,14 @@
   "total_records": 110,
   "fulltext_candidates": 51,
   "completed_books": 4,
-  "reviewed_units": 106,
+  "reviewed_units": 108,
   "next_task": "lori_b:lb13",
-  "next_unit": "VII.1-6",
+  "next_unit": "IX.1-9",
   "background_process": false,
   "authority": "books/*/record.json；queue/progress为派生视图",
   "last_milestone": "003-pionius-I-VI",
   "push_status": "以Git main历史和仓库外translation-delivery.json实际回执为准",
   "registered_units": 127,
   "active_books": 1,
-  "next_action": "I—VI已译并自校9个工作单元（47个原编号段）；从VII.1-6续译。底本印页101末行起至102页，先核本章στρατηγός、ἐκκλησία集会语义、撒比娜笑与威胁卖入妓院的对话，勿漏跨页句；依冻结30单元接续。"
+  "next_action": "核读103至104页，保留IX.8拟补与IX.9跨页答语。"
 }

@@ -13,6 +13,7 @@ import sys
 from grammar import review_notes, paragraphs
 from lookup import ROOT, chapter, normalize, packet
 from scripture import references
+from echo_guard import check_edit
 
 PHASES = ("语义与经文", "句法与朗读", "定稿对照")
 INSTRUCTIONS = (
@@ -154,6 +155,7 @@ def apply_response(db, reply):
             if e["before"] == e["after"] or "\n" in e["after"] or "\r" in e["after"]:
                 raise ValueError("请提交段内实际发生的修改")
             start = target[t-1].index(e["before"])
+            check_edit(original[s-1], target[t-1], e["before"], e["after"], e["reason"])
             replacements.setdefault(t-1,[]).append((start,start+len(e["before"]),e["after"]))
         for i,changes in replacements.items():
             old = target[i]

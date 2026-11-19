@@ -4,7 +4,8 @@ from contextlib import closing
 import re
 import sqlite3
 from pathlib import Path
-from wordstudy import GROUPS, lookup as word_lookup, packet_notes
+from wordstudy import GROUPS, lookup as word_lookup, packet_notes, author_prose
+from parallel_text import best_parallel, scope_terms
 
 DB = Path(__file__).resolve().with_name("bible-style.sqlite3")
 
@@ -52,6 +53,26 @@ def passage(db, code, ch, lo, hi, edition=None):
     return result
 
 
+def parallel_notes(db, source):
+    hit = best_parallel(db, source)
+    if hit is None:
+        return []
+    code, chapter, verse = hit.ref
+    lines = passage(db, code, chapter, verse, verse)
+    def show(words):
+        return " · ".join(list(dict.fromkeys(words))[:18]) or "无"
+    lines.extend([
+        "参照依据（同序实词）　" + show(hit.anchors),
+        "原段未对齐词　" + show(hit.residual),
+        "经文未对齐词　" + show(hit.reference_only),
+        "先按原句确定说话者、谁对谁做什么、比喻落在哪里。逐分句借用相合的中文，复核未对齐处是否多译或漏译。",
+    ])
+    src_scope, ref_scope = scope_terms(hit.source), scope_terms(hit.english)
+    if src_scope or ref_scope:
+        lines.append("核对否定、条件和语气的管辖范围　原段 " + show(src_scope) + "；经文 " + show(ref_scope))
+    return lines
+
+
 def suggestions(db, source):
     # An explicit reference takes precedence over an inferred verbal parallel.
     notes = []
@@ -82,6 +103,8 @@ def suggestions(db, source):
                     break
             if notes:
                 break
+    if not notes and not supplied_version:
+        notes.extend(parallel_notes(db, author_prose(source)))
     terms = []
     for pattern, ref, wording, limit in ALLUSIONS:
         if re.search(pattern, source, re.I):

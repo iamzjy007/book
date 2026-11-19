@@ -47,7 +47,8 @@ def main():
     assert len({t['id'] for t in queue['tasks']}) == 51
     assert [t['order'] for t in queue['tasks']] == list(range(1, 52))
     for r in records:
-        assert digest((REPO / r['record_path']).read_bytes()) == r['record_sha256'], f'source record changed: {r["id"]}'
+        raw = (REPO / r['record_path']).read_bytes()
+        assert r['record_sha256'] in (digest(raw), digest(raw.replace(b'\r\n', b'\n'))), f'source record changed: {r["id"]}'
     completed = reviewed = total = active = 0
     bookrecords = {}
     known_slugs = {r['slug'] for r in records}
@@ -74,7 +75,7 @@ def main():
         assert units and len({u['id'] for u in units}) == len(units)
         assert len(units) == r['expected_units']
         translation = directory / 'translation.md'
-        parsed = blocks(translation.read_text()) if translation.exists() else {}
+        parsed = blocks(translation.read_text(encoding='utf-8')) if translation.exists() else {}
         assert set(parsed) <= {u['id'] for u in units}, f'unregistered translation blocks: {directory}'
         assert list(parsed) == [u['id'] for u in units if u['id'] in parsed], f'block order differs: {directory}'
         for u in units:
@@ -88,7 +89,7 @@ def main():
                 reviewed += 1
             elif u['id'] in parsed:
                 print(f'RECOVER: {directory.name}/{u["id"]} has text awaiting self review', file=sys.stderr)
-        review = (directory / 'review.md').read_text()
+        review = (directory / 'review.md').read_text(encoding='utf-8')
         for heading in ('B. 待核清单', 'C. 术语表增补建议', 'D. 本次所依据的底本信息'):
             assert heading in review
         assert r['next_unit'] == next((u['id'] for u in units if u['status'] != 'self_reviewed'), None)
@@ -132,7 +133,7 @@ def main():
     else:
         assert newqueue == queue, 'queue stale; run --refresh'
         assert newprogress == progress, 'progress stale; run --refresh'
-        assert (ROOT / 'CATALOG.md').read_text() == catalogtext, 'catalog stale; run --refresh'
+        assert (ROOT / 'CATALOG.md').read_text(encoding='utf-8') == catalogtext, 'catalog stale; run --refresh'
     print(json.dumps(dict(ok=True, records=110, candidates=51, completed_books=completed, reviewed_units=reviewed, registered_units=total, next_task=next_task, next_unit=next_unit), ensure_ascii=False))
 
 if __name__ == '__main__':

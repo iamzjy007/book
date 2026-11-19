@@ -4,6 +4,8 @@ from contextlib import closing
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 import sqlite3
+import shutil
+import subprocess
 import sys
 from tempfile import TemporaryDirectory
 from threading import Thread
@@ -35,14 +37,28 @@ class RevisionTests(unittest.TestCase):
         return db
 
     def test_trace_replays_from_book_sources(self):
+        # The edition from which the six review traces were collected.
+        snapshot = "3c7fa39b3b4c3a4c591ac9ea85dfcebdf1925ae6"
+        historical = {}
+        if shutil.which("git"):
+            present = subprocess.run(["git","cat-file","-e",snapshot],
+                                     cwd=ROOT,capture_output=True)
+            if present.returncode == 0:
+                names = ("Daily_Words_The_Lords_Glory_with_Lori","DYDI_Messages_Declaring_Your_Destiny")
+                for name in names:
+                    for suffix in ("","_zh"):
+                        filename = name+suffix+".txt"
+                        historical[filename] = subprocess.check_output(
+                            ["git","show",snapshot+":"+filename],cwd=ROOT).decode("utf-8-sig")
         for case in json.loads((ROOT/"revision-cases.json").read_text(encoding="utf-8")):
             with self.subTest(case=case["id"]):
                 base = ("Daily_Words_The_Lords_Glory_with_Lori" if case["book"]=="lori"
                         else "DYDI_Messages_Declaring_Your_Destiny")
                 for suffix,field in (("","source"),("_zh","baseline")):
                     f = ROOT.parent/(base+suffix+".txt")
-                    if f.is_file():
-                        part = f.read_text(encoding="utf-8-sig").split("# Chapter "+case["id"][-3:]+" · ",1)[1]
+                    if f.name in historical or (not suffix and f.is_file()):
+                        text = historical[f.name] if f.name in historical else f.read_text(encoding="utf-8-sig")
+                        part = text.split("# Chapter "+case["id"][-3:]+" · ",1)[1]
                         self.assertIn(case[field],part.split("# Chapter ",1)[0])
                 path = Path(self.temp.name)/(case["id"]+".db")
                 initialize(path,case["source"],case["baseline"],case["book"],case["protected"])
