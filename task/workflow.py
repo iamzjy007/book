@@ -3,6 +3,7 @@ import argparse
 import datetime
 import json
 import sqlite3
+import subprocess
 import sys
 from pathlib import Path
 from shared import TASK, REPO, STAGES, NOW, canon, enc, read, require, sha
@@ -241,8 +242,15 @@ def main():
             return
         else:
             require(db.execute('PRAGMA integrity_check').fetchone()[0]=='ok' and not list(db.execute('PRAGMA foreign_key_check')),'database integrity failure')
-            for file in db.execute('SELECT path,sha256 FROM baseline'):
-                require(sha(canon(REPO/file['path']))==file['sha256'],'legacy baseline changed: '+file['path'])
+            for file in db.execute('SELECT path,sha256,source_commit FROM baseline'):
+                reference = f"{file['source_commit']}:{file['path']}"
+                snapshot = subprocess.run(
+                    ['git', 'cat-file', 'blob', reference], cwd=REPO,
+                    capture_output=True,
+                )
+                require(snapshot.returncode == 0, 'cannot read legacy baseline: ' + reference)
+                digest = sha(snapshot.stdout.replace(b'\r\n', b'\n'))
+                require(digest == file['sha256'], 'legacy baseline hash mismatch: ' + reference)
             if a.stage=='translations':
                 if db.execute('PRAGMA user_version').fetchone()[0] >= 3:
                     from translation_reviews import verify
