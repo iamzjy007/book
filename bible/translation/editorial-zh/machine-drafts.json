@@ -1,0 +1,134 @@
+{
+  "c3N": {
+    "source_sha256": "5dfa8b2d4e670fbd39d0348d45ef74c4f45a558059b805cd20e7dfa11fb1f1af",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 26,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "de455943e8a968ce9146793ce2f971048862b034118146bfa404640901ee63ab"
+  },
+  "c54": {
+    "source_sha256": "2eba8e5c711b2ca686c9734747921546116770ce63565b5cf26a6a495610662c",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 19,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "ce5ae4efac1a1025b8af287faaed12e96d9d5aa29e3c74994fe4386a453d9f4a"
+  },
+  "c1JCM": {
+    "source_sha256": "ae51762d2895f417bef7364516082885a111720c798bb43f902940454febf0f9",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 17,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "794a3e432678dc5de3e76bb701c1bb967023c1c6977944168d65a3cd35c560b8"
+  },
+  "c1JDE": {
+    "source_sha256": "ef1f1170f6e7eb2eb2ef0527926e13aa6f369078167709fd458749f232591313",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 30,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "2a96e43789cede6f5857a415a03c5f9052c88410af9ab003d1e25e0503d24e47",
+    "reviewed_cells_sha256": "47a61a648729764fd6a2edfe544e6bc334bc9bce5f6d6c1bc7923a85a246bb62"
+  },
+  "c1JKA": {
+    "source_sha256": "f292e6f4ab4f9ccaafb7b9228be57c1b815487a62c558b8661b7c8420de12f12",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 10,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "07ae81950aadf567f52e9b5a6b7c4126f3fe0d75689653e86cb540bea31a0932"
+  },
+  "c1JKV": {
+    "source_sha256": "f99eb6df4ad9f590ac8528f99c243d743baa977a630df0cfce3e9f5b04fce307",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 16,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "9d529e3f4252719e564a6ece8c9e4ebee8295f627c19955f65877b788de67352",
+    "reviewed_cells_sha256": "fb7ed27e42a255f50186196a7c243c024905152f150fa3579abfc041a7584fcb"
+  },
+  "c1JNN": {
+    "source_sha256": "ea3197cd16d3597fb0dd2a5288553ab478944f0f9e6553ae3af550e576b78656",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 35,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "9e18e21ba294a8b7b5549c931cbf03dab1ce22d0ef304ee4a585511ec8ab0875",
+    "reviewed_cells_sha256": "6cc52813d04d29b321cd70306d72390126bf2092d4dbd098dc3d3560d89226ed"
+  },
+  "c1JSA": {
+    "source_sha256": "025a25e555d5b239524e87c035d2c329c06a8e23e642cb1024c4aa5ef039d49d",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 10,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "6b31fdee283f4de1f6b980e002eb060281b511a84a5d425cfdc7573228e3daf0"
+  },
+  "c1JSX": {
+    "source_sha256": "8f7e9a27f5fe9b011158e6b8a66e434508b9023d85ea39b64f7501282530cf97",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 20,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "85fd369b116da48845263bc7cc16181de496b0935f03dcff178cfbc6c645842d"
+  },
+  "c1JU0": {
+    "source_sha256": "4763c32a92f930735152713a48736e881434523e0440e31770c671497040aaf1",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 31,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "324975124fca0f8166bbd982e5d472ed67d9661c82d0c4b2facec1fb98dae09f",
+    "reviewed_cells_sha256": "19643042870b89527f52be36e2f4cc55fb8d4a1e0713a1a8240cabdaa8ea0067"
+  },
+  "c1K72": {
+    "source_sha256": "3699d6fa602f7890005a42bcf6c1f5b94c14e2834ce70020bb1a3877253267ed",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 36,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "93c7570b12900b57617ba535cdfa6da5ab0d398a5eae62559c1dbf12812cac9c",
+    "reviewed_cells_sha256": "f46cf57b94112f9f75835e01beab8c6d8456a542d2930e8e28b3f4216bc4aec0"
+  },
+  "c1KE2": {
+    "source_sha256": "afb157282056e5f5ec974ddacb7f412c510c3ce4e079f7a2a207e2258da775bf",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 78,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "75e92a6bb2ff1a5ef478a2fc44fbbfc822376f376326a6ca2926393afa4758d1",
+    "reviewed_cells_sha256": "ebda384ad6f87096c1d809c96ae6cc15a14c631568956c3f74e35365a5f3279d"
+  },
+  "c1KWZ": {
+    "source_sha256": "387062d45e5bb94090cb666f40cb1447a4361ef190eaa49d425b8ed20387cdbc",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 190,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "8ccb80f0a90dae95fd0b17b16a30ad6b4e7bba733df56e6d142e4b3d2d2f6b80"
+  },
+  "c1M32": {
+    "source_sha256": "fdb71f8af7d8869f169db2b22ec6ac59b10433b75c54bc64c9235200a0c1584e",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 7,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "3c0bdaec89db350c33795febf87f7558a6d091fe12c6b62bfd4facc611532a5a"
+  },
+  "c1M3H": {
+    "source_sha256": "ff7ba6b91e136a7efefc04b1edceeba3a374970f9cb58fad5826d783d7bff1d9",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 42,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "c71c189a8fc92f8d361d0ecfe37118d803d05015389fa1fef24132a97eb0c177"
+  },
+  "c1M56": {
+    "source_sha256": "60d5380812770cfabd95b58477485802bbdbef167259d6fdc39a3ba6aa71b746",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 49,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "3a2ae3b1f7cd491d59ce2e74571d6dafc2a1aa515c4faaf2492f17393bc4a55f"
+  },
+  "c1M6Y": {
+    "source_sha256": "0c2adcb6981ee57a89d3341327500a0b24f85697030577914a0368b178cf5a1a",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 15,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "82135868247cdad94091cede5ef91b15b49f78a22e218239fa3e4a64f5cd75f4"
+  },
+  "c1M7K": {
+    "source_sha256": "a7103cb206a511d9d4280df36a52defafd3b4d6f9f0a0860df82088aaab802a8",
+    "model": "Argos EN→ZH 1.9",
+    "blocks": 26,
+    "review": "bilingual_reviewed",
+    "reviewed_text_sha256": "fc49ce895a28bfdfea6d0820d635cc64775391430c0f9d902085505d63333fc4"
+  }
+}
