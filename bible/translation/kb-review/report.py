@@ -58,7 +58,7 @@ def make_report(cache=None):
         f"对 {nphrases:,} 个正文与说明段另运行了全经词语检索，{nhits:,} 段返回带独立邻词的参考经节。例如《多比传》8:5 把荣耀、名、称颂、永远连在一起，可与诗篇 72:19 对读。这里的中文原已贴切，予以保留。另有两类误触：分出一份贡税时的 portion、食物使人有力时的 strength。实测后已[修订知识库](https://github.com/iamzjy007/book/commit/{ledger['framework_revision']})，并使已有版本说明能逐轮传给审校模型。",
         "保留了底本自身的文体和异文。《禧年书》3:6 的“骨中的骨，肉中的肉”与创世记吻合，沿用现译。《雅煞珥书》谱系中的 Shiloh 指人时译“示拉”，作地名时译“示罗”。书中已有的特例按原项目词表核对。神亲口说话用第一人称；叙事者、祷告者、书信作者及引语各守原有声音。",
         "本版把《耶利米书信》置于《巴录一书》第五章后，另立标题并从第 1 节重新编号。因此 21 部作品见于 20 份 TXT。《雅煞珥书》对应本目录的英文底本译稿；另存的希伯来文校订版有独立校勘记录。",
-        "可在仓库根目录运行 `python -B -X utf8 bible/translation/kb-review/reconcile.py`，重新与英文锚点、正式段稿及二十份 TXT 核对。[本项目的专名及特例](../glossary.json) · [编译式多轮审校研究](../../../translation-kb/专项研究.md) · [本地语义模型资料](https://huggingface.co/intfloat/multilingual-e5-small)。",
+        "可在仓库根目录运行 `python -B -X utf8 bible/translation/kb-review/reconcile.py`，重新与英文锚点、正式段稿及二十份 TXT 核对。[本项目的专名及特例](../glossary.json) · [编译式多轮审校研究](../../../translation-kb/research/专项研究.md) · [本地语义模型资料](https://huggingface.co/intfloat/multilingual-e5-small)。",
         f"英文 EPUB 的 SHA-256 为 `{ledger['epub_sha256']}`。",
     ])
     reader=ledger.get("reader")

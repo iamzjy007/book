@@ -3,7 +3,7 @@ import re
 from functools import lru_cache
 from math import isqrt
 
-from parallel_text import content
+from kb.parallel_text import content
 
 
 def echoes(db, focus):

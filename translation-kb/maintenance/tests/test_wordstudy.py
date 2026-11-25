@@ -4,7 +4,7 @@ import unittest
 
 from lookup import chapter, packet
 from scripture import suggestions
-from wordstudy import ROOT, lookup, packet_notes
+from kb.wordstudy import ROOT, lookup, packet_notes
 
 
 class ScriptureUsage(unittest.TestCase):
@@ -43,7 +43,7 @@ class ScriptureUsage(unittest.TestCase):
         self.assertNotIn("腓立比书 4:7",notes)
 
     def test_material_portion_and_bodily_strength(self):
-        from wordstudy import match_senses, senses
+        from kb.wordstudy import match_senses, senses
         entries=senses(self.db)
         for source,ref in (
             ("From the tribute give a portion for the sacrifices of the Lord.","诗篇 73:26"),

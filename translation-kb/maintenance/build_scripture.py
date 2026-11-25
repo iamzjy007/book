@@ -6,9 +6,11 @@ import re
 import sqlite3
 import zipfile
 from pathlib import Path
-from wordstudy import install as install_wordstudy
+from kb import DB, SOURCES
+from kb.grammar import install_patterns
+from kb.term_store import check_store
+from kb.wordstudy import install_indexes, install_senses
 
-ROOT = Path(__file__).resolve().parent
 EDITIONS = ("cmn-cu89s", "engwebp")
 
 
@@ -50,33 +52,60 @@ def load(db, directory, edition):
         raise ValueError("尚有未识别的经节")
 
 
+def install_terms(db):
+    rows = []
+    source = SOURCES / "scripture-terms.txt"
+    for line in source.read_text(encoding="utf-8-sig").splitlines():
+        if not line or line.startswith("#"):
+            continue
+        kind, en, zh, code, ref = line.split("|")
+        ch, verse = map(int, ref.split(":"))
+        editions = dict(db.execute(
+            "SELECT edition,text FROM verses WHERE code=? AND ch=? AND first<=? AND last>=?",
+            (code, ch, verse, verse)))
+        if not (en and zh and re.search(r"\b"+re.escape(en)+r"\b", editions.get("engwebp", ""), re.I)
+                and zh in editions.get("cmn-cu89s", "")):
+            raise ValueError(f"底本未找到指定措辞：{line}")
+        rows.append((en, zh, kind, code, ch, verse))
+    if not rows:
+        raise ValueError("scripture-terms.txt 缺少译名与搭配")
+    db.execute("CREATE TABLE IF NOT EXISTS terms(en TEXT, zh TEXT, kind TEXT, code TEXT, ch INTEGER, v INTEGER, PRIMARY KEY(en,zh))")
+    db.execute("DELETE FROM terms")
+    db.executemany("INSERT INTO terms VALUES (?,?,?,?,?,?)", rows)
+
+
+def install_reference_tables(db):
+    install_terms(db)
+    install_senses(db)
+    install_patterns(db)
+
+
 def main():
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("archives", type=Path)
+    parser = argparse.ArgumentParser(description="重建英中经文，或单独将三份编辑底稿同步到知识库。")
+    parser.add_argument("archives", type=Path, nargs="?", help="包含四个底本 ZIP 的目录")
+    parser.add_argument("--refresh-rules", action="store_true", help="仅同步译名、词义与句法三表")
     args = parser.parse_args()
-    with closing(sqlite3.connect(ROOT / "bible-style.sqlite3")) as db, db:
+    if (args.archives is None) != args.refresh_rules:
+        parser.error("请指定底本 ZIP 目录，或单独使用 --refresh-rules")
+    mode = "rw" if args.refresh_rules else "rwc"
+    with closing(sqlite3.connect(DB.as_uri()+"?mode="+mode, uri=True)) as db, db:
         db.execute("BEGIN IMMEDIATE")
-        for table in ("quotes", "verses", "books", "sources", "terms"):
+        if args.refresh_rules:
+            install_reference_tables(db)
+            return
+        for table in ("quotes", "verses", "books", "sources"):
             db.execute(f"DROP TABLE IF EXISTS {table}")
         db.execute("CREATE TABLE sources(edition, archive PRIMARY KEY, sha256)")
         db.execute("CREATE TABLE books(edition, code, usfm, name, PRIMARY KEY(edition,code))")
         db.execute("CREATE TABLE verses(edition TEXT,code TEXT,ch INTEGER,first INTEGER,last INTEGER,text TEXT,PRIMARY KEY(edition,code,ch,first))")
         db.execute("CREATE VIRTUAL TABLE quotes USING fts5(text,content='verses',content_rowid='rowid')")
-        db.execute("CREATE TABLE terms(en TEXT, zh TEXT, kind TEXT, code TEXT, ch INTEGER, v INTEGER, PRIMARY KEY(en,zh))")
         for edition in EDITIONS:
             load(db, args.archives, edition)
         db.execute("INSERT INTO quotes(rowid,text) SELECT rowid,text FROM verses WHERE edition='engwebp' AND text<>''")
-        # Keep only explicit mappings with evidence in both editions at the supplied reference.
-        for line in (ROOT / "scripture-terms.txt").read_text(encoding="utf8").splitlines():
-            if not line or line.startswith("#"):
-                continue
-            kind, en, zh, code, ref = line.split("|")
-            ch, verse = map(int, ref.split(":"))
-            editions = dict(db.execute("SELECT edition,text FROM verses WHERE code=? AND ch=? AND first<=? AND last>=?", (code,ch,verse,verse)))
-            if not re.search(r"\b"+re.escape(en)+r"\b", editions["engwebp"], re.I) or zh not in editions["cmn-cu89s"]:
-                raise ValueError(line)
-            db.execute("INSERT INTO terms VALUES (?,?,?,?,?,?)", (en,zh,kind,code,ch,verse))
-        install_wordstudy(db)
+        install_reference_tables(db)
+        install_indexes(db)
+        if db.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name='idiom'").fetchone():
+            check_store(db)
 
 
 if __name__ == "__main__":

@@ -10,7 +10,7 @@ import sys
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
 from lookup import packet
-from parallel_text import best_parallel, content
+from kb.parallel_text import best_parallel, content
 from scripture import DB
 
 NAMES = "Gen|Exod|Lev|Num|Deut|Josh|Judg|Ruth|1 Sam|2 Sam|1 Kgs|2 Kgs|1 Chr|2 Chr|Ezra|Neh|Esth|Job|Ps|Prov|Eccl|Song|Isa|Jer|Lam|Ezek|Dan|Hos|Joel|Amos|Obad|Jonah|Mic|Nah|Hab|Zeph|Hag|Zech|Mal|Matt|Mark|Luke|John|Acts|Rom|1 Cor|2 Cor|Gal|Eph|Phil|Col|1 Thess|2 Thess|1 Tim|2 Tim|Titus|Phlm|Heb|Jas|1 Pet|2 Pet|1 John|2 John|3 John|Jude|Rev".split("|")
@@ -47,7 +47,7 @@ if __name__ == "__main__":
         parser.error("--focus 必须逐字取自原文")
     result = packet(source,"other")
     if args.focus:
-        from phrase_echo import echoes
+        from research.phrase_echo import echoes
         with closing(sqlite3.connect(DB.as_uri()+"?mode=ro",uri=True)) as db:
             notes = echoes(db, args.focus)
         if notes:

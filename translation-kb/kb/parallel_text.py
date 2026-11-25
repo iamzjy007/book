@@ -2,7 +2,7 @@
 from dataclasses import dataclass
 import re
 
-from wordstudy import STOP, WEAK_CLUES, FORMS, WORD
+from .wordstudy import STOP, WEAK_CLUES, FORMS, WORD
 
 
 def content(text):

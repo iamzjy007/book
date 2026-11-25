@@ -12,7 +12,7 @@ from threading import Thread
 import unittest
 from unittest.mock import patch
 
-from grammar import diagnostics
+from kb.grammar import diagnostics
 from lookup import ROOT
 from revision import apply_response, chinese_chapter, initialize, protected_text, request, run, state
 
@@ -50,7 +50,7 @@ class RevisionTests(unittest.TestCase):
                         filename = name+suffix+".txt"
                         historical[filename] = subprocess.check_output(
                             ["git","show",snapshot+":"+filename],cwd=ROOT).decode("utf-8-sig")
-        for case in json.loads((ROOT/"revision-cases.json").read_text(encoding="utf-8")):
+        for case in json.loads((ROOT/"research"/"revision-cases.json").read_text(encoding="utf-8")):
             with self.subTest(case=case["id"]):
                 base = ("Daily_Words_The_Lords_Glory_with_Lori" if case["book"]=="lori"
                         else "DYDI_Messages_Declaring_Your_Destiny")

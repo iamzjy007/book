@@ -10,10 +10,12 @@ import sqlite3
 import subprocess
 import sys
 
-from grammar import review_notes, paragraphs
-from lookup import ROOT, chapter, normalize, packet
+from kb import DB
+from kb.grammar import review_notes, paragraphs
+from lookup import chapter, normalize, packet
 from scripture import references
-from echo_guard import check_edit
+from kb.echo_guard import check_edit
+from check_terms import audit, review_lines
 
 PHASES = ("语义与经文", "句法与朗读", "定稿对照")
 INSTRUCTIONS = (
@@ -43,7 +45,7 @@ def protected_text(source, draft, literals, book):
         raise ValueError("指定保留的措辞须存在于初稿")
     # Find actual Chinese quotations even when spacing or punctuation differs
     # from the electronic edition. Keep the original draft's exact wording.
-    with closing(sqlite3.connect((ROOT/"bible-style.sqlite3").as_uri()+"?mode=ro", uri=True)) as kb:
+    with closing(sqlite3.connect(DB.as_uri()+"?mode=ro", uri=True)) as kb:
         heading = re.search(r"(?m)^# Chapter (\d+) · ",source)
         for pattern,wording,origin in kb.execute(
             "SELECT pattern,advice,origin FROM rules WHERE book=? AND origin LIKE '用户复评%'",(book,)):
@@ -112,6 +114,7 @@ def request(db):
                 editorial_notes=notes,
                 source=paragraphs(job["source"]), draft=paragraphs(job["draft"]),
                 passage_guide=packet(job["source"],job["book"]).partition("## 待译原文\n")[0],
+                term_review=(review_lines(audit(job["source"],job["draft"],job["book"])) if phase != 1 else []),
                 syntax=review_notes(job["source"],phase), protected=json.loads(job["locks"]), history=history,
                 response_format={
                     "request_id":"照抄本次 request_id", "edits":[{
@@ -142,7 +145,7 @@ def apply_response(db, reply):
             raise ValueError("edits 应为数组")
         original, target = paragraphs(job["source"]), paragraphs(job["draft"])
         replacements = {}
-        for e in edits:
+        for edit_index,e in enumerate(edits,1):
             if not isinstance(e,dict) or e.get("category") not in CATEGORIES:
                 raise ValueError("修改类别无效")
             if any(not isinstance(e.get(k),str) or not e[k].strip() for k in FIELDS):
@@ -150,8 +153,10 @@ def apply_response(db, reply):
             s,t = e.get("source_p"),e.get("target_p")
             if type(s)!=int or type(t)!=int or not 1<=s<=len(original) or not 1<=t<=len(target):
                 raise ValueError("段号无效")
-            if e["source"] not in original[s-1] or target[t-1].count(e["before"]) != 1:
-                raise ValueError("英文证据或中文替换位置无法定位")
+            if e["source"] not in original[s-1]:
+                raise ValueError(f"第{edit_index}处英文证据无法定位：source须逐字复制source_p={s}段的连续原文，不得改动标点或省略")
+            if target[t-1].count(e["before"]) != 1:
+                raise ValueError(f"第{edit_index}处中文替换位置无法定位：before须逐字复制target_p={t}段内唯一片段，不得改标点或概括；段号包含标题与日期")
             if e["before"] == e["after"] or "\n" in e["after"] or "\r" in e["after"]:
                 raise ValueError("请提交段内实际发生的修改")
             start = target[t-1].index(e["before"])

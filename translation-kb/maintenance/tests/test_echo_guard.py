@@ -1,6 +1,11 @@
+from contextlib import closing
+from pathlib import Path
+import sqlite3
+from tempfile import TemporaryDirectory
 import unittest
+from unittest.mock import patch
 
-from echo_guard import check_edit
+from kb.echo_guard import canonical_names, check_edit
 
 
 class EchoTests(unittest.TestCase):
@@ -22,9 +27,25 @@ class EchoTests(unittest.TestCase):
         check_edit(self.source, self.draft, "眼睛", "眼目", "核实措辞")
 
     def test_name(self):
-        with self.assertRaisesRegex(ValueError, "西奈"):
+        with self.assertRaisesRegex(ValueError, "西奈.*EXO 16:1"):
             check_edit("on Sinai", "在西奈山上", "奈", "乃", "照前文")
         check_edit("on Mount Sinai", "在西乃山", "乃", "奈", "依专名表")
+
+    def test_names_follow_current_database(self):
+        with TemporaryDirectory() as folder:
+            path = Path(folder) / "bible-style.sqlite3"
+            with closing(sqlite3.connect(path)) as db, patch("kb.echo_guard.DB", path):
+                db.execute("CREATE TABLE terms(en, zh, kind, code, ch, v)")
+                db.executemany("INSERT INTO terms VALUES (?,?,?,?,?,?)", [
+                    ("Sinai", "西奈", "地名", "EXO", 16, 1),
+                    ("green pastures", "青草地上", "搭配", "PSA", 23, 2),
+                    ("Adam", "亚当", "人名", "GEN", 3, 17),
+                ])
+                db.commit()
+                self.assertEqual([zh for _, zh, _ in canonical_names()], ["西奈", "亚当"])
+                db.execute("DELETE FROM terms WHERE en='Adam'")
+                db.commit()
+                self.assertEqual([zh for _, zh, _ in canonical_names()], ["西奈"])
 
     def test_peoples(self):
         source = "the destinies of every nation and tongue"

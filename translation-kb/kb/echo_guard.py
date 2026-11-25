@@ -2,15 +2,16 @@
 from contextlib import closing
 from difflib import SequenceMatcher
 from functools import lru_cache
-from pathlib import Path
 import re
 import sqlite3
 
 
+from . import DB
+
+
 @lru_cache(maxsize=2048)
 def candidates(fragment):
-    path = Path(__file__).with_name("bible-style.sqlite3")
-    with closing(sqlite3.connect(path.as_uri() + "?mode=ro", uri=True)) as db:
+    with closing(sqlite3.connect(DB.as_uri() + "?mode=ro", uri=True)) as db:
         rows = db.execute("""
             SELECT z.code, z.ch, z.first, z.text, e.text FROM verses z
             LEFT JOIN verses e ON (e.code,e.ch,e.first)=(z.code,z.ch,z.first)
@@ -20,16 +21,14 @@ def candidates(fragment):
     return rows if len(rows) <= 32 else []
 
 
-@lru_cache(maxsize=1)
 def canonical_names():
-    names = []
-    for line in Path(__file__).with_name("scripture-terms.txt").read_text("utf-8-sig").splitlines():
-        fields = line.split("|")
-        if len(fields) == 5 and fields[0] in ("人名", "地名"):
-            kind, english, chinese, book, verse = fields
-            names.append((re.compile(r"\b" + re.escape(english) + r"\b", re.I),
-                          chinese, f"{book} {verse}"))
-    return names
+    with closing(sqlite3.connect(DB.as_uri() + "?mode=ro", uri=True)) as db:
+        rows = db.execute("""
+            SELECT en, zh, code, ch, v FROM terms
+            WHERE kind IN ('人名', '地名') ORDER BY rowid
+        """)
+        return [(re.compile(r"\b" + re.escape(en) + r"\b", re.I), zh, f"{code} {ch}:{v}")
+                for en, zh, code, ch, v in rows]
 
 
 def check_wording(source, draft, revised, before, after, reason):

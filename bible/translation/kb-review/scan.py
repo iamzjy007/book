@@ -14,8 +14,8 @@ TRANSLATION = HERE.parent
 KB = TRANSLATION.parents[1]/"translation-kb"
 sys.path[:0] = [str(TRANSLATION),str(KB)]
 import pipeline
-import wordstudy
-from grammar import diagnostics
+from kb import wordstudy
+from kb.grammar import diagnostics
 
 SELECTION = {1,3,5,6,7,8,9,10,11,12,13,14,15,17,18,19,43,52,84,89}
 ANCIENT = re.compile("汝|尔等|尔曹|汝辈|焉|兮|矣|繄|欤|岂曰|盖因|夫惟|乃[是以当如]")
@@ -54,7 +54,7 @@ def build(cache):
                             label=en
                         hits=wordstudy.match_senses(entries,en)
                         terms=[dict(ref=e.ref,en=frag,zh=e.zh,note=e.usage) for e,frag in hits[:4]]
-                        syn=[h["rule"] for h in diagnostics(en)]
+                        syn=[h["rule"] for h in diagnostics(en, kb)]
                         flags=[]
                         if ANCIENT.search(zh):flags.append("文言")
                         if CALQUE.search(zh):flags.append("搭配")

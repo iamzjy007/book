@@ -6,15 +6,14 @@ from functools import lru_cache
 from math import log2
 import re
 import sqlite3
-from pathlib import Path
+from . import DB, ROOT, SOURCES
 
-ROOT = Path(__file__).resolve().parent
 PSALMS = {"PSA"}
 WISDOM = {"JOB", "PRO", "ECC", "SOL"}
 PAUL = set("ROM 1CO 2CO GAL EPH PHI COL 1TH 2TH 1TI 2TI TIT PHM".split())
 NEW = PAUL | set("MAT MAR LUK JOH ACT HEB JAM 1PE 2PE 1JO 2JO 3JO JUD REV".split())
 GROUPS = {"psalms": PSALMS, "wisdom": WISDOM, "paul": PAUL, "nt": NEW}
-PREFERRED = PSALMS | WISDOM | PAUL
+POETRY = PSALMS | WISDOM
 
 # Conservative morphology. Pronouns, prepositions and word order still participate
 # in the sense patterns. The FTS concordance separately provides Porter stemming.
@@ -149,10 +148,9 @@ def build_collocations(db):
             db.executemany("INSERT INTO word_examples VALUES (?,?)", ((key,i) for i in ids))
 
 
-def install(db):
-    db.execute("DROP TABLE IF EXISTS word_senses")
-    db.execute("CREATE TABLE word_senses(code TEXT,ch INTEGER,v INTEGER,en TEXT,zh TEXT,variants TEXT,cues TEXT,exclude TEXT,usage TEXT,PRIMARY KEY(code,ch,v,en))")
-    for line in (ROOT / "word-senses.txt").read_text(encoding="utf8").splitlines():
+def install_senses(db):
+    rows = []
+    for line in (SOURCES / "word-senses.txt").read_text(encoding="utf-8-sig").splitlines():
         if not line or line.startswith("#"):
             continue
         ref, en, zh, variants, cues, exclude, usage = line.split("|")
@@ -160,9 +158,22 @@ def install(db):
         ch, v = map(int,cv.split(":"))
         pair = db.execute("SELECT edition,text FROM verses WHERE code=? AND ch=? AND first<=? AND last>=?",(code,ch,v,v)).fetchall()
         pair = dict(pair)
-        if en.casefold() not in pair["engwebp"].casefold() or zh not in pair["cmn-cu89s"]:
+        if not en or not zh or en.casefold() not in pair.get("engwebp", "").casefold() or zh not in pair.get("cmn-cu89s", ""):
             raise ValueError(f"底本未找到指定措辞：{line}")
-        db.execute("INSERT INTO word_senses VALUES (?,?,?,?,?,?,?,?,?)",(code,ch,v,en,zh,variants,cues,exclude,usage))
+        rows.append((code,ch,v,en,zh,variants,cues,exclude,usage))
+    if not rows:
+        raise ValueError("word-senses.txt 缺少词义条目")
+    db.execute("CREATE TABLE IF NOT EXISTS word_senses(code TEXT,ch INTEGER,v INTEGER,en TEXT,zh TEXT,variants TEXT,cues TEXT,exclude TEXT,usage TEXT,PRIMARY KEY(code,ch,v,en))")
+    db.execute("DELETE FROM word_senses")
+    db.executemany("INSERT INTO word_senses VALUES (?,?,?,?,?,?,?,?,?)", rows)
+
+
+def install(db):
+    install_senses(db)
+    install_indexes(db)
+
+
+def install_indexes(db):
     db.execute("DROP TABLE IF EXISTS word_concordance")
     db.execute("CREATE VIRTUAL TABLE word_concordance USING fts5(text, tokenize='porter unicode61',content='')")
     db.execute("INSERT INTO word_concordance(rowid,text) SELECT rowid,text FROM verses WHERE edition='engwebp' AND text<>''")
@@ -345,8 +356,11 @@ def discover(db, text, used, used_refs):
                     if not shared or (len(shared)==1 and (not weights[key][1] or frequencies[shared[0]][0]>100)):
                         continue
                     gains = [log2(total/frequencies[w][0]) for w in shared[:3]]
-                    score = (sum(gains) + min(5,log2(max(1,weights[key][1]))),
-                             code in PREFERRED, code in NEW, -len(row[4]))
+                    # Register matters among comparable lexical leads. One rare
+                    # local anchor carries more weight than this genre prior.
+                    register = 3 if code in NEW else 1 if code in POETRY else 0
+                    score = (sum(gains) + min(5,log2(max(1,weights[key][1]))) + register,
+                             -len(row[4]))
                     if best is None or score > best[0]:
                         best = score,fragment,shared,row
     return best
@@ -422,6 +436,6 @@ def lookup(db, query, group=None, context=False):
 
 
 if __name__ == "__main__":
-    with closing(sqlite3.connect(ROOT / "bible-style.sqlite3")) as db, db:
+    with closing(sqlite3.connect(DB.as_uri() + "?mode=rw", uri=True)) as db, db:
         db.execute("BEGIN IMMEDIATE")
         install(db)

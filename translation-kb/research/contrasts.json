@@ -54,5 +54,21 @@
     "faithful": "给那提水的妇人开门。",
     "foil": "当为那提水之妇启其门。",
     "criterion": "普通叙事保留直接和自然的称呼，不因文献属基督教就增加文言虚词。"
+  },
+  {
+    "id": "armor-possession",
+    "control": "词义",
+    "source": "You wear My armor.",
+    "faithful": "你们穿戴我的军装。",
+    "foil": "你们穿戴我的盔甲。",
+    "criterion": "在此属灵劝勉中，检验审校是否提示以弗所书的军装。"
+  },
+  {
+    "id": "armor-of-light",
+    "control": "词义",
+    "source": "Let us put on the armor of light.",
+    "faithful": "我们当带上光明的兵器。",
+    "foil": "我们当带上光明的军装。",
+    "criterion": "同一英文词在罗马书的完整搭配中取“光明的兵器”。"
   }
 ]

@@ -2,7 +2,7 @@ from contextlib import closing
 import sqlite3
 import unittest
 
-from parallel_text import best_parallel, scope_terms
+from kb.parallel_text import best_parallel, scope_terms
 from scripture import DB, parallel_notes
 
 

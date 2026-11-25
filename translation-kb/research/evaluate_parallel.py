@@ -10,7 +10,7 @@ import sqlite3
 import sys
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from parallel_text import ranked
+from kb.parallel_text import ranked
 from scripture import DB
 
 KJV_SHA = "f0b09dc49dfb97bb84f03aae1fbf026485048c3cab31a7a41017e2d86ac1d11c"
