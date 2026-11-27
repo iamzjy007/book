@@ -169,7 +169,12 @@ def translation_save(db,p,book):
         nonempty(p,'reason')
         status=op
     elif op in ('draft','self_reviewed','revise'):
-        u=db.execute('SELECT * FROM unit WHERE book_id=? AND id=?',(rid,p['unit'])).fetchone() if op=='revise' else next_unit(db,rid)
+        if op=='revise':
+            u=db.execute('SELECT * FROM unit WHERE book_id=? AND id=?',(rid,p['unit'])).fetchone()
+        elif op=='draft' and p.get('next_pending') is True:
+            u=db.execute("SELECT * FROM unit WHERE book_id=? AND status='pending' ORDER BY seq LIMIT 1",(rid,)).fetchone()
+        else:
+            u=next_unit(db,rid)
         require(book['edition_json'] and u and u['id']==p['unit'],'save first unfinished frozen unit')
         if op=='revise':
             require(u['body'] and p['expected_body_sha256']==u['body_sha256'],'revision targets stale text')

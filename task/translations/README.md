@@ -35,3 +35,5 @@ SELECT rank,title,book_id,status,next_action FROM priority_queue ORDER BY rank;
 ## 多模型审校升级
 
 当前翻译库已升级 v3。Luna 初译、Astra 对照审校和修订的请求格式、版本规则及恢复方法见 [REVIEW.md](REVIEW.md)。
+
+连续录入长书初译时，`draft` 请求可加 `"next_pending": true`，按冻结顺序把下一段尚无译文的单元存为草稿。`resume` 仍指向最早尚未自校的单元，供之后逐段复核。金·克莱门特各项的底本、译文和交付进度见[作品翻译目录](kim-clement/README.md)。
